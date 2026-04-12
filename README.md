@@ -1,48 +1,256 @@
-# Claude Code Marketplace
+# Claude Code 插件市场 (Claude Marketplace)
 
-A collection of Claude Code plugins.
+> 为 Claude Code 提供一系列精选插件，涵盖教学、开发效率等多个场景，让 AI 助手更懂你。
 
-## Install
+## 项目概述
 
-```bash
-/plugin marketplace add https://github.com/YOUR_USERNAME/claude-marketplace
+本仓库是一个 **Claude Code 插件集合**，旨在为 Claude Code 用户提供开箱即用的高质量插件。
+
+随着 Claude Code 的生态发展，越来越多的场景可以通过插件来增强 AI 的能力。本项目将持续收录各类实用插件，你可以在此找到适合自己工作流的工具，并轻松一键安装。
+
+### 核心特性
+
+- **插件化架构**：每个插件独立目录，通过 Claude Code 的插件机制无缝集成
+- **即装即用**：一行命令完成安装，无需复杂配置
+- **持续更新**：插件库将不断扩充，覆盖更多使用场景
+- **社区共建**：欢迎提交 PR，一起完善插件生态
+
+## 目录结构
+
+```
+claude-marketplace/
+├── marketplace.json          # 插件市场索引文件（声明所有插件）
+├── LICENSE                   # MIT 开源协议
+├── README.md                # 本文件
+└── <plugin-name>/           # 插件目录（每个插件独立）
+    ├── .claude-plugin/
+    │   └── plugin.json       # 插件元信息
+    └── skills/              # 插件包含的技能
+        └── <skill-name>/
+            ├── SKILL.md      # 技能定义文件
+            └── *.md         # 风格/配置相关文件
 ```
 
-## Plugins
+> **注意**：随着项目发展，目录结构可能会调整。最新结构以本仓库为准。
 
-### socratic-teach
+## 插件列表
 
-A personalized teaching skill with **6 distinct teaching styles**. Adapts to each student's learning style through continuous observation and personalized guidance.
+### socratic-teach — 苏格拉底式教学插件
+
+一款个性化教学技能，通过持续观察学生的学习状态、认知水平和风格偏好，动态调整教学策略。融合苏格拉底提问法、费曼技巧、最近发展区（ZPD）等经典教学理论，同时内置 **6 种风格各异的人格模式**，让学习过程既有效又有趣。
+
+#### 安装
 
 ```bash
 /plugin install socratic-teach
 ```
 
-**Available styles:**
-
-| Style | Command | Description |
-|-------|---------|-------------|
-| 骚话御姐风 | `/teach 御姐` | Confident & elegant, flirty but professional |
-| 暴躁老哥风 | `/teach 暴躁` | Straight-talking, tough love |
-| 温柔学姐风 | `/teach 学姐` | Gentle & understanding |
-| 成熟教师风 | `/teach 教师` | Rigorous & structured |
-| 毒舌闺蜜风 | `/teach 闺蜜` | Roasting but supportive |
-| 程序员直男风 | `/teach 直男` | Zero废话, pure logic |
-
-**Example:**
+#### 快速开始
 
 ```bash
-/teach 御姐
-# Then just chat about any topic - the style adjusts to your conversation
+/teach 御姐          # 切换到御姐教学风格
+/teach 暴躁          # 切换到暴躁老哥风格
+/teach 学姐          # 切换到温柔学姐风格
+/teach 教师          # 切换到成熟教师风格
+/teach 闺蜜          # 切换到毒舌闺蜜风格
+/teach 直男          # 切换到程序员直男风格
 ```
 
-**Teaching methodology:**
-- Socratic questioning (never gives direct answers)
-- Zone of Proximal Development (ZPD)
-- Feynman technique (explain to an 8-year-old)
-- Continuous student profiling and adaptation
-- 6 question frameworks: clarification, assumption, evidence, perspective, consequence, metacognition
+选择风格后，直接开始聊天或提问，插件会自动以对应风格进行教学。
 
-## License
+#### 6 种教学风格一览
 
-MIT
+| 风格 | 命令 | 特点 | 适合人群 |
+|------|------|------|---------|
+| 骚话御姐风 | `/teach 御姐` | 自信优雅，轻撩但专业，掌控感强 | 喜欢被激励、喜欢有点挑战性互动的学习者 |
+| 暴躁老哥风 | `/teach 暴躁` | 直来直去，恨铁不成钢，高信息密度 | 需要一点压力推动、自律性稍弱的学习者 |
+| 温柔学姐风 | `/teach 学姐` | 轻声细语，善解人意，安全不紧张 | 初学者、容易紧张、害怕问傻问题的学习者 |
+| 成熟教师风 | `/teach 教师` | 严谨专业，循循善诱，结构清晰 | 喜欢系统性学习、重视知识体系的学习者 |
+| 毒舌闺蜜风 | `/teach 闺蜜` | 嘴上损人但心里在乎，共鸣感强 | 喜欢轻松氛围、在朋友式互动中学习的用户 |
+| 程序员直男风 | `/teach 直男` | 零废话，极简逻辑，只给最优解 | 喜欢直接、高效、不绕弯子的程序员群体 |
+
+#### 教学方法论
+
+socratic-teach 不只是换换语气那么简单，它背后有一套完整的教学体系：
+
+1. **苏格拉底式提问法** — 从不直接给答案，通过连续追问引导你自己想明白
+2. **最近发展区（ZPD）** — 始终在"跳一跳够得着"的难度教学，不过于简单也不过于超前
+3. **费曼检验** — 每学完一个概念，用"能否向一个8岁小孩解释清楚"来验证是否真正理解
+4. **学生画像持续迭代** — 每次教学后记录学生的理解情况、偏好风格，下次教学自动适配
+5. **6 类提问框架** — 澄清、假设、证据、视角、后果、元认知，循环使用让思考无死角
+
+#### 提问框架示例
+
+| 类型 | 示例 |
+|------|------|
+| 澄清类 | "你说的 XXX 是什么意思？能举个例子吗？" |
+| 假设类 | "如果这个前提不成立，会怎样？" |
+| 证据类 | "支持你这个观点的证据是什么？" |
+| 视角类 | "从另一个角度看，会是什么样？" |
+| 后果类 | "这样做会带来什么结果？" |
+| 元认知类 | "我们为什么要学这个？" |
+
+#### 工作原理
+
+插件加载时会读取 `student-profile.md`（学生画像），了解该学生的知识基础、学习风格和历史教学记录。然后：
+
+1. **激活先验知识** — 对照画像判断从哪里开始讲
+2. **制造知识缺口** — 从悖论、反直觉现象或实际问题切入激发好奇心
+3. **分步讲解** — 每次聚焦 1-2 个核心点，结合学生学习风格调整讲解方式
+4. **费曼检验** — 让学生用自己的话复述或举例
+5. **动态判断理解深度** — 通过学生回复判断是真的理解还是在敷衍
+6. **间隔确认** — "这部分清楚吗？有什么疑问？"
+7. **更新画像** — 教学结束后根据本次观察更新学生画像，为下次教学做准备
+
+#### 理解状态判断
+
+插件会实时分析学生的回复，决定下一步教学动作：
+
+| 学生回复 | 教学动作 |
+|---------|---------|
+| "懂了/明白了/会了" | 进入下一个知识点 |
+| "不清楚/不知道/卡住了" | 换角度重讲，补充更多例子 |
+| "继续/下一题" | 推进下一内容 |
+| 沉默/困惑 | 主动询问哪里卡住 |
+| 反馈教学方式 | 记录并动态调整 |
+
+#### 个性化适应规则
+
+插件会自动根据历史教学记录适配教学方式：
+
+- 学生喜欢简短回答 → 减少背景信息，直奔主题
+- 学生经常追问原理 → 默认从原理讲起
+- 学生喜欢先看代码 → 先给代码示例再解释原理
+- 学生在某概念多次卡住 → 画像标记为薄弱点，下次主动强化
+- 学生表示"太简单了" → 下次从更高起点开始
+- 学生不主动提问 → 主动问"这里有没有不清楚的地方？"
+
+#### 项目结构
+
+```
+socratic-teach/
+├── .claude-plugin/
+│   └── plugin.json          # 插件元信息
+└── skills/
+    └── teach/
+        ├── SKILL.md         # 核心教学逻辑与流程定义
+        ├── 御姐.md          # 御姐风格文件
+        ├── 暴躁.md          # 暴躁老哥风格文件
+        ├── 学姐.md          # 温柔学姐风格文件
+        ├── 教师.md          # 成熟教师风格文件
+        ├── 闺蜜.md          # 毒舌闺蜜风格文件
+        └── 直男.md          # 程序员直男风格文件
+```
+
+每个风格文件定义了对应的开场白、语气词、口头禅、回应模板和禁止用语。**教学规则和方法论以 `SKILL.md` 为准**，风格文件仅影响说话语气和人设表达。
+
+---
+
+## 插件开发指南
+
+如果你想为 Claude Code 开发新插件，可以参考以下流程：
+
+### 1. 创建插件目录
+
+在仓库根目录下创建新的插件文件夹：
+
+```
+/your-plugin/
+    ├── .claude-plugin/
+    │   └── plugin.json       # 必选，插件元信息
+    └── skills/
+        └── <your-skill>/
+            └── SKILL.md      # 必选，技能定义
+```
+
+### 2. 编写 plugin.json
+
+```json
+{
+  "name": "your-plugin-name",
+  "description": "插件描述",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": ["keyword1", "keyword2"],
+  "skills": ["./skills/"]
+}
+```
+
+### 3. 编写 SKILL.md
+
+```markdown
+---
+name: your-skill
+description: 技能描述
+type: skill
+user-invocable: true
+argument-hint: '[参数提示]'
+---
+
+# 技能名称
+
+技能的核心逻辑...
+```
+
+### 4. 更新 marketplace.json
+
+在 `plugins` 数组中添加新插件的条目：
+
+```json
+{
+  "name": "socratic-teach",
+  "description": "插件描述",
+  "source": "./socratic-teach",
+  "category": "education",
+  "homepage": "https://github.com/你的用户名/claude-marketplace"
+}
+```
+
+### 5. 提交并推送
+
+```bash
+git add .
+git commit -m "feat: add your-plugin-name plugin"
+git push
+```
+
+---
+
+## 安装插件市场
+
+将整个插件市场添加到你的 Claude Code 中：
+
+```bash
+/plugin marketplace add https://github.com/你的用户名/claude-marketplace
+```
+
+更新所有插件：
+
+```bash
+/plugin marketplace update
+```
+
+---
+
+## 参与贡献
+
+欢迎为仓库提交插件或改进现有功能！
+
+- **提交新插件**：按照上方"插件开发指南"创建新插件，提交 PR
+- **改进现有插件**：直接在对应目录下修改，提交 PR
+- **反馈问题**：提交 GitHub Issue
+
+---
+
+## 开源协议
+
+本项目基于 [MIT License](LICENSE) 开源。
+
+---
+
+## 更新日志
+
+### v1.0.0
+- 发布初始版本
+- 上线 `socratic-teach` 苏格拉底教学插件
+- 支持 6 种教学风格（御姐、暴躁、学姐、教师、闺蜜、直男）
