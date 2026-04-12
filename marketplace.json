@@ -1,0 +1,17 @@
+{
+  "name": "claude-marketplace",
+  "description": "A collection of Claude Code plugins focused on teaching and learning",
+  "owner": {
+    "name": "Your Name",
+    "email": "your@email.com"
+  },
+  "plugins": [
+    {
+      "name": "socratic-teach",
+      "description": "A Socratic teaching skill that adapts to each student's learning style through continuous observation and personalized guidance. Uses Feynman technique, ZPD, and spaced repetition.",
+      "source": "./socratic-teach",
+      "category": "education",
+      "homepage": "https://github.com/YOUR_USERNAME/claude-marketplace"
+    }
+  ]
+}
