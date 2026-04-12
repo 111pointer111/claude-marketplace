@@ -1,6 +1,6 @@
 {
   "name": "socratic-teach",
-  "description": "A Socratic teaching skill that adapts to each student's learning style through continuous observation and personalized guidance. Uses Feynman technique, ZPD, and spaced repetition.",
+  "description": "A personalized teaching skill with 6 distinct teaching styles (御姐/暴躁/学姐/教师/闺蜜/直男). Adapts to each student's learning style through continuous observation and personalized guidance. Uses Feynman technique, ZPD, and spaced repetition.",
   "version": "1.0.0",
   "license": "MIT",
   "keywords": [
