@@ -29,6 +29,7 @@ claude-marketplace/
     ├── .env                  # API Key 存储（不提交 Git）
     ├── .env.example          # 环境变量模板
     ├── README.md             # Skills 使用指南
+    ├── minimax/              # MiniMax CodingPlan 全模态 Skill
     ├── video-generation/     # 视频生成 Skill
     └── voice-synthesis/      # 配音合成 Skill
 ```
@@ -44,6 +45,12 @@ claude-marketplace/
 ## Skill 列表
 
 👉 [查看 Skills 总览](./skills/README.md)
+
+### minimax — MiniMax CodingPlan
+
+MiniMax 全模态 AI 能力包，覆盖文本、语音、视频、图像、音乐五大模态。
+
+👉 [查看详细文档](./skills/minimax/README.md)
 
 ### video-generation — 视频生成
 
@@ -92,6 +99,10 @@ claude-marketplace/
 本项目基于 [MIT License](LICENSE) 开源。
 
 ## 更新日志
+
+### v1.2.0
+- 新增 `minimax` Skill，覆盖 MiniMax CodingPlan 全模态模型（文本/TTS/视频/图像/音乐）
+- 更新 `.env.example`，新增 MiniMax 相关环境变量
 
 ### v1.1.0
 - 新增 `skills/` 目录及 Skills 框架

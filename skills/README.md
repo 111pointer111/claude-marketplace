@@ -15,9 +15,12 @@ skills/
 ├── .env                       # API Key 存储文件（不提交到 Git）
 ├── .env.example               # 环境变量模板
 ├── README.md                  # 本文件
+├── minimax/                   # MiniMax CodingPlan 全模态 Skill
+│   ├── SKILL.md
+│   └── README.md
 ├── video-generation/          # 视频生成 Skill
-│   ├── SKILL.md              # 核心指令文件
-│   └── README.md              # 使用文档
+│   ├── SKILL.md
+│   └── README.md
 └── voice-synthesis/           # 配音合成 Skill
     ├── SKILL.md
     └── README.md
@@ -47,6 +50,12 @@ skills/
 3. 读取验证配置成功后执行任务
 
 ## Skill 列表
+
+### minimax — MiniMax CodingPlan
+
+MiniMax 全模态 AI 能力包，涵盖文本、语音、视频、图像、音乐五大模态。
+
+👉 [查看详细文档](./minimax/README.md)
 
 ### video-generation — 视频生成
 
