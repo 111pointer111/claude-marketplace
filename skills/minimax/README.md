@@ -1,6 +1,6 @@
 # MiniMax — CodingPlan 全模态能力包
 
-封装了 MiniMax CodingPlan 支持的所有模型调用方法，覆盖文本、语音、视频、图像、音乐五大模态。
+封装了 MiniMax CodingPlan 支持的所有模型调用方法，覆盖文本、语音、视频、图像、音乐五大模态，以及 Token Plan MCP 服务。
 
 ## 模型一览
 
@@ -12,6 +12,7 @@
 | **视频生成** | Hailuo-2.3-Fast / Hailuo-2.3 | 文生视频，768P 6秒 |
 | **图像生成** | image-01 | 高质量文生图 |
 | **音乐生成** | Music-2.6 | 最长 5 分钟音乐 |
+| **MCP** | web_search / understand_image | 网络搜索 + 图片理解 |
 
 ## 安装
 
@@ -31,9 +32,18 @@ cp skills/.env.example skills/.env
 # MINIMAX_API_SECRET=你的SECRET       # 仅 TTS 需要
 ```
 
-### 2. 开始使用
+### 2. 配置 MCP（可选，推荐）
 
-配置好认证信息后，直接告诉我你想做什么：
+MCP 提供网络搜索和图片理解工具，配置后在 Claude Code 中可直接调用：
+
+```bash
+claude mcp add -s user MiniMax \
+  --env MINIMAX_API_KEY=你的API_KEY \
+  --env MINIMAX_API_HOST=https://api.minimaxi.com \
+  -- uvx minimax-coding-plan-mcp -y
+```
+
+### 3. 开始使用
 
 ```bash
 /minimax 你好，请介绍一下 MiniMax 的文本模型
@@ -42,6 +52,17 @@ cp skills/.env.example skills/.env
 /image 一只可爱的橘猫在阳光下睡觉
 /music 欢快的吉他弹唱，户外民谣风格
 ```
+
+## Token Plan MCP
+
+Token Plan 专属 MCP 提供两个工具：
+
+| 工具 | 功能 |
+|------|------|
+| `web_search` | 网络搜索，返回搜索结果和建议 |
+| `understand_image` | 图片理解，支持 URL 或本地文件（最大 20MB） |
+
+配置后在 Claude Code 中输入 `/mcp` 验证是否连接成功。
 
 ## 快速任务
 
@@ -52,6 +73,8 @@ cp skills/.env.example skills/.env
 | 视频生成 | `/video 赛博朋克风格的城市夜景` |
 | 图像生成 | `/image 未来感的机械臂在工厂作业` |
 | 音乐生成 | `/music 平静的钢琴曲，适合冥想` |
+| 网络搜索 | 直接说"帮我搜索 xxx"，MCP 自动调用 |
+| 图片理解 | 直接发图片并提问，MCP 自动分析 |
 
 ## API 调用示例
 
@@ -87,6 +110,6 @@ curl -X POST https://api.minimax.chat/v1/video_generation \
 
 ```
 minimax/
-├── SKILL.md      # 核心指令文件（所有模型调用方法）
+├── SKILL.md      # 核心指令文件（所有模型 + MCP 调用方法）
 └── README.md     # 本文件
 ```

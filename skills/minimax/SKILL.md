@@ -1,6 +1,6 @@
 ---
 name: minimax
-description: MiniMax CodingPlan — 封装 MiniMax 全模态模型的调用方法（文本/语音/视频/图像/音乐）
+description: MiniMax CodingPlan — 封装 MiniMax 全模态模型（文本/语音/视频/图像/音乐）+ Token Plan MCP（网络搜索/图片理解）
 type: skill
 user-invocable: true
 argument-hint: '[<任务描述>]'
@@ -38,6 +38,119 @@ MINIMAX_API_SECRET=你的SECRET    # 仅 TTS 等部分接口需要
 **Step 3 — 验证配置**
 
 告诉我"配置好了"，Skill 会读取 `.env` 验证认证信息。
+
+---
+
+## Token Plan MCP
+
+MiniMax Token Plan 提供专属 MCP 服务，包含**网络搜索**和**图片理解**两个工具。配置后可在 Claude Code 中直接调用，无需手动发 API 请求。
+
+### MCP 工具一览
+
+| 工具 | 功能 | 说明 |
+|------|------|------|
+| `web_search` | 网络搜索 | 根据查询词搜索网络，返回结果和相关建议 |
+| `understand_image` | 图片理解 | 分析图片内容，支持 URL 或本地文件路径 |
+
+### 前置准备
+
+**Step 1 — 订阅 Token Plan**
+
+前往 https://platform.minimaxi.com/subscribe/token-plan 订阅套餐，获取 API Key。
+
+**Step 2 — 安装 uvx**
+
+uvx 是运行 MCP 的必需工具：
+
+```bash
+# macOS / Linux
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# Windows
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+
+# 验证安装
+which uvx
+```
+
+**Step 3 — 在 Claude Code 中配置 MCP（一键安装）**
+
+在终端运行：
+
+```bash
+claude mcp add -s user MiniMax \
+  --env MINIMAX_API_KEY=你的API_KEY \
+  --env MINIMAX_API_HOST=https://api.minimaxi.com \
+  -- uvx minimax-coding-plan-mcp -y
+```
+
+或手动编辑 `~/.claude.json`，添加：
+
+```json
+{
+  "mcpServers": {
+    "MiniMax": {
+      "command": "uvx",
+      "args": ["minimax-coding-plan-mcp", "-y"],
+      "env": {
+        "MINIMAX_API_KEY": "你的API_KEY",
+        "MINIMAX_API_HOST": "https://api.minimaxi.com"
+      }
+    }
+  }
+}
+```
+
+**Step 4 — 验证配置**
+
+进入 Claude Code 后输入 `/mcp`，能看到 `web_search` 和 `understand_image`，说明配置成功。
+
+### understand_image 支持的格式
+
+| 格式 | 说明 |
+|------|------|
+| 输入方式 | HTTP/HTTPS URL 或本地文件路径 |
+| 支持格式 | JPEG、PNG、GIF、WebP |
+| 文件大小 | 最大 20MB |
+
+### Cursor / OpenCode 配置（参考）
+
+如在其他 IDE 中使用，配置方式类似：
+
+**Cursor** — `Cursor -> Preferences -> Tools & Integrations -> MCP -> Add Custom MCP`，添加 `mcp.json` 配置：
+
+```json
+{
+  "mcpServers": {
+    "MiniMax": {
+      "command": "uvx",
+      "args": ["minimax-coding-plan-mcp"],
+      "env": {
+        "MINIMAX_API_KEY": "填写你的API密钥",
+        "MINIMAX_API_HOST": "https://api.minimaxi.com"
+      }
+    }
+  }
+}
+```
+
+**OpenCode** — 编辑 `~/.config/opencode/opencode.json`：
+
+```json
+{
+  "mcp": {
+    "MiniMax": {
+      "type": "local",
+      "command": ["uvx", "minimax-coding-plan-mcp", "-y"],
+      "environment": {
+        "MINIMAX_API_KEY": "你的API_KEY",
+        "MINIMAX_API_HOST": "https://api.minimaxi.com"
+      },
+      "enabled": true
+    }
+  }
+}
+```
 
 ---
 
