@@ -1,35 +1,36 @@
 # Claude Code 插件市场 (Claude Marketplace)
 
-> 为 Claude Code 提供一系列精选插件，涵盖教学、开发效率等多个场景，让 AI 助手更懂你。
+> 为 Claude Code 提供一系列精选插件和可迁移的 AI 能力包，让 AI 助手更懂你。
 
 ## 项目概述
 
-本仓库是一个 **Claude Code 插件集合**，旨在为 Claude Code 用户提供开箱即用的高质量插件。
+本仓库是一个 **Claude Code 插件和 Skill 集合**，包含两个平行部分：
 
-随着 Claude Code 的生态发展，越来越多的场景可以通过插件来增强 AI 的能力。本项目将持续收录各类实用插件，你可以在此找到适合自己工作流的工具，并轻松一键安装。
-
-### 核心特性
-
-- **插件化架构**：每个插件独立目录，通过 Claude Code 的插件机制无缝集成
-- **即装即用**：一行命令完成安装，无需复杂配置
-- **持续更新**：插件库将不断扩充，覆盖更多使用场景
-- **社区共建**：欢迎提交 PR，一起完善插件生态
+- **Plugins（插件）** — 通过 Claude Code 插件机制集成的功能扩展
+- **Skills（技能包）** — 封装了大模型 API 的调用方法，可迁移、可复用，让新 Agent 零成本继承调用能力
 
 ## 目录结构
 
 ```
 claude-marketplace/
-├── marketplace.json          # 插件市场索引文件（声明所有插件）
+├── marketplace.json          # 插件市场索引文件
 ├── LICENSE                   # MIT 开源协议
 ├── README.md                 # 本文件
-└── <plugin-name>/            # 插件目录（每个插件独立）
-    ├── README.md             # 该插件的使用文档
-    ├── .claude-plugin/
-    │   └── plugin.json       # 插件元信息
-    └── skills/               # 插件包含的技能
-        └── <skill-name>/
-            ├── SKILL.md      # 技能定义文件
-            └── *.md          # 风格/配置相关文件
+├── plugins/                  # 插件目录（功能扩展）
+│   └── socratic-teach/      # 苏格拉底教学插件
+│       ├── README.md
+│       ├── .claude-plugin/
+│       │   └── plugin.json
+│       └── skills/
+│           └── teach/
+│               ├── SKILL.md
+│               └── *.md       # 风格文件
+└── skills/                   # 技能包目录（API 调用方法）
+    ├── .env                  # API Key 存储（不提交 Git）
+    ├── .env.example          # 环境变量模板
+    ├── README.md             # Skills 使用指南
+    ├── video-generation/     # 视频生成 Skill
+    └── voice-synthesis/      # 配音合成 Skill
 ```
 
 ## 插件列表
@@ -40,9 +41,23 @@ claude-marketplace/
 
 👉 [查看详细文档](./socratic-teach/README.md)
 
-## 安装插件市场
+## Skill 列表
 
-将整个插件市场添加到你的 Claude Code 中：
+👉 [查看 Skills 总览](./skills/README.md)
+
+### video-generation — 视频生成
+
+封装 Runway / Pika / Kling 等主流视频生成 API 的调用方法。
+
+👉 [查看详细文档](./skills/video-generation/README.md)
+
+### voice-synthesis — 配音合成
+
+封装 MiniMax / 通义千问 TTS 等语音合成 API 的调用方法。
+
+👉 [查看详细文档](./skills/voice-synthesis/README.md)
+
+## 安装插件市场
 
 ```bash
 /plugin marketplace add https://github.com/111pointer111/claude-marketplace
@@ -54,69 +69,22 @@ claude-marketplace/
 /plugin marketplace update
 ```
 
-## 插件开发指南
+## 开发指南
 
-如果你想为 Claude Code 开发新插件，可以参考以下流程：
+### 开发新插件
 
-### 1. 创建插件目录
+参考上方 `plugins/` 目录结构，创建插件目录并编写 `plugin.json` 和 `SKILL.md`，然后更新 `marketplace.json`。
 
-在仓库根目录下创建新的插件文件夹：
+### 开发新 Skill
 
-```
-/your-plugin/
-    ├── README.md              # 必选，插件使用文档
-    ├── .claude-plugin/
-    │   └── plugin.json        # 必选，插件元信息
-    └── skills/
-        └── <your-skill>/
-            └── SKILL.md      # 必选，技能定义
-```
-
-### 2. 编写 plugin.json
-
-```json
-{
-  "name": "your-plugin-name",
-  "description": "插件描述",
-  "version": "1.0.0",
-  "license": "MIT",
-  "keywords": ["keyword1", "keyword2"],
-  "skills": ["./skills/"]
-}
-```
-
-### 3. 编写插件 README.md
-
-在插件目录下创建 `README.md`，详细介绍该插件的功能、安装方式、使用方法等。README 的内容以这个文件为主页入口，具体文档放在对应插件目录下。
-
-### 4. 更新 marketplace.json
-
-在 `plugins` 数组中添加新插件的条目：
-
-```json
-{
-  "name": "your-plugin-name",
-  "description": "插件描述",
-  "source": "./your-plugin",
-  "category": "education",
-  "homepage": "https://github.com/111pointer111/claude-marketplace"
-}
-```
-
-### 5. 提交并推送
-
-```bash
-git add .
-git commit -m "feat: add your-plugin-name plugin"
-git push
-```
+参考上方 `skills/` 目录结构，创建 Skill 目录并编写 `SKILL.md`（核心指令）和 `README.md`（使用文档）。每个 Skill 的 `SKILL.md` 开头需要包含环境检查逻辑，自动引导用户配置 API Key。
 
 ## 参与贡献
 
-欢迎为仓库提交插件或改进现有功能！
+欢迎提交新插件、Skill 或改进现有内容！
 
-- **提交新插件**：按照上方"插件开发指南"创建新插件，提交 PR
-- **改进现有插件**：直接在对应目录下修改，提交 PR
+- **提交新插件**：创建 `plugins/<name>/` 目录，参考现有插件结构
+- **提交新 Skill**：创建 `skills/<name>/` 目录，参考 `video-generation` 的结构
 - **反馈问题**：提交 GitHub Issue
 
 ## 开源协议
@@ -124,6 +92,12 @@ git push
 本项目基于 [MIT License](LICENSE) 开源。
 
 ## 更新日志
+
+### v1.1.0
+- 新增 `skills/` 目录及 Skills 框架
+- 上线 `video-generation` 视频生成 Skill（支持 Runway / Pika / Kling）
+- 上线 `voice-synthesis` 配音合成 Skill（支持 MiniMax / 通义千问）
+- 所有 Skill 统一使用 `skills/.env` 管理 API Key
 
 ### v1.0.0
 - 发布初始版本
