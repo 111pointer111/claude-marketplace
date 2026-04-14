@@ -15,7 +15,7 @@ skills/
 ├── .env                       # API Key 存储文件（不提交到 Git）
 ├── .env.example               # 环境变量模板
 ├── README.md                  # 本文件
-├── minimax/                   # MiniMax CodingPlan 全模态 Skill
+├── minimax_model_skill/        # MiniMax CodingPlan 全模态 Skill
 │   ├── SKILL.md
 │   └── README.md
 ├── video-generation/          # 视频生成 Skill
@@ -51,11 +51,11 @@ skills/
 
 ## Skill 列表
 
-### minimax — MiniMax CodingPlan
+### minimax_model_skill — MiniMax CodingPlan
 
-MiniMax 全模态 AI 能力包，涵盖文本、语音、视频、图像、音乐五大模态。
+MiniMax 全模态 AI 能力包，所有多模态能力统一通过 MiniMax MCP 调用（语音合成、音色克隆、音色设计、音乐、视频、图片），只需一个 API Key。
 
-👉 [查看详细文档](./minimax/README.md)
+👉 [查看详细文档](./minimax_model_skill/README.md)
 
 ### video-generation — 视频生成
 
