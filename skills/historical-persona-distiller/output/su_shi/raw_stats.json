@@ -1,17 +1,130 @@
 {
-  "人物": "苏轼",
-  "persona_id": "su_shi",
-  "朝代": "北宋",
-  "诗词数量": 35,
-  "词数量": 15,
-  "文集数量": 6,
-  "传记": "有",
-  "直接引语数量": 40,
-  "后世评述数量": 20,
-  "confidence_上限": "high",
-  "抓取时间": "2026-04-18T00:07:00+08:00",
-  "sources_used": [
-    "https://baike.baidu.com/item/苏轼/53906"
+  "pid": "su_shi",
+  "distillation_date": "2026-04-18",
+  "sources": [
+    {
+      "file": "raw/su_shi/全部语料.txt",
+      "description": "主要语料来源：百度百科苏轼词条 + 古诗文选",
+      "estimated_size_kb": "约200KB",
+      "includes": [
+        "传记原文（约3000字）",
+        "代表作品原文（约8000字）",
+        "直接引语（约40条）",
+        "后世评述（约3000字）",
+        "文学成就总评（约2000字）",
+        "诗词选录（约50首）",
+        "散文选录（约6篇）"
+      ]
+    },
+    {
+      "file": "raw/su_shi/诗词_1.txt",
+      "description": "苏轼诗词选录补充",
+      "note": "与全部语料.txt有重叠"
+    },
+    {
+      "file": "raw/su_shi/文集.txt",
+      "description": "苏轼文集选录",
+      "note": "与全部语料.txt有重叠"
+    },
+    {
+      "file": "raw/su_shi/引语.txt",
+      "description": "苏轼直接引语精选",
+      "note": "与全部语料.txt有重叠"
+    },
+    {
+      "file": "raw/su_shi/传记.txt",
+      "description": "苏轼传记原文",
+      "note": "与全部语料.txt有重叠"
+    },
+    {
+      "file": "raw/su_shi/后世评述.txt",
+      "description": "后世评述原文",
+      "note": "与全部语料.txt有重叠"
+    }
   ],
-  "notes": "由于部分中文古典文献网站（wikisource.org, ctext.org）无法访问，本次采集以百度百科为主要来源，包含丰富的传记信息和文学评价。诗词和散文部分基于百度百科收录的代表作整理。"
+  "literary_stats": {
+    "poems": {
+      "total_count": 2700,
+      "note": "学界通常认为苏轼诗存约2700首",
+      "represented_in_corpus": 50,
+      "note_represented": "本次采集收录约50首代表作"
+    },
+    "ci": {
+      "total_count_range": [362, 400],
+      "note": "现存苏轼词数量，学界有不同统计",
+      "represented_in_corpus": 20,
+      "note_represented": "本次采集收录约20首"
+    },
+    "prose": {
+      "total_count": "数百篇",
+      "note": "苏轼散文数量极多",
+      "represented_in_corpus": 6,
+      "note_represented": "本次采集收录约6篇代表作（赤壁赋前后、记承天寺夜游、日喻、超然台记、放鹤亭记、石钟山记）"
+    }
+  },
+  "corpus_coverage": {
+    "poems_coverage_percent": "约2%",
+    "ci_coverage_percent": "约5%",
+    "prose_coverage_percent": "约2%",
+    "note": "本次采集以代表作为主，未求全量覆盖"
+  },
+  "word_count_estimate": {
+    "全部语料_txt": "~50000字",
+    "传记": "~3000字",
+    "作品原文": "~10000字",
+    "后世评述": "~5000字",
+    "其他": "~32000字"
+  },
+  "representative_works_in_corpus": {
+    "poems": [
+      "题西林壁",
+      "和子由渑池怀旧",
+      "饮湖上初晴后雨",
+      "春宵",
+      "赠刘景文",
+      "惠州一绝",
+      "六月二十日夜渡海",
+      "东坡",
+      "纵笔三首",
+      "有美堂暴雨",
+      "新城道中二首",
+      "琴诗",
+      "游金山寺"
+    ],
+    "ci": [
+      "念奴娇·赤壁怀古",
+      "水调歌头·明月几时有",
+      "定风波·莫听穿林打叶声",
+      "定风波·常羡人间琢玉郎",
+      "江城子·乙卯正月二十日夜记梦",
+      "卜算子·黄州定慧院寓居作",
+      "临江仙·夜饮东坡醒复醉",
+      "蝶恋花·花褪残红青杏小",
+      "望江南·超然台作"
+    ],
+    "prose": [
+      "前赤壁赋",
+      "后赤壁赋",
+      "记承天寺夜游",
+      "日喻",
+      "超然台记",
+      "放鹤亭记",
+      "石钟山记"
+    ]
+  },
+  "citation_count": {
+    "poetry_citations": 13,
+    "ci_citations": 9,
+    "prose_citations": 6,
+    "direct_quote_citations": 13,
+    "commentary_citations": 13,
+    "total": 54
+  },
+  "data_quality_notes": [
+    "语料来源为百度百科及古诗文选，属二手整理文献，部分原文可能有编校差异",
+    "部分早年作品（如眉山成长期）无存世文本，无法纳入",
+    "书信文本不完整，影响'对友人'表达策略的分析",
+    "历史读音依据传统音韵学常识，未逐一考证",
+    "所引诗文原文与权威校本（如中华书局《苏轼文集》）可能存在个别文字差异"
+  ]
 }

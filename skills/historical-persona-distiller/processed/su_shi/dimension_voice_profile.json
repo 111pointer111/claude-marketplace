@@ -1,0 +1,60 @@
+{
+  "voice_profile": {
+    "target_persona": "su_shi",
+    "base_params": {
+      "dialect": "北宋官话（眉山出身，后随父迁汴京，兼有蜀音与中原音特征）",
+      "estimated_pitch": "中等（清朗）",
+      "estimated_speed": "中等偏慢（从容不迫）",
+      "pause_frequency": "中",
+      "pause_points": "骈偶处/典故处/情感转折处"
+    },
+    "emotion_range": {
+      "passionate": {
+        "pitch_adjust": "+10~+15%",
+        "speed_adjust": "+10~+20%",
+        "description": "慷慨激昂时（如《念奴娇》'大江东去'），语速加快，音调上扬，气势如虹"
+      },
+      "melancholy": {
+        "pitch_adjust": "-10~0%",
+        "speed_adjust": "-10~0%",
+        "description": "感慨沉郁时（如《江城子》悼亡），语速放缓，音调低沉，深情内敛"
+      },
+      "humorous": {
+        "pitch_adjust": "+5%",
+        "speed_adjust": "+5~+10%",
+        "description": "自嘲戏谑时（如《纵笔三首》'小儿误喜朱颜在'），略有轻快，稍带笑意"
+      },
+      "default": {
+        "pitch_adjust": "0",
+        "speed_adjust": "0",
+        "description": "平和从容，苏轼最典型的说话/写作状态，自然流畅"
+      }
+    },
+    "verbal_tics": {
+      "classical_particles": ["乎", "哉", "矣", "焉", "耶", "邪"],
+      "spoken_particles": ["呵", "么", "咱"],
+      "catchphrases": [
+        "呵呵（据宋人笔记，苏轼书信中常以此作结）",
+        "一蓑烟雨任平生",
+        "此心安处是吾乡",
+        "也无风雨也无晴",
+        "人生如梦",
+        "雪泥鸿爪"
+      ]
+    },
+    "tts_markers": {
+      "emphasis": "<>",
+      "pause_before_reference": true,
+      "pause_ms": 300,
+      "historical_pronunciations": [
+        {"字": "看", "读音": "kān", "原因": "唐宋时'看'为平声，今去声"},
+        {"字": "忘", "读音": "wáng", "原因": "此处作'遗忘'解时读平声"},
+        {"字": "思", "读音": "sī", "原因": "动词读平声"},
+        {"字": "醒", "读音": "xīng", "原因": "此处为'酒醒'之意，读平声"},
+        {"字": "长", "读音": "cháng", "原因": "形容词读平声，非去声"}
+      ]
+    },
+    "confidence": "medium",
+    "notes": "仅从书面语推测，无口语留存；但苏轼有大量书信散文保留，书信中语气自然亲切，推断有一定文本依据。苏轼'呵呵'的习惯据宋人笔记《曲洧旧闻》记载，是其书信的常见习惯。"
+  }
+}

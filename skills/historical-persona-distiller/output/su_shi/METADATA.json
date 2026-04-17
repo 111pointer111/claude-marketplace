@@ -1,22 +1,122 @@
 {
-  "人物": "苏轼",
-  "persona_id": "su_shi",
-  "朝代": "北宋",
-  "生卒年": "1037-1101",
-  "字": "子瞻",
-  "号": "东坡居士",
-  "蒸馏版本": "1.0",
-  "蒸馏日期": "2026-04-18T00:07:00+08:00",
-  "蒸馏耗时_分钟": 60,
-  "overall_confidence": "high",
-  "sources_used_count": 3,
-  "sources": [
-    "https://baike.baidu.com/item/苏轼/53906"
+  "pid": "su_shi",
+  "name": "苏轼",
+  "name_full": "苏轼，字子瞻，号东坡居士",
+  "birth_year": 1037,
+  "death_year": 1101,
+  "birth_date": "1037-01-08",
+  "death_date": "1101-08-24",
+  "era": "北宋",
+  "birthplace": "眉州眉山（今四川眉山）",
+  "deathplace": "常州（今江苏常州）",
+  "confidence": "high",
+  "confidence_rationale": "苏轼存世诗词约2700首，词约400首，文章数百篇，语料极为丰富，足以支撑高置信度蒸馏。黄州时期存世作品最完整，风格成熟，信心最强。",
+
+  "life_stages": [
+    {
+      "stage": "眉山成长",
+      "period": "1037-1056",
+      "age_range": "0-20岁",
+      "confidence": "low",
+      "note": "几乎无直接语料存世"
+    },
+    {
+      "stage": "名动京师",
+      "period": "1057-1071",
+      "age_range": "20-35岁",
+      "confidence": "medium",
+      "note": "作品约20-30首，部分跨期"
+    },
+    {
+      "stage": "黄州贬谪",
+      "period": "1079-1084",
+      "age_range": "42-47岁",
+      "confidence": "high",
+      "note": "存世作品极丰富，风格成熟，信心最强"
+    },
+    {
+      "stage": "东山再起",
+      "period": "1084-1093",
+      "age_range": "47-56岁",
+      "confidence": "medium",
+      "note": "部分作品时间边界模糊"
+    },
+    {
+      "stage": "晚年流放",
+      "period": "1094-1101",
+      "age_range": "57-64岁",
+      "confidence": "medium",
+      "note": "作品数量相对较少，但思想深度极高"
+    }
   ],
-  "poetry_count": 35,
-  "ci_count": 15,
-  "prose_count": 6,
-  "direct_quote_count": 40,
-  "stages_count": 5,
-  "引用验证": "部分引用来自二手资料（百度百科整理版），原文可回溯性为中等到高"
+
+  "literary_achievements": {
+    "poems_count": 2700,
+    "ci_count": 400,
+    "ci_count_note": "现存约362-400首",
+    "prose_count": "数百篇",
+    "calligraphy": "宋四家之一",
+    "painting": "墨竹、枯木见长"
+  },
+
+  "major_titles": [
+    "文忠（宋孝宗追谥）",
+    "东坡居士",
+    "铁冠道人"
+  ],
+
+  "corpus_sources": [
+    {
+      "source": "raw/su_shi/全部语料.txt",
+      "description": "百度百科苏轼词条抓取 + 古诗文选收录代表作",
+      "includes": ["传记原文", "代表作品原文", "直接引语", "后世评述", "文学成就总评", "诗词选录", "散文选录"]
+    },
+    {
+      "source": "processed/su_shi/dimension_思想内核.json",
+      "description": "思想内核维度分析"
+    },
+    {
+      "source": "processed/su_shi/dimension_语言特征.json",
+      "description": "语言特征维度分析"
+    },
+    {
+      "source": "processed/su_shi/dimension_表达偏好.json",
+      "description": "表达偏好维度分析"
+    },
+    {
+      "source": "processed/su_shi/dimension_立场光谱.json",
+      "description": "立场光谱维度分析"
+    },
+    {
+      "source": "processed/su_shi/dimension_voice_profile.json",
+      "description": "Voice Profile 分析"
+    },
+    {
+      "source": "processed/su_shi/stages.md",
+      "description": "人生阶段切分"
+    },
+    {
+      "source": "processed/su_shi/consistency_check.md",
+      "description": "一致性校验报告"
+    }
+  ],
+
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+
+  "distillation_date": "2026-04-18",
+  "distillation_confidence": "high",
+  "known_limitations": [
+    "阶段边界模糊：黃州时期与东山再起期的部分作品时间难以精确界定",
+    "早年作品散佚：眉山成长期几乎无作品存世",
+    "书信文本有限：本次采集未获完整书信文本",
+    "无口语语料：voice profile 仅从书面语推测"
+  ]
 }
