@@ -1,42 +1,75 @@
 {
-  "persona_id": "du_fu",
-  "persona_name": "杜甫",
-  "dynasty": "唐",
-  "corpus_stats": {
-    "诗词全集": {
-      "file": "raw/du_fu/诗词全集.txt",
-      "bytes": 14646,
-      "lines": 447,
-      "note": "按行计，447行文本，含诗词正文及少量标注"
-    },
-    "传记": {
-      "file": "raw/du_fu/传记.txt",
-      "bytes": 80780,
+  "source_files": {
+    "传记_txt": {
+      "path": "raw/du_fu/传记.txt",
+      "size_bytes": 80780,
       "lines": 5
     },
-    "引语": {
-      "file": "raw/du_fu/引语.txt",
-      "bytes": 4255,
-      "lines": 60
+    "诗词全集_txt": {
+      "path": "raw/du_fu/诗词全集.txt",
+      "size_bytes": 14646,
+      "lines": 447,
+      "代表作品数量": 50
     },
-    "后世评述": {
-      "file": "raw/du_fu/后世评述.txt",
-      "bytes": 14889,
+    "引语_txt": {
+      "path": "raw/du_fu/引语.txt",
+      "size_bytes": 4255,
+      "lines": 60,
+      "引语条目数量": 44
+    },
+    "后世评述_txt": {
+      "path": "raw/du_fu/后世评述.txt",
+      "size_bytes": 14889,
       "lines": 241
     },
-    "全部语料": {
-      "file": "raw/du_fu/全部语料.txt",
-      "bytes": 114570,
+    "全部语料_txt": {
+      "path": "raw/du_fu/全部语料.txt",
+      "size_bytes": 114570,
       "lines": 753
     }
   },
-  "total_bytes": 229140,
-  "estimated_poem_count": "~30-50首（基于诗词全集.txt，按诗分隔符估算）",
-  "sources_count": 3,
+  "total_bytes": 228940,
+  "processed_files": {
+    "stages_md": "processed/du_fu/stages.md",
+    "dimension_思想内核_json": "processed/du_fu/dimension_思想内核.json",
+    "dimension_语言特征_json": "processed/du_fu/dimension_语言特征.json",
+    "dimension_表达偏好_json": "processed/du_fu/dimension_表达偏好.json",
+    "dimension_立场光谱_json": "processed/du_fu/dimension_立场光谱.json",
+    "dimension_voice_profile_json": "processed/du_fu/dimension_voice_profile.json",
+    "consistency_check_md": "processed/du_fu/consistency_check.md"
+  },
+  "du_fu_basics": {
+    "生卒年": "712-770",
+    "存世诗作数量": 1458,
+    "朝代": "唐",
+    "地位": "诗圣"
+  },
+  "stage_summary": {
+    "阶段一_读书壮游": {
+      "年份": "712-735",
+      "年龄": "0-23岁",
+      "confidence": "medium",
+      "代表诗作": ["《望岳》", "《房兵曹胡马》"]
+    },
+    "阶段二_困居长安": {
+      "年份": "736-755",
+      "年龄": "24-43岁",
+      "confidence": "medium",
+      "代表诗作": ["《兵车行》", "《丽人行》", "《自京洛奉先咏怀》"]
+    },
+    "阶段三_流亡入蜀": {
+      "年份": "756-765",
+      "年龄": "44-54岁",
+      "confidence": "high",
+      "代表诗作": ["《春望》", "《羌村三首》", "《茅屋为秋风所破歌》", "《三吏三别》"]
+    },
+    "阶段四_飘泊湘江": {
+      "年份": "766-770",
+      "年龄": "55-59岁",
+      "confidence": "high",
+      "代表诗作": ["《秋兴八首》", "《登高》", "《登岳阳楼》", "《江南逢李龟年》"]
+    }
+  },
   "confidence": "high",
-  "stage_confidence": {
-    "stage_1": "high",
-    "stage_2": "high",
-    "stage_3": "high"
-  }
+  "confidence_reason": "杜甫存世诗约1458首，语料丰富，史料详实，四个阶段均有充分作品支撑"
 }
