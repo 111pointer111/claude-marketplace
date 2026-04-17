@@ -288,16 +288,16 @@ SKILL.md 需要新增一个 section：
 ## Stage 3.6 — Voice Profile 蒸馏
 
 **输入：**
-  - raw/{TARGET}/诗词_*.txt
-  - raw/{TARGET}/文集.txt
-  - raw/{TARGET}/引语.txt
+  - raw/{PID}/诗词_*.txt
+  - raw/{PID}/文集.txt
+  - raw/{PID}/引语.txt
 **目标：** 提取 TTS 可用的声音参数
 
 ---
 
 **LLM Prompt（直接执行）：**
 
-你是一位语音学与古典文学专家。请分析{朝代}{TARGET}的语音特征，
+你是一位语音学与古典文学专家。请分析{朝代}{PID}的语音特征，
 为 TTS 合成此人的声音提供参数建议。
 
 ## 待分析语料
@@ -309,7 +309,7 @@ SKILL.md 需要新增一个 section：
 ## 分析任务
 
 ### 1. 语气词分析
-{TARGET}爱用什么语气词？
+{PID}爱用什么语气词？
 - 文言语气词：{啊/乎/哉/噫/呜呼/邪/矣/焉 等}
 - 白话语气词：{啊/呀/么/呢 等}
 - 典型例子：{各引1句}
@@ -325,7 +325,7 @@ SKILL.md 需要新增一个 section：
 - 句间停顿特点：{描述}
 
 ### 4. 情感表达
-{TARGET}最典型的情感表达方式是什么？
+{PID}最典型的情感表达方式是什么？
 - 慷慨陈词时：{描述语音特点}
 - 沉郁感慨时：{描述语音特点}
 - 日常交谈时：{描述语音特点}
@@ -346,7 +346,7 @@ SKILL.md 需要新增一个 section：
 ```json
 {
   "voice_profile": {
-    "target_persona": "{TARGET}",
+    "target_persona": "{PID}",
     "base_params": {
       "dialect": "{推测的方言/口音，如'通用北宋官话'/'眉山地方口音'}",
       "estimated_pitch": "{偏高/偏低/中等}",
@@ -383,7 +383,7 @@ SKILL.md 需要新增一个 section：
 }
 ```
 
-**输出：** `processed/{TARGET}/dimension_voice_profile.json`
+**输出：** `processed/{PID}/dimension_voice_profile.json`
 ```
 
 ---
@@ -393,7 +393,7 @@ SKILL.md 需要新增一个 section：
 Pipeline 每个历史人物输出 5 个文件：
 
 ```
-output/{TARGET}/
+output/{PID}/
 ├── SKILL.md           ← 核心 persona（对话 + 写作双模式）
 │
 ├── METADATA.json      ← 元数据
@@ -410,7 +410,7 @@ output/{TARGET}/
 ### EVENTS.md 格式示例
 
 ```markdown
-# {TARGET} 生平事件
+# {PID} 生平事件
 
 ## 乌台诗案（1079年）
 **类型：** 政治打击
@@ -478,15 +478,15 @@ Pipeline 补充两个新增的蒸馏任务：
 ```
 在 Stage 3.5（一致性校验）完成后，
 自动执行 Stage 3.6 Voice Profile 蒸馏。
-输出 processed/{TARGET}/dimension_voice_profile.json。
+输出 processed/{PID}/dimension_voice_profile.json。
 ```
 
 ### Stage 4.7 EVENTS.md 生成
 
 ```
 在 Persona Card 生成阶段，
-自动从 processed/{TARGET}/stages.md 和 dimension_思想内核.json 中，
-提取事件信息，生成 output/{TARGET}/EVENTS.md。
+自动从 processed/{PID}/stages.md 和 dimension_思想内核.json 中，
+提取事件信息，生成 output/{PID}/EVENTS.md。
 
 生成逻辑：
 1. 从 stages.md 中提取每个阶段的核心事件

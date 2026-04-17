@@ -11,15 +11,18 @@
 ## 预检查 — 每次执行前必做
 
 1. 读取 DONE.md，找到「下一待处理」中的人物名（记为 TARGET）
-2. 检查 done/{TARGET}.done 是否存在：
+2. 按 NAMING.md 规则，将 TARGET 转换为 persona_id（记为 PID）
+   - 例：苏轼 → su_shi
+   - 复姓：欧阳修 → ouyang_xiu
+3. 检查 done/{PID}.done 是否存在：
    - 存在 → 跳过此人，重新从 backlog.md 取下一个 priority 最高的人物
    - 不存在 → 继续执行
-3. 从 backlog.md 读取 TARGET 的完整条目：
+4. 从 backlog.md 读取 TARGET 的完整条目：
    - priority
    - dynasty
    - lifespan
    - sources 列表（每个含 url / type / description）
-4. 记录开始时间
+5. 记录开始时间
 ```
 
 ---
@@ -35,26 +38,26 @@
 
 如果 type == "poetry_collection" 或 "collected_works" 或 "personal_essay"：
     → 使用 WebFetch 抓取 URL 全文
-    → 保存到 raw/{TARGET}/{type}_{序号}.txt
+    → 保存到 raw/{PID}/{type}_{序号}.txt
     → 标注每首诗/每段文字的写作年份（如有）
 
 如果 type == "historical_record"：
     → 使用 WebFetch 抓取传记正文
-    → 保存到 raw/{TARGET}/传记.txt
-    → 从正文中提取所有用引号包围的"直接引语"，保存到 raw/{TARGET}/引语.txt
+    → 保存到 raw/{PID}/传记.txt
+    → 从正文中提取所有用引号包围的"直接引语"，保存到 raw/{PID}/引语.txt
 
 如果 type == "commentary"：
     → 使用 WebFetch 抓取
-    → 保存到 raw/{TARGET}/后世评述.txt
+    → 保存到 raw/{PID}/后世评述.txt
 
 抓取完成后：
     → 统计诗词总数量
     → 如果诗词 < 30 首，执行补充搜索：
-        WebSearch: "{TARGET} 诗词全集 site:ctext.org OR site:zh.wikisource.org"
-        WebSearch: "{TARGET} 文集 site:ctext.org"
+        WebSearch: "{PID} 诗词全集 site:ctext.org OR site:zh.wikisource.org"
+        WebSearch: "{PID} 文集 site:ctext.org"
         从搜索结果中取前 2 个有效 URL，WebFetch 抓取并保存
     → 最后，将所有 txt 文件内容合并为一个文件：
-        raw/{TARGET}/全部语料.txt
+        raw/{PID}/全部语料.txt
         （引语.txt 和后世评述.txt 单独保留）
 ```
 
@@ -63,7 +66,7 @@
 ```markdown
 ## Stage 1.2 — 质量初判
 
-统计 raw/{TARGET}/ 目录下各类文件数量：
+统计 raw/{PID}/ 目录下各类文件数量：
 
 诗词数量 → N
 文集数量 → M
@@ -77,7 +80,7 @@
 
 输出 raw_stats.json：
 {
-  "人物": "{TARGET}",
+  "人物": "{PID}",
   "朝代": "{dynasty}",
   "诗词数量": N,
   "文集数量": M,
@@ -98,19 +101,19 @@
 ```markdown
 ## Stage 2.1 — 阶段切分
 
-分析语料和传记，对 {TARGET} 进行人生阶段划分。
+分析语料和传记，对 {PID} 进行人生阶段划分。
 
 执行 WebSearch：
-  "{TARGET} 生平 年谱"
-  "{TARGET} 人生转折点"
+  "{PID} 生平 年谱"
+  "{PID} 人生转折点"
 
-结合已抓取的 raw/{TARGET}/传记.txt，
-将 {TARGET} 一生划分为 2-5 个阶段。
+结合已抓取的 raw/{PID}/传记.txt，
+将 {PID} 一生划分为 2-5 个阶段。
 
-输出 processed/{TARGET}/stages.md，格式如下：
+输出 processed/{PID}/stages.md，格式如下：
 
 ---
-## {TARGET} 人生阶段
+## {PID} 人生阶段
 
 ### 阶段一：{名称}（{起始年}-{结束年}）
 **生活地点：** {主要地点}
@@ -150,14 +153,14 @@
 ```markdown
 ## Stage 3.1 — 思想内核蒸馏
 
-**输入：** raw/{TARGET}/全部语料.txt
-**目标：** 提炼 {TARGET} 跨时期不变的思想内核
+**输入：** raw/{PID}/全部语料.txt
+**目标：** 提炼 {PID} 跨时期不变的思想内核
 
 ---
 
 **LLM Prompt（直接执行）：**
 
-你是一位古典文学与思想史专家。现在请你从{朝代}{TARGET}的原始语料中，
+你是一位古典文学与思想史专家。现在请你从{朝代}{PID}的原始语料中，
 提炼其思想内核。
 
 要求：
@@ -205,15 +208,15 @@
 ## Stage 3.2 — 语言特征量化分析
 
 **输入：**
-  - raw/{TARGET}/诗词_*.txt（N首诗）
-  - raw/{TARGET}/文集.txt（M篇文）
+  - raw/{PID}/诗词_*.txt（N首诗）
+  - raw/{PID}/文集.txt（M篇文）
 **目标：** 提取语言特征，量化评分
 
 ---
 
 **LLM Prompt（直接执行）：**
 
-你是一位古典文学风格分析专家。请分析{朝代}{TARGET}的以下作品，
+你是一位古典文学风格分析专家。请分析{朝代}{PID}的以下作品，
 提取语言特征。
 
 ## 待分析语料
@@ -298,16 +301,16 @@
 ## Stage 3.3 — 表达偏好分析
 
 **输入：**
-  - raw/{TARGET}/引语.txt（直接引语，最重要）
-  - raw/{TARGET}/诗词_*.txt（对不同对象的表达）
-  - raw/{TARGET}/文集.txt（如有书信）
+  - raw/{PID}/引语.txt（直接引语，最重要）
+  - raw/{PID}/诗词_*.txt（对不同对象的表达）
+  - raw/{PID}/文集.txt（如有书信）
 **目标：** 分析对不同对象的表达策略
 
 ---
 
 **LLM Prompt（直接执行）：**
 
-你是一位修辞学专家。请分析{朝代}{TARGET}对不同对象的表达策略。
+你是一位修辞学专家。请分析{朝代}{PID}对不同对象的表达策略。
 
 ## 语料
 
@@ -377,15 +380,15 @@
 ## Stage 3.4 — 立场光谱
 
 **输入：**
-  - raw/{TARGET}/全部语料.txt
-  - raw/{TARGET}/后世评述.txt（交叉验证）
+  - raw/{PID}/全部语料.txt
+  - raw/{PID}/后世评述.txt（交叉验证）
 **目标：** 在6个争议性议题上给出立场评分
 
 ---
 
 **LLM Prompt（直接执行）：**
 
-你是一位政治哲学与伦理专家。请为{朝代}{TARGET}在以下6个议题上打分。
+你是一位政治哲学与伦理专家。请为{朝代}{PID}在以下6个议题上打分。
 
 ## 语料
 
@@ -402,37 +405,37 @@
 ## 议题
 
 ### 1. 皇权专制
-{TARGET}对绝对皇权的态度是支持还是限制？
+{PID}对绝对皇权的态度是支持还是限制？
 - 评分：{±2}
 - 依据：{引原文}
 - 说明：{简述}
 
 ### 2. 变法革新
-{TARGET}对政治变革/变法的态度？（如遇王安石变法，立场如何？）
+{PID}对政治变革/变法的态度？（如遇王安石变法，立场如何？）
 - 评分：{±2}
 - 依据：{引原文}
 - 说明：{简述}
 
 ### 3. 民生疾苦
-{TARGET}是否关心底层百姓疾苦？
+{PID}是否关心底层百姓疾苦？
 - 评分：{±2}
 - 依据：{引原文}
 - 说明：{简述}
 
 ### 4. 华夷之辨
-{TARGET}对民族/华夷关系的态度？（如对外族入侵）
+{PID}对民族/华夷关系的态度？（如对外族入侵）
 - 评分：{±2}
 - 依据：{引原文}
 - 说明：{简述}
 
 ### 5. 文学功利观
-{TARGET}主张"文以载道"（文学为道统服务）还是文学独立/审美优先？
+{PID}主张"文以载道"（文学为道统服务）还是文学独立/审美优先？
 - 评分：{±2 到 载道；+2 到 审美独立}
 - 依据：{引原文}
 - 说明：{简述}
 
 ### 6. 出世/入世
-{TARGET}的儒道倾向如何？更倾向于济世入世还是隐逸出世？
+{PID}的儒道倾向如何？更倾向于济世入世还是隐逸出世？
 - 评分：{-2=极端出世，+2=极端入世}
 - 依据：{引原文}
 - 说明：{简述}
@@ -457,16 +460,16 @@
 ## Stage 3.5 — 一致性校验
 
 **输入：**
-  - processed/{TARGET}/stages.md（各阶段切片）
-  - processed/{TARGET}/dimension_思想内核.json
-  - processed/{TARGET}/dimension_语言特征.json（各阶段如有分别）
+  - processed/{PID}/stages.md（各阶段切片）
+  - processed/{PID}/dimension_思想内核.json
+  - processed/{PID}/dimension_语言特征.json（各阶段如有分别）
 **目标：** 检测矛盾，输出校验报告
 
 ---
 
 **LLM Prompt（直接执行）：**
 
-你是一位历史人物研究专家。请对{朝代}{TARGET}进行一致性校验。
+你是一位历史人物研究专家。请对{朝代}{PID}进行一致性校验。
 
 ## 各阶段概述
 
@@ -493,11 +496,11 @@
 请回答：
 
 ### 1. 语言特征一致性
-{TARGET}的语言风格中，哪些特征在所有阶段保持一致？（核心不变的部分）
+{PID}的语言风格中，哪些特征在所有阶段保持一致？（核心不变的部分）
 哪些特征随阶段明显变化？（发展的部分）
 
 ### 2. 思想内核一致性
-{TARGET}的核心价值观在所有阶段是否保持连贯？
+{PID}的核心价值观在所有阶段是否保持连贯？
 - 如果有矛盾：是"史料误差"还是"人物真实的思想发展"？
 - 判断依据：{给出判断}
 
@@ -532,7 +535,7 @@
 {列出可能的偏差}
 
 ### 综合评价
-{TARGET}的 persona 可信度如何？适合用于哪些场景？
+{PID}的 persona 可信度如何？适合用于哪些场景？
 ```
 
 ---
@@ -554,7 +557,7 @@
 
 ### 4.3 生成 METADATA.json
 {
-  "人物": "{TARGET}",
+  "人物": "{PID}",
   "朝代": "{朝代}",
   "生卒年": "{lifespan}",
   "蒸馏版本": "1.0",
@@ -574,19 +577,19 @@
 按以下格式整理：
 
 ## 思想内核引用
-- [引用原文] ——《篇名》  来源：raw/{TARGET}/xxx.txt
+- [引用原文] ——《篇名》  来源：raw/{PID}/xxx.txt
 
 ## 语言特征引用
-- [引用原文]  维度：{维度名}  来源：raw/{TARGET}/xxx.txt
+- [引用原文]  维度：{维度名}  来源：raw/{PID}/xxx.txt
 
 ## 立场光谱引用
-- [引用原文]  议题：{议题名}  来源：raw/{TARGET}/xxx.txt
+- [引用原文]  议题：{议题名}  来源：raw/{PID}/xxx.txt
 
 ### 4.5 生成 raw_stats.json
 {来自Step 1.2的统计}
 
 ### 4.6 创建完成标记
-touch done/{TARGET}.done
+touch done/{PID}.done
 ```
 
 ---
@@ -602,13 +605,13 @@ touch done/{TARGET}.done
 
 ### 检查1：引用回溯验证
 对于 SKILL.md 中每一条引用，执行：
-→ 在 raw/{TARGET}/全部语料.txt 中搜索引用关键词
+→ 在 raw/{PID}/全部语料.txt 中搜索引用关键词
 → 找到对应原文 → 通过
 → 找不到 → 标记 WARN，从 SKILL.md 中删除该引用或标注"[来源待核实]"
 
 ### 检查2：成语典故验证
 对于 SKILL.md 中出现的成语典故，执行：
-→ WebSearch: "{TARGET} {成语/典故}"
+→ WebSearch: "{PID} {成语/典故}"
 → 确认来源正确 → 通过
 → 来源错误 → 修正 SKILL.md 中的表述
 
@@ -631,9 +634,9 @@ touch done/{TARGET}.done
 → 矛盾 → 标记 WARN，优先信任立场光谱的量化评分
 
 ### 检查6：Git push
-→ git add output/{TARGET}/
-→ git add done/{TARGET}.done
-→ git commit -m "distill: {TARGET} persona ({confidence})"
+→ git add output/{PID}/
+→ git add done/{PID}.done
+→ git commit -m "distill: {PID} persona ({confidence})"
 → git push origin main
 → 成功 → 继续
 → 失败 → 重试，最多重试3次；3次后仍失败 → 标记 status=failed，跳过
@@ -648,7 +651,7 @@ touch done/{TARGET}.done
 
 在 DONE.md「已完成」表格末尾追加一行：
 
-| {序号} | {TARGET} | {朝代} | {YYYY-MM-DD} | {overall_confidence} | {耗时分钟} |
+| {序号} | {PID} | {朝代} | {YYYY-MM-DD} | {overall_confidence} | {耗时分钟} |
 
 ### 更新「下一待处理」
 
@@ -675,7 +678,7 @@ touch done/{TARGET}.done
 
 ### 更新 backlog.md
 
-从 backlog.md 中移除 {TARGET} 那一行
+从 backlog.md 中移除 {PID} 那一行
 
 ### 追加执行日志
 
@@ -684,23 +687,23 @@ touch done/{TARGET}.done
 ```
 ### {YYYY-MM-DD}
 
-**人物：** {TARGET}
+**人物：** {PID}
 **执行时间：** {HH:MM} - {HH:MM}
 **结果：** ✅ 完成
 **confidence：** {overall_confidence}
 **产出文件：**
-  - output/{TARGET}/SKILL.md
-  - output/{TARGET}/README.md
-  - output/{TARGET}/METADATA.json
-  - output/{TARGET}/CITATIONS.md
-  - output/{TARGET}/raw_stats.json
+  - output/{PID}/SKILL.md
+  - output/{PID}/README.md
+  - output/{PID}/METADATA.json
+  - output/{PID}/CITATIONS.md
+  - output/{PID}/raw_stats.json
 ```
 
 ### 提交 DONE.md 和 backlog.md
 
 ```
 git add DONE.md backlog.md
-git commit -m "update: {TARGET} done, next: {新人物名}"
+git commit -m "update: {PID} done, next: {新人物名}"
 git push origin main
 ```
 ```
