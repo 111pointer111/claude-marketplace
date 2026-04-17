@@ -3,55 +3,18 @@
   "persona_name": "杜甫",
   "dynasty": "唐",
   "lifespan": "712-770",
-  "birthplace": "巩县（今河南巩义）",
-  "字": "子美",
-  "号": "少陵野老",
-  "后世尊称": "诗圣",
   "persona_version": "1.0",
-  "distilled_at": "2026-04-18T02:00:00+08:00",
-  "distilled_by": "historical-persona-distiller pipeline v1.0",
+  "distilled_at": "2026-04-18",
   "sources_count": 3,
   "overall_confidence": "high",
   "stage_confidence": {
-    "stage_1_reading_travel_712_735": "medium",
-    "stage_2_chang_an_736_755": "medium",
-    "stage_3_exile_sichuan_756_765": "high",
-    "stage_4_drifting_766_770": "high"
+    "stage_1_reading_travel": "medium",
+    "stage_2_chang_an": "medium",
+    "stage_3_exile_sichuan": "high",
+    "stage_4_漂泊_湘江": "high"
   },
-  "corpus_stats": {
-    "poetry_lines": 447,
-    "biography_bytes": 80780,
-    "quotes_lines": 60,
-    "commentary_lines": 241,
-    "total_corpus_bytes": 229140
-  },
-  "files": {
-    "SKILL.md": "output/du_fu/SKILL.md",
-    "EVENTS.md": "output/du_fu/EVENTS.md",
-    "VOICE.md": "output/du_fu/VOICE.md",
-    "CITATIONS.md": "output/du_fu/CITATIONS.md",
-    "README.md": "output/du_fu/README.md",
-    "METADATA.json": "output/du_fu/METADATA.json",
-    "raw_stats.json": "output/du_fu/raw_stats.json"
-  },
-  "key_themes": [
-    "仁政爱民",
-    "济世安民",
-    "忠君爱国",
-    "以诗为史",
-    "沉郁顿挫"
-  ],
-  "representative_works": [
-    "春望",
-    "茅屋为秋风所破歌",
-    "兵车行",
-    "石壕吏",
-    "秋兴八首",
-    "登高",
-    "登岳阳楼",
-    "江汉",
-    "蜀相",
-    "月夜忆舍弟",
-    "春日忆李白"
-  ]
+  "skill_file": "SKILL.md",
+  "events_file": "EVENTS.md",
+  "voice_file": "VOICE.md",
+  "citations_file": "CITATIONS.md"
 }
