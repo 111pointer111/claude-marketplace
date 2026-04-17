@@ -263,3 +263,7 @@ Git push
 >
 > 所以：多读原文、多搜资料、多写引用、少说"推测"。
 
+> **每次任务完成后必须推送到 main 分支。**
+>
+> 不要只本地操作。pipeline 的所有产出（raw/、processed/、output/、done/、DONE.md、backlog.md）必须通过 `git push origin main` 推到远程仓库，才算任务完成。
+
