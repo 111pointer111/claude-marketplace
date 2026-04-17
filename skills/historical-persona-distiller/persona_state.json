@@ -1,0 +1,14 @@
+{
+  "active": false,
+  "persona_id": null,
+  "persona_name": null,
+  "stage_id": null,
+  "stage_name": null,
+  "session_id": null,
+  "memory_file": null,
+  "turns": 0,
+  "summary_turn": 0,
+  "last_summary": null,
+  "activated_at": null,
+  "last_active": null
+}
