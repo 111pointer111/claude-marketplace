@@ -1,52 +1,47 @@
 # 人物蒸馏待处理队列
 
-> OpenClaw 通过读取 DONE.md 中的「下一待处理」确定当前人物。
-> 本文件为所有人物的完整列表及优先级。
+> 本文件仅包含 pending 状态的人物（OpenClaw 只读不写）。
+> DONE.md 是唯一状态入口，记录已完成和下一待处理。
+> pipeline 每完成一人，自动将 backlog 中对应条目的 status 改为 done。
 
 ## 待处理人物
 
-| # | 人物 | 朝代 | priority | status | 备注 |
-|---|------|------|----------|--------|------|
-| 1 | 苏轼 | 北宋 | high | pending | 全才，史料最丰富 |
-| 2 | 杜甫 | 唐 | high | pending | 分期风格变化显著 |
-| 3 | 李白 | 唐 | high | pending | 浪漫主义巅峰 |
-| 4 | 辛弃疾 | 南宋 | high | pending | 豪放词集大成 |
-| 5 | 陶渊明 | 晋 | high | pending | 田园诗开山，隐逸之宗 |
-| 6 | 王维 | 唐 | medium | pending | 诗佛，山水诗巅峰 |
-| 7 | 白居易 | 唐 | medium | pending | 通俗派，讽喻诗传统 |
-| 8 | 李清照 | 宋 | medium | pending | 婉约词宗，兼擅诗文 |
-| 9 | 欧阳修 | 北宋 | medium | pending | 文坛领袖，古文运动 |
-| 10 | 苏辙 | 北宋 | medium | pending | 与苏轼并称，史料互补 |
-| 11 | 韩愈 | 唐 | medium | pending | 古文运动领袖，儒家道统 |
-| 12 | 柳宗元 | 唐 | medium | pending | 永州八记，山水散文 |
-| 13 | 王安石 | 北宋 | medium | pending | 变法派，散文峭拔 |
-| 14 | 柳永 | 北宋 | medium | pending | 婉约词通俗化，慢词开创 |
-| 15 | 周邦彦 | 北宋 | medium | pending | 婉约词集大成 |
-| 16 | 屈原 | 战国 | medium | pending | 楚辞之祖，香草美人 |
-| 17 | 曹操 | 三国 | medium | pending | 建安风骨，慷慨悲凉 |
-| 18 | 嵇康 | 三国魏 | low | pending | 竹林七贤，玄学清谈 |
-| 19 | 阮籍 | 三国魏 | low | pending | 竹林七贤，咏怀诗 |
-| 20 | 蒲松龄 | 清 | low | pending | 聊斋志异，文言短篇 |
-| 21 | 商鞅 | 战国 | low | pending | 法家，商君书冷峻 |
-| 22 | 韩非 | 战国 | low | pending | 法家集大成，孤愤深沉 |
-| 23 | 李煜 | 南唐 | low | pending | 亡国之君，词风剧变 |
-| 24 | 纳兰性德 | 清 | low | pending | 清词高峰，悼亡词绝唱 |
-| 25 | 曾国藩 | 清 | low | pending | 桐城派殿军，近代文风 |
+| # | 人物 | 朝代 | priority | 备注 |
+|---|------|------|----------|------|
+| 1 | 苏轼 | 北宋 | high | 全才，史料最丰富 |
+| 2 | 杜甫 | 唐 | high | 分期风格变化显著 |
+| 3 | 李白 | 唐 | high | 浪漫主义巅峰 |
+| 4 | 辛弃疾 | 南宋 | high | 豪放词集大成 |
+| 5 | 陶渊明 | 晋 | high | 田园诗开山，隐逸之宗 |
+| 6 | 王维 | 唐 | medium | 诗佛，山水诗巅峰 |
+| 7 | 白居易 | 唐 | medium | 通俗派，讽喻诗传统 |
+| 8 | 李清照 | 宋 | medium | 婉约词宗，兼擅诗文 |
+| 9 | 欧阳修 | 北宋 | medium | 文坛领袖，古文运动 |
+| 10 | 苏辙 | 北宋 | medium | 与苏轼并称，史料互补 |
+| 11 | 韩愈 | 唐 | medium | 古文运动领袖，儒家道统 |
+| 12 | 柳宗元 | 唐 | medium | 永州八记，山水散文 |
+| 13 | 王安石 | 北宋 | medium | 变法派，散文峭拔 |
+| 14 | 柳永 | 北宋 | medium | 婉约词通俗化，慢词开创 |
+| 15 | 周邦彦 | 北宋 | medium | 婉约词集大成 |
+| 16 | 屈原 | 战国 | medium | 楚辞之祖，香草美人 |
+| 17 | 曹操 | 三国 | medium | 建安风骨，慷慨悲凉 |
+| 18 | 嵇康 | 三国魏 | low | 竹林七贤，玄学清谈 |
+| 19 | 阮籍 | 三国魏 | low | 竹林七贤，咏怀诗 |
+| 20 | 蒲松龄 | 清 | low | 聊斋志异，文言短篇 |
+| 21 | 商鞅 | 战国 | low | 法家，商君书冷峻 |
+| 22 | 韩非 | 战国 | low | 法家集大成，孤愤深沉 |
+| 23 | 李煜 | 南唐 | low | 亡国之君，词风剧变 |
+| 24 | 纳兰性德 | 清 | low | 清词高峰，悼亡词绝唱 |
+| 25 | 曾国藩 | 清 | low | 桐城派殿军，近代文风 |
 
-## Sources 参考（常见权威来源）
-
-每个人物的 sources 从以下资源池中选取，优先使用 ctext.org 和 zh.wikisource：
+## 常见权威来源
 
 ```
-诗歌全集：  https://zh.wikisource.org/wiki/{诗人名字}乐府（唐宋诗人）
-           https://ctext.org/poetry/（全部诗词）
+诗歌全集：  https://zh.wikisource.org/wiki/{诗人名字}乐府
+           https://ctext.org/poetry/
 文集：     https://zh.wikisource.org/wiki/{文集名}
            https://ctext.org/{人物名}.zh
-传记：     https://ctext.org/shiji/{卷号}.zh（正史列传）
+传记：     https://ctext.org/shiji/{卷号}.zh
            https://baike.baidu.com/item/{人物名}
 后世评述： https://zh.wikisource.org/wiki/{评述名}
 ```
-
-## 已完成（由 DONE.md 管理）
-
-详见 DONE.md 「已完成」表格。

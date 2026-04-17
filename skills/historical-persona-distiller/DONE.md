@@ -27,7 +27,7 @@
 
 ## 二、下一待处理
 
-从 backlog.md 中读取 `priority: high` 且 `status: pending` 排在最前的人物。
+从 backlog.md 中取 priority 最高且排在最前的人物。
 
 ```
 ### 下一待处理

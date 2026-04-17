@@ -29,12 +29,12 @@
 
 ```
 优先级顺序（由高到低）：
-1. priority: high + status: pending + backlog 中排在最前
-2. priority: medium + status: pending + backlog 中排在最前
-3. priority: low + status: pending + backlog 中排在最前
+1. priority: high，在 backlog.md 中排在最前
+2. priority: medium，在 backlog.md 中排在最前
+3. priority: low，在 backlog.md 中排在最前
 
-status: done 的人 → 永不重复处理
-status: failed 的人 → 保留在 backlog 中，标记 status: failed，等待人工介入
+已出现在 DONE.md「已完成」表格中的人 → 永不重复处理
+pipeline 失败的人 → 保留在 backlog.md 中，在 DONE.md「执行日志」记录 failed，等待人工介入
 ```
 
 ---
@@ -371,7 +371,7 @@ lifespan: "{生卒年}"
 □ done/{人物名}.done 已创建
 □ GitHub 已 push 成功
 □ DONE.md 已更新（追加完成记录 + 更新下一待处理 + 更新统计）
-□ backlog.md 中该人物 status 已改为 done
+□ backlog.md 中该人物条目已移除
 ```
 
 ---
@@ -391,14 +391,14 @@ lifespan: "{生卒年}"
 8.3 Git push 成功后，更新 DONE.md：
     a) 在「已完成」表格追加一行
     b) 更新「统计概览」
-    c) 在 backlog.md 中将人物 status 改为 done
-    d) 从 backlog.md 读取下一个最高优先级 pending 人物
+    c) 从 backlog.md 中移除该人物条目
+    d) 读取 backlog.md 下一个最高优先级人物
     e) 更新「下一待处理」节
 
 8.4 错误处理
     → 若 git push 失败，保留本地缓存，次日重试
     → 重试 3 次仍失败 → 在 DONE.md「执行日志」中记录失败，
-      backlog.md 中该人物 status 改为 failed，等待人工介入
+      在 DONE.md「下一待处理」中标注 failed，等待人工介入
     → 若 Git push 成功但 DONE.md 更新失败 → 单独提交 DONE.md 更新
 ```
 
@@ -406,20 +406,19 @@ lifespan: "{生卒年}"
 
 ## 九、人物队列（backlog.md 格式）
 
+> backlog.md 仅保留 pending 状态的人物，已完成的人自动移除。
+> DONE.md 是唯一状态记录。
+
 ```markdown
-| 人物 | 朝代 | priority | status | 备注 |
-|------|------|----------|--------|------|
-| 苏轼 | 北宋 | high | pending | |
-| 杜甫 | 唐 | high | pending | |
-| ... | ... | ... | ... | |
+| 人物 | 朝代 | priority | 备注 |
+|------|------|----------|------|
+| 苏轼 | 北宋 | high | 全才，史料最丰富 |
+| 杜甫 | 唐 | high | 分期风格变化显著 |
+| ... | ... | ... | |
 ```
 
 **Priority 定义：**
 - high：史料极丰富（诗词100+首，文集完整，传记详尽），可生成完整版
 - medium：史料较丰富（诗词30-100首），可生成标准版
 - low：史料有限（诗词<30首），生成精简版
-
-**Status 定义：**
-- pending：待处理
-- done：已完成
 - failed：执行失败，需人工介入

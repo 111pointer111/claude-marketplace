@@ -12,7 +12,7 @@
 
 1. 读取 DONE.md，找到「下一待处理」中的人物名（记为 TARGET）
 2. 检查 done/{TARGET}.done 是否存在：
-   - 存在 → 跳过此人，重新从 backlog.md 取下一个 priority high pending 人物
+   - 存在 → 跳过此人，重新从 backlog.md 取下一个 priority 最高的人物
    - 不存在 → 继续执行
 3. 从 backlog.md 读取 TARGET 的完整条目：
    - priority
@@ -652,7 +652,7 @@ touch done/{TARGET}.done
 
 ### 更新「下一待处理」
 
-从 backlog.md 中找到第一个 status=pending 且 priority 最高的人物：
+从 backlog.md 中找到 priority 最高且排在最前的人物（不在 DONE.md 已完成表格中）：
 
 ```
 ### 下一待处理
@@ -675,7 +675,7 @@ touch done/{TARGET}.done
 
 ### 更新 backlog.md
 
-在 backlog.md 中找到 {TARGET} 那一行，将 status 改为 "done"
+从 backlog.md 中移除 {TARGET} 那一行
 
 ### 追加执行日志
 

@@ -51,8 +51,8 @@ argument-hint: '[<人物名或 /persona-xxx 指令>]'
 Step 1: 解析人物名和可选的 --stage 参数
 
 Step 2: 查找人物
-→ 读取 skills/historical-persona-distiller/backlog.md
-→ 确认该人物存在且 status = done
+→ 检查 skills/historical-persona-distiller/output/{pinyin}/SKILL.md 是否存在
+→ 同时检查 DONE.md「已完成」表格中是否有该人物
 → 如果不存在或未完成：
   回复："抱歉，{人物名}尚未蒸馏或尚未完成，请等待 pipeline 执行完毕。"
 
