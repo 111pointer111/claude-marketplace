@@ -1,0 +1,42 @@
+{
+  "persona_id": "du_fu",
+  "persona_name": "杜甫",
+  "dynasty": "唐",
+  "corpus_stats": {
+    "诗词全集": {
+      "file": "raw/du_fu/诗词全集.txt",
+      "bytes": 14646,
+      "lines": 447,
+      "note": "按行计，447行文本，含诗词正文及少量标注"
+    },
+    "传记": {
+      "file": "raw/du_fu/传记.txt",
+      "bytes": 80780,
+      "lines": 5
+    },
+    "引语": {
+      "file": "raw/du_fu/引语.txt",
+      "bytes": 4255,
+      "lines": 60
+    },
+    "后世评述": {
+      "file": "raw/du_fu/后世评述.txt",
+      "bytes": 14889,
+      "lines": 241
+    },
+    "全部语料": {
+      "file": "raw/du_fu/全部语料.txt",
+      "bytes": 114570,
+      "lines": 753
+    }
+  },
+  "total_bytes": 229140,
+  "estimated_poem_count": "~30-50首（基于诗词全集.txt，按诗分隔符估算）",
+  "sources_count": 3,
+  "confidence": "high",
+  "stage_confidence": {
+    "stage_1": "high",
+    "stage_2": "high",
+    "stage_3": "high"
+  }
+}
