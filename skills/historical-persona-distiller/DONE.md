@@ -15,6 +15,7 @@
 | 1 | 苏轼 | 北宋 | 2026-04-18 | high | 60 |
 | 2 | 杜甫 | 唐 | 2026-04-18 | high | 18 |
 | 3 | 李白 | 唐 | 2026-04-18 | high | 60 |
+| 4 | 辛弃疾 | 南宋 | 2026-04-18 | high | 60 |
 ```
 
 **字段说明：**
@@ -34,11 +35,11 @@
 ```
 ### 下一待处理
 
-- **人物：** 辛弃疾
-- **朝代：** 南宋
+- **人物：** 陶渊明
+- **朝代：** 晋
 - **priority：** high
-- **预计难度：** 中等（豪放词集大成，需区分抗金豪情与晚年悲愤）
-- **建议切分数：** 4（早年抗金→中年沉沦→晚年归隐→临终绝唱）
+- **预计难度：** 中等（田园诗开山，需区分前期仕途与后期归隐）
+- **建议切分数：** 3（早年仕途→辞官归隐→晚年躬耕）
 ```
 
 ---
@@ -95,6 +96,22 @@
   - output/li_bai/raw_stats.json
   - output/li_bai/EVENTS.md
   - output/li_bai/VOICE.md
+
+### 2026-04-18
+
+**人物：** 辛弃疾
+**执行时间：** 05:01 - 06:01
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** wikisource.org、ctext.org、古诗文网等主要古典文献网站均无法访问；改以百度百科为主要来源，抓取了600余首词的代表作50首、传记原文、36条直接引语、22条后世评述
+**产出文件：**
+  - output/xin_qiji/SKILL.md
+  - output/xin_qiji/README.md
+  - output/xin_qiji/METADATA.json
+  - output/xin_qiji/CITATIONS.md
+  - output/xin_qiji/raw_stats.json
+  - output/xin_qiji/EVENTS.md
+  - output/xin_qiji/VOICE.md
 ```
 
 ---
@@ -103,20 +120,20 @@
 
 ```
 总人物数：     25
-已完成：       3
+已完成：       4
 进行中：       0
-待处理：       22
-完成率：       12%
+待处理：       21
+完成率：       16%
 
 按 confidence：
-  high：       3
+  high：       4
   medium：     0
   low：        0
 
 按朝代：
   唐：         2 / 6
   北宋：       1 / 5
-  南宋：       0 / 1
+  南宋：       1 / 1
   晋：         0 / 1
   战国：       0 / 3
   三国：       0 / 2
