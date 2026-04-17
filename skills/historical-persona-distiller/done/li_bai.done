@@ -1,0 +1,7 @@
+distill: 李白 persona (high)
+distill_date: 2026-04-18
+sources: 百度百科（李白传记）、百度百科（李白诗选目录）、百度百科（将进酒全文）、百度百科（静夜思全文）、百度百科（早发白帝城全文）
+confidence: high
+life_stages: 5
+output_files: SKILL.md, VOICE.md, EVENTS.md, README.md, METADATA.json, CITATIONS.md, raw_stats.json
+

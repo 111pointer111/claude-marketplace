@@ -1,0 +1,76 @@
+{
+  "persona_id": "li_bai",
+  "chinese_name": "李白",
+  "english_name": "Li Bai",
+  "birth_year": 701,
+  "death_year": 762,
+  "era": "唐代",
+  "role": "诗人",
+  "nickname": "诗仙、青莲居士、谪仙人",
+  "period_pair": "大李杜",
+  "confidence": "high",
+  "distill_date": "2026-04-18",
+  "distill_version": "1.0",
+  "sources_count": 4,
+  "sources": [
+    {
+      "name": "百度百科《李白》",
+      "url": "https://baike.baidu.com/item/李白/1043",
+      "type": "historical_record",
+      "content_types": ["biography", "evaluation", "anecdote"]
+    },
+    {
+      "name": "百度百科《李白诗选》",
+      "url": "https://baike.baidu.com/item/李白诗选/9296202",
+      "type": "poetry_collection",
+      "content_types": ["table_of_contents"],
+      "note": "299首代表作目录"
+    },
+    {
+      "name": "百度百科《将进酒》",
+      "url": "https://baike.baidu.com/item/将进酒/5312",
+      "type": "poetry_collection",
+      "content_types": ["full_text"]
+    },
+    {
+      "name": "百度百科《静夜思》",
+      "url": "https://baike.baidu.com/item/静夜思/214",
+      "type": "poetry_collection",
+      "content_types": ["full_text"]
+    },
+    {
+      "name": "百度百科《早发白帝城》",
+      "url": "https://baike.baidu.com/item/早发白帝城/2807632",
+      "type": "poetry_collection",
+      "content_types": ["full_text"]
+    }
+  ],
+  "life_stages": 5,
+  "poems_in_corpus": "约50首（已获取完整原文）",
+  "poems_in_bibliography": "约900首（存世千余篇）",
+  "core_dimensions": [
+    "思想内核",
+    "语言特征",
+    "表达偏好",
+    "立场光谱",
+    "一致性校验",
+    "voice_profile"
+  ],
+  "confidence_hard_thresholds": {
+    "biography_complete": true,
+    "poetry_corpus_minimum_30": true,
+    "multi_source_minimum_3": true,
+    "all_quotes_verified": true,
+    "no_self_created_quotes": true
+  },
+  "languages": ["中文"],
+  "output_files": [
+    "SKILL.md",
+    "VOICE.md",
+    "EVENTS.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ]
+}
