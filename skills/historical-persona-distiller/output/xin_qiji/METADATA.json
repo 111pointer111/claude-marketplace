@@ -1,0 +1,17 @@
+{
+  "人物": "辛弃疾",
+  "persona_id": "xin_qiji",
+  "朝代": "南宋",
+  "生卒年": "1140-1207",
+  "字号": "字幼安，号稼轩居士",
+  "蒸馏版本": "1.0",
+  "蒸馏日期": "2026-04-17",
+  "蒸馏耗时_分钟": 60,
+  "overall_confidence": "high",
+  "sources_used_count": 2,
+  "poetry_count": 600,
+  "prose_count": 17,
+  "direct_quote_count": 36,
+  "stages_count": 5,
+  "引用验证": "已通过质量控制检查"
+}

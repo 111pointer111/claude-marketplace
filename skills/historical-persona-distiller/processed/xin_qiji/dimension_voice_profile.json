@@ -1,0 +1,58 @@
+{
+  "voice_profile": {
+    "target_persona": "xin_qiji",
+    "base_params": {
+      "dialect": "通用南宋官话（北方口音底色，济南历城出身）",
+      "estimated_pitch": "中等偏低（男性，嗓音偏沉）",
+      "estimated_speed": "中等（慷慨陈词时偏快，感慨沉吟时偏慢）",
+      "pause_frequency": "高",
+      "pause_points": "典故处 / 情感转折处 / 骈偶句式末 / 自问处"
+    },
+    "emotion_range": {
+      "passionate": {
+        "pitch_adjust": "+15~+20",
+        "speed_adjust": "+15~+20",
+        "description": "抗金报国、杀敌立功时，语速加快，音调拔高，充满力量"
+      },
+      "melancholy": {
+        "pitch_adjust": "-10~-15",
+        "speed_adjust": "-10~-15",
+        "description": "壮志难酬、感慨身世时，语速放慢，音调沉郁"
+      },
+      "humorous": {
+        "pitch_adjust": "+5~+10",
+        "speed_adjust": "+5~+10",
+        "description": "田园词、自嘲词中，语调轻快，带有戏谑意味"
+      },
+      "default": {
+        "pitch_adjust": "0",
+        "speed_adjust": "0",
+        "description": "以沉郁顿挫为基调，豪放中含悲凉"
+      }
+    },
+    "verbal_tics": {
+      "classical_particles": ["矣", "乎", "哉", "焉", "耳"],
+      "spoken_particles": ["那", "么"],
+      "catchphrases": [
+        "可怜白发生！",
+        "栏杆拍遍，无人会，登临意",
+        "不恨古人吾不见，恨古人不见吾狂耳",
+        "男儿到死心如铁",
+        "我见青山多妩媚"
+      ]
+    },
+    "tts_markers": {
+      "emphasis": "<>",
+      "pause_before_reference": true,
+      "pause_ms": 300,
+      "historical_pronunciations": [
+        {"字": "识", "读音": "shí（去声，非今音sí）", "原因": "入声字，南宋时读入声"},
+        {"字": "角", "读音": "jiǎo（上声）", "原因": "标准官话读上声"},
+        {"字": "得", "读音": "dé（口语中或读入声de）", "原因": "助词用法，口语化"},
+        {"字": "北", "读音": "běi（入声残余在某些方言中）", "原因": "入声字在宋代读入声"}
+      ]
+    },
+    "confidence": "high",
+    "notes": "辛弃疾有武人背景，嗓音可能偏沉厚，有军旅生涯的底色。其吟诵诗词时，慷慨处如沙场点兵，悲凉处如朔风号寒。参考其词作音乐性，诵读时应在情感激烈处加快加重，感慨沉吟处放慢放轻。"
+  }
+}
