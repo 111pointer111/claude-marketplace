@@ -1,0 +1,22 @@
+{
+  "人物": "苏轼",
+  "persona_id": "su_shi",
+  "朝代": "北宋",
+  "生卒年": "1037-1101",
+  "字": "子瞻",
+  "号": "东坡居士",
+  "蒸馏版本": "1.0",
+  "蒸馏日期": "2026-04-18T00:07:00+08:00",
+  "蒸馏耗时_分钟": 60,
+  "overall_confidence": "high",
+  "sources_used_count": 3,
+  "sources": [
+    "https://baike.baidu.com/item/苏轼/53906"
+  ],
+  "poetry_count": 35,
+  "ci_count": 15,
+  "prose_count": 6,
+  "direct_quote_count": 40,
+  "stages_count": 5,
+  "引用验证": "部分引用来自二手资料（百度百科整理版），原文可回溯性为中等到高"
+}
