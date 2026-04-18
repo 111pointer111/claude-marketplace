@@ -16,6 +16,7 @@
 | 2 | 杜甫 | 唐 | 2026-04-18 | high | 18 |
 | 3 | 李白 | 唐 | 2026-04-18 | high | 60 |
 | 4 | 辛弃疾 | 南宋 | 2026-04-18 | high | 60 |
+| 5 | 陶渊明 | 晋 | 2026-04-18 | high | 15 |
 ```
 
 **字段说明：**
@@ -35,11 +36,11 @@
 ```
 ### 下一待处理
 
-- **人物：** 陶渊明
-- **朝代：** 晋
-- **priority：** high
-- **预计难度：** 中等（田园诗开山，需区分前期仕途与后期归隐）
-- **建议切分数：** 3（早年仕途→辞官归隐→晚年躬耕）
+- **人物：** 王维
+- **朝代：** 唐
+- **priority：** medium
+- **预计难度：** 中等（诗佛，山水诗巅峰，需抓取山水诗代表作）
+- **建议切分数：** 3-4（进士及第→安史之乱→隐居辋川→晚年）
 ```
 
 ---
@@ -112,6 +113,22 @@
   - output/xin_qiji/raw_stats.json
   - output/xin_qiji/EVENTS.md
   - output/xin_qiji/VOICE.md
+
+### 2026-04-18
+
+**人物：** 陶渊明
+**执行时间：** 08:12 - 08:27
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** wikisource.org、ctext.org 等无法访问；改以百度百科为主要来源，抓取了诗125首、文12篇的核心语料，包括《归园田居》《归去来兮辞》《饮酒》《杂诗》《读山海经》《桃花源记》《五柳先生传》等全部代表作，语料极为丰富
+**产出文件：**
+  - output/tao_yuanming/SKILL.md
+  - output/tao_yuanming/README.md
+  - output/tao_yuanming/METADATA.json
+  - output/tao_yuanming/CITATIONS.md
+  - output/tao_yuanming/raw_stats.json
+  - output/tao_yuanming/EVENTS.md
+  - output/tao_yuanming/VOICE.md
 ```
 
 ---
@@ -120,13 +137,13 @@
 
 ```
 总人物数：     25
-已完成：       4
+已完成：       5
 进行中：       0
-待处理：       21
-完成率：       16%
+待处理：       20
+完成率：       20%
 
 按 confidence：
-  high：       4
+  high：       5
   medium：     0
   low：        0
 
@@ -134,7 +151,7 @@
   唐：         2 / 6
   北宋：       1 / 5
   南宋：       1 / 1
-  晋：         0 / 1
+  晋：         1 / 1
   战国：       0 / 3
   三国：       0 / 2
   清：         0 / 2
