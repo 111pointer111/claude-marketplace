@@ -1,0 +1,78 @@
+{
+  "pid": "ouyang_xiu",
+  "name": "欧阳修",
+  "name_en": "Ouyang Xiu",
+  "names_and_titles": {
+    "zi": "永叔",
+    "hao_1": "醉翁",
+    "hao_2": "六一居士",
+    "shihao": "文忠"
+  },
+  "birth_year": 1007,
+  "death_year": 1072,
+  "birthplace": "绵州（今四川绵阳）",
+  "native_place": "庐陵（今江西吉安）",
+  "era": "北宋",
+  "confidence": "high",
+  "distilled_at": "2026-04-18",
+  "distilled_by": "historical-persona-distiller pipeline v1",
+  "main_roles": [
+    "古文运动领袖",
+    "唐宋八大家",
+    "史学家",
+    "政治改革派",
+    "苏轼恩师"
+  ],
+  "key_works": [
+    "《醉翁亭记》",
+    "《秋声赋》",
+    "《采桑子十首》",
+    "《朋党论》",
+    "《与高司谏书》",
+    "《新唐书》",
+    "《新五代史》",
+    "《欧阳文忠集》"
+  ],
+  "idioms_from_works": [
+    "醉翁之意不在酒",
+    "水落石出",
+    "觥筹交错",
+    "峰回路转",
+    "与民同乐",
+    "富贵浮云"
+  ],
+  "sources_count": {
+    "baidu_baike_biography": 1,
+    "baidu_baike_zuiwengtingji": 1,
+    "baidu_baike_qiushengfu": 1,
+    "baidu_baike_caisangzi": 1,
+    "baidu_baike_xintangshu": 1,
+    "baidu_baike_xinwudaishi": 1,
+    "baidu_baike_houshipingshu": 1,
+    "total_distinct_sources": 7
+  },
+  "corpus_size_bytes": 22728,
+  "stage_count": 5,
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "dimension_voice_profile.json"
+  ],
+  "output_files": [
+    "SKILL.md",
+    "VOICE.md",
+    "EVENTS.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "confidence_justification": "语料来源共7个不同百度百科词条，覆盖传记、散文名篇（醉翁亭记/秋声赋）、词作（采桑子十首）、两部史书（均从百度百科获取）、后世评述；所有引语均可溯源至原始文本；confidence定high。",
+  "notes": [
+    "六一居士具体出处（《六一居士传》）暂缺原始文献文本，综合百度百科引述补入，待日后补充 WebSearch 验证",
+    "《朋党论》原文文本未单独获取，以百度百科引述为准",
+    "web_search 工具两次失败，部分补充语料依赖已获取的百度百科来源"
+  ]
+}

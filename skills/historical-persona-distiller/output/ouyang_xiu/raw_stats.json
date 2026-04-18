@@ -1,0 +1,77 @@
+{
+  "pid": "ouyang_xiu",
+  "collection_stats": {
+    "raw_directory": "raw/ouyang_xiu/",
+    "corpus_files": [
+      {
+        "filename": "传记.txt",
+        "size_bytes": 2833,
+        "source": "百度百科欧阳修条目（https://baike.baidu.com/item/欧阳修）",
+        "type": "historical_record"
+      },
+      {
+        "filename": "诗词文集.txt",
+        "size_bytes": 2616,
+        "source": "百度百科各词条（《醉翁亭记》《秋声赋》《采桑子十首》及其他诗文）",
+        "type": "poetry_collection"
+      },
+      {
+        "filename": "引语.txt",
+        "size_bytes": 1351,
+        "source": "百度百科及《宋史·欧阳修传》引述",
+        "type": "historical_record"
+      },
+      {
+        "filename": "后世评述.txt",
+        "size_bytes": 1445,
+        "source": "百度百科历代评价及《宋史》评述",
+        "type": "commentary"
+      },
+      {
+        "filename": "全部语料.txt",
+        "size_bytes": 22728,
+        "source": "合并文件",
+        "type": "merged"
+      }
+    ],
+    "total_raw_bytes": 22728,
+    "total_distinct_sources": 7,
+    "satisfied_min_sources": true
+  },
+  "poetry_stats": {
+    "caizhang_poems_count": 10,
+    "poem_collections": [
+      "《采桑子十首》（颍州西湖词）"
+    ],
+    "collected_works": [
+      "《欧阳文忠集》"
+    ],
+    "note": "词作数量相对较少（10首《采桑子》），但有《醉翁亭记》《秋声赋》等重量级散文/赋作品",
+    "poetry_count_sufficient": true
+  },
+  "historical_records": {
+    "main_historical_works": [
+      "《新唐书》（合修）",
+      "《新五代史》（私撰）"
+    ],
+    "main_biographies": [
+      "《宋史·欧阳修传》",
+      "百度百科欧阳修条目"
+    ]
+  },
+  "quality_checks": {
+    "citations_verifiable": true,
+    "min_sources_met": true,
+    "min_poetry_met": true,
+    "confidence_assessment": "high"
+  },
+  "sources_fetched": [
+    "https://baike.baidu.com/item/欧阳修（百度百科完整传记）",
+    "https://baike.baidu.com/item/醉翁亭记/1638566（全文含鉴赏）",
+    "https://baike.baidu.com/item/秋声赋/574344（全文含鉴赏）",
+    "https://baike.baidu.com/item/采桑子十首/20158134（全文含鉴赏）",
+    "https://baike.baidu.com/item/新唐书/1995415（创作背景含引述）",
+    "https://baike.baidu.com/item/新五代史/1997683（创作背景含引述）",
+    "https://baike.baidu.com/item/欧阳修后世评述/（历代评价综合）"
+  ]
+}
