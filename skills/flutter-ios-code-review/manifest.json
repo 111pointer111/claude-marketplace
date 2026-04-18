@@ -1,0 +1,30 @@
+{
+  "name": "flutter-ios-code-review",
+  "version": "1.0.0",
+  "description": "Flutter iOS 应用上线前全方位代码审查 — iOS 配置安全、代码架构、后端安全、依赖管理、文档合规",
+  "trigger_keywords": [
+    "审查代码",
+    "代码审查",
+    "review",
+    "检查代码问题",
+    "帮我看看这个项目",
+    "代码有没有问题",
+    "项目审查",
+    "flutter review",
+    "ios review",
+    "代码安全审查",
+    "上线前检查",
+    "帮我检查一下项目"
+  ],
+  "main_skill": "skill.md",
+  "tags": [
+    "flutter",
+    "ios",
+    "code-review",
+    "security",
+    "supabase",
+    "compliance"
+  ],
+  "author": "huang",
+  "created": "2026-04-18"
+}

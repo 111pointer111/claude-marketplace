@@ -1,0 +1,18 @@
+{
+  "人物": "李清照",
+  "persona_id": "li_qingzhao",
+  "朝代": "宋",
+  "生卒年": "1084-约1155",
+  "诗词数量": 20,
+  "文集数量": 0,
+  "传记": "有",
+  "直接引语数量": 20,
+  "后世评述数量": 40,
+  "confidence_上限": "medium",
+  "抓取时间": "2026-04-18T06:11:00Z",
+  "sources_used": [
+    "https://baike.baidu.com/item/李清照",
+    "https://hanyu.baidu.com/s?wd=李清照词&from=poetry"
+  ],
+  "补充说明": "诗词仅得20首（百度汉语），少于30首，但传记极详尽(8000+字)，后世评述极丰富(40+条，40+)，confidence上限为medium"
+}
