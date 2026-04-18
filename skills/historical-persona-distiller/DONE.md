@@ -20,6 +20,7 @@
 | 6 | 王维 | 唐 | 2026-04-18 | high | 30 |
 | 7 | 白居易 | 唐 | 2026-04-18 | high | 20 |
 | 8 | 李清照 | 宋 | 2026-04-18 | high | 12 |
+| 9 | 欧阳修 | 北宋 | 2026-04-18 | high | 60 |
 ```
 
 **字段说明：**
@@ -39,11 +40,11 @@
 ```
 ### 下一待处理
 
-- **人物：** 欧阳修
+- **人物：** 苏洵
 - **朝代：** 北宋
 - **priority：** medium
-- **预计难度：** 中等（北宋文坛领袖，史料丰富，需抓取诗文全集）
-- **建议切分数：** 4-5（早年入学→宦海沉浮→文坛领袖→晚年隐居）
+- **预计难度：** 中等（苏轼苏辙之父，唐宋八大家之一，史料相对较少）
+- **建议切分数：** 3-4（早年力学→漫游交友→晚年成名）
 ```
 
 ---
@@ -180,6 +181,23 @@
   - output/li_qingzhao/raw_stats.json
   - output/li_qingzhao/EVENTS.md
   - output/li_qingzhao/VOICE.md
+
+### 2026-04-18
+
+**人物：** 欧阳修
+**执行时间：** 17:18 - 18:18
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** web_search 两次失败，改以百度百科多源抓取（传记、醉翁亭记、秋声赋、采桑子十首、新唐书、新五代史）；wikisource.org、ctext.org 均无法访问
+**产出文件：**
+  - output/ouyang_xiu/SKILL.md
+  - output/ouyang_xiu/README.md
+  - output/ouyang_xiu/METADATA.json
+  - output/ouyang_xiu/CITATIONS.md
+  - output/ouyang_xiu/raw_stats.json
+  - output/ouyang_xiu/EVENTS.md
+  - output/ouyang_xiu/VOICE.md
+  - done/ouyang_xiu.done
 ```
 
 ---
@@ -188,19 +206,19 @@
 
 ```
 总人物数：     25
-已完成：       8
+已完成：       9
 进行中：       0
-待处理：       17
-完成率：       32%
+待处理：       16
+完成率：       36%
 
 按 confidence：
-  high：       8
+  high：       9
   medium：     0
   low：        0
 
 按朝代：
   唐：         4 / 6
-  北宋：       1 / 5 → 2 / 5（新增李清照）
+  北宋：       2 / 5
   南宋：       1 / 1
   晋：         1 / 1
   战国：       0 / 3
