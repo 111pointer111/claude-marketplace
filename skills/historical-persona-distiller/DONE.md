@@ -18,6 +18,7 @@
 | 4 | 辛弃疾 | 南宋 | 2026-04-18 | high | 60 |
 | 5 | 陶渊明 | 晋 | 2026-04-18 | high | 15 |
 | 6 | 王维 | 唐 | 2026-04-18 | high | 30 |
+| 7 | 白居易 | 唐 | 2026-04-18 | high | 20 |
 ```
 
 **字段说明：**
@@ -37,11 +38,11 @@
 ```
 ### 下一待处理
 
-- **人物：** 白居易
-- **朝代：** 唐
+- **人物：** 李清照
+- **朝代：** 宋
 - **priority：** medium
 - **预计难度：** 中等（通俗派，讽喻诗传统，需抓取讽喻诗代表作）
-- **建议切分数：** 3-4（年少及第→贬谪江州→晚年分司）
+- **建议切分数：** 3-4（少女时期→婚姻与金石→流亡南渡→晚年独居）
 ```
 
 ---
@@ -146,6 +147,22 @@
   - output/wang_wei/raw_stats.json
   - output/wang_wei/EVENTS.md
   - output/wang_wei/VOICE.md
+
+### 2026-04-18
+
+**人物：** 白居易
+**执行时间：** 04:06 - 04:26
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** wikisource.org、ctext.org、古诗文网等主要古典文献网站均无法访问；改以百度百科为主要来源，抓取了传记原文、《长恨歌》《观刈麦》《问刘十九》《南湖早春》完整原文，以及《与元九书》完整原文（诗论核心文献）；《琵琶行》仅获得引语
+**产出文件：**
+  - output/bai_juyi/SKILL.md
+  - output/bai_juyi/README.md
+  - output/bai_juyi/METADATA.json
+  - output/bai_juyi/CITATIONS.md
+  - output/bai_juyi/raw_stats.json
+  - output/bai_juyi/EVENTS.md
+  - output/bai_juyi/VOICE.md
 ```
 
 ---
@@ -154,18 +171,18 @@
 
 ```
 总人物数：     25
-已完成：       6
+已完成：       7
 进行中：       0
-待处理：       19
-完成率：       24%
+待处理：       18
+完成率：       28%
 
 按 confidence：
-  high：       6
+  high：       7
   medium：     0
   low：        0
 
 按朝代：
-  唐：         3 / 6
+  唐：         4 / 6
   北宋：       1 / 5
   南宋：       1 / 1
   晋：         1 / 1
