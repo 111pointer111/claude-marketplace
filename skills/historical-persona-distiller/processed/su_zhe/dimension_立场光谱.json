@@ -1,0 +1,90 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "su_zhe",
+  "persona_name": "苏辙",
+  "confidence": "high",
+
+  "political_spectrum": {
+    "overall": "稳健改革派（非激进、非保守）",
+    "left_right_placement": "中间偏保守（温和旧党，但不完全反对变革本身）",
+    "justification": "苏辙反对的是'扰民之政'而非变革本身。他在元祐年间支持司马光废除新法中的弊端，但对完全否定神宗新法的极端做法也有所保留（他未参与对已故神宗的否定）。",
+    "key_positions": {
+      "on_xinfa": {
+        "stance": "反对（尤其是青苗法）",
+        "reason": "执行中有严重扰民弊端，官吏趁机营私",
+        "quote": "青苗出纳之际，吏缘为奸，虽有法不能禁；钱入民手，虽良民也不免妄用；及其纳钱，虽富民也不免逾限。——苏辙",
+        "nuance": "他并不完全否定新法本意，曾以刘晏'常平仓法'为例，建议王安石'有意于百姓生计，就整顿实行'"
+      },
+      "on_old_party": {
+        "stance": "有保留支持",
+        "reason": "支持废除弊端，但反对极端做法（如全废新法、否定神宗）",
+        "quote": "司马光因王安石免役法之害，想恢复差役法，却不知差役法之害相当于免役法。苏辙力言不可急行。"
+      },
+      "on_sima_guang_xian_bian": {
+        "stance": "支持（但有限度）",
+        "reason": "认可废除新法中的扰民之政，但认为应徐徐推行，反对急躁"
+      },
+      "on_policy_implementation": {
+        "stance": "务实渐进",
+        "key_quote": "役法关系众多事务，盘根错节十分复杂，实行得慢些，方能审慎详尽。"
+      },
+      "on_western_xia": {
+        "stance": "妥协退让（争议性立场）",
+        "quote": "支持司马光割让西夏四寨主张，但这一政策最终未能换取和平",
+        "criticism": "此政策后来破产，显示其局限性"
+      }
+    }
+  },
+
+  "social_positions": {
+    "on_confucian_orthodoxy": {
+      "stance": "尊崇但不排他",
+      "description": "苏辙尊崇儒学，但不像韩愈、欧阳修那样辟佛道。他晚年著《老子解》，体现三教合流的思想倾向。",
+      "quote": "苏辙对于前辈学人，亦尊韩、欧，政治思想，亦近于欧。但韩、欧辟佛道，而苏辙不然。"
+    },
+    "on_talent_education": {
+      "stance": "德才并重，经世致用",
+      "description": "他重视学问的实用价值，反对空谈心性，推崇'以古今成败得失为议论之要'的学风"
+    },
+    "on_common_people": {
+      "stance": "明显民本倾向",
+      "evidence": [
+        "青苗法批判：以百姓实际利益为准",
+        "雷州教民：斫木陶土、绩麻缫茧、药饵治病",
+        "《上皇帝书》：'今世之患，莫急于无财'"
+      ]
+    }
+  },
+
+  "aesthetic_positions": {
+    "on_literature": {
+      "stance": "文以载道，文气并重",
+      "description": "苏辙认为文章是'气之所形'，既要有道德内涵，也要有艺术感染力。他自称'生好为文'，对文学艺术有高度追求，但反对为艺术而艺术。",
+      "quote": "以为文者气之所形，然文不可以学而能，气可以养而致。"
+    },
+    "on_poetry_vs_prose": {
+      "description": "苏辙本人以散文成就最高，但诗作亦有不少佳品。他评李白'华而不实'，体现了其重视思想内容的文学观。"
+    },
+    "on_calligraphy_painting": {
+      "stance": "有造诣，书法与苏轼相近",
+      "description": "苏辙书法潇洒工整，传世墨迹有《雪甚帖》《雪诗帖》等；亦善墨竹"
+    }
+  },
+
+  "controversial_positions": {
+    "on_zhao_xia": {
+      "stance": "妥协退让",
+      "criticism": "支持割让西夏四寨以换取和平，结果西夏仍不断侵扰，政策失败"
+    },
+    "on_huang_tingjian_poetry": {
+      "note": "苏辙晚年效白居易体，张耒晚年诗风亦效白公——钱基博据此认为苏辙'诗已不逮诸公'"
+    }
+  },
+
+  "compared_to_su_shi": {
+    "description": "苏辙与苏轼政治立场基本一致（皆反对新法扰民，也不满旧党极端），但性格和文风有明显差异：",
+    "su_zhe_characteristics": ["沉稳内敛", "慎独自守", "文风稳重", "不求人知"],
+    "su_shi_characteristics": ["旷达张扬", "乐天派", "文风汪洋", "名动天下"],
+    "key_difference": "苏轼'奇'，苏辙'稳'；苏轼'汪洋'，苏辙'澹泊'"
+  }
+}
