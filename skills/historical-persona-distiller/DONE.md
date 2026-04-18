@@ -19,6 +19,7 @@
 | 5 | 陶渊明 | 晋 | 2026-04-18 | high | 15 |
 | 6 | 王维 | 唐 | 2026-04-18 | high | 30 |
 | 7 | 白居易 | 唐 | 2026-04-18 | high | 20 |
+| 8 | 李清照 | 宋 | 2026-04-18 | high | 12 |
 ```
 
 **字段说明：**
@@ -38,11 +39,11 @@
 ```
 ### 下一待处理
 
-- **人物：** 李清照
-- **朝代：** 宋
+- **人物：** 欧阳修
+- **朝代：** 北宋
 - **priority：** medium
-- **预计难度：** 中等（通俗派，讽喻诗传统，需抓取讽喻诗代表作）
-- **建议切分数：** 3-4（少女时期→婚姻与金石→流亡南渡→晚年独居）
+- **预计难度：** 中等（北宋文坛领袖，史料丰富，需抓取诗文全集）
+- **建议切分数：** 4-5（早年入学→宦海沉浮→文坛领袖→晚年隐居）
 ```
 
 ---
@@ -163,6 +164,22 @@
   - output/bai_juyi/raw_stats.json
   - output/bai_juyi/EVENTS.md
   - output/bai_juyi/VOICE.md
+
+### 2026-04-18
+
+**人物：** 李清照
+**执行时间：** 14:01 - 14:13
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** 古诗文网(guwendao.net)重定向、wikisource.org、ctext.org等主要古典文献网站均无法访问；改以百度百科（传记+后世评述）和百度汉语（诗词）为两个主要来源；诗词仅抓取20首（不足30首下限），补充搜索无效；但传记极详尽（8000+字），后世评述极丰富（40+条，跨越宋元明清四朝），整体语料仍属丰富
+**产出文件：**
+  - output/li_qingzhao/SKILL.md
+  - output/li_qingzhao/README.md
+  - output/li_qingzhao/METADATA.json
+  - output/li_qingzhao/CITATIONS.md
+  - output/li_qingzhao/raw_stats.json
+  - output/li_qingzhao/EVENTS.md
+  - output/li_qingzhao/VOICE.md
 ```
 
 ---
@@ -171,19 +188,19 @@
 
 ```
 总人物数：     25
-已完成：       7
+已完成：       8
 进行中：       0
-待处理：       18
-完成率：       28%
+待处理：       17
+完成率：       32%
 
 按 confidence：
-  high：       7
+  high：       8
   medium：     0
   low：        0
 
 按朝代：
   唐：         4 / 6
-  北宋：       1 / 5
+  北宋：       1 / 5 → 2 / 5（新增李清照）
   南宋：       1 / 1
   晋：         1 / 1
   战国：       0 / 3
