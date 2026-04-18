@@ -17,6 +17,7 @@
 | 3 | 李白 | 唐 | 2026-04-18 | high | 60 |
 | 4 | 辛弃疾 | 南宋 | 2026-04-18 | high | 60 |
 | 5 | 陶渊明 | 晋 | 2026-04-18 | high | 15 |
+| 6 | 王维 | 唐 | 2026-04-18 | high | 30 |
 ```
 
 **字段说明：**
@@ -36,11 +37,11 @@
 ```
 ### 下一待处理
 
-- **人物：** 王维
+- **人物：** 白居易
 - **朝代：** 唐
 - **priority：** medium
-- **预计难度：** 中等（诗佛，山水诗巅峰，需抓取山水诗代表作）
-- **建议切分数：** 3-4（进士及第→安史之乱→隐居辋川→晚年）
+- **预计难度：** 中等（通俗派，讽喻诗传统，需抓取讽喻诗代表作）
+- **建议切分数：** 3-4（年少及第→贬谪江州→晚年分司）
 ```
 
 ---
@@ -129,6 +130,22 @@
   - output/tao_yuanming/raw_stats.json
   - output/tao_yuanming/EVENTS.md
   - output/tao_yuanming/VOICE.md
+
+### 2026-04-18
+
+**人物：** 王维
+**执行时间：** 10:01 - 10:31
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** wikisource.org、ctext.org、古诗文网等主要古典文献网站均无法访问；改以百度百科（传记+评述）和百度汉语（诗词）为两个主要来源，抓取了32首诗词、传记原文、37条直接引语、26条后世评述；网络连接 GitHub 偶有超时，重试后成功
+**产出文件：**
+  - output/wang_wei/SKILL.md
+  - output/wang_wei/README.md
+  - output/wang_wei/METADATA.json
+  - output/wang_wei/CITATIONS.md
+  - output/wang_wei/raw_stats.json
+  - output/wang_wei/EVENTS.md
+  - output/wang_wei/VOICE.md
 ```
 
 ---
@@ -137,18 +154,18 @@
 
 ```
 总人物数：     25
-已完成：       5
+已完成：       6
 进行中：       0
-待处理：       20
-完成率：       20%
+待处理：       19
+完成率：       24%
 
 按 confidence：
-  high：       5
+  high：       6
   medium：     0
   low：        0
 
 按朝代：
-  唐：         2 / 6
+  唐：         3 / 6
   北宋：       1 / 5
   南宋：       1 / 1
   晋：         1 / 1
