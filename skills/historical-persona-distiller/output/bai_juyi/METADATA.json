@@ -1,0 +1,30 @@
+{
+  "persona_id": "bai_juyi",
+  "name": "白居易",
+  "aliases": ["乐天", "香山居士", "醉吟先生"],
+  "era": "唐代中期",
+  "birth_year": 772,
+  "death_year": 846,
+  "confidence": "high",
+  "priority": "medium",
+  "persona_type": "historical_poet",
+  "sources_count": 6,
+  "poems_count": 5,
+  "key_works": [
+    "长恨歌",
+    "琵琶行",
+    "观刈麦",
+    "卖炭翁",
+    "问刘十九",
+    "南湖早春",
+    "与元九书"
+  ],
+  "core_themes": [
+    "现实主义诗学",
+    "兼济与独善",
+    "底层关怀",
+    "通俗诗风"
+  ],
+  "distillation_date": "2026-04-18",
+  "distiller": "openclaw-historical-persona-distiller"
+}

@@ -1,0 +1,65 @@
+{
+  "persona_id": "bai_juyi",
+  "distillation_stats": {
+    "sources_gathered": 6,
+    "sources_urls": [
+      "https://baike.baidu.com/item/白居易",
+      "https://baike.baidu.com/item/长恨歌/22524",
+      "https://baike.baidu.com/item/观刈麦",
+      "https://baike.baidu.com/item/问刘十九",
+      "https://baike.baidu.com/item/南湖早春",
+      "https://baike.baidu.com/item/与元九书"
+    ],
+    "poems_obtained": 5,
+    "poems_list": [
+      "长恨歌（完整）",
+      "观刈麦（完整）",
+      "问刘十九（完整）",
+      "南湖早春（完整）",
+      "琵琶行（传记引语）"
+    ],
+    "引语_obtained": 3,
+    "prose_work_obtained": 1,
+    "prose_works_list": [
+      "与元九书（完整）"
+    ],
+    "biography_obtained": true,
+    "historical_comments_obtained": true
+  },
+  "raw_files": {
+    "传记.txt": "2729 bytes",
+    "长恨歌.txt": "1274 bytes",
+    "观刈麦.txt": "185 bytes",
+    "问刘十九.txt": "43 bytes",
+    "南湖早春.txt": "85 bytes",
+    "与元九书.txt": "1523 bytes",
+    "全部语料.txt": "compiled"
+  },
+  "processed_files": {
+    "stages.md": "2217 bytes",
+    "dimension_思想内核.json": "3021 bytes",
+    "dimension_语言特征.json": "3003 bytes",
+    "dimension_表达偏好.json": "2611 bytes",
+    "dimension_立场光谱.json": "2861 bytes",
+    "dimension_voice_profile.json": "2651 bytes"
+  },
+  "output_files": {
+    "SKILL.md": "2705 bytes",
+    "EVENTS.md": "1837 bytes",
+    "VOICE.md": "2053 bytes",
+    "README.md": "1516 bytes",
+    "METADATA.json": "539 bytes",
+    "CITATIONS.md": "2797 bytes",
+    "raw_stats.json": "current file"
+  },
+  "confidence_assessment": {
+    "confidence": "high",
+    "reasoning": "资料涵盖传记、诗歌原文、诗论原文、历史评述四大类，共6个不同来源。诗歌原文获得5首（含3首完整长诗），诗论散文《与元九书》完整获取。思想内核五论均有原文引用支持，语言特征和立场光谱分析均有具体诗句作为证据。"
+  },
+  "known_limitations": [
+    "部分中文古典文献网站（wikisource.org, ctext.org）无法访问，改以百度百科为主要来源",
+    "《琵琶行》原文未能直接获取完整文本，仅从传记和引语中提取片段",
+    "《卖炭翁》《钱塘湖春行》等名篇原文未能直接获取"
+  ],
+  "distillation_completed_at": "2026-04-18T04:20:00+08:00"
+}
