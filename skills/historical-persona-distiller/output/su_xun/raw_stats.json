@@ -1,0 +1,21 @@
+{
+  "persona_id": "su_xun",
+  "corpus_stats": {
+    "raw_传记_字": 5205,
+    "raw_引语_字": 726,
+    "raw_六国论原文_字": 700,
+    "raw_后世评述_字": 2150,
+    "语料总计_字": 8781,
+    "传记来源": "百度百科·苏洵（https://baike.baidu.com/item/苏洵/597274）",
+    "六国论来源": "百度百科·六国论（https://baike.baidu.com/item/六国论/203）",
+    "后世评述来源": "百度百科·苏洵",
+    "抓取时间": "2026-04-18T16:06-16:08 UTC"
+  },
+  "direct_quotes_count": 16,
+  "poems_collected": 10,
+  "works_fully_cited": [
+    "六国论"
+  ],
+  "biography_completeness": "完整（约11000字百度百科传记，含五个阶段详细记载）",
+  "later_criticism_count": "6条（欧阳修2条、曾巩2条、叶梦得1条、宋代谚语1条）"
+}
