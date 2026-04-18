@@ -1,0 +1,44 @@
+{
+  "人物": "wang_wei",
+  "朝代": "唐",
+  "生卒年": "701-761",
+  "蒸馏版本": "1.0",
+  "蒸馏日期": "2026-04-18T02:10:00Z",
+  "蒸馏耗时_分钟": 30,
+  "overall_confidence": "high",
+  "sources_used_count": 2,
+  "poetry_count": 32,
+  "prose_count": 3,
+  "direct_quote_count": 37,
+  "stages_count": 5,
+  "引用验证": "已通过质量控制检查",
+  "persona_id": "wang_wei",
+  "字号": "摩诘",
+  "号": "摩诘居士",
+  "世称": "王右丞",
+  "别号": "诗佛",
+  "主要成就": "山水田园诗巅峰、文人画南宗鼻祖",
+  "代表作": [
+    "《山居秋暝》",
+    "《鸟鸣涧》",
+    "《鹿柴》",
+    "《竹里馆》",
+    "《终南别业》",
+    "《使至塞上》",
+    "《送元二使安西》",
+    "《相思》"
+  ],
+  "合称": "王孟（与孟浩然）",
+  "sources": [
+    {
+      "url": "https://baike.baidu.com/item/%E7%8E%8B%E7%BB%B4/37558",
+      "type": "historical_record",
+      "description": "百度百科 - 王维传记及评述"
+    },
+    {
+      "url": "https://hanyu.baidu.com/s?wd=%E7%8E%8B%E7%BB%B4&from=poetry",
+      "type": "poetry_collection",
+      "description": "百度汉语 - 王维诗词"
+    }
+  ]
+}
