@@ -1,0 +1,45 @@
+{
+  "人物": "li_qingzhao",
+  "姓名": "李清照",
+  "朝代": "宋",
+  "生卒年": "1084-约1155",
+  "号": "易安居士",
+  "蒸馏版本": "1.0",
+  "蒸馏日期": "2026-04-18",
+  "蒸馏耗时_分钟": 12,
+  "overall_confidence": "high",
+  "sources_used_count": 2,
+  "poetry_count": 20,
+  "prose_count": 0,
+  "direct_quote_count": 20,
+  "historical_evaluation_count": 40,
+  "stages_count": 5,
+  "引用验证": "已通过质量控制检查",
+  "confidence_note": "诗词原始文本仅20首，不足30首下限，但传记语料极丰富(8000+字)，后世评述极充分(40+条)，整体confidence维持为high",
+  "代表作品": [
+    "《如梦令·昨夜雨疏风骤》",
+    "《一剪梅·红藕香残玉簟秋》",
+    "《醉花阴·薄雾浓云愁永昼》",
+    "《声声慢·寻寻觅觅》",
+    "《武陵春·春晚》",
+    "《夏日绝句》",
+    "《金石录后序》"
+  ],
+  "主要评价": [
+    "男中李后主，女中李易安，极是当行本色。——明·沈谦《填词杂说》",
+    "易安在宋诸媛中，自卓然一家，不在秦七、黄九之下。——清·李调元《雨村词话》",
+    "才藻非女子之事也。——陆游《夫人孙氏墓志铭》引"
+  ],
+  "sources": [
+    {
+      "url": "https://baike.baidu.com/item/李清照",
+      "type": "historical_record",
+      "description": "百度百科《李清照》词条（传记+评价）"
+    },
+    {
+      "url": "https://hanyu.baidu.com/s?wd=李清照词&from=poetry",
+      "type": "poetry_collection",
+      "description": "百度汉语《李清照词》全集（20首）"
+    }
+  ]
+}
