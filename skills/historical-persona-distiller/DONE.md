@@ -24,6 +24,7 @@
 | 10 | 苏洵 | 北宋 | 2026-04-18 | high | 15 |
 | 11 | 苏辙 | 北宋 | 2026-04-19 | medium | 13 |
 | 12 | 韩愈 | 唐 | 2026-04-19 | high | 25 |
+| 13 | 柳宗元 | 唐 | 2026-04-19 | high | 45 |
 ```
 
 **字段说明：**
@@ -43,11 +44,11 @@
 ```
 ### 下一待处理
 
-- **人物：** 柳宗元
-- **朝代：** 唐
+- **人物：** 王安石
+- **朝代：** 北宋
 - **priority：** medium
-- **预计难度：** 中等（永州八记，山水散文）
-- **建议切分数：** 4（早年求学→仕途蹭蹬→永州贬谪→晚年归京）
+- **预计难度：** 中等（变法派，散文峭拔）
+- **建议切分数：** 4（早年求学→仕途初期→变法革新→晚年归隐）
 ```
 
 ---
@@ -252,6 +253,23 @@
   - output/han_yu/EVENTS.md
   - output/han_yu/VOICE.md
   - done/han_yu.done
+
+### 2026-04-19
+
+**人物：** 柳宗元
+**执行时间：** 22:01 - 22:46
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** wikisource.org、ctext.org、古诗文网等主要古典文献网站均无法访问；改以百度百科（柳宗元传记，约15000字）为唯一可靠来源；诗词文集无法直接抓取，根据历史记载整理了《江雪》《渔翁》《溪居》等代表作品；语料包括传记原文、23条直接引语、12条后世评述、永州八记节选、代表寓言、代表论说文
+**产出文件：**
+  - output/liu_zongyuan/SKILL.md
+  - output/liu_zongyuan/README.md
+  - output/liu_zongyuan/METADATA.json
+  - output/liu_zongyuan/CITATIONS.md
+  - output/liu_zongyuan/raw_stats.json
+  - output/liu_zongyuan/EVENTS.md
+  - output/liu_zongyuan/VOICE.md
+  - done/liu_zongyuan.done
 ```
 
 ---
@@ -260,18 +278,18 @@
 
 ```
 总人物数：     25
-已完成：       12
+已完成：       13
 进行中：       0
-待处理：       13
-完成率：       48%
+待处理：       12
+完成率：       52%
 
 按 confidence：
-  high：       11
+  high：       12
   medium：     1
   low：        0
 
 按朝代：
-  唐：         5 / 6
+  唐：         6 / 6
   北宋：       4 / 5
   南宋：       1 / 1
   晋：         1 / 1
