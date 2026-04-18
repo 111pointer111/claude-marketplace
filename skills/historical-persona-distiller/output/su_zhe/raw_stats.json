@@ -1,0 +1,60 @@
+{
+  "pid": "su_zhe",
+  "corpus_stats": {
+    "raw_text_bytes": 18145,
+    "biography_bytes": 5948,
+    "poetry_bytes": 1243,
+    "quotes_bytes": 8954,
+    "sources_count": 3,
+    "source_urls": [
+      "https://baike.baidu.com/item/苏辙",
+      "https://hanyu.baidu.com/s?wd=苏辙",
+      "https://baike.baidu.com/item/栾城集"
+    ],
+    "poems_collected": 20,
+    "poem_titles": [
+      "黄州快哉亭记",
+      "上枢密韩太尉书",
+      "幽兰花",
+      "早睡",
+      "水调歌头·徐州中秋",
+      "省事",
+      "怀渑池寄子瞻兄",
+      "春深三首",
+      "江上看山",
+      "种兰",
+      "南斋竹",
+      "游西湖",
+      "夜泊牛口",
+      "雨中宿酒务",
+      "次韵子瞻闻不赴商幕",
+      "北堂",
+      "山胡",
+      "河冰",
+      "寒雨",
+      "望夫台"
+    ],
+    "direct_quotes_count": 48,
+    "historical_evaluations_count": 18,
+    "works_mentioned": [
+      "《栾城集》",
+      "《诗集传》",
+      "《春秋集解》",
+      "《论语拾遗》",
+      "《老子解》",
+      "《古史》",
+      "《龙川略志》",
+      "《龙川别志》",
+      "《颍滨遗老传》",
+      "《南行集》",
+      "《南行后集》"
+    ],
+    "calligraphic_works": [
+      "《雪甚帖》",
+      "《雪诗帖》",
+      "《车马帖》",
+      "《晴寒帖》"
+    ],
+    "confidence_note": "诗词语料约20首（未达30首下限），传记语料极为丰富（万字），后世评述18条，引用共48条"
+  }
+}

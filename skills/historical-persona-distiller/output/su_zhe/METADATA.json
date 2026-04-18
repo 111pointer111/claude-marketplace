@@ -1,0 +1,93 @@
+{
+  "pid": "su_zhe",
+  "name": "苏辙",
+  "name_full": "苏辙，字子由，号颍滨遗老",
+  "birth_year": 1039,
+  "death_year": 1112,
+  "birth_date": "1039-03-17",
+  "death_date": "1112-10-25",
+  "era": "北宋",
+  "birthplace": "眉州眉山（今四川眉山）",
+  "deathplace": "许州颍川（今河南许昌）",
+  "confidence": "medium",
+  "confidence_rationale": "苏辙存世诗约500首、文84卷（《栾城集》），语料较苏轼等大家相对有限，但传记资料详尽（百度百科含万字传记）、后世评述丰富、思想内核各条结论均有2处以上原文引用。一致性校验通过，定为medium置信度。",
+
+  "life_stages": [
+    {
+      "stage": "早年求学",
+      "period": "1039-1056",
+      "age_range": "0-17岁",
+      "confidence": "low",
+      "note": "几乎无直接语料存世，性格分析依据苏洵《名二子说》推断"
+    },
+    {
+      "stage": "科场扬名",
+      "period": "1056-1070",
+      "age_range": "17-31岁",
+      "confidence": "medium",
+      "note": "存世作品不多，但《上枢密韩太尉书》等文章已显稳重文风"
+    },
+    {
+      "stage": "新法风波与贬谪",
+      "period": "1070-1085",
+      "age_range": "31-46岁",
+      "confidence": "high",
+      "note": "乌台诗案牵连被贬，诗文渐趋深沉，《黄州快哉亭记》等代表作存世"
+    },
+    {
+      "stage": "元祐秉政",
+      "period": "1085-1093",
+      "age_range": "46-54岁",
+      "confidence": "medium",
+      "note": "政治高峰，散文成熟，但具体作品存世较少"
+    },
+    {
+      "stage": "晚年流放与潜居",
+      "period": "1093-1112",
+      "age_range": "54-74岁",
+      "confidence": "high",
+      "note": "诗文最为成熟，《游西湖》等作品以'闭门'为主题，意境最高"
+    }
+  ],
+
+  "literary_achievements": {
+    "poems_count": "~500-600",
+    "ci_count": "少量",
+    "prose_count": "84卷（《栾城集》前集50卷、后集24卷、三集10卷）",
+    "calligraphy": "宋四家书法风格，潇洒工整",
+    "paintings": "墨竹"
+  },
+
+  "major_titles": [
+    "文定（宋孝宗追谥）",
+    "颍滨遗老（自号）",
+    "小苏（与父兄合称三苏）"
+  ],
+
+  "corpus_sources": [
+    {
+      "source": "raw/su_zhe/全部语料.txt",
+      "description": "百度百科苏辙词条抓取（万字传记）+ 百度汉语诗词语料 + 百度百科栾城集页面",
+      "includes": ["传记原文", "代表作品原文", "直接引语", "后世评述", "文学成就总评", "诗词选录", "散文选录"]
+    }
+  ],
+
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+
+  "distillation_date": "2026-04-19",
+  "distillation_confidence": "medium",
+  "known_limitations": [
+    "诗作数量相对有限（约500-600首，不足苏轼的2700首）",
+    "早年作品散佚：眉山成长期和科场早期几乎无作品存世",
+    "书信文本有限：本次采集未获完整书信文本",
+    "无口语语料：voice profile 仅从书面语推测"
+  ]
+}
