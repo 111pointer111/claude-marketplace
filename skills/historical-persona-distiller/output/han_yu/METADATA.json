@@ -1,0 +1,119 @@
+{
+  "pid": "han_yu",
+  "name": "韩愈",
+  "name_full": "韩愈，字退之",
+  "birth_year": 768,
+  "death_year": 824,
+  "birth_date": "768年",
+  "death_date": "824年12月25日",
+  "era": "唐",
+  "birthplace": "河阳（今河南孟州）",
+  "deathplace": "长安靖安里（今陕西西安）",
+  "confidence": "high",
+  "confidence_rationale": "韩愈古文运动领袖，传记详尽（百度百科万字传记），存世代表作丰富：《师说》《马说》《进学解》《祭十二郎文》等古文名篇均为原文语料，后世评述跨越唐宋元明清四朝，语料充分。",
+
+  "life_stages": [
+    {
+      "stage": "困苦童年",
+      "period": "768-786年",
+      "age_range": "0-18岁",
+      "confidence": "medium",
+      "note": "早年丧父，兄长抚养，历经颠沛"
+    },
+    {
+      "stage": "科举蹭蹬",
+      "period": "786-796年",
+      "age_range": "18-29岁",
+      "confidence": "medium",
+      "note": "四次应举方中第，三次吏部考试失败"
+    },
+    {
+      "stage": "幕府历练与贬谪",
+      "period": "797-819年",
+      "age_range": "29-51岁",
+      "confidence": "high",
+      "note": "古文运动核心期，阳山之贬，创作高峰"
+    },
+    {
+      "stage": "晚年辉煌",
+      "period": "819-824年",
+      "age_range": "51-57岁",
+      "confidence": "high",
+      "note": "潮州贬谪，出使镇州，终至吏部侍郎"
+    }
+  ],
+
+  "literary_achievements": {
+    "poems_count": "约200首",
+    "prose_count": "大量古文",
+    "major_works": ["师说", "马说", "进学解", "祭十二郎文", "论佛骨表", "原道"]
+  },
+
+  "major_titles": [
+    "昌黎伯（宋神宗追封）",
+    "昌黎先生",
+    "韩文公"
+  ],
+
+  "corpus_sources": [
+    {
+      "source": "raw/han_yu/全部语料.txt",
+      "description": "百度百科韩愈词条抓取 + 代表作品原文",
+      "includes": ["传记原文", "代表作品原文", "直接引语", "后世评述"]
+    },
+    {
+      "source": "raw/han_yu/传记.txt",
+      "description": "韩愈传记全文（百度百科）"
+    },
+    {
+      "source": "raw/han_yu/后世评述.txt",
+      "description": "后世评述集锦"
+    },
+    {
+      "source": "raw/han_yu/引语.txt",
+      "description": "韩愈直接引语集"
+    },
+    {
+      "source": "processed/han_yu/dimension_思想内核.json",
+      "description": "思想内核维度分析"
+    },
+    {
+      "source": "processed/han_yu/dimension_语言特征.json",
+      "description": "语言特征维度分析"
+    },
+    {
+      "source": "processed/han_yu/dimension_表达偏好.json",
+      "description": "表达偏好维度分析"
+    },
+    {
+      "source": "processed/han_yu/dimension_立场光谱.json",
+      "description": "立场光谱维度分析"
+    },
+    {
+      "source": "processed/han_yu/dimension_voice_profile.json",
+      "description": "Voice Profile 分析"
+    },
+    {
+      "source": "processed/han_yu/stages.md",
+      "description": "人生阶段切分"
+    }
+  ],
+
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+
+  "distillation_date": "2026-04-19",
+  "distillation_confidence": "high",
+  "known_limitations": [
+    "诗词语料有限：本次采集以古文为主，诗词仅约20首",
+    "书信文本有限：未获完整书信文本",
+    "stage 1-3 并行执行受限：因 ACP agent 配置问题，改为串行执行"
+  ]
+}

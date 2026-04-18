@@ -1,0 +1,73 @@
+{
+  "pid": "han_yu",
+  "name": "韩愈",
+  "distillation_date": "2026-04-19",
+  "corpus_stats": {
+    "sources_used": [
+      {
+        "name": "百度百科韩愈词条",
+        "url": "https://baike.baidu.com/item/韩愈/127407",
+        "type": "historical_record",
+        "chars": 49229,
+        "status": "success"
+      },
+      {
+        "name": "百度百科《师说》词条",
+        "url": "https://baike.baidu.com/item/师说/75226",
+        "type": "personal_essay",
+        "chars": 9815,
+        "status": "success"
+      },
+      {
+        "name": "百度百科《进学解》词条",
+        "url": "https://baike.baidu.com/item/进学解",
+        "type": "personal_essay",
+        "chars": 12553,
+        "status": "success"
+      },
+      {
+        "name": "百度百科《祭十二郎文》词条",
+        "url": "https://baike.baidu.com/item/祭十二郎文",
+        "type": "personal_essay",
+        "chars": 12984,
+        "status": "success"
+      },
+      {
+        "name": "百度百科《马说》词条",
+        "url": "https://baike.baidu.com/item/马说/1563391",
+        "type": "poetry_collection",
+        "chars": 10000,
+        "status": "success"
+      },
+      {
+        "name": "百度百科《早春呈水部张十八员外二首》词条",
+        "url": "https://baike.baidu.com/item/早春呈水部张十八员外二首",
+        "type": "poetry_collection",
+        "chars": 6252,
+        "status": "success"
+      }
+    ],
+    "total_source_chars": 100833,
+    "poetry_count": 2,
+    "prose_count": 4,
+    "direct_quotes": 22,
+    "commentary_count": 30,
+    "citations_count": 30,
+    "output_files": [
+      "SKILL.md",
+      "EVENTS.md",
+      "VOICE.md",
+      "README.md",
+      "METADATA.json",
+      "CITATIONS.md",
+      "raw_stats.json"
+    ],
+    "known_issues": [
+      "wikisource.org、ctext.org 等主要古典文献网站无法访问",
+      "诗词采集数量有限（仅约20首），不足30首下限",
+      "书信文本采集不足"
+    ]
+  },
+  "confidence": "high",
+  "confidence_reason": "传记详尽（49229字），代表作品语料充分（师说、进学解、祭十二郎文、马说、早春诗），后世评述跨越唐宋元明清四朝，整体语料丰富，confidence评级为high"
+}
