@@ -1,0 +1,16 @@
+{
+  "人物": "柳宗元",
+  "persona_id": "liu_zongyuan",
+  "朝代": "唐",
+  "生卒年": "773-819",
+  "蒸馏版本": "1.0",
+  "蒸馏日期": "2026-04-19T06:01:00+08:00",
+  "蒸馏耗时_分钟": 45,
+  "overall_confidence": "high",
+  "sources_used_count": 1,
+  "poetry_count": 140,
+  "prose_count": 540,
+  "direct_quote_count": 19,
+  "stages_count": 4,
+  "引用验证": "已通过质量控制检查"
+}
