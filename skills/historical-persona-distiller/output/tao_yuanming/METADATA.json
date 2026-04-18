@@ -1,0 +1,139 @@
+{
+  "pid": "tao_yuanming",
+  "name": "陶渊明",
+  "name_full": "陶渊明，字元亮，私谥靖节，号五柳先生",
+  "birth_year": 365,
+  "death_year": 427,
+  "birth_date": "约365年（东晋兴宁三年）",
+  "death_date": "427年（刘宋元嘉四年）",
+  "era": "东晋至刘宋初",
+  "birthplace": "浔阳柴桑（今江西九江）",
+  "deathplace": "浔阳柴桑（今江西九江）",
+  "confidence": "high",
+  "confidence_rationale": "陶渊明存世诗125首、文12篇，语料涵盖核心代表作《归园田居》《归去来兮辞》《饮酒》《杂诗》《读山海经》《桃花源记》《五柳先生传》等，思想内核清晰，语言风格高度统一，一致性校验通过。",
+
+  "life_stages": [
+    {
+      "stage": "少年立志",
+      "period": "约365-393年",
+      "age_range": "0-28岁",
+      "confidence": "medium",
+      "note": "几乎无直接作品存世，但《杂诗》其五'忆我少壮时'、《与子俨等疏》等有回忆性描述"
+    },
+    {
+      "stage": "仕宦挣扎",
+      "period": "393-405年",
+      "age_range": "29-41岁",
+      "confidence": "high",
+      "note": "《归去来兮辞》序完整记述出仕原因与心理转折"
+    },
+    {
+      "stage": "归隐初期",
+      "period": "406-415年",
+      "age_range": "42-51岁",
+      "confidence": "high",
+      "note": "《归园田居》五首、《移居》等田园诗代表作创作于此期"
+    },
+    {
+      "stage": "隐居深化",
+      "period": "416-423年",
+      "age_range": "52-59岁",
+      "confidence": "high",
+      "note": "《饮酒》二十首、《杂诗》十二首主要写于这一时期"
+    },
+    {
+      "stage": "晚年坚守",
+      "period": "424-427年",
+      "age_range": "60-63岁",
+      "confidence": "high",
+      "note": "《读山海经》十三首、《挽歌诗》、《自祭文》写于晚年"
+    }
+  ],
+
+  "literary_achievements": {
+    "poems_count": 125,
+    "essays_count": 12,
+    "main_genres": ["田园诗", "饮酒诗", "咏怀诗", "咏史诗", "辞赋", "散文"],
+    "notable_titles": [
+      "《归园田居》",
+      "《归去来兮辞》",
+      "《饮酒》二十首",
+      "《杂诗》十二首",
+      "《读山海经》十三首",
+      "《桃花源记》",
+      "《五柳先生传》"
+    ]
+  },
+
+  "major_titles": [
+    "靖节（友人私谥）",
+    "五柳先生（自号）",
+    "隐逸诗人之宗"
+  ],
+
+  "corpus_sources": [
+    {
+      "source": "raw/tao_yuanming/全部语料.txt",
+      "description": "百度百科多页面抓取，涵盖传记、诗词原文、引语、后世评述",
+      "includes": [
+        "传记.txt",
+        "诗词_归园田居.txt",
+        "诗词_归去来兮辞.txt",
+        "诗词_杂诗十二首.txt",
+        "诗词_饮酒二十首.txt",
+        "诗词_读山海经十三首.txt",
+        "散文_桃花源记.txt",
+        "散文_五柳先生传.txt",
+        "引语.txt",
+        "后世评述.txt"
+      ]
+    },
+    {
+      "source": "processed/tao_yuanming/dimension_思想内核.json",
+      "description": "思想内核维度分析"
+    },
+    {
+      "source": "processed/tao_yuanming/dimension_语言特征.json",
+      "description": "语言特征维度分析"
+    },
+    {
+      "source": "processed/tao_yuanming/dimension_表达偏好.json",
+      "description": "表达偏好维度分析"
+    },
+    {
+      "source": "processed/tao_yuanming/dimension_立场光谱.json",
+      "description": "立场光谱维度分析"
+    },
+    {
+      "source": "processed/tao_yuanming/dimension_voice_profile.json",
+      "description": "Voice Profile 分析"
+    },
+    {
+      "source": "processed/tao_yuanming/stages.md",
+      "description": "人生阶段切分"
+    },
+    {
+      "source": "processed/tao_yuanming/dimension_一致性校验.json",
+      "description": "一致性校验报告"
+    }
+  ],
+
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+
+  "distillation_date": "2026-04-18",
+  "distillation_confidence": "high",
+  "known_limitations": [
+    "早年作品散佚：28岁前几乎无作品存世，少年时期依赖后世传记和本人回忆性作品推断",
+    "书信文本有限：本次采集以诗文为主，书信散文较少",
+    "无口语语料：voice profile 仅从书面语推测",
+    "部分诗作年代有争议：如《杂诗十二首》的具体创作年份学界尚有不同看法"
+  ]
+}

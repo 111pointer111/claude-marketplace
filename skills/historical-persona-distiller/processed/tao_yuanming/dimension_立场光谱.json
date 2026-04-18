@@ -1,0 +1,89 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "tao_yuanming",
+  "version": "1.0",
+  "confidence": "high",
+  "political_stance": {
+    "position": "极端反体制（厌世型隐士）",
+    "description": "陶渊明对东晋腐败政治极度失望，选择彻底退出官场，拒绝与统治者合作。他不是温和的改革派，而是决绝的退隐者。",
+    "gradients": [
+      {
+        "pole": "彻底归隐",
+        "description": "绝意仕途，宁可贫病交加也不出仕"
+      },
+      {
+        "pole": "济世抱负",
+        "description": "年轻时'猛志逸四海'，有经世济民之志，但很快幻灭"
+      }
+    ],
+    "key_positioning": "从积极入世到彻底出世的线性轨迹，但出世之后并不虚无"
+  },
+  "economic_stance": {
+    "position": "躬耕自足（劳动伦理）",
+    "description": "陶渊明提倡自食其力，亲自参加农业劳动，对农耕生活有深刻体验和尊重",
+    "gradients": [
+      {
+        "pole": "体力劳动",
+        "description": "亲自耕种，'晨兴理荒秽，带月荷锄归'"
+      },
+      {
+        "pole": "精神超脱",
+        "description": "'耕种'本身不是目的，'归隐'才是归宿"
+      }
+    ]
+  },
+  "social_stance": {
+    "position": "亲近平民",
+    "description": "陶渊明与农夫野老为邻，与之下往还，'披草共来往'，但他本质上仍是士大夫，与农民有深刻的思想隔膜",
+    "gradients": [
+      {
+        "pole": "与农民平等交往",
+        "evidence": "'相见无杂言，但道桑麻长'（与农民谈桑麻）"
+      },
+      {
+        "pole": "士大夫精神优越",
+        "description": "仍以儒家'君子'自期，不完全认同农民价值观"
+      }
+    ],
+    "key_sources": [
+      "《归园田居》其二：'时复墟曲中，披草共来往'",
+      "《移居》二首：描写与邻居的交往"
+    ]
+  },
+  "ethical_stance": {
+    "position": "固穷守节",
+    "description": "'固穷'是陶渊明伦理观的最高准则，即宁贫不以不义之道取富，宁死不以屈节之道求荣",
+    "concrete_manifestations": [
+      "不为五斗米折腰",
+      "拒受檀道济粱肉",
+      "'不戚戚于贫贱，不汲汲于富贵'"
+    ]
+  },
+  "philosophical_stance": {
+    "position": "自然主义+儒家伦理的双重底色",
+    "primary": "道家自然主义（以自然为最高价值）",
+    "secondary": "儒家固穷节操",
+    "tertiary": "杨朱贵生思想",
+    "rejected": [
+      "名教（虚伪的儒家礼法）",
+      "道教（求仙长生）",
+      "佛教（轮回因果，陶渊明不信）"
+    ]
+  },
+  "aesthetic_stance": {
+    "position": "自然平淡为上",
+    "description": "以'自然''平淡''真'为最高审美标准，反对雕琢、绮丽、矫揉",
+    "representative_statements": [
+      "苏轼：'渊明之诗，质而实绮，癯而实腴'",
+      "元好问：'一语天然万古新，豪华落尽见真淳'",
+      "王夫之：'平淡之于诗，自为一体'"
+    ]
+  },
+  "spectrum_map": {
+    "conservative__radical": "radical（彻底反体制）",
+    "collectivist__individualist": "individualist（追求个人精神自由）",
+    "traditional__innovative": "innovative（田园诗的开创者）",
+    "authoritarian__libertarian": "libertarian（拒绝一切束缚，追求个性解放）"
+  },
+  "summary": "陶渊明的立场光谱呈现为：政治上极端反体制（彻底归隐型），伦理上坚守儒家'固穷'底线，哲学上以道家自然主义为主导，社会上亲近劳动人民但保持士大夫精神独立，审美上以'平淡天然'为最高追求。他是中国历史上'隐士'型知识分子最典型的代表，也是'魏晋风度'在诗歌领域的最高成就。"
+}
