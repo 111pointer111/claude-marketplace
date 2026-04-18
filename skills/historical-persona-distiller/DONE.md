@@ -21,6 +21,7 @@
 | 7 | 白居易 | 唐 | 2026-04-18 | high | 20 |
 | 8 | 李清照 | 宋 | 2026-04-18 | high | 12 |
 | 9 | 欧阳修 | 北宋 | 2026-04-18 | high | 60 |
+| 10 | 苏洵 | 北宋 | 2026-04-18 | high | 15 |
 ```
 
 **字段说明：**
@@ -40,11 +41,11 @@
 ```
 ### 下一待处理
 
-- **人物：** 苏洵
+- **人物：** 苏辙
 - **朝代：** 北宋
 - **priority：** medium
-- **预计难度：** 中等（苏轼苏辙之父，唐宋八大家之一，史料相对较少）
-- **建议切分数：** 3-4（早年力学→漫游交友→晚年成名）
+- **预计难度：** 中等（苏轼之弟，史料互补性强，需与苏轼苏洵区分）
+- **建议切分数：** 4-5（早年求学→兄弟宦游→贬谪时期→晚年归隐）
 ```
 
 ---
@@ -198,6 +199,23 @@
   - output/ouyang_xiu/EVENTS.md
   - output/ouyang_xiu/VOICE.md
   - done/ouyang_xiu.done
+
+### 2026-04-18
+
+**人物：** 苏洵
+**执行时间：** 16:06 - 16:21
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** web_search 多次失败；改以百度百科为主要来源，抓取了详细传记（约11000字）、《六国论》全文（约700字）、后世评述语料（约2000字）；wikisource.org、ctext.org 均无法访问
+**产出文件：**
+  - output/su_xun/SKILL.md
+  - output/su_xun/README.md
+  - output/su_xun/METADATA.json
+  - output/su_xun/CITATIONS.md
+  - output/su_xun/raw_stats.json
+  - output/su_xun/EVENTS.md
+  - output/su_xun/VOICE.md
+  - done/su_xun.done
 ```
 
 ---
@@ -206,19 +224,19 @@
 
 ```
 总人物数：     25
-已完成：       9
+已完成：       10
 进行中：       0
-待处理：       16
-完成率：       36%
+待处理：       15
+完成率：       40%
 
 按 confidence：
-  high：       9
+  high：       10
   medium：     0
   low：        0
 
 按朝代：
   唐：         4 / 6
-  北宋：       2 / 5
+  北宋：       3 / 5
   南宋：       1 / 1
   晋：         1 / 1
   战国：       0 / 3
