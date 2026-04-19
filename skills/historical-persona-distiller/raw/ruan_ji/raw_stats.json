@@ -1,0 +1,19 @@
+{
+  "人物": "ruan_ji",
+  "朝代": "三国魏",
+  "生卒年": "210-263",
+  "诗词数量": 82,
+  "文集数量": 5,
+  "传记": "有",
+  "直接引语数量": 14,
+  "后世评述数量": 12,
+  "confidence_上限": "high",
+  "抓取时间": "2026-04-20T04:08:00+08:00",
+  "sources_used": [
+    "https://baike.baidu.com/item/阮籍",
+    "https://baike.baidu.com/item/阮籍集",
+    "https://baike.baidu.com/item/大人先生传",
+    "https://baike.baidu.com/item/咏怀八十二首",
+    "https://baike.baidu.com/item/通老论"
+  ]
+}
