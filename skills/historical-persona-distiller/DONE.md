@@ -28,6 +28,7 @@
 | 14 | 柳宗元 | 唐 | 2026-04-19 | high | 45 |
 | 15 | 柳永 | 北宋 | 2026-04-19 | medium | 30 |
 | 16 | 周邦彦 | 北宋 | 2026-04-19 | high | 45 |
+| 17 | 屈原 | 战国 | 2026-04-19 | high | 14 |
 ```
 
 **字段说明：**
@@ -47,11 +48,10 @@
 ```
 ### 下一待处理
 
-- **人物：** 屈原
-- **朝代：** 战国
+- **人物：** 曹操
+- **朝代：** 三国
 - **priority：** medium
-- **预计难度：** 中等偏高（楚辞之祖，香草美人意象，开创浪漫主义诗歌传统）
-- **建议切分数：** 3-4（早年得志→放逐汉北→归隐沅湘→投江殉国）
+- **预计难度：** 中等（建安风骨，慷慨悲凉，诗文兼备）
 ```
 
 ---
@@ -346,6 +346,34 @@
   - processed/zhou_bangyan/dimension_立场光谱.json
   - processed/zhou_bangyan/dimension_voice_profile.json
   - done/zhou_bangyan.done
+
+### 2026-04-19
+
+**人物：** 屈原
+**执行时间：** 14:01 - 14:15
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** web_search 全部失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；古诗文网(guwendao.net) 跳转频繁无法获取诗词全文；改以百度百科屈原传记（30000+字）为唯一主要来源；诗词原文主要从传记引语部分整理（核心名句均有收录）；语料传记极丰富，评价评述极丰富
+**产出文件：**
+  - output/qu_yuan/SKILL.md
+  - output/qu_yuan/README.md
+  - output/qu_yuan/METADATA.json
+  - output/qu_yuan/CITATIONS.md
+  - output/qu_yuan/raw_stats.json
+  - output/qu_yuan/EVENTS.md
+  - output/qu_yuan/VOICE.md
+  - raw/qu_yuan/传记.txt
+  - raw/qu_yuan/诗词.txt
+  - raw/qu_yuan/引语.txt
+  - raw/qu_yuan/后世评述.txt
+  - raw/qu_yuan/全部语料.txt
+  - processed/qu_yuan/stages.md
+  - processed/qu_yuan/dimension_思想内核.json
+  - processed/qu_yuan/dimension_语言特征.json
+  - processed/qu_yuan/dimension_表达偏好.json
+  - processed/qu_yuan/dimension_立场光谱.json
+  - processed/qu_yuan/dimension_voice_profile.json
+  - done/qu_yuan.done
 ```
 
 ---
@@ -354,13 +382,13 @@
 
 ```
 总人物数：     25
-已完成：       16
+已完成：       17
 进行中：       0
-待处理：       9
-完成率：       64%
+待处理：       8
+完成率：       68%
 
 按 confidence：
-  high：       14
+  high：       15
   medium：     2
   low：        0
 
@@ -369,7 +397,7 @@
   北宋：       7 / 7
   南宋：       1 / 1
   晋：         1 / 1
-  战国：       0 / 3
+  战国：       1 / 3
   三国：       0 / 2
   清：         0 / 2
 ```
