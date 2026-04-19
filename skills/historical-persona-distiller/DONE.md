@@ -24,7 +24,8 @@
 | 10 | 苏洵 | 北宋 | 2026-04-18 | high | 15 |
 | 11 | 苏辙 | 北宋 | 2026-04-19 | medium | 13 |
 | 12 | 韩愈 | 唐 | 2026-04-19 | high | 25 |
-| 13 | 柳宗元 | 唐 | 2026-04-19 | high | 45 |
+| 13 | 王安石 | 北宋 | 2026-04-19 | high | 20 |
+| 14 | 柳宗元 | 唐 | 2026-04-19 | high | 45 |
 ```
 
 **字段说明：**
@@ -44,11 +45,11 @@
 ```
 ### 下一待处理
 
-- **人物：** 王安石
+- **人物：** 柳永
 - **朝代：** 北宋
 - **priority：** medium
-- **预计难度：** 中等（变法派，散文峭拔）
-- **建议切分数：** 4（早年求学→仕途初期→变法革新→晚年归隐）
+- **预计难度：** 中等（婉约词，慢词开创）
+- **建议切分数：** 3（早年漂泊→词坛成名→晚年落魄）
 ```
 
 ---
@@ -270,6 +271,23 @@
   - output/liu_zongyuan/EVENTS.md
   - output/liu_zongyuan/VOICE.md
   - done/liu_zongyuan.done
+
+### 2026-04-19
+
+**人物：** 王安石
+**执行时间：** 00:09 - 00:17
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** wikisource.org、ctext.org、古诗文网等主要古典文献网站均无法访问；改以百度百科（王安石传记36426字+各代表作词条）为唯一可靠来源；诗词仅抓取约15首（不足30首下限），但传记和后世评述语料极为丰富
+**产出文件：**
+  - output/wang_anshi/SKILL.md
+  - output/wang_anshi/README.md
+  - output/wang_anshi/METADATA.json
+  - output/wang_anshi/CITATIONS.md
+  - output/wang_anshi/raw_stats.json
+  - output/wang_anshi/EVENTS.md
+  - output/wang_anshi/VOICE.md
+  - done/wang_anshi.done
 ```
 
 ---
@@ -278,19 +296,19 @@
 
 ```
 总人物数：     25
-已完成：       13
+已完成：       14
 进行中：       0
-待处理：       12
-完成率：       52%
+待处理：       11
+完成率：       56%
 
 按 confidence：
-  high：       12
+  high：       13
   medium：     1
   low：        0
 
 按朝代：
   唐：         6 / 6
-  北宋：       4 / 5
+  北宋：       5 / 5
   南宋：       1 / 1
   晋：         1 / 1
   战国：       0 / 3
