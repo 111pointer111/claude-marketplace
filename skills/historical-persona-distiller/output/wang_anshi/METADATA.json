@@ -1,0 +1,105 @@
+{
+  "pid": "wang_anshi",
+  "name": "王安石",
+  "name_full": "王安石，字介甫，号半山居士",
+  "birth_year": 1021,
+  "death_year": 1086,
+  "birth_date": "1021-12-19",
+  "death_date": "1086-05-21",
+  "era": "北宋",
+  "birthplace": "抚州临川（今江西抚州）",
+  "deathplace": "钟山（今江苏南京）",
+  "confidence": "high",
+  "confidence_rationale": "王安石存世诗约1530首、文约2790篇、词约26首，传记资料详尽，语料丰富。变法时期与晚年归隐期作品风格对比鲜明，核心主张（法度可变、理财为国）贯穿始终，置信度评级为high。",
+
+  "life_stages": [
+    {
+      "stage": "早年求学",
+      "period": "1021-1042",
+      "age_range": "0-21岁",
+      "confidence": "medium",
+      "note": "几乎无直接作品存世，但传记有详细记载"
+    },
+    {
+      "stage": "基层历练",
+      "period": "1042-1058",
+      "age_range": "21-37岁",
+      "confidence": "high",
+      "note": "鄞县政绩卓著，《上仁宗皇帝言事书》已显露变法思想"
+    },
+    {
+      "stage": "仕途巅峰与变法",
+      "period": "1058-1076",
+      "age_range": "37-55岁",
+      "confidence": "high",
+      "note": "两次拜相，核心作品集中于此时期"
+    },
+    {
+      "stage": "晚年归隐",
+      "period": "1076-1086",
+      "age_range": "55-66岁",
+      "confidence": "high",
+      "note": "诗风转向丰神远韵，佛学注疏（已散佚）"
+    }
+  ],
+
+  "literary_achievements": {
+    "poems_count": 1530,
+    "prose_count": 2790,
+    "ci_count": 26,
+    "note": "与韩愈、柳宗元、欧阳修、苏洵、苏轼、苏辙、曾巩并称'唐宋八大家'"
+  },
+
+  "major_titles": [
+    "荆公",
+    "王荆公",
+    "王文公",
+    "半山居士"
+  ],
+
+  "corpus_sources": [
+    {
+      "source": "raw/wang_anshi/传记.txt",
+      "description": "百度百科王安石词条抓取"
+    },
+    {
+      "source": "raw/wang_anshi/诗词.txt",
+      "description": "泊船瓜洲、登飞来峰、梅花、元日等代表作原文"
+    },
+    {
+      "source": "raw/wang_anshi/散文词.txt",
+      "description": "读孟尝君传、游褒禅山记、答司马谏议书、桂枝香等原文"
+    },
+    {
+      "source": "raw/wang_anshi/引语.txt",
+      "description": "历史人物对王安石的直接评价引语"
+    },
+    {
+      "source": "raw/wang_anshi/后世评述.txt",
+      "description": "历代名家评述"
+    },
+    {
+      "source": "raw/wang_anshi/全部语料.txt",
+      "description": "所有语料合并"
+    }
+  ],
+
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+
+  "distillation_date": "2026-04-19",
+  "distillation_confidence": "high",
+  "known_limitations": [
+    "早年作品散佚较多",
+    "部分诗歌创作时间有争议",
+    "佛学注疏已散佚，无法获得晚年佛学思想完整语料",
+    "变法具体执行细节的语料有限"
+  ]
+}

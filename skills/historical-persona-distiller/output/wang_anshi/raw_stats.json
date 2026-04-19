@@ -1,0 +1,87 @@
+{
+  "pid": "wang_anshi",
+  "distillation_date": "2026-04-19",
+  "corpus_stats": {
+    "total_files": 6,
+    "传记.txt": {"lines": 149, "bytes": 5188},
+    "诗词.txt": {"lines": 72, "bytes": 797},
+    "散文词.txt": {"lines": 25, "bytes": 1227},
+    "引语.txt": {"lines": 27, "bytes": 1365},
+    "后世评述.txt": {"lines": 31, "bytes": 1551},
+    "全部语料.txt": {"lines": 304, "bytes": null}
+  },
+  "sources_collected": [
+    {
+      "name": "百度百科王安石词条",
+      "url": "https://baike.baidu.com/item/王安石/127359",
+      "type": "historical_record",
+      "chars_collected": 36426
+    },
+    {
+      "name": "百度百科泊船瓜洲",
+      "url": "https://baike.baidu.com/item/泊船瓜洲/4461450",
+      "type": "poetry_collection",
+      "chars_collected": 4085
+    },
+    {
+      "name": "百度百科登飞来峰",
+      "url": "https://baike.baidu.com/item/登飞来峰/2581767",
+      "type": "poetry_collection",
+      "chars_collected": 4846
+    },
+    {
+      "name": "百度百科梅花",
+      "url": "https://baike.baidu.com/item/梅花/22784047",
+      "type": "poetry_collection",
+      "chars_collected": 1624
+    },
+    {
+      "name": "百度百科元日",
+      "url": "https://baike.baidu.com/item/元日/9723157",
+      "type": "poetry_collection",
+      "chars_collected": 3762
+    },
+    {
+      "name": "百度百科伤仲永",
+      "url": "https://baike.baidu.com/item/伤仲永/2891546",
+      "type": "personal_essay",
+      "chars_collected": 5956
+    },
+    {
+      "name": "百度百科读孟尝君传",
+      "url": "https://baike.baidu.com/item/读孟尝君传/4190383",
+      "type": "personal_essay",
+      "chars_collected": 4174
+    },
+    {
+      "name": "百度百科游褒禅山记",
+      "url": "https://baike.baidu.com/item/游褒禅山记/2004967",
+      "type": "personal_essay",
+      "chars_collected": 11104
+    },
+    {
+      "name": "百度百科答司马谏议书",
+      "url": "https://baike.baidu.com/item/答司马谏议书/1653857",
+      "type": "personal_essay",
+      "chars_collected": 7200
+    },
+    {
+      "name": "百度百科桂枝香金陵怀古",
+      "url": "https://baike.baidu.com/item/桂枝香·金陵怀古/3020131",
+      "type": "poetry_collection",
+      "chars_collected": 10035
+    }
+  ],
+  "works_collected": {
+    "poems": 15,
+    "ci_poems": 1,
+    "prose_works": 5
+  },
+  "cross_verification": {
+    "all_citations_verifiable": true,
+    "成语典故_validated": false,
+    "note": "本次采集以百度百科为主，成语典故未逐条 WebSearch 验证"
+  },
+  "confidence": "high",
+  "distillation_duration_minutes": 20
+}
