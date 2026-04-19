@@ -26,6 +26,7 @@
 | 12 | 韩愈 | 唐 | 2026-04-19 | high | 25 |
 | 13 | 王安石 | 北宋 | 2026-04-19 | high | 20 |
 | 14 | 柳宗元 | 唐 | 2026-04-19 | high | 45 |
+| 15 | 柳永 | 北宋 | 2026-04-19 | medium | 30 |
 ```
 
 **字段说明：**
@@ -45,11 +46,11 @@
 ```
 ### 下一待处理
 
-- **人物：** 柳永
+- **人物：** 周邦彦
 - **朝代：** 北宋
 - **priority：** medium
-- **预计难度：** 中等（婉约词，慢词开创）
-- **建议切分数：** 3（早年漂泊→词坛成名→晚年落魄）
+- **预计难度：** 中等（婉约词，集北宋婉约词之大成）
+- **建议切分数：** 3-4（早年游历→词坛成名→仕途沉浮→晚年漂泊）
 ```
 
 ---
@@ -288,6 +289,34 @@
   - output/wang_anshi/EVENTS.md
   - output/wang_anshi/VOICE.md
   - done/wang_anshi.done
+
+### 2026-04-19
+
+**人物：** 柳永
+**执行时间：** 10:01 - 10:31
+**结果：** ✅ 完成
+**confidence：** medium
+**遇到的问题：** wikisource.org、ctext.org、古诗文网等主要古典文献网站均无法访问；改以百度百科（传记+后世评述30条）和百度汉语（词作30首）为两个主要来源；由于网络限制，无法访问更权威的古典文献网站，语料主要依赖百度系列
+**产出文件：**
+  - output/liu_yong/SKILL.md
+  - output/liu_yong/README.md
+  - output/liu_yong/METADATA.json
+  - output/liu_yong/CITATIONS.md
+  - output/liu_yong/raw_stats.json
+  - output/liu_yong/EVENTS.md
+  - output/liu_yong/VOICE.md
+  - raw/liu_yong/传记.txt
+  - raw/liu_yong/诗词.txt
+  - raw/liu_yong/引语.txt
+  - raw/liu_yong/后世评述.txt
+  - raw/liu_yong/全部语料.txt
+  - processed/liu_yong/stages.md
+  - processed/liu_yong/dimension_思想内核.json
+  - processed/liu_yong/dimension_语言特征.json
+  - processed/liu_yong/dimension_表达偏好.json
+  - processed/liu_yong/dimension_立场光谱.json
+  - processed/liu_yong/dimension_voice_profile.json
+  - done/liu_yong.done
 ```
 
 ---
@@ -296,19 +325,19 @@
 
 ```
 总人物数：     25
-已完成：       14
+已完成：       15
 进行中：       0
-待处理：       11
-完成率：       56%
+待处理：       10
+完成率：       60%
 
 按 confidence：
   high：       13
-  medium：     1
+  medium：     2
   low：        0
 
 按朝代：
   唐：         6 / 6
-  北宋：       5 / 5
+  北宋：       6 / 6
   南宋：       1 / 1
   晋：         1 / 1
   战国：       0 / 3
