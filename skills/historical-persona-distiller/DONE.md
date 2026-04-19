@@ -32,6 +32,7 @@
 | 18 | 曹操 | 三国 | 2026-04-19 | high | 5 |
 | 19 | 嵇康 | 三国魏 | 2026-04-20 | high | 10 |
 | 20 | 阮籍 | 三国魏 | 2026-04-20 | high | 25 |
+| 21 | 蒲松龄 | 清 | 2026-04-20 | medium | 20 |
 ```
 
 **字段说明：**
@@ -51,10 +52,10 @@
 ```
 ### 下一待处理
 
-- **人物：** 蒲松龄
-- **朝代：** 清
+- **人物：** 商鞅
+- **朝代：** 战国
 - **priority：** low
-- **预计难度：** 较低（聊斋志异，文言短篇，史料丰富）
+- **预计难度：** 中等（商君书，冷峻法家，史料有限）
 ```
 
 ---
@@ -428,6 +429,37 @@
   - output/cao_cao/EVENTS.md
   - output/cao_cao/VOICE.md
   - done/cao_cao.done
+
+### 2026-04-20
+
+**人物：** 蒲松龄
+**执行时间：** 06:01 - 06:20
+**结果：** ✅ 完成（commit 已创建，git push 因 GitHub 网络不可达暂时失败，将在下次执行重试）
+**confidence：** medium
+**遇到的问题：** wikisource.org、ctext.org 等主要古典文献网站无法访问；改以百度百科为主要来源，抓取了蒲松龄传记（万字+）、聊斋自志原文、《促织》完整原文、后世评述语料。聊斋志异主体为491篇文言短篇小说（而非诗词），诗集虽有1017首但原始文本难以直接抓取，故 overall_confidence 评为 medium。GitHub push 失败（"Failed to connect to github.com port 443"），commit 96bf667 已本地创建，等待网络恢复后 push。
+**产出文件：**
+  - output/pu_songling/SKILL.md
+  - output/pu_songling/README.md
+  - output/pu_songling/METADATA.json
+  - output/pu_songling/CITATIONS.md
+  - output/pu_songling/raw_stats.json
+  - output/pu_songling/EVENTS.md
+  - output/pu_songling/VOICE.md
+  - done/pu_songling.done
+  - processed/pu_songling/stages.md
+  - processed/pu_songling/dimension_思想内核.json
+  - processed/pu_songling/dimension_语言特征.json
+  - processed/pu_songling/dimension_表达偏好.json
+  - processed/pu_songling/dimension_立场光谱.json
+  - processed/pu_songling/dimension_voice_profile.json
+  - processed/pu_songling/consistency_check.md
+  - raw/pu_songling/传记.txt
+  - raw/pu_songling/聊斋自志.txt
+  - raw/pu_songling/聊斋志异_故事1_促织.txt
+  - raw/pu_songling/后世评述.txt
+  - raw/pu_songling/引语.txt
+  - raw/pu_songling/全部语料.txt
+  - raw/pu_songling/raw_stats.json
 ```
 
 ---
@@ -436,14 +468,14 @@
 
 ```
 总人物数：     25
-已完成：       20
+已完成：       21
 进行中：       0
-待处理：       5
-完成率：       80%
+待处理：       4
+完成率：       84%
 
 按 confidence：
   high：       18
-  medium：     2
+  medium：     3
   low：        0
 
 按朝代：
@@ -453,7 +485,7 @@
   晋：         1 / 1
   战国：       1 / 3
   三国：       3 / 3
-  清：         0 / 2
+  清：         1 / 2
 ```
 
 ---
