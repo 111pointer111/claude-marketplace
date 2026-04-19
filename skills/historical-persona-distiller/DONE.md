@@ -27,6 +27,7 @@
 | 13 | 王安石 | 北宋 | 2026-04-19 | high | 20 |
 | 14 | 柳宗元 | 唐 | 2026-04-19 | high | 45 |
 | 15 | 柳永 | 北宋 | 2026-04-19 | medium | 30 |
+| 16 | 周邦彦 | 北宋 | 2026-04-19 | high | 45 |
 ```
 
 **字段说明：**
@@ -46,11 +47,11 @@
 ```
 ### 下一待处理
 
-- **人物：** 周邦彦
-- **朝代：** 北宋
+- **人物：** 屈原
+- **朝代：** 战国
 - **priority：** medium
-- **预计难度：** 中等（婉约词，集北宋婉约词之大成）
-- **建议切分数：** 3-4（早年游历→词坛成名→仕途沉浮→晚年漂泊）
+- **预计难度：** 中等偏高（楚辞之祖，香草美人意象，开创浪漫主义诗歌传统）
+- **建议切分数：** 3-4（早年得志→放逐汉北→归隐沅湘→投江殉国）
 ```
 
 ---
@@ -317,6 +318,34 @@
   - processed/liu_yong/dimension_立场光谱.json
   - processed/liu_yong/dimension_voice_profile.json
   - done/liu_yong.done
+
+### 2026-04-19
+
+**人物：** 周邦彦
+**执行时间：** 04:17 - 05:02
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** wikisource.org、ctext.org 等主要古典文献网站无法访问；web_search 多次失败；改以百度百科（传记8000字+后世评述40+条）和百度汉语（词作30首）为两个主要来源；诗词约30首（不足30首下限但接近），传记和后世评述语料极为丰富；git push 首次超时，重试后成功
+**产出文件：**
+  - output/zhou_bangyan/SKILL.md
+  - output/zhou_bangyan/README.md
+  - output/zhou_bangyan/METADATA.json
+  - output/zhou_bangyan/CITATIONS.md
+  - output/zhou_bangyan/raw_stats.json
+  - output/zhou_bangyan/EVENTS.md
+  - output/zhou_bangyan/VOICE.md
+  - raw/zhou_bangyan/传记.txt
+  - raw/zhou_bangyan/诗词.txt
+  - raw/zhou_bangyan/引语.txt
+  - raw/zhou_bangyan/后世评述.txt
+  - raw/zhou_bangyan/全部语料.txt
+  - processed/zhou_bangyan/stages.md
+  - processed/zhou_bangyan/dimension_思想内核.json
+  - processed/zhou_bangyan/dimension_语言特征.json
+  - processed/zhou_bangyan/dimension_表达偏好.json
+  - processed/zhou_bangyan/dimension_立场光谱.json
+  - processed/zhou_bangyan/dimension_voice_profile.json
+  - done/zhou_bangyan.done
 ```
 
 ---
@@ -325,19 +354,19 @@
 
 ```
 总人物数：     25
-已完成：       15
+已完成：       16
 进行中：       0
-待处理：       10
-完成率：       60%
+待处理：       9
+完成率：       64%
 
 按 confidence：
-  high：       13
+  high：       14
   medium：     2
   low：        0
 
 按朝代：
   唐：         6 / 6
-  北宋：       6 / 6
+  北宋：       7 / 7
   南宋：       1 / 1
   晋：         1 / 1
   战国：       0 / 3
