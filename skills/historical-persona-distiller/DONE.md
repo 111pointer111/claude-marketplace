@@ -30,6 +30,7 @@
 | 16 | 周邦彦 | 北宋 | 2026-04-19 | high | 45 |
 | 17 | 屈原 | 战国 | 2026-04-19 | high | 14 |
 | 18 | 曹操 | 三国 | 2026-04-19 | high | 5 |
+| 19 | 嵇康 | 三国魏 | 2026-04-20 | high | 10 |
 ```
 
 **字段说明：**
@@ -49,10 +50,10 @@
 ```
 ### 下一待处理
 
-- **人物：** 嵇康
+- **人物：** 阮籍
 - **朝代：** 三国魏
 - **priority：** low
-- **预计难度：** 较低（竹林七贤，玄学清谈，史料相对有限）
+- **预计难度：** 较低（竹林七贤，咏怀诗82首，史料丰富）
 ```
 
 ---
@@ -376,6 +377,23 @@
   - processed/qu_yuan/dimension_voice_profile.json
   - done/qu_yuan.done
 
+### 2026-04-20
+
+**人物：** 嵇康
+**执行时间：** 02:01 - 02:11
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** wikisource.org、ctext.org、古诗文网等主要古典文献网站均无法访问；改以百度百科（嵇康传26000+字+嵇康集+幽愤诗原文+与山巨源绝交书原文）为主要来源；诗词原文主要从传记引语部分整理；语料传记极丰富，评价评述跨越魏晋至近现代四朝
+**产出文件：**
+  - output/ji_kang/SKILL.md
+  - output/ji_kang/README.md
+  - output/ji_kang/METADATA.json
+  - output/ji_kang/CITATIONS.md
+  - output/ji_kang/raw_stats.json
+  - output/ji_kang/EVENTS.md
+  - output/ji_kang/VOICE.md
+  - done/ji_kang.done
+
 ### 2026-04-19
 
 **人物：** 曹操
@@ -400,13 +418,13 @@
 
 ```
 总人物数：     25
-已完成：       18
+已完成：       19
 进行中：       0
-待处理：       7
-完成率：       72%
+待处理：       6
+完成率：       76%
 
 按 confidence：
-  high：       16
+  high：       17
   medium：     2
   low：        0
 
@@ -416,7 +434,7 @@
   南宋：       1 / 1
   晋：         1 / 1
   战国：       1 / 3
-  三国：       1 / 2
+  三国：       2 / 2
   清：         0 / 2
 ```
 
