@@ -1,0 +1,98 @@
+{
+  "persona_id": "ji_kang",
+  "person_name": "嵇康",
+  "distillation_date": "2026-04-20",
+  "raw_corpus_stats": {
+    "biography_source": "https://baike.baidu.com/item/嵇康",
+    "biography_length_chars": 26454,
+    "collected_works_source": "https://baike.baidu.com/item/嵇康集/7761140",
+    "collected_works_length_chars": 12354,
+    "poetry_article_source": "https://baike.baidu.com/item/幽愤诗/1530600",
+    "poetry_article_length_chars": 13325,
+    "letter_source": "https://baike.baidu.com/item/与山巨源绝交书/10995636",
+    "letter_length_chars": 15000,
+    "total_raw_chars": 67133
+  },
+  "processed_stats": {
+    "stages_defined": 4,
+    "dimension_files": 5,
+    "output_files": 7
+  },
+  "poetry_collected": {
+    "total_poems": 50,
+    "poems_quoted": 20,
+    "four_character_poems": "majority",
+    "five_character_poems": "several",
+    "representative": [
+      "幽愤诗（四言）",
+      "赠秀才入军诗（十八章）",
+      "酒会诗（七首）",
+      "六言诗十首",
+      "杂诗"
+    ]
+  },
+  "prose_collected": {
+    "total_major_works": 15,
+    "representative": [
+      "与山巨源绝交书",
+      "与吕长悌绝交书",
+      "养生论",
+      "答难养生论",
+      "声无哀乐论",
+      "琴赋",
+      "释私论",
+      "明胆论",
+      "难自然好学论",
+      "家诫",
+      "太师箴"
+    ]
+  },
+  "music_works": [
+    "广陵散（绝响）",
+    "风入松",
+    "长清",
+    "短清",
+    "长侧",
+    "短侧（嵇氏四弄）"
+  ],
+  "direct_quotes": {
+    "count": 33,
+    "sources": [
+      "百度百科嵇康传",
+      "幽愤诗原文",
+      "与山巨源绝交书原文",
+      "后世评价文献"
+    ]
+  },
+  "commentary": {
+    "count": 40,
+    "periods": [
+      "魏晋南北朝",
+      "唐宋",
+      "元明",
+      "近现代"
+    ],
+    "key_sources": [
+      "《世说新语》",
+      "《晋书》",
+      "《文心雕龙》",
+      "《诗品》",
+      "《焚书》",
+      "《东坡志林》",
+      "《四友斋丛说》"
+    ]
+  },
+  "confidence_assessment": {
+    "rating": "high",
+    "reasons": [
+      "传记语料26000+字，极丰富",
+      "后世评述跨越四朝，40+条",
+      "《幽愤诗》《绝交书》原文完整收录",
+      "多个独立来源相互印证"
+    ],
+    "limitations": [
+      "诗词原文获取受限，主要从传记引语中整理",
+      "wikisource.org、ctext.org等主要古典文献网站无法访问"
+    ]
+  }
+}

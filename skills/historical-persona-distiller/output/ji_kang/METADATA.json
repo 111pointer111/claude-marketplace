@@ -1,0 +1,39 @@
+{
+  "persona_id": "ji_kang",
+  "name": "嵇康",
+  "birth_year": 223,
+  "death_year": 263,
+  "courtesy_name": "叔夜",
+  "nickname": "嵇中散",
+  "dynasty": "三国魏",
+  "confidence": "high",
+  "extraction_date": "2026-04-20",
+  "source_urls": [
+    "https://baike.baidu.com/item/嵇康",
+    "https://baike.baidu.com/item/嵇康集",
+    "https://baike.baidu.com/item/幽愤诗",
+    "https://baike.baidu.com/item/与山巨源绝交书"
+  ],
+  "corpus_stats": {
+    "biography_chars": 26000,
+    "poems_collected": 50,
+    "poems_quoted": 20,
+    "direct_quotes": 30,
+    "commentary_items": 40
+  },
+  "key_beliefs": [
+    "越名教而任自然",
+    "养生重于名利",
+    "刚肠疾恶轻肆直言",
+    "非汤武而薄周孔",
+    "声无哀乐"
+  ],
+  "representative_works": [
+    "《幽愤诗》",
+    "《与山巨源绝交书》",
+    "《养生论》",
+    "《声无哀乐论》",
+    "《琴赋》"
+  ],
+  "distillation_notes": "语料主要来源于百度百科，wikisource.org、ctext.org等主要古典文献网站无法访问。《嵇康集》条目提供了丰富的文献学信息，《幽愤诗》和《与山巨源绝交书》均有原文收录。"
+}
