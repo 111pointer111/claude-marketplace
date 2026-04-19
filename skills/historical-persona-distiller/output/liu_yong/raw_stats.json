@@ -1,0 +1,23 @@
+{
+  "人物": "liu_yong",
+  "朝代": "北宋",
+  "生卒年": "984-1053",
+  "诗词数量": 30,
+  "文集数量": 0,
+  "传记": "有",
+  "直接引语数量": 25,
+  "后世评述数量": 30,
+  "confidence_上限": "medium",
+  "抓取时间": "2026-04-19T02:10:00Z",
+  "sources_used": [
+    "https://baike.baidu.com/item/%E6%9F%B3%E6%B0%B8/16789",
+    "https://hanyu.baidu.com/s?wd=%E6%9F%B3%E6%B0%B8&from=poetry"
+  ],
+  "stage_count": 4,
+  "stage_summary": {
+    "阶段一_早年求仕": "984-1015，medium",
+    "阶段二_词坛成名": "1015-1034，high",
+    "阶段三_进士及第": "1034-1045，medium",
+    "阶段四_晚年落魄": "1045-1053，medium"
+  }
+}

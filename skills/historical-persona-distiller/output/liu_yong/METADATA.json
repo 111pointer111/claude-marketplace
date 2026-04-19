@@ -1,0 +1,43 @@
+{
+  "人物": "liu_yong",
+  "朝代": "北宋",
+  "生卒年": "984-1053",
+  "蒸馏版本": "1.0",
+  "蒸馏日期": "2026-04-19T02:10:00Z",
+  "蒸馏耗时_分钟": 30,
+  "overall_confidence": "medium",
+  "sources_used_count": 2,
+  "poetry_count": 30,
+  "prose_count": 0,
+  "direct_quote_count": 25,
+  "stages_count": 4,
+  "引用验证": "已通过质量控制检查",
+  "persona_id": "liu_yong",
+  "原名": "三变",
+  "字": "景庄（后改永，字耆卿）",
+  "世称": "柳七",
+  "籍贯": "崇安（今福建武夷山）",
+  "主要成就": "慢词（长调）主要开创者、婉约派代表词人",
+  "代表作": [
+    "《雨霖铃·寒蝉凄切》",
+    "《望海潮·东南形胜》",
+    "《八声甘州·对潇潇暮雨洒江天》",
+    "《蝶恋花·伫倚危楼风细细》",
+    "《戚氏·晚秋天》",
+    "《夜半乐·冻云黯淡天气》",
+    "《少年游·长安古道马迟迟》"
+  ],
+  "sources": [
+    {
+      "url": "https://baike.baidu.com/item/%E6%9F%B3%E6%B0%B8/16789",
+      "type": "historical_record",
+      "description": "百度百科 - 柳永传记及评述"
+    },
+    {
+      "url": "https://hanyu.baidu.com/s?wd=%E6%9F%B3%E6%B0%B8&from=poetry",
+      "type": "poetry_collection",
+      "description": "百度汉语 - 柳永词精选"
+    }
+  ],
+  "网络限制": "wikisource.org、ctext.org、古诗文网等主要古典文献网站均无法访问；改以百度百科（传记+评述）和百度汉语（诗词）为两个主要来源"
+}
