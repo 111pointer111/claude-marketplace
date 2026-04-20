@@ -1,0 +1,76 @@
+{
+  "name": "韩非",
+  "persona_id": "han_fei",
+  "pinyin": "han_fei",
+  "dynasty": "战国",
+  "lifespan": "约前280年—前233年",
+  "birthplace": "韩国新郑（今河南新郑）",
+  "persona_type": "historical_figure",
+  "persona_version": "1.0",
+  "distilled_at": "2026-04-20",
+  "sources_count": 4,
+  "sources": [
+    {
+      "title": "史记·老子韩非列传",
+      "author": "司马迁",
+      "type": "historical_record",
+      "description": "韩非生平最权威史料，含大量直接引语"
+    },
+    {
+      "title": "韩非子·五蠹",
+      "author": "韩非",
+      "type": "collected_works",
+      "description": "法家代表篇章，批判五种社会蛀虫"
+    },
+    {
+      "title": "韩非子·南面",
+      "author": "韩非",
+      "type": "collected_works",
+      "description": "论述君主治国原则"
+    },
+    {
+      "title": "360百科韩非子条目",
+      "type": "historical_record",
+      "description": "综合传记资料"
+    }
+  ],
+  "overall_confidence": "high",
+  "overall_confidence_rationale": "韩非是先秦法家集大成者，《史记》和《韩非子》原典丰富且可靠。本次蒸馏引用原典25条，覆盖思想内核、法术势、性恶论、变法观等核心维度，引用均可溯源。虽非诗人无法以诗词衡量，但作为政论家其思想体系完整，语言风格统一。",
+  "works": [
+    "《韩非子》55篇（今存）",
+    "《史记·老子韩非列传》（司马迁撰）"
+  ],
+  "key_concepts": [
+    "法术势三位一体",
+    "性本恶论",
+    "法治主义",
+    "历史进化观",
+    "批判儒墨显学",
+    "五蠹",
+    "赏罚二柄",
+    "变法图强",
+    "归本黄老"
+  ],
+  "famous_quotes": [
+    "上古竞于道德，中世逐于智谋，当今争于气力",
+    "儒以文乱法，侠以武犯禁",
+    "法者，编著之图籍，设之于官府，而布之于百姓者也",
+    "术者，因任而授官，循名而责实",
+    "抱法处势则治，背法去势则乱",
+    "夫严家无悍虏，而慈母有败子",
+    "世异则事异",
+    "今欲以先王之政，治当世之民，皆守株之类也",
+    "治世不一道，便国不法古"
+  ],
+  "historical_significance": "法家思想集大成者，将商鞅的'法'、申不害的'术'、慎到的'势'融为一体，形成完整的法家统治术体系；其思想深刻影响秦始皇的政治实践，对中国两千年帝制有根本性塑造作用",
+  "death": {
+    "year": "约前233年",
+    "cause": "被迫服药自杀",
+    "location": "秦国咸阳",
+    "perpetrators": "李斯、姚贾",
+    "circumstances": "秦王听信谗言，下吏治韩非，李斯遣药，韩非欲自陈而不得见"
+  },
+  "teacher": "荀子",
+  "classmate": "李斯（最终害死韩非）",
+  "biography_notes": "韩非口吃，不善言辞，但文章雄辩有力；其思想'归本于黄老'，以冷峻理性剖析人性；入秦后因同学李斯嫉妒而被陷害，是中国思想史上的悲剧人物"
+}
