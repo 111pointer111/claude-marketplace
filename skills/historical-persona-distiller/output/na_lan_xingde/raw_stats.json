@@ -1,0 +1,21 @@
+{
+  "人物": "纳兰性德",
+  "persona_id": "na_lan_xingde",
+  "朝代": "清",
+  "生卒年": "1655-1685",
+  "诗词数量": 30,
+  "文集数量": 3,
+  "传记": "有",
+  "直接引语数量": 40,
+  "后世评述数量": 26,
+  "confidence_上限": "high",
+  "抓取时间": "2026-04-20T08:08:00.000Z",
+  "sources_used": [
+    "https://baike.baidu.com/item/纳兰性德/143602",
+    "https://hanyu.baidu.com/s?wd=纳兰性德&device=pc&from=poetry",
+    "https://hanyu.baidu.com/shici/detail?pid=cebd897af53f44c1bea84c049f194d29",
+    "https://hanyu.baidu.com/shici/detail?pid=f89f1d3c6a834ab88bb34f222ccec830",
+    "https://hanyu.baidu.com/shici/detail?pid=3647a21f6f594f3db143487f82e11ed6"
+  ],
+  "已知局限": "诗词以词为主（诗作362首原始文本难以直接抓取），长调作品较少，整体语料偏重中小令"
+}

@@ -1,0 +1,19 @@
+{
+  "人物": "纳兰性德",
+  "persona_id": "na_lan_xingde",
+  "朝代": "清",
+  "生卒年": "1655-1685",
+  "字": "容若",
+  "号": "楞伽山人",
+  "原名": "成德",
+  "蒸馏版本": "1.0",
+  "蒸馏日期": "2026-04-20",
+  "蒸馏耗时_分钟": 30,
+  "overall_confidence": "high",
+  "sources_used_count": 3,
+  "poetry_count": 30,
+  "prose_count": 3,
+  "direct_quote_count": 40,
+  "stages_count": 4,
+  "引用验证": "已通过质量控制检查"
+}
