@@ -1,0 +1,8 @@
+distill: 曾国藩 persona
+confidence: medium
+date: 2026-04-20
+sources: baidu baike (曾国藩/386, 桐城派/294837, 湘乡派/5906062)
+stages: 5
+dimensions: 思想内核/语言特征/表达偏好/立场光谱/voice_profile
+quality: confidence=medium, quotes_verified=true, all_fields_complete=true
+limitations: 主要依赖单一来源(百度百科), 建议补充曾文正公全集/家书原文

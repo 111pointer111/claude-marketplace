@@ -1,0 +1,77 @@
+{
+  "persona_id": "zeng_guofan",
+  "generation_date": "2026-04-20",
+  "raw_materials": {
+    "biography_baidu": {
+      "url": "https://baidu.baidu.com/item/曾国藩/386",
+      "char_count": 49338,
+      "sections": [
+        "人物生平（早年经历、仕途坦荡、组建湘军、鏖战湖赣、攻占江宁、追剿捻军、主办洋务、直隶政事、回任两江）",
+        "主要影响（政治、军事、理学、文学、书法、教育）",
+        "历史评价",
+        "轶事典故（巨蟒转世、比贼笨、处世交友、改名国藩、治家方略、修身之法、审鸡蛋案、恩师唐鉴）",
+        "人际关系",
+        "后世纪念"
+      ]
+    },
+    "tongcheng_school": {
+      "url": "https://baidu.baidu.com/item/桐城派/294837",
+      "relevant_char_count": 4000,
+      "sections": ["湘乡派简介", "湘乡派风格", "湘乡派功绩"]
+    },
+    "xiangxiang_school": {
+      "url": "https://baidu.baidu.com/item/湘乡派/5906062",
+      "relevant_char_count": 6000,
+      "sections": ["湘乡派简介", "曾国藩文学功绩", "湘乡派风格"]
+    }
+  },
+  "raw_files_created": [
+    "raw/zeng_guofan/传记.txt",
+    "raw/zeng_guofan/引语.txt",
+    "raw/zeng_guofan/全部语料.txt"
+  ],
+  "processed_files_created": [
+    "processed/zeng_guofan/stages.md",
+    "processed/zeng_guofan/dimension_思想内核.json",
+    "processed/zeng_guofan/dimension_语言特征.json",
+    "processed/zeng_guofan/dimension_表达偏好.json",
+    "processed/zeng_guofan/dimension_立场光谱.json",
+    "processed/zeng_guofan/dimension_voice_profile.json"
+  ],
+  "output_files_created": [
+    "output/zeng_guofan/SKILL.md",
+    "output/zeng_guofan/EVENTS.md",
+    "output/zeng_guofan/VOICE.md",
+    "output/zeng_guofan/README.md",
+    "output/zeng_guofan/METADATA.json",
+    "output/zeng_guofan/CITATIONS.md",
+    "output/zeng_guofan/raw_stats.json"
+  ],
+  "source_statistics": {
+    "total_sources_fetched": 3,
+    "total_characters_raw": 59338,
+    "quotes_extracted": 24,
+    "key_events_timeline": 52,
+    "life_stages_identified": 5
+  },
+  "dimension_confidence": {
+    "思想内核": "medium",
+    "语言特征": "medium",
+    "表达偏好": "medium",
+    "立场光谱": "medium",
+    "voice_profile": "medium"
+  },
+  "quality_flags": {
+    "poetry_corpus_insufficient": true,
+    "original_works_not_fetched": true,
+    "diaries_not_fetched": true,
+    "family_letters_partial": true
+  },
+  "improvement_recommendations": [
+    "获取《曾文正公全集》或《曾国藩家书》原文",
+    "补充《曾国藩日记》片段",
+    "获取更多诗作原文（十八家诗钞等）",
+    "补充《清史稿》曾国藩传原文",
+    "获取李鸿章、左宗棠等人对曾国藩评价的原文"
+  ]
+}

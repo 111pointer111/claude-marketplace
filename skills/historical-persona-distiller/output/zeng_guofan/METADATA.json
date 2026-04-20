@@ -1,0 +1,75 @@
+{
+  "persona_id": "zeng_guofan",
+  "name_cn": "曾国藩",
+  "name_en": "Zeng Guofan",
+  "birth_year": 1811,
+  "death_year": 1872,
+  "dynasty": "清（晚清）",
+  "era_name": "涤生",
+  "titles": ["两江总督", "直隶总督", "一等毅勇侯", "太子太保"],
+  "posthumous_title": "文正",
+  "persona_location": "湖南湘乡（今娄底双峰县）",
+  "confidence": "medium",
+  "generation_date": "2026-04-20",
+  "skill_version": "1.0",
+  "source_count": 1,
+  "sources": [
+    {
+      "name": "百度百科曾国藩条目",
+      "url": "https://baidu.baidu.com/item/曾国藩/386",
+      "type": "historical_record",
+      "reliability": "medium"
+    },
+    {
+      "name": "百度百科桐城派条目",
+      "url": "https://baidu.baidu.com/item/桐城派/294837",
+      "type": "commentary",
+      "reliability": "medium"
+    },
+    {
+      "name": "百度百科湘乡派条目",
+      "url": "https://baidu.baidu.com/item/湘乡派/5906062",
+      "type": "commentary",
+      "reliability": "medium"
+    }
+  ],
+  "main_dimensions": [
+    "思想内核",
+    "语言特征",
+    "表达偏好",
+    "立场光谱",
+    "Voice Profile"
+  ],
+  "stages_count": 5,
+  "key_themes": [
+    "礼治主义",
+    "经世致用",
+    "忠义血性",
+    "师夷制夷",
+    "湘乡派古文"
+  ],
+  "famous_works": [
+    "《讨粤匪檄》",
+    "《求阙斋文集》",
+    "《曾文正公全集》",
+    "《经史百家杂钞》",
+    "《十八家诗钞》",
+    "《曾文正公家书》",
+    "《曾文正公日记》"
+  ],
+  "major_contacts": [
+    "唐鉴（理学恩师）",
+    "穆彰阿（座师）",
+    "胡林翼（湘军战友）",
+    "左宗棠（政敌兼友）",
+    "李鸿章（门生）",
+    "曾国荃（九弟，湘军将领）"
+  ],
+  "historical_significance": "晚清最重要政治军事人物之一，中国近代化先驱，湘军创建者，洋务运动推动者，湘乡派古文创始人",
+  "limitations": "confidence为medium，原因：语料来源以百度百科为主，家书、日记原文未能直接引用",
+  "quality_checks": {
+    "quotes_verified": true,
+    "all_idioms_validated": false,
+    "skll_fields_complete": true
+  }
+}
