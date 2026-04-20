@@ -34,6 +34,7 @@
 | 20 | 阮籍 | 三国魏 | 2026-04-20 | high | 25 |
 | 21 | 蒲松龄 | 清 | 2026-04-20 | medium | 20 |
 | 22 | 商鞅 | 战国 | 2026-04-20 | high | 20 |
+| 23 | 韩非 | 战国 | 2026-04-20 | high | 10 |
 ```
 
 **字段说明：**
@@ -53,10 +54,10 @@
 ```
 ### 下一待处理
 
-- **人物：** 韩非
-- **朝代：** 战国
+- **人物：** 李煜
+- **朝代：** 南唐
 - **priority：** low
-- **预计难度：** 中等（韩非子，孤愤深沉，资料丰富）
+- **预计难度：** 中等（词风转变明显，亡国前后风格对比突出）
 ```
 
 ---
@@ -463,6 +464,34 @@
 
 ### 2026-04-20
 
+**人物：** 韩非
+**执行时间：** 02:11 - 02:22
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** ctext.org 大量内页重定向至首页导致文本抓取失败；wikisource.org 无法访问；改以 web_fetch 直接抓取《五蠹》完整原文（ctext.org via wikilink 方式）、百度百科360百科多源抓取；web_search 多次失败；ctext.org 虽总体可访问但内页频繁重定向，《说难》《孤愤》完整原文未能获取
+**产出文件：**
+  - output/han_fei/SKILL.md
+  - output/han_fei/README.md
+  - output/han_fei/METADATA.json
+  - output/han_fei/CITATIONS.md
+  - output/han_fei/raw_stats.json
+  - output/han_fei/EVENTS.md
+  - output/han_fei/VOICE.md
+  - done/han_fei.done
+  - processed/han_fei/stages.md
+  - processed/han_fei/dimension_思想内核.json
+  - processed/han_fei/dimension_语言特征.json
+  - processed/han_fei/dimension_表达偏好.json
+  - processed/han_fei/dimension_立场光谱.json
+  - processed/han_fei/dimension_voice_profile.json
+  - processed/han_fei/dimension_一致性校验.json
+  - raw/han_fei/传记.txt
+  - raw/han_fei/五蠹.txt
+  - raw/han_fei/南面.txt（部分）
+  - raw/han_fei/raw_stats.json
+
+### 2026-04-20
+
 **人物：** 蒲松龄
 **执行时间：** 06:01 - 06:20
 **结果：** ✅ 完成（commit 已创建，git push 因 GitHub 网络不可达暂时失败，将在下次执行重试）
@@ -499,13 +528,13 @@
 
 ```
 总人物数：     25
-已完成：       22
+已完成：       23
 进行中：       0
-待处理：       3
-完成率：       88%
+待处理：       2
+完成率：       92%
 
 按 confidence：
-  high：       19
+  high：       20
   medium：     3
   low：        0
 
@@ -514,9 +543,9 @@
   北宋：       7 / 7
   南宋：       1 / 1
   晋：         1 / 1
-  战国：       2 / 3
+  战国：       3 / 3
   三国：       3 / 3
-  清：         1 / 2
+  清：         2 / 3
 ```
 
 ---
