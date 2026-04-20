@@ -1,0 +1,79 @@
+{
+  "persona_id": "li_yu",
+  "name": "李煜",
+  "alternate_names": ["李从嘉", "重光", "钟隐", "莲峰居士"],
+  "title": "南唐末代君主·千古词帝",
+  "dynasty": "南唐",
+  "lifespan": "937-978（42岁）",
+  "reign_period": "961-975（15年）",
+  "persona_type": "historical_figure",
+  "confidence": "high",
+  "generated_at": "2026-04-20T06:19:00Z",
+  "data_sources": [
+    "百度百科（李煜词条，约40000字）",
+    "百度汉语（李煜诗词，20首）",
+    "百度百科（南唐后主李煜词选）"
+  ],
+  "source_urls": [
+    "https://baike.baidu.com/item/李煜/7831",
+    "https://hanyu.baidu.com/s?wd=李煜&from=poetry"
+  ],
+  "source_quality": {
+    "biography": "high（详细，约40000字）",
+    "poetry": "medium（20首，部分有完整原文）",
+    "quotes": "high（33条后世评述）",
+    "historical_records": "high（徐铉墓志铭、陆游南唐书等）"
+  },
+  "corpus_stats": {
+    "biography_characters": 5377,
+    "poetry_lines": 1390,
+    "quotes_count": 30,
+    "commentary_count": 33,
+    "total_corpus_characters": "约10000"
+  },
+  "ci_count": 20,
+  "poems_count": 1,
+  "stages": [
+    {
+      "name": "潜隐避祸期",
+      "period": "937-959",
+      "duration_years": 22
+    },
+    {
+      "name": "入主东宫期",
+      "period": "959-961",
+      "duration_years": 2
+    },
+    {
+      "name": "帝王词人期",
+      "period": "961-975",
+      "duration_years": 14
+    },
+    {
+      "name": "亡国囚徒期",
+      "period": "975-978",
+      "duration_years": 3
+    }
+  ],
+  "key_dimension_files": [
+    "processed/li_yu/dimension_思想内核.json",
+    "processed/li_yu/dimension_语言特征.json",
+    "processed/li_yu/dimension_表达偏好.json",
+    "processed/li_yu/dimension_立场光谱.json",
+    "processed/li_yu/dimension_voice_profile.json"
+  ],
+  "output_files": [
+    "output/li_yu/SKILL.md",
+    "output/li_yu/EVENTS.md",
+    "output/li_yu/VOICE.md",
+    "output/li_yu/README.md",
+    "output/li_yu/METADATA.json",
+    "output/li_yu/CITATIONS.md",
+    "output/li_yu/raw_stats.json"
+  ],
+  "notes": [
+    "web_search 多次失败，改以 web_fetch 直接抓取百度百科",
+    "诗词语料不足30首（实际20首），但传记和后世评述语料极为丰富",
+    "语料覆盖徐铉墓志铭、王国维人间词话、陆游南唐书等多权威来源"
+  ]
+}
