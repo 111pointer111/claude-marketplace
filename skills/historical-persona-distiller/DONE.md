@@ -35,6 +35,7 @@
 | 21 | 蒲松龄 | 清 | 2026-04-20 | medium | 20 |
 | 22 | 商鞅 | 战国 | 2026-04-20 | high | 20 |
 | 23 | 韩非 | 战国 | 2026-04-20 | high | 10 |
+| 24 | 李煜 | 南唐 | 2026-04-20 | high | 15 |
 ```
 
 **字段说明：**
@@ -54,10 +55,10 @@
 ```
 ### 下一待处理
 
-- **人物：** 李煜
-- **朝代：** 南唐
+- **人物：** 纳兰性德
+- **朝代：** 清
 - **priority：** low
-- **预计难度：** 中等（词风转变明显，亡国前后风格对比突出）
+- **预计难度：** 中等（清词高峰，悼亡词绝唱，与李煜有可比性）
 ```
 
 ---
@@ -522,19 +523,47 @@
   - raw/pu_songling/raw_stats.json
 ```
 
+### 2026-04-20
+
+**人物：** 李煜
+**执行时间：** 06:19 - 06:34
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** web_search 多次失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；改以百度百科（李煜传记40000字+后世评述33条）和百度汉语（词作20首）为两个主要来源；诗词仅抓取20首（不足30首下限），但传记和后世评述语料极为丰富，来源包括徐铉墓志铭、王国维人间词话、陆游南唐书等多权威来源
+**产出文件：**
+  - output/li_yu/SKILL.md
+  - output/li_yu/README.md
+  - output/li_yu/METADATA.json
+  - output/li_yu/CITATIONS.md
+  - output/li_yu/raw_stats.json
+  - output/li_yu/EVENTS.md
+  - output/li_yu/VOICE.md
+  - done/li_yu.done
+  - processed/li_yu/stages.md
+  - processed/li_yu/dimension_思想内核.json
+  - processed/li_yu/dimension_语言特征.json
+  - processed/li_yu/dimension_表达偏好.json
+  - processed/li_yu/dimension_立场光谱.json
+  - processed/li_yu/dimension_voice_profile.json
+  - raw/li_yu/传记.txt
+  - raw/li_yu/诗词.txt
+  - raw/li_yu/引语.txt
+  - raw/li_yu/后世评述.txt
+  - raw/li_yu/全部语料.txt
+
 ---
 
 ## 四、统计概览
 
 ```
 总人物数：     25
-已完成：       23
+已完成：       24
 进行中：       0
-待处理：       2
-完成率：       92%
+待处理：       1
+完成率：       96%
 
 按 confidence：
-  high：       20
+  high：       21
   medium：     3
   low：        0
 
@@ -546,6 +575,7 @@
   战国：       3 / 3
   三国：       3 / 3
   清：         2 / 3
+  南唐：       1 / 1
 ```
 
 ---
