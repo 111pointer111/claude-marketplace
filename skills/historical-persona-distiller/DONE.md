@@ -37,6 +37,7 @@
 | 23 | 韩非 | 战国 | 2026-04-20 | high | 10 |
 | 24 | 李煜 | 南唐 | 2026-04-20 | high | 15 |
 | 25 | 纳兰性德 | 清 | 2026-04-20 | high | 30 |
+| 26 | 曾国藩 | 清 | 2026-04-20 | medium | 15 |
 ```
 
 **字段说明：**
@@ -51,15 +52,10 @@
 
 ## 二、下一待处理
 
-从 backlog.md 中取 priority 最高且排在最前的人物。
+**所有人物已蒸馏完成。**
 
 ```
-### 下一待处理
-
-- **人物：** 曾国藩
-- **朝代：** 清
-- **priority：** low
-- **预计难度：** 较高（近代人物，史料极为丰富，桐城派殿军）
+（queue/backlog.md 已清空，曾国藩为最后一人。）
 ```
 
 ---
@@ -587,14 +583,14 @@
 
 ```
 总人物数：     26
-已完成：       25
+已完成：       26
 进行中：       0
-待处理：       1
-完成率：       96%
+待处理：       0
+完成率：       100%
 
 按 confidence：
   high：       22
-  medium：     3
+  medium：     4
   low：        0
 
 按朝代：
@@ -604,9 +600,26 @@
   晋：         1 / 1
   战国：       3 / 3
   三国：       3 / 3
-  清：         3 / 3
+  清：         4 / 4
   南唐：       1 / 1
 ```
+
+### 2026-04-20
+
+**人物：** 曾国藩
+**执行时间：** 10:01 - 10:16
+**结果：** ✅ 完成
+**confidence：** medium
+**遇到的问题：** web_search 多次失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；baike.baidu.com/item/曾国藩 直接 URL 最初返回 404，改用 baike.baidu.com/item/曾国藩/386（通过苏拭条目中的内部链接发现正确 ID）；最终以百度百科曾国藩传记（49338字）为第一来源，桐城派条目（湘乡派相关信息）和湘乡派条目为补充语料；曾国藩为近代人物，家书、日记原文未能直接抓取，整体语料以传记评述为主
+**产出文件：**
+  - output/zeng_guofan/SKILL.md
+  - output/zeng_guofan/README.md
+  - output/zeng_guofan/METADATA.json
+  - output/zeng_guofan/CITATIONS.md
+  - output/zeng_guofan/raw_stats.json
+  - output/zeng_guofan/EVENTS.md
+  - output/zeng_guofan/VOICE.md
+  - done/zeng_guofan.done
 
 ---
 
