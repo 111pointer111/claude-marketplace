@@ -33,6 +33,7 @@
 | 19 | 嵇康 | 三国魏 | 2026-04-20 | high | 10 |
 | 20 | 阮籍 | 三国魏 | 2026-04-20 | high | 25 |
 | 21 | 蒲松龄 | 清 | 2026-04-20 | medium | 20 |
+| 22 | 商鞅 | 战国 | 2026-04-20 | high | 20 |
 ```
 
 **字段说明：**
@@ -52,10 +53,10 @@
 ```
 ### 下一待处理
 
-- **人物：** 商鞅
+- **人物：** 韩非
 - **朝代：** 战国
 - **priority：** low
-- **预计难度：** 中等（商君书，冷峻法家，史料有限）
+- **预计难度：** 中等（韩非子，孤愤深沉，资料丰富）
 ```
 
 ---
@@ -432,6 +433,36 @@
 
 ### 2026-04-20
 
+**人物：** 商鞅
+**执行时间：** 08:08 - 08:28
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** ctext.org、wikisource.org 等主要古典文献网站无法访问；改以百度百科（商鞅传记、史记商君列传全文、商君书介绍）和百度百科后世评述为多个来源；商鞅为法家改革家非诗人，无诗词作品，以政论文和法令条文为主要语料；web_search 多次失败，改以 web_fetch 直接抓取
+**产出文件：**
+  - output/shang_yang/SKILL.md
+  - output/shang_yang/README.md
+  - output/shang_yang/METADATA.json
+  - output/shang_yang/CITATIONS.md
+  - output/shang_yang/raw_stats.json
+  - output/shang_yang/EVENTS.md
+  - output/shang_yang/VOICE.md
+  - done/shang_yang.done
+  - processed/shang_yang/stages.md
+  - processed/shang_yang/dimension_思想内核.json
+  - processed/shang_yang/dimension_语言特征.json
+  - processed/shang_yang/dimension_表达偏好.json
+  - processed/shang_yang/dimension_立场光谱.json
+  - processed/shang_yang/dimension_voice_profile.json
+  - processed/shang_yang/consistency_check.md
+  - raw/shang_yang/传记.txt
+  - raw/shang_yang/史记商君列传.txt
+  - raw/shang_yang/商君书.txt
+  - raw/shang_yang/引语.txt
+  - raw/shang_yang/后世评述.txt
+  - raw/shang_yang/全部语料.txt
+
+### 2026-04-20
+
 **人物：** 蒲松龄
 **执行时间：** 06:01 - 06:20
 **结果：** ✅ 完成（commit 已创建，git push 因 GitHub 网络不可达暂时失败，将在下次执行重试）
@@ -468,13 +499,13 @@
 
 ```
 总人物数：     25
-已完成：       21
+已完成：       22
 进行中：       0
-待处理：       4
-完成率：       84%
+待处理：       3
+完成率：       88%
 
 按 confidence：
-  high：       18
+  high：       19
   medium：     3
   low：        0
 
@@ -483,7 +514,7 @@
   北宋：       7 / 7
   南宋：       1 / 1
   晋：         1 / 1
-  战国：       1 / 3
+  战国：       2 / 3
   三国：       3 / 3
   清：         1 / 2
 ```
