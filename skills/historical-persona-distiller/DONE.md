@@ -36,6 +36,7 @@
 | 22 | 商鞅 | 战国 | 2026-04-20 | high | 20 |
 | 23 | 韩非 | 战国 | 2026-04-20 | high | 10 |
 | 24 | 李煜 | 南唐 | 2026-04-20 | high | 15 |
+| 25 | 纳兰性德 | 清 | 2026-04-20 | high | 30 |
 ```
 
 **字段说明：**
@@ -55,10 +56,10 @@
 ```
 ### 下一待处理
 
-- **人物：** 纳兰性德
+- **人物：** 曾国藩
 - **朝代：** 清
 - **priority：** low
-- **预计难度：** 中等（清词高峰，悼亡词绝唱，与李煜有可比性）
+- **预计难度：** 较高（近代人物，史料极为丰富，桐城派殿军）
 ```
 
 ---
@@ -551,19 +552,48 @@
   - raw/li_yu/后世评述.txt
   - raw/li_yu/全部语料.txt
 
+### 2026-04-20
+
+**人物：** 纳兰性德
+**执行时间：** 08:06 - 08:36
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** web_search 多次失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；改以百度百科（纳兰传记30000+字+后世评述26条）和百度汉语（词作约30首）为两个主要来源；诗词以中小令为主，长调作品较少，整体语料偏重中小令
+**产出文件：**
+  - output/na_lan_xingde/SKILL.md
+  - output/na_lan_xingde/README.md
+  - output/na_lan_xingde/METADATA.json
+  - output/na_lan_xingde/CITATIONS.md
+  - output/na_lan_xingde/raw_stats.json
+  - output/na_lan_xingde/EVENTS.md
+  - output/na_lan_xingde/VOICE.md
+  - done/na_lan_xingde.done
+  - processed/na_lan_xingde/stages.md
+  - processed/na_lan_xingde/dimension_思想内核.json
+  - processed/na_lan_xingde/dimension_语言特征.json
+  - processed/na_lan_xingde/dimension_表达偏好.json
+  - processed/na_lan_xingde/dimension_立场光谱.json
+  - processed/na_lan_xingde/dimension_voice_profile.json
+  - processed/na_lan_xingde/consistency_check.md
+  - raw/na_lan_xingde/传记.txt
+  - raw/na_lan_xingde/诗词.txt
+  - raw/na_lan_xingde/引语.txt
+  - raw/na_lan_xingde/后世评述.txt
+  - raw/na_lan_xingde/全部语料.txt
+
 ---
 
 ## 四、统计概览
 
 ```
-总人物数：     25
-已完成：       24
+总人物数：     26
+已完成：       25
 进行中：       0
 待处理：       1
 完成率：       96%
 
 按 confidence：
-  high：       21
+  high：       22
   medium：     3
   low：        0
 
@@ -574,7 +604,7 @@
   晋：         1 / 1
   战国：       3 / 3
   三国：       3 / 3
-  清：         2 / 3
+  清：         3 / 3
   南唐：       1 / 1
 ```
 
