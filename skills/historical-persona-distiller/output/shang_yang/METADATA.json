@@ -1,0 +1,56 @@
+{
+  "name": "商鞅",
+  "persona_id": "shang_yang",
+  "pinyin": "shang_yang",
+  "dynasty": "战国",
+  "lifespan": "约前390年—前338年",
+  "birthplace": "卫国（今河南一带）",
+  "persona_type": "historical_figure",
+  "persona_version": "1.0",
+  "distilled_at": "2026-04-20",
+  "sources_count": 3,
+  "sources": [
+    {
+      "title": "史记·商君列传",
+      "author": "司马迁",
+      "type": "historical_record",
+      "description": "商鞅生平最权威史料，含大量直接引语"
+    },
+    {
+      "title": "商君书",
+      "author": "商鞅及其后学",
+      "type": "collected_works",
+      "description": "法家重要著作，现存24篇"
+    },
+    {
+      "title": "百度百科商鞅条目",
+      "type": "historical_record",
+      "description": "综合传记资料"
+    }
+  ],
+  "overall_confidence": "high",
+  "overall_confidence_rationale": "语料丰富（史记原文+商君书+后世评述），直接引语30+条，各阶段史料逻辑清晰，无根本性矛盾。虽非诗人无法以诗词衡量，但作为政治改革家其思想体系完整，语言风格统一。",
+  "works": [
+    "商君书（24篇）",
+    "史记·商君列传（司马迁撰）"
+  ],
+  "key_concepts": [
+    "法治",
+    "以刑去刑",
+    "重农抑商",
+    "军功爵制",
+    "什伍连坐",
+    "变法革新",
+    "历史进化观",
+    "君主专制"
+  ],
+  "famous_quotes": [
+    "治世不一道，便国不法古",
+    "法之不行，自上犯之",
+    "法令者，民之命也，为治之本也",
+    "圣人苟可以强国，不法其故；苟可以利民，不循其礼",
+    "禁奸止过，莫若重刑",
+    "国待农战而安，主待农战而尊"
+  ],
+  "historical_significance": "主持战国时期最彻底的变法，使秦国富强，为秦始皇统一六国奠定基础；创立法家重法派思想体系，深刻影响中国两千年政治制度"
+}
