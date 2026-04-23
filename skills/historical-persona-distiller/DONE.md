@@ -38,6 +38,7 @@
 | 24 | 李煜 | 南唐 | 2026-04-20 | high | 15 |
 | 25 | 纳兰性德 | 清 | 2026-04-20 | high | 30 |
 | 26 | 曾国藩 | 清 | 2026-04-20 | medium | 15 |
+| 27 | 朱熹 | 南宋 | 2026-04-23 | high | 45 |
 ```
 
 **字段说明：**
@@ -52,9 +53,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 朱熹（南宋，宋明理学集大成）
-**persona_id：** zhu_xi
-**来源：** queue/backlog.md #26
+**下一待处理：** 王阳明（明代，心学创立，知行合一）
+**persona_id：** wang_yangming
+**来源：** queue/backlog.md #27
 
 ```
 （queue/backlog.md 第二批 16 人已就绪，曾国藩为上批次最后一人。）
@@ -584,21 +585,21 @@
 ## 四、统计概览
 
 ```
-总人物数：     26
-已完成：       26
+总人物数：     27
+已完成：       27
 进行中：       0
 待处理：       0
 完成率：       100%
 
 按 confidence：
-  high：       22
+  high：       23
   medium：     4
   low：        0
 
 按朝代：
   唐：         6 / 6
   北宋：       7 / 7
-  南宋：       1 / 1
+  南宋：       2 / 2
   晋：         1 / 1
   战国：       3 / 3
   三国：       3 / 3
@@ -622,6 +623,34 @@
   - output/zeng_guofan/EVENTS.md
   - output/zeng_guofan/VOICE.md
   - done/zeng_guofan.done
+
+### 2026-04-23
+
+**人物：** 朱熹
+**执行时间：** 18:26 - 19:11
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** baike.baidu.com/item/朱熹/165782 直接返回404，改用 baike.baidu.com/item/朱熹（自动重定向至正确ID 106669）；web_search 多次失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；改以百度百科（朱熹传记近30000字+后世评述）和百度汉语（诗词20首）为两个主要来源；朱熹为理学家非诗人，诗词数量偏少但传记和后世评述语料极为丰富
+**产出文件：**
+  - output/zhu_xi/SKILL.md
+  - output/zhu_xi/README.md
+  - output/zhu_xi/METADATA.json
+  - output/zhu_xi/CITATIONS.md
+  - output/zhu_xi/raw_stats.json
+  - output/zhu_xi/EVENTS.md
+  - output/zhu_xi/VOICE.md
+  - done/zhu_xi.done
+  - processed/zhu_xi/stages.md
+  - processed/zhu_xi/dimension_思想内核.json
+  - processed/zhu_xi/dimension_语言特征.json
+  - processed/zhu_xi/dimension_表达偏好.json
+  - processed/zhu_xi/dimension_立场光谱.json
+  - processed/zhu_xi/dimension_voice_profile.json
+  - raw/zhu_xi/传记.txt
+  - raw/zhu_xi/诗词.txt
+  - raw/zhu_xi/引语.txt
+  - raw/zhu_xi/后世评述.txt
+  - raw/zhu_xi/全部语料.txt
 
 ---
 
