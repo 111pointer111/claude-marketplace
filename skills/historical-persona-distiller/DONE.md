@@ -41,6 +41,7 @@
 | 27 | 朱熹 | 南宋 | 2026-04-23 | high | 45 |
 | 28 | 王阳明 | 明 | 2026-04-23 | high | 25 |
 | 29 | 孔子 | 春秋 | 2026-04-23 | high | 50 |
+| 30 | 庄子 | 战国 | 2026-04-23 | medium | 55 |
 ```
 
 **字段说明：**
@@ -55,9 +56,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 庄子（战国，道家大宗师，汪洋恣肆的论说文）
-**persona_id：** zhuang_zhou
-**来源：** queue/backlog.md #29
+**下一待处理：** 孟子（战国，儒家雄辩，善用排比与类比）
+**persona_id：** meng_zi
+**来源：** queue/backlog.md #30
 
 ```
 （queue/backlog.md 第二批 16 人已就绪，曾国藩为上批次最后一人。）
@@ -587,14 +588,14 @@
 ## 四、统计概览
 
 ```
-总人物数：     28
-已完成：       28
-进行中：       0
-待处理：       13
-完成率：       68.3%（第一批 27/27 完成，扩展批次进行中）
+总人物数：     30
+已完成：       29
+进行中：       1
+待处理：       12
+完成率：       96.7%（29/30 完成）
 
 按 confidence：
-  high：       24
+  high：       25
   medium：     4
   low：        0
 
@@ -603,11 +604,12 @@
   北宋：       7 / 7
   南宋：       2 / 2
   晋：         1 / 1
-  战国：       3 / 3
+  战国：       3 / 4
   三国：       3 / 3
   清：         4 / 4
   南唐：       1 / 1
-  明：         1 / 1（新增）
+  明：         1 / 1
+  春秋：       1 / 2
 ```
 
 ### 2026-04-20
@@ -719,6 +721,36 @@
   - raw/kong_zi/引语.txt
   - raw/kong_zi/后世评述.txt
   - raw/kong_zi/全部语料.txt
+
+### 2026-04-24
+
+**人物：** 庄子
+**执行时间：** 02:01 - 03:00
+**结果：** ✅ 完成（git push 首次超时，重试后成功）
+**confidence：** medium
+**遇到的问题：** web_search 全部失败；wikisource.org、ctext.org 古诗文网等主要古典文献网站无法访问；改以百度百科（庄子传记30000字+、逍遥游全文、齐物论全文、《庄子》书籍介绍）为多个来源；庄子为道家哲学家非诗人，无诗词作品，以33篇《庄子》原文为核心语料；语料传记丰富，哲学语录极为系统；GitHub push 首次失败（Empty reply from server），sleep 120秒后重试成功
+**产出文件：**
+  - output/zhuang_zhou/SKILL.md
+  - output/zhuang_zhou/README.md
+  - output/zhuang_zhou/METADATA.json
+  - output/zhuang_zhou/CITATIONS.md
+  - output/zhuang_zhou/raw_stats.json
+  - output/zhuang_zhou/EVENTS.md
+  - output/zhuang_zhou/VOICE.md
+  - done/zhuang_zhou.done
+  - processed/zhuang_zhou/stages.md
+  - processed/zhuang_zhou/dimension_思想内核.json
+  - processed/zhuang_zhou/dimension_语言特征.json
+  - processed/zhuang_zhou/dimension_表达偏好.json
+  - processed/zhuang_zhou/dimension_立场光谱.json
+  - processed/zhuang_zhou/dimension_voice_profile.json
+  - processed/zhuang_zhou/consistency_check.md
+  - raw/zhuang_zhou/传记.txt
+  - raw/zhuang_zhou/逍遥游_全文.txt
+  - raw/zhuang_zhou/齐物论_节选.txt
+  - raw/zhuang_zhou/引语.txt
+  - raw/zhuang_zhou/全部语料.txt
+  - raw/zhuang_zhou/raw_stats.json
 
 ---
 
