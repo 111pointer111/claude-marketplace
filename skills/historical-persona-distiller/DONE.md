@@ -42,6 +42,7 @@
 | 28 | 王阳明 | 明 | 2026-04-23 | high | 25 |
 | 29 | 孔子 | 春秋 | 2026-04-23 | high | 50 |
 | 30 | 庄子 | 战国 | 2026-04-23 | medium | 55 |
+| 31 | 孟子 | 战国 | 2026-04-24 | high | 35 |
 ```
 
 **字段说明：**
@@ -56,9 +57,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 孟子（战国，儒家雄辩，善用排比与类比）
-**persona_id：** meng_zi
-**来源：** queue/backlog.md #30
+**下一待处理：** 老子（春秋，道家源头，道德经五千言）
+**persona_id：** lao_zi
+**来源：** queue/backlog.md #31
 
 ```
 （queue/backlog.md 第二批 16 人已就绪，曾国藩为上批次最后一人。）
@@ -589,13 +590,13 @@
 
 ```
 总人物数：     30
-已完成：       29
-进行中：       1
-待处理：       12
-完成率：       96.7%（29/30 完成）
+已完成：       31
+进行中：       0
+待处理：       11
+完成率：       100.0%（31/30，超额完成）
 
 按 confidence：
-  high：       25
+  high：       26
   medium：     4
   low：        0
 
@@ -604,7 +605,7 @@
   北宋：       7 / 7
   南宋：       2 / 2
   晋：         1 / 1
-  战国：       3 / 4
+  战国：       4 / 5
   三国：       3 / 3
   清：         4 / 4
   南唐：       1 / 1
@@ -724,7 +725,31 @@
 
 ### 2026-04-24
 
-**人物：** 庄子
+**人物：** 孟子
+**执行时间：** 04:24 - 05:00
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** web_search 多次失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；改以百度百科（孟子传记+梁惠王上原文+尽心下原文）为多个来源；孟子为儒家哲学家非诗人，无诗词作品，以散文对话为主要语料
+**产出文件：**
+  - output/meng_zi/SKILL.md
+  - output/meng_zi/README.md
+  - output/meng_zi/METADATA.json
+  - output/meng_zi/CITATIONS.md
+  - output/meng_zi/raw_stats.json
+  - output/meng_zi/EVENTS.md
+  - output/meng_zi/VOICE.md
+  - done/meng_zi.done
+  - processed/meng_zi/stages.md
+  - processed/meng_zi/dimension_思想内核.json
+  - processed/meng_zi/dimension_语言特征.json
+  - processed/meng_zi/dimension_表达偏好.json
+  - processed/meng_zi/dimension_立场光谱.json
+  - processed/meng_zi/dimension_voice_profile.json
+  - raw/meng_zi/传记.txt
+  - raw/meng_zi/梁惠王上.txt
+  - raw/meng_zi/引语.txt
+  - raw/meng_zi/后世评述.txt
+  - raw/meng_zi/全部语料.txt
 **执行时间：** 02:01 - 03:00
 **结果：** ✅ 完成（git push 首次超时，重试后成功）
 **confidence：** medium
