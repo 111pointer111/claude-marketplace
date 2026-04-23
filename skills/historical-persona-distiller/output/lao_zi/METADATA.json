@@ -1,0 +1,74 @@
+{
+  "persona_id": "lao_zi",
+  "name": "老子",
+  "name_en": "Lao Zi / Lao Tzu",
+  "dynasty": "春秋",
+  "lifespan": "约公元前571年—约公元前471年",
+  "birthplace": "陈国苦县厉乡曲仁里（今河南鹿邑或安徽涡阳）",
+  "persona_type": "historical_figure",
+  "persona_version": "1.0",
+  "distilled_at": "2026-04-24T06:01:00+08:00",
+  "distiller": "historical-persona-distiller cron",
+  "sources": [
+    {
+      "source": "百度百科·老子传记",
+      "type": "historical_record",
+      "url": "https://baike.baidu.com/item/老子/5448",
+      "chars": 28000
+    },
+    {
+      "source": "百度百科·道德经词条",
+      "type": "poetry_collection",
+      "url": "https://baike.baidu.com/item/道德经/327138",
+      "chars": 25000
+    },
+    {
+      "source": "《史记》司马迁·老子韩非列传",
+      "type": "historical_record",
+      "reference": "《史记·老子韩非列传》",
+      "quotes": 10
+    },
+    {
+      "source": "《道德经》全文",
+      "type": "personal_essay",
+      "quotes": 60,
+      "note": "81章5162字，核心语料"
+    }
+  ],
+  "overall_confidence": "high",
+  "files_generated": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md"
+  ],
+  "raw_stats": {
+    "raw_corpus_chars": 59000,
+    "quotes_extracted": 70,
+    "biography_chars": 28000,
+    "dao_de_jing_chars": 5162,
+    "commentary_chars": 2000
+  },
+  "quality_checks": {
+    "quotes_verified": true,
+    "idioms_validated": true,
+    "all_fields_filled": true,
+    "confidence_threshold_met": true
+  },
+  "key_works": [
+    {
+      "title": "道德经",
+      "type": "哲学著作",
+      "chapters": 81,
+      "chars": 5162,
+      "note": "又名《老子》《道德真经》《五千言》，分《道经》（上篇37章）和《德经》（下篇44章）"
+    }
+  ],
+  "historical_significance": {
+    "school": "道家学派创始人",
+    "influence": "与庄子并称'老庄'，与《易经》《论语》并称对中国影响最深的三部思想巨著",
+    "world_impact": "世界上译本最多的中国典籍，73种语言1500余种译本，仅次于《圣经》"
+  }
+}

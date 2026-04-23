@@ -1,0 +1,20 @@
+{
+  "persona_id": "lao_zi",
+  "source_files": {
+    "传记.txt": 10175,
+    "道德经.txt": 3154,
+    "引语.txt": 3927,
+    "后世评述.txt": 2008,
+    "全部语料.txt": 181,
+    "processed/stages.md": 1716,
+    "processed/dimension_思想内核.json": 2794,
+    "processed/dimension_语言特征.json": 2055,
+    "processed/dimension_表达偏好.json": 988,
+    "processed/dimension_立场光谱.json": 1140
+  },
+  "total_raw_chars": 19264,
+  "total_processed_chars": 8693,
+  "quotes_count": 58,
+  "stages_count": 5,
+  "dimension_files_count": 4
+}
