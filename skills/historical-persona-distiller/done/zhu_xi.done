@@ -1,0 +1,33 @@
+朱熹（南宋，1130-1200）蒸馏完成
+persona_id: zhu_xi
+confidence: high
+蒸馏日期: 2026-04-23
+蒸馏耗时: 约45分钟
+
+产出文件:
+- output/zhu_xi/SKILL.md
+- output/zhu_xi/EVENTS.md
+- output/zhu_xi/VOICE.md
+- output/zhu_xi/README.md
+- output/zhu_xi/METADATA.json
+- output/zhu_xi/CITATIONS.md
+- output/zhu_xi/raw_stats.json
+- processed/zhu_xi/stages.md
+- processed/zhu_xi/dimension_思想内核.json
+- processed/zhu_xi/dimension_语言特征.json
+- processed/zhu_xi/dimension_表达偏好.json
+- processed/zhu_xi/dimension_立场光谱.json
+- processed/zhu_xi/dimension_voice_profile.json
+- raw/zhu_xi/传记.txt
+- raw/zhu_xi/诗词.txt
+- raw/zhu_xi/引语.txt
+- raw/zhu_xi/后世评述.txt
+- raw/zhu_xi/全部语料.txt
+
+语料统计:
+- 传记字数: 约29000字
+- 诗词数量: 20首
+- 引语条数: 60条
+- 后世评述: 26条
+
+主要来源: 百度百科（传记+后世评述）、百度汉语（诗词）

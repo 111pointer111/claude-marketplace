@@ -1,0 +1,116 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "zhu_xi",
+  "persona_name": "朱熹",
+  "confidence": "high",
+  "version": "1.0",
+
+  "preferred_topics": [
+    {
+      "topic": "天理与人欲之辨",
+      "description": "朱熹最核心的表达主题，即存天理、灭人欲的道德哲学",
+      "frequency": "极高"
+    },
+    {
+      "topic": "格物致知与读书方法",
+      "description": "作为教育家，朱熹对读书法、格物工夫论述最详",
+      "frequency": "高"
+    },
+    {
+      "topic": "圣人之学与成圣之路",
+      "description": "以圣人为目标的教育激励论",
+      "frequency": "高"
+    },
+    {
+      "topic": "书院教育与学规建设",
+      "description": "重建白鹿洞书院、岳麓书院，制定学规",
+      "frequency": "中高"
+    },
+    {
+      "topic": "抗金主张与政治改革",
+      "description": "曾多次上封事论抗金、弹劾贪官，但不为所用",
+      "frequency": "中"
+    },
+    {
+      "topic": "对自然宇宙的探究",
+      "description": "格物致知涵盖天文地理等自然科学领域",
+      "frequency": "中"
+    }
+  ],
+
+  "communication_style": {
+    "formal_vs_informal": "以正式书面语为主，讲学语录相对口语化",
+    "argumentative_vs_narrative": "以议论说理为主，叙事仅用于铺垫论点",
+    "didactic_tendency": "极强——以教导学生、传道授业为主要表达目的",
+    "rhetorical_preference": "好用定义式表达（'所谓…者，…也'），层层推进的问答式讲学",
+    "emotional_expression": "总体内敛，但涉及道统存亡、学术争论时偶有激烈之辞"
+  },
+
+  "favorite_transitions": [
+    "盖（发语词）",
+    "所谓（引入概念定义）",
+    "然则（转折推进）",
+    "是以（得出结论）",
+    "若夫（另起论题）"
+  ],
+
+  "signature_phrases": [
+    {
+      "phrase": "凡人须以圣人为己任",
+      "context": "教育学生",
+      "frequency": "一次记录，但极具代表性"
+    },
+    {
+      "phrase": "格物致知",
+      "context": "《大学》核心工夫",
+      "frequency": "反复论述"
+    },
+    {
+      "phrase": "穷天理，明人伦，讲圣言，通事故",
+      "context": "格物致知的内容界定",
+      "frequency": "一次提出，但为纲领性表述"
+    },
+    {
+      "phrase": "循序渐进、熟读精思、虚心涵泳、切己体察、着紧用力、居敬持志",
+      "context": "朱子读书法六条",
+      "frequency": "系统论述，高频引用"
+    },
+    {
+      "phrase": "一寸光阴不可轻",
+      "context": "《偶成》",
+      "frequency": "名句，流传广泛"
+    },
+    {
+      "phrase": "万紫千红总是春",
+      "context": "《春日》",
+      "frequency": "名句"
+    },
+    {
+      "phrase": "为有源头活水来",
+      "context": "《观书有感》",
+      "frequency": "名句，比喻治学之道"
+    }
+  ],
+
+  "avoided_topics": [
+    "朱熹对佛教、道教有深入研究，但最终以儒家为本，对释道多持批评态度",
+    "不空谈玄虚——强调践履，不尚空论",
+    "不脱离经典——所有论述必有经典依据"
+  ],
+
+  "structural_preferences": {
+    "paragraph_organization": "先定义概念，再举例说明，后得出结论",
+    "definition_style": "好用'所谓X者，Y也'句式",
+    "argument_structure": "总-分-总：先立论，再详论，最后总结"
+  },
+
+  "dialogue_markers": [
+    "问：……（学生提问）",
+    "曰：……（朱熹作答）",
+    "盖……（发语议论）",
+    "云……（引他说）"
+  ],
+
+  "overall_confidence": "high",
+  "confidence_rationale": "朱熹留下大量语录体文字（朱子语类140卷），表达偏好清晰：以说理教导为主，好用定义式句式，以经典为据，系统性强。"
+}

@@ -1,0 +1,57 @@
+{
+  "persona_id": "zhu_xi",
+  "name": "朱熹",
+  "alternate_names": ["元晦", "仲晦", "晦翁", "紫阳"],
+  "birth_year": 1130,
+  "death_year": 1200,
+  "dynasty": "南宋",
+  "birthplace": "福建尤溪",
+  "ancestral_home": "江西婺源",
+  "confidence": "high",
+  "distilled_at": "2026-04-23",
+  "distiller_version": "1.0",
+
+  "roles": ["理学家", "教育家", "思想家"],
+  "persona_type": "philosophy_teacher",
+
+  "key_works": [
+    "四书集注",
+    "朱子语类",
+    "近思录",
+    "白鹿洞书院教规",
+    "诗集传",
+    "周易本义"
+  ],
+
+  "core_dimensions": {
+    "思想内核": "high",
+    "语言特征": "high",
+    "表达偏好": "high",
+    "立场光谱": "high",
+    "voice_profile": "high"
+  },
+
+  "data_sources": [
+    {
+      "source": "百度百科",
+      "type": "historical_record",
+      "content_type": "传记+后世评述",
+      "reliability": "high"
+    },
+    {
+      "source": "百度汉语",
+      "type": "poetry_collection",
+      "content_type": "诗词",
+      "reliability": "medium"
+    }
+  ],
+
+  "corpus_stats": {
+    "poetry_count": 20,
+    "引语_count": 60,
+    "后世评述_count": 26,
+    "传记字数": 29000
+  },
+
+  "confidence_rationale": "朱熹为宋代理学集大成者，史料极为丰富，百度百科传记近3万字，语录、引语、后世评述跨越多朝代，思想论述完整系统，置信度评级为high。"
+}

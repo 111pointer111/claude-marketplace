@@ -1,0 +1,63 @@
+{
+  "persona_id": "zhu_xi",
+  "persona_name": "朱熹",
+  "distilled_at": "2026-04-23T10:26:00+08:00",
+  "version": "1.0",
+
+  "raw_corpus_stats": {
+    "传记": {
+      "source": "百度百科",
+      "字数": 29000,
+      "文件": "raw/zhu_xi/传记.txt"
+    },
+    "诗词": {
+      "source": "百度汉语",
+      "诗词数量": 20,
+      "代表作品": ["春日", "观书有感", "偶成", "水口行舟", "九曲棹歌", "菩萨蛮（回文）"],
+      "文件": "raw/zhu_xi/诗词.txt"
+    },
+    "引语": {
+      "source": "百度百科及传记原文",
+      "条数": 60,
+      "文件": "raw/zhu_xi/引语.txt"
+    },
+    "后世评述": {
+      "source": "百度百科",
+      "条数": 26,
+      "文件": "raw/zhu_xi/后世评述.txt"
+    },
+    "全部语料": {
+      "文件": "raw/zhu_xi/全部语料.txt",
+      "行数": 162
+    }
+  },
+
+  "processed_stats": {
+    "人生阶段": 5,
+    "dimension_files": [
+      "processed/zhu_xi/dimension_思想内核.json",
+      "processed/zhu_xi/dimension_语言特征.json",
+      "processed/zhu_xi/dimension_表达偏好.json",
+      "processed/zhu_xi/dimension_立场光谱.json",
+      "processed/zhu_xi/dimension_voice_profile.json"
+    ]
+  },
+
+  "output_stats": {
+    "SKILL.md": "已生成",
+    "EVENTS.md": "已生成",
+    "VOICE.md": "已生成",
+    "README.md": "已生成",
+    "METADATA.json": "已生成",
+    "CITATIONS.md": "已生成（30条引用）",
+    "raw_stats.json": "本文件"
+  },
+
+  "confidence": "high",
+  "quality_checks": {
+    "引用可溯源": true,
+    "思想内核有原文支撑": true,
+    "所有字段已填充": true,
+    "confidence_评级合规": true
+  }
+}
