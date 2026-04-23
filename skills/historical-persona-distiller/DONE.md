@@ -40,6 +40,7 @@
 | 26 | 曾国藩 | 清 | 2026-04-20 | medium | 15 |
 | 27 | 朱熹 | 南宋 | 2026-04-23 | high | 45 |
 | 28 | 王阳明 | 明 | 2026-04-23 | high | 25 |
+| 29 | 孔子 | 春秋 | 2026-04-23 | high | 50 |
 ```
 
 **字段说明：**
@@ -54,9 +55,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 孔子（春秋，儒家创始人，《论语》体对话风格）
-**persona_id：** kong_zi
-**来源：** queue/backlog.md #28
+**下一待处理：** 庄子（战国，道家大宗师，汪洋恣肆的论说文）
+**persona_id：** zhuang_zhou
+**来源：** queue/backlog.md #29
 
 ```
 （queue/backlog.md 第二批 16 人已就绪，曾国藩为上批次最后一人。）
@@ -682,6 +683,42 @@
   - raw/wang_yangming/后世评述.txt
   - raw/wang_yangming/传习录.txt
   - raw/wang_yangming/全部语料.txt
+
+---
+
+### 2026-04-23
+
+**人物：** 孔子
+**执行时间：** 22:04 - 23:00
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** web_search 多次失败；wikisource.org 古诗文网等无法访问；ctext.org 论语页面部分可访问（成功抓取学而、为政、里仁、述而、颜渊、子路六篇原文）；百度百科孔子传记（80000字+）为最可靠来源；孔子非诗人，以论语对话语录为最核心语料；补充大量后世评价（孟子、荀子、司马迁、朱熹等）作为引语来源
+**产出文件：**
+  - output/kong_zi/SKILL.md
+  - output/kong_zi/README.md
+  - output/kong_zi/METADATA.json
+  - output/kong_zi/CITATIONS.md
+  - output/kong_zi/raw_stats.json
+  - output/kong_zi/EVENTS.md
+  - output/kong_zi/VOICE.md
+  - done/kong_zi.done
+  - processed/kong_zi/stages.md
+  - processed/kong_zi/dimension_思想内核.json
+  - processed/kong_zi/dimension_语言特征.json
+  - processed/kong_zi/dimension_表达偏好.json
+  - processed/kong_zi/dimension_立场光谱.json
+  - processed/kong_zi/dimension_voice_profile.json
+  - processed/kong_zi/consistency_check.md
+  - raw/kong_zi/传记.txt
+  - raw/kong_zi/论语_学而.txt
+  - raw/kong_zi/论语_为政.txt
+  - raw/kong_zi/论语_里仁.txt
+  - raw/kong_zi/论语_述而.txt
+  - raw/kong_zi/论语_颜渊.txt
+  - raw/kong_zi/论语_子路.txt
+  - raw/kong_zi/引语.txt
+  - raw/kong_zi/后世评述.txt
+  - raw/kong_zi/全部语料.txt
 
 ---
 
