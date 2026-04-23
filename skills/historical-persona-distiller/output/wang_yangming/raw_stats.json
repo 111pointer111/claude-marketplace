@@ -1,0 +1,36 @@
+{
+  "persona_id": "wang_yangming",
+  "stats_date": "2026-04-23",
+  "raw_files": {
+    "传记.txt": 5074,
+    "引语.txt": 1130,
+    "后世评述.txt": 2150,
+    "传习录.txt": 1253,
+    "全部语料.txt": 3068
+  },
+  "total_raw_bytes": 12675,
+  "sources": [
+    {
+      "name": "百度百科 王阳明",
+      "url": "https://baike.baidu.com/item/王阳明",
+      "type": "historical_record",
+      "chars": 31323
+    },
+    {
+      "name": "百度百科 传习录",
+      "url": "https://baike.baidu.com/item/传习录",
+      "type": "personal_essay",
+      "chars": 15465
+    },
+    {
+      "name": "百度百科 王阳明全集",
+      "url": "https://baike.baidu.com/item/王阳明全集",
+      "type": "collected_works",
+      "chars": 9638
+    }
+  ],
+  "source_count": 3,
+  "poetry_count": "非诗人，以散文语录为主，诗词为辅",
+  "direct_quotes_count": 15,
+  "commentary_count": 22
+}
