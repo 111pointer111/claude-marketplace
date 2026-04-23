@@ -1,0 +1,8 @@
+# 孟子 persona 蒸馏完成标记
+persona_id: meng_zi
+人物: 孟子
+朝代: 战国
+完成日期: 2026-04-24
+confidence: high
+persona_version: 1.0
+distilled_by: historical-persona-distiller pipeline
