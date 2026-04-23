@@ -39,6 +39,7 @@
 | 25 | 纳兰性德 | 清 | 2026-04-20 | high | 30 |
 | 26 | 曾国藩 | 清 | 2026-04-20 | medium | 15 |
 | 27 | 朱熹 | 南宋 | 2026-04-23 | high | 45 |
+| 28 | 王阳明 | 明 | 2026-04-23 | high | 25 |
 ```
 
 **字段说明：**
@@ -53,9 +54,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 王阳明（明代，心学创立，知行合一）
-**persona_id：** wang_yangming
-**来源：** queue/backlog.md #27
+**下一待处理：** 孔子（春秋，儒家创始人，《论语》体对话风格）
+**persona_id：** kong_zi
+**来源：** queue/backlog.md #28
 
 ```
 （queue/backlog.md 第二批 16 人已就绪，曾国藩为上批次最后一人。）
@@ -585,14 +586,14 @@
 ## 四、统计概览
 
 ```
-总人物数：     27
-已完成：       27
+总人物数：     28
+已完成：       28
 进行中：       0
-待处理：       0
-完成率：       100%
+待处理：       13
+完成率：       68.3%（第一批 27/27 完成，扩展批次进行中）
 
 按 confidence：
-  high：       23
+  high：       24
   medium：     4
   low：        0
 
@@ -605,6 +606,7 @@
   三国：       3 / 3
   清：         4 / 4
   南唐：       1 / 1
+  明：         1 / 1（新增）
 ```
 
 ### 2026-04-20
@@ -651,6 +653,35 @@
   - raw/zhu_xi/引语.txt
   - raw/zhu_xi/后世评述.txt
   - raw/zhu_xi/全部语料.txt
+
+### 2026-04-23
+
+**人物：** 王阳明
+**执行时间：** 20:09 - 20:34
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** web_search 多次失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；改以百度百科（王阳明传记30K+字、传习录15K+字、王阳明全集9K+字）为多个来源；王阳明为理学家非诗人，诗词非主要文体，以散文语录为主要语料，整体语料以哲学论著和传记评述为主
+**产出文件：**
+  - output/wang_yangming/SKILL.md
+  - output/wang_yangming/README.md
+  - output/wang_yangming/METADATA.json
+  - output/wang_yangming/CITATIONS.md
+  - output/wang_yangming/raw_stats.json
+  - output/wang_yangming/EVENTS.md
+  - output/wang_yangming/VOICE.md
+  - done/wang_yangming.done
+  - processed/wang_yangming/stages.md
+  - processed/wang_yangming/dimension_思想内核.json
+  - processed/wang_yangming/dimension_语言特征.json
+  - processed/wang_yangming/dimension_表达偏好.json
+  - processed/wang_yangming/dimension_立场光谱.json
+  - processed/wang_yangming/dimension_voice_profile.json
+  - processed/wang_yangming/consistency_check.md
+  - raw/wang_yangming/传记.txt
+  - raw/wang_yangming/引语.txt
+  - raw/wang_yangming/后世评述.txt
+  - raw/wang_yangming/传习录.txt
+  - raw/wang_yangming/全部语料.txt
 
 ---
 
