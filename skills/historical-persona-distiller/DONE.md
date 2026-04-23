@@ -43,6 +43,7 @@
 | 29 | 孔子 | 春秋 | 2026-04-23 | high | 50 |
 | 30 | 庄子 | 战国 | 2026-04-23 | medium | 55 |
 | 31 | 孟子 | 战国 | 2026-04-24 | high | 35 |
+| 32 | 老子 | 春秋 | 2026-04-24 | high | 40 |
 ```
 
 **字段说明：**
@@ -57,12 +58,12 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 老子（春秋，道家源头，道德经五千言）
-**persona_id：** lao_zi
-**来源：** queue/backlog.md #31
+**下一待处理：** 司马迁（西汉，史记作者，史传文学巅峰）
+**persona_id：** sima_qian
+**来源：** queue/backlog.md #32
 
 ```
-（queue/backlog.md 第二批 16 人已就绪，曾国藩为上批次最后一人。）
+（queue/backlog.md 第二批 16 人已就绪，老子为本次完成人物。）
 ```
 
 ---
@@ -589,15 +590,15 @@
 ## 四、统计概览
 
 ```
-总人物数：     30
-已完成：       31
+总人物数：     41
+已完成：       32
 进行中：       0
-待处理：       11
-完成率：       100.0%（31/30，超额完成）
+待处理：       9
+完成率：       78.0%（32/41）
 
 按 confidence：
-  high：       26
-  medium：     4
+  high：       27
+  medium：     5
   low：        0
 
 按朝代：
@@ -610,7 +611,8 @@
   清：         4 / 4
   南唐：       1 / 1
   明：         1 / 1
-  春秋：       1 / 2
+  春秋：       2 / 3
+  西汉：       1 / 1
 ```
 
 ### 2026-04-20
@@ -750,6 +752,34 @@
   - raw/meng_zi/引语.txt
   - raw/meng_zi/后世评述.txt
   - raw/meng_zi/全部语料.txt
+
+### 2026-04-24
+
+**人物：** 老子
+**执行时间：** 06:01 - 06:41
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** web_search 多次失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；改以百度百科（老子传记28000字+道德经词条25000字）为两个主要来源；老子为道家哲学家非诗人，以《道德经》五千言为核心语料
+**产出文件：**
+  - output/lao_zi/SKILL.md
+  - output/lao_zi/README.md
+  - output/lao_zi/METADATA.json
+  - output/lao_zi/CITATIONS.md
+  - output/lao_zi/raw_stats.json
+  - output/lao_zi/EVENTS.md
+  - output/lao_zi/VOICE.md
+  - done/lao_zi.done
+  - processed/lao_zi/stages.md
+  - processed/lao_zi/dimension_思想内核.json
+  - processed/lao_zi/dimension_语言特征.json
+  - processed/lao_zi/dimension_表达偏好.json
+  - processed/lao_zi/dimension_立场光谱.json
+  - raw/lao_zi/传记.txt
+  - raw/lao_zi/道德经.txt
+  - raw/lao_zi/引语.txt
+  - raw/lao_zi/后世评述.txt
+  - raw/lao_zi/全部语料.txt
+
 **执行时间：** 02:01 - 03:00
 **结果：** ✅ 完成（git push 首次超时，重试后成功）
 **confidence：** medium
