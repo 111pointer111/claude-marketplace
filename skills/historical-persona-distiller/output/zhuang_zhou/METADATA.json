@@ -1,0 +1,91 @@
+{
+  "persona_id": "zhuang_zhou",
+  "name": "庄子",
+  "pinyin": "zhuang_zhou",
+  "dynasty": "战国",
+  "born": "约公元前369年",
+  "died": "约公元前286年",
+  "lifespan": "约83岁",
+  "occupation": ["思想家", "哲学家", "文学家"],
+  "school": "道家",
+  "persona_version": "1.0",
+  "distilled_at": "2026-04-23T18:06:00Z",
+  "distiller": "historical-persona-distiller pipeline",
+  "sources_count": 4,
+  "sources": [
+    {
+      "title": "百度百科 - 庄子",
+      "url": "https://baike.baidu.com/item/庄子/8074",
+      "type": "historical_record"
+    },
+    {
+      "title": "百度百科 - 莊子（书籍）",
+      "url": "https://baike.baidu.com/item/莊子/2451694",
+      "type": "collected_works"
+    },
+    {
+      "title": "百度百科 - 逍遥游",
+      "url": "https://baike.baidu.com/item/逍遥游/1506",
+      "type": "poetry_collection"
+    },
+    {
+      "title": "百度百科 - 齐物论",
+      "url": "https://baike.baidu.com/item/齐物论/7213047",
+      "type": "poetry_collection"
+    }
+  ],
+  "overall_confidence": "medium",
+  "confidence_reasons": [
+    "存世作品丰富（33篇，约6.5万字），思想体系完整",
+    "核心价值观（道法自然、逍遥无待、齐物论）在所有存世作品中高度一致",
+    "战国时期作品精确编年困难，阶段切分有不确定性",
+    "无诗词作品，语料以哲学论说文为主"
+  ],
+  "works": [
+    {
+      "title": "庄子",
+      "alias": ["南华真经"],
+      "chapters": 33,
+      "chars": 65920,
+      "structure": {
+        "inner": 7,
+        "outer": 15,
+        "mixed": 11
+      },
+      "key_chapters": [
+        "逍遥游",
+        "齐物论",
+        "养生主",
+        "人间世",
+        "德充符",
+        "大宗师",
+        "应帝王"
+      ]
+    }
+  ],
+  "thought_schools": ["道家", "老庄学派"],
+  "influences": [
+    "魏晋玄学",
+    "中国美学",
+    "中国文学批评",
+    "佛教中国化",
+    "道教"
+  ],
+  "historical_evalutions": [
+    {
+      "evaluator": "司马迁",
+      "quote": "其学无所不窥，然其要本归于老子之言。",
+      "source": "史记·老庄申韩列传"
+    },
+    {
+      "evaluator": "鲁迅",
+      "quote": "其文则汪洋辟阖，仪态万方，晚周诸子之作，莫能先也。",
+      "source": "汉文学史纲要"
+    },
+    {
+      "evaluator": "郭沫若",
+      "quote": "以思想家而兼文章家的人，在中国古代哲人中，实在是绝无仅有。",
+      "source": "鲁迅与庄子"
+    }
+  ]
+}
