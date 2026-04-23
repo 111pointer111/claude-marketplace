@@ -1,0 +1,60 @@
+{
+  "persona_id": "meng_zi",
+  "name": "孟子",
+  "pinyin": "meng_zi",
+  "dynasty": "战国",
+  "birth_death": "约公元前385年—约公元前304年",
+  "title": "亚圣",
+  "school": "儒家（思孟学派）",
+  "persona_version": "1.0",
+  "distilled_at": "2026-04-24T04:00:00Z",
+  "distilled_by": "historical-persona-distiller pipeline",
+  "overall_confidence": "high",
+  "sources_count": 3,
+  "sources": [
+    "百度百科孟子条目（传记+原文，约25000字）",
+    "《孟子·梁惠王上》原文（百度百科，约30000字）",
+    "《孟子·尽心下》原文（百度百科，约17000字）"
+  ],
+  "persona_type": "historical_figure",
+  "key_themes": [
+    "性善论",
+    "仁政王道",
+    "民贵君轻",
+    "舍生取义",
+    "浩然之气",
+    "天命与担当"
+  ],
+  "confidence_breakdown": {
+    "思想内核": "high",
+    "语言特征": "high",
+    "表达偏好": "high",
+    "立场光谱": "high",
+    "voice_profile": "high"
+  },
+  "files_generated": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "raw_files": [
+    "raw/meng_zi/传记.txt",
+    "raw/meng_zi/梁惠王上.txt",
+    "raw/meng_zi/引语.txt",
+    "raw/meng_zi/后世评述.txt",
+    "raw/meng_zi/全部语料.txt"
+  ],
+  "processed_files": [
+    "processed/meng_zi/stages.md",
+    "processed/meng_zi/dimension_思想内核.json",
+    "processed/meng_zi/dimension_语言特征.json",
+    "processed/meng_zi/dimension_表达偏好.json",
+    "processed/meng_zi/dimension_立场光谱.json",
+    "processed/meng_zi/dimension_voice_profile.json"
+  ],
+  "notes": "孟子非诗人，无诗词作品，以散文对话为主要语料。语料主要来源于百度百科，wikisource.org和ctext.org均无法访问。"
+}

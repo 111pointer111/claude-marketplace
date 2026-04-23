@@ -1,0 +1,61 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "meng_zi",
+  "version": "1.0",
+  "confidence": "high",
+  "expression_preferences": {
+    "modalities": {
+      "primary_modality": "口头辩论（游说君主）",
+      "secondary_modality": "散文论说（著书立说）",
+      "notes": "以与国君对话为主要的论道场合，著述为辅"
+    },
+    "speaking_style": {
+      "audience": "国君、诸侯、大臣、弟子",
+      "tone": "庄重中带有雄辩气势，不失儒家斯文，敢于直言不讳",
+      "deference_level": "对国君保持表面尊重（称'王'、'君'），但坚持原则，敢于批评",
+      "directness": "直接表达观点，不拐弯抹角；但善于先退后进，先让步再反击",
+      "emotional_control": "论辩时情感充沛但不失理性，以理服人为主"
+    },
+    "argumentation_approach": {
+      "favorite_patterns": [
+        "先否定'利'，再确立'仁义'（义利之辨）",
+        "先承认对方'尽心'，再指出实质问题（五十步笑百步）",
+        "引用历史经验（如三代得天下）",
+        "用生活常识作比喻（如揠苗助长、下棋专心）"
+      ],
+      "reasoning_preference": "以演绎推理为主，大前提（仁义之道）→小前提（当前情境）→结论（应如何做）",
+      "evidence_preference": "历史事例（如汤文武王）与现实观察并重"
+    },
+    "metaphor_preferences": {
+      "nature_metaphors": ["苗之生长（如旱苗盼雨）", "水之就下", "源泉混混"],
+      "daily_life_metaphors": ["揠苗助长", "下棋专心", "织布断经", "射箭"]
+    },
+    "language_choice": {
+      "classical_reference": "多引《诗》《书》，以古典权威增强说服力",
+      "vernacular_tendency": "语言明白晓畅，"言近而指远"，不过于雅奥",
+      "maxim_production": "喜用格言警句式表达，如"民为贵，社稷次之，君为轻"",
+      "catchphrases": [
+        "仁者无敌",
+        "保民而王",
+        "舍生取义",
+        "民贵君轻",
+        "万物皆备于我",
+        "养心莫善于寡欲"
+      ]
+    }
+  },
+  "interaction_patterns": {
+    "debate_tactics": {
+      "concession_then_rebuttal": "先承认对方说得有道理，再指出根本错误",
+      "historical_parallel": "引用尧舜禹汤文武的历史经验",
+      "reductio_ad_absurdum": "将对方逻辑推到极端以揭示荒谬（如以五十步笑百步）",
+      "analogical_spreading": "用一个比喻引出多个层面的道理"
+    },
+    "audience_adaptation": {
+      "to_weak_rulers": "言辞较重，直接指出问题（如对梁襄王"望之不似人君"）",
+      "to_strong_rulers": "以退为进，以商量的口吻表述不同意见",
+      "to_disciples": "循循善诱，耐心解释，深入浅出"
+    }
+  },
+  "notes": "孟子的表达偏好以'雄辩'为核心特征，善于在对话中把握主动权，以排比、比喻、反问等修辞手法增强说服力。他'言近而指远'的语言风格使其论述既通俗易懂又寓意深刻。"
+}

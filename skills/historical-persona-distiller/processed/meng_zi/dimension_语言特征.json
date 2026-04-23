@@ -1,0 +1,51 @@
+{
+  "dimension": "语言特征量化",
+  "persona_id": "meng_zi",
+  "version": "1.0",
+  "confidence": "high",
+  "linguistic_features": {
+    "sentence_structure": {
+      "paragraph_architecture": "以对话录为主体，每段以'孟子曰'或'孟子对曰'开场，后接大段论述。段落较长，逻辑严密，先破后立。",
+      "sentence_complexity": "复合句多使用排比句式增强气势；简单反问句用于论辩；条件句用于推论。",
+      "parallel_structures": "大量使用排比对仗句，如'老吾老，以及人之老；幼吾幼，以及人之幼'等骈偶句式，增强感染力。",
+      "examples": [
+        "亲亲而仁民，仁民而爱物。（层递排比）",
+        "劳心者治人，劳力者治于人。（对比对仗）",
+        "天时不如地利，地利不如人和。（递进排比）"
+      ]
+    },
+    "rhetorical_devices": {
+      "primary": ["比喻论证", "排比句式", "反问句", "对比论证", "引证法"],
+      "metaphor_frequency": "极高，孟子以比喻说理闻名，如'五十步笑百步'、'揠苗助长'、'如水益深'等",
+      "analogy_depth": "深入浅出，用日常生活比喻政治大义",
+      "notable_rhetorical_moves": [
+        "先让步再反击：如先承认梁惠王'尽心'，再指出实为五十步笑百步",
+        "以退为进：先否定霸道，再肯定王道",
+        "正反对比：用暴君失民心vs圣王得民心形成强烈对照"
+      ]
+    },
+    "vocabulary_domain": {
+      "dominant_fields": ["儒家哲学", "政治伦理", "心性修养", "教育伦理"],
+      "key_terms": ["仁", "义", "礼", "智", "善", "心", "性", "天", "命", "道", "德", "王道", "霸道", "浩然之气"],
+      "frequency_analysis": "仁字在《孟子》全书中出现超过150次；义字出现超过100次；心、性、天、命、道等核心哲学概念出现频繁",
+      "technical_terms": ["性善论", "仁政", "王道", "浩然之气", "良能", "良知", "尽心知性"]
+    },
+    "register_and_tone": {
+      "formal_level": "庄重严肃，但有雄辩气势",
+      "emotional_range": "论辩时慷慨激昂，说理时沉稳有力，叙述往史时平淡蕴蓄",
+      "key_personalities": ["雄辩滔滔", "理直气壮", "不卑不亢", "敢于直言"]
+    },
+    "argumentation_style": {
+      "logic_structure": "演绎与归纳并用；常用三段论式的大前提提出、小前提举例、结论收束",
+      "persuasion_strategy": "以性善论为哲学基点，以具体历史事例为证，以形象比喻为桥，最终指向道德说服",
+      "rebuttal_patterns": "先承认对方合理之处，再指出根本问题，最后提出建设性替代方案"
+    }
+  },
+  "quantitative_summary": {
+    "avg_sentence_length": "中长句为主，平均约25字/句",
+    "parallel_density": "极高，排比句占比约15-20%",
+    "metaphor_frequency_per_chapter": "平均约3-5个主要比喻",
+    "direct_address_ratio": "对话体中直接称'王'、'子'、'君'等尊称频繁"
+  },
+  "notes": "孟子的语言风格以'雄辩'著称，善于用排比与比喻相结合的方式阐述儒家义理。他的文章'言近而指远'（语言浅近而含义深远），气势充沛而逻辑严密，是先秦诸子中论说文成就最高的之一。"
+}

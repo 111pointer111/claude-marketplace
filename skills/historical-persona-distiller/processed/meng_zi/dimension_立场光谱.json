@@ -1,0 +1,45 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "meng_zi",
+  "version": "1.0",
+  "confidence": "high",
+  "political_spectrum": {
+    "position": "儒家理想主义→现实政治改良派",
+    "explanation": "孟子介于纯粹的道德理想主义与实用政治之间：既坚持儒家仁政王道的高远理想，又不得不面对战国现实，采取务实策略批评国君",
+    "idealism_vs_pragmatism": "理想主义占主导，但有一定务实调整（如承认'恒产'对民心的基础作用）"
+  },
+  "ideological_stance": {
+    "primary_alignment": "儒家（思孟学派）",
+    "secondary_influences": ["原始儒家伦理", "西周礼制传统"],
+    "opposition_to": ["法家（商鞅、韩非）", "墨家（兼爱）", "杨朱学派（为我）", "霸道政治"]
+  },
+  "core_positions": {
+    "governance": "仁政王道：反对霸道和战争，主张以德服人、以仁政得民心",
+    "economics": "重农但不抑商；主张井田制（均田）；'制民之产'使民有恒产",
+    "social_hierarchy": "严格的等级制：'劳心者治人，劳力者治于人'；但强调统治者应以父母之心对待百姓",
+    "foreign_policy": "反对兼并战争；主张'不嗜杀人者能一之'；尊崇王道而贬斥霸道"
+  },
+  "controversial_positions": {
+    "critique_of_warring_states": "批评战国诸侯的穷兵黩武；认为'春秋无义战'",
+    "ruler_criticism": "敢于直接批评梁惠王、齐宣王等大国君主；评价梁襄王'望之不似人君'",
+    "radical_claims": "'民为贵，社稷次之，君为轻'——在当时的政治语境下极为激进"
+  },
+  "moral_framework": {
+    "ethics_type": "德性伦理学（以性善论为基础）",
+    "primary_virtues": ["仁", "义", "礼", "智"],
+    "virtue_priority": "仁义并列，仁为核心；礼智为辅助",
+    "vice_condemnation": ["不仁", "不义", "唯利是图", "暴政"]
+  },
+  "sociopolitical_views": {
+    "on_war": "坚决反对，认为仁者不嗜杀人，"仁者无敌"",
+    "on_arts_of_ruler": "强调统治者应'与民同乐'，反对独乐",
+    "on_education": "主张普及教育，"设为庠序学校以教之"",
+    "on_law": "省刑罚、薄税敛；强调以道德教化为主，刑罚为辅"
+  },
+  "reform_vs_tradition": {
+    "orientation": "以继承和发扬西周礼制和孔子思想为旗帜，但又有所创新（如性善论的深化、民本思想的发展）",
+    "conservative_elements": "崇古法先王，主张恢复井田制，重建等级社会",
+    "progressive_elements": "提出'民贵君轻'、肯定私利（承认'恒产'必要性）、重商但不抑商"
+  },
+  "notes": "孟子的立场在战国诸子中独树一帜：他既不像法家那样完全务实地支持强权政治，也不像墨子那样主张绝对平均，而是以儒家道德理想为旗帜，在坚持原则的同时采取灵活的论辩策略。其'民贵君轻'思想在2000多年后的今天仍具有进步意义。"
+}

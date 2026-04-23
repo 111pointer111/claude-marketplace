@@ -1,0 +1,70 @@
+{
+  "persona_id": "meng_zi",
+  "stats_generated_at": "2026-04-24T04:00:00Z",
+  "raw_material_stats": {
+    "传记": {
+      "file": "raw/meng_zi/传记.txt",
+      "word_count_approx": 2256,
+      "source": "百度百科孟子条目"
+    },
+    "原文_梁惠王上": {
+      "file": "raw/meng_zi/梁惠王上.txt",
+      "word_count_approx": 3150,
+      "source": "百度百科《孟子·梁惠王上》条目"
+    },
+    "引语": {
+      "file": "raw/meng_zi/引语.txt",
+      "citation_count": 35,
+      "source": "百度百科孟子条目+尽心下条目"
+    },
+    "后世评述": {
+      "file": "raw/meng_zi/后世评述.txt",
+      "source_count": 10,
+      "sources": ["史记", "汉书", "进学解", "四库全书", "朱熹集注", "冯友兰", "林语堂", "王蒙", "郭沫若", "赵岐题辞"]
+    },
+    "全部语料": {
+      "file": "raw/meng_zi/全部语料.txt",
+      "word_count_approx": 2496
+    }
+  },
+  "processed_stats": {
+    "stages": {
+      "file": "processed/meng_zi/stages.md",
+      "stage_count": 5,
+      "stages": [
+        "早年求学（约前385年—约前360年）",
+        "周游前期（约前360年—约前340年）",
+        "周游中期（约前340年—前318年）",
+        "周游后期（约前318年—前312年）",
+        "晚年归隐（约前312年—约前304年）"
+      ]
+    },
+    "dimensions": {
+      "思想内核": "processed/meng_zi/dimension_思想内核.json",
+      "语言特征": "processed/meng_zi/dimension_语言特征.json",
+      "表达偏好": "processed/meng_zi/dimension_表达偏好.json",
+      "立场光谱": "processed/meng_zi/dimension_立场光谱.json",
+      "voice_profile": "processed/meng_zi/dimension_voice_profile.json"
+    }
+  },
+  "output_stats": {
+    "total_files": 7,
+    "files": [
+      "SKILL.md",
+      "EVENTS.md",
+      "VOICE.md",
+      "README.md",
+      "METADATA.json",
+      "CITATIONS.md",
+      "raw_stats.json"
+    ]
+  },
+  "quality_checks": {
+    "citation_verified": true,
+    "all_fields_filled": true,
+    "confidence_rating": "high",
+    "source_diversity": 3,
+    "quotes_count": 25
+  },
+  "notes": "孟子非诗人，无诗词作品，以散文对话为主要语料。wikisource.org和ctext.org均无法访问，主要依赖百度百科作为语料来源。"
+}
