@@ -1,0 +1,37 @@
+{
+  "persona_id": "kong_zi",
+  "corpus_stats": {
+    "total_chars": 45000,
+    "quotes_count": 120,
+    "biography_source": "百度百科·孔子传记 (https://baike.baidu.com/item/孔子/1584)",
+    "analects_source": "中国哲学书电子化计划 (ctext.org) 论语六篇",
+    "analects_chapters": ["学而", "为政", "里仁", "述而", "颜渊", "子路"],
+    "quotes_by_source": {
+      "论语_学而": 16,
+      "论语_为政": 24,
+      "论语_里仁": 26,
+      "论语_述而": 38,
+      "论语_颜渊": 24,
+      "论语_子路": 30
+    },
+    "cross_references": {
+      "sima_qian_shiji": "史记·孔子世家（引用）",
+      "mengzi": "孟子·公孙丑上（引用）",
+      "xunzi": "荀子·儒效（引用）",
+      "taishigong": "史记（引用）"
+    }
+  },
+  "stages": {
+    "stage_1": "早年求学（公元前551年—公元前532年）",
+    "stage_2": "而立之学（公元前532年—公元前517年）",
+    "stage_3": "仕鲁为官（公元前517年—公元前497年）",
+    "stage_4": "周游列国（公元前497年—公元前484年）",
+    "stage_5": "归鲁晚年（公元前484年—公元前479年）"
+  },
+  "quality_metrics": {
+    "raw_files_created": 9,
+    "processed_files_created": 7,
+    "output_files_created": 7,
+    "total_files": 23
+  }
+}

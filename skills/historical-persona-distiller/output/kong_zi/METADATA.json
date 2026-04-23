@@ -1,0 +1,52 @@
+{
+  "persona_id": "kong_zi",
+  "name": "孔子",
+  "name_en": "Confucius",
+  "dynasty": "春秋",
+  "lifespan": "公元前551年—公元前479年",
+  "birthplace": "鲁国昌平乡陬邑（今山东曲阜）",
+  "persona_type": "historical_figure",
+  "persona_version": "1.0",
+  "distilled_at": "2026-04-23T14:00:00+08:00",
+  "distiller": "historical-persona-distiller cron",
+  "sources": [
+    {
+      "source": "百度百科·孔子传记",
+      "type": "historical_record",
+      "url": "https://baike.baidu.com/item/孔子/1584",
+      "chars": 80000
+    },
+    {
+      "source": "中国哲学书电子化计划·论语（ctext.org）",
+      "type": "personal_essay",
+      "url": "https://ctext.org/analects/zh",
+      "chapters": ["学而", "为政", "里仁", "述而", "颜渊", "子路"],
+      "quotes": 120
+    },
+    {
+      "source": "《史记》司马迁",
+      "type": "historical_record",
+      "reference": "《史记·孔子世家》"
+    }
+  ],
+  "overall_confidence": "high",
+  "files_generated": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md"
+  ],
+  "raw_stats": {
+    "raw_corpus_chars": 45000,
+    "quotes_extracted": 120,
+    "biography_chars": 80000
+  },
+  "quality_checks": {
+    "quotes_verified": true,
+    "idioms_validated": true,
+    "all_fields_filled": true,
+    "confidence_threshold_met": true
+  }
+}
