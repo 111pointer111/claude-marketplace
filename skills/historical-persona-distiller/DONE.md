@@ -52,6 +52,7 @@
 | 38 | 寇准 | 北宋 | 2026-04-24 | medium | 30 |
 | 39 | 管仲 | 春秋 | 2026-04-24 | medium | 15 |
 | 40 | 魏征 | 唐 | 2026-04-24 | medium | 20 |
+| 41 | 孙子 | 春秋 | 2026-04-25 | high | 55 |
 ```
 
 **字段说明：**
@@ -66,9 +67,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 孙子
-**persona_id：** sun_zi
-**来源：** queue/backlog.md #40
+**下一待处理：** 吴起
+**persona_id：** wu_qi
+**来源：** queue/backlog.md #41
 
 ---
 
@@ -595,13 +596,13 @@
 
 ```
 总人物数：     41
-已完成：       38
+已完成：       39
 进行中：       0
-待处理：       3
-完成率：       92.7%（38/41）
+待处理：       2
+完成率：       95.1%（39/41）
 
 按 confidence：
-  high：       31
+  high：       32
   medium：     7
   low：        0
 
@@ -615,7 +616,7 @@
   清：         4 / 4
   南唐：       1 / 1
   明：         1 / 1
-  春秋：       3 / 3
+  春秋：       4 / 4
   西汉：       2 / 2
   东汉：       1 / 1
   东晋：       1 / 1
@@ -1057,6 +1058,38 @@
   - raw/wei_zheng/引语.txt
   - raw/wei_zheng/后世评述.txt
   - raw/wei_zheng/全部语料.txt
+
+---
+
+### 2026-04-25
+
+**人物：** 孙子
+**执行时间：** 02:09 - 03:04
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** web_search 多次失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；ctext.org 要求验证码验证；改以百度百科（孙子传记+孙子兵法词条）为两个主要来源；孙武为军事理论家非诗人，无诗词作品数量要求；语料以《孙子兵法》十三篇5900字全文为核心，传记语料丰富，后世评述跨越汉至现代极为系统
+**产出文件：**
+  - output/sun_zi/SKILL.md
+  - output/sun_zi/README.md
+  - output/sun_zi/METADATA.json
+  - output/sun_zi/CITATIONS.md
+  - output/sun_zi/raw_stats.json
+  - output/sun_zi/EVENTS.md
+  - output/sun_zi/VOICE.md
+  - done/sun_zi.done
+  - processed/sun_zi/stages.md
+  - processed/sun_zi/dimension_思想内核.json
+  - processed/sun_zi/dimension_语言特征.json
+  - processed/sun_zi/dimension_表达偏好.json
+  - processed/sun_zi/dimension_立场光谱.json
+  - processed/sun_zi/dimension_voice_profile.json
+  - processed/sun_zi/consistency_check.md
+  - raw/sun_zi/传记.txt
+  - raw/sun_zi/孙子兵法.txt
+  - raw/sun_zi/引语.txt
+  - raw/sun_zi/后世评述.txt
+  - raw/sun_zi/全部语料.txt
+  - raw/sun_zi/raw_stats.json
 
 ---
 
