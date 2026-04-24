@@ -53,6 +53,7 @@
 | 39 | 管仲 | 春秋 | 2026-04-24 | medium | 15 |
 | 40 | 魏征 | 唐 | 2026-04-24 | medium | 20 |
 | 41 | 孙子 | 春秋 | 2026-04-25 | high | 55 |
+| 42 | 吴起 | 战国 | 2026-04-25 | medium | 40 |
 ```
 
 **字段说明：**
@@ -67,9 +68,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 吴起
-**persona_id：** wu_qi
-**来源：** queue/backlog.md #41
+**下一待处理：** 无（全部人物已蒸馏完成，流水线终止）
+**persona_id：** —
+**来源：** —
 
 ---
 
@@ -1090,6 +1091,37 @@
   - raw/sun_zi/后世评述.txt
   - raw/sun_zi/全部语料.txt
   - raw/sun_zi/raw_stats.json
+
+---
+
+### 2026-04-25
+
+**人物：** 吴起
+**执行时间：** 04:04 - 04:44
+**结果：** ✅ 完成
+**confidence：** medium
+**遇到的问题：** web_search 全部失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；baike.baidu.com/item/吴起/8131 直接 URL 返回404，改用 baike.baidu.com/item/%E5%90%B4%E8%B5%B7 自动重定向至正确 ID；ctext.org 要求验证码验证；吴起为军事家非诗人，无诗词作品数量要求；语料以《吴子兵法》六篇全文（15000+字含原文）和百度百科吴起传记（27000字）为两个主要来源；后世评述语料跨越汉至现代（约40条引语和评价）
+**产出文件：**
+  - output/wu_qi/SKILL.md
+  - output/wu_qi/README.md
+  - output/wu_qi/METADATA.json
+  - output/wu_qi/CITATIONS.md
+  - output/wu_qi/raw_stats.json
+  - output/wu_qi/EVENTS.md
+  - output/wu_qi/VOICE.md
+  - done/wu_qi.done
+  - processed/wu_qi/stages.md
+  - processed/wu_qi/dimension_思想内核.json
+  - processed/wu_qi/dimension_语言特征.json
+  - processed/wu_qi/dimension_表达偏好.json
+  - processed/wu_qi/dimension_立场光谱.json
+  - processed/wu_qi/dimension_voice_profile.json
+  - processed/wu_qi/consistency_check.md
+  - raw/wu_qi/传记.txt
+  - raw/wu_qi/吴子兵法.txt
+  - raw/wu_qi/引语.txt
+  - raw/wu_qi/后世评述.txt
+  - raw/wu_qi/全部语料.txt
 
 ---
 
