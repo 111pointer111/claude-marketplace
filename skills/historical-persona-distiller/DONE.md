@@ -47,6 +47,7 @@
 | 33 | 司马迁 | 西汉 | 2026-04-24 | high | 12 |
 | 34 | 班固 | 东汉 | 2026-04-24 | high | 130 |
 | 35 | 王羲之 | 东晋 | 2026-04-24 | high | 55 |
+| 36 | 颜真卿 | 唐 | 2026-04-24 | high | 12 |
 ```
 
 **字段说明：**
@@ -61,9 +62,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 颜真卿（唐，书法家，祭侄文稿作者）
-**persona_id：** yan_zhenqing
-**来源：** queue/backlog.md #35
+**下一待处理：** 范仲淹（北宋，岳阳楼记，奏议文体刚健）
+**persona_id：** fan_zhongyan
+**来源：** queue/backlog.md #36
 
 ```
 （queue/backlog.md 第二批人物蒸馏进行中，王羲之为本次完成人物。）
@@ -594,18 +595,18 @@
 
 ```
 总人物数：     41
-已完成：       35
+已完成：       36
 进行中：       0
-待处理：       6
-完成率：       85.4%（35/41）
+待处理：       5
+完成率：       87.8%（36/41）
 
 按 confidence：
-  high：       30
+  high：       31
   medium：     5
   low：        0
 
 按朝代：
-  唐：         6 / 6
+  唐：         7 / 7 ✅ new
   北宋：       7 / 7
   南宋：       2 / 2
   晋：         1 / 1
@@ -617,7 +618,7 @@
   春秋：       2 / 3
   西汉：       2 / 2
   东汉：       1 / 1
-  东晋：       1 / 1 ✅ new
+  东晋：       1 / 1
 ```
 
 ### 2026-04-20
@@ -906,6 +907,39 @@
   - raw/wang_xizhi/后世评述.txt
   - raw/wang_xizhi/全部语料.txt
   - raw/wang_xizhi/raw_stats.json
+
+### 2026-04-24
+
+**人物：** 颜真卿
+**执行时间：** 16:13 - 16:25
+**结果：** ✅ 完成（git push 成功）
+**confidence：** high
+**遇到的问题：** web_search 多次失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；祭侄文稿百度百科URL变更，改用直接URL抓取；颜真卿为书法家非诗人，无诗词作品数量要求；改以百度百科（颜真卿传记45000字+书法作品4部+后世评述37条）为多个主要来源
+**产出文件：**
+  - output/yan_zhenqing/SKILL.md
+  - output/yan_zhenqing/README.md
+  - output/yan_zhenqing/METADATA.json
+  - output/yan_zhenqing/CITATIONS.md
+  - output/yan_zhenqing/raw_stats.json
+  - output/yan_zhenqing/EVENTS.md
+  - output/yan_zhenqing/VOICE.md
+  - done/yan_zhenqing.done
+  - processed/yan_zhenqing/stages.md
+  - processed/yan_zhenqing/dimension_思想内核.json
+  - processed/yan_zhenqing/dimension_语言特征.json
+  - processed/yan_zhenqing/dimension_表达偏好.json
+  - processed/yan_zhenqing/dimension_立场光谱.json
+  - processed/yan_zhenqing/dimension_voice_profile.json
+  - processed/yan_zhenqing/consistency_check.md
+  - raw/yan_zhenqing/传记.txt
+  - raw/yan_zhenqing/祭侄文稿.txt
+  - raw/yan_zhenqing/争座位帖.txt
+  - raw/yan_zhenqing/颜勤礼碑.txt
+  - raw/yan_zhenqing/多宝塔碑.txt
+  - raw/yan_zhenqing/引语.txt
+  - raw/yan_zhenqing/后世评述.txt
+  - raw/yan_zhenqing/全部语料.txt
+  - raw/yan_zhenqing/raw_stats.json
 
 ---
 
