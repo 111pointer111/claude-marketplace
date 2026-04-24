@@ -1,0 +1,66 @@
+{
+  "persona_id": "wang_xizhi",
+  "人物": "王羲之",
+  "persona_type": "书法家",
+  "蒸馏日期": "2026-04-24",
+  "confidence": "high",
+  "confidence_说明": "原始语料来源可靠（百度百科收录的《兰亭集序》原文、《晋书》本传及权威书法文献），各维度分析均有2+处原始引用支撑，置信度评为high",
+  "语料来源": [
+    {
+      "来源": "百度百科王羲之传记",
+      "类型": "historical_record",
+      "字符数": "约19000字",
+      "可靠性": "高"
+    },
+    {
+      "来源": "百度百科兰亭集序词条",
+      "类型": "historical_record",
+      "字符数": "约7000字",
+      "可靠性": "高（含原文全文）"
+    },
+    {
+      "来源": "百度百科十七帖词条",
+      "类型": "historical_record",
+      "字符数": "约20000字",
+      "可靠性": "高"
+    }
+  ],
+  "原始文件": {
+    "传记": "raw/wang_xizhi/传记.txt (5078字)",
+    "引语": "raw/wang_xizhi/引语.txt (1790字)",
+    "后世评述": "raw/wang_xizhi/后世评述.txt (1370字)",
+    "兰亭集序": "raw/wang_xizhi/兰亭集序.txt (412字)",
+    "全部语料": "raw/wang_xizhi/全部语料.txt (约8650字)"
+  },
+  "分析文件": {
+    "stages": "processed/wang_xizhi/stages.md",
+    "思想内核": "processed/wang_xizhi/dimension_思想内核.json",
+    "语言特征": "processed/wang_xizhi/dimension_语言特征.json",
+    "表达偏好": "processed/wang_xizhi/dimension_表达偏好.json",
+    "立场光谱": "processed/wang_xizhi/dimension_立场光谱.json",
+    "Voice Profile": "processed/wang_xizhi/dimension_voice_profile.json",
+    "一致性校验": "processed/wang_xizhi/dimension_一致性校验.json"
+  },
+  "输出文件": {
+    "SKILL.md": "output/wang_xizhi/SKILL.md",
+    "VOICE.md": "output/wang_xizhi/VOICE.md",
+    "EVENTS.md": "output/wang_xizhi/EVENTS.md",
+    "README.md": "output/wang_xizhi/README.md",
+    "METADATA.json": "output/wang_xizhi/METADATA.json",
+    "CITATIONS.md": "output/wang_xizhi/CITATIONS.md",
+    "raw_stats.json": "output/wang_xizhi/raw_stats.json"
+  },
+  "直接引语条数": "约25条（含兰亭序全文三段、晋书原文、多条后世评述）",
+  "代表性书法作品": [
+    "兰亭集序（天下第一行书，324字）",
+    "十七帖（草书，27帖134行1166字）",
+    "快雪时晴帖（行书）",
+    "姨母帖（行书）",
+    "丧乱帖（行草）",
+    "乐毅论（楷书）",
+    "黄庭经（楷书）"
+  ],
+  "人生阶段数": 4,
+  "dimension_count": 6,
+  "成语典故数": 4
+}
