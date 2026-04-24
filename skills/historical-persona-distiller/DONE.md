@@ -50,6 +50,7 @@
 | 36 | 颜真卿 | 唐 | 2026-04-24 | high | 12 |
 | 37 | 范仲淹 | 北宋 | 2026-04-24 | high | 30 |
 | 38 | 寇准 | 北宋 | 2026-04-24 | medium | 30 |
+| 39 | 管仲 | 春秋 | 2026-04-24 | medium | 15 |
 ```
 
 **字段说明：**
@@ -64,13 +65,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** （待队列刷新）
-**persona_id：** （待队列刷新）
-**来源：** queue/backlog.md #38
-
-```
-（queue/backlog.md 第二批人物蒸馏进行中，王羲之为本次完成人物。）
-```
+**下一待处理：** 魏征
+**persona_id：** wei_zheng
+**来源：** queue/backlog.md #39
 
 ---
 
@@ -597,14 +594,14 @@
 
 ```
 总人物数：     41
-已完成：       36
+已完成：       37
 进行中：       0
-待处理：       5
-完成率：       87.8%（36/41）
+待处理：       4
+完成率：       90.2%（37/41）
 
 按 confidence：
   high：       31
-  medium：     5
+  medium：     6
   low：        0
 
 按朝代：
@@ -617,7 +614,7 @@
   清：         4 / 4
   南唐：       1 / 1
   明：         1 / 1
-  春秋：       2 / 3
+  春秋：       3 / 3 ✅
   西汉：       2 / 2
   东汉：       1 / 1
   东晋：       1 / 1
@@ -999,6 +996,35 @@
   - raw/kou_zhun/引语.txt
   - raw/kou_zhun/后世评述.txt
   - raw/kou_zhun/全部语料.txt
+
+### 2026-04-24
+
+**人物：** 管仲
+**执行时间：** 22:03 - 22:20
+**结果：** ✅ 完成
+**confidence：** medium
+**遇到的问题：** web_search 多次失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；管仲为政治家非诗人，无诗词作品下限要求；改以百度百科（管仲传记25000字+《管子》概述23000字）为两个主要来源；《管子》托名管仲但非一人一时之作（稷下学派文集），直接原文引用有限
+**产出文件：**
+  - output/guan_zhong/SKILL.md
+  - output/guan_zhong/README.md
+  - output/guan_zhong/METADATA.json
+  - output/guan_zhong/CITATIONS.md
+  - output/guan_zhong/raw_stats.json
+  - output/guan_zhong/EVENTS.md
+  - output/guan_zhong/VOICE.md
+  - done/guan_zhong.done
+  - processed/guan_zhong/stages.md
+  - processed/guan_zhong/dimension_思想内核.json
+  - processed/guan_zhong/dimension_语言特征.json
+  - processed/guan_zhong/dimension_表达偏好.json
+  - processed/guan_zhong/dimension_立场光谱.json
+  - processed/guan_zhong/dimension_voice_profile.json
+  - processed/guan_zhong/consistency_check.md
+  - raw/guan_zhong/传记.txt
+  - raw/guan_zhong/管子.txt
+  - raw/guan_zhong/引语.txt
+  - raw/guan_zhong/后世评述.txt
+  - raw/guan_zhong/全部语料.txt
 
 ---
 
