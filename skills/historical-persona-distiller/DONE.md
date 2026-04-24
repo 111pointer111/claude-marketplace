@@ -48,6 +48,7 @@
 | 34 | 班固 | 东汉 | 2026-04-24 | high | 130 |
 | 35 | 王羲之 | 东晋 | 2026-04-24 | high | 55 |
 | 36 | 颜真卿 | 唐 | 2026-04-24 | high | 12 |
+| 37 | 范仲淹 | 北宋 | 2026-04-24 | high | 30 |
 ```
 
 **字段说明：**
@@ -62,9 +63,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 范仲淹（北宋，岳阳楼记，奏议文体刚健）
-**persona_id：** fan_zhongyan
-**来源：** queue/backlog.md #36
+**下一待处理：** 寇准（北宋，澶渊之盟，孤胆忠臣）
+**persona_id：** kou_zhun
+**来源：** queue/backlog.md #37
 
 ```
 （queue/backlog.md 第二批人物蒸馏进行中，王羲之为本次完成人物。）
@@ -940,6 +941,37 @@
   - raw/yan_zhenqing/后世评述.txt
   - raw/yan_zhenqing/全部语料.txt
   - raw/yan_zhenqing/raw_stats.json
+
+---
+
+### 2026-04-24
+
+**人物：** 范仲淹
+**执行时间：** 10:01 - 10:31
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** wikisource.org、ctext.org 等主要古典文献网站无法访问；范仲淹不以诗名为其主要成就，存世诗305首、词5首，均非其核心语料；改以百度百科（范仲淹传记45000+字+《岳阳楼记》原文+《灵乌赋》原文+后世评述40+条）为多个主要来源；范仲淹为政治家兼文学家，散文成就最高，《岳阳楼记》为其文学巅峰；语料以传记、散文、奏议为核心，后世评价跨越宋元明清四朝
+**产出文件：**
+  - output/fan_zhongyan/SKILL.md
+  - output/fan_zhongyan/README.md
+  - output/fan_zhongyan/METADATA.json
+  - output/fan_zhongyan/CITATIONS.md
+  - output/fan_zhongyan/raw_stats.json
+  - output/fan_zhongyan/EVENTS.md
+  - output/fan_zhongyan/VOICE.md
+  - done/fan_zhongyan.done
+  - processed/fan_zhongyan/stages.md
+  - processed/fan_zhongyan/dimension_思想内核.json
+  - processed/fan_zhongyan/dimension_语言特征.json
+  - processed/fan_zhongyan/dimension_表达偏好.json
+  - processed/fan_zhongyan/dimension_立场光谱.json
+  - processed/fan_zhongyan/dimension_voice_profile.json
+  - processed/fan_zhongyan/dimension_一致性校验.json
+  - raw/fan_zhongyan/传记.txt
+  - raw/fan_zhongyan/岳阳楼记.txt
+  - raw/fan_zhongyan/引语.txt
+  - raw/fan_zhongyan/后世评述.txt
+  - raw/fan_zhongyan/全部语料.txt
 
 ---
 
