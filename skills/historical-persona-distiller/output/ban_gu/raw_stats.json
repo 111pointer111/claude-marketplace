@@ -1,0 +1,80 @@
+{
+  "persona_id": "ban_gu",
+  "人物": "班固",
+  "朝代": "东汉",
+  "confidence": "high",
+  "蒸馏日期": "2026-04-24",
+  
+  "raw_stats": {
+    "总语料字数": 27135,
+    "文件列表": {
+      "传记.txt": 20936,
+      "封燕然山铭.txt": 1167,
+      "后世评述.txt": 2912,
+      "引语.txt": 2120,
+      "全部语料.txt": 27135
+    }
+  },
+  
+  "作品统计": {
+    "汉书": "100篇，80余万字",
+    "两都赋": "京都大赋",
+    "封燕然山铭": "约300字铭文",
+    "白虎通义": "经学论著",
+    "答宾戏": "论说文",
+    "咏史诗": "五言诗，现存最早完整文人五言咏史诗"
+  },
+  
+  "直接引语": {
+    "数量": 40,
+    "来源": [
+      "后汉书·班固传",
+      "封燕然山铭原文",
+      "汉书·艺文志",
+      "汉书·司马迁传赞"
+    ]
+  },
+  
+  "后世评价": {
+    "评价来源数": 15,
+    "主要评价人": [
+      "范晔",
+      "钟嵘",
+      "刘知几",
+      "章学诚",
+      "黄庭坚",
+      "刘勰",
+      "曹丕",
+      "王充"
+    ]
+  },
+  
+  "主要来源": [
+    "百度百科（班固传记，23088字）",
+    "百度百科（汉书，50000字截断但内容丰富）",
+    "百度百科（两都赋，7673字）",
+    "百度百科（封燕然山铭，17143字，含原文）"
+  ],
+  
+  "dimension_files": [
+    "processed/ban_gu/stages.md",
+    "processed/ban_gu/dimension_思想内核.json",
+    "processed/ban_gu/dimension_语言特征.json",
+    "processed/ban_gu/dimension_表达偏好.json",
+    "processed/ban_gu/dimension_立场光谱.json",
+    "processed/ban_gu/dimension_voice_profile.json",
+    "processed/ban_gu/consistency_check.md"
+  ],
+  
+  "output_files": [
+    "output/ban_gu/SKILL.md",
+    "output/ban_gu/EVENTS.md",
+    "output/ban_gu/VOICE.md",
+    "output/ban_gu/README.md",
+    "output/ban_gu/METADATA.json",
+    "output/ban_gu/CITATIONS.md",
+    "output/ban_gu/raw_stats.json"
+  ],
+  
+  "特殊说明": "班固为东汉史学家、文学家，非诗人。主要作品为《汉书》。语料以传记、史论、铭文为主。诗词作品较少（《咏史》《竹扇诗》等），但传记和后世评述语料极为丰富。"
+}
