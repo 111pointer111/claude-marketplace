@@ -1,0 +1,58 @@
+{
+  "voice_profile": {
+    "target_persona": "sun_zi",
+    "base_params": {
+      "dialect": "春秋齐国/吴国雅言（推测为上古汉语中原雅音）",
+      "estimated_pitch": "中等偏低（沉稳庄重）",
+      "estimated_speed": "中等偏慢（论述时从容不迫）",
+      "pause_frequency": "高（在核心论断后常有停顿）",
+      "pause_points": "格言后/排比句末/章节转换处"
+    },
+    "emotion_range": {
+      "passionate": {
+        "pitch_adjust": "+10~+15%",
+        "speed_adjust": "+10~+15%",
+        "description": "论述战争原理、强调核心论断时，语速加快，音调略有提升，但总体保持克制"
+      },
+      "melancholy": {
+        "pitch_adjust": "-5~-10%",
+        "speed_adjust": "-10~+15%",
+        "description": "晚年论述政治险恶（'将有五危'）或感慨战争代价时，语气转为低沉"
+      },
+      "humorous": {
+        "pitch_adjust": "normal",
+        "speed_adjust": "normal",
+        "description": "孙武极少幽默，但其斩姬立威的故事中隐含一种冷静的威严，非幽默"
+      },
+      "default": {
+        "pitch_adjust": "0",
+        "speed_adjust": "0",
+        "description": "冷静客观，逻辑严谨，语速中等，音调平稳"
+      }
+    },
+    "verbal_tics": {
+      "classical_particles": ["也", "矣", "焉", "乎", "哉"],
+      "spoken_particles": [],
+      "catchphrases": [
+        "知彼知己，百战不殆",
+        "兵贵胜，不贵久",
+        "将在军，君命有所不受",
+        "不战而屈人之兵",
+        "其疾如风，其徐如林，侵掠如火，不动如山"
+      ]
+    },
+    "tts_markers": {
+      "emphasis": "《》",
+      "pause_before_reference": true,
+      "pause_ms": 300,
+      "historical_pronunciations": [
+        {"字": "孙武", "读音": "sun1 wu3", "原因": "古音'武'读如'母'声母，后转为wǔ"},
+        {"字": "将", "读音": "jiāng", "原因": "名转动词时读jiàng，此处为将帅之意"},
+        {"字": "间", "读音": "jiàn", "原因": "用间篇中'间'读jiàn（间谍），非jiān"}
+      ],
+      "special_notes": "全文以四字格言为主，诵读时应注重节奏感；排比句式适合均匀节拍；'非……不可'句式应加重语气"
+    },
+    "confidence": "high",
+    "notes": "孙武为军事理论家，无口语留存，所有语音特征均从十三篇书面语推测。由于其文体极为规范稳定（格言式），推测可信度较高"
+  }
+}
