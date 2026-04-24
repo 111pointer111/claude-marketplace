@@ -51,6 +51,7 @@
 | 37 | 范仲淹 | 北宋 | 2026-04-24 | high | 30 |
 | 38 | 寇准 | 北宋 | 2026-04-24 | medium | 30 |
 | 39 | 管仲 | 春秋 | 2026-04-24 | medium | 15 |
+| 40 | 魏征 | 唐 | 2026-04-24 | medium | 20 |
 ```
 
 **字段说明：**
@@ -65,9 +66,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 魏征
-**persona_id：** wei_zheng
-**来源：** queue/backlog.md #39
+**下一待处理：** 孙子
+**persona_id：** sun_zi
+**来源：** queue/backlog.md #40
 
 ---
 
@@ -594,18 +595,18 @@
 
 ```
 总人物数：     41
-已完成：       37
+已完成：       38
 进行中：       0
-待处理：       4
-完成率：       90.2%（37/41）
+待处理：       3
+完成率：       92.7%（38/41）
 
 按 confidence：
   high：       31
-  medium：     6
+  medium：     7
   low：        0
 
 按朝代：
-  唐：         7 / 7 ✅ new
+  唐：         7 / 8
   北宋：       7 / 7
   南宋：       2 / 2
   晋：         1 / 1
@@ -614,7 +615,7 @@
   清：         4 / 4
   南唐：       1 / 1
   明：         1 / 1
-  春秋：       3 / 3 ✅
+  春秋：       3 / 3
   西汉：       2 / 2
   东汉：       1 / 1
   东晋：       1 / 1
@@ -1025,6 +1026,37 @@
   - raw/guan_zhong/引语.txt
   - raw/guan_zhong/后世评述.txt
   - raw/guan_zhong/全部语料.txt
+
+---
+
+### 2026-04-24
+
+**人物：** 魏征
+**执行时间：** 16:12 - 16:32
+**结果：** ✅ 完成
+**confidence：** medium
+**遇到的问题：** web_search 多次失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；魏征为唐初政治家不以诗名为主要成就，诗歌共34首（非30首下限），但奏议和传记语料极为丰富；改以百度百科魏征传记（巨幅，详细）为唯一主要来源，抓取了传记原文（含大量直接引语）、后世评述（38+条）、诗词语料
+**产出文件：**
+  - output/wei_zheng/SKILL.md
+  - output/wei_zheng/README.md
+  - output/wei_zheng/METADATA.json
+  - output/wei_zheng/CITATIONS.md
+  - output/wei_zheng/raw_stats.json
+  - output/wei_zheng/EVENTS.md
+  - output/wei_zheng/VOICE.md
+  - done/wei_zheng.done
+  - processed/wei_zheng/stages.md
+  - processed/wei_zheng/dimension_思想内核.json
+  - processed/wei_zheng/dimension_语言特征.json
+  - processed/wei_zheng/dimension_表达偏好.json
+  - processed/wei_zheng/dimension_立场光谱.json
+  - processed/wei_zheng/dimension_voice_profile.json
+  - processed/wei_zheng/consistency_check.md
+  - raw/wei_zheng/传记.txt
+  - raw/wei_zheng/诗词.txt
+  - raw/wei_zheng/引语.txt
+  - raw/wei_zheng/后世评述.txt
+  - raw/wei_zheng/全部语料.txt
 
 ---
 
