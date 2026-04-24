@@ -49,6 +49,7 @@
 | 35 | 王羲之 | 东晋 | 2026-04-24 | high | 55 |
 | 36 | 颜真卿 | 唐 | 2026-04-24 | high | 12 |
 | 37 | 范仲淹 | 北宋 | 2026-04-24 | high | 30 |
+| 38 | 寇准 | 北宋 | 2026-04-24 | medium | 30 |
 ```
 
 **字段说明：**
@@ -63,9 +64,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 寇准（北宋，澶渊之盟，孤胆忠臣）
-**persona_id：** kou_zhun
-**来源：** queue/backlog.md #37
+**下一待处理：** （待队列刷新）
+**persona_id：** （待队列刷新）
+**来源：** queue/backlog.md #38
 
 ```
 （queue/backlog.md 第二批人物蒸馏进行中，王羲之为本次完成人物。）
@@ -972,6 +973,32 @@
   - raw/fan_zhongyan/引语.txt
   - raw/fan_zhongyan/后世评述.txt
   - raw/fan_zhongyan/全部语料.txt
+
+---
+
+### 2026-04-24
+
+**人物：** 寇准
+**执行时间：** 12:00 - 12:30
+**结果：** ✅ 完成
+**confidence：** medium
+**遇到的问题：** 百度百科寇准词条已下线（被电视剧角色占用，返回《大宋宫词》角色页面）；wikisource.org、ctext.org 等主要古典文献网站无法访问；大部分中国古典文献网站（ruiwen.com等）存在 gb2312 字符编码问题导致内容无法正确解码；web_search 多次失败；改以360搜索摘要、百度快照和搜索结果为主要来源，整理了寇准引语和传记语料
+**产出文件：**
+  - output/kou_zhun/SKILL.md
+  - output/kou_zhun/README.md
+  - output/kou_zhun/METADATA.json
+  - output/kou_zhun/CITATIONS.md
+  - output/kou_zhun/raw_stats.json
+  - output/kou_zhun/EVENTS.md
+  - output/kou_zhun/VOICE.md
+  - done/kou_zhun.done
+  - processed/kou_zhun/stages.md
+  - processed/kou_zhun/dimension_思想内核.json
+  - processed/kou_zhun/dimension_语言特征.json
+  - raw/kou_zhun/传记.txt
+  - raw/kou_zhun/引语.txt
+  - raw/kou_zhun/后世评述.txt
+  - raw/kou_zhun/全部语料.txt
 
 ---
 
