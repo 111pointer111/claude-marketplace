@@ -46,6 +46,7 @@
 | 32 | 老子 | 春秋 | 2026-04-24 | high | 40 |
 | 33 | 司马迁 | 西汉 | 2026-04-24 | high | 12 |
 | 34 | 班固 | 东汉 | 2026-04-24 | high | 130 |
+| 35 | 王羲之 | 东晋 | 2026-04-24 | high | 55 |
 ```
 
 **字段说明：**
@@ -60,12 +61,12 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 王羲之（东晋，书圣，兰亭序作者）
-**persona_id：** wang_xizhi
-**来源：** queue/backlog.md #34
+**下一待处理：** 颜真卿（唐，书法家，祭侄文稿作者）
+**persona_id：** yan_zhenqing
+**来源：** queue/backlog.md #35
 
 ```
-（queue/backlog.md 第二批人物蒸馏进行中，班固为本次完成人物。）
+（queue/backlog.md 第二批人物蒸馏进行中，王羲之为本次完成人物。）
 ```
 
 ---
@@ -593,13 +594,13 @@
 
 ```
 总人物数：     41
-已完成：       34
+已完成：       35
 进行中：       0
-待处理：       7
-完成率：       82.9%（34/41）
+待处理：       6
+完成率：       85.4%（35/41）
 
 按 confidence：
-  high：       29
+  high：       30
   medium：     5
   low：        0
 
@@ -616,6 +617,7 @@
   春秋：       2 / 3
   西汉：       2 / 2
   东汉：       1 / 1
+  东晋：       1 / 1 ✅ new
 ```
 
 ### 2026-04-20
@@ -872,6 +874,38 @@
   - raw/ban_gu/后世评述.txt
   - raw/ban_gu/全部语料.txt
   - raw/ban_gu/raw_stats.json
+
+---
+
+### 2026-04-24
+
+**人物：** 王羲之
+**执行时间：** 14:01 - 14:56
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** web_search 多次失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；王羲之为书法家非诗人，无诗词作品数量要求；改以百度百科（王羲之传记19000字+兰亭集序词条7000字+十七帖词条20000字）为多个主要来源；语料以书法理论、传记原文、《兰亭集序》全文为核心
+**产出文件：**
+  - output/wang_xizhi/SKILL.md
+  - output/wang_xizhi/README.md
+  - output/wang_xizhi/METADATA.json
+  - output/wang_xizhi/CITATIONS.md
+  - output/wang_xizhi/raw_stats.json
+  - output/wang_xizhi/EVENTS.md
+  - output/wang_xizhi/VOICE.md
+  - done/wang_xizhi.done
+  - processed/wang_xizhi/stages.md
+  - processed/wang_xizhi/dimension_思想内核.json
+  - processed/wang_xizhi/dimension_语言特征.json
+  - processed/wang_xizhi/dimension_表达偏好.json
+  - processed/wang_xizhi/dimension_立场光谱.json
+  - processed/wang_xizhi/dimension_voice_profile.json
+  - processed/wang_xizhi/dimension_一致性校验.json
+  - raw/wang_xizhi/传记.txt
+  - raw/wang_xizhi/兰亭集序.txt
+  - raw/wang_xizhi/引语.txt
+  - raw/wang_xizhi/后世评述.txt
+  - raw/wang_xizhi/全部语料.txt
+  - raw/wang_xizhi/raw_stats.json
 
 ---
 
