@@ -1,0 +1,19 @@
+{
+  "persona_id": "kou_zhun",
+  "name": "寇准",
+  "born": "961年",
+  "died": "1023年",
+  "birthplace": "华州下邽（今陕西渭南东北）",
+  "era": "北宋",
+  "titles": ["宰相", "参知政事"],
+  "keywords": ["澶渊之盟", "刚直敢谏", "御驾亲征", "宋辽百年和平", "寇准"],
+  "confidence": "medium",
+  "distilled_at": "2026-04-24",
+  "source_domains": [
+    "baidu.com (词条已下线)",
+    "ruiwen.com",
+    "360doc.cn",
+    "so.com"
+  ],
+  "note": "百度百科寇准词条已下线（被电视剧角色占用），部分资料来源于百度快照和搜索摘要"
+}

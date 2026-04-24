@@ -1,0 +1,60 @@
+{
+  "persona_id": "kou_zhun",
+  "sources_fetched": [
+    {
+      "url": "https://baike.baidu.com/item/寇准",
+      "status": "redirected_to_tv_drama",
+      "result": "电视剧角色页面，非历史人物"
+    },
+    {
+      "url": "https://www.ruiwen.com/guji/1380963.html",
+      "status": "gb2312_encoding_issue",
+      "result": "内容无法正确解码"
+    },
+    {
+      "url": "https://www.so.com/s?q=寇准+传记",
+      "status": "partial_success",
+      "result": "获取到360搜索结果，包含引语和简介"
+    },
+    {
+      "url": "https://www.ruiwen.com/guji/1466727.html",
+      "status": "gb2312_encoding_issue",
+      "result": "内容无法正确解码"
+    },
+    {
+      "url": "https://www.ruiwen.com/guji/1677203.html",
+      "status": "partial_success",
+      "result": "获取到部分内容"
+    }
+  ],
+  "files_created": {
+    "raw": [
+      "raw/kou_zhun/传记.txt",
+      "raw/kou_zhun/引语.txt",
+      "raw/kou_zhun/后世评述.txt",
+      "raw/kou_zhun/全部语料.txt"
+    ],
+    "processed": [
+      "processed/kou_zhun/stages.md",
+      "processed/kou_zhun/dimension_思想内核.json",
+      "processed/kou_zhun/dimension_语言特征.json"
+    ],
+    "output": [
+      "output/kou_zhun/SKILL.md",
+      "output/kou_zhun/VOICE.md",
+      "output/kou_zhun/EVENTS.md",
+      "output/kou_zhun/README.md",
+      "output/kou_zhun/METADATA.json",
+      "output/kou_zhun/CITATIONS.md",
+      "output/kou_zhun/raw_stats.json"
+    ]
+  },
+  "corpus_stats": {
+    "传记_length_chars": 1560,
+    "引语_length_chars": 1031,
+    "后世评述_length_chars": 962,
+    "全部语料_length_chars": 1847
+  },
+  "confidence": "medium",
+  "data_quality_note": "百度百科寇准词条已下线，古典文献网站存在字符编码问题或访问限制，数据质量受限"
+}
