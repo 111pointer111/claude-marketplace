@@ -1,0 +1,32 @@
+persona_id: sima_qian
+persona_name: 司马迁
+era: 西汉
+distillation_date: 2026-04-24
+confidence: high
+distilled_by: historical-persona-distiller pipeline
+sources:
+  - https://baike.baidu.com/item/司马迁/65648
+  - https://baike.baidu.com/item/太史公自序/10468474
+  - https://baike.baidu.com/item/史记/254522
+output_files:
+  - SKILL.md
+  - EVENTS.md
+  - VOICE.md
+  - README.md
+  - METADATA.json
+  - CITATIONS.md
+  - raw_stats.json
+raw_files:
+  - 传记.txt
+  - 太史公自序.txt
+  - 引语.txt
+  - 后世评述.txt
+  - 全部语料.txt
+processed_files:
+  - stages.md
+  - dimension_思想内核.json
+  - dimension_语言特征.json
+  - dimension_表达偏好.json
+  - dimension_立场光谱.json
+  - dimension_voice_profile.json
+  - dimension_一致性校验.json

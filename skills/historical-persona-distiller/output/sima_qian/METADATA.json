@@ -1,0 +1,42 @@
+{
+  "persona_id": "sima_qian",
+  "name": "司马迁",
+  "style_name": "子长",
+  "birth_year": -145,
+  "death_year": -86,
+  "era": "西汉",
+  "primary_identity": "史学家",
+  "secondary_identities": ["文学家", "思想家"],
+  "confidence": "high",
+  "distillation_date": "2026-04-24",
+  "persona_version": "1.0",
+  "key_masterpiece": "史记",
+  "key_masterpiece_alias": "太史公书",
+  "masterpiece_size": "130篇，52万余字",
+  "masterpiece_structure": "本纪十二、表十、书八、世家三十、列传七十",
+  "core_philosophy": "究天人之际，通古今之变，成一家之言",
+  "core_quote": "不虚美，不隐恶",
+  "life_motto": "发愤著书，隐忍以就功名",
+  "sources_count": 2,
+  "sources": [
+    {
+      "url": "https://baike.baidu.com/item/司马迁/65648",
+      "type": "biography",
+      "source": "百度百科"
+    },
+    {
+      "url": "https://baike.baidu.com/item/太史公自序/10468474",
+      "type": "primary_source",
+      "source": "百度百科——太史公自序全文"
+    }
+  ],
+  "raw_stats": {
+    "biography_chars": 22000,
+    "taishigong_zixu_chars": 44000,
+    "quotes_count": 20,
+    "historical_eval_count": 30,
+    "total_corpus_chars": 70000
+  },
+  "overall_confidence": "high",
+  "confidence_rationale": "语料来源权威（太史公自序为本人原文），传记详尽，历史评价丰富多元"
+}
