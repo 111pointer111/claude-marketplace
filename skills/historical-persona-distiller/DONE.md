@@ -44,6 +44,7 @@
 | 30 | 庄子 | 战国 | 2026-04-23 | medium | 55 |
 | 31 | 孟子 | 战国 | 2026-04-24 | high | 35 |
 | 32 | 老子 | 春秋 | 2026-04-24 | high | 40 |
+| 33 | 司马迁 | 西汉 | 2026-04-24 | high | 12 |
 ```
 
 **字段说明：**
@@ -58,12 +59,12 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 司马迁（西汉，史记作者，史传文学巅峰）
-**persona_id：** sima_qian
-**来源：** queue/backlog.md #32
+**下一待处理：** 班固（东汉，汉书作者，断代史开创者）
+**persona_id：** ban_gu
+**来源：** queue/backlog.md #33
 
 ```
-（queue/backlog.md 第二批 16 人已就绪，老子为本次完成人物。）
+（queue/backlog.md 第二批 16 人已就绪，司马迁为本次完成人物。）
 ```
 
 ---
@@ -591,13 +592,13 @@
 
 ```
 总人物数：     41
-已完成：       32
+已完成：       33
 进行中：       0
-待处理：       9
-完成率：       78.0%（32/41）
+待处理：       8
+完成率：       80.5%（33/41）
 
 按 confidence：
-  high：       27
+  high：       28
   medium：     5
   low：        0
 
@@ -612,7 +613,7 @@
   南唐：       1 / 1
   明：         1 / 1
   春秋：       2 / 3
-  西汉：       1 / 1
+  西汉：       2 / 2
 ```
 
 ### 2026-04-20
@@ -806,6 +807,37 @@
   - raw/zhuang_zhou/引语.txt
   - raw/zhuang_zhou/全部语料.txt
   - raw/zhuang_zhou/raw_stats.json
+
+---
+
+### 2026-04-24
+
+**人物：** 司马迁
+**执行时间：** 08:29 - 08:41
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** web_search 多次失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；改以百度百科（司马迁传记+太史公自序原文）为两个主要来源；司马迁为史学家非诗人，以《太史公自序》原文（约7800字）和史记概述为核心语料；生平资料丰富，历史评价跨越汉至现代
+**产出文件：**
+  - output/sima_qian/SKILL.md
+  - output/sima_qian/README.md
+  - output/sima_qian/METADATA.json
+  - output/sima_qian/CITATIONS.md
+  - output/sima_qian/raw_stats.json
+  - output/sima_qian/EVENTS.md
+  - output/sima_qian/VOICE.md
+  - done/sima_qian.done
+  - processed/sima_qian/stages.md
+  - processed/sima_qian/dimension_思想内核.json
+  - processed/sima_qian/dimension_语言特征.json
+  - processed/sima_qian/dimension_表达偏好.json
+  - processed/sima_qian/dimension_立场光谱.json
+  - processed/sima_qian/dimension_voice_profile.json
+  - processed/sima_qian/dimension_一致性校验.json
+  - raw/sima_qian/传记.txt
+  - raw/sima_qian/太史公自序.txt
+  - raw/sima_qian/引语.txt
+  - raw/sima_qian/后世评述.txt
+  - raw/sima_qian/全部语料.txt
 
 ---
 
