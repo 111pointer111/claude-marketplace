@@ -1,0 +1,41 @@
+{
+  "persona_id": "fan_zhongyan",
+  "name": "范仲淹",
+  "alternate_names": ["范希文", "范文正公", "朱说（幼名）"],
+  "dynasty": "北宋",
+  "lived": "989年9月17日—1052年6月19日（64岁）",
+  "birthplace": "徐州（今江苏徐州）",
+  "posthumous_title": "文正",
+  "modern_recognition": "政治家、文学家、思想家",
+  "key_texts": [
+    "《岳阳楼记》",
+    "《灵乌赋》",
+    "《上执政书》",
+    "《答手诏条陈十事》",
+    "《渔家傲·秋思》"
+  ],
+  "famous_quotes": [
+    "先天下之忧而忧，后天下之乐而乐",
+    "不以物喜，不以己悲",
+    "宁鸣而死，不默而生",
+    "一家哭何如一路哭"
+  ],
+  "confidence": "high",
+  "distilled_date": "2026-04-24",
+  "data_sources": [
+    "百度百科范仲淹传记（45000+字）",
+    "百度百科岳阳楼记词条",
+    "百度百科灵乌赋词条",
+    "后世评述（宋代至近现代）"
+  ],
+  "corpus_stats": {
+    "biography_chars": 49229,
+    "poems_count": 305,
+    "ci_count": 5,
+    "prose_works": "大量散文、奏议、书启",
+    "total_quotes": 24,
+    "historical_comments": 40+
+  },
+  "historical_significance": "北宋政治改革先驱，庆历新政主持者；'先天下之忧而忧，后天下之乐而乐'成为中国士大夫精神的重要象征；对后世王安石等改革家有重要影响。",
+  "skills_domain": "政治改革、文学创作、教育思想、军事思想"
+}

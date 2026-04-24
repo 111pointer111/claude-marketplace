@@ -1,0 +1,31 @@
+{
+  "persona_id": "fan_zhongyan",
+  "sources_count": 3,
+  "biography_fetched": "baike.baidu.com/item/范仲淹（45000+字）",
+  "yueyang_tower_fetched": "baike.baidu.com/item/岳阳楼记",
+  "lingwu_rhu_fetched": "baike.baidu.com/item/灵乌赋",
+  "poetry_collection_note": "范仲淹不以诗名，存世诗305首，词5首；散文奏议为主要创作",
+  "corpus_quality": "传记语料极为丰富，评价语料跨越宋元明清四朝",
+  "confidence": "high",
+  "files_created": [
+    "raw/fan_zhongyan/传记.txt",
+    "raw/fan_zhongyan/岳阳楼记.txt",
+    "raw/fan_zhongyan/引语.txt",
+    "raw/fan_zhongyan/后世评述.txt",
+    "raw/fan_zhongyan/全部语料.txt",
+    "processed/fan_zhongyan/stages.md",
+    "processed/fan_zhongyan/dimension_思想内核.json",
+    "processed/fan_zhongyan/dimension_语言特征.json",
+    "processed/fan_zhongyan/dimension_表达偏好.json",
+    "processed/fan_zhongyan/dimension_立场光谱.json",
+    "processed/fan_zhongyan/dimension_voice_profile.json",
+    "processed/fan_zhongyan/dimension_一致性校验.json",
+    "output/fan_zhongyan/METADATA.json",
+    "output/fan_zhongyan/EVENTS.md",
+    "output/fan_zhongyan/VOICE.md",
+    "output/fan_zhongyan/README.md",
+    "output/fan_zhongyan/CITATIONS.md",
+    "output/fan_zhongyan/raw_stats.json",
+    "output/fan_zhongyan/SKILL.md"
+  ]
+}
