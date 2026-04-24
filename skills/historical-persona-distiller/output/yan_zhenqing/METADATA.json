@@ -1,0 +1,99 @@
+{
+  "persona_id": "yan_zhenqing",
+  "name": "颜真卿",
+  "dynasty": "唐",
+  "born": 709,
+  "died": 784,
+  "style_name": "清臣",
+  "alias": "应方",
+  "title": "鲁郡公（颜鲁公）",
+  "posthumous_title": "文忠",
+  "status": ["名臣", "书法家"],
+  "confidence": "high",
+  "distilled_date": "2026-04-24",
+  "distiller": "historical-persona-distiller pipeline v2",
+
+  "representative_works": {
+    "calligraphy": [
+      {
+        "name": "祭侄文稿",
+        "style": "行书",
+        "year": 758,
+        "note": "天下第二行书"
+      },
+      {
+        "name": "争座位帖",
+        "style": "行书",
+        "year": 764,
+        "note": "天下行书第一"
+      },
+      {
+        "name": "多宝塔碑",
+        "style": "楷书",
+        "year": 752,
+        "note": "早期代表作"
+      },
+      {
+        "name": "颜勤礼碑",
+        "style": "楷书",
+        "year": 779,
+        "note": "晚年代表作"
+      },
+      {
+        "name": "颜氏家庙碑",
+        "style": "楷书",
+        "year": 780,
+        "note": "晚年代表作"
+      }
+    ]
+  },
+
+  "key_events": [
+    {
+      "year": 755,
+      "event": "安史之乱首唱大顺，任盟主"
+    },
+    {
+      "year": 758,
+      "event": "写成《祭侄文稿》悼念侄子颜季明"
+    },
+    {
+      "year": 783,
+      "event": "被派往李希烈处宣慰"
+    },
+    {
+      "year": 784,
+      "event": "被叛军缢杀于蔡州"
+    }
+  ],
+
+  "corpus_sources": {
+    "total_chars": "~70000",
+    "biography_source": "百度百科颜真卿传记",
+    "calligraphy_sources": ["祭侄文稿", "争座位帖", "颜勤礼碑", "多宝塔碑"],
+    "quotes_count": 16,
+    "evaluations_count": 37
+  },
+
+  "style_tags": [
+    "忠臣",
+    "书法家",
+    "刚正不阿",
+    "颜筋柳骨",
+    "书以人重",
+    "名节",
+    "安史之乱",
+    "天下第二行书",
+    "颜鲁公"
+  ],
+
+  "files_in_package": [
+    "SKILL.md",
+    "VOICE.md",
+    "EVENTS.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ]
+}
