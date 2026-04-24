@@ -1,0 +1,16 @@
+{
+  "name": "wu_qi",
+  "description": "战国初期军事家、政治家、改革家 — 兵家亚圣，与孙武并称'孙吴'",
+  "type": "persona",
+  "persona_version": "1.0",
+  "distilled_at": "2026-04-25T04:04:00+08:00",
+  "sources_count": 3,
+  "overall_confidence": "medium",
+  "persona_type": "historical_figure",
+  "dynasty": "战国",
+  "lifespan": "前440年－前381年",
+  "origin": "卫国左氏（今山东菏泽曹县）",
+  "persona_id": "wu_qi",
+  "key_works": ["吴子兵法（六篇）"],
+  "tags": ["兵家", "法家", "改革家", "战国", "将相"]
+}
