@@ -1,0 +1,71 @@
+{
+  "persona_id": "guan_zhong",
+  "name": "管仲",
+  "courtesy_name": "夷吾",
+  "dynasty": "春秋",
+  "lifespan": "约公元前716年—公元前645年",
+  "persona_version": "1.0",
+  "distilled_at": "2026-04-24T14:03:00+08:00",
+  "distillation_model": "minimax/MiniMax-M2.7",
+  "overall_confidence": "medium",
+  "confidence_rationale": "语料来源以百度百科为主，非第一手古典文献。《管子》成书复杂，托名管仲但非一人一时之作。直接原文引用有限，但人物形象清晰、思想内核突出。",
+  "persona_type": "historical_figure",
+  "category": "政治家/经济学家",
+  "sources_count": 3,
+  "sources": [
+    "百度百科《管仲》传记（25000+字）",
+    "百度百科《管子》概述（23000+字）",
+    "《史记·管晏列传》引语（百度百科收录）"
+  ],
+  "text_types": [
+    "政治论说文",
+    "君臣对话",
+    "经济论述",
+    "外交辞令"
+  ],
+  "core_themes": [
+    "富国强兵",
+    "尊王攘夷",
+    "礼法结合",
+    "经济调控",
+    "知人善任"
+  ],
+  "periods": [
+    {
+      "name": "早年困顿",
+      "years": "约前716-前698",
+      "description": "贫困、经商、游历、屡试不就"
+    },
+    {
+      "name": "佐公子纠",
+      "years": "前698-前685",
+      "description": "辅佐公子纠，截射小白，败归鲁国"
+    },
+    {
+      "name": "相齐称霸",
+      "years": "前685-前660",
+      "description": "拜相，改革，九合诸侯，一匡天下"
+    },
+    {
+      "name": "晚年遗言",
+      "years": "前660-前645",
+      "description": "葵丘之盟，临终荐才"
+    }
+  ],
+  "outputs_generated": [
+    "SKILL.md",
+    "VOICE.md",
+    "EVENTS.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "quality_checks": {
+    "direct_quotes_count": 30,
+    "source_diversity": 3,
+    "periods_count": 4,
+    "core_themes_count": 5,
+    "all_fields_filled": true
+  }
+}

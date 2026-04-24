@@ -1,0 +1,55 @@
+{
+  "persona_id": "guan_zhong",
+  "distillation_date": "2026-04-24",
+  "raw_files": {
+    "传记.txt": 11031,
+    "管子.txt": 2128,
+    "引语.txt": 2332,
+    "后世评述.txt": 1581,
+    "全部语料.txt": 17072
+  },
+  "text_type_breakdown": {
+    "政治传记": "约60%",
+    "经济论述": "约15%",
+    "后世评述": "约10%",
+    "语录引语": "约15%"
+  },
+  "quotes_count": {
+    "管仲本人言论": 15,
+    "后世评价（孔子/司马迁等）": 10,
+    "轶事引用": 5,
+    "合计": 30
+  },
+  "sources_used": [
+    {
+      "name": "百度百科《管仲》传记",
+      "url": "https://baike.baidu.com/item/管仲/11281",
+      "characters": 25000,
+      "type": "historical_record"
+    },
+    {
+      "name": "百度百科《管子》概述",
+      "url": "https://baike.baidu.com/item/管子/2803861",
+      "characters": 23000,
+      "type": "collected_works"
+    },
+    {
+      "name": "《史记·管晏列传》引语",
+      "url": "via baike.baidu.com",
+      "characters": 0,
+      "type": "historical_record",
+      "note": "通过百度百科传记收录，非直接访问"
+    }
+  ],
+  "notable_gaps": [
+    "《管子》原文未能直接访问，仅通过百度百科转述",
+    "wikisource.org、ctext.org 等主要古典文献网站无法访问",
+    "《史记·管晏列传》原文未能直接抓取",
+    "web_search 多次失败，未能获取更多权威来源"
+  ],
+  "poetry_count": 0,
+  "poetry_note": "管仲为政治家非诗人，无诗词作品下限要求",
+  "overall_corpus_size": 17072,
+  "corpus_quality": "medium",
+  "confidence": "medium"
+}
