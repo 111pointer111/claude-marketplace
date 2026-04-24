@@ -45,6 +45,7 @@
 | 31 | 孟子 | 战国 | 2026-04-24 | high | 35 |
 | 32 | 老子 | 春秋 | 2026-04-24 | high | 40 |
 | 33 | 司马迁 | 西汉 | 2026-04-24 | high | 12 |
+| 34 | 班固 | 东汉 | 2026-04-24 | high | 130 |
 ```
 
 **字段说明：**
@@ -59,12 +60,12 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 班固（东汉，汉书作者，断代史开创者）
-**persona_id：** ban_gu
-**来源：** queue/backlog.md #33
+**下一待处理：** 王羲之（东晋，书圣，兰亭序作者）
+**persona_id：** wang_xizhi
+**来源：** queue/backlog.md #34
 
 ```
-（queue/backlog.md 第二批 16 人已就绪，司马迁为本次完成人物。）
+（queue/backlog.md 第二批人物蒸馏进行中，班固为本次完成人物。）
 ```
 
 ---
@@ -592,13 +593,13 @@
 
 ```
 总人物数：     41
-已完成：       33
+已完成：       34
 进行中：       0
-待处理：       8
-完成率：       80.5%（33/41）
+待处理：       7
+完成率：       82.9%（34/41）
 
 按 confidence：
-  high：       28
+  high：       29
   medium：     5
   low：        0
 
@@ -614,6 +615,7 @@
   明：         1 / 1
   春秋：       2 / 3
   西汉：       2 / 2
+  东汉：       1 / 1
 ```
 
 ### 2026-04-20
@@ -838,6 +840,38 @@
   - raw/sima_qian/引语.txt
   - raw/sima_qian/后世评述.txt
   - raw/sima_qian/全部语料.txt
+
+---
+
+### 2026-04-24
+
+**人物：** 班固
+**执行时间：** 10:01 - 12:08
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** web_search 多次失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；班固为东汉史学家非诗人，改以百度百科（班固传记23088字+汉书词条+两都赋+封燕然山铭17143字）为多个主要来源；班固以《汉书》为核心作品，语料以史传散文、铭文为主，无诗词下限要求；2017年蒙古杭爱山考古发现《封燕然山铭》实物，为铭文提供实物佐证
+**产出文件：**
+  - output/ban_gu/SKILL.md
+  - output/ban_gu/README.md
+  - output/ban_gu/METADATA.json
+  - output/ban_gu/CITATIONS.md
+  - output/ban_gu/raw_stats.json
+  - output/ban_gu/EVENTS.md
+  - output/ban_gu/VOICE.md
+  - done/ban_gu.done
+  - processed/ban_gu/stages.md
+  - processed/ban_gu/dimension_思想内核.json
+  - processed/ban_gu/dimension_语言特征.json
+  - processed/ban_gu/dimension_表达偏好.json
+  - processed/ban_gu/dimension_立场光谱.json
+  - processed/ban_gu/dimension_voice_profile.json
+  - processed/ban_gu/consistency_check.md
+  - raw/ban_gu/传记.txt
+  - raw/ban_gu/封燕然山铭.txt
+  - raw/ban_gu/引语.txt
+  - raw/ban_gu/后世评述.txt
+  - raw/ban_gu/全部语料.txt
+  - raw/ban_gu/raw_stats.json
 
 ---
 
