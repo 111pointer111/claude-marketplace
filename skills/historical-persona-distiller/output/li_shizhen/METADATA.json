@@ -1,0 +1,17 @@
+{
+  "人物": "李时珍",
+  "persona_id": "li_shizhen",
+  "朝代": "明朝",
+  "生卒年": "1518-1593",
+  "蒸馏版本": "1.0",
+  "蒸馏日期": "2026-04-25",
+  "蒸馏耗时_分钟": 120,
+  "overall_confidence": "medium",
+  "sources_used_count": 4,
+  "poetry_count": 0,
+  "prose_count": 0,
+  "direct_quote_count": 9,
+  "stages_count": 4,
+  "引用验证": "已通过质量控制检查（基于Britannica英文百科语料）",
+  "网络限制说明": "中文百科网站全部无法访问；主要依赖Britannica英文资料"
+}
