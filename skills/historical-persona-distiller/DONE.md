@@ -58,6 +58,7 @@
 | 44 | 李时珍 | 明 | 2026-04-25 | medium | 120 |
 | 45 | 沈括 | 北宋 | 2026-04-25 | medium | 60 |
 | 46 | 蔡伦 | 东汉 | 2026-04-25 | medium | 25 |
+| 47 | 毕昇 | 北宋 | 2026-04-25 | medium | 15 |
 ```
 
 **字段说明：**
@@ -72,9 +73,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 毕昇（北宋）
-**persona_id：** bi_sheng
-**来源：** backlog #45
+**下一待处理：** 郭守敬（元）
+**persona_id：** guo_shoujing
+**来源：** backlog #46
 
 ---
 
@@ -600,20 +601,20 @@
 ## 四、统计概览
 
 ```
-总人物数：     46
-已完成：       46
+总人物数：     48
+已完成：       47
 进行中：       0
 待处理：       1
-完成率：       100%（46/46）
+完成率：       97.9%（47/48）
 
 按 confidence：
   high：       34
-  medium：     12
+  medium：     13
   low：        0
 
 按朝代：
   唐：         7 / 8
-  北宋：       9 / 9
+  北宋：       10 / 10
   南宋：       2 / 2
   晋：         1 / 1
   战国：       4 / 5
@@ -625,6 +626,7 @@
   西汉：       2 / 2
   东汉：       3 / 3
   东晋：       1 / 1
+  元：         0 / 1
 ```
 
 ### 2026-04-20
@@ -1245,6 +1247,35 @@
   - raw/cai_lun/后世评述.txt
   - raw/cai_lun/全部语料.txt
   - raw/cai_lun/raw_stats.json
+
+### 2026-04-25
+
+**人物：** 毕昇
+**执行时间：** 22:03 - 22:18
+**结果：** ✅ 完成
+**confidence：** medium
+**遇到的问题：** web_search 多次失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；ctext.org 古诗文网等要求验证码或重定向无法获取正文；改以百度百科（毕昇传记，引《梦溪笔谈》原文）为唯一主要来源；毕昇为北宋发明家非诗人，无诗词作品下限要求；语料以《梦溪笔谈》中沈括记录的活字印刷术原文为核心，后世评述语料较丰富；毕昇本人无原创诗文存世，所有引语均为沈括记录
+**产出文件：**
+  - output/bi_sheng/SKILL.md
+  - output/bi_sheng/README.md
+  - output/bi_sheng/METADATA.json
+  - output/bi_sheng/CITATIONS.md
+  - output/bi_sheng/raw_stats.json
+  - output/bi_sheng/EVENTS.md
+  - output/bi_sheng/VOICE.md
+  - done/bi_sheng.done
+  - processed/bi_sheng/stages.md
+  - processed/bi_sheng/dimension_思想内核.json
+  - processed/bi_sheng/dimension_语言特征.json
+  - processed/bi_sheng/dimension_表达偏好.json
+  - processed/bi_sheng/dimension_立场光谱.json
+  - processed/bi_sheng/dimension_voice_profile.json
+  - processed/bi_sheng/consistency_check.md
+  - raw/bi_sheng/传记.txt
+  - raw/bi_sheng/引语.txt
+  - raw/bi_sheng/后世评述.txt
+  - raw/bi_sheng/全部语料.txt
+  - raw/bi_sheng/raw_stats.json
 
 ---
 
