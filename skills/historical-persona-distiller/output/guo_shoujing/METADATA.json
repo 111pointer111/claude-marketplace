@@ -1,0 +1,23 @@
+{
+  "人物": "郭守敬",
+  "persona_id": "guo_shoujing",
+  "朝代": "元",
+  "生卒年": "1231-1316（86岁）",
+  "字号": "若思",
+  "籍贯": "邢州邢台县（今河北省邢台市）",
+  "蒸馏版本": "1.0",
+  "蒸馏日期": "2026-04-26T00:06:00+08:00",
+  "蒸馏耗时_分钟": 30,
+  "overall_confidence": "medium",
+  "sources_used_count": 2,
+  "primary_sources": [
+    "百度百科·郭守敬（baike.baidu.com/item/郭守敬/53453）",
+    "大英百科全书·Guo Shoujing（britannica.com/biography/Guo-Shoujing）"
+  ],
+  "poetry_count": 0,
+  "scientific_works_count": 14,
+  "direct_quote_count": 22,
+  "stages_count": 4,
+  "引用验证": "已通过质量控制检查",
+  "notes": "郭守敬为天文学家、数学家、水利工程专家，无诗词作品。语料以传记和技术概述为主。"
+}
