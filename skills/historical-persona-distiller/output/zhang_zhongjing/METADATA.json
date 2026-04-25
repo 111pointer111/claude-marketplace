@@ -1,0 +1,32 @@
+{
+  "persona_id": "zhang_zhongjing",
+  "name": "张仲景",
+  "name_pinyin": "zhang zhongjing",
+  "dynasty": "东汉",
+  "lifespan": "约公元150年—约公元219年",
+  "titles": ["医圣", "经方大师"],
+  "persona_version": "1.0",
+  "distilled_at": "2026-04-25",
+  "sources_count": 3,
+  "overall_confidence": "high",
+  "persona_type": "historical_figure",
+  "core_identity": "东汉医学家、临床医学奠基人、长沙太守，确立了中医辨证论治基本法则",
+  "key_work": "《伤寒杂病论》十六卷",
+  "key_contribution": "创立六经辨证体系，奠定中医临床学基础",
+  "raw_stats": {
+    "传记字数": 22847,
+    "引语字数": 3514,
+    "后世评述字数": 2933,
+    "全部语料字数": 58588
+  },
+  "output_files": [
+    "SKILL.md",
+    "VOICE.md",
+    "EVENTS.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "confidence_rationale": "传记语料约22000字极为丰富；《伤寒论》原序为张仲景本人第一手原文；后世评述跨越晋唐宋清至现代；六经辨证体系有充分文献支撑；269经方体系完整"
+}
