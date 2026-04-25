@@ -55,6 +55,7 @@
 | 41 | 孙子 | 春秋 | 2026-04-25 | high | 55 |
 | 42 | 吴起 | 战国 | 2026-04-25 | medium | 40 |
 | 43 | 张仲景 | 东汉 | 2026-04-25 | high | 20 |
+| 44 | 李时珍 | 明 | 2026-04-25 | medium | 120 |
 ```
 
 **字段说明：**
@@ -69,9 +70,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 李时珍（明朝）
-**persona_id：** li_shizhen
-**来源：** backlog #42
+**下一待处理：** 沈括（北宋）
+**persona_id：** shen_kuo
+**来源：** backlog #43
 
 ---
 
@@ -1153,6 +1154,34 @@
   - raw/zhang_zhongjing/引语.txt
   - raw/zhang_zhongjing/后世评述.txt
   - raw/zhang_zhongjing/全部语料.txt
+
+---
+
+### 2026-04-25
+
+**人物：** 李时珍
+**执行时间：** 16:03 - 18:00
+**结果：** ✅ 完成
+**confidence：** medium
+**遇到的问题：** 所有中文百科网站（百度百科、搜狗百科、360百科等）全部无法访问；ctext.org古诗文网等要求验证码；web_search 多次失败；主要依赖Britannica英文百科获取传记和医学史资料；李时珍为医学家非诗人，无诗词作品，语料以Britannica英文资料为主；中文语料严重受限
+**产出文件：**
+  - output/li_shizhen/SKILL.md
+  - output/li_shizhen/README.md
+  - output/li_shizhen/METADATA.json
+  - output/li_shizhen/CITATIONS.md
+  - output/li_shizhen/raw_stats.json
+  - done/li_shizhen.done
+  - processed/li_shizhen/stages.md
+  - processed/li_shizhen/dimension_思想内核.json
+  - processed/li_shizhen/dimension_语言特征.json
+  - processed/li_shizhen/dimension_表达偏好.json
+  - processed/li_shizhen/dimension_立场光谱.json
+  - processed/li_shizhen/dimension_voice_profile.json
+  - processed/li_shizhen/consistency_check.md
+  - raw/li_shizhen/传记.txt
+  - raw/li_shizhen/引语.txt
+  - raw/li_shizhen/后世评述.txt
+  - raw/li_shizhen/全部语料.txt
 
 ---
 
