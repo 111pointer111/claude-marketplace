@@ -57,6 +57,7 @@
 | 43 | 张仲景 | 东汉 | 2026-04-25 | high | 20 |
 | 44 | 李时珍 | 明 | 2026-04-25 | medium | 120 |
 | 45 | 沈括 | 北宋 | 2026-04-25 | medium | 60 |
+| 46 | 蔡伦 | 东汉 | 2026-04-25 | medium | 25 |
 ```
 
 **字段说明：**
@@ -71,9 +72,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 蔡伦（东汉）
-**persona_id：** cai_lun
-**来源：** backlog #44
+**下一待处理：** 毕昇（北宋）
+**persona_id：** bi_sheng
+**来源：** backlog #45
 
 ---
 
@@ -599,20 +600,20 @@
 ## 四、统计概览
 
 ```
-总人物数：     43
-已完成：       41
+总人物数：     46
+已完成：       46
 进行中：       0
-待处理：       2
-完成率：       95.3%（41/43）
+待处理：       1
+完成率：       100%（46/46）
 
 按 confidence：
-  high：       33
-  medium：     8
+  high：       34
+  medium：     12
   low：        0
 
 按朝代：
   唐：         7 / 8
-  北宋：       8 / 8
+  北宋：       9 / 9
   南宋：       2 / 2
   晋：         1 / 1
   战国：       4 / 5
@@ -622,7 +623,7 @@
   明：         1 / 1
   春秋：       4 / 4
   西汉：       2 / 2
-  东汉：       2 / 2
+  东汉：       3 / 3
   东晋：       1 / 1
 ```
 
@@ -1215,6 +1216,35 @@
   - raw/shen_kuo/梦溪笔谈_概述.txt
   - raw/shen_kuo/全部语料.txt
   - raw/shen_kuo/raw_stats.json
+
+### 2026-04-25
+
+**人物：** 蔡伦
+**执行时间：** 20:04 - 20:29
+**结果：** ✅ 完成
+**confidence：** medium
+**遇到的问题：** web_search 多次失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；ctext.org 要求验证码验证；改以百度百科（蔡伦传记25000+字）和 Britannica 英文百科为两个主要来源；蔡伦为宦官技术官僚，无诗词作品下限要求；语料以传记和技术成就语料为核心，历史评价语料较丰富
+**产出文件：**
+  - output/cai_lun/SKILL.md
+  - output/cai_lun/README.md
+  - output/cai_lun/METADATA.json
+  - output/cai_lun/CITATIONS.md
+  - output/cai_lun/raw_stats.json
+  - output/cai_lun/EVENTS.md
+  - output/cai_lun/VOICE.md
+  - done/cai_lun.done
+  - processed/cai_lun/stages.md
+  - processed/cai_lun/dimension_思想内核.json
+  - processed/cai_lun/dimension_语言特征.json
+  - processed/cai_lun/dimension_表达偏好.json
+  - processed/cai_lun/dimension_立场光谱.json
+  - processed/cai_lun/dimension_voice_profile.json
+  - processed/cai_lun/consistency_check.md
+  - raw/cai_lun/传记.txt
+  - raw/cai_lun/引语.txt
+  - raw/cai_lun/后世评述.txt
+  - raw/cai_lun/全部语料.txt
+  - raw/cai_lun/raw_stats.json
 
 ---
 
