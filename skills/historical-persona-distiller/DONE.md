@@ -60,6 +60,7 @@
 | 46 | 蔡伦 | 东汉 | 2026-04-25 | medium | 25 |
 | 47 | 毕昇 | 北宋 | 2026-04-25 | medium | 15 |
 | 48 | 郭守敬 | 元 | 2026-04-26 | medium | 30 |
+| 49 | 徐光启 | 明 | 2026-04-26 | medium | 30 |
 ```
 
 **字段说明：**
@@ -74,9 +75,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 徐光启（明）
-**persona_id：** xu_guangqi
-**来源：** backlog #47
+**下一待处理：** 宋应星（明）
+**persona_id：** song_yingxing
+**来源：** backlog #48
 
 ---
 
@@ -602,15 +603,15 @@
 ## 四、统计概览
 
 ```
-总人物数：     48
-已完成：       48
+总人物数：     49
+已完成：       49
 进行中：       0
 待处理：       0
-完成率：       100%（48/48）
+完成率：       100%（49/49）
 
 按 confidence：
   high：       34
-  medium：     14
+  medium：     15
   low：        0
 
 按朝代：
@@ -622,7 +623,7 @@
   三国：       3 / 3
   清：         4 / 4
   南唐：       1 / 1
-  明：         1 / 1
+  明：         2 / 2
   春秋：       4 / 4
   西汉：       2 / 2
   东汉：       3 / 3
@@ -1305,6 +1306,36 @@
   - raw/guo_shoujing/引语.txt
   - raw/guo_shoujing/全部语料.txt
   - raw/guo_shoujing/raw_stats.json
+
+---
+
+### 2026-04-26
+
+**人物：** 徐光启
+**执行时间：** 02:01 - 02:36
+**结果：** ✅ 完成
+**confidence：** medium
+**遇到的问题：** web_search 多次失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；baike.baidu.com 词条内容被限制在约3000字符，无法获取完整长篇传记；Britannica 英文百科可访问但内容有限；徐光启为科学家非诗人，无诗词作品下限要求
+**产出文件：**
+  - output/xu_guangqi/SKILL.md
+  - output/xu_guangqi/README.md
+  - output/xu_guangqi/METADATA.json
+  - output/xu_guangqi/CITATIONS.md
+  - output/xu_guangqi/raw_stats.json
+  - output/xu_guangqi/EVENTS.md
+  - output/xu_guangqi/VOICE.md
+  - done/xu_guangqi.done
+  - processed/xu_guangqi/stages.md
+  - processed/xu_guangqi/dimension_思想内核.json
+  - processed/xu_guangqi/dimension_语言特征.json
+  - processed/xu_guangqi/dimension_表达偏好.json
+  - processed/xu_guangqi/dimension_立场光谱.json
+  - processed/xu_guangqi/dimension_voice_profile.json
+  - processed/xu_guangqi/consistency_check.md
+  - raw/xu_guangqi/传记.txt
+  - raw/xu_guangqi/后世评述.txt
+  - raw/xu_guangqi/全部语料.txt
+  - raw/xu_guangqi/raw_stats.json
 
 ---
 
