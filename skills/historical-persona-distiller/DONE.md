@@ -59,6 +59,7 @@
 | 45 | 沈括 | 北宋 | 2026-04-25 | medium | 60 |
 | 46 | 蔡伦 | 东汉 | 2026-04-25 | medium | 25 |
 | 47 | 毕昇 | 北宋 | 2026-04-25 | medium | 15 |
+| 48 | 郭守敬 | 元 | 2026-04-26 | medium | 30 |
 ```
 
 **字段说明：**
@@ -73,9 +74,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 郭守敬（元）
-**persona_id：** guo_shoujing
-**来源：** backlog #46
+**下一待处理：** 徐光启（明）
+**persona_id：** xu_guangqi
+**来源：** backlog #47
 
 ---
 
@@ -602,14 +603,14 @@
 
 ```
 总人物数：     48
-已完成：       47
+已完成：       48
 进行中：       0
-待处理：       1
-完成率：       97.9%（47/48）
+待处理：       0
+完成率：       100%（48/48）
 
 按 confidence：
   high：       34
-  medium：     13
+  medium：     14
   low：        0
 
 按朝代：
@@ -626,7 +627,7 @@
   西汉：       2 / 2
   东汉：       3 / 3
   东晋：       1 / 1
-  元：         0 / 1
+  元：         1 / 1
 ```
 
 ### 2026-04-20
@@ -1276,6 +1277,34 @@
   - raw/bi_sheng/后世评述.txt
   - raw/bi_sheng/全部语料.txt
   - raw/bi_sheng/raw_stats.json
+
+### 2026-04-26
+
+**人物：** 郭守敬
+**执行时间：** 00:06 - 00:36
+**结果：** ✅ 完成
+**confidence：** medium
+**遇到的问题：** web_search 多次失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；主要依赖百度百科郭守敬词条（baike.baidu.com/item/郭守敬/53453，30000+字）和 Britannica 英文百科；郭守敬为天文学家、数学家、水利工程专家，无诗词作品，无诗词下限要求；语料以传记原文（30000字）和后世评述为核心
+**产出文件：**
+  - output/guo_shoujing/SKILL.md
+  - output/guo_shoujing/README.md
+  - output/guo_shoujing/METADATA.json
+  - output/guo_shoujing/CITATIONS.md
+  - output/guo_shoujing/raw_stats.json
+  - output/guo_shoujing/EVENTS.md
+  - output/guo_shoujing/VOICE.md
+  - done/guo_shoujing.done
+  - processed/guo_shoujing/stages.md
+  - processed/guo_shoujing/dimension_思想内核.json
+  - processed/guo_shoujing/dimension_语言特征.json
+  - processed/guo_shoujing/dimension_表达偏好.json
+  - processed/guo_shoujing/dimension_立场光谱.json
+  - processed/guo_shoujing/dimension_voice_profile.json
+  - processed/guo_shoujing/consistency_check.md
+  - raw/guo_shoujing/传记.txt
+  - raw/guo_shoujing/引语.txt
+  - raw/guo_shoujing/全部语料.txt
+  - raw/guo_shoujing/raw_stats.json
 
 ---
 
