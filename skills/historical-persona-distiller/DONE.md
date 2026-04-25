@@ -54,6 +54,7 @@
 | 40 | 魏征 | 唐 | 2026-04-24 | medium | 20 |
 | 41 | 孙子 | 春秋 | 2026-04-25 | high | 55 |
 | 42 | 吴起 | 战国 | 2026-04-25 | medium | 40 |
+| 43 | 张仲景 | 东汉 | 2026-04-25 | high | 20 |
 ```
 
 **字段说明：**
@@ -68,9 +69,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 张仲景（东汉）
-**persona_id：** zhang_zhongjing
-**来源：** backlog #41
+**下一待处理：** 李时珍（明朝）
+**persona_id：** li_shizhen
+**来源：** backlog #42
 
 ---
 
@@ -596,14 +597,14 @@
 ## 四、统计概览
 
 ```
-总人物数：     41
-已完成：       39
+总人物数：     42
+已完成：       40
 进行中：       0
 待处理：       2
-完成率：       95.1%（39/41）
+完成率：       95.2%（40/42）
 
 按 confidence：
-  high：       32
+  high：       33
   medium：     7
   low：        0
 
@@ -619,7 +620,7 @@
   明：         1 / 1
   春秋：       4 / 4
   西汉：       2 / 2
-  东汉：       1 / 1
+  东汉：       2 / 2
   东晋：       1 / 1
 ```
 
@@ -1122,6 +1123,36 @@
   - raw/wu_qi/引语.txt
   - raw/wu_qi/后世评述.txt
   - raw/wu_qi/全部语料.txt
+
+---
+
+### 2026-04-25
+
+**人物：** 张仲景
+**执行时间：** 14:01 - 14:20
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** web_search 多次失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；ctext.org 古诗文网古文岛等均要求验证码或重定向无法获取正文；改以百度百科张仲景词条（baike.baidu.com/item/张仲景/66566）为唯一主要来源；张仲景为医学家非诗人，无诗词作品下限要求；语料以传记原文（约22000字）和《伤寒论》原序全文为核心，后世评述（方中行、陈修园、张志聪等）较丰富；人物属医学家而非诗人，故以医论文体为主要语料而非诗词
+**产出文件：**
+  - output/zhang_zhongjing/SKILL.md
+  - output/zhang_zhongjing/README.md
+  - output/zhang_zhongjing/METADATA.json
+  - output/zhang_zhongjing/CITATIONS.md
+  - output/zhang_zhongjing/raw_stats.json
+  - output/zhang_zhongjing/EVENTS.md
+  - output/zhang_zhongjing/VOICE.md
+  - done/zhang_zhongjing.done
+  - processed/zhang_zhongjing/stages.md
+  - processed/zhang_zhongjing/dimension_思想内核.json
+  - processed/zhang_zhongjing/dimension_语言特征.json
+  - processed/zhang_zhongjing/dimension_表达偏好.json
+  - processed/zhang_zhongjing/dimension_立场光谱.json
+  - processed/zhang_zhongjing/dimension_voice_profile.json
+  - processed/zhang_zhongjing/consistency_check.md
+  - raw/zhang_zhongjing/传记.txt
+  - raw/zhang_zhongjing/引语.txt
+  - raw/zhang_zhongjing/后世评述.txt
+  - raw/zhang_zhongjing/全部语料.txt
 
 ---
 
