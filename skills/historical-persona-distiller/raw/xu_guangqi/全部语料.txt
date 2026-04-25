@@ -1,0 +1,70 @@
+# 徐光启全部语料
+
+## 一、传记原文（百度百科，约3000字）
+
+徐光启（1562年－1633年），字子先，号玄扈，谥文定，上海人，万历进士，官至崇祯朝礼部尚书兼文渊阁大学士、内阁次辅。1603年，入天主教，教名保禄。较早师从利玛窦学习西方的天文、历法、数学、测量和水利等科学技术，毕生致力于科学技术的研究，勤奋著述，是介绍和吸收欧洲科学技术的积极推动者，为17世纪中西文化交流作出了重要贡献。
+
+### 历法方面
+
+徐光启在天文历法方面的成就，主要集中于《崇祯历书》的编译和为改革历法所写的各种疏奏之中。在历书中，他引进了圆形地球的概念，介绍了经度和纬度的概念。他根据第谷星表和中国传统星表，提供了第一个全天性星图，成为清代星表的基础。在计算方法上，引进了球面和平面三角学的准确公式，并首先作了视差、蒙气差和时差的订正。除《崇祯历书》全书的总编工作外，徐光启还参加了《测天约说》《大测》《日缠历指》《测量全义》《日缠表》等书的具体编译工作。
+
+### 数学方面
+
+徐光启在数学方面的最大贡献当推和利玛窦共同翻译了《几何原本》（前6卷）。徐光启提出了实用的"度数之学"的思想，同时还撰写了《勾股义》和《测量异同》两书。徐光启首先把"几何"一词作为数学的专业名词来使用。《几何原本》的翻译，极大地影响了中国原有的数学学习和研究的习惯，改变了中国数学发展的方向，是中国数学史上的一件大事。但直到20世纪初，中国废科举、兴学校，以《几何原本》为主要内容的初等几何学方才成为中等学校必修科目。徐光启在修改历法的疏奏中，详细论述了数学在天文历法、水利工程、音律、兵器兵法及军事工程、会计理财、各种建筑工程、机械制造、舆地测量、医药、制造钟漏等计时器十个方面应用。还建议开展这些方面的分科研究。
+
+### 农学方面
+
+徐光启精晓农学，著作甚多，计有《农政全书》《甘薯疏》《农遗杂疏》《农书草稿》《泰西水法》等。
+《农政全书》初稿完成后，徐光启忙于负责修订历书，无暇顾及，去世后由他的门人陈子龙等人负责修订，于1639年刻板付印。全书由于分为12目，共60卷，50余万字。12目中包括：农本3卷，田制2卷，农事6卷，水利9卷，农器4卷，树艺6卷，蚕桑4卷，蚕桑广类2卷，种植4卷，牧养1卷，制造1卷，荒政18卷，基本上囊括了中国古代汉族农业生产和人民生活的各个方面，治国治民的"农政"思想贯穿其中。
+
+### 军事方面
+
+"求精"和"责实"是徐光启军事思想的核心，他提出"极求真材以备用"，"极造实用器械以备中外守战"，"极行选练精兵以保全胜"，"极造都城万年台（炮台）以为永永无虞之计"，"极遣使臣监护朝鲜以联外势"。
+徐光启特别注重火炮的制造，曾多方建议，不断上疏，希望能引进火炮制造技术。徐光启还对火器在实践中的运用，对火器与城市防御，火器与攻城，火器与步、骑兵种的配合等各个方面部有所探求。徐光启撰写的《选练百字诀》《选练条格》《练艺条格》《束伍条格》《形名条格》《火攻要略》《制火药法》等各种条令和法典是我国近代较早的一批条令和法典。
+
+### 徐光启墓
+
+上海徐家汇是徐光启的故乡，徐家汇本名法华汇，后来为了纪念徐光启改名为徐家汇。徐光启墓就位于徐家汇南丹路的光启公园内。墓地共有10个墓穴，葬徐光启及其夫人吴氏，左右是四个孙子夫妇。墓前立有石碑、石人、石马、华表、石牌坊等物。石牌坊上正中额题"文武元勋"，右题"熙朝元辅"，左题"王佐儒宗"，正中额下题："明故大夫太子太保赠少保太保礼部尚书兼文渊阁大学士徐文定公墓阙"。石牌坊镌有对联，上联"治历明农百世师经天纬地"，下联"出将入相一个臣奋武揆文"。
+
+### 出版图书
+
+《崇祯历书》是一部中国比较全面的介绍欧洲天文学知识的著作，由徐光启、李之藻、李天经、汤若望等人编译。著书时间从明代崇祯二年（1629年）到崇祯七年（1634年），历时5年。
+
+《徐氏庖言(外4种)(繁体竖排版)》包括徐光启著译五种：《徐氏庖言》是徐氏论兵政边务的奏疏和信札等的汇编，《兵机要诀》、《选练条格》则是徐氏的军事著作，这三种集中反映了徐光启兵政军事思想和针对明末政局危机的设想和具体措施。《诗经传稿》是徐氏备科举和应试的文稿。
+
+《农政全书》是徐光启将他自己的农学著作和译述，以及前人有关农业的文献和著作进行的系统整理而成，是当时农业科学的集大成之作。
+
+## 二、Britannica英文百科评述
+
+Xu Guangqi (born April 24, 1562, Shanghai, China—died Nov. 8, 1633, Beijing) was an official of the Ming dynasty (1368–1644), and the most influential Chinese convert to Christianity before the 20th century.
+Xu obtained his jinshi degree, the highest level in the civil-service examination, in 1604 and then studied with Matteo Ricci, the noted Italian Jesuit missionary in China. He became the first of his countrymen to translate European books into the Chinese language, translating with Ricci Western books on mathematics, hydraulics, and geography. Their most famous translation was Euclid's Elements (Jihe yuanben), which exerted a great influence on Chinese mathematics.
+In 1629 Xu finally obtained high office as a result of a competition held by the government to determine who could predict most precisely the time of a solar eclipse scheduled to occur that year. Of the three competing schools—the Chinese (or Datong Li), the Muslim, and the Western—the Western approach, represented by Xu, proved to be most accurate, and he was made one of the emperor's leading ministers.
+Xu convinced the emperor to use Western troops and firearms against the invading Manchu forces. The Manchu, however, soon acquired Western arms themselves and in 1644 occupied all of China. After Xu's death, Roman Catholicism never again achieved such influence in China.
+
+Wade-Giles romanization: Hsü Kuang-ch'i
+Christian name: Paul Hsü
+Died: Nov. 8, 1633, Beijing (aged 71)
+
+## 三、墓园评价（对联）
+
+石牌坊上正中额题"文武元勋"，右题"熙朝元辅"，左题"王佐儒宗"。
+石牌坊镌有对联，上联"治历明农百世师经天纬地"，下联"出将入相一个臣奋武揆文"。
+
+## 四、主要引语汇总
+
+1. "求精"和"责实"是徐光启军事思想的核心。
+2. "极求真材以备用"，"极造实用器械以备中外守战"，"极行选练精兵以保全胜"，"极造都城万年台（炮台）以为永永无虞之计"，"极遣使臣监护朝鲜以联外势"——徐光启五大军事主张。
+3. 徐光启首先把"几何"一词作为数学的专业名词来使用。
+4. "度数之学"——徐光启提出的数学实用思想。
+5. 毕生致力于科学技术的研究，勤奋著述。
+
+## 五、后世评价要点
+
+- 明代著名科学家、政治家
+- 介绍和吸收欧洲科学技术的积极推动者
+- 17世纪中西文化交流的重要贡献者
+- 中西文化交流的先驱者
+- 农政全书：中国古代农业科学的集大成之作
+- 几何原本翻译：开启了中国数学发展的新方向
+- 入天主教，教名保禄——明代最重要的中国天主教徒
+- 最早将西方科学技术系统引入中国的学者之一
