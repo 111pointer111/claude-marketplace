@@ -56,6 +56,7 @@
 | 42 | 吴起 | 战国 | 2026-04-25 | medium | 40 |
 | 43 | 张仲景 | 东汉 | 2026-04-25 | high | 20 |
 | 44 | 李时珍 | 明 | 2026-04-25 | medium | 120 |
+| 45 | 沈括 | 北宋 | 2026-04-25 | medium | 60 |
 ```
 
 **字段说明：**
@@ -70,9 +71,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 沈括（北宋）
-**persona_id：** shen_kuo
-**来源：** backlog #43
+**下一待处理：** 蔡伦（东汉）
+**persona_id：** cai_lun
+**来源：** backlog #44
 
 ---
 
@@ -598,20 +599,20 @@
 ## 四、统计概览
 
 ```
-总人物数：     42
-已完成：       40
+总人物数：     43
+已完成：       41
 进行中：       0
 待处理：       2
-完成率：       95.2%（40/42）
+完成率：       95.3%（41/43）
 
 按 confidence：
   high：       33
-  medium：     7
+  medium：     8
   low：        0
 
 按朝代：
   唐：         7 / 8
-  北宋：       7 / 7
+  北宋：       8 / 8
   南宋：       2 / 2
   晋：         1 / 1
   战国：       4 / 5
@@ -1182,6 +1183,38 @@
   - raw/li_shizhen/引语.txt
   - raw/li_shizhen/后世评述.txt
   - raw/li_shizhen/全部语料.txt
+
+---
+
+### 2026-04-25
+
+**人物：** 沈括
+**执行时间：** 18:01 - 19:01
+**结果：** ✅ 完成
+**confidence：** medium
+**遇到的问题：** web_search 全部失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；改以百度百科（沈括传记22000字+梦溪笔谈概述）为两个主要来源；web_fetch 直接抓取成功；沈括为科学家非诗人，无诗词作品下限要求；语料以传记和《梦溪笔谈》概述为核心，后世评述跨越宋元明清至现代，极为丰富
+**产出文件：**
+  - output/shen_kuo/SKILL.md
+  - output/shen_kuo/README.md
+  - output/shen_kuo/METADATA.json
+  - output/shen_kuo/CITATIONS.md
+  - output/shen_kuo/raw_stats.json
+  - output/shen_kuo/EVENTS.md
+  - output/shen_kuo/VOICE.md
+  - done/shen_kuo.done
+  - processed/shen_kuo/stages.md
+  - processed/shen_kuo/dimension_思想内核.json
+  - processed/shen_kuo/dimension_语言特征.json
+  - processed/shen_kuo/dimension_表达偏好.json
+  - processed/shen_kuo/dimension_立场光谱.json
+  - processed/shen_kuo/dimension_voice_profile.json
+  - processed/shen_kuo/consistency_check.md
+  - raw/shen_kuo/传记.txt
+  - raw/shen_kuo/引语.txt
+  - raw/shen_kuo/后世评述.txt
+  - raw/shen_kuo/梦溪笔谈_概述.txt
+  - raw/shen_kuo/全部语料.txt
+  - raw/shen_kuo/raw_stats.json
 
 ---
 
