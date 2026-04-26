@@ -63,6 +63,7 @@
 | 49 | 徐光启 | 明 | 2026-04-26 | medium | 30 |
 | 50 | 宋应星 | 明 | 2026-04-26 | medium | 10 |
 | 51 | 张衡 | 东汉 | 2026-04-26 | medium | 25 |
+| 52 | 祖冲之 | 南北朝 | 2026-04-26 | medium | 60 |
 ```
 
 **字段说明：**
@@ -77,9 +78,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 祖冲之（南北朝）
-**persona_id：** zu_chongzhi
-**来源：** backlog #50
+**下一待处理：** 李冰（战国）
+**persona_id：** li_bing
+**来源：** backlog #51
 
 ---
 
@@ -606,14 +607,14 @@
 
 ```
 总人物数：     75
-已完成：       51
+已完成：       52
 进行中：       0
-待处理：       24
-完成率：       68%（51/75）
+待处理：       23
+完成率：       69%（52/75）
 
 按 confidence：
   high：       34
-  medium：     17
+  medium：     18
   low：        0
 
 按朝代：
@@ -631,7 +632,7 @@
   东汉：       4 / 4
   东晋：       1 / 1
   元：         1 / 1
-  南北朝：     0 / 1
+  南北朝：     1 / 1
 ```
 
 ### 2026-04-20
@@ -1401,6 +1402,37 @@
   - raw/zhang_heng/引语.txt
   - raw/zhang_heng/后世评述.txt
   - raw/zhang_heng/全部语料.txt
+
+---
+
+### 2026-04-26
+
+**人物：** 祖冲之
+**执行时间：** 16:03 - 17:03
+**结果：** ✅ 完成（git push 成功）
+**confidence：** medium
+**遇到的问题：** web_search 多次失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；祖冲之为数学家非诗人，无诗词作品下限要求；其所有主要著作（《缀术》《大明历》正文《历议》等）均已亡佚，语料主要依赖百度百科和 Britannica 二手文献整理；中文古典语料严重受限
+**产出文件：**
+  - output/zu_chongzhi/SKILL.md
+  - output/zu_chongzhi/README.md
+  - output/zu_chongzhi/METADATA.json
+  - output/zu_chongzhi/CITATIONS.md
+  - output/zu_chongzhi/raw_stats.json
+  - output/zu_chongzhi/EVENTS.md
+  - output/zu_chongzhi/VOICE.md
+  - done/zu_chongzhi.done
+  - processed/zu_chongzhi/stages.md
+  - processed/zu_chongzhi/dimension_思想内核.json
+  - processed/zu_chongzhi/dimension_语言特征.json
+  - processed/zu_chongzhi/dimension_表达偏好.json
+  - processed/zu_chongzhi/dimension_立场光谱.json
+  - processed/zu_chongzhi/dimension_voice_profile.json
+  - processed/zu_chongzhi/consistency_check.md
+  - raw/zu_chongzhi/传记.txt
+  - raw/zu_chongzhi/引语.txt
+  - raw/zu_chongzhi/后世评述.txt
+  - raw/zu_chongzhi/全部语料.txt
+  - raw/zu_chongzhi/raw_stats.json
 
 ---
 
