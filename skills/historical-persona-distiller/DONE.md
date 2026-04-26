@@ -61,6 +61,7 @@
 | 47 | 毕昇 | 北宋 | 2026-04-25 | medium | 15 |
 | 48 | 郭守敬 | 元 | 2026-04-26 | medium | 30 |
 | 49 | 徐光启 | 明 | 2026-04-26 | medium | 30 |
+| 50 | 宋应星 | 明 | 2026-04-26 | medium | 10 |
 ```
 
 **字段说明：**
@@ -75,9 +76,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 宋应星（明）
-**persona_id：** song_yingxing
-**来源：** backlog #48
+**下一待处理：** 张衡（东汉）
+**persona_id：** zhang_heng
+**来源：** backlog #49
 
 ---
 
@@ -603,15 +604,15 @@
 ## 四、统计概览
 
 ```
-总人物数：     49
-已完成：       49
+总人物数：     50
+已完成：       50
 进行中：       0
 待处理：       0
-完成率：       100%（49/49）
+完成率：       100%（50/50）
 
 按 confidence：
   high：       34
-  medium：     15
+  medium：     16
   low：        0
 
 按朝代：
@@ -623,7 +624,7 @@
   三国：       3 / 3
   清：         4 / 4
   南唐：       1 / 1
-  明：         2 / 2
+  明：         3 / 3
   春秋：       4 / 4
   西汉：       2 / 2
   东汉：       3 / 3
@@ -1336,6 +1337,38 @@
   - raw/xu_guangqi/后世评述.txt
   - raw/xu_guangqi/全部语料.txt
   - raw/xu_guangqi/raw_stats.json
+
+---
+
+### 2026-04-26
+
+**人物：** 宋应星
+**执行时间：** 05:46 - 05:56
+**结果：** ✅ 完成
+**confidence：** medium
+**遇到的问题：** web_search 多次失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；宋应星为科学家非诗人，无诗词作品下限要求；改以百度百科（宋应星传记30000字+天工开物词条28000字）为两个主要来源；大部分原始著作已散佚（原有10余种，现仅存5种），直接引语主要来自二手文献整理
+**产出文件：**
+  - output/song_yingxing/SKILL.md
+  - output/song_yingxing/README.md
+  - output/song_yingxing/METADATA.json
+  - output/song_yingxing/CITATIONS.md
+  - output/song_yingxing/raw_stats.json
+  - output/song_yingxing/EVENTS.md
+  - output/song_yingxing/VOICE.md
+  - done/song_yingxing.done
+  - processed/song_yingxing/stages.md
+  - processed/song_yingxing/dimension_思想内核.json
+  - processed/song_yingxing/dimension_语言特征.json
+  - processed/song_yingxing/dimension_表达偏好.json
+  - processed/song_yingxing/dimension_立场光谱.json
+  - processed/song_yingxing/dimension_voice_profile.json
+  - processed/song_yingxing/consistency_check.md
+  - raw/song_yingxing/传记.txt
+  - raw/song_yingxing/引语.txt
+  - raw/song_yingxing/天工开物概述.txt
+  - raw/song_yingxing/后世评述.txt
+  - raw/song_yingxing/全部语料.txt
+  - raw/song_yingxing/raw_stats.json
 
 ---
 
