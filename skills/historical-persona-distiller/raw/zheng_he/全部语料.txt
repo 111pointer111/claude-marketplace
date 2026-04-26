@@ -1,0 +1,83 @@
+# 郑和（Zheng He）全部语料
+# Persona ID: zheng_he
+# 采集时间: 2026-04-26
+# 来源数量: 4个
+
+============= 来源1: Britannica 百科全书 ============
+Zheng He (born c. 1371, Kunyang, near Kunming, Yunnan province, China—died 1433, Calicut [now Kozhikode], India) was an admiral and diplomat who helped extend the maritime and commercial influence of China throughout the regions bordering the Indian Ocean. He commanded seven naval expeditions almost a century before the Portuguese reached India by sailing around the southern tip of Africa.
+
+## Background and early years
+Zheng He was from a Hui (Chinese Muslim) family. His father was a hajji, a Muslim who had made the hajj (pilgrimage) to Mecca. His family claimed descent from an early Mongol governor of Yunnan province in southwestern China as well as from King Muḥammad of Bukhara (now in Uzbekistan). The family name Ma was derived from the Chinese rendition of Muḥammad.
+
+In 1381, when he was about 10 years old, Yunnan, the last Mongol hold in China, was reconquered by Chinese forces led by generals of the Ming dynasty, which had overthrown the Yuan (Mongol) dynasty in 1368. The young Ma Sanbao (later Ma He), as he was then known, was among the boys who were captured, castrated, and sent into the army as orderlies. By 1390, when those troops were placed under the command of the prince of Yan, Ma He had distinguished himself as a junior officer, skilled in war and diplomacy. Ma also had made influential friends at court.
+
+In 1400 the prince of Yan revolted against his nephew, the Jianwen emperor, taking the throne in 1402 as the Yongle emperor. Under the Yongle administration (1402–24), the war-devastated economy of China was soon restored. The Ming court then sought to display its naval power to bring the maritime states of South and Southeast Asia in line.
+
+Ma He quickly became a eunuch of great influence in the Yongle court. Soon after he ascended the throne, the emperor conferred on Ma the surname Zheng, and he was henceforth known as Zheng He.
+
+## Naval expeditions
+Zheng was selected by the emperor to be commander in chief of what became a series of missions to the "Western Oceans." He first set sail in 1405, commanding 62 ships and 27,800 men. The fleet visited Champa (now in southern Vietnam), Siam (Thailand), Malacca (Melaka), and the island of Java and then through the Indian Ocean to Calicut (Kozhikode) on the Malabar Coast of India and Ceylon (Sri Lanka). Zheng He returned to China in 1407.
+
+On his second voyage, in 1408–09, Zheng He again visited Calicut—stopping as well in Chochin (Kochi) along the coast to the south—but encountered treachery from King Alagonakkara of Ceylon. Zheng defeated Alagonakkara's forces and took the king back to Nanjing as a captive.
+
+On his fourth voyage, Zheng He left China in 1413. After stopping at the principal ports of Asia, he proceeded westward from India to Hormuz. A detachment of the fleet cruised southward down the coast of Arabia, visiting Dhofar (Oman) and Aden (Yemen). A Chinese mission visited Mecca and continued to Egypt. The fleet visited towns along the east coast of Africa of what are now Somalia and Kenya and almost reached the Mozambique Channel.
+
+On his return to China in 1415, Zheng He brought the envoys of more than 30 states of South and Southeast Asia to pay homage to the Chinese emperor.
+
+Zheng He's fifth voyage (1417–19), the sixth voyage was launched in 1421 to take home the foreign emissaries from China. In 1424 the Yongle emperor died. In the shift of policy his successor, the Hongxi emperor, suspended naval expeditions abroad. Zheng He was appointed garrison commander in Nanjing.
+
+Zheng He's seventh and final voyage left China in the winter of 1431. He visited the states of Southeast Asia, the coast of India, the Persian Gulf, the Red Sea, and the east coast of Africa. Zheng died in Calicut in the spring of 1433, and the fleet returned to China that summer.
+
+Zheng He was the best known of the Yongle emperor's diplomatic agents. Although some historians see no achievement in the naval expeditions other than flattering the emperor's vanity, those missions did have the effect of extending China's political sway over maritime Asia for half a century.
+
+============= 来源2: World History Encyclopedia - The Seven Voyages of Zheng He (English) ============
+Admiral Zheng He (aka Cheng Ho, c. 1371-1433 CE) was a Chinese Muslim eunuch explorer who was sent by the Ming dynasty emperor Yongle (r. 1403-1424 CE) on seven diplomatic missions to increase trade and secure tribute from foreign powers. Between 1405 and 1433 CE Zheng He commanded huge fleets loaded with trade goods and high-value gifts to such far-flung places as Hormuz in the Persian Gulf and Mogadishu in East Africa.
+
+Born into a Muslim peasant family in Yunnan province in southern China c. 1371 CE, his family-given name was Ma Ho. The future explorer would have a difficult childhood but he certainly had the travel bug in his veins as his father had made the Hajj or pilgrimage to Mecca. Living in a region of China that was then controlled by the Mongols, Ma Ho was captured by Ming forces at the age of ten. In the typical treatment of those captured in warfare and destined to be slaves or servants, Ma Ho was castrated. He was then conscripted into the army commanded by a Ming prince, none other than the future emperor Yongle.
+
+The massive fleet of 317 ships had been under construction since 1403 CE and included 62 baochuan, then the largest ships in the world. These Chinese junks, also known as 'treasure ships', were perhaps up to 55 metres (180 ft) in length and 8.5 metres (28 ft) wide. The junks Zheng had in his fleet would not have been significantly different from those described as follows by the famed Muslim traveller from Tangier Ibn Battuta (1304 - c. 1368 CE):
+
+> The large ships have anything from twelve down to three sails made of bamboo rods plaited like mats. A ship carries a complement of a thousand men…The vessel has four decks and contains rooms, cabins and saloons for merchants.
+
+The first three voyages of Zheng He (1404, 1408 and 1409 CE) followed more established trade routes. He went via Southeast Asia, sailing down the coast of Vietnam, stopping at Sumatra and Java and then on through the Malay Archipelago and through the Straits of Malacca, crossing the eastern Indian Ocean to reach India and Sri Lanka.
+
+On his fourth voyage in 1413 CE Zheng He sailed to India again, once more pushing on around the southern tip of the subcontinent and visiting again Cochin and Calicut on the west coast. This time he also found time to stop off at the Maldive Islands, before crossing the Arabian Sea and reaching Hormuz on the Persian Gulf. Sailing down the coast of Arabia, he then went on to Aden and up the Red Sea to Jeddah, from where a party travelled to Mecca. A report states that 19 foreign rulers sent tributes and diplomatic missions to the emperor as a consequence of this fourth voyage.
+
+Voyages five, six, and seven (1417, 1421, and 1431 CE) reached even further afield, landing at Mogadishu, Malindi, and Mombassa, all on the coast of East Africa. Zheng He is the first attested Chinese to visit the Swahili coast.
+
+From Africa, Zheng He brought back such exotica as lions, leopards, camels, ostriches, rhinos, zebras, and giraffes. These animals caused wonder back in China, where the giraffe, for example, was considered living evidence of the qilin, a sort of Chinese unicorn which represented good fortune.
+
+Zheng He, like many great explorers before and since, died in the middle of an expedition, his seventh voyage. The great admiral died in Calicut in 1433 CE, and his body was returned to China for burial in Nanjing.
+
+As this inscription on a tablet he erected in 1432 CE in Fujian, China relates:
+
+> We have traversed more than one hundred thousand li (27,000 nautical miles) of immense waterspaces and have beheld in the ocean huge waves like mountains rising sky high, and we have set eyes on barbarian regions far away hidden in a blue transparency of light vapors, while our sails, loftily unfurled like clouds day and night, continued their course (as rapidly as) a star, traversing those savage waves as if we were treading a public thoroughfare…
+
+============= 来源3: World History Encyclopedia 中文版 - 鄭和七下西洋 ============
+鄭和（公元1371-1433）是一名中國穆斯林太監探險航海家，明朝永樂大帝（公元1403-1424年在位）派他執行七次外交任務，以增加貿易並確保外國進貢。
+
+永樂皇帝的外交政策：傳統上，國外貢品滿足國人的虛榮，即他們自己文化優於所有其他。東南亞較小的國家向中國進貢的傳統，是為防止入侵或在入侵下的保護承諾。
+
+他的船隊：317艘船，62艘寶船，當時世上最大的船隻。中國寶船長達55米，寬8.5米。伊本·白圖泰描述："大船有十二到十三張帆，用竹編席。一艘船載有一千人……這艘船有四個甲板，包含供商人使用的客房、客艙和貴賓室。"
+
+鄭和的前三次下西洋（公元1404年、1408年和1409年）沿用了更成熟的貿易路線。無論他在哪裡登陸，鄭和都率領代表團去見當地統治者，表達善意，獻上大量禮物，並邀請他們親自或派使者前往永樂帝的朝廷。
+
+第五次、第六次和第七次航行（公元1417年、1421年和1431年）到達了更遠的地方，在東非海岸的摩加迪沙、馬林迪和蒙巴薩登陸。鄭和是第一個有據可查訪問斯瓦希里海岸的中國人。
+
+從非洲帶回了獅子、豹子、駱駝、鴕鳥、犀牛、斑馬和長頸鹿等珍稀動物。
+
+1433年在印度古里去世，遺體被送回中國安葬南京。
+
+正如他公元1432年在福建豎立的一塊碑文所記：
+"觀夫海洋，洪濤接天，巨浪如山，視諸夷域，逈隔於煙霞縹緲之間。而我之雲帆高張，晝夜星馳，涉彼狂瀾，若履通衢者……"
+（引自von Sivers，406）
+
+============= 来源4: World History Encyclopedia - Yongle Emperor ============
+The Yongle Emperor (r. 1403-1424 CE) sponsored the seven voyages of the explorer Zheng He. Zheng He (1371-1433 CE) was widely regarded as China's greatest ever explorer. Born in Yunnan in southern China, Zheng was a eunuch Muslim who rose to become an admiral in the imperial fleet.
+
+The Yongle Emperor sent Zheng on seven diplomatic voyages between 1405 and 1433 CE, with each voyage involving several hundred ships. The intention was that the voyages of Zheng He, giving out lavish gifts like silk and fine Ming porcelain as well as letters of friendship from the emperor, would encourage East Asia back into the sphere of the Chinese tribute system and extend that system to new states as remote as East Africa.
+
+The tribute system, rather than a means for China to acquire free goods, was really only a gratification of the Chinese belief that they were the centre of the world and their ruler was the Son of Heaven. The presence of foreign ambassadors in the Forbidden City would also help Yongle legitimise his own position as emperor, taken as it had been by force from his own nephew.
+
+Ultimately, the voyages of Zheng He only managed to woo East Asian rulers to consistently pay tribute, but Zheng certainly brought back plenty of knowledge of foreign lands and customs, and he did ship back such exotica as giraffes, gems, and spices. The voyages were extremely costly, though, and Yongle's successors would abandon the idea.
+

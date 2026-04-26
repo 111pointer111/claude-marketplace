@@ -1,0 +1,147 @@
+{
+  "pid": "zheng_he",
+  "name": "郑和",
+  "name_full": "郑和（原名马三宝/马和）",
+  "birth_year": 1371,
+  "death_year": 1433,
+  "birth_date": "约1371年",
+  "death_date": "约1433年（春）",
+  "birthplace": "云南昆阳（今云南昆明）",
+  "deathplace": "印度古里（今科泽科德）",
+  "confidence": "high",
+  "confidence_rationale": "七次下西洋有详细历史记录，多源英文资料（Britannica、World History Encyclopedia等）相互印证；石碑铭文等一手史料存世；与永乐帝政治背景深度绑定。置信度评为high而非very high，是因为正史《明史》原始文本未能直接获取，且郑和个人文字资料极少。",
+
+  "life_stages": [
+    {
+      "stage": "昆明岁月",
+      "period": "约1371-1381年",
+      "age_range": "约0-10岁",
+      "location": "云南昆阳",
+      "confidence": "medium",
+      "note": "早年资料稀少，出生年份有争议（约1371年），昆明生活细节主要来自后世传记"
+    },
+    {
+      "stage": "军中崛起",
+      "period": "1381-1405年",
+      "age_range": "约10-34岁",
+      "location": "北方军营→燕王府→南京",
+      "confidence": "high",
+      "note": "靖难之役、赐姓郑等关键事件在正史中有明确记载"
+    },
+    {
+      "stage": "七下西洋",
+      "period": "1405-1433年",
+      "age_range": "约34-62岁",
+      "location": "中国→东南亚→南亚→波斯湾→阿拉伯→东非",
+      "confidence": "high",
+      "note": "七次航行详细记录于多部史料，伊本·白图泰等人旁证"
+    },
+    {
+      "stage": "晚年与终局",
+      "period": "1424-1433年",
+      "age_range": "约53-62岁",
+      "location": "南京→第七次航行→古里",
+      "confidence": "high",
+      "note": "永乐驾崩、第七次航行、郑和病逝等均有史料记载"
+    }
+  ],
+
+  "major_achievements": {
+    "seven_voyages": {
+      "count": 7,
+      "period": "1405-1433年",
+      "description": "七次下西洋，是人类历史上规模最大、时间跨度最长的航海探险之一"
+    },
+    "fleet_size": {
+      "total_ships": 317,
+      "treasure_ships": 62,
+      "crew_size": "约27800人（第一次航行）",
+      "note": "宝船（baochuan）是当时世界上最大的船只"
+    },
+    "geographic_reach": {
+      "southeast_asia": true,
+      "south_asia": true,
+      "persian_gulf": true,
+      "arabian_peninsula": true,
+      "east_africa": true,
+      "note": "足迹遍布东南亚、南亚、波斯湾、阿拉伯半岛和东非海岸"
+    },
+    "diplomatic_achievements": {
+      "states_tributary": "30余国",
+      "description": "建立了空前规模的朝贡体系"
+    }
+  },
+
+  "identity_markers": [
+    "穆斯林出身（父为哈只）",
+    "宦官/太监（幼年被俘阉割）",
+    "燕王/永乐帝亲信",
+    "明朝海军统帅",
+    "七下西洋的航海家",
+    "外交使节",
+    "天朝上国的代言人"
+  ],
+
+  "corpus_sources": [
+    {
+      "source": "raw/zheng_he/全部语料.txt",
+      "description": "综合Britannica、World History Encyclopedia等来源整理",
+      "includes": ["传记", "引语", "后世评述", "航海记录"]
+    },
+    {
+      "source": "raw/zheng_he/传记.txt",
+      "description": "中文翻译整理的传记资料"
+    },
+    {
+      "source": "raw/zheng_he/郑和七次航行.txt",
+      "description": "World History Encyclopedia英文版详细记录"
+    },
+    {
+      "source": "raw/zheng_he/后世评述.txt",
+      "description": "中文翻译版七下西洋+引语整理"
+    },
+    {
+      "source": "processed/zheng_he/dimension_思想内核.json",
+      "description": "思想内核维度分析"
+    },
+    {
+      "source": "processed/zheng_he/dimension_语言特征.json",
+      "description": "语言特征维度分析"
+    },
+    {
+      "source": "processed/zheng_he/dimension_表达偏好.json",
+      "description": "表达偏好维度分析"
+    },
+    {
+      "source": "processed/zheng_he/dimension_立场光谱.json",
+      "description": "立场光谱维度分析"
+    },
+    {
+      "source": "processed/zheng_he/dimension_voice_profile.json",
+      "description": "Voice Profile 分析"
+    },
+    {
+      "source": "processed/zheng_he/stages.md",
+      "description": "人生阶段切分"
+    }
+  ],
+
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+
+  "distillation_date": "2026-04-26",
+  "distillation_confidence": "high",
+  "known_limitations": [
+    "正史《明史·郑和传》原始文本未能直接获取（ctext.org等中文史料站被屏蔽）",
+    "郑和个人文字资料极少（仅石碑铭文），voice profile主要基于碑文和外部研究者叙述",
+    "早年生活细节在学术界仍有争议，具体出生年份不确切",
+    "无诗词传世，作为军事/外交人物，其语言特征与文人士大夫型人物差异显著"
+  ]
+}

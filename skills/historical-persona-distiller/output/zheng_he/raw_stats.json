@@ -1,0 +1,106 @@
+{
+  "persona_id": "zheng_he",
+  "persona_name": "郑和",
+  "distillation_date": "2026-04-26",
+  "work_duration_minutes": 25,
+
+  "corpus_gathering": {
+    "total_sources_attempted": 15,
+    "total_sources_successful": 4,
+    "sources": [
+      {
+        "name": "Britannica百科全书 - Zheng He",
+        "url": "https://www.britannica.com/biography/Zheng-He",
+        "type": "historical_record",
+        "status": "success",
+        "chars_extracted": 25000
+      },
+      {
+        "name": "World History Encyclopedia - The Seven Voyages of Zheng He（英文）",
+        "url": "https://www.worldhistory.org/article/1334/the-seven-voyages-of-zheng-he/",
+        "type": "historical_record",
+        "status": "success",
+        "chars_extracted": 40000
+      },
+      {
+        "name": "World History Encyclopedia - 鄭和七下西洋（中文）",
+        "url": "https://www.worldhistory.org/trans/zh/2-1334/",
+        "type": "historical_record",
+        "status": "success",
+        "chars_extracted": 27000
+      },
+      {
+        "name": "World History Encyclopedia - Yongle Emperor",
+        "url": "https://wwwworldhistory.org/Yongle_Emperor/",
+        "type": "historical_record",
+        "status": "success",
+        "chars_extracted": 38000
+      }
+    ],
+    "failed_sources": [
+      {
+        "name": "百度百科 - 郑和",
+        "url": "https://baike.baidu.com/item/郑和",
+        "status": "404"
+      },
+      {
+        "name": "360doc - 郑和",
+        "url": "https://www.360doc.com.cn/7/0705/16/9999_620861000.shtml",
+        "status": "DNS失败"
+      },
+      {
+        "name": "ctext.org 明史",
+        "url": "https://ctext.org/shiji/116.zh",
+        "status": "访问被拒绝"
+      },
+      {
+        "name": "wikisource 明史",
+        "url": "https://zh.wikisource.org/wiki/明史/卷304",
+        "status": "访问被拒绝"
+      }
+    ],
+    "min_required": 3,
+    "min_required_met": true
+  },
+
+  "raw_files_created": {
+    "raw/zheng_he/传记.txt": true,
+    "raw/zheng_he/郑和七次航行.txt": true,
+    "raw/zheng_he/后世评述.txt": true,
+    "raw/zheng_he/全部语料.txt": true
+  },
+
+  "processed_files_created": {
+    "processed/zheng_he/stages.md": true,
+    "processed/zheng_he/dimension_思想内核.json": true,
+    "processed/zheng_he/dimension_语言特征.json": true,
+    "processed/zheng_he/dimension_表达偏好.json": true,
+    "processed/zheng_he/dimension_立场光谱.json": true,
+    "processed/zheng_he/dimension_voice_profile.json": true
+  },
+
+  "output_files_created": {
+    "output/zheng_he/SKILL.md": true,
+    "output/zheng_he/EVENTS.md": true,
+    "output/zheng_he/VOICE.md": true,
+    "output/zheng_he/README.md": true,
+    "output/zheng_he/METADATA.json": true,
+    "output/zheng_he/CITATIONS.md": true,
+    "output/zheng_he/raw_stats.json": true
+  },
+
+  "quality_checks": {
+    "citations_verified": true,
+    "citations_count": 21,
+    "idiom_check_passed": true,
+    "idiom_check_note": "郑和为历史/军事人物，无成语典故需要验证",
+    "confidence_threshold_met": true,
+    "all_skill_fields_filled": true,
+    "all_skill_fields_filled_note": "SKILL.md 所有字段均已填充；由于郑和为非诗人人物，'代表作品'字段已替换为'代表成就'"
+  },
+
+  "git_commit": {
+    "output_commit": "distill: 郑和 persona (high)",
+    "status_update_commit": "update: 郑和 done, next: {新人物名}"
+  }
+}
