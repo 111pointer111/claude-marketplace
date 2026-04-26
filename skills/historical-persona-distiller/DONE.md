@@ -65,6 +65,7 @@
 | 51 | 张衡 | 东汉 | 2026-04-26 | medium | 25 |
 | 52 | 祖冲之 | 南北朝 | 2026-04-26 | medium | 60 |
 | 53 | 李冰 | 战国 | 2026-04-26 | medium | 25 |
+| 54 | 郑和 | 明 | 2026-04-26 | high | 25 |
 ```
 
 **字段说明：**
@@ -79,7 +80,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 郑和（明）
+**下一待处理：** 徐霞客（明）
+**persona_id：** xu_xiake
+**来源：** backlog #53
 **persona_id：** zheng_he
 **来源：** backlog #52
 
@@ -608,10 +611,10 @@
 
 ```
 总人物数：     75
-已完成：       53
+已完成：       54
 进行中：       0
-待处理：       22
-完成率：       71%（53/75）
+待处理：       21
+完成率：       72%（54/75）
 
 按 confidence：
   high：       34
@@ -1466,6 +1469,33 @@
   - raw/li_bing/全部语料.txt
 
 ---
+
+### 2026-04-26
+
+**人物：** 郑和
+**执行时间：** 20:05 - 20:30
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** wikisource.org、ctext.org 等主要古典文献网站无法访问；baike.baidu.com 郑和词条返回404；改以 Britannica（英文）、World History Encyclopedia 英文和中文版、永乐帝百科条目为主要来源（4个不同来源，超过最低3个要求）；郑和为航海家/军事统帅/外交官，无诗词传世，语料以历史记录和石碑铭文为主；《明史·郑和传》未能获取原始文本；网络连接正常，git push 成功
+**产出文件：**
+  - output/zheng_he/SKILL.md
+  - output/zheng_he/README.md
+  - output/zheng_he/METADATA.json
+  - output/zheng_he/CITATIONS.md
+  - output/zheng_he/raw_stats.json
+  - output/zheng_he/EVENTS.md
+  - output/zheng_he/VOICE.md
+  - done/zheng_he.done
+  - processed/zheng_he/stages.md
+  - processed/zheng_he/dimension_思想内核.json
+  - processed/zheng_he/dimension_语言特征.json
+  - processed/zheng_he/dimension_表达偏好.json
+  - processed/zheng_he/dimension_立场光谱.json
+  - processed/zheng_he/dimension_voice_profile.json
+  - raw/zheng_he/传记.txt
+  - raw/zheng_he/郑和七次航行.txt
+  - raw/zheng_he/后世评述.txt
+  - raw/zheng_he/全部语料.txt
 
 ## 五、 backlog.md 同步规则
 
