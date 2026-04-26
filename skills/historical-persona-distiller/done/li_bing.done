@@ -1,0 +1,7 @@
+{
+  "persona_id": "li_bing",
+  "name": "李冰",
+  "distilled_at": "2026-04-26T10:00:00+08:00",
+  "confidence": "medium",
+  "completed_by": "historical-persona-distiller pipeline"
+}

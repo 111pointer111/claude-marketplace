@@ -1,0 +1,55 @@
+{
+  "persona_id": "li_bing",
+  "persona_name": "李冰",
+  "collection_stats": {
+    "biography_length_chars": 1901,
+    "quotes_count": 21,
+    "commentary_count": 16,
+    "total_corpus_length_chars": 4256,
+    "sources_used": 3,
+    "source_breakdown": [
+      {
+        "source": "百度百科·李冰",
+        "type": "historical_record",
+        "chars": 18930
+      },
+      {
+        "source": "百度百科·都江堰",
+        "type": "historical_record",
+        "chars": 20000
+      },
+      {
+        "source": "百度百科·华阳国志",
+        "type": "commentary",
+        "chars": 12224
+      }
+    ]
+  },
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "processed_files": [
+    "stages.md",
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "dimension_voice_profile.json",
+    "consistency_check.md"
+  ],
+  "raw_files": [
+    "传记.txt",
+    "引语.txt",
+    "后世评述.txt",
+    "全部语料.txt"
+  ],
+  "generation_time": "2026-04-26T10:00:00+08:00",
+  "confidence": "medium",
+  "pipeline_version": "1.0"
+}

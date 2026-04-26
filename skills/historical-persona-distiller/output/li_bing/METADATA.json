@@ -1,0 +1,64 @@
+{
+  "persona_id": "li_bing",
+  "name": "李冰",
+  "dynasty": "战国（秦）",
+  "lifespan": "约前281年—前211年（推测）",
+  "birthplace": "不详",
+  "role": "蜀郡太守、水利工程专家",
+  "core_identity": "都江堰创建者，天府之国缔造者",
+
+  "personality": {
+    "type": "沉稳务实型",
+    "traits": ["务实", "系统思维", "注重实证", "创新"]
+  },
+
+  "key_works": [
+    {
+      "name": "都江堰",
+      "type": "水利工程",
+      "description": "世界文化遗产，运行2280+年"
+    },
+    {
+      "name": "朱李火堰",
+      "type": "灌溉工程",
+      "description": "川西平原重要灌溉工程"
+    },
+    {
+      "name": "广都盐井",
+      "type": "盐业工程",
+      "description": "中国第一口盐井"
+    }
+  ],
+
+  "famous_sayings": [
+    "深淘滩，低作堰",
+    "遇弯截角，逢正抽心",
+    "分四六，平潦旱"
+  ],
+
+  "confidence": "medium",
+
+  "confidence_rationale": "《史记·河渠书》（司马迁）和《华阳国志·蜀志》（常璩）为权威史料；都江堰实体工程可验证；但生卒年不详，部分生平依赖推测；无原创诗文传世。",
+
+  "source_references": [
+    {
+      "source": "《史记·河渠书》",
+      "author": "司马迁（西汉）",
+      "reliability": "high"
+    },
+    {
+      "source": "《华阳国志·蜀志》",
+      "author": "常璩（东晋）",
+      "reliability": "high"
+    },
+    {
+      "source": "《风俗通义》",
+      "author": "应劭（东汉）",
+      "reliability": "medium"
+    }
+  ],
+
+  "generated_at": "2026-04-26T10:00:00+08:00",
+  "pipeline_version": "1.0",
+  "generator": "historical-persona-distiller"
+}
