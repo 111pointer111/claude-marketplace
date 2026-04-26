@@ -1,0 +1,29 @@
+{
+  "persona_id": "zhang_heng",
+  "name": "张衡",
+  "aliases": ["平子"],
+  "era": "东汉",
+  "birth_year": 78,
+  "death_year": 139,
+  "confidence": "medium",
+  "priority": "medium",
+  "persona_type": "historical_scientist",
+  "sources_count": 4,
+  "poems_count": 20,
+  "key_works": [
+    "二京赋",
+    "思玄赋",
+    "四愁诗",
+    "南都赋",
+    "灵宪",
+    "候风地动仪"
+  ],
+  "core_themes": [
+    "经世致用",
+    "科学实证",
+    "淡泊自守",
+    "玄默无为"
+  ],
+  "distillation_date": "2026-04-26",
+  "distiller": "openclaw-historical-persona-distiller"
+}

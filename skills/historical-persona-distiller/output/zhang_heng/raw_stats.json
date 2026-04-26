@@ -1,0 +1,39 @@
+{
+  "persona_id": "zhang_heng",
+  "persona_name": "张衡",
+  "raw_stats": {
+    "传记": {
+      "file": "raw/zhang_heng/传记.txt",
+      "char_count": 2165,
+      "source": "综合整理（主要来自《后汉书》及相关文献）"
+    },
+    "引语": {
+      "file": "raw/zhang_heng/引语.txt",
+      "count": 14,
+      "char_count": 675,
+      "source": "主要来自《后汉书》张衡本传及《文选》《古文苑》《艺文类聚》等二手引用"
+    },
+    "诗词": {
+      "file": "raw/zhang_heng/诗词.txt",
+      "count": 20,
+      "char_count": 659,
+      "source": "综合整理《四愁诗》四首、《怨篇》残句、《二京赋》附载诗歌等"
+    },
+    "后世评述": {
+      "file": "raw/zhang_heng/后世评述.txt",
+      "count": 32,
+      "char_count": 1654,
+      "source": "后世文献综合整理，从《后汉书》至近现代评价"
+    },
+    "全部语料": {
+      "file": "raw/zhang_heng/全部语料.txt",
+      "total_char_count": 5153
+    }
+  },
+  "total_poems": 20,
+  "total_quotes": 14,
+  "total_commentary": 32,
+  "sources_count": 4,
+  "confidence": "medium",
+  "note": "诗词不足30首下限，主要依赖二手文献整理，直接引语来自二手引用"
+}
