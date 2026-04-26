@@ -62,6 +62,7 @@
 | 48 | 郭守敬 | 元 | 2026-04-26 | medium | 30 |
 | 49 | 徐光启 | 明 | 2026-04-26 | medium | 30 |
 | 50 | 宋应星 | 明 | 2026-04-26 | medium | 10 |
+| 51 | 张衡 | 东汉 | 2026-04-26 | medium | 25 |
 ```
 
 **字段说明：**
@@ -76,9 +77,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 张衡（东汉）
-**persona_id：** zhang_heng
-**来源：** backlog #49
+**下一待处理：** 祖冲之（南北朝）
+**persona_id：** zu_chongzhi
+**来源：** backlog #50
 
 ---
 
@@ -604,15 +605,15 @@
 ## 四、统计概览
 
 ```
-总人物数：     50
-已完成：       50
+总人物数：     75
+已完成：       51
 进行中：       0
-待处理：       0
-完成率：       100%（50/50）
+待处理：       24
+完成率：       68%（51/75）
 
 按 confidence：
   high：       34
-  medium：     16
+  medium：     17
   low：        0
 
 按朝代：
@@ -624,12 +625,13 @@
   三国：       3 / 3
   清：         4 / 4
   南唐：       1 / 1
-  明：         3 / 3
+  明：         4 / 4
   春秋：       4 / 4
   西汉：       2 / 2
-  东汉：       3 / 3
+  东汉：       4 / 4
   东晋：       1 / 1
   元：         1 / 1
+  南北朝：     0 / 1
 ```
 
 ### 2026-04-20
@@ -1369,6 +1371,36 @@
   - raw/song_yingxing/后世评述.txt
   - raw/song_yingxing/全部语料.txt
   - raw/song_yingxing/raw_stats.json
+
+---
+
+### 2026-04-26
+
+**人物：** 张衡
+**执行时间：** 14:05 - 14:30
+**结果：** ✅ 完成（git push 成功）
+**confidence：** medium
+**遇到的问题：** web_search 全部失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；baike.baidu.com 百度百科张衡词条直接URL（/item/张衡/5790）返回404，无法访问；主要依赖 Britannica 英文百科（约千字简介）和后世评述二手文献整理；张衡为科学家非诗人，诗词数量不足30首下限；中文语料严重受限
+**产出文件：**
+  - output/zhang_heng/SKILL.md
+  - output/zhang_heng/README.md
+  - output/zhang_heng/METADATA.json
+  - output/zhang_heng/CITATIONS.md
+  - output/zhang_heng/raw_stats.json
+  - output/zhang_heng/EVENTS.md
+  - output/zhang_heng/VOICE.md
+  - done/zhang_heng.done
+  - processed/zhang_heng/stages.md
+  - processed/zhang_heng/dimension_思想内核.json
+  - processed/zhang_heng/dimension_语言特征.json
+  - processed/zhang_heng/dimension_表达偏好.json
+  - processed/zhang_heng/dimension_立场光谱.json
+  - processed/zhang_heng/dimension_voice_profile.json
+  - raw/zhang_heng/传记.txt
+  - raw/zhang_heng/诗词.txt
+  - raw/zhang_heng/引语.txt
+  - raw/zhang_heng/后世评述.txt
+  - raw/zhang_heng/全部语料.txt
 
 ---
 
