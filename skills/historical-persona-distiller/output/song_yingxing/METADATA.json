@@ -1,0 +1,54 @@
+{
+  "persona_id": "song_yingxing",
+  "name": "宋应星",
+  "name_pinyin": "song_yingxing",
+  "courtesy_name": "长庚",
+  "dynasty": "Ming",
+  "lifespan": "1587—约1666",
+  "birthplace": "江西奉新（今江西宜春）",
+  "persona_version": "1.0",
+  "distilled_at": "2026-04-26T05:46:00Z",
+  "sources_count": 3,
+  "sources": [
+    {
+      "source": "百度百科宋应星传记",
+      "url": "https://baike.baidu.com/item/宋应星/188640",
+      "type": "historical_record",
+      "chars": 30000
+    },
+    {
+      "source": "百度百科天工开物词条",
+      "url": "https://baike.baidu.com/item/天工开物/29312",
+      "type": "commentary",
+      "chars": 28000
+    },
+    {
+      "source": "百度百科天工开物词条内容（科技论述概述）",
+      "url": "https://baike.baidu.com/item/天工开物/29312",
+      "type": "personal_essay",
+      "chars": 5000
+    }
+  ],
+  "overall_confidence": "medium",
+  "overall_confidence_rationale": "宋应星为科学家非诗人，无诗词下限要求；《天工开物》原文完整存世；《明史》赞其廉洁，传记语料丰富；但大部分著作已散佚，直接引语来自二手文献。",
+  "stage_confidence": {
+    "早年求学": "medium",
+    "科场蹉跎": "medium",
+    "分宜著述": "high",
+    "宦海浮沉": "low-medium",
+    "隐居抗清": "low"
+  },
+  "persona_type": "historical_figure",
+  "keywords": [
+    "天工开物",
+    "明末科学家",
+    "百科全书",
+    "唯物主义",
+    "锌",
+    "黄铜",
+    "质量守恒",
+    "进化论先驱",
+    "分宜教谕",
+    "遗民"
+  ]
+}
