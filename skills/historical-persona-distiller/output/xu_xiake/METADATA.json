@@ -1,0 +1,47 @@
+{
+  "persona_id": "xu_xiake",
+  "name": "徐霞客",
+  "alternate_names": ["徐宏祖", "徐振之", "霞客"],
+  "dynasty": "明",
+  "born": "1587",
+  "died": "1641",
+  "birthplace": "南直隶江阴（今江苏江阴）",
+  "persona_type": "地理学家、旅行家、文学家、探险家",
+  "persona_id": "xu_xiake",
+  "confidence": "high",
+  "distillation_date": "2026-04-26",
+  "key_works": [
+    "徐霞客游记（60余万字）",
+    "溯江纪源",
+    "丽江纪略",
+    "鸡足山志"
+  ],
+  "key_contributions": [
+    "世界上最早对石灰岩地貌进行系统考察的地理学家",
+    "论证金沙江为长江正源，纠正'岷山导江'千年谬误",
+    "考察100多个石灰岩洞，记载288个溶洞",
+    "《徐霞客游记》被称为'明末社会的百科全书'"
+  ],
+  "famous_quotes": [
+    "丈夫当朝碧海而暮苍梧",
+    "推江源者，必当以金沙为首",
+    "张骞凿空，未睹昆仑……吾以老布衣，孤筇双屦，穷河沙，上昆仑，历西域，题名绝国，与三人而为四，死不恨矣"
+  ],
+  "language_type": "游记散文（日记体）",
+  "core_themes": [
+    "自然探索",
+    "实证科学",
+    "超越功利",
+    "人与自然和谐"
+  ],
+  "sources_used": [
+    "baike.baidu.com/item/徐霞客（178655）",
+    "baike.baidu.com/item/徐霞客游记（739945）"
+  ],
+  "source_types": [
+    "historical_record",
+    "personal_essay"
+  ],
+  "sources_count": 2,
+  "notes": "徐霞客为地理学家非诗人，无诗词作品下限要求。语料以传记、游记概述和后世评价为核心。"
+}

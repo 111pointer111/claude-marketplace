@@ -1,0 +1,28 @@
+{
+  "persona_id": "xu_xiake",
+  "name": "徐霞客",
+  "date": "2026-04-26",
+  "sources": [
+    {
+      "source": "baike.baidu.com/item/徐霞客/178655",
+      "type": "historical_record",
+      "content_type": "传记",
+      "characters": 25968
+    },
+    {
+      "source": "baike.baidu.com/item/徐霞客游记/739945",
+      "type": "personal_essay",
+      "content_type": "游记概述",
+      "characters": 10799
+    }
+  ],
+  "corpus_stats": {
+    "total_sources": 2,
+    "total_characters": 36767,
+    "biography_chars": 25968,
+    "works_chars": 10799,
+    "quotes_count": 14,
+    "later_comments_count": 6
+  },
+  "notes": "徐霞客为地理学家非诗人，无诗词作品下限要求。语料以传记和游记概述为主。"
+}
