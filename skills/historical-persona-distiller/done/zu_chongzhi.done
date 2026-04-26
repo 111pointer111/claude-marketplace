@@ -1,0 +1,29 @@
+# 祖冲之 Persona 蒸馏完成标记
+
+persona_id: zu_chongzhi
+人物: 祖冲之
+朝代: 南北朝
+完成时间: 2026-04-26T08:03 UTC
+confidence: medium
+执行时间: 约60分钟
+
+产出文件:
+  - output/zu_chongzhi/SKILL.md
+  - output/zu_chongzhi/README.md
+  - output/zu_chongzhi/METADATA.json
+  - output/zu_chongzhi/CITATIONS.md
+  - output/zu_chongzhi/raw_stats.json
+  - output/zu_chongzhi/EVENTS.md
+  - output/zu_chongzhi/VOICE.md
+  - raw/zu_chongzhi/传记.txt
+  - raw/zu_chongzhi/引语.txt
+  - raw/zu_chongzhi/后世评述.txt
+  - raw/zu_chongzhi/全部语料.txt
+  - raw/zu_chongzhi/raw_stats.json
+  - processed/zu_chongzhi/stages.md
+  - processed/zu_chongzhi/dimension_思想内核.json
+  - processed/zu_chongzhi/dimension_语言特征.json
+  - processed/zu_chongzhi/dimension_表达偏好.json
+  - processed/zu_chongzhi/dimension_立场光谱.json
+  - processed/zu_chongzhi/dimension_voice_profile.json
+  - processed/zu_chongzhi/consistency_check.md

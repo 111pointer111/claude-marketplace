@@ -1,0 +1,27 @@
+{
+  "persona_id": "zu_chongzhi",
+  "name": "祖冲之",
+  "name_full": "祖冲之",
+  "courtesy_name": "文远",
+  "dynasty": "南北朝（南朝宋→南齐）",
+  "birth_year": 429,
+  "death_year": 500,
+  "age_at_death": 72,
+  "origin": "范阳郡遒县（今河北涞水），迁建康（今江苏南京）",
+  "primary_occupations": ["数学家", "天文学家", "机械工程师", "政治家"],
+  "major_achievements": [
+    "圆周率精确到3.1415926-3.1415927（小数第7位）",
+    "《大明历》编撰（461年）",
+    "《缀术》五卷（已失传）",
+    "指南车、千里船、水碓磨等机械发明改良"
+  ],
+  "confidence": "medium",
+  "sources_count": 3,
+  "total_quotes": 14,
+  "total_evaluations": 23,
+  "poetry_count": 0,
+  "is_poet": false,
+  "reason_for_non_poet": "数学家/天文学家/机械工程师，不以诗名为业，无诗词传世",
+  "generation_time": "2026-04-26T08:03:00Z",
+  "generator": "historical-persona-distiller pipeline v1"
+}
