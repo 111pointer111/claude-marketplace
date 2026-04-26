@@ -66,6 +66,7 @@
 | 52 | 祖冲之 | 南北朝 | 2026-04-26 | medium | 60 |
 | 53 | 李冰 | 战国 | 2026-04-26 | medium | 25 |
 | 54 | 郑和 | 明 | 2026-04-26 | high | 25 |
+| 55 | 徐霞客 | 明 | 2026-04-26 | high | 25 |
 ```
 
 **字段说明：**
@@ -80,11 +81,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 徐霞客（明）
-**persona_id：** xu_xiake
-**来源：** backlog #53
-**persona_id：** zheng_he
-**来源：** backlog #52
+**下一待处理：** 秦九韶（南宋）
+**persona_id：** qin_jiushao
+**来源：** backlog #54
 
 ---
 
@@ -611,13 +610,13 @@
 
 ```
 总人物数：     75
-已完成：       54
+已完成：       55
 进行中：       0
-待处理：       21
-完成率：       72%（54/75）
+待处理：       20
+完成率：       73%（55/75）
 
 按 confidence：
-  high：       34
+  high：       35
   medium：     19
   low：        0
 
@@ -630,7 +629,7 @@
   三国：       3 / 3
   清：         4 / 4
   南唐：       1 / 1
-  明：         4 / 5
+  明：         5 / 5
   春秋：       4 / 4
   西汉：       2 / 2
   东汉：       4 / 4
@@ -1496,6 +1495,33 @@
   - raw/zheng_he/郑和七次航行.txt
   - raw/zheng_he/后世评述.txt
   - raw/zheng_he/全部语料.txt
+
+### 2026-04-26
+
+**人物：** 徐霞客
+**执行时间：** 22:04 - 22:29
+**结果：** ✅ 完成
+**confidence：** high
+**遇到的问题：** wikisource.org、ctext.org 等主要古典文献网站无法访问；baike.baidu.com 徐霞客词条可直接访问（ID 178655）；徐霞客为地理学家非诗人，无诗词作品下限要求；语料以百度百科传记（25968字）和游记词条（10799字）为两个主要来源；网络连接正常，git push 成功
+**产出文件：**
+  - output/xu_xiake/SKILL.md
+  - output/xu_xiake/README.md
+  - output/xu_xiake/METADATA.json
+  - output/xu_xiake/CITATIONS.md
+  - output/xu_xiake/raw_stats.json
+  - output/xu_xiake/EVENTS.md
+  - output/xu_xiake/VOICE.md
+  - done/xu_xiake.done
+  - processed/xu_xiake/stages.md
+  - processed/xu_xiake/dimension_思想内核.json
+  - processed/xu_xiake/dimension_语言特征.json
+  - processed/xu_xiake/dimension_表达偏好.json
+  - processed/xu_xiake/dimension_立场光谱.json
+  - processed/xu_xiake/dimension_voice_profile.json
+  - raw/xu_xiake/传记.txt
+  - raw/xu_xiake/引语.txt
+  - raw/xu_xiake/后世评述.txt
+  - raw/xu_xiake/全部语料.txt
 
 ## 五、 backlog.md 同步规则
 
