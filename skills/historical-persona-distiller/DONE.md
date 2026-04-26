@@ -64,6 +64,7 @@
 | 50 | 宋应星 | 明 | 2026-04-26 | medium | 10 |
 | 51 | 张衡 | 东汉 | 2026-04-26 | medium | 25 |
 | 52 | 祖冲之 | 南北朝 | 2026-04-26 | medium | 60 |
+| 53 | 李冰 | 战国 | 2026-04-26 | medium | 25 |
 ```
 
 **字段说明：**
@@ -78,9 +79,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 李冰（战国）
-**persona_id：** li_bing
-**来源：** backlog #51
+**下一待处理：** 郑和（明）
+**persona_id：** zheng_he
+**来源：** backlog #52
 
 ---
 
@@ -607,14 +608,14 @@
 
 ```
 总人物数：     75
-已完成：       52
+已完成：       53
 进行中：       0
-待处理：       23
-完成率：       69%（52/75）
+待处理：       22
+完成率：       71%（53/75）
 
 按 confidence：
   high：       34
-  medium：     18
+  medium：     19
   low：        0
 
 按朝代：
@@ -622,11 +623,11 @@
   北宋：       10 / 10
   南宋：       2 / 2
   晋：         1 / 1
-  战国：       4 / 5
+  战国：       5 / 5
   三国：       3 / 3
   清：         4 / 4
   南唐：       1 / 1
-  明：         4 / 4
+  明：         4 / 5
   春秋：       4 / 4
   西汉：       2 / 2
   东汉：       4 / 4
@@ -1433,6 +1434,36 @@
   - raw/zu_chongzhi/后世评述.txt
   - raw/zu_chongzhi/全部语料.txt
   - raw/zu_chongzhi/raw_stats.json
+
+---
+
+### 2026-04-26
+
+**人物：** 李冰
+**执行时间：** 18:01 - 18:26
+**结果：** ✅ 完成（git push 成功）
+**confidence：** medium
+**遇到的问题：** web_search 多次失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；baike.baidu.com/item/李冰/16547 直接 URL 返回404，改用 baike.baidu.com/item/李冰 自动重定向至正确 ID；李冰为水利工程专家非诗人，无诗词作品下限要求；语料以百度百科（李冰传记19000字+都江堰词条20000字）为两个主要来源；《华阳国志·蜀志》《史记·河渠书》为权威史料；都江堰实体工程可验证其治水理念
+**产出文件：**
+  - output/li_bing/SKILL.md
+  - output/li_bing/README.md
+  - output/li_bing/METADATA.json
+  - output/li_bing/CITATIONS.md
+  - output/li_bing/raw_stats.json
+  - output/li_bing/EVENTS.md
+  - output/li_bing/VOICE.md
+  - done/li_bing.done
+  - processed/li_bing/stages.md
+  - processed/li_bing/dimension_思想内核.json
+  - processed/li_bing/dimension_语言特征.json
+  - processed/li_bing/dimension_表达偏好.json
+  - processed/li_bing/dimension_立场光谱.json
+  - processed/li_bing/dimension_voice_profile.json
+  - processed/li_bing/consistency_check.md
+  - raw/li_bing/传记.txt
+  - raw/li_bing/引语.txt
+  - raw/li_bing/后世评述.txt
+  - raw/li_bing/全部语料.txt
 
 ---
 
