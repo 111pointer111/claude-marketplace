@@ -1,0 +1,80 @@
+{
+  "pid": "li_shi_min",
+  "name": "李世民（唐太宗）",
+  "chineseName": "李世民",
+  "englishName": "Li Shimin / Emperor Taizong",
+  "dynasty": "唐",
+  "lifespan": "598-649",
+  "reignPeriod": "626-649（贞观）",
+  "confidence": "medium-high",
+  "distilledAt": "2026-04-28T04:04:00+08:00",
+  "sources": [
+    {
+      "name": "World History Encyclopedia - Emperor Taizong of Tang",
+      "url": "https://www.worldhistory.org/Emperor_Taizong_of_Tang/",
+      "language": "en",
+      "type": "historical_record"
+    },
+    {
+      "name": "World History Encyclopedia 中文版 - 唐太宗",
+      "url": "https://www.worldhistory.org/trans/zh/1-14436/",
+      "language": "zh",
+      "type": "historical_record"
+    },
+    {
+      "name": "TravelChinaGuide - Emperor Taizong of China Tang Dynasty",
+      "url": "http://www.travelchinaguide.com/intro/history/tang/emperor_taizong.htm",
+      "language": "en",
+      "type": "historical_record"
+    },
+    {
+      "name": "World History Encyclopedia - Emperor Gaozu of Tang",
+      "url": "https://www.worldhistory.org/Emperor_Gaozu_of_Tang/",
+      "language": "en",
+      "type": "commentary",
+      "note": "背景信息，记载高祖与太宗关系"
+    }
+  ],
+  "works": [
+    {
+      "title": "帝范",
+      "type": "political_writings",
+      "description": "皇帝的行为准则，教导太子治国之道"
+    },
+    {
+      "title": "贞观政要",
+      "type": "political_writings",
+      "description": "总结贞观统治经验，成为后世统治者必读参考"
+    }
+  ],
+  "keyEvents": [
+    "玄武门之变（626年）",
+    "贞观之治（626-649年）",
+    "大破东突厥（630年）",
+    "文成公主入藏（634年）",
+    "平定西域（640-648年）"
+  ],
+  "rawFiles": [
+    "raw/li_shi_min/传记.txt",
+    "raw/li_shi_min/引语.txt",
+    "raw/li_shi_min/全部语料.txt"
+  ],
+  "processedFiles": [
+    "processed/li_shi_min/stages.md",
+    "processed/li_shi_min/dimension_思想内核.json",
+    "processed/li_shi_min/dimension_语言特征.json",
+    "processed/li_shi_min/dimension_表达偏好.json",
+    "processed/li_shi_min/dimension_立场光谱.json",
+    "processed/li_shi_min/dimension_一致性校验.json",
+    "processed/li_shi_min/dimension_voice_profile.json"
+  ],
+  "outputFiles": [
+    "output/li_shi_min/SKILL.md",
+    "output/li_shi_min/EVENTS.md",
+    "output/li_shi_min/VOICE.md",
+    "output/li_shi_min/README.md",
+    "output/li_shi_min/METADATA.json",
+    "output/li_shi_min/CITATIONS.md",
+    "output/li_shi_min/raw_stats.json"
+  ]
+}

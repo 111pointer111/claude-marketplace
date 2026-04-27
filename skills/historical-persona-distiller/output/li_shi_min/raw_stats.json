@@ -1,0 +1,49 @@
+{
+  "persona_id": "li_shi_min",
+  "distilled_at": "2026-04-28T04:04:00+08:00",
+  "source_stats": {
+    "primary_sources": [
+      {
+        "name": "World History Encyclopedia - Emperor Taizong of Tang",
+        "url": "https://www.worldhistory.org/Emperor_Taizong_of_Tang/",
+        "language": "en",
+        "word_count": 12000
+      },
+      {
+        "name": "World History Encyclopedia 中文版 - 唐太宗",
+        "url": "https://www.worldhistory.org/trans/zh/1-14436/",
+        "language": "zh",
+        "word_count": 10000
+      },
+      {
+        "name": "TravelChinaGuide - Emperor Taizong of China Tang Dynasty",
+        "url": "http://www.travelchinaguide.com/intro/history/tang/emperor_taizong.htm",
+        "language": "en",
+        "word_count": 3000
+      }
+    ],
+    "background_sources": [
+      {
+        "name": "World History Encyclopedia - Emperor Gaozu of Tang",
+        "url": "https://www.worldhistory.org/Emperor_Gaozu_of_Tang/",
+        "language": "en"
+      }
+    ],
+    "total_word_count": 25000
+  },
+  "extraction_stats": {
+    "direct_quotes": 20,
+    "core_values": 5,
+    "life_stages": 4,
+    "key_events": 5,
+    "works": 2
+  },
+  "output_stats": {
+    "skill_md_lines": 280,
+    "events_md_entries": 20,
+    "citations_entries": 25,
+    "metadata_fields": 15
+  },
+  "confidence": "medium-high",
+  "confidence_rationale": "资料丰富，多源一致，但直接文学作品（诗词）存世较少，主要依据政论著作和历史记载推断语言风格。"
+}
