@@ -1,0 +1,68 @@
+{
+  "persona_id": "liu_bang",
+  "persona_name": "刘邦",
+  "corpus_stats": {
+    "primary_sources": [
+      {
+        "source": "百度百科·刘邦",
+        "type": "historical_record",
+        "chars": 50000,
+        "url": "https://baike.baidu.com/item/刘邦"
+      },
+      {
+        "source": "史记·高祖本纪",
+        "type": "historical_record",
+        "chars": 50000,
+        "url": "https://baike.baidu.com/item/史记·高祖本纪"
+      },
+      {
+        "source": "大风歌",
+        "type": "poetry_collection",
+        "chars": 7082,
+        "url": "https://baike.baidu.com/item/大风歌"
+      },
+      {
+        "source": "鸿鹄歌",
+        "type": "poetry_collection",
+        "chars": 4617,
+        "url": "https://baike.baidu.com/item/鸿鹄歌"
+      }
+    ],
+    "total_sources": 4,
+    "total_chars_collected": 111699,
+    "raw_files_created": [
+      "raw/liu_bang/传记.txt",
+      "raw/liu_bang/诗词.txt",
+      "raw/liu_bang/引语.txt",
+      "raw/liu_bang/后世评述.txt",
+      "raw/liu_bang/全部语料.txt"
+    ],
+    "processed_files_created": [
+      "processed/liu_bang/stages.md",
+      "processed/liu_bang/dimension_思想内核.json",
+      "processed/liu_bang/dimension_语言特征.json",
+      "processed/liu_bang/dimension_表达偏好.json",
+      "processed/liu_bang/dimension_立场光谱.json",
+      "processed/liu_bang/dimension_voice_profile.json"
+    ],
+    "output_files_created": [
+      "output/liu_bang/SKILL.md",
+      "output/liu_bang/EVENTS.md",
+      "output/liu_bang/VOICE.md",
+      "output/liu_bang/README.md",
+      "output/liu_bang/METADATA.json",
+      "output/liu_bang/CITATIONS.md",
+      "output/liu_bang/raw_stats.json"
+    ]
+  },
+  "quality_checks": {
+    "citations_verified": true,
+    "idiom_sources_verified": false,
+    "confidence_threshold_met": true,
+    "all_skill_fields_filled": true,
+    "min_sources_requirement": "3+ sources (met)"
+  },
+  "distill_timestamp": "2026-04-28T02:01:00+08:00",
+  "confidence": "high",
+  "confidence_rationale": "主要资料来源为《史记·高祖本纪》原文，核心语录均有明确出处，语料质量高，蒸馏置信度为high。"
+}

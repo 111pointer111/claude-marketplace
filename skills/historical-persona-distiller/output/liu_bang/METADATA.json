@@ -1,0 +1,44 @@
+{
+  "pid": "liu_bang",
+  "name": "刘邦",
+  "name_en": "Liu Bang (Han Gaozu)",
+  "born": "前256年（或前247年）",
+  "died": "前195年6月1日",
+  "era": "西汉",
+  "titles": [
+    "汉高祖",
+    "汉高帝",
+    "汉太祖",
+    "沛公",
+    "汉王"
+  ],
+  "persona_type": "historical_figure_emperor",
+  "confidence": "high",
+  "distill_date": "2026-04-28",
+  "distill_duration_minutes": 15,
+  "primary_sources": [
+    "《史记·高祖本纪》（司马迁）",
+    "百度百科·刘邦",
+    "《大风歌》原文",
+    "《鸿鹄歌》原文"
+  ],
+  "source_count": 3,
+  "works": [
+    "《大风歌》",
+    "《鸿鹄歌》"
+  ],
+  "key_achievements": [
+    "亡秦灭楚，统一天下",
+    "建立汉朝，延续并巩固大一统",
+    "约法三章，安定民心",
+    "知人善任，重用张良、萧何、韩信"
+  ],
+  "personality_tags": [
+    "知人善任",
+    "务实变通",
+    "豪迈自信",
+    "草根直白",
+    "家国情怀"
+  ],
+  "notes": "刘邦是中国历史上第一位以布衣身份建立大一统王朝的皇帝，其"与天下同利"的政治哲学和"三杰论"的管理智慧对后世有深远影响。"
+}
