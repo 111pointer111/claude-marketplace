@@ -58,6 +58,7 @@
 | 58 | 秦始皇 | 秦 | 2026-04-28 | medium | 5 |
 | 59 | 刘邦 | 汉 | 2026-04-28 | high | 15 |
 | 60 | 李世民 | 唐 | 2026-04-28 | medium-high | 60 |
+| 61 | 武则天 | 唐 | 2026-04-28 | medium-high | 45 |
 | 43 | 张仲景 | 东汉 | 2026-04-25 | high | 20 |
 | 44 | 李时珍 | 明 | 2026-04-25 | medium | 120 |
 | 45 | 沈括 | 北宋 | 2026-04-25 | medium | 60 |
@@ -86,9 +87,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 武则天（唐）
-**persona_id：** wu_zetian
-**来源：** backlog #59
+**下一待处理：** 朱元璋（明）
+**persona_id：** zhu_yuanzhang
+**来源：** backlog #60
 
 ---
 
@@ -615,19 +616,19 @@
 
 ```
 总人物数：     170
-已完成：       55
+已完成：       56
 进行中：       0
-待处理：       115
-完成率：       32%（55/170）
+待处理：       114
+完成率：       33%（56/170）
 
 按 priority：
-  high：       36（已完14）
+  high：       36（已完15）
   medium：     54（已完22）
   low：        80（已完19）
 
 按 confidence：
   high：       36
-  medium：     19
+  medium：     20
   low：        0
 ```
 
@@ -1624,6 +1625,35 @@
   - raw/li_shi_min/传记.txt
   - raw/li_shi_min/引语.txt
   - raw/li_shi_min/全部语料.txt
+
+### 2026-04-28
+
+**人物：** 武则天
+**执行时间：** 06:01 - 06:46
+**结果：** ✅ 完成（git push 成功）
+**confidence：** medium-high
+**遇到的问题：** 武则天为帝王而非诗人，无诗词作品下限要求；web_search 全部失败；baike.baidu.com 直接 URL（/item/武则天）返回404，改用自动重定向至 baike.baidu.com/item/武则天/61872；百度百科传记（49229字）为唯一主要来源，内容极为详尽；其他中国古典文献网站（ctext.org、wikisource.org）均无法访问；世界史和英文百科（worldhistory.org/britannica.com）也无法访问；无一手史料（如《旧唐书》《新唐书》原文）可查，整体语料依赖百度百科二手整理
+**产出文件：**
+  - output/wu_zetian/SKILL.md
+  - output/wu_zetian/README.md
+  - output/wu_zetian/METADATA.json
+  - output/wu_zetian/CITATIONS.md
+  - output/wu_zetian/raw_stats.json
+  - output/wu_zetian/EVENTS.md
+  - output/wu_zetian/VOICE.md
+  - done/wu_zetian.done
+  - processed/wu_zetian/stages.md
+  - processed/wu_zetian/dimension_思想内核.json
+  - processed/wu_zetian/dimension_语言特征.json
+  - processed/wu_zetian/dimension_表达偏好.json
+  - processed/wu_zetian/dimension_立场光谱.json
+  - processed/wu_zetian/dimension_一致性校验.json
+  - processed/wu_zetian/dimension_voice_profile.json
+  - raw/wu_zetian/传记.txt
+  - raw/wu_zetian/引语.txt
+  - raw/wu_zetian/后世评述.txt
+  - raw/wu_zetian/全部语料.txt
+  - raw/wu_zetian/raw_stats.json
 
 ## 五、 backlog.md 同步规则
 
