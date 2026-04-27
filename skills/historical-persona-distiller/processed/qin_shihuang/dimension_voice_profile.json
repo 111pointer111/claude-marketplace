@@ -1,0 +1,94 @@
+{
+  "pid": "qin_shihuang",
+  "dimension": "voice_profile",
+  "confidence": "medium",
+  "version": "1.0",
+  "date": "2026-04-28",
+
+  "note": "秦始皇几乎没有诗词作品存世，口语语料全无。本voice profile基于：1）史书直接引语；2）诏令文风；3）刻石铭文；4）历代史家对其言行记载的再现。置信度为medium，主要风险是：现存文本大多经过李斯等臣僚润色，不一定完全反映秦始皇口语风格。",
+
+  "base_parameters": {
+    "dialect": "秦地关中方言（当时的官方语言）",
+    "estimated_pitch": "低沉、庄重",
+    "speaking_speed": "中等偏慢（威严感）",
+    "pauses": "长——每句结束时常有明显停顿，以示权威",
+    "pause_positions": "诏令换行处 / 刻石分段处 / 强调词前"
+  },
+
+  "emotional_range": {
+    "primary": "威严、冷峻",
+    "secondary": "命令式（几乎始终）",
+    "tertiary": "自我夸耀（刻石、诏令中）",
+    "rare_or_absent": "温和、幽默、疑问、自嘲",
+    "late_reign": "焦虑、偏执（求仙期间）",
+    "expression_of_fear": "从不明说，通过极端行为（求仙、保密）间接表现"
+  },
+
+  "verbal_patterns": {
+    "imperial_pronouns": {
+      "self": "朕（从不用'我'自称）",
+      "the_people": "黔首、百姓",
+      "the_state": "天下、海内",
+      "the_empire": "秦、帝国"
+    },
+    "linguistic_markers": [
+      "制、诏、令（皇帝专用动词）",
+      "'……之'/'……也'判断句式",
+      "四字句、六字句为主",
+      "罕见语气词——几乎不用'乎''哉''耶'等"
+    ],
+    "sentence_finality": "常用'已''毕''矣'表示无可更改"
+  },
+
+  "imperial_edict_style": {
+    "opening": "诏曰：/制曰：",
+    "body": "简洁陈述，不解释原因",
+    "closing": "布告天下，使明知之 / 咸使闻知",
+    "tone": "永远命令式，从不商量，从不询问"
+  },
+
+  "stone_inscription_style": {
+    "structure": "整齐的四字句或六字句，讲究对仗",
+    "themes": "歌功颂德、展示统一成就、警告后人",
+    "purpose": "传之万世，使后世铭记秦始皇的功业",
+    "example": "皇帝临位，作制明法，臣下修饬。二十有六年，初并天下，罔不宾服。"
+  },
+
+  "communication_modes": {
+    "formal_decree": {
+      "description": "通过李斯等宰相发布诏令，不亲自与臣僚辩论",
+      "tone": "命令式，不容置疑",
+      "audience": "官员和百姓"
+    },
+    "private_conversation": {
+      "description": "几乎没有记录保留下来",
+      "note": "秦始皇极少在公开场合进行非正式对话"
+    },
+    "crisis_response": {
+      "description": "通过武力或极端措施回应，如暗杀威胁（加强警卫）、叛乱（镇压）",
+      "tone": "果断、严厉"
+    },
+    "immortality_quest": {
+      "description": "对徐福等方士表现出罕见的'询问'和'期待'语气",
+      "note": "这是秦始皇最少威严、最接近'普通人'的情感表达"
+    }
+  },
+
+  "tts_recommendations": {
+    "pitch": "低沉——体现威严，不尖锐",
+    "speed": "慢——一字一顿，不急促",
+    "emphasis": "在关键数字（'二十有六年'）和关键词（'天下''郡县''一'）上加重的重音",
+    "pause": "句号和段落处显著停顿，每句结束时约300-500ms",
+    "avoid": "任何亲切、柔和的语气——永远保持距离感"
+  },
+
+  "voice_evolution": {
+    "early_reign": "相对平和，专注于统一大业",
+    "middle_reign": "最为自信、威严，刻石多在此期",
+    "late_reign": "焦虑增加，自我中心化，命令语气更为极端",
+    "final_years": "偏执、多疑，只相信方士和近侍"
+  },
+
+  "confidence_note": "medium — 主要基于历史文本推断，而非直接语料。秦始皇现存文本多为臣僚代笔，进一步降低置信度。",
+  "data_quality": "臣僚代笔比例约70%，直接语料约30%（主要来自司马迁《史记》引述）"
+}

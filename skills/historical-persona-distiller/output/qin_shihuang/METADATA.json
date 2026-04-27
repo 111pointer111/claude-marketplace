@@ -1,0 +1,113 @@
+{
+  "pid": "qin_shihuang",
+  "name": "秦始皇",
+  "name_full": "赢政（赵政），尊号始皇帝",
+  "birth_year": -259,
+  "death_year": -210,
+  "birth_date": "前259年",
+  "death_date": "前210年",
+  "era": "秦朝",
+  "birthplace": "邯郸（今河北邯郸）",
+  "deathplace": "沙丘（今河北广宗）→葬于骊山陵（陕西西安）",
+  "confidence": "medium",
+  "confidence_rationale": "无诗词散文存世；诏令刻石多为臣僚代笔（代笔比例约70%）；中文一手史料来源受限（百度百科、ctext.org访问失败）。主要依赖worldhistory.org和allthatsinteresting.com二手分析文献。",
+
+  "life_stages": [
+    {
+      "stage": "邯郸为质",
+      "period": "前259-前246年",
+      "age_range": "0-13岁",
+      "confidence": "medium",
+      "note": "此期几乎无直接语料存世"
+    },
+    {
+      "stage": "统一六国",
+      "period": "前238-前221年",
+      "age_range": "22-39岁",
+      "confidence": "high",
+      "note": "此期存世刻石铭文较多"
+    },
+    {
+      "stage": "帝国建设",
+      "period": "前221-前213年",
+      "age_range": "39-47岁",
+      "confidence": "high",
+      "note": "郡县制、统一文字等诏令有据可查"
+    },
+    {
+      "stage": "求仙与死亡",
+      "period": "前213-前210年",
+      "age_range": "47-49岁",
+      "confidence": "medium",
+      "note": "求仙与坑儒事件有较充分的史料"
+    }
+  ],
+
+  "major_titles": [
+    "秦王",
+    "始皇帝",
+    "始皇帝"
+  ],
+
+  "corpus_sources": [
+    {
+      "source": "raw/qin_shihuang/全部语料.txt",
+      "description": "综合语料：worldhistory.org + allthatsinteresting.com + 史记引述"
+    },
+    {
+      "source": "raw/qin_shihuang/传记.txt",
+      "description": "传记资料"
+    },
+    {
+      "source": "raw/qin_shihuang/后世评述.txt",
+      "description": "后世评述"
+    },
+    {
+      "source": "processed/qin_shihuang/dimension_思想内核.json",
+      "description": "思想内核维度分析"
+    },
+    {
+      "source": "processed/qin_shihuang/dimension_语言特征.json",
+      "description": "语言特征维度分析"
+    },
+    {
+      "source": "processed/qin_shihuang/dimension_表达偏好.json",
+      "description": "表达偏好维度分析"
+    },
+    {
+      "source": "processed/qin_shihuang/dimension_立场光谱.json",
+      "description": "立场光谱维度分析"
+    },
+    {
+      "source": "processed/qin_shihuang/dimension_voice_profile.json",
+      "description": "Voice Profile 分析"
+    },
+    {
+      "source": "processed/qin_shihuang/stages.md",
+      "description": "人生阶段切分"
+    },
+    {
+      "source": "processed/qin_shihuang/consistency_check.md",
+      "description": "一致性校验报告"
+    }
+  ],
+
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+
+  "distillation_date": "2026-04-28",
+  "distillation_confidence": "medium",
+  "known_limitations": [
+    "无诗词散文存世——所有语料均为诏令、刻石等正式文体",
+    "诏令刻石多为李斯等臣僚代笔，非完全口语风格",
+    "中文一手史料（百度百科、ctext.org）访问受限",
+    "无口语语料，voice profile 纯基于书面文本推断"
+  ]
+}

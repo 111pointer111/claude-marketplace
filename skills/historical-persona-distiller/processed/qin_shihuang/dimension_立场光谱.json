@@ -1,0 +1,81 @@
+{
+  "pid": "qin_shihuang",
+  "dimension": "立场光谱",
+  "confidence": "high",
+  "version": "1.0",
+  "date": "2026-04-28",
+
+  "political_spectrum": {
+    "overall": "极端专制（极右翼）",
+    "description": "秦始皇是历史上最典型的绝对君主专制者，其政治立场远在任何'左'/'右'的现代框架之外。如以现代光谱衡量，他处于极右端——主张最强意义上的国家控制、社会控制与思想控制。"
+  },
+
+  "governance_philosophy": {
+    "centralized_authority": "完全集中（10/10）",
+    "legalism_vs_confucianism": "极端法家立场（10/10）",
+    "state_control_of_economy": "极高（统一货币、度量衡、盐铁专营雏形）（9/10）",
+    "military_orientation": "极高（穷兵黩武的军事优先）（9/10）",
+    "reform_vs_tradition": "极端激进——摧毁分封制、焚烧典籍（10/10）"
+  },
+
+  "cultural_policy": {
+    "freedom_of_thought": "零容忍——焚烧诗书百家语，禁私学",
+    "censorship": "全面审查——'以古非今者族'",
+    "tolerance": "极低——异见者处死，连坐株连",
+    "cultural_unity": "强制推行统一文字、语言、度量衡"
+  },
+
+  "social_policy": {
+    "aristocracy": "坚决打击——废除分封，迁徙六国贵族至咸阳",
+    "peasants": "给予小农土地（'令黔首自实田'），但赋税徭役极重",
+    "merchants": "压制——迁徙商人至边远地区",
+    "scholars": "迫害——焚书坑儒（尤其是儒生）"
+  },
+
+  "foreign_policy": {
+    "stance": "扩张主义（征服百越、统一六国）",
+    "nomadic_threats": "强硬防御（修筑长城）",
+    "diplomatic": "不感兴趣——'普天之下莫非王土'，无需外交"
+  },
+
+  "economic_policy": {
+    "market_freedom": "极低——国家控制货币、度量衡",
+    "taxation": "极高——'收泰半之赋'（收取农民收获的三分之二）",
+    "public_works": "超大规模——长城、弛道、灵渠、阿房宫、骊山陵同时进行"
+  },
+
+  "religious_spiritual_policy": {
+    "state_religion": "无明确国教，但以天命（Mandate of Heaven） legitimize 皇权",
+    "spiritual_beliefs": "追求长生不老——炼丹、派徐福求仙",
+    "superstition": "极强——晚年极度迷信方术"
+  },
+
+  "key_positions": {
+    "郡县制 vs 分封制": "坚决支持郡县制，反对分封",
+    "法家 vs 儒家": "极端支持法家，极端压制儒家",
+    "统一 vs 割据": "坚持统一，坚持中央集权",
+    "思想控制 vs 学术自由": "彻底的思想控制",
+    "帝国扩张 vs 和平共处": "积极扩张，南平百越，北击匈奴"
+  },
+
+  "contradictions_and_complexities": {
+    "contradiction_1": {
+      "description": "表面反儒家，实际上在自己的宫廷图书馆收藏了大量儒家典籍",
+      "evidence": "扶苏进谏时指出：'今上皆重法绳之'，但皇帝私人图书馆中存有相同典籍"
+    },
+    "contradiction_2": {
+      "description": "宣称追求长生不老，同时大兴土木役使百姓数百万人",
+      "evidence": "一边求仙药，一边70万工人建骊山陵"
+    },
+    "contradiction_3": {
+      "description": "自称顺应天命，却极度恐惧死亡",
+      "evidence": "自诩天命所归，却因惧怕死亡而滥用汞药，最终死于汞中毒"
+    }
+  },
+
+  "historical_judgment": {
+    "progressiveness": "在制度创新（郡县制、统一文字等）上极为进步",
+    "reactionary": "在思想控制、文化压制上极为反动",
+    "summary": "秦始皇是一个'制度上的革命者，文化上的复古者'——他摧毁了旧制度，却没有能力建立新文化"
+  }
+}

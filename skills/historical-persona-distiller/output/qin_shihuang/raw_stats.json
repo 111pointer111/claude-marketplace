@@ -1,0 +1,75 @@
+{
+  "pid": "qin_shihuang",
+  "distillation_date": "2026-04-28",
+
+  "raw_corpus": {
+    "total_files": 3,
+    "files": [
+      {
+        "filename": "全部语料.txt",
+        "size_bytes": 3236,
+        "type": "merged_corpus"
+      },
+      {
+        "filename": "传记.txt",
+        "size_bytes": 2229,
+        "type": "historical_record"
+      },
+      {
+        "filename": "后世评述.txt",
+        "size_bytes": 1743,
+        "type": "commentary"
+      }
+    ],
+    "total_size_bytes": 7208,
+    "sources_count": 2,
+    "primary_sources": [
+      "World History Encyclopedia — Shi Huangdi",
+      "All That's Interesting — The Life Of Qin Shi Huang"
+    ]
+  },
+
+  "processed_outputs": {
+    "stages_md": true,
+    "dimension_files": [
+      "dimension_思想内核.json",
+      "dimension_语言特征.json",
+      "dimension_表达偏好.json",
+      "dimension_立场光谱.json",
+      "dimension_voice_profile.json"
+    ],
+    "consistency_check": "consistency_check.md"
+  },
+
+  "output_files": {
+    "SKILL_md": true,
+    "EVENTS_md": true,
+    "VOICE_md": true,
+    "README_md": true,
+    "METADATA_json": true,
+    "CITATIONS_md": true,
+    "raw_stats_json": true
+  },
+
+  "citation_stats": {
+    "total_citations": 21,
+    "direct_quotes": 6,
+    "historical_commentary": 6,
+    "traced_descriptions": 9
+  },
+
+  "confidence": {
+    "rating": "medium",
+    "reasons": [
+      "无诗词散文直接语料（诗词0首）",
+      "诏令刻石约70%为臣僚代笔",
+      "中文一手史料来源受限",
+      "无口语语料，voice profile纯书面推断"
+    ],
+    "strengths": [
+      "四个维度高度一致",
+      "所有引语均可溯源",
+      "关键事件时间线清晰"
+    ]
+  }
+}
