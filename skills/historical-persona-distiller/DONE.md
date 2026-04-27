@@ -57,6 +57,7 @@
 | 57 | 裴秀 | 西晋 | 2026-04-27 | high | 15 |
 | 58 | 秦始皇 | 秦 | 2026-04-28 | medium | 5 |
 | 59 | 刘邦 | 汉 | 2026-04-28 | high | 15 |
+| 60 | 李世民 | 唐 | 2026-04-28 | medium-high | 60 |
 | 43 | 张仲景 | 东汉 | 2026-04-25 | high | 20 |
 | 44 | 李时珍 | 明 | 2026-04-25 | medium | 120 |
 | 45 | 沈括 | 北宋 | 2026-04-25 | medium | 60 |
@@ -85,9 +86,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 李世民（唐）
-**persona_id：** li_shi_min
-**来源：** backlog #58
+**下一待处理：** 武则天（唐）
+**persona_id：** wu_zetian
+**来源：** backlog #59
 
 ---
 
@@ -1596,6 +1597,33 @@
   - raw/liu_bang/引语.txt
   - raw/liu_bang/后世评述.txt
   - raw/liu_bang/全部语料.txt
+
+### 2026-04-28
+
+**人物：** 李世民（唐太宗）
+**执行时间：** 04:04 - 05:04
+**结果：** ✅ 完成（git push 成功，retry 1次后连通）
+**confidence：** medium-high
+**遇到的问题：** 李世民为帝王而非诗人，无诗词作品下限要求；语料以 World History Encyclopedia（英汉双语版）、TravelChinaGuide 等多个来源为主；百度百科 baike.baidu.com/item/李世民/8190 意外返回 403，改以 worldhistory.org 为主要来源；玄武门之变、贞观之治等核心事件在多源中高度一致；git push 首次失败（Empty reply from server），sleep 30秒重试成功；第二次失败（credential-gh 警告），但 push 成功
+**产出文件：**
+  - output/li_shi_min/SKILL.md
+  - output/li_shi_min/README.md
+  - output/li_shi_min/METADATA.json
+  - output/li_shi_min/CITATIONS.md
+  - output/li_shi_min/raw_stats.json
+  - output/li_shi_min/EVENTS.md
+  - output/li_shi_min/VOICE.md
+  - done/li_shi_min.done
+  - processed/li_shi_min/stages.md
+  - processed/li_shi_min/dimension_思想内核.json
+  - processed/li_shi_min/dimension_语言特征.json
+  - processed/li_shi_min/dimension_表达偏好.json
+  - processed/li_shi_min/dimension_立场光谱.json
+  - processed/li_shi_min/dimension_一致性校验.json
+  - processed/li_shi_min/dimension_voice_profile.json
+  - raw/li_shi_min/传记.txt
+  - raw/li_shi_min/引语.txt
+  - raw/li_shi_min/全部语料.txt
 
 ## 五、 backlog.md 同步规则
 
