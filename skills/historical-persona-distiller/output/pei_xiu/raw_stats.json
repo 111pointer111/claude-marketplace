@@ -1,0 +1,71 @@
+{
+  "persona_id": "pei_xiu",
+  "timestamp": "2026-04-27T14:05:00Z",
+  "raw_stats": {
+    "sources_collected": [
+      {
+        "source": "百度百科裴秀词条",
+        "url": "https://baike.baidu.com/item/裴秀/733725",
+        "type": "historical_record",
+        "chars": 14803,
+        "quality": "high"
+      },
+      {
+        "source": "《晋书·裴秀传》（房玄龄等撰）",
+        "type": "historical_record",
+        "chars": 4000,
+        "quality": "high"
+      }
+    ],
+    "total_raw_chars": 18803,
+    "files_created": [
+      "raw/pei_xiu/传记.txt (4054 chars)",
+      "raw/pei_xiu/引语.txt (971 chars)",
+      "raw/pei_xiu/后世评述.txt (881 chars)",
+      "raw/pei_xiu/全部语料.txt (2949 chars)"
+    ],
+    "poetry_count": 0,
+    "poetry_note": "裴秀为政治家和地图学家，无诗词传世，《晋诗》载其《大蜡诗》及两篇《新诗》已散佚",
+    "direct_quotes": 10,
+    "evaluation_sources": 3,
+    "works_recorded": [
+      "《禹贡地域图》十八篇",
+      "《地形方丈图》",
+      "《平吴表章》",
+      "《奏事》",
+      "《与山涛书》",
+      "《禹贡九州地域图序》",
+      "《大蜡诗》（已散佚）",
+      "两篇《新诗》（已散佚）"
+    ]
+  },
+  "processed_stats": {
+    "stages_identified": 4,
+    "dimensions_analyzed": 5,
+    "dimensions_files": [
+      "processed/pei_xiu/dimension_思想内核.json",
+      "processed/pei_xiu/dimension_语言特征.json",
+      "processed/pei_xiu/dimension_表达偏好.json",
+      "processed/pei_xiu/dimension_立场光谱.json",
+      "processed/pei_xiu/dimension_一致性校验.json"
+    ],
+    "voice_profile_completed": true
+  },
+  "output_stats": {
+    "output_files": [
+      "output/pei_xiu/SKILL.md",
+      "output/pei_xiu/EVENTS.md",
+      "output/pei_xiu/VOICE.md",
+      "output/pei_xiu/README.md",
+      "output/pei_xiu/METADATA.json",
+      "output/pei_xiu/CITATIONS.md",
+      "output/pei_xiu/raw_stats.json"
+    ]
+  },
+  "quality_check": {
+    "quotes_verified": true,
+    "idioms_verified": "N/A - 无成语典故",
+    "confidence_评级": "high",
+    "all_fields_filled": true
+  }
+}
