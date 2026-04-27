@@ -1,0 +1,21 @@
+{
+  "人物": "武则天",
+  "persona_id": "wu_zetian",
+  "朝代": "唐-武周",
+  "生卒年": "624年-705年",
+  "蒸馏版本": "1.0",
+  "蒸馏日期": "2026-04-28",
+  "overall_confidence": "medium-high",
+  "sources_used_count": 1,
+  "poetry_count": 0,
+  "prose_count": 6,
+  "direct_quote_count": 20,
+  "stages_count": 6,
+  "引用验证": "已通过质量控制检查",
+  "confidence_上限": "medium-high",
+  "confidence_说明": "武则天为帝王非诗人，无诗词作品下限要求；以政治语录和历史记录为语料基础，confidence上限由传记和评述丰富度决定",
+  "抓取来源": [
+    "https://baike.baidu.com/item/武则天/61872"
+  ],
+  "注": "武则天不以诗名为其主要成就，存世作品为诏令、制书等政论文体；百度百科传记约50000字，是最可靠的单一中文来源"
+}

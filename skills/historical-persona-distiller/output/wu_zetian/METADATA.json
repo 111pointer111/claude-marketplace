@@ -1,0 +1,29 @@
+{
+  "人物": "武则天",
+  "persona_id": "wu_zetian",
+  "朝代": "唐-武周",
+  "生卒年": "624年-705年",
+  "蒸馏版本": "1.0",
+  "蒸馏日期": "2026-04-28",
+  "蒸馏耗时_分钟": 45,
+  "overall_confidence": "medium-high",
+  "sources_used_count": 1,
+  "poetry_count": 0,
+  "prose_count": 6,
+  "direct_quote_count": 20,
+  "stages_count": 6,
+  "引用验证": "已通过质量控制检查",
+  "confidence_breakdown": {
+    "阶段一_才人入宫": "low",
+    "阶段二_二度入宫": "medium",
+    "阶段三_二圣临朝": "medium-high",
+    "阶段四_临朝称制": "medium",
+    "阶段五_女皇岁月": "high",
+    "阶段六_退位": "medium"
+  },
+  "核心标签": ["女皇", "铁腕", "务实", "权力意志", "冷酷", "开创性"],
+  "主要身份": "中国历史上唯一的女皇帝、政治家",
+  "来源": [
+    "百度百科武则天传记（https://baike.baidu.com/item/武则天/61872）"
+  ]
+}
