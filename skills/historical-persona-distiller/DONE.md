@@ -55,6 +55,7 @@
 | 41 | 孙子 | 春秋 | 2026-04-25 | high | 55 |
 | 42 | 吴起 | 战国 | 2026-04-25 | medium | 40 |
 | 57 | 裴秀 | 西晋 | 2026-04-27 | high | 15 |
+| 58 | 秦始皇 | 秦 | 2026-04-28 | medium | 5 |
 | 43 | 张仲景 | 东汉 | 2026-04-25 | high | 20 |
 | 44 | 李时珍 | 明 | 2026-04-25 | medium | 120 |
 | 45 | 沈括 | 北宋 | 2026-04-25 | medium | 60 |
@@ -83,9 +84,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 秦始皇（秦）
-**persona_id：** qin_shihuang
-**来源：** backlog #56
+**下一待处理：** 刘邦（汉）
+**persona_id：** liu_bang
+**来源：** backlog #57
 
 ---
 
@@ -1539,6 +1540,33 @@
   - raw/qin_jiushao/引语.txt
   - raw/qin_jiushao/后世评述.txt
   - raw/qin_jiushao/全部语料.txt
+
+### 2026-04-28
+
+**人物：** 秦始皇
+**执行时间：** 00:03 - 00:16
+**结果：** ✅ 完成（git push 成功）
+**confidence：** medium
+**遇到的问题：** 无诗词散文存世；诏令刻石约70%为李斯等臣僚代笔；百度百科、ctext.org 等中文一手史料访问受限（均返回403）；主要依赖 worldhistory.org（Joshua J. Mark, CC BY-NC-SA）和 allthatsinteresting.com 两个英文来源；蒸馏难度高
+**产出文件：**
+  - output/qin_shihuang/SKILL.md
+  - output/qin_shihuang/README.md
+  - output/qin_shihuang/METADATA.json
+  - output/qin_shihuang/CITATIONS.md
+  - output/qin_shihuang/raw_stats.json
+  - output/qin_shihuang/EVENTS.md
+  - output/qin_shihuang/VOICE.md
+  - done/qin_shihuang.done
+  - processed/qin_shihuang/stages.md
+  - processed/qin_shihuang/dimension_思想内核.json
+  - processed/qin_shihuang/dimension_语言特征.json
+  - processed/qin_shihuang/dimension_表达偏好.json
+  - processed/qin_shihuang/dimension_立场光谱.json
+  - processed/qin_shihuang/dimension_voice_profile.json
+  - processed/qin_shihuang/consistency_check.md
+  - raw/qin_shihuang/传记.txt
+  - raw/qin_shihuang/后世评述.txt
+  - raw/qin_shihuang/全部语料.txt
 
 ## 五、 backlog.md 同步规则
 
