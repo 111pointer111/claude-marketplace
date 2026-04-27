@@ -56,6 +56,7 @@
 | 42 | 吴起 | 战国 | 2026-04-25 | medium | 40 |
 | 57 | 裴秀 | 西晋 | 2026-04-27 | high | 15 |
 | 58 | 秦始皇 | 秦 | 2026-04-28 | medium | 5 |
+| 59 | 刘邦 | 汉 | 2026-04-28 | high | 15 |
 | 43 | 张仲景 | 东汉 | 2026-04-25 | high | 20 |
 | 44 | 李时珍 | 明 | 2026-04-25 | medium | 120 |
 | 45 | 沈括 | 北宋 | 2026-04-25 | medium | 60 |
@@ -84,9 +85,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 刘邦（汉）
-**persona_id：** liu_bang
-**来源：** backlog #57
+**下一待处理：** 李世民（唐）
+**persona_id：** li_shi_min
+**来源：** backlog #58
 
 ---
 
@@ -613,18 +614,18 @@
 
 ```
 总人物数：     170
-已完成：       54
+已完成：       55
 进行中：       0
-待处理：       116
-完成率：       32%（54/170）
+待处理：       115
+完成率：       32%（55/170）
 
 按 priority：
-  high：       36（已完13）
+  high：       36（已完14）
   medium：     54（已完22）
   low：        80（已完19）
 
 按 confidence：
-  high：       35
+  high：       36
   medium：     19
   low：        0
 ```
@@ -1567,6 +1568,34 @@
   - raw/qin_shihuang/传记.txt
   - raw/qin_shihuang/后世评述.txt
   - raw/qin_shihuang/全部语料.txt
+
+### 2026-04-28
+
+**人物：** 刘邦
+**执行时间：** 02:01 - 02:16
+**结果：** ✅ 完成（git push 成功，retry 1次后连通）
+**confidence：** high
+**遇到的问题：** 无诗词存世，仅《大风歌》《鸿鹄歌》两首；非诗人，以政治语录和历史叙述为主要语料；baike.baidu.com的传记和史记高祖本纪为主要来源
+**产出文件：**
+  - output/liu_bang/SKILL.md
+  - output/liu_bang/README.md
+  - output/liu_bang/METADATA.json
+  - output/liu_bang/CITATIONS.md
+  - output/liu_bang/raw_stats.json
+  - output/liu_bang/EVENTS.md
+  - output/liu_bang/VOICE.md
+  - done/liu_bang.done
+  - processed/liu_bang/stages.md
+  - processed/liu_bang/dimension_思想内核.json
+  - processed/liu_bang/dimension_语言特征.json
+  - processed/liu_bang/dimension_表达偏好.json
+  - processed/liu_bang/dimension_立场光谱.json
+  - processed/liu_bang/dimension_voice_profile.json
+  - raw/liu_bang/传记.txt
+  - raw/liu_bang/诗词.txt
+  - raw/liu_bang/引语.txt
+  - raw/liu_bang/后世评述.txt
+  - raw/liu_bang/全部语料.txt
 
 ## 五、 backlog.md 同步规则
 
