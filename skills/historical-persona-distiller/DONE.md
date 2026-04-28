@@ -75,7 +75,8 @@
 | 61 | 武则天 | 唐 | 2026-04-28 | medium-high | 45 |
 | 62 | 朱元璋 | 明 | 2026-04-28 | high | 30 |
 | 63 | 刘彻 | 汉 | 2026-04-28 | high | 30 |
-| 64 | 宇文泰 | 北魏/北周 | 2026-04-28 | medium | 30 |**字段说明：**
+| 64 | 宇文泰 | 北魏/北周 | 2026-04-28 | medium | 30 |
+| 65 | 赵匡胤 | 宋 | 2026-04-29 | high | 25 |**字段说明：**
 - `#` — 序号，按完成顺序自动递增
 - `人物` — 姓名
 - `朝代` — 朝代
@@ -87,11 +88,38 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 赵匡胤（宋）
-**persona_id：** zhao_kuangyin
-**来源：** backlog #65
+**下一待处理：** 朱棣（明）
+**persona_id：** zhu_di
+**来源：** backlog #66
 
 ---
+
+### 2026-04-29
+
+**人物：** 赵匡胤（zhao_kuangyin）
+**执行时间：** 00:06 - 00:31
+**结果：** ✅ 完成（git push 成功）
+**confidence：** high
+**产出文件：**
+  - output/zhao_kuangyin/SKILL.md
+  - output/zhao_kuangyin/README.md
+  - output/zhao_kuangyin/METADATA.json
+  - output/zhao_kuangyin/CITATIONS.md
+  - output/zhao_kuangyin/raw_stats.json
+  - output/zhao_kuangyin/EVENTS.md
+  - output/zhao_kuangyin/VOICE.md
+  - done/zhao_kuangyin.done
+  - processed/zhao_kuangyin/stages.md
+  - processed/zhao_kuangyin/dimension_思想内核.json
+  - processed/zhao_kuangyin/dimension_语言特征.json
+  - processed/zhao_kuangyin/dimension_表达偏好.json
+  - processed/zhao_kuangyin/dimension_立场光谱.json
+  - processed/zhao_kuangyin/dimension_voice_profile.json
+  - processed/zhao_kuangyin/consistency_check.md
+  - raw/zhao_kuangyin/传记.txt
+  - raw/zhao_kuangyin/全部语料.txt
+**遇到的问题：** web_search 全部失败；wikisource.org、ctext.org、worldhistory.org、Britannica 等主要古典和英文百科网站均无法访问；改以百度百科赵匡胤传记（49229字）为唯一主要来源；赵匡胤为帝王人物无诗词下限要求，语料以政治语录、历史叙述和君臣对话为主；后世评述跨越宋元明清四朝（含范仲淹、苏轼、程颐、王安石、脱脱、朱元璋、冯梦龙、赵翼、黄仁宇等）；百度百科URL直接访问返回404，改用自动重定向 URL（/item/赵匡胤）成功
+**commit:** 4cf0fa1
 
 ### 2026-04-28
 
@@ -663,18 +691,18 @@
 
 ```
 总人物数：     170
-已完成：       64
+已完成：       65
 进行中：       0
-待处理：       106
-完成率：       38%（64/170）
+待处理：       105
+完成率：       38%（65/170）
 
 按 priority：
   high：       36（已完21）
-  medium：     54（已完27）
+  medium：     54（已完28）
   low：        80（已完16）
 
 按 confidence：
-  high：       37
+  high：       38
   medium：     27
   low：        0
 ```
