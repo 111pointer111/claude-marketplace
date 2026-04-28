@@ -1,0 +1,97 @@
+{
+  "persona_id": "gui_guzi",
+  "raw_stats": {
+    "total_files": 3,
+    "total_characters": 55000,
+    "sources": [
+      {
+        "name": "百度百科鬼谷子（王诩）",
+        "url": "https://baike.baidu.com/item/鬼谷子/7414",
+        "type": "historical_record",
+        "characters": 41646
+      },
+      {
+        "name": "百度百科鬼谷子（著作）",
+        "url": "https://baike.baidu.com/item/鬼谷子/130566",
+        "type": "collected_works",
+        "characters": 30000
+      }
+    ],
+    "citations": {
+      "direct_quotes": 50,
+      "paraphrased": 10
+    },
+    "works_counted": [
+      {
+        "title": "鬼谷子",
+        "chapters": 13,
+        "notes": "十三篇正文完整保存"
+      },
+      {
+        "title": "本经阴符七术",
+        "chapters": 7,
+        "notes": "含于《鬼谷子》体系中"
+      },
+      {
+        "title": "关令尹喜内传",
+        "chapters": 1,
+        "notes": "道教文献"
+      }
+    ],
+    "historical_records": [
+      "《史记·苏秦列传》——明确记载苏秦'习之于鬼谷先生'",
+      "《史记·张仪列传》——明确记载张仪'俱事鬼谷先生学术'",
+      "《历史名人辞典》——'鬼谷先生，苏秦、张仪尝从之学纵横术，孙膑、庞涓学兵法，弟子五百。在世数百年，后不知所终。'",
+      "《文心雕龙》——刘勰'硅谷渺渺，每环奥义'",
+      "《录异记》——杜光庭'鬼谷先生者，古之真仙也'"
+    ],
+    "processing_notes": [
+      "鬼谷子为历史人物，有《史记》明确记载，具体生卒年不详",
+      "后世文献多有神秘化描写，但核心著作《鬼谷子》十三篇保存完整",
+      "无诗词存世，语料以著述原文和后世引述为主",
+      "web_search全部失败，web_fetch多次失败（wikisource.org、ctext.org、worldhistory.org、Britannica均无法访问）",
+      "主要依赖百度百科两个条目（传记41646字+著作30000字）",
+      "语料以论述为主，缺乏诗词等文学性语料",
+      "《鬼谷子》原文约10000字，引语50条，直接引语比例较高"
+    ]
+  },
+  "dimension_stats": {
+    "思想内核": {
+      "themes": 6,
+      "citations": 19
+    },
+    "语言特征": {
+      "linguistic_markers": 4,
+      "examples": 8
+    },
+    "表达偏好": {
+      "patterns": 6,
+      "taboos": 4
+    },
+    "立场光谱": {
+      "stances": 4,
+      "comparisons": 3
+    },
+    "voice_profile": {
+      "characteristics": 5,
+      "sample_phrases": 6
+    }
+  },
+  "output_files": [
+    "SKILL.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json",
+    "EVENTS.md",
+    "VOICE.md"
+  ],
+  "processed_files": [
+    "stages.md",
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "dimension_voice_profile.json"
+  ]
+}

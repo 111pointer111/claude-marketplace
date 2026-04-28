@@ -1,0 +1,81 @@
+{
+  "persona_id": "gui_guzi",
+  "name": "鬼谷子",
+  "title": "王诩、王禅老祖、玄微子",
+  "birth_year": -400,
+  "death_year": -320,
+  "dynasty": "战国（东周）",
+  "region": "卫国（今河南一带）",
+  "persona_type": "zongheng_philosophist",
+  "confidence": "high",
+  "era_description": "春秋战国时期，百家争鸣，纵横家活跃于政治舞台",
+  "sources": [
+    {
+      "name": "百度百科·鬼谷子",
+      "url": "https://baike.baidu.com/item/鬼谷子/7414",
+      "type": "historical_record"
+    },
+    {
+      "name": "百度百科·鬼谷子（著作）",
+      "url": "https://baike.baidu.com/item/鬼谷子/130566",
+      "type": "collected_works"
+    },
+    {
+      "name": "史记·苏秦列传",
+      "type": "historical_record",
+      "note": "明确记载苏秦'习之于鬼谷先生'"
+    },
+    {
+      "name": "史记·张仪列传",
+      "type": "historical_record",
+      "note": "明确记载张仪'俱事鬼谷先生学术'"
+    }
+  ],
+  "key_figures": [
+    {
+      "role": "最出色弟子",
+      "names": ["苏秦", "张仪", "孙膑", "庞涓"]
+    },
+    {
+      "role": "传说弟子",
+      "names": ["茅蒙", "徐福", "毛遂（存疑）", "张良（存疑）"]
+    }
+  ],
+  "key_works": [
+    {
+      "title": "鬼谷子",
+      "description": "纵横家游说经验的总结，十三篇完整保存",
+      "chapters": ["捭阖", "反应", "内揵", "抵巇", "飞箝", "忤合", "揣", "摩", "权", "谋", "决", "符言", "本经阴符七术"]
+    },
+    {
+      "title": "本经阴符七术",
+      "description": "养神蓄锐之道，修心修身"
+    },
+    {
+      "title": "关令尹喜内传",
+      "description": "道教文献"
+    }
+  ],
+  "core_quotes": [
+    "潜谋于无形，常胜于不争不费。",
+    "知之始己，自知而后知人也。",
+    "天下时势，扑朔迷离，神鬼莫测，瞬息万变。圣人知时识势，因而治世；奸贼逆时生势，因而乱世。",
+    "谋定而后动。",
+    "与智者言，依博；与博者言，依辨；与辨者言，依要。",
+    "欲闻其声，反默；欲张，反敛；欲高，反下；欲取，反与。"
+  ],
+  "teaching_legacy": {
+    "su_qin": "佩六国相印，合纵拒秦",
+    "zhang_yi": "两为秦相，连横破合纵",
+    "sun_bin": "围魏救赵，战国名将",
+    "pang_juan": "魏国将军"
+  },
+  "historical_reception": {
+    "positive": ["司马迁", "刘勰", "梁启超", "基辛格"],
+    "negative": ["扬雄", "柳宗元", "宋濂"],
+    "neutral": ["纪晓岚", "阮元"]
+  },
+  "distillation_date": "2026-04-29",
+  "distillation_version": "1.0",
+  "processing_notes": "鬼谷子为历史人物，有《史记》明确记载；具体生卒年不详；后世文献多有神秘化描写；其真实著作《鬼谷子》十三篇保存完整，思想体系清晰；因无诗词存世，语料以著述原文和后世引述为主。"
+}
