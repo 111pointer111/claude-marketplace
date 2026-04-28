@@ -1,0 +1,78 @@
+{
+  "persona_id": "zhang_liang",
+  "name": "张良",
+  "name_extension": "字子房",
+  "era": "战国末年—西汉初年",
+  "lifespan": "约前250年—前186年",
+  "dynasty": "韩国（战国）→ 西汉",
+  "titles": ["留侯", "文成侯"],
+  "nickname": "谋圣",
+  "confidence": "high",
+  "extraction_date": "2026-04-29",
+  "extraction_duration_minutes": 25,
+  "sources_count": 1,
+  "source_types": ["baike_baidu"],
+  "corpus_size_chars": 63921,
+  "biography_chars": 16646,
+  "quotes_count": 33,
+  "commentary_count": 50,
+  "life_stages_count": 5,
+  "output_files": [
+    "SKILL.md",
+    "VOICE.md",
+    "EVENTS.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json",
+    "README.md"
+  ],
+  "processed_files": [
+    "stages.md",
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "dimension_voice_profile.json",
+    "consistency_check.md"
+  ],
+  "raw_files": [
+    "传记.txt",
+    "引语.txt",
+    "后世评述.txt",
+    "全部语料.txt"
+  ],
+  "key_events": [
+    "博浪沙刺秦（前218年）",
+    "圯桥受书（前218-209年）",
+    "归从刘邦（前209年）",
+    "鸿门斗智（前206年）",
+    "下邑之谋（前205年）",
+    "谏阻分封（前204年）",
+    "固陵献策（前202年）",
+    "劝都关中（前202年）",
+    "封雍齿（前201年）",
+    "请商山四皓（前197年）",
+    "功成身退（前201年后）"
+  ],
+  "core_quotes": [
+    "夫运筹策帷帐之中，决胜千里之外，吾不如子房。——刘邦",
+    "孺子可教也。——黄石公",
+    "沛公殆天授。——张良",
+    "他们在商议谋反！——张良",
+    "金城千里，天府之国。——张良",
+    "愿从赤松子游。——张良"
+  ],
+  "historical_significance": "西汉开国功臣，汉初三杰之一，以"运筹帷幄之中，决胜千里之外"著称。辅佐刘邦建立汉朝，功成身退，辟谷修道，是黄老道家的典型实践者。其谋略智慧和全身远害的生存哲学对中国古代政治文化产生了深远影响。",
+  "confidence_breakdown": {
+    "primary_source_quality": "high",
+    "primary_source_coverage": "high",
+    "secondary_interpretation_needed": "low",
+    "overall": "high"
+  },
+  "issues_encountered": [
+    "web_search全部失败",
+    "wikisource.org、ctext.org等主要古典文献网站无法访问",
+    "baike.baidu.com/item/张良/16594直接URL返回404，改用自动重定向URL（/item/张良）成功",
+    "张良为谋略家非诗人，无诗词作品下限要求"
+  ]
+}

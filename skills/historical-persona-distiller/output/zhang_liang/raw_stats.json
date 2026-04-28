@@ -1,0 +1,47 @@
+{
+  "persona_id": "zhang_liang",
+  "date": "2026-04-29",
+  "source": "baike.baidu.com/item/张良",
+  "corpus_stats": {
+    "传记_字符数": 16646,
+    "引语_字符数": 2645,
+    "后世评述_字符数": 3230,
+    "全部语料_字符数": 63921
+  },
+  "content_breakdown": {
+    "传记": {
+      "char_count": 16646,
+      "includes": "百度百科张良传记全文，包含人物生平、历史评价、轶事典故、人际关系、后世纪念等章节"
+    },
+    "引语": {
+      "char_count": 2645,
+      "count": 33,
+      "includes": "张良的直接引语33条，来自《史记》《汉书》"
+    },
+    "后世评述": {
+      "char_count": 3230,
+      "count": 50,
+      "includes": "两汉至近代对张良的历史评价，跨越刘邦、司马迁、班固、诸葛亮、苏轼、司马光、王安石、周恩来等"
+    },
+    "全部语料": {
+      "char_count": 63921
+    }
+  },
+  "quality_flags": {
+    "multiple_sources": false,
+    "multiple_source_count": 1,
+    "primary_source": "baike.baidu.com/item/张良",
+    "poetry_below_threshold": true,
+    "poetry_count": 0,
+    "poetry_threshold": 30,
+    "reason": "张良为谋略家非诗人，无诗词作品存世"
+  },
+  "confidence": "high",
+  "extraction_duration_minutes": 25,
+  "issues": [
+    "web_search全部失败",
+    "wikisource.org、ctext.org等主要古典文献网站无法访问",
+    "baike.baidu.com/item/张良/16594直接URL返回404，改用自动重定向URL成功",
+    "张良为谋略家非诗人，无诗词作品下限要求"
+  ]
+}
