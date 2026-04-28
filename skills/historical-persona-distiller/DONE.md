@@ -74,7 +74,8 @@
 | 60 | 李世民 | 唐 | 2026-04-28 | medium-high | 60 |
 | 61 | 武则天 | 唐 | 2026-04-28 | medium-high | 45 |
 | 62 | 朱元璋 | 明 | 2026-04-28 | high | 30 |
-| 63 | 刘彻 | 汉 | 2026-04-28 | high | 30 |**字段说明：**
+| 63 | 刘彻 | 汉 | 2026-04-28 | high | 30 |
+| 64 | 宇文泰 | 北魏/北周 | 2026-04-28 | medium | 30 |**字段说明：**
 - `#` — 序号，按完成顺序自动递增
 - `人物` — 姓名
 - `朝代` — 朝代
@@ -86,13 +87,28 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 宇文泰（北魏/北周）
-**persona_id：** yuwen_tai
-**来源：** backlog #64
+**下一待处理：** 赵匡胤（宋）
+**persona_id：** zhao_kuangyin
+**来源：** backlog #65
 
 ---
 
-## 三、执行日志
+### 2026-04-28
+
+**人物：** 宇文泰（yuwen_tai）
+**执行时间：** 14:04 - 14:34
+**结果：** ✅ 完成（git push 成功）
+**confidence：** medium
+**产出文件：**
+  - output/yuwen_tai/SKILL.md
+  - output/yuwen_tai/README.md
+  - output/yuwen_tai/METADATA.json
+  - output/yuwen_tai/CITATIONS.md
+  - output/yuwen_tai/raw_stats.json
+  - output/yuwen_tai/EVENTS.md
+  - output/yuwen_tai/VOICE.md
+**遇到的问题：** web_search 全部失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；宇文泰为政治/军事人物无诗词存世，改以百度百科（宇文泰传记40000+字）为唯一主要来源；语料传记极为丰富，直接引语28条，后世评述10+条
+**commit:** 9a86a7a
 
 ### 2026-04-28
 
@@ -647,19 +663,19 @@
 
 ```
 总人物数：     170
-已完成：       56
+已完成：       64
 进行中：       0
-待处理：       114
-完成率：       33%（56/170）
+待处理：       106
+完成率：       38%（64/170）
 
 按 priority：
-  high：       36（已完15）
-  medium：     54（已完22）
-  low：        80（已完19）
+  high：       36（已完21）
+  medium：     54（已完27）
+  low：        80（已完16）
 
 按 confidence：
-  high：       36
-  medium：     20
+  high：       37
+  medium：     27
   low：        0
 ```
 
