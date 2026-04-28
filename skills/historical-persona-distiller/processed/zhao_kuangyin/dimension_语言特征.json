@@ -1,0 +1,46 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "zhao_kuangyin",
+  "version": "1.0",
+  
+  "quantitative_features": {
+    "avg_sentence_length": "短（5-18字为主）",
+    "writing_style_ratio": "白话6:文言4（以通俗白话为主，接近口语）",
+    "high_frequency_chars": ["兵", "民", "国", "天", "下", "法", "将", "城", "取", "战"],
+    "high_frequency_words": ["天下", "皇帝", "兵权", "富贵", "子孙", "读书", "宰相", "江南", "契丹"]
+  },
+  
+  "linguistic_style": {
+    "military_command": {
+      "特征": "极简短句，命令式，无主语，语气果断",
+      "examples": [
+        {"text": "扬州兵敢有过六合的，砍断他们的脚！", "context": "对韩令坤下达军令，防守六合"},
+        {"text": "主上面临险境，我等当拼死一战！", "context": "高平之战，振臂高呼激励将士"}
+      ]
+    },
+    "political_discourse": {
+      "特征": "逻辑清晰，善用对比和比喻，以利益说理而非道德说教",
+      "examples": [
+        {"text": "人生如白驹过隙，追求富贵不过是想多积累金钱，欢乐享受，使子孙不受贫困。", "context": "杯酒释兵权，对石守信等将领"},
+        {"text": "五代方镇残虐，人民深受其害。我让选干练的儒臣百余人，分治大藩，即便都贪浊，也抵不上一个武人。", "context": "对赵普论文臣武将之辨"}
+      ]
+    },
+    "diplomatic_ripostes": {
+      "特征": "简短犀利，一两句话封住对方辩论空间",
+      "examples": [
+        {"text": "既然是父子，为什么在两处吃饭？", "context": "对徐铉论李煜，驳斥其'以小事大如子侍父'"},
+        {"text": "卧榻之侧，岂容他人鼾睡！", "context": "对徐铉，再论征伐南唐"}
+      ]
+    },
+    "benevolent_rhetoric": {
+      "特征": "温和直白，以人情味化解冲突",
+      "examples": [
+        {"text": "王著不过是个酒徒。何况一个书生，就算哭念世宗，又能做什么？", "context": "为王著醉酒思念故主辩护"},
+        {"text": "我接人之位，再要杀人之子，我不忍心。", "context": "拒绝杀周世宗子"}
+      ]
+    }
+  },
+  
+  "overall_confidence": "high",
+  "confidence_basis": "语料包含大量不同场景的直接对话（战场、朝廷、宴席、私谈等），语言风格多样且一致，可量化特征明显"
+}

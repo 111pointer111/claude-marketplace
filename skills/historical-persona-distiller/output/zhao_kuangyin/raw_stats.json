@@ -1,0 +1,40 @@
+{
+  "persona_id": "zhao_kuangyin",
+  "distilled_date": "2026-04-29",
+  "corpus_stats": {
+    "total_raw_chars": 49229,
+    "biography_chars": 45000,
+    "quotes_chars": 3000,
+    "commentary_chars": 1229
+  },
+  "source_stats": {
+    "primary_source": {
+      "name": "百度百科赵匡胤传记",
+      "url": "https://baike.baidu.com/item/赵匡胤/61716",
+      "chars": 49229,
+      "type": "historical_record"
+    }
+  },
+  "content_breakdown": {
+    "direct_quotes": 20,
+    "historical_commentary": 12,
+    "anecdotes": 15,
+    "major_battles": 6,
+    "major_policies": 10
+  },
+  "direct_quotes_by_theme": {
+    "military_command": 3,
+    "political_discourse": 6,
+    "diplomatic_riposte": 3,
+    "benevolent_rhetoric": 4,
+    "statecraft": 4
+  },
+  "life_stages": [
+    {"stage": 1, "name": "军旅崛起", "years": "927-960", "events": 12},
+    {"stage": 2, "name": "建国奠基", "years": "960-963", "events": 8},
+    {"stage": 3, "name": "统一战争", "years": "963-975", "events": 5},
+    {"stage": 4, "name": "制度建设与晚年", "years": "963-976", "events": 10}
+  ],
+  "confidence": "high",
+  "confidence_rationale": "帝王人物无诗词下限要求；语料极为详尽；后世评述跨越宋元明清四朝；政治语录均有直接引语支撑"
+}

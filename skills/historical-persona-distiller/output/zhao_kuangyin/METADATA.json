@@ -1,0 +1,57 @@
+{
+  "persona_id": "zhao_kuangyin",
+  "name": "赵匡胤",
+  "version": "1.0",
+  "confidence": "high",
+  "distilled_date": "2026-04-29",
+  "dynasty": "宋（北宋）",
+  "birth_death": "927-03-21 — 976-11-14",
+  "temple_name": "太祖",
+  "posthumous_title": "英武圣文神德皇帝（初谥）→ 启运立极英武睿文神德圣功至明大孝皇帝（终谥）",
+  "primary_identity": "宋朝开国皇帝",
+  "key_achievements": [
+    "陈桥兵变，黄袍加身，建立北宋（960年）",
+    "杯酒释兵权，以温和方式解除功臣兵权",
+    "先南后北战略，统一南方诸国",
+    "确立中央集权三大纲领：收精兵、削夺权、制钱谷",
+    "完善科举制度，确立殿试常式",
+    "修订《宋刑统》，中国第一部刻板印行法典"
+  ],
+  "key_quotes": [
+    "卧榻之侧，岂容他人鼾睡！",
+    "先南后北、先易后难",
+    "人生如白驹过隙",
+    "我睡不着觉，因为卧床以外都是人家的地盘",
+    "我接人之位，再要杀人之子，我不忍心",
+    "宰相须用读书人！"
+  ],
+  "key_events": [
+    {"year": 954, "event": "高平之战，大破北汉"},
+    {"year": 956, "event": "清流关之战，擒皇甫晖、姚凤"},
+    {"year": 960, "event": "陈桥兵变，黄袍加身，建立北宋"},
+    {"year": 961, "event": "杯酒释兵权"},
+    {"year": 963, "event": "平荆南、湖南"},
+    {"year": 965, "event": "灭后蜀"},
+    {"year": 971, "event": "灭南汉"},
+    {"year": 975, "event": "灭南唐"},
+    {"year": 976, "event": "暴崩于万岁殿"}
+  ],
+  "skill_file": "SKILL.md",
+  "events_file": "EVENTS.md",
+  "voice_file": "VOICE.md",
+  "metadata_file": "METADATA.json",
+  "citations_file": "CITATIONS.md",
+  "raw_stats_file": "raw_stats.json",
+  "readme_file": "README.md",
+  "sources": [
+    {"name": "百度百科赵匡胤传记", "url": "https://baike.baidu.com/item/赵匡胤", "chars": 49229, "type": "historical_record"}
+  ],
+  "source_notes": "帝王人物无诗词下限要求；语料以政治语录、历史叙述、君臣对话为主；后世评述跨越宋元明清四朝",
+  "narrative_quality": "high",
+  "dimension_analysis": {
+    "思想内核": "high",
+    "语言特征": "high",
+    "表达偏好": "high",
+    "立场光谱": "high"
+  }
+}
