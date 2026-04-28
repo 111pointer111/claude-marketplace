@@ -73,7 +73,8 @@
 | 59 | 刘邦 | 汉 | 2026-04-28 | high | 15 |
 | 60 | 李世民 | 唐 | 2026-04-28 | medium-high | 60 |
 | 61 | 武则天 | 唐 | 2026-04-28 | medium-high | 45 |
-| 62 | 朱元璋 | 明 | 2026-04-28 | high | 30 |**字段说明：**
+| 62 | 朱元璋 | 明 | 2026-04-28 | high | 30 |
+| 63 | 刘彻 | 汉 | 2026-04-28 | high | 30 |**字段说明：**
 - `#` — 序号，按完成顺序自动递增
 - `人物` — 姓名
 - `朝代` — 朝代
@@ -85,13 +86,30 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 刘彻（汉）
-**persona_id：** liu_c
-**来源：** backlog #62
+**下一待处理：** 宇文泰（北魏/北周）
+**persona_id：** yuwen_tai
+**来源：** backlog #64
 
 ---
 
 ## 三、执行日志
+
+### 2026-04-28
+
+**人物：** 刘彻（汉武帝）
+**执行时间：** 06:01 - 06:31
+**结果：** ✅ 完成
+**confidence：** high
+**产出文件：**
+  - output/liu_che/SKILL.md
+  - output/liu_che/README.md
+  - output/liu_che/METADATA.json
+  - output/liu_che/CITATIONS.md
+  - output/liu_che/raw_stats.json
+  - output/liu_che/EVENTS.md
+  - output/liu_che/VOICE.md
+**遇到的问题：** web_search 完全失败；大部分 web_fetch 返回 403/404，主要依赖百度百科传记 + 汉书等古典史料
+**commit:** 43e23e0
 
 每次执行后，在此追加一条：
 
