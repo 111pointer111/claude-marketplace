@@ -76,7 +76,10 @@
 | 62 | 朱元璋 | 明 | 2026-04-28 | high | 30 |
 | 63 | 刘彻 | 汉 | 2026-04-28 | high | 30 |
 | 64 | 宇文泰 | 北魏/北周 | 2026-04-28 | medium | 30 |
-| 65 | 赵匡胤 | 宋 | 2026-04-29 | high | 25 |**字段说明：**
+| 65 | 赵匡胤 | 宋 | 2026-04-29 | high | 25 |
+| 66 | 朱棣 | 明 | 2026-04-29 | high | 30 |
+
+**字段说明：**
 - `#` — 序号，按完成顺序自动递增
 - `人物` — 姓名
 - `朝代` — 朝代
@@ -88,11 +91,39 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 朱棣（明）
-**persona_id：** zhu_di
-**来源：** backlog #66
+**下一待处理：** 鬼谷子（战国）
+**persona_id：** gui_guzi
+**来源：** backlog #67
 
 ---
+
+### 2026-04-29
+
+**人物：** 朱棣（zhu_di）
+**执行时间：** 18:01 - 18:31
+**结果：** ✅ 完成（git push 成功）
+**confidence：** high
+**产出文件：**
+  - output/zhu_di/SKILL.md
+  - output/zhu_di/README.md
+  - output/zhu_di/METADATA.json
+  - output/zhu_di/CITATIONS.md
+  - output/zhu_di/raw_stats.json
+  - output/zhu_di/EVENTS.md
+  - output/zhu_di/VOICE.md
+  - done/zhu_di.done
+  - processed/zhu_di/stages.md
+  - processed/zhu_di/dimension_思想内核.json
+  - processed/zhu_di/dimension_语言特征.json
+  - processed/zhu_di/dimension_表达偏好.json
+  - processed/zhu_di/dimension_立场光谱.json
+  - processed/zhu_di/dimension_voice_profile.json
+  - raw/zhu_di/传记.txt
+  - raw/zhu_di/引语.txt
+  - raw/zhu_di/后世评述.txt
+  - raw/zhu_di/全部语料.txt
+**遇到的问题：** web_search 全部失败；wikisource.org、ctext.org、worldhistory.org、Britannica 等主要古典和英文百科网站均无法访问；改以百度百科朱棣传记（49229字）为唯一主要来源；朱棣为帝王人物无诗词下限要求，语料以政治语录、历史叙述和君臣对话为主
+**commit:** f7a9b5c
 
 ### 2026-04-29
 
