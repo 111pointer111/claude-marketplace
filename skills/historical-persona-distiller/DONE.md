@@ -79,6 +79,7 @@
 | 65 | 赵匡胤 | 宋 | 2026-04-29 | high | 25 |
 | 66 | 朱棣 | 明 | 2026-04-29 | high | 30 |
 | 67 | 鬼谷子 | 战国 | 2026-04-29 | high | 25 |
+| 68 | 张良 | 汉 | 2026-04-29 | high | 25 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -92,11 +93,40 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 张良（汉）
-**persona_id：** zhang_liang
-**来源：** backlog #68
+**下一待处理：** 韩信（汉）
+**persona_id：** han_xin
+**来源：** backlog #69
 
 ---
+
+### 2026-04-29
+
+**人物：** 张良（zhang_liang）
+**执行时间：** 06:01 - 06:26
+**结果：** ✅ 完成（git push 成功）
+**confidence：** high
+**产出文件：**
+  - output/zhang_liang/SKILL.md
+  - output/zhang_liang/README.md
+  - output/zhang_liang/METADATA.json
+  - output/zhang_liang/CITATIONS.md
+  - output/zhang_liang/raw_stats.json
+  - output/zhang_liang/EVENTS.md
+  - output/zhang_liang/VOICE.md
+  - done/zhang_liang.done
+  - processed/zhang_liang/stages.md
+  - processed/zhang_liang/dimension_思想内核.json
+  - processed/zhang_liang/dimension_语言特征.json
+  - processed/zhang_liang/dimension_表达偏好.json
+  - processed/zhang_liang/dimension_立场光谱.json
+  - processed/zhang_liang/dimension_voice_profile.json
+  - processed/zhang_liang/consistency_check.md
+  - raw/zhang_liang/传记.txt
+  - raw/zhang_liang/引语.txt
+  - raw/zhang_liang/后世评述.txt
+  - raw/zhang_liang/全部语料.txt
+**遇到的问题：** web_search 全部失败；wikisource.org、ctext.org 等主要古典文献网站无法访问；baike.baidu.com/item/张良/16594 直接 URL 返回404，改用自动重定向 URL（/item/张良）成功；张良为谋略家非诗人，无诗词作品下限要求
+**commit:** a3f83b4
 
 ### 2026-04-29
 
@@ -751,7 +781,7 @@
 
 ```
 总人物数：     170
-已完成：       66
+已完成：       67
 进行中：       0
 待处理：       104
 完成率：       39%（66/170）
