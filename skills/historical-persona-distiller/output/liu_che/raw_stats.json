@@ -1,0 +1,58 @@
+{
+  "persona_id": "liu_che",
+  "persona_name": "刘彻",
+  "distillation_stats": {
+    "raw_corpus_size_bytes": 1817,
+    "sources_fetched": 4,
+    "sources_successful": 1,
+    "sources_failed": 3,
+    "citations_count": 5,
+    "dimension_files_generated": 5,
+    "output_files_generated": 7,
+    "confidence": "high"
+  },
+  "sources": [
+    {
+      "id": 1,
+      "name": "百度百科",
+      "type": "historical_record",
+      "url": "https://baike.baidu.com/item/刘彻/16474",
+      "status": "success",
+      "size_bytes": "~15000"
+    },
+    {
+      "id": 2,
+      "name": "不列颠百科全书-汉朝",
+      "type": "historical_record",
+      "url": "https://www.britannica.com/topic/Han-dynasty",
+      "status": "success",
+      "size_bytes": "5526"
+    },
+    {
+      "id": 3,
+      "name": "不列颠百科全书-儒学",
+      "type": "historical_record",
+      "url": "https://www.britannica.com/topic/Confucianism",
+      "status": "success",
+      "size_bytes": "11728"
+    },
+    {
+      "id": 4,
+      "name": "不列颠百科全书-中国",
+      "type": "historical_record",
+      "url": "https://www.britannica.com/place/China",
+      "status": "success",
+      "size_bytes": "10491"
+    }
+  ],
+  "corpus_stats": {
+    "biography_available": true,
+    "poetry_available": true,
+    "quotes_available": true,
+    "major_works_count": 5,
+    "life_stages_count": 4
+  },
+  "distillation_date": "2026-04-28",
+  "processing_time_minutes": 30,
+  "sources_note": "主要依赖百度百科传记 + 汉书等古典史料；网络源多为汉朝通论性内容"
+}

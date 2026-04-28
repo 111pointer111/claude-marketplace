@@ -1,0 +1,39 @@
+{
+  "persona_id": "liu_che",
+  "name": "刘彻",
+  "era": "西汉",
+  "birth_year": -156,
+  "death_year": -87,
+  "reign_years": {
+    "start": -141,
+    "end": -87,
+    "duration_years": 54
+  },
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "historical_emperor",
+  "sources_count": 4,
+  "key_works": [
+    "轮台诏",
+    "秋风辞",
+    "瓠子之歌",
+    "独尊儒术策问",
+    "推恩令"
+  ],
+  "core_themes": [
+    "大一统帝国",
+    "独尊儒术",
+    "征伐匈奴",
+    "丝绸之路",
+    "推恩令",
+    "轮台罪己",
+    "帝王自我反省"
+  ],
+  "distillation_date": "2026-04-28",
+  "distiller": "openclaw-historical-persona-distiller",
+  "notes": {
+    "sources_note": "主要来源为百度百科传记、明史汉书等古典史料",
+    "confidence_rationale": "刘彻为历史记载极为丰富的帝王，核心文献（轮台诏、秋风辞等）均有明确出处，confidence评级为high",
+    "special_notes": "中国历史上第一个以正式诏令进行自我批评的皇帝，轮台诏具有独特的历史价值"
+  }
+}
