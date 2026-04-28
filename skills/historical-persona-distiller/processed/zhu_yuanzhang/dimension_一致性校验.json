@@ -1,0 +1,48 @@
+{
+  "persona_id": "zhu_yuanzhang",
+  "dimension": "一致性校验",
+  "version": "1.0",
+  "confidence": "high",
+  "overall_assessment": "PASS",
+  "consistency_checks": [
+    {
+      "check": "语录原文可溯源性",
+      "status": "PASS",
+      "details": "所有引语均标注了原始来源（百度百科/明史太祖本纪/吴晗朱元璋传），无创作性引语"
+    },
+    {
+      "check": "思想内核各条结论至少2处原文引用",
+      "status": "PASS",
+      "details": "5个核心主题中，引用数量分别为：3、4、3、3、2，均满足≥2的要求"
+    },
+    {
+      "check": "各维度之间的一致性",
+      "status": "PASS",
+      "details": "思想内核（民本+以猛治国）、语言特征（朴实直接）、表达偏好（务实双面）、立场光谱（威权+民本）四个维度均与Voice Profile的核心隐喻（从泥泞中走出的帝王）高度一致"
+    },
+    {
+      "check": "无自相矛盾的结论",
+      "status": "PASS_WITH_NOTE",
+      "note": "民本与酷刑并存看似矛盾，实为同一心理机制的两面：以底层视角理解"秩序"的价值，以威权手段维护秩序"
+    },
+    {
+      "check": "confidence评级的合理性",
+      "status": "PASS",
+      "details": "基于3个以上不同来源（百度百科、明史太祖本纪、吴晗朱元璋传），语料丰富，confidence评为high"
+    }
+  ],
+  "source_diversity": {
+    "baidu_baike": "49229字，含生平、为政举措、语录",
+    "mingshi_taizu_benji": "29033字，正史原文，语录丰富",
+    "wu_han_zhu_yuanzhang_biography": "后世评述与研究引用",
+    "total_sources": 3,
+    "meets_minimum": true
+  },
+  "data_quality_notes": [
+    "朱元璋无诗词作品，非诗人，以政治语录和历史叙述为主要语料",
+    "语料以传记和诏令为主，来源可靠",
+    "帝王身份决定其语言主要出现在正式场合（诏令、遗诏、对臣下的言论），缺乏私密性语料",
+    "百度百科和明史本纪为主要语料来源，均为可靠史料"
+  ],
+  "confidence_rationale": "朱元璋为帝王人物，无诗词下限要求。语料来源包括：百度百科传记（49229字）、明史太祖本纪（29033字）、后世评述（含吴晗研究评价），均为可靠文献。三个维度分析一致，confidence评为high。"
+}

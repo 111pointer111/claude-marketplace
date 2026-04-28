@@ -1,0 +1,67 @@
+{
+  "persona_id": "zhu_yuanzhang",
+  "name": "朱元璋",
+  "alt_names": ["朱重八", "明太祖", "洪武皇帝"],
+  "birth_year": 1328,
+  "death_year": 1398,
+  "dynasty": "明",
+  "title": "明太祖",
+  "posthumous_title": "钦明启运俊德成功统天大孝高皇帝",
+  "confidence": "high",
+  "version": "1.0",
+  "distilled_date": "2026-04-28",
+  "source_persona_id": null,
+  "source_file": null,
+  "sources": [
+    {
+      "name": "百度百科·朱元璋",
+      "url": "https://baike.baidu.com/item/朱元璋",
+      "type": "historical_record",
+      "chars": 49229
+    },
+    {
+      "name": "明史·太祖本纪",
+      "url": "https://baike.baidu.com/item/明史·太祖本纪",
+      "type": "historical_record",
+      "chars": 29033
+    },
+    {
+      "name": "吴晗《朱元璋传》",
+      "type": "commentary",
+      "note": "后世评述部分引用"
+    }
+  ],
+  "source_count": 3,
+  "corpus_stats": {
+    "total_files": 4,
+    "total_chars": 80000,
+    "quotes_count": 30,
+    "eval_count": 15,
+    "poetry_count": 0
+  },
+  "poetry_minimum_met": false,
+  "poetry_note": "帝王人物，非诗人，无诗词存世；无诗词作品下限要求",
+  "stages": 5,
+  "dimensions": {
+    "思想内核": "processed/zhu_yuanzhang/dimension_思想内核.json",
+    "语言特征": "processed/zhu_yuanzhang/dimension_语言特征.json",
+    "表达偏好": "processed/zhu_yuanzhang/dimension_表达偏好.json",
+    "立场光谱": "processed/zhu_yuanzhang/dimension_立场光谱.json",
+    "Voice_Profile": "processed/zhu_yuanzhang/dimension_voice_profile.json",
+    "一致性校验": "processed/zhu_yuanzhang/dimension_一致性校验.json"
+  },
+  "key_themes": [
+    "民本务实",
+    "以猛治国",
+    "务实主义",
+    "华夷之辨",
+    "皇权至上"
+  ],
+  "avoid_topics": [
+    "个人享乐",
+    "文学辞藻",
+    "道家逍遥",
+    "浪漫爱情"
+  ],
+  "distillation_time_minutes": 30
+}

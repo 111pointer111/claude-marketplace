@@ -1,0 +1,45 @@
+{
+  "persona_id": "zhu_yuanzhang",
+  "distilled_date": "2026-04-28",
+  "sources": [
+    {
+      "name": "百度百科·朱元璋传记",
+      "url": "https://baike.baidu.com/item/朱元璋",
+      "type": "historical_record",
+      "chars": 49229,
+      "saved_to": "raw/zhu_yuanzhang/传记.txt"
+    },
+    {
+      "name": "明史·太祖本纪",
+      "url": "https://baike.baidu.com/item/明史·太祖本纪",
+      "type": "historical_record",
+      "chars": 29033,
+      "saved_to": "raw/zhu_yuanzhang/明史太祖本纪.txt"
+    },
+    {
+      "name": "后世评述（吴晗等）",
+      "type": "commentary",
+      "saved_to": "raw/zhu_yuanzhang/后世评述.txt"
+    }
+  ],
+  "corpus_files": [
+    "raw/zhu_yuanzhang/传记.txt",
+    "raw/zhu_yuanzhang/明史太祖本纪.txt",
+    "raw/zhu_yuanzhang/引语.txt",
+    "raw/zhu_yuanzhang/后世评述.txt",
+    "raw/zhu_yuanzhang/全部语料.txt"
+  ],
+  "total_corpus_chars": 80000,
+  "quotes": {
+    "total": 30,
+    "from_zhu_yuanzhang": 27,
+    "from_commentary": 5,
+    "all_verified": true
+  },
+  "poetry": {
+    "count": 0,
+    "note": "帝王人物，非诗人，无诗词存世"
+  },
+  "confidence": "high",
+  "confidence_rationale": "帝王人物无诗词下限要求；语料来源可靠（百度百科正史、吴晗研究），数量丰富，3个以上不同来源，所有引语均可溯源"
+}

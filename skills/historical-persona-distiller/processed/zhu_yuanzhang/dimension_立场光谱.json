@@ -1,0 +1,84 @@
+{
+  "persona_id": "zhu_yuanzhang",
+  "dimension": "立场光谱",
+  "version": "1.0",
+  "confidence": "high",
+  "summary": "在政治立场上，朱元璋处于"强皇权-民本主义-实用保守"的坐标。他既非理想主义的儒家仁政派（他会用残酷手段镇压反抗），也非法家的纯粹法治派（他始终以"安民"为最高政治目标）。他是一个实用主义的威权统治者，以底层平民视角理解国家治理，在皇权集中和民生休息之间寻求平衡。",
+  "political_spectrum": {
+    "authority_distribution": "极端集中（废除丞相制，权力高度集中于皇帝）",
+    "economic_policy": "休养生息（轻徭薄赋，与民休息）",
+    "social_policy": "等级森严（服饰、礼仪有严格规定）",
+    "ethnic_policy": "强烈汉族中心主义（驱逐胡虏，恢复中华）",
+    "judicial_policy": "严刑峻法（以猛治国，但晚年有意限制酷刑）",
+    "cultural_policy": "保守实用（复兴唐制，反对元代蒙古化）"
+  },
+  "dimension_scores": {
+    "authoritarian_vs_democratic": {
+      "score": 9,
+      "note": "极度威权，废除丞相，皇权不受制约"
+    },
+    "egalitarian_vs_hierarchical": {
+      "score": 3,
+      "note": "政治上等级森严，但经济政策上强调减轻底层农民负担"
+    },
+    "progressive_vs_traditional": {
+      "score": 3,
+      "note": "制度上保守（恢复唐制），但技术引进上务实（翻译阿拉伯天文书籍）"
+    },
+    "militaristic_vs_peaceloving": {
+      "score": 7,
+      "note": "以武功定天下，五征北元；但提倡文治，重视教育科举"
+    },
+    "cosmopolitan_vs_nativist": {
+      "score": 2,
+      "note": "强烈民族主义立场，禁胡语胡服；但对外来科学知识持开放态度"
+    }
+  },
+  "key_positions": [
+    {
+      "issue": "丞相制度",
+      "position": "坚决废除",
+      "evidence": "洪武十三年诛杀胡惟庸，废除中书省，不再设丞相",
+      "rationale": "防止"威福下移"，确保皇权不受分割"
+    },
+    {
+      "issue": "农民政策",
+      "position": "极度保护",
+      "evidence": "减赋税、移民屯田、兴修水利、鼓励垦荒",
+      "rationale": "出身农民，深知疾苦"
+    },
+    {
+      "issue": "官员贪腐",
+      "position": "零容忍",
+      "evidence": "贪污六十两以上者格杀勿论，剥皮揎草等酷刑",
+      "rationale": "对贪官污吏的痛恨源于早年经历"
+    },
+    {
+      "issue": "对外扩张",
+      "position": "防御性保守",
+      "evidence": "《皇明祖训》列出不征之国，强调守成",
+      "rationale": "务实主义，避免过度扩张消耗国力"
+    },
+    {
+      "issue": "知识分子",
+      "position": "既利用又防范",
+      "evidence": "兴建学校、重视科举、礼遇儒士；但设锦衣卫监控",
+      "rationale": "需要文人治理国家，但对其政治忠诚不信任"
+    }
+  ],
+  "internal_tensions": [
+    {
+      "tension": "仁政 vs 酷刑",
+      "description": "一方面对百姓施仁政，另一方面对贪官用重典，诛杀功臣株连甚广"
+    },
+    {
+      "tension": "重用文人 vs 废除相权",
+      "description": "重视儒士、兴办科举，但将文人从权力结构中彻底排除"
+    },
+    {
+      "tension": "恢复汉族文化 vs 实用引进",
+      "description": "坚持"复衣冠如唐制"，但同时翻译引进阿拉伯天文知识"
+    }
+  ],
+  "notes": "朱元璋的政治立场是中国历史上一个独特的"底层威权主义"样本：他的底层出身使他对底层农民抱有真实的同情（而非居高临下的怜悯），但他夺取权力后的第一件事却是建立比前朝更严酷的专制制度。这两者并不矛盾——正是因为亲历了无秩序的混乱（饥荒、战乱），他才将"秩序"和"皇权稳定"视为最高价值。"
+}
