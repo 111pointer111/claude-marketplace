@@ -59,6 +59,7 @@
 | 59 | 刘邦 | 汉 | 2026-04-28 | high | 15 |
 | 60 | 李世民 | 唐 | 2026-04-28 | medium-high | 60 |
 | 61 | 武则天 | 唐 | 2026-04-28 | medium-high | 45 |
+| 60 | 朱元璋 | 明 | 2026-04-28 | high | 30 |
 | 43 | 张仲景 | 东汉 | 2026-04-25 | high | 20 |
 | 44 | 李时珍 | 明 | 2026-04-25 | medium | 120 |
 | 45 | 沈括 | 北宋 | 2026-04-25 | medium | 60 |
@@ -87,9 +88,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 朱元璋（明）
-**persona_id：** zhu_yuanzhang
-**来源：** backlog #60
+**下一待处理：** 康熙（清）
+**persona_id：** kang_xi
+**来源：** backlog #61
 
 ---
 
@@ -1654,6 +1655,35 @@
   - raw/wu_zetian/后世评述.txt
   - raw/wu_zetian/全部语料.txt
   - raw/wu_zetian/raw_stats.json
+
+### 2026-04-28
+
+**人物：** 朱元璋
+**执行时间：** 08:05 - 08:35
+**结果：** ✅ 完成（git push 成功）
+**confidence：** high
+**遇到的问题：** web_search 全部失败；baike.baidu.com 初始 URL /item/朱元璋/165774 返回404，改用 baike.baidu.com/item/朱元璋 自动跳转至正确条目；ctext.org 和 worldhistory.org 均无法访问；最终以百度百科朱元璋传记（49229字）和明史太祖本纪（29033字）为主要来源；吴晗《朱元璋传》作为后世评述参考；帝王人物无诗词下限要求，语料以政治语录和历史叙述为主
+**产出文件：**
+  - output/zhu_yuanzhang/SKILL.md
+  - output/zhu_yuanzhang/README.md
+  - output/zhu_yuanzhang/METADATA.json
+  - output/zhu_yuanzhang/CITATIONS.md
+  - output/zhu_yuanzhang/raw_stats.json
+  - output/zhu_yuanzhang/EVENTS.md
+  - output/zhu_yuanzhang/VOICE.md
+  - done/zhu_yuanzhang.done
+  - processed/zhu_yuanzhang/stages.md
+  - processed/zhu_yuanzhang/dimension_思想内核.json
+  - processed/zhu_yuanzhang/dimension_语言特征.json
+  - processed/zhu_yuanzhang/dimension_表达偏好.json
+  - processed/zhu_yuanzhang/dimension_立场光谱.json
+  - processed/zhu_yuanzhang/dimension_一致性校验.json
+  - processed/zhu_yuanzhang/dimension_voice_profile.json
+  - raw/zhu_yuanzhang/传记.txt
+  - raw/zhu_yuanzhang/明史太祖本纪.txt
+  - raw/zhu_yuanzhang/引语.txt
+  - raw/zhu_yuanzhang/后世评述.txt
+  - raw/zhu_yuanzhang/全部语料.txt
 
 ## 五、 backlog.md 同步规则
 
