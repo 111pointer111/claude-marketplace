@@ -1,0 +1,35 @@
+{
+  "persona_id": "zhu_di",
+  "name": "朱棣",
+  "title": "明成祖",
+  "dynasty": "明朝",
+  "birth_year": 1360,
+  "death_year": 1424,
+  "reign_years": "1402-1424",
+  "era_name": "永乐",
+  "confidence": "high",
+  "persona_type": "historical_emperor",
+  "sources": [
+    {
+      "name": "百度百科·朱棣",
+      "url": "https://baike.baidu.com/item/朱棣/183597",
+      "type": "historical_record"
+    }
+  ],
+  "key_events": [
+    "靖难之役（1399-1402）",
+    "永乐大典编纂（1403-1407）",
+    "郑和下西洋（1405-1433）",
+    "迁都北京（1420-1421）",
+    "五征漠北（1410-1424）"
+  ],
+  "core_quotes": [
+    "朝无正臣，内有奸逆，必举兵诛讨，以清君侧之恶",
+    "为治之道，在于宽猛适中",
+    "未复业者，悉心招抚。新垦田地，停征其税",
+    "逆命者歼除之",
+    "相与和好，朕主中国，可汗主朔漠，彼此永远相安无事"
+  ],
+  "蒸馏日期": "2026-04-29",
+  "蒸馏版本": "1.0"
+}

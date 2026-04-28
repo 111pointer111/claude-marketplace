@@ -1,0 +1,36 @@
+{
+  "persona_id": "zhu_di",
+  "raw_data_stats": {
+    "biography_source": "百度百科·朱棣（明朝第三位皇帝）",
+    "biography_url": "https://baike.baidu.com/item/朱棣/183597",
+    "biography_fetch_date": "2026-04-28",
+    "text_length_chars": 6034,
+    "quotes_count": 16,
+    "historical_events_count": 28,
+    "life_stages_count": 6,
+    "dimensions_completed": 5,
+    "confidence_rating": "high",
+    "sources_used": [
+      "百度百科·朱棣（明朝第三位皇帝）_百度百科"
+    ],
+    "files_created": [
+      "raw/zhu_di/传记.txt",
+      "raw/zhu_di/引语.txt",
+      "raw/zhu_di/后世评述.txt",
+      "raw/zhu_di/全部语料.txt",
+      "processed/zhu_di/stages.md",
+      "processed/zhu_di/dimension_思想内核.json",
+      "processed/zhu_di/dimension_语言特征.json",
+      "processed/zhu_di/dimension_表达偏好.json",
+      "processed/zhu_di/dimension_立场光谱.json",
+      "processed/zhu_di/dimension_voice_profile.json",
+      "output/zhu_di/SKILL.md",
+      "output/zhu_di/EVENTS.md",
+      "output/zhu_di/VOICE.md",
+      "output/zhu_di/README.md",
+      "output/zhu_di/METADATA.json",
+      "output/zhu_di/CITATIONS.md",
+      "output/zhu_di/raw_stats.json"
+    ]
+  }
+}
