@@ -78,6 +78,7 @@
 | 64 | 宇文泰 | 北魏/北周 | 2026-04-28 | medium | 30 |
 | 65 | 赵匡胤 | 宋 | 2026-04-29 | high | 25 |
 | 66 | 朱棣 | 明 | 2026-04-29 | high | 30 |
+| 67 | 鬼谷子 | 战国 | 2026-04-29 | high | 25 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -91,11 +92,39 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 鬼谷子（战国）
-**persona_id：** gui_guzi
-**来源：** backlog #67
+**下一待处理：** 张良（汉）
+**persona_id：** zhang_liang
+**来源：** backlog #68
 
 ---
+
+### 2026-04-29
+
+**人物：** 鬼谷子（gui_guzi）
+**执行时间：** 04:09 - 04:34
+**结果：** ✅ 完成（git push 成功）
+**confidence：** high
+**产出文件：**
+  - output/gui_guzi/SKILL.md
+  - output/gui_guzi/README.md
+  - output/gui_guzi/METADATA.json
+  - output/gui_guzi/CITATIONS.md
+  - output/gui_guzi/raw_stats.json
+  - output/gui_guzi/EVENTS.md
+  - output/gui_guzi/VOICE.md
+  - done/gui_guzi.done
+  - processed/gui_guzi/stages.md
+  - processed/gui_guzi/dimension_思想内核.json
+  - processed/gui_guzi/dimension_语言特征.json
+  - processed/gui_guzi/dimension_表达偏好.json
+  - processed/gui_guzi/dimension_立场光谱.json
+  - processed/gui_guzi/dimension_voice_profile.json
+  - raw/gui_guzi/传记.txt
+  - raw/gui_guzi/引语.txt
+  - raw/gui_guzi/后世评述.txt
+  - raw/gui_guzi/全部语料.txt
+**遇到的问题：** web_search 全部失败；wikisource.org、ctext.org、worldhistory.org、Britannica 等主要网站均无法访问；鬼谷子为思想家非诗人，无诗词下限要求；语料以百度百科鬼谷子传记（41646字）和《鬼谷子》原文（十三篇，约10000字）两个主要来源；历史记载主要依赖《史记》苏秦张仪列传；后世评述跨越汉至现代（司马迁、刘勰、扬雄、纪晓岚、梁启超等）
+**commit:** dc4232e
 
 ### 2026-04-29
 
@@ -722,18 +751,18 @@
 
 ```
 总人物数：     170
-已完成：       65
+已完成：       66
 进行中：       0
-待处理：       105
-完成率：       38%（65/170）
+待处理：       104
+完成率：       39%（66/170）
 
 按 priority：
-  high：       36（已完21）
+  high：       36（已完22）
   medium：     54（已完28）
   low：        80（已完16）
 
 按 confidence：
-  high：       38
+  high：       39
   medium：     27
   low：        0
 ```
