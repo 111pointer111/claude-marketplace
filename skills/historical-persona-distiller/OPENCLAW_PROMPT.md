@@ -26,7 +26,20 @@
 
 **步骤 2：蒸馏（严格按顺序执行全部 6 个 Stage）**
 
-**Stage 1 — 资料采集**
+**Stage 1 — 资料采集（搜索降级策略）**
+
+优先使用以下搜索工具，按顺序尝试：
+
+1. **OpenClaw web_search**（DuckDuckGo）- 每次最多等待 **15 秒**，超时则立即降级
+2. **SerpAPI** via web_fetch：
+   ```
+   https://serpapi.com/search?q={关键词}&api_key=1d1bb1f4098400211edb31a8ba72519711ded57865434ca6d9377fa49ad3edf0&engine=google&gl=cn&hl=zh-CN
+   ```
+   返回 JSON，提取 organic_results 中的 baike.baidu.com 链接
+3. **百度搜索直接抓取**：用 web_fetch 抓 `https://www.baidu.com/s?wd={人物名}+百度百科`，解析搜索结果中的链接
+
+web_search 超时或失败时，不要等待，立刻走降级方案。搜索总耗时不应超过 30 秒。
+
 WebFetch 抓取每个 source URL → 保存到 `raw/{PID}/` → 诗词不足 30 首则补充搜索 → 合并为 `全部语料.txt`
 
 **Stage 2 — 阶段切分**
@@ -132,9 +145,9 @@ git push origin main
 
 ## 错误处理
 
-Stage 执行失败 → 记录到 DONE.md「执行日志」→ 标注"failed，等待人工介入" → 停止本次执行，不要尝试自动修复。
-
-Git 推送失败 → 重试 3 次，每次间隔 2 分钟 → 仍失败 → 记录失败，停止本次执行。
+**搜索超时：** web_search 等待超过 15 秒 → 立即降级到 SerpAPI 或百度搜索，**不要卡住**。
+**搜索失败（连续 2 次）：** 跳过 web_search，直接用 web_fetch 抓百度百科。
+**web_fetch 超时：** 设置单独超时（fetch 不超过 20 秒），超时则换来源。
 
 ---
 
