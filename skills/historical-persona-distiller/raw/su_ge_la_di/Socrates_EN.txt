@@ -1,0 +1,67 @@
+# Socrates - World History Encyclopedia
+# 来源：https://www.worldhistory.org/socrates/
+# 作者：Joshua J. Mark
+# 许可证：CC BY-NC-SA
+# 字数：约39000字
+
+## Socrates
+
+Socrates of Athens (l. c. 470/469-399 BCE) is among the most famous figures in world history for his contributions to the development of ancient Greek philosophy which provided the foundation for all of Western Philosophy. He is, in fact, known as the "Father of Western Philosophy" for this reason.
+
+He was originally a sculptor who seems to have also had a number of other occupations, including soldier, before he was told by the Oracle at Delphi that he was the wisest man in the world. In an effort to prove the oracle wrong, he embarked on a new career of questioning those who were said to be wise and, in doing so, proved the oracle correct: Socrates was the wisest man in the world because he did not claim to know anything of importance.
+
+## Early Life and Career
+
+Socrates was born c. 469/470 BCE to the sculptor Sophronicus and the mid-wife Phaenarete. He studied music, gymnastics, and grammar in his youth (the common subjects of study for a young Greek) and followed his father's profession as a sculptor. Tradition holds that he was an exceptional artist and his statue of the Graces, on the road to the Acropolis, is said to have been admired into the 2nd century CE. Socrates served with distinction in the army and, at the Battle of Potidaea, saved the life of the General Alcibiades.
+
+He married Xanthippe, an upper-class woman, around the age of fifty and had three sons by her. According to contemporary writers such as Xenophon, these boys were incredibly dull and nothing like their father. Socrates seems to have lived a fairly normal life until he was told by the Oracle at Delphi that he was the wisest of men. His challenge to the oracle's claim set him the course that would establish him as a philosopher and the founder of Western Philosophy.
+
+## The Oracle and Socrates
+
+When he was middle-aged, Socrates' friend Chaerephon asked the famous Oracle at Delphi if there was anyone wiser than Socrates, to which the Oracle answered, "None." Bewildered by this answer and hoping to prove the Oracle wrong, Socrates went about questioning people who were held to be 'wise' in their own estimation and that of others. He found, to his dismay, "that the men whose reputation for wisdom stood highest were nearly the most lacking in it, while others who were looked down on as common people were much more intelligent" (Plato, Apology, 22).
+
+The youth of Athens delighted in watching Socrates question their elders in the market and, soon, he had a following of young men who, because of his example and his teachings, would go on to abandon their early aspirations and devote themselves to philosophy (from the Greek 'Philo', love, and 'Sophia', wisdom - literally 'the love of wisdom'). Among these were Antisthenes of Athens (l. c. 445-365 BCE), founder of the Cynic school, Aristippus of Cyrene (l. c. 435-356 BCE), founder of the Cyrenaic school), Xenophon, whose writings would influence Zeno of Citium (l.c. 336-265 BCE) founder of the Stoic school, and, most famously, Plato (the main source of our information of Socrates in his Dialogues) among many others. Every major philosophical school mentioned by ancient writers following Socrates' death was founded by one of his followers.
+
+## Socratic Schools
+
+The diversity of these schools is testimony to Socrates' wide ranging influence and, more importantly, the diversity of interpretations of his teachings. The philosophical concepts taught by Antisthenes and Aristippus could not be more different, in that the former taught that the good life was only realized by self-control and self-abnegation, while the latter claimed a life of pleasure was the only path worth pursuing.
+
+It has been said that Socrates' greatest contribution to philosophy was to move intellectual pursuits away from the focus on 'physical science' (as pursued by the so-called Pre-Socratic Philosophers such as Thales, Anaximander, Anaximenes, and others) and into the abstract realm of ethics and morality. No matter the diversity of the schools which claimed to carry on his teachings, they all emphasized some form of morality as their foundational tenet.
+
+## Socrates and his Vision
+
+However his teachings were interpreted, it seems clear that Socrates' main focus was on how to live a good and virtuous life.
+
+The claim attributed to him by Plato that "an unexamined life is not worth living" (Apology, 38b) seems historically accurate, in that it is clear he inspired his followers to think for themselves instead of following the dictates of society and the accepted superstitions concerning the gods and how one should behave.
+
+While there are differences between Plato's and Xenophon's depictions of Socrates, both present a man who cared nothing for class distinctions or 'proper behavior' and who spoke as easily with women, servants, and slaves as with those of the higher classes.
+
+In ancient Athens, individual behavior was maintained by a concept known as 'Eusebia' which is often translated into English as 'piety' but more closely resembles 'duty' or 'loyalty to a course'. In refusing to conform to the social proprietities proscribed by Eusebia, Socrates angered many of the more important men of the city who could, rightly, accuse him of breaking the law by violating these customs.
+
+## Socrates' Trial
+
+In 399 BCE Socrates was charged with impiety by Meletus the poet, Anytus the tanner, and Lycon the orator who sought the death penalty in the case. The accusation read: "Socrates is guilty, firstly, of denying the gods recognized by the state and introducing new divinities, and, secondly, of corrupting the young."
+
+Socrates' relationship to this regime was through his former student, Critias, who was considered the worst of the tyrants and was thought to have been corrupted by Socrates. It has also been suggested, based in part on interpretations of Plato's dialogue of the Meno, that Anytus blamed Socrates for corrupting his son.
+
+Ignoring the counsel of his friends and refusing the help of the gifted speechwriter Lysias, Socrates chose to defend himself in court. There were no lawyers in ancient Athens and, instead of a solicitor, one would hire a speechwriter.
+
+Socrates defied the Athenian court, proclaiming his innocence and casting himself in the role of Athens' 'gadfly' - a benefactor to them all who, at his own expense, kept them awake and aware. In his Apology, Plato has Socrates say:
+
+> If you put me to death, you will not easily find another who, if I may use a ludicrous comparison, clings to the state as a sort of gadfly to a horse that is large and well-bred but rather sluggish because of its size, so that it needs to be aroused. It seems to me that the god has attached me like that to the state, for I am constantly alighting upon you at every point to arouse, persuade, and reproach each of you all day long. (Apology 30e)
+
+Socrates had no fear of death, proclaiming to the court:
+
+> To fear death, my friends, is only to think ourselves wise without really being wise, for it is to think that we know what we do not know. For no one knows whether death may not be the greatest good that can happen to man. But men fear it as if they knew quite well that it was the greatest of evils. (Apology 29a)
+
+Following this passage, Plato gives Socrates' famous philosophical stand in which the old master defiantly states that he must choose service to the divine over conformity to his society and its expectations:
+
+> Men of Athens, I honor and love you; but I shall obey God rather than you and, while I have life and strength, I shall never cease from the practice and teaching of philosophy, exhorting anyone whom I meet after my manner, and convincing him saying: O my friend, why do you who are a citizen of the great and mighty and wise city of Athens care so much about laying up the greatest amount of money and honor and reputation and so little about wisdom and truth and the greatest improvement of the soul, which you never regard or heed at all? Are you not Ashamed of this? And if the person with whom I am arguing says: Yes, but I do care; I do not depart or let him go at once; I interrogate and examine and cross-examine him, and if I think that he has no virtue, but only says that he has, I reproach him with undervaluing the greater, and overvaluing the less. And this I should say to everyone whom I meet, young and old, citizen and alien, but especially to the citizens, inasmuch as they are my brethren. For this is the command of God, as I would have you know: and I believe that to this day no greater good has ever happened in the state than my service to the God. For I do nothing but go about persuading you all, old and young alike, not to take thought for your persons and your properties, but first and chiefly to care about the greatest improvement of the soul. I tell you that virtue is not given by money, but that from virtue come money and every other good of man, public as well as private. This is my teaching, and if this is the doctrine which corrupts the youth, my influence is ruinous indeed. But if anyone says that this is not my teaching, he is speaking an untruth. Wherefore, O men of Athens, I say to you, do as Anytus bids or not as Anytus bids, and either acquit me or not; but whatever you do, know that I shall never alter my ways, not even if I have to die many times. (29d-30c)
+
+When it came time for Socrates to suggest the penalty to be imposed rather than death, he suggested he should be maintained in honor with free meals in the Prytaneum, a place reserved for heroes of the Olympic games. This would have been considered a serious insult to the honor of the Prytaneum and that of the city of Athens.
+
+## Conviction and Aftermath
+
+Socrates was convicted and sentenced to death. The last days of Socrates are chronicled in Plato's Euthyphro, Apology, Crito and Phaedo, the last dialogue depicting the day of his death (by drinking hemlock) surrounded by his friends in his jail cell in Athens and, as Plato puts it, "Such was the end of our friend, a man, I think, who was the wisest and justest, and the best man I have ever known" (Phaedo, 118).
+
+Socrates' influence was felt immediately in the actions of his disciples as they formed their own interpretations of his life, teachings, and death, and set about forming their own philosophical schools and writing about their experiences with their teacher. Of all these writings we have only the works of Plato, Xenophon, a comic image by Aristophanes, and later works by Aristotle to tell us anything about Socrates' life. He, himself, wrote nothing, but his words and actions in the search for and defense of Truth changed the world and his example still inspires people today.

@@ -1,0 +1,28 @@
+distilled: true
+distilled_at: "2026-04-29T16:10:00+08:00"
+persona_id: su_ge_la_di
+name: 苏格拉底
+name_en: Socrates
+dynasty: 古希腊
+lifespan: "公元前469年—公元前399年"
+confidence: high
+sources_used:
+  - source: "百度百科·苏格拉底"
+    type: historical_record
+    url: "https://baike.baidu.com/item/苏格拉底/12690"
+    status: success
+  - source: "World History Encyclopedia - Socrates"
+    type: historical_record
+    url: "https://www.worldhistory.org/socrates/"
+    status: success
+  - source: "京报网 - 殉道者苏格拉底的一生"
+    type: historical_record
+    url: "https://news.bjd.com.cn/2024/01/22/10683420.shtml"
+    status: success
+search_status:
+  web_search: failed
+  serpapi: success
+  baidu_direct: not_needed
+notes: |
+  web_search (DuckDuckGo) failed; SerpAPI succeeded via web_fetch with Google engine.
+  3 sources successfully fetched; quality checks passed.

@@ -1,0 +1,23 @@
+{
+  "persona_id": "su_ge_la_di",
+  "corpus_stats": {
+    "total_chars": 65900,
+    "quotes_count": 28,
+    "biography_source_1": "百度百科·苏格拉底 (https://baike.baidu.com/item/苏格拉底/12690) ~22000字",
+    "biography_source_2": "World History Encyclopedia - Socrates (https://www.worldhistory.org/socrates/) ~40000字",
+    "biography_source_3": "京报网 - 殉道者苏格拉底的一生 (https://news.bjd.com.cn/2024/01/22/10683420.shtml) ~3900字",
+    "poetry_note": "苏格拉底未留下任何个人著作；无诗词作品。所有语料均来自柏拉图、色诺芬等学生的记录。"
+  },
+  "stages": {
+    "stage_1": "儿时与学徒期（公元前469年—约公元前445年）",
+    "stage_2": "青年与从军期（约公元前445年—公元前433年）",
+    "stage_3": "哲学生涯期（公元前433年—公元前399年）",
+    "stage_4": "审判与死亡（公元前399年）"
+  },
+  "quality_metrics": {
+    "raw_files_created": 4,
+    "processed_files_created": 1,
+    "output_files_created": 7,
+    "total_files": 12
+  }
+}

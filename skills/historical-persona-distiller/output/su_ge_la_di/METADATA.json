@@ -1,0 +1,55 @@
+{
+  "persona_id": "su_ge_la_di",
+  "name": "苏格拉底",
+  "name_en": "Socrates",
+  "dynasty": "古希腊",
+  "lifespan": "公元前469年—公元前399年",
+  "birthplace": "雅典（希腊）",
+  "persona_type": "historical_figure",
+  "persona_version": "1.0",
+  "distilled_at": "2026-04-29T16:10:00+08:00",
+  "distiller": "historical-persona-distiller cron",
+  "sources": [
+    {
+      "source": "百度百科·苏格拉底",
+      "type": "historical_record",
+      "url": "https://baike.baidu.com/item/苏格拉底/12690",
+      "chars": 22000
+    },
+    {
+      "source": "World History Encyclopedia - Socrates",
+      "type": "historical_record",
+      "url": "https://www.worldhistory.org/socrates/",
+      "chars": 40000
+    },
+    {
+      "source": "京报网 - 殉道者苏格拉底的一生",
+      "type": "historical_record",
+      "url": "https://news.bjd.com.cn/2024/01/22/10683420.shtml",
+      "chars": 3900
+    }
+  ],
+  "overall_confidence": "high",
+  "files_generated": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "raw_stats": {
+    "raw_corpus_chars": 65900,
+    "quotes_extracted": 28,
+    "biography_chars": 65900,
+    "poems_count": 0,
+    "poetry_note": "苏格拉底未留下任何个人著作，所有语料均来自柏拉图、色诺芬等人记录，无诗词作品"
+  },
+  "quality_checks": {
+    "quotes_verified": true,
+    "idioms_validated": true,
+    "all_fields_filled": true,
+    "confidence_threshold_met": true
+  }
+}
