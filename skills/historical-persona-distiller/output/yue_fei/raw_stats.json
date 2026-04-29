@@ -1,0 +1,16 @@
+{
+  "人物": "yue_fei",
+  "朝代": "南宋",
+  "诗词数量": 16,
+  "文集数量": 187,
+  "传记": "有（百度百科《岳飞》条目127844完整版+古文岛《宋史》节选）",
+  "直接引语数量": 25,
+  "confidence_上限": "medium",
+  "抓取时间": "2026-04-29T12:12:00+08:00",
+  "sources_used": [
+    "https://baike.baidu.com/item/%E5%B2%B3%E9%A3%9E/127844",
+    "https://baike.baidu.com/item/%E5%B2%B3%E9%A3%9E%E8%AF%97%E8%AF%8D/8986413",
+    "https://m.gushiwen.cn/shiwenv_17c07b00bf0c.aspx",
+    "https://serpapi.com/search?q=%E5%B2%B3%E9%A3%9E+%E4%BC%A0%E9%99%86+%E8%AF%97%E8%AF%8D"
+  ]
+}
