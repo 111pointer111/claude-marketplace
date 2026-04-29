@@ -1,0 +1,92 @@
+{
+  "persona_id": "liu_bowen",
+  "name": "刘基（刘伯温）",
+  "birth_year": 1311,
+  "death_year": 1375,
+  "dynasty": "元末明初",
+  "title": "诚意伯（封），文成（谥）",
+  "primary_identities": [
+    "军事谋略家",
+    "政治家",
+    "文学家",
+    "道家学者"
+  ],
+  "persona_type": "historical_figure",
+  "confidence": "high",
+  "priority": "high",
+  "backlog_number": 71,
+  "persona_id_from_naming": "liu_bowen",
+  "birthplace": "浙江青田南田山武阳村（今文成县）",
+  "key_achievements": [
+    "辅佐朱元璋建立明朝",
+    "制定灭元方略和卫所制度",
+    "参与制定《大明律》",
+    "著《郁离子》《卖柑者言》",
+    "与宋濂、高启并称明初诗文三大家"
+  ],
+  "famous_quotes": [
+    "天道后举者胜，吾以逸待劳，何患不克",
+    "金玉其外，败絮其中",
+    "世有以术使民而无道揆者，其如狙公乎",
+    "为政的要领在宽柔与刚猛循环相济"
+  ],
+  "sources": [
+    {
+      "name": "百度百科·刘基",
+      "url": "https://baike.baidu.com/item/刘基/1426",
+      "type": "historical_record",
+      "char_count": "~16000"
+    },
+    {
+      "name": "百度百科·诚意伯文集",
+      "url": "https://baike.baidu.com/item/诚意伯文集/5982252",
+      "type": "personal_essay",
+      "char_count": "~4000"
+    },
+    {
+      "name": "百度百科·郁离子",
+      "url": "https://baike.baidu.com/item/郁离子/2860400",
+      "type": "personal_essay",
+      "char_count": "~16000"
+    },
+    {
+      "name": "百度百科·卖柑者言",
+      "url": "https://baike.baidu.com/item/卖柑者言/8662636",
+      "type": "poetry_collection",
+      "char_count": "~6000"
+    },
+    {
+      "name": "百度百科·五月十九日大雨",
+      "url": "https://baike.baidu.com/item/五月十九日大雨/7425405",
+      "type": "poetry_collection",
+      "char_count": "~3000"
+    },
+    {
+      "name": "百度百科·梁甫吟",
+      "url": "https://baike.baidu.com/item/梁甫吟/6700432",
+      "type": "poetry_collection",
+      "char_count": "~10000"
+    }
+  ],
+  "corpus_stats": {
+    "total_characters": 35402,
+    "total_lines": 357,
+    "biography_chars": "~16000",
+    "引语_count": 34,
+    "后世评述_count": 27,
+    "poetry_samples": 6,
+    "prose_samples": 5
+  },
+  "distillation_info": {
+    "date": "2026-04-29",
+    "distiller": "OpenClaw Persona Distiller Pipeline",
+    "model": "MiniMax-M2.7",
+    "sources_count": 6,
+    "quality_issues": [
+      "web_search失败（与近期多位人物相同）",
+      "wikisource.org、ctext.org等主要古典文献网站无法访问",
+      "主要依赖百度百科系列作为语料来源",
+      "刘基为军事家/政治家，诗词非主要文体，故无诗词30首下限要求"
+    ]
+  }
+}
