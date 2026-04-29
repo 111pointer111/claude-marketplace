@@ -1,0 +1,57 @@
+{
+  "persona_id": "li_jing",
+  "name": "李靖",
+  "birth_year": 571,
+  "death_year": 649,
+  "age": 79,
+  "dynasty": "唐（隋末唐初）",
+  "字": "药师",
+  "籍贯": "京兆三原（今陕西三原）",
+  "family": "陇西李氏丹杨房",
+  "titles": ["卫国公", "司徒", "并州都督"],
+  "posthumous_title": "景武",
+  "burial": "昭陵",
+  "persona_type": "historical_military",
+  "confidence": "high",
+  "sources_used": [
+    "百度百科·李靖条目（baike.baidu.com/item/李靖/544）",
+    "百度百科·卫公兵法条目（baike.baidu.com/item/卫公兵法/8292474）"
+  ],
+  "corpus_stats": {
+    "total_characters": 47000,
+    "direct_quotes": 25,
+    "biography_length": 41000,
+    "military_thought_length": 6000
+  },
+  "major_achievements": [
+    "平萧铣（621年）——两个月灭南梁",
+    "平辅公祏（623年）——活捉辅公祏",
+    "灭东突厥（630年）——三千精骑擒颉利",
+    "平吐谷浑（635-636年）——两个月灭国"
+  ],
+  "military_thought": [
+    "奇正相变理论",
+    "知己知彼理论",
+    "地形为主理论",
+    "赏罚并重理论"
+  ],
+  "key_battles": [
+    "三峡东下（621年）",
+    "阴山之战（630年）",
+    "乌海追歼（636年）"
+  ],
+  "historical的评价": [
+    "韩擒虎：可与论孙、吴之术者，惟斯人矣",
+    "李渊：古之名将韩、白、卫、霍，岂能及也",
+    "李世民：得李靖为帅，快哉",
+    "宋祁：临机果、料敌明，根于忠智",
+    "蔡东藩：唐初名将，推李靖为第一人"
+  ],
+  "skill_file": "SKILL.md",
+  "voice_profile_file": "VOICE.md",
+  "events_file": "EVENTS.md",
+  "citations_file": "CITATIONS.md",
+  "readme_file": "README.md",
+  "created_date": "2026-04-29",
+  "distiller_version": "1.0"
+}

@@ -1,0 +1,34 @@
+{
+  "persona_id": "li_jing",
+  "raw_stats": {
+    "sources_count": 2,
+    "total_characters": 47000,
+    "biography_chars": 41000,
+    "military_thought_chars": 6000,
+    "direct_quotes_count": 29,
+    "poems_count": 0,
+    "major_sources": [
+      "百度百科·李靖条目（baike.baidu.com/item/李靖/544）",
+      "百度百科·卫公兵法条目（baike.baidu.com/item/卫公兵法/8292474）"
+    ],
+    "files_created": [
+      "raw/li_jing/传记.txt",
+      "processed/li_jing/stages.md",
+      "processed/li_jing/dimension_思想内核.json",
+      "processed/li_jing/dimension_语言特征.json",
+      "processed/li_jing/dimension_表达偏好.json",
+      "processed/li_jing/dimension_立场光谱.json",
+      "processed/li_jing/dimension_voice_profile.json",
+      "output/li_jing/SKILL.md",
+      "output/li_jing/EVENTS.md",
+      "output/li_jing/VOICE.md",
+      "output/li_jing/README.md",
+      "output/li_jing/METADATA.json",
+      "output/li_jing/CITATIONS.md",
+      "output/li_jing/raw_stats.json"
+    ],
+    "poetry_collection_note": "李靖为军事家，无诗词作品存世。语料以军事论述和历史传记为主。",
+    "confidence": "high",
+    "notes": "百度百科为主要来源。卫公兵法已散佚，仅存辑本。李卫公问对可能为宋人伪托。"
+  }
+}
