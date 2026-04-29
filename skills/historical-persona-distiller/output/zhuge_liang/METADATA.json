@@ -1,0 +1,61 @@
+{
+  "persona_id": "zhuge_liang",
+  "name_zh": "诸葛亮",
+  "name_en": "Zhuge Liang (Kongming)",
+  "courtesy_name": "孔明",
+  "nickname": "卧龙",
+  "birth_year": 181,
+  "death_year": 234,
+  "lifespan": 54,
+  "dynasty": "三国蜀汉",
+  "persona_type": "historical_figure",
+  "confidence": "high",
+  "priority": "high",
+  "distilled_at": "2026-04-29",
+  "sources_count": 3,
+  "corpus_stats": {
+    "biography_characters": 59088,
+    "quotes_characters": 28425,
+    "commentary_characters": 28521,
+    "total_corpus_characters": 232068
+  },
+  "text_stats": {
+    "biography_lines": 413,
+    "quotes_lines": 1178,
+    "commentary_lines": 302,
+    "total_lines": 1893
+  },
+  "key_sources": [
+    "百度百科诸葛亮词条 (baike.baidu.com/item/诸葛亮/12367)",
+    "百度百科出师表词条 (baike.baidu.com/item/出师表/76079)",
+    "百度百科后出师表词条"
+  ],
+  "key_texts": [
+    "《前出师表》完整原文",
+    "《后出师表》完整原文",
+    "《诫子书》完整原文",
+    "《隆中对》（节选）完整原文",
+    "《三国志·诸葛亮传》原文引语"
+  ],
+  "historical_significance": "蜀汉丞相，中国古代著名贤相，智慧的象征，忠臣典范",
+  "works": [
+    "前出师表",
+    "后出师表",
+    "诫子书",
+    "诫外甥书",
+    "隆中对",
+    "便宜十六策",
+    "将苑",
+    "兵法辑佚"
+  ],
+  "famous_sayings": [
+    "鞠躬尽瘁，死而后已",
+    "淡泊明志，宁静致远",
+    "开诚心，布公道",
+    "亲贤臣，远小人",
+    "非淡泊无以明志",
+    "非宁静无以致远",
+    "臣本布衣，躬耕于南阳",
+    "受任于败军之际，奉命于危难之间"
+  ]
+}

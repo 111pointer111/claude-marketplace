@@ -1,0 +1,41 @@
+{
+  "persona_id": "zhuge_liang",
+  "name_zh": "诸葛亮",
+  "generated_at": "2026-04-29T12:08:00+08:00",
+  "corpus_stats": {
+    "biography": {
+      "file": "raw/zhuge_liang/传记.txt",
+      "characters": 59088,
+      "lines": 413,
+      "source": "百度百科诸葛亮词条 (baike.baidu.com/item/诸葛亮/12367)"
+    },
+    "quotes": {
+      "file": "raw/zhuge_liang/引语.txt",
+      "characters": 28425,
+      "lines": 1178,
+      "source": "百度百科出师表词条 + 后出师表词条 + 诫子书 + 隆中对 + 三国志引语"
+    },
+    "commentary": {
+      "file": "raw/zhuge_liang/后世评述.txt",
+      "characters": 28521,
+      "lines": 302,
+      "source": "百度百科后世评述"
+    },
+    "total": {
+      "characters": 232068,
+      "lines": 1893,
+      "files_count": 4
+    }
+  },
+  "direct_quotes_count": 42,
+  "source_count": 3,
+  "key_texts": [
+    "《前出师表》完整原文",
+    "《后出师表》完整原文",
+    "《诫子书》完整原文",
+    "《诫外甥书》完整原文",
+    "《隆中对》节选原文"
+  ],
+  "confidence": "high",
+  "notes": "语料极其丰富，核心原文完整可查，历史评价跨越两晋南北朝至近现代共计30+历史人物评语。诸葛亮为军事家/政治家而非诗人，无诗词30首下限要求。"
+}
