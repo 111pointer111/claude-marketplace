@@ -81,6 +81,7 @@
 | 67 | 鬼谷子 | 战国 | 2026-04-29 | high | 25 |
 | 68 | 张良 | 汉 | 2026-04-29 | high | 25 |
 | 69 | 韩信 | 汉 | 2026-04-29 | high | 30 |
+| 70 | 诸葛亮 | 三国蜀 | 2026-04-29 | high | 25 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -94,15 +95,39 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 诸葛亮（三国蜀）
-**persona_id：** zhuge_liang
-**来源：** backlog #70
+**下一待处理：** 刘伯温（liu_bowen）
+**persona_id：** liu_bowen
+**来源：** backlog #71
 
 ---
 
 ### 2026-04-29
 
-**人物：** 韩信（han_xin）
+**人物：** 诸葛亮（zhuge_liang）
+**执行时间：** 12:08 - 12:33
+**结果：** ✅ 完成（git push 成功）
+**confidence：** high
+**产出文件：**
+  - output/zhuge_liang/SKILL.md
+  - output/zhuge_liang/README.md
+  - output/zhuge_liang/METADATA.json
+  - output/zhuge_liang/CITATIONS.md
+  - output/zhuge_liang/raw_stats.json
+  - output/zhuge_liang/EVENTS.md
+  - output/zhuge_liang/VOICE.md
+  - done/zhuge_liang.done
+  - processed/zhuge_liang/stages.md
+  - processed/zhuge_liang/dimension_思想内核.json
+  - processed/zhuge_liang/dimension_语言特征.json
+  - processed/zhuge_liang/dimension_表达偏好.json
+  - processed/zhuge_liang/dimension_立场光谱.json
+  - processed/zhuge_liang/dimension_voice_profile.json
+  - raw/zhuge_liang/传记.txt
+  - raw/zhuge_liang/引语.txt
+  - raw/zhuge_liang/后世评述.txt
+  - raw/zhuge_liang/全部语料.txt
+**遇到的问题：** web_search 全部失败（与近期多位人物相同）；wikisource.org、ctext.org 等主要古典文献网站无法访问；baike.baidu.com/item/诸葛亮/12367 可直接访问（ID正确）；诸葛亮为军事家/政治家而非诗人，无诗词30首下限要求；语料极为丰富（传记59K字、引语28K字、评述28K字，总计232K字），核心原文（《前出师表》《后出师表》《诫子书》《隆中对》）均有完整原文
+**commit:** 8db940a
 **执行时间：** 08:06 - 08:30
 **结果：** ✅ 完成（git push 成功）
 **confidence：** high
@@ -808,10 +833,10 @@
 
 ```
 总人物数：     170
-已完成：       67
+已完成：       70
 进行中：       0
-待处理：       104
-完成率：       39%（66/170）
+待处理：       101
+完成率：       41%（69/170）
 
 按 priority：
   high：       36（已完22）
