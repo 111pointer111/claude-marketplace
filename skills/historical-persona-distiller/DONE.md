@@ -90,6 +90,7 @@
 | 75 | 裴秀 | 西晋 | 2026-04-29 | medium | 25 |
 | 76 | 苏格拉底 | 古希腊 | 2026-04-29 | high | 30 |
 | 77 | 柏拉图 | 古希腊 | 2026-04-30 | medium | 60 |
+| 78 | 亚里士多德 | 古希腊 | 2026-04-30 | A | 25 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -103,28 +104,29 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 亚里士多德（ya_li_shi_duo_de）
-**persona_id：** ya_li_shi_duo_de
-**来源：** backlog #78
+**下一待处理：** 伊壁鸠鲁（yi_bi_jiu_lu）
+**persona_id：** yi_bi_jiu_lu
+**来源：** backlog #79
 
 
 ## 四、统计概览
 
 ```
 总人物数：     170
-已完成：       77
+已完成：       78
 进行中：       0
-待处理：       94
-完成率：       45%（77/170）
+待处理：       93
+完成率：       46%（78/170）
 
 按 priority：
-  high：       36（已完25）
+  high：       36（已完26）
   medium：     54（已完28）
   low：        80（已完16）
 
 按 confidence：
   high：       41
   medium：     27
+  A：           1
   low：        0
 ```
 
@@ -1312,3 +1314,22 @@
 **耗时：** 约60分钟
 **备注：** 柏拉图为古希腊哲学家，无诗词作品，无诗词下限要求；语料以哲学对话录和传记为核心；柏拉图通过对话形式表达思想，其本人立场需从对话张力中推断；voice profile 基于推测而非实测（古希腊语无音频留存）；git push 持续失败，记录于此，次日待网络恢复后重试。
 
+
+### 2026-04-30 亚里士多德（ya_li_shi_duo_de）蒸馏记录
+
+**web_search：** ✅ 成功（直接连通 DuckDuckGo）
+**SerpAPI：** 未启用（web_search 成功）
+**web_fetch：** ✅ 成功（多个来源）
+
+**最终来源：**
+1. 百度百科·亚里士多德（baike.baidu.com/item/亚里士多德/20711）— 传记（80000字）
+2. World History Encyclopedia - Aristotle（worldhistory.org/aristotle/）— 传记英文（15000字）
+3. Stanford Encyclopedia of Philosophy - Aristotle（plato.stanford.edu/entries/aristotle/）— 学术评论（50000字）
+4. MIT Internet Classics Archive - Nicomachean Ethics（classics.mit.edu/Aristotle/nicomachaen.html）— 《尼各马可伦理学》原文
+5. MIT Internet Classics Archive - Poetics（classics.mit.edu/Aristotle/poetics.html）— 《诗学》原文
+
+**git push 情况：** ✅ 成功（首次连接 GitHub 失败，retry 1次后成功）
+
+**confidence：** A
+**耗时：** 约25分钟
+**备注：** 亚里士多德为古希腊哲学家，无诗词作品，无诗词下限要求；语料以哲学论文和传记为核心；主要作品为《尼各马可伦理学》《诗学》《形而上学》等；康德在《纯粹理性批判》中评价亚里士多德逻辑学"两千多年来未向前迈出一步"；西塞罗称其散文为"流动的黄金"；Stanford Encyclopedia 评价其散文风格"不加修饰的直接性"；亚里士多德与柏拉图、苏格拉底并称希腊三大哲学家，影响延伸至伊斯兰黄金时代、基督教经院哲学、文艺复兴和启蒙运动。
