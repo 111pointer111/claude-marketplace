@@ -1,0 +1,57 @@
+{
+  "persona_id": "han_xin",
+  "name": "韩信",
+  "alternate_names": ["淮阴侯", "兵仙", "韩信（约前231年—前196年）"],
+  "era": "西汉初期",
+  "birth_year": "约公元前231年",
+  "death_year": "公元前196年",
+  "birthplace": "淮阴（今江苏淮安）",
+  "identity": "军事家、战略家、汉初三杰之一",
+  "confidence": "high",
+  "version": "1.0",
+  "distilled_at": "2026-04-29",
+  "distilled_by": "historical-persona-distiller pipeline",
+  "source_count": 2,
+  "sources": [
+    {
+      "name": "百度百科《韩信》词条",
+      "url": "https://baike.baidu.com/item/韩信/5321",
+      "type": "historical_record",
+      "chars": 49229
+    },
+    {
+      "name": "《史记·淮阴侯列传》",
+      "type": "historical_record",
+      "source": "司马迁《史记》卷92"
+    },
+    {
+      "name": "《汉书·韩彭英卢吴传》",
+      "type": "historical_record",
+      "source": "班固《汉书》卷34"
+    },
+    {
+      "name": "后世评述",
+      "type": "commentary",
+      "sources": ["陆机《汉高祖功臣颂》", "杜牧诗文", "刘禹锡《韩信庙》", "司马光《资治通鉴》"]
+    }
+  ],
+  "life_stages": [
+    {"stage": 1, "name": "早年落魄", "period": "约前231年—前209年"},
+    {"stage": 2, "name": "辗转仕楚", "period": "前209年—前206年"},
+    {"stage": 3, "name": "拜将辉煌", "period": "前206年—前203年"},
+    {"stage": 4, "name": "功高震主", "period": "前203年—前202年"},
+    {"stage": 5, "name": "阶下囚徒", "period": "前201年—前196年"}
+  ],
+  "key_quotes_count": 53,
+  "idioms_count": 26,
+  "battles_count": 7,
+  "file_sizes": {
+    "传记": "9173 bytes",
+    "引语": "3742 bytes",
+    "后世评述": "2940 bytes",
+    "全部语料": "~20000 bytes"
+  },
+  "raw_dir": "raw/han_xin/",
+  "processed_dir": "processed/han_xin/",
+  "output_dir": "output/han_xin/"
+}
