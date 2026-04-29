@@ -1,0 +1,41 @@
+{
+  "persona_id": "ya_li_shi_duo_de",
+  "zh_name": "亚里士多德",
+  "en_name": "Aristotle",
+  "birth_year": -384,
+  "death_year": -322,
+  "origin": "Stagira, Macedon (modern-day Greece)",
+  "era": "Ancient Greece",
+  "confidence": "A",
+  "sources_count": 5,
+  "sources": [
+    "World History Encyclopedia (https://www.worldhistory.org/aristotle/)",
+    "Stanford Encyclopedia of Philosophy (https://plato.stanford.edu/entries/aristotle/)",
+    "MIT Internet Classics Archive - Nicomachean Ethics",
+    "MIT Internet Classics Archive - Poetics",
+    "Baidu Baike (https://baike.baidu.com/item/亚里士多德/20711)"
+  ],
+  "distilled_date": "2026-04-29",
+  "skills_generated": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "raw_files": [
+    "raw/ya_li_shi_duo_de/传记.txt",
+    "raw/ya_li_shi_duo_de/引语.txt",
+    "raw/ya_li_shi_duo_de/后世评述.txt"
+  ],
+  "processed_files": [
+    "processed/ya_li_shi_duo_de/stages.md",
+    "processed/ya_li_shi_duo_de/dimension_思想内核.json",
+    "processed/ya_li_shi_duo_de/dimension_语言特征.json",
+    "processed/ya_li_shi_duo_de/dimension_表达偏好.json",
+    "processed/ya_li_shi_duo_de/dimension_立场光谱.json",
+    "processed/ya_li_shi_duo_de/dimension_voice_profile.json"
+  ]
+}
