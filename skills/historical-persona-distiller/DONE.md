@@ -85,6 +85,7 @@
 | 71 | 刘伯温 | 明 | 2026-04-29 | high | 45 |
 
 | 72 | 李靖 | 唐 | 2026-04-29 | high | 30 |
+| 73 | 郭子仪 | 唐 | 2026-04-29 | high | 15 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -98,9 +99,35 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 郭子仪（guo_ziyi）
-**persona_id：** guo_ziyi
-**来源：** backlog #73
+**下一待处理：** 岳飞（yue_fei）
+**persona_id：** yue_fei
+**来源：** backlog #74
+
+---
+
+### 2026-04-29
+
+**人物：** 郭子仪（guo_ziyi）
+**执行时间：** 18:01 - 18:16
+**结果：** ✅ 完成（git push 成功）
+**confidence：** high
+**web_search：** ❌ 失败（DuckDuckGo 无结果）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调用百度搜索）
+**最终来源：** 百度百科《郭子仪》（~50000字）+ 国学典籍网白话新唐书《郭子仪传》（~8000字）
+**产出文件：**
+  - output/guo_ziyi/SKILL.md（主文件）
+  - output/guo_ziyi/EVENTS.md（生平图谱）
+  - output/guo_ziyi/VOICE.md（声音特征）
+  - output/guo_ziyi/METADATA.json
+  - output/guo_ziyi/CITATIONS.md（原文引用）
+  - output/guo_ziyi/raw_stats.json
+  - processed/guo_ziyi/stages.md（阶段切分）
+  - processed/guo_ziyi/dimension_思想内核.json
+  - processed/guo_ziyi/dimension_语言特征.json
+  - processed/guo_ziyi/dimension_表达偏好.json
+  - processed/guo_ziyi/dimension_立场光谱.json
+  - processed/guo_ziyi/consistency_check.md
+  - raw/guo_ziyi/全部语料.txt
 
 ---
 
