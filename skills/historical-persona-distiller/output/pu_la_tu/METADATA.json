@@ -1,0 +1,43 @@
+{
+  "persona_id": "pu_la_tu",
+  "persona_name_cn": "柏拉图",
+  "persona_name_en": "Plato",
+  "dynasty": "古希腊",
+  "lifespan": "约前429年-前347年",
+  "distilled_at": "2026-04-29T18:01:00+08:00",
+  "distill_version": "1.0",
+  "overall_confidence": "medium",
+  "sources_count": 5,
+  "sources": [
+    {"name": "百度百科：柏拉图", "url": "https://baike.baidu.com/item/柏拉图/9076", "type": "historical_record"},
+    {"name": "World History Encyclopedia: Plato", "url": "https://worldhistory.org/plato/", "type": "historical_record"},
+    {"name": "Stanford Encyclopedia of Philosophy: Plato", "url": "https://plato.stanford.edu/entries/plato/", "type": "commentary"},
+    {"name": "MIT Internet Classics Archive: Apology", "url": "https://classics.mit.edu/Plato/apology.html", "type": "poetry_collection"},
+    {"name": "MIT Internet Classics Archive: Phaedo", "url": "https://classics.mit.edu/Plato/phaedo.html", "type": "poetry_collection"}
+  ],
+  "raw_corpus_stats": {
+    "biography_chars": 4024,
+    "quotes_count": 19,
+    "commentary_chars": 3188,
+    "total_corpus_chars": 9286
+  },
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "CITATIONS.md",
+    "METADATA.json",
+    "raw_stats.json"
+  ],
+  "confidence_breakdown": {
+    "思想内核": "high",
+    "语言特征": "medium",
+    "表达偏好": "high",
+    "立场光谱": "medium",
+    "voice_profile": "medium",
+    "stages": "high"
+  },
+  "notes": "由于柏拉图原著为古希腊语，现有中文翻译为转译（英译本→中文），存在信息损耗；柏拉图通过对话形式表达思想，其本人立场需从对话张力中推断；古希腊语发音资料有限，voice profile 基于推测而非实测。",
+  "search_strategy_used": "1. web_fetch直接抓取多个百科和学术网站成功；2. web_search失败（超时）；3. SerpAPI via web_fetch成功获取搜索结果；4. 最终使用5个不同来源完成任务"
+}

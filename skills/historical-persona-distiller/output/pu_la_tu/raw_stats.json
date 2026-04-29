@@ -1,0 +1,32 @@
+{
+  "persona_id": "pu_la_tu",
+  "distillation_stats": {
+    "total_sources_used": 5,
+    "total_raw_chars": 9286,
+    "quotes_extracted": 19,
+    "stages_identified": 5,
+    "dimensions_analyzed": 6,
+    "output_files_generated": 7
+  },
+  "corpus_breakdown": {
+    "biography": {
+      "sources": ["百度百科", "World History Encyclopedia"],
+      "chars": 4024
+    },
+    "quotes": {
+      "direct_quotes": 10,
+      "secondary_quotes": 9,
+      "source_documents": ["MIT Apology", "MIT Phaedo", "World History Encyclopedia", "Stanford Encyclopedia"]
+    },
+    "commentary": {
+      "sources": ["Stanford Encyclopedia", "后世评述"],
+      "chars": 3188
+    }
+  },
+  "content_coverage": {
+    "poetry_count": 0,
+    "philosophical_dialogues_count": 12,
+    "biographical_events": 10,
+    "notes": "柏拉图无诗作留存（全部焚毁），以哲学对话录为主体"
+  }
+}
