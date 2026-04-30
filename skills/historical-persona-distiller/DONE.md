@@ -98,6 +98,7 @@
 | 83 | 海德格尔 | 德国/20世纪 | 2026-04-30 | high | 35 |
 | 84 | 萨特 | 法国/20世纪 | 2026-04-30 | medium | 30 |
 | 85 | 笛卡尔 | 法国/17世纪 | 2026-04-30 | high | 25 |
+| 86 | 帕斯卡 | 法国/17世纪 | 2026-05-01 | high | 20 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -111,28 +112,28 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 帕斯卡（ba_sha_la）
-**persona_id：** ba_sha_la
-**来源：** backlog（第四批外国哲学人物，#90）
-**注：** 笛卡尔已完成。web_search失败，改用 SerpAPI via web_fetch 成功。来源：Stanford Encyclopedia of Philosophy + World History Encyclopedia + Britannica。Git push 已成功（commit d0ef462 推送至 origin/main）。
+**下一待处理：** 伏尔泰（fu_er_tai）
+**persona_id：** fu_er_tai
+**来源：** backlog.md（第四批外国哲学人物，#91）
+**注：** 帕斯卡已完成。web_search失败，SerpAPI成功。来源：Stanford Encyclopedia of Philosophy + World History Encyclopedia + Britannica。Git push 已成功（commit 1a2fe2d 和 e19c7c2 推送至 origin/main）。
 
 
 ## 四、统计概览
 
 ```
 总人物数：     170
-已完成：       84
+已完成：       85
 进行中：       0
-待处理：       87
-完成率：       49%（84/170）
+待处理：       86
+完成率：       50%（85/170）
 
 按 priority：
-  high：       36（已完29）
+  high：       36（已完30）
   medium：     54（已完30）
   low：        80（已完16）
 
 按 confidence：
-  high：       44
+  high：       45
   medium：     28
   A：           1
   medium-high：  1
@@ -1474,3 +1475,21 @@
 **耗时：** 约30分钟
 
 **备注：** 萨特为法国哲学家，主要著作为法文，中文资料为翻译和二手文献；英文来源（World History Encyclopedia、Britannica、Stanford Encyclopedia）质量高；共4个不同来源，符合多源要求；萨特拒领诺贝尔奖、与加缪决裂、1956年谴责苏联等关键事实已纳入蒸馏；语料覆盖生平、主要作品（存在与虚无、恶心、禁闭）和核心哲学思想。
+
+### 2026-05-01 帕斯卡（ba_sha_la）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接超时）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调用 SerpAPI Google 搜索成功）
+**web_fetch：** ✅ 成功（多个来源）
+
+**最终来源：**
+1. Stanford Encyclopedia of Philosophy - Pascal（plato.stanford.edu/entries/pascal/，50000字截取）— 学术文献（主源）
+2. World History Encyclopedia - Blaise Pascal（worldhistory.org/Blaise_Pascal/，41318字）— 英文传记
+3. Britannica - Blaise Pascal（britannica.com/biography/Blaise-Pascal，9387字）— 英文简介
+
+**git push 情况：** ✅ 首次 push 成功（commit 1a2fe2d 推送至 origin/main）
+
+**confidence：** high
+**耗时：** 约20分钟
+
+**备注：** 帕斯卡为法国哲学家/科学家（1623-1662），无诗词作品，诗词要求不适用；三个权威英文百科来源符合多源要求；web_search失败后 SerpAPI via web_fetch 成功；语料覆盖生平（神童崛起、科学双峰、Port-Royal隐居）、核心哲学思想（人是会思想的芦苇、帕斯卡赌注、心灵有其理由、信仰超越理性）、科学成就（概率论、帕斯卡原理、气压实验）和文学成就（《致外省人书》《思想录》）。
