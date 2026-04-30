@@ -1,0 +1,13 @@
+{
+  "persona_id": "di_ka_er",
+  "stats": {
+    "biography_chars": 2331,
+    "quotes_chars": 2143,
+    "commentary_chars": 2549,
+    "total_corpus_chars": 7023,
+    "quotes_count": 30,
+    "commentary_count": 27,
+    "sources_count": 3,
+    "languages": ["法语", "拉丁语", "英语"]
+  }
+}

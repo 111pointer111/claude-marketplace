@@ -1,0 +1,56 @@
+{
+  "persona_id": "di_ka_er",
+  "name_zh": "笛卡尔",
+  "name_en": "René Descartes",
+  "dynasty": "法国/17世纪",
+  "lifespan": "1596-03-31 至 1650-02-11",
+  "persona_type": "historical_philosopher",
+  "priority": "high",
+  "completion_date": "2026-04-30",
+  "confidence": "high",
+  "extraction_minutes": 25,
+  "extraction_sources": [
+    {
+      "name": "Stanford Encyclopedia of Philosophy - Descartes",
+      "url": "https://plato.stanford.edu/entries/descartes/",
+      "type": "historical_record",
+      "chars": 50000,
+      "lang": "en"
+    },
+    {
+      "name": "World History Encyclopedia - René Descartes",
+      "url": "https://www.worldhistory.org/Rene%5FDescartes/",
+      "type": "historical_record",
+      "chars": 33647,
+      "lang": "en"
+    },
+    {
+      "name": "Britannica - René Descartes",
+      "url": "https://www.britannica.com/biography/Rene-Descartes",
+      "type": "historical_record",
+      "chars": 12263,
+      "lang": "en"
+    }
+  ],
+  "core_works": [
+    {"title": "谈谈方法 (Discourse on the Method)", "year": 1637, "lang": "fr"},
+    {"title": "第一哲学的沉思 (Meditations on First Philosophy)", "year": 1641, "lang": "la"},
+    {"title": "哲学原理 (Principles of Philosophy)", "year": 1644, "lang": "la"},
+    {"title": "灵魂的情感 (Passions of the Soul)", "year": 1649, "lang": "fr"}
+  ],
+  "key_themes": [
+    "方法论怀疑",
+    "我思故我在 (Cogito ergo sum)",
+    "身心二元论",
+    "清晰且明确感知作为真理标准",
+    "上帝存在的本体论证明",
+    "数学方法作为哲学范本"
+  ],
+  "raw_stats": {
+    "biography_chars": 2331,
+    "quotes_count": 30,
+    "commentary_count": 27,
+    "total_corpus_chars": 7023
+  },
+  "git_commit": "pending"
+}
