@@ -1,0 +1,82 @@
+{
+  "persona_id": "kang_de",
+  "name": "伊曼努尔·康德",
+  "name_pinyin": "kang_de",
+  "name_english": "Immanuel Kant",
+  "dynasty": "德国/18世纪",
+  "lifespan": "1724-1804",
+  "persona_type": "historical_figure",
+  "persona_version": "1.0",
+  "distilled_at": "2026-04-30",
+  "sources_count": 4,
+  "sources": [
+    {
+      "name": "Stanford Encyclopedia of Philosophy - Kant",
+      "url": "https://plato.stanford.edu/entries/kant/",
+      "language": "en",
+      "type": "encyclopedia",
+      "char_count": 50000
+    },
+    {
+      "name": "World History Encyclopedia - Immanuel Kant",
+      "url": "https://www.worldhistory.org/Immanuel_Kant/",
+      "language": "en",
+      "type": "encyclopedia",
+      "char_count": 30000
+    },
+    {
+      "name": "Britannica - Immanuel Kant",
+      "url": "https://www.britannica.com/biography/Immanuel-Kant",
+      "language": "en",
+      "type": "encyclopedia",
+      "char_count": 5000
+    },
+    {
+      "name": "SerpAPI Google Search Results",
+      "url": "https://serpapi.com/search",
+      "language": "zh",
+      "type": "search",
+      "char_count": 5000
+    }
+  ],
+  "overall_confidence": "high",
+  "overall_confidence_reasons": [
+    "哲学文本极为丰富，三大批判原文完整保存",
+    "后世研究文献浩如烟海，多源交叉验证一致",
+    "生平资料详尽，有书信、日记、演讲记录",
+    "哲学立场在原文中表达清晰一致"
+  ],
+  "limitations": [
+    "无诗词作品，语料以哲学论文为主",
+    "无语音留存，Voice Profile 依赖推测",
+    "德语原文翻译为中文有语义损失"
+  ],
+  "category_tags": [
+    "philosopher",
+    "enlightenment",
+    "german",
+    "18th_century",
+    "critical_philosophy",
+    "transcendental_idealism",
+    "ethics",
+    "epistemology"
+  ],
+  "key_concepts": [
+    "先验唯心主义",
+    "三大批判",
+    "绝对命令",
+    "人是目的",
+    "理性自主性",
+    "永久和平",
+    "哥白尼革命"
+  ],
+  "files_generated": [
+    "SKILL.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json",
+    "EVENTS.md",
+    "VOICE.md"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "voice_profile": {
+    "target_persona": "kang_de",
+    "base_params": {
+      "dialect": "标准德语（高地德语），18世纪哥尼斯堡学术口音",
+      "estimated_pitch": "中等——冷静、理性、无情绪化起伏的学术演讲音调",
+      "estimated_speed": "偏慢——每个概念都要充分论证，速度服从逻辑严密性",
+      "pause_frequency": "高——在重要论证节点、长从句之间需要停顿",
+      "pause_points": "定义之后/公理陈述之后/反驳对方观点之前/结论之前"
+    },
+    "emotion_range": {
+      "passionate": {
+        "pitch_adjust": "+10~+15%",
+        "speed_adjust": "+5~+10%",
+        "description": "在讨论启蒙、理性自主性、道德法则时，康德会表现出罕见的激情——这是他的'热性辩论'时刻"
+      },
+      "melancholy": {
+        "pitch_adjust": "-5~-10%",
+        "speed_adjust": "-5%",
+        "description": "在讨论人类知识的局限性、物自体不可知时，语调会略微下沉"
+      },
+      "scholarly": {
+        "pitch_adjust": "0",
+        "speed_adjust": "0",
+        "description": "标准的学术论证模式——冷峻、严密、理性"
+      },
+      "moral_fervor": {
+        "pitch_adjust": "+15%",
+        "speed_adjust": "+10%",
+        "description": "在阐述绝对命令、人是目的、道德法则时，会进入罕见的'道德热情'模式"
+      }
+    },
+    "verbal_tics": {
+      "classical_particles": ["因此（also/therefore）", "然而（however/yet）", "不过（however/moreover）", "因为（because）"],
+      "philosophical_markers": ["先验地（transzendentally）", "先天（a priori）", "现象（phenomenon）", "本体（noumenon）"],
+      "argumentative": ["现在（now/therefore）", "于是（thus）", "由此可见（it can be seen from this that）"]
+    },
+    "tts_markers": {
+      "emphasis": "<<>>",
+      "pause_before_reference": true,
+      "pause_ms": 400,
+      "historical_pronunciations": [
+        {"term": "Kant", "pronunciation": "kant", "note": "德语'K'总是发清音，不像英语送气"},
+        {"term": "Kategorie", "pronunciation": "kategori:", "note": "德语长元音i:"},
+        {"term": "a priori", "pronunciation": "a pri'o:ri", "note": "拉丁语发音，德语化的重音"},
+        {"term": "categorical imperative", "pronunciation": "kate'go:riʃl impe'ra'ti:f", "note": "多重音节，德语变体"}
+      ],
+      "german_specifics": {
+        "compound_nouns": "德语复合名词需要适当停顿分割（如：Kraft→Lebenskraft→Lebenskräfteschätzung）",
+        "umlaute": "ö, ä, ü需要在TTS中正确发音",
+        "sentence_particles": "德语特有的小品词如ja, doch, denn等表达语气"
+      }
+    },
+    "style_tags": [
+      "academic_german",
+      "philosophical_prose",
+      "enlightenment_register",
+      "systematic_argumentation",
+      "periodic_sentences",
+      "footnote_heavy"
+    ],
+    "confidence": "high",
+    "notes": "康德没有录音留存，所有语音参数均基于对其哲学文本的学术分析和对18世纪德语发音惯例的学术研究。康德的实际声音可能比当代德语更接近今天的奥地利或瑞士德语发音。"
+  }
+}

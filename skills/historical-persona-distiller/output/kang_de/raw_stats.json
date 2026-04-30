@@ -1,0 +1,77 @@
+{
+  "persona_id": "kang_de",
+  "generated_at": "2026-04-30",
+
+  "raw_materials": {
+    "total_files": 4,
+    "total_characters": 90000,
+    "by_source": {
+      "stanford_encyclopedia": {
+        "file": "stanford_encyclopedia.txt",
+        "characters": 50000,
+        "language": "en"
+      },
+      "world_history_encyclopedia": {
+        "file": "world_history_encyclopedia.txt",
+        "characters": 30000,
+        "language": "en"
+      },
+      "britannica": {
+        "file": "britannica.txt",
+        "characters": 5000,
+        "language": "en"
+      },
+      "serpapi_search": {
+        "file": "serpapi_search.json",
+        "characters": 5000,
+        "language": "zh"
+      }
+    }
+  },
+
+  "processed_outputs": {
+    "stages": {
+      "file": "stages.md",
+      "stage_count": 5,
+      "stages": [
+        "早年形成期（1724-1755）",
+        "学术积累期（1755-1770）",
+        "批判哲学开创期（1770-1787）",
+        "批判体系完成期（1788-1795）",
+        "晚年与衰老期（1796-1804）"
+      ]
+    },
+    "dimensions": {
+      "dimension_思想内核": "dimension_思想内核.json",
+      "dimension_语言特征": "dimension_语言特征.json",
+      "dimension_表达偏好": "dimension_表达偏好.json",
+      "dimension_立场光谱": "dimension_立场光谱.json",
+      "dimension_voice_profile": "dimension_voice_profile.json"
+    },
+    "confidence": {
+      "overall": "high",
+      "by_dimension": {
+        "思想内核": "high",
+        "语言特征": "high",
+        "表达偏好": "high",
+        "立场光谱": "high",
+        "voice_profile": "high"
+      }
+    }
+  },
+
+  "key_metrics": {
+    "核心价值观条目": 3,
+    "立场向量条目": 10,
+    "高频术语条目": 12,
+    "人生阶段数": 5,
+    "代表作品数": 15
+  },
+
+  "qualitative_notes": [
+    "康德是哲学家，无诗词作品要求",
+    "语料以哲学论文为主，极其丰富",
+    "Voice Profile 依赖历史推测，无语音留存",
+    "三大批判构成完整的批判哲学体系"
+  ]
+}

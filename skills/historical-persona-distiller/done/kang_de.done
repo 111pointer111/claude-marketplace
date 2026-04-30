@@ -1,0 +1,38 @@
+康德（kang_de）Persona 蒸馏完成
+时间: 2026-04-30T04:00:00Z
+置信度: high
+人物: 伊曼努尔·康德 (Immanuel Kant)
+生卒: 1724-1804
+朝代: 德国/18世纪
+
+产出文件:
+- output/kang_de/SKILL.md
+- output/kang_de/README.md
+- output/kang_de/METADATA.json
+- output/kang_de/CITATIONS.md
+- output/kang_de/raw_stats.json
+- output/kang_de/EVENTS.md
+- output/kang_de/VOICE.md
+- processed/kang_de/stages.md
+- processed/kang_de/dimension_思想内核.json
+- processed/kang_de/dimension_语言特征.json
+- processed/kang_de/dimension_表达偏好.json
+- processed/kang_de/dimension_立场光谱.json
+- processed/kang_de/dimension_voice_profile.json
+- raw/kang_de/stanford_encyclopedia.txt
+- raw/kang_de/world_history_encyclopedia.txt
+- raw/kang_de/全部语料.txt
+- raw/kang_de/引语.txt
+- raw/kang_de/传记.txt
+- raw/kang_de/后世评述.txt
+
+来源:
+1. Stanford Encyclopedia of Philosophy - Kant (https://plato.stanford.edu/entries/kant/)
+2. World History Encyclopedia - Immanuel Kant (https://www.worldhistory.org/Immanuel_Kant/)
+3. Britannica - Immanuel Kant (https://www.britannica.com/biography/Immanuel-Kant)
+4. SerpAPI Google Search (via web_fetch)
+
+搜索情况:
+- web_search: 失败（DuckDuckGo 连接超时）
+- SerpAPI: 成功（通过 web_fetch 调 Google 搜索）
+- web_fetch 直接抓取: 成功（多个来源）
