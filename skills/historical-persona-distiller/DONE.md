@@ -91,6 +91,7 @@
 | 76 | 苏格拉底 | 古希腊 | 2026-04-29 | high | 30 |
 | 77 | 柏拉图 | 古希腊 | 2026-04-30 | medium | 60 |
 | 78 | 亚里士多德 | 古希腊 | 2026-04-30 | A | 25 |
+| 79 | 伊壁鸠鲁 | 古希腊 | 2026-04-30 | medium-high | 16 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -104,22 +105,22 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 伊壁鸠鲁（yi_bi_jiu_lu）
-**persona_id：** yi_bi_jiu_lu
-**来源：** backlog #79
+**下一待处理：** 康德（kang_de）
+**persona_id：** kang_de
+**来源：** backlog #84
 
 
 ## 四、统计概览
 
 ```
 总人物数：     170
-已完成：       78
+已完成：       79
 进行中：       0
-待处理：       93
-完成率：       46%（78/170）
+待处理：       92
+完成率：       46%（79/170）
 
 按 priority：
-  high：       36（已完26）
+  high：       36（已完27）
   medium：     54（已完28）
   low：        80（已完16）
 
@@ -127,6 +128,7 @@
   high：       41
   medium：     27
   A：           1
+  medium-high：  1
   low：        0
 ```
 
@@ -1194,6 +1196,27 @@
 ---
 
 ## 三、执行日志
+
+### 2026-04-30 伊壁鸠鲁（yi_bi_jiu_lu）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接超时）
+**SerpAPI：** ✅ 成功（通过 SerpAPI 调 Google 搜索获取百度百科链接）
+**web_fetch：** ✅ 成功
+
+**最终来源：**
+1. 百度百科·伊壁鸠鲁条目（baike.baidu.com/item/伊壁鸠鲁/699505）— 传记+哲学思想（17337字）
+2. 百度百科·伊壁鸠鲁学派条目（baike.baidu.com/item/伊壁鸠鲁学派/7474321）— 哲学思想详情（13095字）
+3. 百度百科·伊壁鸠鲁主义条目（baike.baidu.com/item/伊壁鸠鲁主义/5831848）— 概述（3511字）
+4. World History Encyclopedia·Epicurus（worldhistory.org）— 英文传记（25295字）
+5. Stanford Encyclopedia of Philosophy·Epicurus（plato.stanford.edu）— 学术文献（50000字截取）
+
+**git push 情况：** 首次 push 出现 credential-gh 警告，但 push 成功完成
+
+**confidence：** medium-high
+**耗时：** 约16分钟
+**备注：** 伊壁鸠鲁本人著作大量散佚（37卷仅存残篇），原始语料以二手研究为主；非诗人，诗词要求不适用；共抓取5个来源，符合多源要求。
+
+---
 
 ### 2026-04-29 刘伯温（liu_bowen）蒸馏记录
 
