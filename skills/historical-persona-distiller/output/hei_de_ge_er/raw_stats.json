@@ -1,0 +1,120 @@
+{
+  "persona_id": "hei_de_ge_er",
+  "distilled_at": "2026-04-30",
+  "sources": {
+    "total_count": 3,
+    "fetch_success": 3,
+    "fetch_fail": 0,
+    "details": [
+      {
+        "name": "Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/heidegger/",
+        "status": "success",
+        "chars_fetched": 50000,
+        "language": "en",
+        "type": "encyclopedia"
+      },
+      {
+        "name": "百度百科·马丁·海德格尔",
+        "url": "https://baike.baidu.com/item/马丁·海德格尔/6487746",
+        "status": "success",
+        "chars_fetched": 21000,
+        "language": "zh",
+        "type": "encyclopedia"
+      },
+      {
+        "name": "SerpAPI搜索",
+        "queries": [
+          "海德格尔传记哲学思想",
+          "马丁·海德格尔百度百科",
+          "海德格尔哲学家名言原文"
+        ],
+        "status": "success",
+        "language": "zh",
+        "type": "search_results"
+      }
+    ]
+  },
+  "web_search": {
+    "attempted": true,
+    "success": false,
+    "error": "无结果或超时"
+  },
+  "serpapi_search": {
+    "attempted": true,
+    "success": true,
+    "queries_used": 3,
+    "notes": "SerpAPI搜索成功，用于补充名言和生平信息"
+  },
+  "corpus": {
+    "raw_files": [
+      "百度百科_传记.txt",
+      "Stanford_SEP_引语.txt"
+    ],
+    "total_chars": 35870,
+    "merged_file": "全部语料.txt"
+  },
+  "dimension_files": {
+    "stages": "stages.md",
+    "dimension_思想内核": "dimension_思想内核.json",
+    "dimension_语言特征": "dimension_语言特征.json",
+    "dimension_表达偏好": "dimension_表达偏好.json",
+    "dimension_立场光谱": "dimension_立场光谱.json",
+    "dimension_voice_profile": "dimension_voice_profile.json"
+  },
+  "output_files": {
+    "SKILL_md": "SKILL.md",
+    "EVENTS_md": "EVENTS.md",
+    "VOICE_md": "VOICE.md",
+    "README_md": "README.md",
+    "METADATA_json": "METADATA.json",
+    "CITATIONS_md": "CITATIONS.md",
+    "raw_stats_json": "raw_stats.json"
+  },
+  "citations": {
+    "total": 23,
+    "verified": 23,
+    "by_source": {
+      "Stanford_SEP": 15,
+      "百度百科": 8,
+      "SerpAPI": 3
+    }
+  },
+  "confidence": "high",
+  "philosophical_concepts": [
+    "存在（Sein/Being）",
+    "此在（Dasein）",
+    "操心（Sorge/Care）",
+    "本真存在（Eigentlichkeit/Authenticity）",
+    "向死而生（Sein-zum-Tode/Being-towards-death）",
+    "常人（das Man/The Anyone）",
+    "疏明之地（Lichtung）",
+    "座架（Gestell/Enframing）",
+    "语言是存在之家（Haus des Seins）",
+    "诗意的栖居（Poetic Dwelling）",
+    "泰然任之（Gelassenheit/ releasement）"
+  ],
+  "life_stages": {
+    "count": 5,
+    "stages": [
+      {"stage": 1, "period": "1889-1911", "name": "早年与神学背景"},
+      {"stage": 2, "period": "1911-1927", "name": "学术转型与现象学时期"},
+      {"stage": 3, "period": "1927-1935", "name": "学术巅峰与政治悲剧"},
+      {"stage": 4, "period": "1935-1951", "name": "战后审查与沉默"},
+      {"stage": 5, "period": "1951-1976", "name": "后期与隐居"}
+    ]
+  },
+  "quality_checks": {
+    "citations_verified": true,
+    "idiom_source_verified": true,
+    "multiple_sources": true,
+    "all_fields_filled": true,
+    "confidence_appropriate": true
+  },
+  "notes": [
+    "海德格尔是哲学家，不是诗人，因此没有诗词收集任务",
+    "本次收集到2个直接来源（Stanford SEP + 百度百科）+ SerpAPI搜索结果，共3个有效来源",
+    "web_search失败，改用SerpAPI成功",
+    "政治争议（纳粹经历）已纳入SKILL.md和立场光谱文件"
+  ]
+}

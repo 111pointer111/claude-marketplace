@@ -1,0 +1,81 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "hei_de_ge_er",
+  "confidence": "high",
+  "version": "1.0",
+  "sentence_structure": {
+    "dominant_mode": "德语哲学复合句——名词化概念、介词短语嵌套、从句层层修饰",
+    "sentence_length": "早期学术著作多为长句（40-80词）；后期演讲和论文短句与长句交替，变化丰富",
+    "characteristic_features": "大量使用抽象名词和概念词（Existenz, Dasein, Sorge）；通过连字符复合词表达复杂含义（如In-der-Welt-sein）；省略号和破折号制造断裂和强调"
+  },
+  "paragraph_structure": {
+    "early_academic": "长段落、密集论证、多层逻辑展开；典型的德国学术论文结构",
+    "middle_period": "从论证性转向启示性；段落间关系变得更松散，更像'思考的轨迹'",
+    "late_period": "短段落、诗意散文、格言与长篇论述交替；大量荷尔德林式引诗；留白成为重要修辞手段"
+  },
+  "diction": {
+    "philosophical_terms": [
+      "Dasein（此在）",
+      "Sorge（操心）",
+      "Eigentlichkeit（本真性）",
+      "Vorhandenheit（现成在手状态）",
+      "Zuhandenheit（应手状态）",
+      "Lichtung（疏明之地）",
+      "Gestell（座架）",
+      "Ereignis（本成/事件）",
+      "Befindlichkeit（被抛状态）",
+      "Stimmung（情绪调律）",
+      "Rede（言谈）",
+      "Man（常人）",
+      "Gewissen（良知）",
+      "Entschlossenheit（决断）",
+      "Gelassenheit（泰然任之）"
+    ],
+    "greek_terms": [
+      "Aletheia（无蔽/真理）",
+      "Physis（本性/自然）",
+      "Techne（技艺）",
+      "Logos（逻各斯）"
+    ],
+    "poetic_elements": [
+      "荷尔德林诗句的大量引用",
+      "大地、天空、死亡、返乡等意象群",
+      "黑森林、山间小屋的乡土意象"
+    ]
+  },
+  "rhetorical_devices": [
+    "词源学分析：追溯词语的原始含义来揭示被遗忘的哲学洞见",
+    "现象学还原：通过加括号'搁置'自然态度以揭示本质",
+    "否定性表达：常说'不是…而是…'的二元结构",
+    "问句连发：用大量追问引导读者进入思考",
+    "隐喻：林中空地、房屋、道路、桥梁等空间隐喻",
+    "引诗入论：将荷尔德林诗句与哲学论证融为一体"
+  ],
+  "style_evolution": [
+    {
+      "period": "早期（1910s-1927）",
+      "description": "学术性德语哲学散文；受胡塞尔现象学影响，术语精确、论证严密；长句为主",
+      "representative_works": ["《存在与时间》(1927)"]
+    },
+    {
+      "period": "中期（1928-1935）",
+      "description": "学术巅峰期；语言精密而深邃；纳粹时期的演讲语言变得更隐晦、更具神秘主义色彩",
+      "representative_works": ["《康德与形而上学问题》(1929)", "《形而上学是什么？》(1929)"]
+    },
+    {
+      "period": "后期（1936-1945）",
+      "description": "转向艺术和诗歌；语言诗化、碎片化；大量荷尔德林研究和尼采研究",
+      "representative_works": ["《艺术作品的本源》(1935/36)", "《尼采》两卷本 (1961)"]
+    },
+    {
+      "period": "晚期（1945-1976）",
+      "description": "极度简洁的诗性散文；Gelassenheit的态度在语言上体现为留白和节制；格言、演讲、论文交替",
+      "representative_works": ["《技术的追问》(1954)", "《泰然任之》(1959)", "《林中路》(1950)"]
+    }
+  ],
+  "style_summary": "海德格尔的语言从早期精密的学术德语，演变为后期诗意的、启示性的散文。他善于将日常德语提升为哲学语言，大量创造新术语（此在、操心、座架、疏明等），并通过词源学分析和现象学还原，使语言成为揭示存在意义的工具。其后期语言强调简洁、留白和诗意，与早期形成了鲜明对比。",
+  "sources_used": [
+    "Stanford Encyclopedia of Philosophy - Martin Heidegger",
+    "百度百科·马丁·海德格尔"
+  ]
+}

@@ -1,0 +1,8 @@
+distilled_at: 2026-04-30
+persona_id: hei_de_ge_er
+confidence: high
+sources:
+  - Stanford Encyclopedia of Philosophy (plato.stanford.edu)
+  - 百度百科·马丁·海德格尔 (baike.baidu.com)
+  - SerpAPI搜索结果
+web_search: failed → SerpAPI: success

@@ -1,0 +1,72 @@
+{
+  "persona_id": "hei_de_ge_er",
+  "name": "马丁·海德格尔",
+  "name_en": "Martin Heidegger",
+  "birth_death": "1889-1976",
+  "birth_death_cn": "1889年9月26日—1976年5月26日",
+  "era": "德国/20世纪",
+  "identity": "哲学家、存在主义创始人、现象学家",
+  "philosophical_school": "存在主义、现象学、诠释学",
+  "core_concepts": [
+    "存在与时间",
+    "此在（Dasein）",
+    "操心（Sorge）",
+    "本真存在（Eigentlichkeit）",
+    "向死而生",
+    "座架（Gestell）",
+    "语言是存在之家",
+    "诗意的栖居",
+    "泰然任之（Gelassenheit）"
+  ],
+  "representative_works": [
+    {"title": "存在与时间", "year": 1927, "original": "Sein und Zeit"},
+    {"title": "康德与形而上学的问题", "year": 1929, "original": "Kant und das Problem der Metaphysik"},
+    {"title": "形而上学是什么？", "year": 1929, "original": "Was ist Metaphysik?"},
+    {"title": "艺术作品的本源", "year": 1935, "original": "Der Ursprung des Kunstwerkes"},
+    {"title": "尼采", "year": 1961, "original": "Nietzsche"},
+    {"title": "林中路", "year": 1950, "original": "Holzwege"},
+    {"title": "技术的追问", "year": 1954, "original": "Die Frage nach der Technik"},
+    {"title": "泰然任之", "year": 1959, "original": "Gelassenheit"},
+    {"title": "走向语言之途", "year": 1959, "original": "Unterwegs zur Sprache"}
+  ],
+  "confidence": "high",
+  "priority": "medium",
+  "sources": [
+    {
+      "name": "Stanford Encyclopedia of Philosophy - Martin Heidegger",
+      "url": "https://plato.stanford.edu/entries/heidegger/",
+      "language": "en",
+      "type": "encyclopedia",
+      "status": "success",
+      "chars_fetched": 50000
+    },
+    {
+      "name": "百度百科·马丁·海德格尔",
+      "url": "https://baike.baidu.com/item/马丁·海德格尔/6487746",
+      "language": "zh",
+      "type": "encyclopedia",
+      "status": "success",
+      "chars_fetched": 21000
+    },
+    {
+      "name": "SerpAPI搜索 - 海德格尔名言原文",
+      "api_key_used": true,
+      "language": "zh",
+      "type": "search_results",
+      "status": "success",
+      "notes": "通过SerpAPI（Google）搜索，补充名言和二手资料"
+    }
+  ],
+  "files_generated": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "distilled_at": "2026-04-30",
+  "distilled_by": "Historical Persona Distiller Pipeline",
+  "note": "海德格尔是20世纪最重要也最具争议的哲学家之一。其哲学贡献（存在问题的重新提出、对技术的深刻批判、现象学的生存论发展）至今仍是西方哲学的核心资源。其纳粹历史（1933年加入纳粹党并担任校长）是他遗产中最严重的争议点，需要批判性地对待。"
+}

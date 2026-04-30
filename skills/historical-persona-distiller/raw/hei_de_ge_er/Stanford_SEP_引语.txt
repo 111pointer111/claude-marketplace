@@ -1,0 +1,196 @@
+# 海德格尔 (Martin Heidegger) - 原始语料
+
+## 来源2: Stanford Encyclopedia of Philosophy - Martin Heidegger
+https://plato.stanford.edu/entries/heidegger/
+
+---
+
+## 1. Life and Work
+
+Martin Heidegger was born on 26 September 1889 in Messkirch, Germany—a small, rural town in southwest Germany. His father, Friedrich Heidegger, was a skilled craftsman (a master cooper) and a sexton in the Catholic Church. Heidegger's thought was profoundly influenced by the provincial environs of his youth, his conservative upbringing, and his intimate familiarity with craftwork and the rhythms of agricultural life. In 1909, he entered the University of Freiburg where he studied Catholic theology, the natural sciences, and mathematics, before settling on philosophy as his course of study. In 1913, he defended a dissertation on "The Doctrine of Judgment in Psychologism: A Critical and Positive Contribution to Logic", and was awarded a doctorate in philosophy, summa cum laude (GA1: 59–188). He continued with advanced studies at the University of Freiburg, and was granted his license to teach upon completion in 1915 of a habilitation dissertation on "The Doctrine of Categories and Meaning in Duns Scotus", written under the direction of the Neo-Kantian philosopher Heinrich Rickert (GA1: 189–411).
+
+Between 1915 and 1923, Heidegger taught as a docent at the University of Freiburg. He became Edmund Husserl's assistant in 1919, with whom he held "phenomenological exercises of seminars in common" (BH 108). Heidegger's personal and intellectual relationship with Husserl was complicated and occasionally strained (see Crowell 2005). Despite harshly criticizing Husserl in private, Heidegger dedicated Being and Time to Husserl "in friendship and admiration" (SZ vi).
+
+In 1923, Heidegger accepted an associate professorship at the University of Marburg, where he taught until 1928. During his Marburg years, Heidegger lectured on ontology, truth, logic, and offered phenomenological interpretations of key figures in the history of philosophy. His lectures attracted students from around Germany, including Hans-Georg Gadamer, Karl Löwith, Hans Jonas, and Hannah Arendt. While Arendt was Heidegger's student, they began a complicated love affair—stretching across half a century, from 1925 to 1975 (and ending only when Arendt died, 6 months before Heidegger)—that raises numerous questions, not only philosophical but also biographical, psychological, political, and moral. (Thomson 2017: 454)
+
+In 1927, Heidegger published his most important work—Being and Time, and was promoted to full professor at Marburg. In 1928, Heidegger was appointed to the chair previously held by Rickert and Husserl at the University of Freiburg. In Davos in 1929, Heidegger offered a series of lectures on Kant. The lectures were followed by a disputation with Ernst Cassirer. Friedman (2000) argues that this disputation was the hypocenter of the subsequent analytical/continental divide in twentieth century philosophy.
+
+Shortly after Adolf Hitler became German Chancellor and seized plenary powers, Heidegger was elected Rector of Freiburg University in April 1933. He joined the Nazi Party on May 1st. As Rector, Heidegger was responsible for the "alignment" or "synchronization" (Gleichschaltung) of the university with the aims of the Nazi Party. In April 1934, a scant year later, Heidegger resigned the rectorship, although he remained a member of the Nazi party until the end of the Nazi regime. The significance for Heidegger's philosophy of his reprehensible engagement with National Socialism, as well as his now well-documented anti-Semitism, is hotly disputed (see section 3).
+
+In the decade following his resignation as Rector of Freiburg University, and throughout the Second World War, Heidegger lectured extensively on Friedrich Nietzsche and the poet Friedrich Hölderlin. The philosophy of art became a central concern during this period. He also offered lectures on Schelling, Hegel, and the pre-Socratics.
+
+Following Germany's surrender in 1945, and hearings before a Denazification Committee, Heidegger was barred by the French Military Government from all teaching and university activities. The teaching ban was lifted in 1949, allowing Heidegger to take emeritus status from the University of Freiburg. Most of Heidegger's intellectual work for the last decades of his life took the form of public lectures and published essays.
+
+Heidegger's later thought was increasingly preoccupied with the history of being, with the nature of language, and with the dangers of our technological age. In response to the technologization of everyday life, Heidegger worked to develop a non-calculative mode of thinking, and to encourage post-technological forms of "poetic dwelling".
+
+Heidegger died on 26 May 1976 in Freiburg, and was buried in Messkirch, Germany on 28 May 1976.
+
+---
+
+## 2. Being and Time
+
+Heidegger's declared aim in Being and Time "is the concrete working out of the question of the 'meaning' (Sinn) of 'being'" (SZ 1). As Carman explains, Heidegger self-consciously orients his project in a way that "departs dramatically from traditional ontology in that it asks not what there is, nor why there is what there is, nor even why there is anything at all and not nothing…. Heidegger's question [is] … What does it mean for something to be?" (Carman 2003: 8)
+
+In asking about the sense or meaning of being, Heidegger's inquiry is not primarily focused on linguistic meaning. Something has meaning in the sense that Heidegger intends when it makes sense—when we can take it up into our activities, respond to it sensibly, deal with it intelligibly, and so on. So "the question of being" could be reformulated as: What do we understand when being makes sense to us?
+
+Because Heidegger focuses his inquiry on the sense or meaning of being, many interpreters of Heidegger attribute to him the so-called "intelligibility interpretation of being"—that is, the view that "what Heidegger means by 'being' just is intelligibility" (McDaniel 2016: 307). Dreyfus, for instance, explains that "being is not a substance, a process, an event, or anything that we normally come across; rather it is a fundamental aspect of entities, viz. their intelligibility" (Dreyfus 1991: xi). Sheehan likewise argues that "we should always understand the misleading ontological terms 'the being' or 'beingness' of things as the intelligibility of things" (Sheehan 2015b: 22).
+
+Heidegger's (apparent) answer to the being-question is that time (or temporality) is what allows us to make sense of being—that time is "the possible horizon for any understanding whatsoever of being" (SZ 1). Thus, Heidegger intended to argue in Being and Time that only if and when "temporality temporalizes itself" "can entities manifest themselves as entities" (GA26: 274/211–2). Consequently, "[t]he fundamental subject of research in ontology … is temporality" (GA24: 22 / 16–7). Being and Time is, however, a notoriously incomplete work. Only about one-third of the book as originally conceived was ever published. The two published divisions of the book are largely devoted to an analytic of human existence in terms of time.
+
+Heidegger also draws a distinction between being and entities, and thus between ontological inquiries and ontic sciences. An entity is anything that satisfies the conditions set out in an ontological "framework". Heidegger thus uses the word 'entity' in a very broad sense. Material things—Austin' s "moderate-sized specimens of dry goods"—are entities; but so are actions and events, as are abstract objects (like numbers and sets, concepts and propositions). Being, by contrast, is "the basic character of entities"—"that which determines entities as entities" (GA20: 195; SZ 1).
+
+### 2.1 Kinds of Being
+
+In Being and Time, Heidegger discusses primarily three kinds of being:
+
+- availableness (translated 'readiness-to-hand' in MR, and 'handiness' in SR);
+- occurrentness (translated as 'presence-at-hand' in MR, and 'objective presence' in SR); and
+- existence, which is the kind of being that characterizes human existence or 'Dasein'.
+
+#### 2.1.1 Availableness (Readiness-to-Hand)
+
+An entity is available (or "ready-to-hand") if it is "usable" or "serviceable" for some activity or task. Heidegger's paradigmatic examples of entities that have availableness as their kind of being are tools and instruments—broadly speaking, equipment.
+
+Given the affordance-and-reference structure of the available, an available entity only "genuinely can show itself in its being" when we are engaged in using it. Discovering the available requires not just an active response to it, but also a specific kind of seeing—one that is constantly taking in affordances in terms of their references. This kind of seeing is not a focally directed looking-at an object, but a constant perceptual monitoring of the entire context of action. Heidegger calls this circumspection: literally, looking around to take in "the manifold references of the 'in-order-to'".
+
+Thus, Heidegger claims, in our everyday encounter with available entities, we do not encounter objects with occurrent properties. Rather, what we encounter in the first instance are holistic contexts that are articulated into invitations to act. The entities that make up the world are "not thing-like objects but significations" (GA64: 65), and "it is not things but references which have the primary function in the structure of encounter belonging to the world; not substances but functions" (GA20: 272). As Dreyfus explains, "when absorbed in coping, I can be described objectively as using the door as a door, but I'm not experiencing the door as a door. In coping at my best, I'm not experiencing the door at all but simply pressing into the possibility of going out."
+
+#### 2.1.2 Occurrentness (Presence-at-hand)
+
+In its special or restricted sense, something is occurrent when it has occurrentness (Vorhandenheit) as its kind of being. Heidegger's paradigmatic examples of entities that have occurrentness as their kind of being are material things, the natural things studied by the natural sciences (Naturdinge, GA80.1: 186–7), the kind of entities that are defined most precisely in terms of their spatial and causal properties.
+
+Blattner emphasizes that the occurrent is independent of Dasein's worldly activities: "to be as occurrent is to be present independently of Dasein and its social world" (Blattner 1999: 7). Although philosophers tend to take occurrentness as ontologically basic, Heidegger insists that what we encounter in the first instance and most of the time are available entities.
+
+Heidegger claims that we have a mistaken but "natural tendency to regard all entities in the first instance as occurrent" (GA24: 92). This perhaps is because reflection and theorizing about the world typically involves the very type of holding-back and looking-at objects that reveals the occurrent.
+
+#### 2.1.3 Dasein
+
+In ordinary German, the noun 'Dasein' means existence, but Heidegger appropriates the word to designate human beings. In referring to us as 'Dasein' instead of 'human' [Mensch], Heidegger highlights the fact that he is inquiring into our kind of being, and not engaged in an anthropological, psychological, or biological study. 'Dasein' picks us out insofar as we have an understanding of being (SZ 12).
+
+In his later thought, Heidegger reverts to using the term 'human being' (Mensch) as the name for "the entity that we are". 'Da-sein', usually hyphenated in his later works, is reserved as a name for "the place" within which a historical community of people takes a stand on its form of life. Da-sein, in other words, is "the locality dwelt in by mortals" (GA9: 373/283).
+
+In Being and Time, Heidegger reserves 'existence' (Existenz) as a term for designating Dasein's kind of being. Existence is a kind of being that is essentially related to possibilities. Because it is essentially modal in this way, Dasein can never be defined in terms of occurrent facts about it. So for a Dasein, there is an indeterminacy surrounding what—or, rather, who—any given Dasein is, and that means that Dasein's being is "at stake" in at least three ways. An existing being: (a) has multiple ways of being who it is (it can take on a variety of social roles—mother, poet, conservative, etc.); (b) has multiple modes of being—in particular, an existing entity can be in the mode of owning responsibility for itself (i.e., authenticity), or not owning responsibility for itself (i.e., inauthenticity); and (c) an existing being can decide to not be at all.
+
+### 2.2 Being-in-the-World
+
+The "fundamental structure" (Fundamentalstruktur) or "basic constitution" (Grundverfassung) of Dasein is "being-in-the-world". Heidegger hyphenates 'being-in-the-world' to indicate that it is a "unitary phenomenon". A unitary phenomenon is made up holistically of parts that cannot exist separately, and each of which is what it is only through its relationship to the others. The parts at issue here are the world, the 'self' who exists in the world, and the relational structure of being in.
+
+#### 2.2.1 The World and Spatiality
+
+The world we inhabit is a particular organized whole of different settings for human activity—factories and offices, homes and parks, transportation networks and shops, etc. Thus, Heidegger defines world as "that 'wherein' a factical Dasein as such 'lives'" (SZ 65).
+
+The spatiality of the available is not reducible to an object's position on a mathematically-determinable grid. Instead, its spatiality is structured primarily by differentials of usability. That is, "entities are near or far according to whether they are involved or not involved in, or attended or not attended to, in the activities that take place in that world" (Schatzki 2021: 690). As Dreyfus puts it, "[a] thing is near to me when I am able to get a maximal grip on it" (Dreyfus 1991: 133).
+
+#### 2.2.2 Being-with and the Anyone
+
+Because my response to the world is intrinsically shaped by relations to others, Heidegger argues that "being-with" is an ontological structure of being-in-the-world. As a "being-with", I am essentially keyed in to, and responsive to, the way others comport themselves in our shared world.
+
+In addition, the intelligibility of the world as we encounter it is, in the first instance, structured by socially-shared aims, norms, tastes, and standards. Heidegger refers to this social normativity as "the anyone" (das Man; translated in MR and SR as "the they") because in grasping this intelligibility, we act as anyone would.
+
+Because the everyday world shows up as soliciting me to respond in the way that anyone would, Heidegger argues that the real self of everyday existence is "the anyone-self". When Dasein understands itself through solicitations inflected by social norms, it comes to see itself not as a unique individual but simply as one participant among many in the normative structure of a given group. (Knudsen 2023: 160)
+
+#### 2.2.3 Being-in
+
+Heidegger argues that the "self" of everyday existence is the anyone self. Being at home in a place means being accustomed to the style and pace of life in that place. It means flourishing when participating in the activities that characterize such a place. And it means possessing the habits and skills to respond to the affordances of that world.
+
+Heidegger identifies three structural elements that co-constitute being-in: an affective disposedness, an understanding, and discourse. Disposedness, understanding, and discourse are equiprimordial moments of our familiarity with the world (SZ 133). "Equiprimordial" structures are equally fundamental, and cannot exist without each other.
+
+##### 2.2.3.1 Disposedness and Moods
+
+A key structural feature of Dasein is our affectivity—our being disposed to respond in an immediate, felt way to the situations we encounter. Heidegger names our structural affectivity 'disposedness' (Befindlichkeit, translated in M&R as 'state-of-mind' and in SR as 'attunement'). The paradigmatic existentiell form of disposedness is mood, but other affective states like feelings and emotions are also ontic manifestations of disposedness (SZ 138). The essential function of affective states like moods is to disclose how the entities we encounter "matter" to us (SZ 137).
+
+Heidegger accords to the mood of anxiety a special methodological role in disclosing the contribution that disposedness makes to our familiarity with a world (see Ratcliffe 2008: 52 and Withy 2012: 195). Because anxiety is a breakdown in our everyday ability to engage meaningfully with the world, it lets us notice what otherwise is too pervasive to attract our attention: namely, that our ability to function in the world is sustained by an immediate, felt sense for how things matter. When overcome by anxiety, that mattering "collapses" and the affordances of the world show up as being "of no consequence" (SZ 186). In this breakdown, our preoccupation with everyday tasks falls away, leaving us with a clear view of the essential structure of our existence. We learn, in particular, that even when all else fails we still care about our being, and all the other things we concern ourselves with are rooted ultimately in this fundamental care. As McMullin puts it, we learn that "[t]o be a self is to be defined by care-laden openness to the world" (McMullin 2013: 17).
+
+##### 2.2.3.2 Understanding and Interpretation
+
+Heidegger defines understanding as "projection onto possibilities". The thought here is a straightforward one: to make sense of anything is to see it in its modal context. To be at home in a world is to understand it, and that means to possess the practical and cognitive skills for recognizing and responding to the situations and possibilities that one typically encounters in that world.
+
+Heidegger defines interpretation as the "working out" of "possibilities projected in the understanding" (SZ 148). This working out involves enacting one of the possible ways of construing the situation in question. Interpretation is "[t]he mode of enactment of the understanding … specifically as the cultivation, appropriation, and preservation of what is discovered in understanding" (GA20: 366).
+
+##### 2.2.3.3 Discourse and Language
+
+Heidegger defines discourse (Rede) as "the articulation into significations of the intelligibility of being-in-the-world—an intelligibility that is disposed" (SZ 162). In other words, discourse picks out the significant features of our active engagement with the world. Discourse provides us with the ability to reliably recognize and skillfully respond to the recurring significant features that we encounter in the course of our active engagement with our surroundings.
+
+Scholars disagree however, on the degree to which discourse can be distinguished from language. Some interpreters collapse entirely the distinction between discourse and linguistic utterance, or argue that Heidegger's attempt to distinguish between language and discourse is "doomed to failure" (Lafont 994 [2000: 67]).
+
+### 2.3 Everydayness
+
+The avowed purpose of Division One of Being and Time is an analytic of Dasein "in its average everydayness" (SZ 16). The world of everyday Dasein is a concrete whole of affordances (Bewandtnisganzheit)—i.e., the ordinary equipmental contexts that sustain a particular form of life.
+
+Heidegger's account of falling draws on the Christian theological tradition (and Kierkegaard in particular), and the word "fallen" is meant to capture the idea that, in everyday existence, Dasein "surrenders itself to the 'world' and lets the 'world' 'matter' to it in such a way that somehow Dasein evades its very self" (SZ 139). One surrenders to the world by becoming fully "absorbed in" mundane daily activities (SZ 175). There is, moreover, "a constant temptation towards falling" (SZ 177).
+
+### 2.4 Authenticity
+
+Heidegger launches Division Two by turning the focus from the conformism of everyday existence to Dasein's ability to be "authentically a self in primordial individualization" (SZ 324).
+
+How should we understand the distinction between inauthentic and authentic modes of Dasein? "You exist in the mode of authenticity", Käufer explains, "if you have 'chosen, or achieved yourself in your being', and you exist in the mode of inauthenticity if you have 'lost or only seemingly achieved yourself'" (Käufer 2021a: 71).
+
+The authentic person, by contrast, owns up to the responsibility for their own choices. This embrace of responsibility, Heidegger argues, is made possible by "the anticipation of death", and by "taking over guilt in resoluteness" (see, e.g., SZ 305).
+
+#### 2.4.1 Death
+
+The anticipation of death, Heidegger argues, "individualizes Dasein down to itself" (SZ 263). 
+
+For Heidegger, to "choose" or "achieve" oneself does not mean that we have a true, deep self that lies hidden and must be recovered. Instead, Heideggerian authenticity, as the German word for 'authentic'—eigentlich—suggests, "means an existence that is owned, or taken hold of" (Käufer 2015: 104).
+
+The authentic self achieves a certain kind of integrity or "self-constancy" in contrast to the inauthentic anyone-self, who acts in ways that conform to publicly shared norms and expectations. Everyday Dasein acquiesces in pursuing whatever possibilities "may accidentally thrust themselves upon one" (SZ 264). Rather than achieving an individual wholeness or coherence to its character, it finds itself "dispersed into the anyone"—into the tasks that one is expected to perform.
+
+### 2.5 Temporality and Historicity
+
+Heidegger's answer to the being-question is that time (or temporality) is what allows us to make sense of being—that time is "the possible horizon for any understanding whatsoever of being" (SZ 1). The fundamental structures of Dasein's existence—understanding, disposedness, falling, and authenticity—are all grounded in a distinctive relationship to time.
+
+Heidegger distinguishes between "vulgar" or ordinary time—clock time, calendar time, the time of everyday life—and what he calls "original temporality." Dasein's temporality is not a series of discrete now-points. Rather, it is the unified flow of a life that maintains identity through change, oriented toward its own possibilities, including the possibility of its own cessation.
+
+Historicity (Geschichtlichkeit) is Dasein's manner of existing as the being that has been. "To be historic does not mean being in time; rather, the reverse is true: the being that has been (the past) is only possible on the basis of temporality." Dasein is always already its past, not in the sense of a static fact, but as a future-oriented projection that carries its past along with it.
+
+### 3. Later Thought
+
+Heidegger's later thought was increasingly preoccupied with the history of being (Seinsgeschichte), with the nature of language, and with the dangers of our technological age. His thinking shifted from the analysis of Dasein's existence to a meditation on the "event" (Ereignis) by which being and thinking are ultimately co-determined.
+
+#### 3.1 The Turn (Die Kehre)
+
+After Being and Time, Heidegger underwent what he called the "turn" (Kehre). Where Being and Time began from Dasein's understanding of being, the later Heidegger traced the history of being itself, arguing that the Western tradition had progressively forgotten the question of being, reducing it to the question of beings (Seiendes). The turn involves a shift from the existential analytic of Dasein to a meditation on the "lighting" (Lichtung) that makes both being and beings intelligible.
+
+#### 3.2 Language and Poetry
+
+For the later Heidegger, language is not a tool for communication but the "house of being" (das Haus des Seins). "Language is the house of Being. Man dwells in this house." Through language, being comes to presence. Poetry, in particular, is privileged as the language that most authentically lets beings appear as they are, unmediated by instrumental rationality.
+
+In his readings of Hölderlin and the pre-Socratics, Heidegger sought to recover a thinking that would be open to the "四蕴" (fourfold) of earth, sky, mortals, and divinities—a dwelling that is "poetic" in the fullest sense.
+
+#### 3.3 Technology and the Danger
+
+Heidegger's most widely read later work is his meditation on modern technology, "The Question Concerning Technology" (1954). He argued that modern technology is not merely a means to an end but a distinctive mode of "revealing" (Entbergen)—a mode that sets upon nature, reducing it to "standing-reserve" (Bestand), resources to be exploited without remainder.
+
+In the technological mode of revealing, everything is "enframed" (Gestell). The danger, Heidegger warned, is not technology itself but the possibility that this mode of revealing might become the only one we recognize—that we might become unable to think or experience anything that does not present itself as standing-reserve.
+
+Heidegger responded to the technologization of everyday life by working to develop a non-calculative mode of thinking, and to encourage post-technological forms of "poetic dwelling." He recommended Gelassenheit (releasement, let-go)—a stance of openness toward the mysterious, neither forcing technology nor simply rejecting it.
+
+### 4. Assessments
+
+#### 4.1 The Nazi Era and Anti-Semitism
+
+Heidegger's entanglement with National Socialism remains one of the most controversial aspects of his legacy. As rector of Freiburg University in 1933–34, he was responsible for implementing Nazi policies at the university, and he remained a party member throughout the Nazi period. In 1941, he removed the dedication of Being and Time to Husserl for a reprint, falsely claiming publisher pressure.
+
+His 1935 remarks praising the "inner truth and greatness" of National Socialism—delivered in a lecture published later without deletions—remain a particular source of controversy. Though Heidegger claimed to have been naive about Nazi atrocities, his refusal to unequivocally condemn them has been widely criticized.
+
+Scholars continue to debate how much these political engagements affected his philosophy. Some argue that authoritarian themes in Being and Time—particularly the critique of the "they-self" and the valorization of "authentic" selfhood—were retrospectively enlisted in the service of Nazi ideology. Others insist that Heidegger's philosophy transcends his political errors.
+
+#### 4.2 Influence
+
+Heidegger's influence extends across virtually every area of contemporary philosophy, literary theory, theology, anthropology, and cognitive science. His analysis of being-in-the-world has been foundational for the phenomenological movement, for existentialism, for hermeneutics (through Gadamer), for the pragmatic tradition (through Dreyfus), and for deconstruction (through Derrida).
+
+His critique of technology anticipated many themes in contemporary philosophy of technology. His readings of pre-Socratic philosophy revived interest in early Greek thought. And his meditation on language opened new possibilities for thinking about literature and poetry.
+
+---
+
+## Key Quotes from Stanford Encyclopedia
+
+- Heidegger's declared aim in Being and Time "is the concrete working out of the question of the 'meaning' (Sinn) of 'being'" (SZ 1).
+- "Being is not a substance, a process, an event, or anything that we normally come across; rather it is a fundamental aspect of entities, viz. their intelligibility" (Dreyfus 1991: xi, summarizing Heidegger).
+- "Language is the house of Being. Man dwells in this house." (GA9: 313/233)
+- "To be a self is to be defined by care-laden openness to the world" (McMullin 2013: 17).
+- "The entities that make up the world are 'not thing-like objects but significations'" (GA64: 65).
+- "It is not things but references which have the primary function in the structure of encounter belonging to the world; not substances but functions" (GA20: 272).
+- "You exist in the mode of authenticity if you have 'chosen, or achieved yourself in your being', and you exist in the mode of inauthenticity if you have 'lost or only seemingly achieved yourself'" (Käufer 2021a: 71).
+- "The anticipation of death individualizes Dasein down to itself" (SZ 263).
+- "Time is 'the possible horizon for any understanding whatsoever of being'" (SZ 1).

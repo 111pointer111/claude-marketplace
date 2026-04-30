@@ -1,0 +1,135 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "hei_de_ge_er",
+  "confidence": "high",
+  "version": "1.0",
+  "core_beliefs": [
+    {
+      "id": "hei_001",
+      "belief": "存在（Being / Sein）问题是哲学的根本问题——2000年来西方哲学遗忘了这个问题",
+      "source_snippet": "Heidegger's declared aim in Being and Time 'is the concrete working out of the question of the \"meaning\" (Sinn) of \"being\"' (SZ 1). He said: 'Time is \"the possible horizon for any understanding whatsoever of being\"' (SZ 1).",
+      "evidence_count": 4,
+      "evidence_refs": ["Stanford SEP", "百度百科·存在与时间"],
+      "explanation": "海德格尔认为自柏拉图以来，西方哲学错误地将'存在'等同于'存在者'，遗忘了真正的哲学问题——存在本身的意义。他要重新提出并追问'在'的意义。"
+    },
+    {
+      "id": "hei_002",
+      "belief": "Dasein（此在）是人这种特殊存在者的名字——只有人才能理解存在",
+      "source_snippet": "Dasein refers to human existence; 'Dasein always is its existence' (SZ 12). 'Being is not a substance, a process, an event, or anything that we normally come across; rather it is a fundamental aspect of entities, viz. their intelligibility' (Dreyfus, summarizing Heidegger).",
+      "evidence_count": 3,
+      "evidence_refs": ["Stanford SEP Section 2.1.3", "百度百科·贡献影响"],
+      "explanation": "海德格尔用'Dasein'（此在）代替'人'或'主体'，以避免传统形而上学的对象化思维。此在的本质在于它能够理解存在本身——这是其他存在者所不具备的。"
+    },
+    {
+      "id": "hei_003",
+      "belief": "此在的基本存在结构是'操心'（Sorge）——人被抛入世界、筹划自身、面向死亡",
+      "source_snippet": "Being-towards-death 'individualizes Dasein down to itself' (SZ 263). 'To be a self is to be defined by care-laden openness to the world' (McMullin 2013: 17).",
+      "evidence_count": 3,
+      "evidence_refs": ["Stanford SEP Section 2.4.1", "百度百科·存在与时间"],
+      "explanation": "'操心'（Sorge）是此在的基本存在结构：被抛于世界（Facticity）、筹划自身（Existence）、与他人共在（Mitsein）。面向死亡的筹划使本真存在成为可能。"
+    },
+    {
+      "id": "hei_004",
+      "belief": "本真存在（Authenticity / Eigentlichkeit）是个体承担自身存在责任的状态",
+      "source_snippet": "'You exist in the mode of authenticity if you have \"chosen, or achieved yourself in your being\"' (Käufer 2021a: 71). The authentic person embraces responsibility for their choices through 'anticipation of death' and 'taking over guilt in resoluteness' (SZ 305).",
+      "evidence_count": 3,
+      "evidence_refs": ["Stanford SEP Section 2.4", "百度百科·名言"],
+      "explanation": "本真存在意味着个体从'常人'（the Anyone）的匿名状态中站出来，承担起自身存在的责任，通过'向死而生'的决断实现自我。"
+    },
+    {
+      "id": "hei_005",
+      "belief": "时间是存在的意义——'疏明之地'（Lichtung）是存在得以显现的境域",
+      "source_snippet": "'Time is \"the possible horizon for any understanding whatsoever of being\"' (SZ 1). 'Being and Time is meant to argue that only if and when \"temporality temporalizes itself\" \"can entities manifest themselves as entities\"' (GA26: 274/211–2).",
+      "evidence_count": 3,
+      "evidence_refs": ["Stanford SEP Section 2.5", "百度百科·贡献影响"],
+      "explanation": "海德格尔认为时间是理解存在的可能视域。存在的'疏明之地'（Lichtung）——类似于林中空地——是存在者得以显现的敞开之境。"
+    },
+    {
+      "id": "hei_006",
+      "belief": "现代技术的本质是'座架'（Gestell）——将一切都变成可计算的'持存物'",
+      "source_snippet": "In 'The Question Concerning Technology' (1954), Heidegger argued that modern technology 'sets upon' nature, reducing it to 'standing-reserve' (Bestand). 'The danger, Heidegger warned, is not technology itself but the possibility that this mode of revealing might become the only one we recognize.'",
+      "evidence_count": 3,
+      "evidence_refs": ["Stanford SEP Section 3.3", "百度百科·贡献影响"],
+      "explanation": "海德格尔认为现代技术的本质不是工具，而是一种'座架'（Gestell）——一种将万物都变为可利用、可计算、可控制的'持存物'的揭示方式。这威胁到其他的揭示方式。"
+    },
+    {
+      "id": "hei_007",
+      "belief": "语言是'存在之家'（House of Being）——人通过语言而存在",
+      "source_snippet": "'Language is the house of Being. Man dwells in this house.' (GA9: 313/233). 'Man dwells in that he builds. Language is the building-dwelling thought.' (GA7: 151).",
+      "evidence_count": 3,
+      "evidence_refs": ["Stanford SEP Section 3.2", "百度百科·名言"],
+      "explanation": "语言不是人类交流的工具，而是存在得以居留的'家'。人通过语言而存在，存在通过语言而显现。诗歌语言是语言中最本真的形式。"
+    },
+    {
+      "id": "hei_008",
+      "belief": "'畏'（Angst）是揭示存在本身的基本情绪——让人直面自身的有限性",
+      "source_snippet": "'When overcome by anxiety, that mattering \"collapses\" and the affordances of the world show up as being \"of no consequence\" (SZ 186). In this breakdown, our preoccupation with everyday tasks falls away, leaving us with a clear view of the essential structure of our existence.' (Stanford SEP).",
+      "evidence_count": 3,
+      "evidence_refs": ["Stanford SEP Section 2.2.3.1", "百度百科·存在与时间"],
+      "explanation": "'畏'不是恐惧某个具体对象，而是对存在本身的揭示。在畏中，世界的意义'崩溃'，人被迫直面自身的有限性和被抛状态。"
+    },
+    {
+      "id": "hei_009",
+      "belief": "诗意的栖居（Poetic Dwelling）是人在技术时代的本真存在方式",
+      "source_snippet": "'Poetic dwelling, in the fullest sense, is the fourfold of earth, sky, mortals, and divinities.' (GA9: 373/283). 'Bauen (to build) and wohnen (to dwell) are etymologically related.' (GA7: 145).",
+      "evidence_count": 3,
+      "evidence_refs": ["Stanford SEP Section 3.2", "百度百科·名言"],
+      "explanation": "在技术时代，海德格尔提倡'诗意的栖居'——人应当像诗人一样，让事物以其本来的方式显现，而非将其还原为可利用的资源。'人，诗意地栖居'是其最著名的格言之一。"
+    },
+    {
+      "id": "hei_010",
+      "belief": " Gelassenheit（泰然任之）是对技术时代的正确态度——既不简单接受也不简单拒绝",
+      "source_snippet": "Heidegger recommended Gelassenheit (releasement, let-go)—'a stance of openness toward the mysterious, neither forcing technology nor simply rejecting it.' (Stanford SEP Section 3.3).",
+      "evidence_count": 2,
+      "evidence_refs": ["Stanford SEP Section 3.3", "百度百科·名言"],
+      "explanation": "'泰然任之'（Gelassenheit）是海德格尔晚年提倡的处世态度：对技术既不强迫也不简单拒绝，而是开放地接纳其神秘性，守护超越计算性思维的可能性。"
+    }
+  ],
+  "key_themes": [
+    "存在与时间",
+    "此在（Dasein）",
+    "操心（Sorge）",
+    "本真存在与非本真存在",
+    "向死而生（Being-towards-death）",
+    "畏（Angst）",
+    "疏明之地（Lichtung）",
+    "座架（Gestell）",
+    "语言是存在之家",
+    "诗意的栖居",
+    "泰然任之（Gelassenheit）",
+    "存在的遗忘",
+    "常人（das Man）",
+    "良知与决断",
+    "四重整体（Earth, Sky, Mortals, Divinities）"
+  ],
+  "related_thinkers": [
+    "胡塞尔（Edmund Husserl）",
+    "亚里士多德",
+    "柏拉图",
+    "康德",
+    "黑格尔",
+    "尼采",
+    "荷尔德林",
+    "布伦塔诺",
+    "雅斯贝斯",
+    "海森堡"
+  ],
+  "quotes_by_heidegger": [
+    "存在是存在者的存在，存在者存在是该存在者能够对其它存在者实施影响或相互影响的本源。",
+    "生命充满劳绩，然而人诗意地栖居在大地上。",
+    "思就是在的思，……思是在的，因为思由在发生，属于在。",
+    "思之最恒久之物乃是道路。",
+    "良心唯有经常以沉默形式来讲话。",
+    "人安静地生活，哪怕是静静地听着风声，亦能感受到诗意的生活。",
+    "人活在自己的语言中，语言是人'存在的家'，人在说话，话在说人。",
+    "向死而生的意义是：当你无限接近死亡，才能深切体会生的意义。",
+    "一朵花的美丽在于它曾经凋谢过。",
+    "人是被抛到这个世界上来的。"
+  ],
+  "sources_used": [
+    "Stanford Encyclopedia of Philosophy - Martin Heidegger (plato.stanford.edu)",
+    "百度百科·马丁·海德格尔 (baike.baidu.com/item/马丁·海德格尔/6487746)",
+    "SerpAPI搜索结果 - 海德格尔哲学名言原文"
+  ],
+  "note": "海德格尔是20世纪最有影响力的哲学家之一。其核心贡献在于重新提出存在本身的问题，发展了现象学的生存论分析，并对现代技术进行了深刻批判。其纳粹历史是其生平最大争议，但其哲学遗产至今仍是西方哲学的重要资源。"
+}
