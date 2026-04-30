@@ -1,0 +1,52 @@
+{
+  "persona_id": "epicurus",
+  "name_zh": "伊壁鸠鲁",
+  "name_en": "Epicurus",
+  "birth_year_bc": 341,
+  "death_year_bc": 270,
+  "region": "古希腊",
+  "era": "希腊化时期",
+  "school": "伊壁鸠鲁学派（享乐主义）",
+  "confidence": "high",
+  "蒸馏时间": "2026-04-30",
+  "蒸馏模型": "MiniMax-M2.7",
+  "蒸馏人": "Coordinator Cron",
+  "语料统计": {
+    "来源数量": 5,
+    "传记文本字数": 12537,
+    "引语文本字数": 4687,
+    "致美诺西乌斯书": 10903,
+    "语料总字数": 25000,
+    "直接引用条数": 15
+  },
+  "文件清单": {
+    "SKILL.md": "主体技能文件，包含完整人物描述",
+    "VOICE.md": "Voice Profile，声音和表达特征",
+    "EVENTS.md": "生平事件图谱",
+    "README.md": "人物简介和使用说明",
+    "METADATA.json": "元数据",
+    "CITATIONS.md": "引用清单",
+    "raw_stats.json": "语料统计"
+  },
+  "核心教义": [
+    "快乐是最高善",
+    "死亡与我们无关",
+    "神不干预人间",
+    "简朴带来幸福",
+    "友谊是最大善",
+    "审慎高于一切"
+  ],
+  "代表作品": [
+    "《致美诺西乌斯书》",
+    "《主要教说》",
+    "《致赫罗多图斯书》",
+    "《致皮索克莱斯书》"
+  ],
+  "sources": [
+    "Letter to Menoeceus (MIT Internet Classics Archive, tr. Drew Hicks)",
+    "Diogenes Laertius Book X (attalus.org, tr. C.D. Yonge)",
+    "Stanford Encyclopedia of Philosophy - Epicurus",
+    "World History Encyclopedia - Epicurus",
+    "百度百科 - 伊壁鸠鲁"
+  ]
+}
