@@ -97,6 +97,7 @@
 | 82 | 尼采 | 德国/19世纪 | 2026-04-30 | high | 25 |
 | 83 | 海德格尔 | 德国/20世纪 | 2026-04-30 | high | 35 |
 | 84 | 萨特 | 法国/20世纪 | 2026-04-30 | medium | 30 |
+| 85 | 笛卡尔 | 法国/17世纪 | 2026-04-30 | high | 25 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -110,11 +111,10 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 笛卡尔（di_ka_er）
-**persona_id：** di_ka_er
-**来源：** backlog（第四批外国哲学人物，#89）
-
-**注：** 海德格尔已完成。web_search失败，改用 SerpAPI via web_fetch 成功抓取。来源：Stanford Encyclopedia of Philosophy + 百度百科马丁·海德格尔 + SerpAPI搜索补充。Git push 已成功（commit 290c6d2 推送至 origin/main）。
+**下一待处理：** 帕斯卡（ba_sha_la）
+**persona_id：** ba_sha_la
+**来源：** backlog（第四批外国哲学人物，#90）
+**注：** 笛卡尔已完成。web_search失败，改用 SerpAPI via web_fetch 成功。来源：Stanford Encyclopedia of Philosophy + World History Encyclopedia + Britannica。Git push 已成功（commit d0ef462 推送至 origin/main）。
 
 
 ## 四、统计概览
