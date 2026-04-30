@@ -1,0 +1,32 @@
+{
+  "人物": "让-保罗·萨特",
+  "persona_id": "sa_te",
+  "外文名": "Jean-Paul Sartre",
+  "朝代": "法国/20世纪",
+  "生卒年": "1905-1980",
+  "蒸馏版本": "1.0",
+  "蒸馏日期": "2026-04-30",
+  "蒸馏耗时_分钟": 30,
+  "overall_confidence": "medium",
+  "sources_used_count": 4,
+  "主要来源": [
+    "百度百科·萨特（baike.baidu.com/item/萨特）",
+    "World History Encyclopedia - Jean-Paul Sartre",
+    "Britannica - Jean-Paul Sartre",
+    "Stanford Encyclopedia of Philosophy - Sartre"
+  ],
+  "核心身份": "哲学家、小说家、剧作家、政治评论家",
+  "哲学流派": "存在主义（无神论）",
+  "核心原理": "存在先于本质",
+  "代表作品": [
+    "《存在与虚无》(1943)",
+    "《恶心》(1938)",
+    "《禁闭》(1944)",
+    "《存在主义是一种人道主义》(1946)"
+  ],
+  "关键关系": {
+    "伴侣": "西蒙娜·德·波伏娃（Simone de Beauvoir）",
+    "决裂者": "阿尔贝·加缪（Albert Camus，1951年）"
+  },
+  "引用验证": "已通过质量控制检查"
+}

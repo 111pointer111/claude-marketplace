@@ -1,0 +1,28 @@
+{
+  "人物": "让-保罗·萨特（Jean-Paul Sartre）",
+  "persona_id": "sa_te",
+  "朝代": "法国/20世纪",
+  "生卒年": "1905-1980",
+  "蒸馏日期": "2026-04-30",
+  "置信度": "medium",
+  "原始资料统计": {
+    "传记": "有（百度百科15684字）",
+    "后世评述": "有（来自百度百科、World History Encyclopedia、Britannica、Stanford Encyclopedia）",
+    "引语": "40+条",
+    "主要作品覆盖": [
+      "《恶心》(1938) - 百度百科+World History Encyclopedia",
+      "《存在与虚无》(1943) - Stanford Encyclopedia+百度百科",
+      "《禁闭》(1944) - 百度百科+World History Encyclopedia",
+      "《存在主义是一种人道主义》(1946) - SerpAPI搜索+百度百科",
+      "《辩证理性批判》(1960) - 百度百科+Stanford Encyclopedia",
+      "《词语》(1963) - 百度百科+Britannica"
+    ]
+  },
+  "sources_used": [
+    "百度百科·让-保罗·萨特（baike.baidu.com/item/萨特，15684字）",
+    "World History Encyclopedia - Jean-Paul Sartre（worldhistory.org/Jean-Paul_Sartre/，约30000字）",
+    "Britannica - Jean-Paul Sartre（britannica.com/biography/Jean-Paul-Sartre，约10000字）",
+    "Stanford Encyclopedia of Philosophy - Sartre（plato.stanford.edu/entries/sartre/，约30000字截取）"
+  ],
+  "质量说明": "萨特为法国哲学家，主要著作为法文，中文资料为翻译和二手文献；英文资料来源质量高；共4个不同来源，符合最低3个要求；语料覆盖生平、主要作品和核心哲学思想"
+}
