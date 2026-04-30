@@ -93,6 +93,7 @@
 | 78 | 亚里士多德 | 古希腊 | 2026-04-30 | A | 25 |
 | 79 | 伊壁鸠鲁 | 古希腊 | 2026-04-30 | medium-high | 16 |
 | 80 | 康德 | 德国/18世纪 | 2026-04-30 | high | 30 |
+| 81 | 黑格尔 | 德国/19世纪 | 2026-04-30 | medium-high | 30 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -106,18 +107,20 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 黑格尔（hei_ge_er）
-**persona_id：** hei_ge_er
-**来源：** backlog #85
+**下一待处理：** 待确定（请查看 queue/backlog.md）
+**persona_id：** 待确定
+**来源：** backlog（需重新读取）
+
+**注：** 黑格尔已完成。网络连接失败，git push origin main 未能在本轮完成。本地已提交，待网络恢复后重试。
 
 
 ## 四、统计概览
 
 ```
 总人物数：     170
-已完成：       80
+已完成：       81
 进行中：       0
-待处理：       91
+待处理：       90
 完成率：       47%（80/170）
 
 按 priority：
@@ -1378,3 +1381,26 @@
 **confidence：** A
 **耗时：** 约25分钟
 **备注：** 亚里士多德为古希腊哲学家，无诗词作品，无诗词下限要求；语料以哲学论文和传记为核心；主要作品为《尼各马可伦理学》《诗学》《形而上学》等；康德在《纯粹理性批判》中评价亚里士多德逻辑学"两千多年来未向前迈出一步"；西塞罗称其散文为"流动的黄金"；Stanford Encyclopedia 评价其散文风格"不加修饰的直接性"；亚里士多德与柏拉图、苏格拉底并称希腊三大哲学家，影响延伸至伊斯兰黄金时代、基督教经院哲学、文艺复兴和启蒙运动。
+
+### 2026-04-30 黑格尔（hei_ge_er）蒸馏记录
+
+**web_search：** ✅ 成功（DuckDuckGo）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调用，返回 JSON）
+**web_fetch：** ⚠️ 部分成功
+- Stanford Encyclopedia of Philosophy：✅ 成功
+- Britannica：✅ 成功
+- 百度百科：❌ 404
+- worldhistory.org：❌ 403
+- marxists.org：❌ fetch failed
+- 知乎：❌ 403
+
+**最终来源：**
+1. Stanford Encyclopedia of Philosophy - Hegel（plato.stanford.edu/entries/hegel/）— 学术评论（50000字，主源）
+2. Britannica大英百科全书（britannica.com/biography/Georg-Wilhelm-Friedrich-Hegel）— 传记（9000字）
+
+**git push 情况：** ❌ 失败（GitHub 连接超时，无法连接至 github.com:443）
+**本地 commit：** ✅ 成功（commit hash: 2af7cdb）
+
+**confidence：** medium-high
+**耗时：** 约30分钟
+**备注：** 黑格尔为德国唯心主义哲学家，无诗词作品；语料以 Stanford Encyclopedia 和 Britannica 为核心；百度百科词条404导致中文语料受限，通过英文权威来源补充；git push 持续失败，本地已提交，待网络恢复后重试。
