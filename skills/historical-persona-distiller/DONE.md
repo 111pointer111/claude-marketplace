@@ -92,6 +92,7 @@
 | 77 | 柏拉图 | 古希腊 | 2026-04-30 | medium | 60 |
 | 78 | 亚里士多德 | 古希腊 | 2026-04-30 | A | 25 |
 | 79 | 伊壁鸠鲁 | 古希腊 | 2026-04-30 | medium-high | 16 |
+| 80 | 康德 | 德国/18世纪 | 2026-04-30 | high | 30 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -105,27 +106,27 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 康德（kang_de）
-**persona_id：** kang_de
-**来源：** backlog #84
+**下一待处理：** 黑格尔（hei_ge_er）
+**persona_id：** hei_ge_er
+**来源：** backlog #85
 
 
 ## 四、统计概览
 
 ```
 总人物数：     170
-已完成：       79
+已完成：       80
 进行中：       0
-待处理：       92
-完成率：       46%（79/170）
+待处理：       91
+完成率：       47%（80/170）
 
 按 priority：
-  high：       36（已完27）
+  high：       36（已完28）
   medium：     54（已完28）
   low：        80（已完16）
 
 按 confidence：
-  high：       41
+  high：       42
   medium：     27
   A：           1
   medium-high：  1
@@ -1196,6 +1197,27 @@
 ---
 
 ## 三、执行日志
+
+### 2026-04-30 康德（kang_de）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接超时）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索）
+**web_fetch：** ✅ 成功
+
+**最终来源：**
+1. Stanford Encyclopedia of Philosophy - Kant (plato.stanford.edu) — 学术文献（50000字截取）
+2. World History Encyclopedia - Immanuel Kant (worldhistory.org) — 英文传记（30000字）
+3. Britannica - Immanuel Kant (britannica.com) — 简介（5000字）
+4. SerpAPI Google Search Results — 中文搜索摘要（5000字）
+
+**备注：** 康德是哲学家，无诗词作品，诗词要求不适用；主要语料为哲学论文原文及二手研究；多源交叉验证一致。
+
+**git push 情况：** 首次 push 成功，无错误
+
+**confidence：** high
+**耗时：** 约30分钟
+
+---
 
 ### 2026-04-30 伊壁鸠鲁（yi_bi_jiu_lu）蒸馏记录
 
