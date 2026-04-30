@@ -96,6 +96,7 @@
 | 81 | 黑格尔 | 德国/19世纪 | 2026-04-30 | medium-high | 30 |
 | 82 | 尼采 | 德国/19世纪 | 2026-04-30 | high | 25 |
 | 83 | 海德格尔 | 德国/20世纪 | 2026-04-30 | high | 35 |
+| 84 | 萨特 | 法国/20世纪 | 2026-04-30 | medium | 30 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -109,9 +110,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 萨特（sa_te）
-**persona_id：** sa_te
-**来源：** backlog（第四批外国哲学人物，#88）
+**下一待处理：** 笛卡尔（di_ka_er）
+**persona_id：** di_ka_er
+**来源：** backlog（第四批外国哲学人物，#89）
 
 **注：** 海德格尔已完成。web_search失败，改用 SerpAPI via web_fetch 成功抓取。来源：Stanford Encyclopedia of Philosophy + 百度百科马丁·海德格尔 + SerpAPI搜索补充。Git push 已成功（commit 290c6d2 推送至 origin/main）。
 
@@ -120,19 +121,19 @@
 
 ```
 总人物数：     170
-已完成：       83
+已完成：       84
 进行中：       0
-待处理：       88
-完成率：       49%（83/170）
+待处理：       87
+完成率：       49%（84/170）
 
 按 priority：
   high：       36（已完29）
-  medium：     54（已完29）
+  medium：     54（已完30）
   low：        80（已完16）
 
 按 confidence：
   high：       44
-  medium：     27
+  medium：     28
   A：           1
   medium-high：  1
   low：        0
@@ -1454,3 +1455,22 @@
 **耗时：** 约35分钟
 
 **备注：** 海德格尔为德国哲学家（无诗词作品），但他是20世纪最重要哲学家之一；《存在与时间》是其核心著作；语料包含丰富的直接引语（名言）和思想分析；3个来源交叉验证；纳粹历史争议已纳入立场光谱文件；web_search失败后 SerpAPI via web_fetch 成功发挥作用。
+
+### 2026-04-30 萨特（sa_te）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接超时）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调用 SerpAPI Google 搜索）
+**web_fetch：** ✅ 成功（多个来源）
+
+**最终来源：**
+1. 百度百科·让-保罗·萨特（baike.baidu.com/item/萨特，15684字）— 传记+作品+思想（主源）
+2. World History Encyclopedia - Jean-Paul Sartre（worldhistory.org/Jean-Paul_Sartre/，30000字）— 英文传记（副源）
+3. Britannica - Jean-Paul Sartre（britannica.com/biography/Jean-Paul-Sartre，10000字）— 英文简介
+4. Stanford Encyclopedia of Philosophy - Sartre（plato.stanford.edu/entries/sartre/，30000字截取）— 学术文献（副源）
+
+**git push 情况：** ✅ 首次 push 成功（commit a630fa6 推送至 origin/main）
+
+**confidence：** medium
+**耗时：** 约30分钟
+
+**备注：** 萨特为法国哲学家，主要著作为法文，中文资料为翻译和二手文献；英文来源（World History Encyclopedia、Britannica、Stanford Encyclopedia）质量高；共4个不同来源，符合多源要求；萨特拒领诺贝尔奖、与加缪决裂、1956年谴责苏联等关键事实已纳入蒸馏；语料覆盖生平、主要作品（存在与虚无、恶心、禁闭）和核心哲学思想。
