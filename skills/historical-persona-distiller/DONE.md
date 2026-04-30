@@ -95,6 +95,7 @@
 | 80 | 康德 | 德国/18世纪 | 2026-04-30 | high | 30 |
 | 81 | 黑格尔 | 德国/19世纪 | 2026-04-30 | medium-high | 30 |
 | 82 | 尼采 | 德国/19世纪 | 2026-04-30 | high | 25 |
+| 83 | 海德格尔 | 德国/20世纪 | 2026-04-30 | high | 35 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -108,29 +109,29 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 海德格尔（hei_de_ge_er）
-**persona_id：** hei_de_ge_er
-**来源：** backlog（第四批外国哲学人物，#87）
+**下一待处理：** 萨特（sa_te）
+**persona_id：** sa_te
+**来源：** backlog（第四批外国哲学人物，#88）
 
-**注：** 尼采已完成。网络正常。百度百科尼采词条404，改用 Stanford Encyclopedia of Philosophy 和 Britannica 两个英文权威来源完成蒸馏。黑格尔 git push 已成功（commit 2af7cdb 推送至 origin/main）。
+**注：** 海德格尔已完成。web_search失败，改用 SerpAPI via web_fetch 成功抓取。来源：Stanford Encyclopedia of Philosophy + 百度百科马丁·海德格尔 + SerpAPI搜索补充。Git push 已成功（commit 290c6d2 推送至 origin/main）。
 
 
 ## 四、统计概览
 
 ```
 总人物数：     170
-已完成：       82
+已完成：       83
 进行中：       0
-待处理：       89
-完成率：       48%（81/170）
+待处理：       88
+完成率：       49%（83/170）
 
 按 priority：
   high：       36（已完29）
-  medium：     54（已完28）
+  medium：     54（已完29）
   low：        80（已完16）
 
 按 confidence：
-  high：       43
+  high：       44
   medium：     27
   A：           1
   medium-high：  1
@@ -1428,3 +1429,28 @@
 **耗时：** 约25分钟
 
 **备注：** 尼采为德国哲学家，无诗词作品，无诗词下限要求；web_search 多次失败；百度百科尼采词条（/166016 和全名路径）均返回404；最终以 Stanford Encyclopedia of Philosophy（学术评论，含尼采传记、生平、作品和哲学思想详解）和 Britannica（传记简介）两个英文权威来源完成蒸馏；两个来源交叉验证一致，confidence 评级 high；思想内核每条结论至少有2处原文引用；中文语料严重受限，但英文权威来源足够支撑高质量蒸馏。
+
+### 2026-04-30 海德格尔（hei_de_ge_er）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 无结果或超时）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调用 SerpAPI Google 搜索）
+**web_fetch：** ⚠️ 部分成功
+- Stanford Encyclopedia of Philosophy：✅ 成功（50000字，主源）
+- 百度百科·马丁·海德格尔：✅ 成功（21000字）
+- worldhistory.org：❌ 403
+- 百度百科 Heidegger 直接条目：❌ 404（baike.baidu.com/item/海德格尔/1232324 是传记书，不是人物条目）
+- Britannica：✅ 成功（12000字摘要）
+- Wikipedia（en/zh）：❌ fetch failed
+- zhihu.com：❌ 403
+
+**最终来源：**
+1. Stanford Encyclopedia of Philosophy - Martin Heidegger（plato.stanford.edu/entries/heidegger/）— 学术百科（50000字，主源，含海德格尔生平、Being and Time详解、后期思想）
+2. 百度百科·马丁·海德格尔（baike.baidu.com/item/马丁·海德格尔/6487746）— 中文百科（21000字，含详细年表、著作、名言）
+3. SerpAPI搜索补充 — 补充名言和生平细节
+
+**git push 情况：** ✅ 成功（使用 SSH URL 推送成功，commit 290c6d2）
+
+**confidence：** high
+**耗时：** 约35分钟
+
+**备注：** 海德格尔为德国哲学家（无诗词作品），但他是20世纪最重要哲学家之一；《存在与时间》是其核心著作；语料包含丰富的直接引语（名言）和思想分析；3个来源交叉验证；纳粹历史争议已纳入立场光谱文件；web_search失败后 SerpAPI via web_fetch 成功发挥作用。
