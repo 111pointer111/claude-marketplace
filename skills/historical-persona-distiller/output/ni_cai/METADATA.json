@@ -1,0 +1,40 @@
+{
+  "persona_id": "ni_cai",
+  "name_zh": "弗里德里希·尼采",
+  "name_en": "Friedrich Nietzsche",
+  "birth_death": "1844-1900",
+  "dynasty": "德国/19世纪",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "philosopher",
+  "key_WORKS": [
+    "《悲剧的诞生》(1872)",
+    "《查拉图斯特拉如是说》(1883-1885)",
+    "《善恶的彼岸》(1886)",
+    "《论道德的谱系》(1887)",
+    "《偶像的黄昏》(1888)",
+    "《反基督》(1888，未出版)",
+    "《瞧！这个人》(1888，未出版)"
+  ],
+  "philosophical_school": "存在主义先驱，权力意志哲学",
+  "core_concepts": [
+    "上帝已死",
+    "权力意志",
+    "超人",
+    "永恒轮回",
+    "主人道德 vs 奴隶道德",
+    "重估一切价值"
+  ],
+  "distillation_date": "2026-04-30",
+  "distillation_version": "1.0",
+  "source_corpus_size": "约25000字",
+  "sources_used": [
+    "Stanford Encyclopedia of Philosophy - Nietzsche",
+    "Britannica - Friedrich Nietzsche Biography"
+  ],
+  "notes": [
+    "尼采为哲学家，无诗词作品下限要求",
+    "所有引语来自二手学术来源",
+    "尼采生前大量著作未出版（《权力意志》由其妹编辑出版，存在争议）"
+  ]
+}

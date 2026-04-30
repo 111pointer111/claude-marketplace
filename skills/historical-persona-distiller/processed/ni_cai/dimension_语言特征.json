@@ -1,0 +1,65 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "ni_cai",
+  "confidence": "high",
+  "version": "1.0",
+  "linguistic_profile": {
+    "sentence_structure": "短句为主，格言体（aphoristic），短段落，编号箴言。长句与短句交替使用，形成节奏感。",
+    "paragraph_structure": "以短段落为主，每个段落通常只包含一个核心思想。善用省略号和破折号制造断裂和强调效果。",
+    "rhythm": "散文具有诗歌般的节奏感，格律性明显。经常使用排比和对照结构。",
+    "tone": "挑衅性、反讽性、悖论性。既有审判式的严肃，也有讽刺式的戏谑。语言充满激情但受控。",
+    "key_features": [
+      "格言体（aphorisms）：短、浓缩、警句式表达",
+      "反讽与悖论：颠覆常规观念",
+      "挑衅性断言：直接挑战传统价值观",
+      "心理分析视角：揭露表层下的动机",
+      "诗意散文：哲学与文学融合",
+      "对话性：《查拉图斯特拉如是说》采用先知演讲形式",
+      "反覆论证：通过重复核心概念强化论点"
+    ],
+    "style_evolution": [
+      {
+        "period": "早期（1869-1876）",
+        "description": "学术性散文风格，受古典 philology 训练影响，语言较为正式，学术论文形式。代表作《悲剧的诞生》。"
+      },
+      {
+        "period": "转型期（1877-1879）",
+        "description": "从学术论文转向格言体。《人性的，太人性的》标志了这一转变——短、编号段落，箴言风格。语言开始锋利。"
+      },
+      {
+        "period": "成熟期（1880-1888）",
+        "description": "格言体完全成熟，融合诗意与哲学。《查拉图斯特拉如是说》的演讲体、《善恶的彼岸》的论战性散文、《论道德的谱系》的分析性散文各有特色。语言充满挑衅、反讽、悖论。心理分析视角贯穿始终。"
+      }
+    ]
+  },
+  "stylistic_devices": [
+    "悖论式命题：用颠覆性方式表达深刻思想",
+    "排比结构：强化论点和节奏",
+    "省略号：暗示言外之意",
+    "破折号：制造断裂和强调",
+    "反讽：表面与深层含义的对比",
+    "挑衅性断言：直接挑战读者认知",
+    "隐喻与寓言：《查拉图斯特拉如是说》大量使用先知叙事"
+  ],
+  "characteristic_vocabularies": [
+    "权力（Will zur Macht / Power）",
+    "主人（vornehm / noble）",
+    "奴隶（Sklaven / slave）",
+    "超人（Übermensch / Superman）",
+    "永恒轮回（Ewige Wiederkunft / Eternal Recurrence）",
+    "重估（Umwertung / Revaluation）",
+    "虚无主义（Nihilismus / Nihilism）",
+    "怨恨（Ressentiment / Ressentiment）",
+    "主人道德 vs 奴隶道德",
+    "阿波罗式 vs 狄俄尼索斯式"
+  ],
+  "sample_text_analysis": {
+    "quote": "God is dead. God remains dead. And we have killed him.",
+    "analysis": "三个短句层层递进，从命题到结果到责任归属，最后一句达到高潮。"我们杀死了他"将读者纳入共谋，将形而上学问题转化为存在性问题。"
+  },
+  "sources_used": [
+    "Stanford Encyclopedia of Philosophy - Nietzsche",
+    "Britannica - Friedrich Nietzsche Biography"
+  ],
+  "note": "尼采的语言风格是哲学史上最具辨识度的风格之一。其格言体影响了20世纪存在主义、文学批评和散文写作。"
+}

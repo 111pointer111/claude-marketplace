@@ -1,0 +1,52 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "ni_cai",
+  "confidence": "high",
+  "version": "1.0",
+  "political_orientation": "无政府主义倾向（反对民族国家、群体道德），但对权威结构有复杂态度——反对平均主义平等但赞赏精英和能力。",
+  "social_philosophy": {
+    "hierarchy": "支持自然贵族式精英制度，但反对世袭特权；强调个人卓越和自我超越",
+    "equality": "明确反对平均主义平等；支持差异性的等级制度；贵族式不平等",
+    "individualism": "极端个人主义；强调个人意志和自我创造；反对群体本能",
+    "collectivism": "强烈反对集体主义；反对民族主义、社会主义、平均道德",
+    "religion": "彻底的无神论（但非简单否定）；批判基督教道德；批评制度性宗教",
+    "morality": "挑战传统道德（特别是利他主义）；主人道德 vs 奴隶道德的二元框架"
+  },
+  "cultural_positions": {
+    "modernity": "对启蒙现代性既接受又批判；接受科学和理性批判方法，但反对道德相对主义",
+    "romanticism": "受叔本华悲观主义影响，但发展出积极肯定的"权力意志"；与瓦格纳的浪漫主义经历爱恨交织",
+    "existentialism": "被视为存在主义先驱；强调个体存在和自我创造；拒绝本质主义",
+    "nihilism": "承认虚无主义是现代文化的深层危机，但视之为可克服的过渡状态"
+  },
+  "controversial_positions": [
+    "对妇女的贬低态度（"当你凝视女人时，别忘了带上鞭子"）",
+    "对反犹主义的复杂态度（强烈反对但其妹利用其著作）",
+    "对战争和强力的复杂态度（赞美但非简单军国主义）"
+  ],
+  "intellectual_aligned_with": [
+    "前苏格拉底哲学家（赫拉克利特）",
+    "叔本华（悲观主义继承与超越）",
+    "瓦格纳（早期思想盟友，后决裂）",
+    "斯宾诺莎（决定论和自然主义）",
+    "尼采的虚无主义批判者（20世纪存在主义）"
+  ],
+  "intellectual_opposed_to": [
+    "苏格拉底-柏拉图传统（理性主义道德）",
+    "基督教（特别是其道德基础）",
+    "康德（道德绝对主义）",
+    "民主和平等主义思想",
+    "社会主义和共产主义",
+    "民族主义"
+  ],
+  "spectrum_placement": {
+    "conservative_liberal": "文化精英主义（不支持任何现代标签）",
+    "individual_collective": "极端个人主义",
+    "secular_religious": "彻底世俗",
+    "rational_mystical": "理性主义但包含诗歌和神秘元素"
+  },
+  "sources_used": [
+    "Stanford Encyclopedia of Philosophy - Nietzsche",
+    "Britannica - Friedrich Nietzsche Biography"
+  ],
+  "note": "尼采的立场在政治哲学史上极难分类——他既反对自由主义也反对保守主义，既反对社会主义也反对民族主义。他的"精英主义"是一种文化等级制而非政治威权主义。理解尼采需要区分他自己复杂的立场与其妹妹后来被法西斯利用的诠释。"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "ni_cai",
+  "name_zh": "弗里德里希·尼采",
+  "name_en": "Friedrich Nietzsche",
+  "completion_date": "2026-04-30",
+  "confidence": "high",
+  "sources": [
+    "Stanford Encyclopedia of Philosophy - Nietzsche (plato.stanford.edu)",
+    "Britannica - Friedrich Nietzsche Biography (britannica.com)"
+  ],
+  "note": "尼采为哲学家，无诗词作品下限要求；web_search失败；百度百科尼采词条404；最终以Stanford Encyclopedia和Britannica两个英文权威来源完成蒸馏"
+}

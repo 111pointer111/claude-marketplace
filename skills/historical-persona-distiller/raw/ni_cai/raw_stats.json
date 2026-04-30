@@ -1,0 +1,14 @@
+{
+  "persona_id": "ni_cai",
+  "distillation_date": "2026-04-30",
+  "corpus_stats": {
+    "传记_chars": 2578,
+    "引语_chars": 1913,
+    "total_raw_chars": 4491
+  },
+  "sources": [
+    "Stanford Encyclopedia of Philosophy - Nietzsche (plato.stanford.edu)",
+    "Britannica - Friedrich Nietzsche Biography (britannica.com)"
+  ],
+  "note": "尼采为哲学家，无诗词作品；主要语料为学术文献和百科传记"
+}

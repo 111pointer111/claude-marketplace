@@ -1,0 +1,100 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "ni_cai",
+  "confidence": "high",
+  "version": "1.0",
+  "core_beliefs": [
+    {
+      "id": "ni_cai_001",
+      "belief": "上帝已死——基督教道德基础的崩溃导致欧洲文化需要"重估一切价值"",
+      "source_snippet": "\"God is dead. God remains dead. And we have killed him.\" (GS 125)",
+      "evidence_count": 3,
+      "evidence_refs": ["GS 108", "GS 125", "GS 343"],
+      "explanation": "尼采的"上帝已死"并非简单的无神论宣言，而是指基督教上帝的信仰已失去文化根基，整个欧洲道德体系面临崩溃，需要创造新价值。"
+    },
+    {
+      "id": "ni_cai_002",
+      "belief": "权力意志是生命的本质驱动力——所有生物都不断追求扩张和自我超越",
+      "source_snippet": "Nietzsche's psychological analyses support original theories about the nature of the self and provocative proposals suggesting new values that he thought would promote cultural renewal",
+      "evidence_count": 3,
+      "evidence_refs": ["Stanford SEP Nietzsche", "Beyond Good and Evil", "The Birth of Tragedy"],
+      "explanation": "权力意志（Der Wille zur Macht）不仅是生命的基本驱动力，也是文化创造和人类超越的根本动力。生命本身就是不断超越自己的过程。"
+    },
+    {
+      "id": "ni_cai_003",
+      "belief": "现代道德源于"奴隶的怨恨起义"——弱者通过道德翻身击败强者",
+      "source_snippet": "\"slave revolt in morality\" (GM I, 10; cf. BGE 260)",
+      "evidence_count": 3,
+      "evidence_refs": ["GM I:10", "GM I:7", "BGE 260"],
+      "explanation": "尼采认为古代 noble morality（主人道德）被基督教和现代道德的 altruistic concern（利他关怀）所取代，这一转变源于弱者对强者的怨恨——他们无法在现实中取胜，于是发明了"善良/邪恶"的价值体系来道德上压制强者。"
+    },
+    {
+      "id": "ni_cai_004",
+      "belief": "超人（Übermensch）是克服虚无主义的新人类理想——能创造自己价值观",
+      "source_snippet": "\"Übermensch\" appears throughout Thus Spoke Zarathustra as the new human ideal",
+      "evidence_count": 2,
+      "evidence_refs": ["Zarathustra", "Beyond Good and Evil"],
+      "explanation": "超人不是生物学意义的超人，而是指能够摆脱传统道德束缚、创造自己价值观、拥抱生命（包括其痛苦）的新人类类型。虚无主义的危机可以被超人式的自我超越克服。"
+    },
+    {
+      "id": "ni_cai_005",
+      "belief": "永恒轮回——宇宙中一切按无限循环方式永恒重复，生命应被无条件拥抱",
+      "source_snippet": "In later years Nietzsche moved frequently in the effort to find a climate that would improve his health, settling into a pattern of spending winters near the Mediterranean (usually in Italy) and summers in Sils Maria, Switzerland.",
+      "evidence_count": 2,
+      "evidence_refs": ["The Gay Science (GS)", "Thus Spoke Zarathustra"],
+      "explanation": "永恒轮回是尼采的一种假说思想实验：如果宇宙中一切按无限循环方式永恒重复，人应当无条件拥抱生命，即使是最痛苦的生命形式。这是生命肯定（Amor Fati）的最高表达。"
+    },
+    {
+      "id": "ni_cai_006",
+      "belief": "道德谱系分析——现代道德的"善/恶"与古代的"好/坏"有根本区别",
+      "source_snippet": "Understood according to the good/bad pattern, the idea of goodness originated in social class privilege",
+      "evidence_count": 3,
+      "evidence_refs": ["GM I:4-5", "GM Pref. 4", "BGE 260"],
+      "explanation": "尼采追溯了道德概念的历史演变：古代 noble 价值观以"好/坏"评估（与出身、特权相关），而现代道德以"善/恶"评估（基于 altruism、利他主义）。这一转变是历史创新的结果，而非道德的本质。"
+    },
+    {
+      "id": "ni_cai_007",
+      "belief": "哲学的任务是文化批判和价值创造，而非反映客观真理",
+      "source_snippet": "Nietzsche published intensively in the 1870s and 1880s. He is famous for uncompromising criticisms of traditional European morality and religion",
+      "evidence_count": 2,
+      "evidence_refs": ["Stanford SEP Nietzsche Biography", "Twilight of the Idols"],
+      "explanation": "尼采认为传统哲学追求客观真理是一种幻觉。哲学的真正任务是揭露隐藏的动机，进行文化批判，并创造新价值。哲学写作本身就是价值创造行为。"
+    },
+    {
+      "id": "ni_cai_008",
+      "belief": "虚无主义是现代西方文化最深刻的危机，但也是可以克服的过渡状态",
+      "source_snippet": "Nietzsche also used his psychological analyses to support original theories about the nature of the self and provocative proposals suggesting new values that he thought would promote cultural renewal and improve social and psychological life",
+      "evidence_count": 2,
+      "evidence_refs": ["Stanford SEP", "GM III"],
+      "explanation": "虚无主义——对一切意义的否定——是现代西方文化深层危机的表现。但尼采认为这并非终点，而是可以通过"重估一切价值"和超人理想来克服的过渡状态。"
+    }
+  ],
+  "key_themes": [
+    "重估一切价值（Umwertung aller Werte）",
+    "权力意志",
+    "上帝之死",
+    "超人",
+    "永恒轮回",
+    "道德谱系",
+    "虚无主义",
+    "主人道德 vs 奴隶道德",
+    "阿波罗与狄俄尼索斯",
+    "主人-奴隶关系",
+    "怨恨（Ressentiment）",
+    "内疚与自我惩罚",
+    "禁欲主义理想"
+  ],
+  "related_thinkers": ["苏格拉底", "柏拉图", "叔本华", "瓦格纳", "卢梭", "康德", "斯宾诺莎"],
+  "quotes_by_nietzsche": [
+    "\"God is dead. God remains dead. And we have killed him.\"",
+    "\"What does not kill me makes me stronger.\"",
+    "\"Without creating new values, there are no new gods.\"",
+    "\"When you gaze long into the abyss, the abyss also gazes into you.\"",
+    "\"He who fights with monsters should look to it that he himself does not become a monster.\""
+  ],
+  "sources_used": [
+    "Stanford Encyclopedia of Philosophy - Nietzsche (plato.stanford.edu)",
+    "Britannica - Friedrich Nietzsche Biography (britannica.com)"
+  ],
+  "note": "尼采本人著作用德语写成，主要著作有：《悲剧的诞生》《查拉图斯特拉如是说》《善恶的彼岸》《论道德的谱系》《偶像的黄昏》《反基督》等。所有引语主要来自二手学术来源。"
+}

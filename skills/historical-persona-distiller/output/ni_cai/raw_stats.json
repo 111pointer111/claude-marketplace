@@ -1,0 +1,48 @@
+{
+  "persona_id": "ni_cai",
+  "name_zh": "弗里德里希·尼采",
+  "name_en": "Friedrich Nietzsche",
+  "distillation_date": "2026-04-30",
+  "sources_count": 2,
+  "sources": [
+    {
+      "name": "Stanford Encyclopedia of Philosophy - Nietzsche",
+      "url": "plato.stanford.edu/entries/nietzsche/",
+      "type": "academic",
+      "size_chars": 30000
+    },
+    {
+      "name": "Britannica - Friedrich Nietzsche Biography",
+      "url": "britannica.com/biography/Friedrich-Nietzsche",
+      "type": "encyclopedia",
+      "size_chars": 10000
+    }
+  ],
+  "corpus_stats": {
+    "传记_chars": 2578,
+    "引语_chars": 1913,
+    "total_raw_chars": 4491,
+    "note": "尼采为哲学家，无诗词作品；主要语料为学术文献和百科传记"
+  },
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "raw_files": [
+    "raw/ni_cai/传记.txt",
+    "raw/ni_cai/引语.txt"
+  ],
+  "processed_files": [
+    "processed/ni_cai/stages.md",
+    "processed/ni_cai/dimension_思想内核.json",
+    "processed/ni_cai/dimension_语言特征.json",
+    "processed/ni_cai/dimension_表达偏好.json",
+    "processed/ni_cai/dimension_立场光谱.json",
+    "processed/ni_cai/dimension_voice_profile.json"
+  ]
+}
