@@ -1,0 +1,58 @@
+{
+  "persona_id": "yi_bi_jiu_lu",
+  "distilled_date": "2026-04-30",
+  "sources_count": 5,
+  "corpus_stats": {
+    "传记_txt": 1208,
+    "哲学思想_txt": 3203,
+    "引语_txt": 1652,
+    "后世评述_txt": 2296,
+    "全部语料_txt_chars": 8361,
+    "全部语料_txt_lines": 329
+  },
+  "source_details": [
+    {
+      "source": "百度百科·伊壁鸠鲁",
+      "type": "historical_record",
+      "chars_approx": 17337,
+      "status": "success"
+    },
+    {
+      "source": "百度百科·伊壁鸠鲁学派",
+      "type": "historical_record",
+      "chars_approx": 13095,
+      "status": "success"
+    },
+    {
+      "source": "百度百科·伊壁鸠鲁主义",
+      "type": "commentary",
+      "chars_approx": 3511,
+      "status": "success"
+    },
+    {
+      "source": "worldhistory.org Epicurus",
+      "type": "historical_record",
+      "chars_approx": 25295,
+      "status": "success"
+    },
+    {
+      "source": "Stanford Encyclopedia of Philosophy - Epicurus",
+      "type": "commentary",
+      "chars_approx": 50000,
+      "status": "success"
+    }
+  ],
+  "search_attempts": {
+    "web_search": "failed",
+    "serpapi": "success",
+    "direct_web_fetch": "success",
+    "total_sources_used": 5
+  },
+  "notes": [
+    "伊壁鸠鲁本人著述大量散佚（37卷仅存残篇），原始语料以二手研究为主",
+    "web_search（DuckDuckGo）失败，改用SerpAPI成功获取百度搜索结果",
+    "知乎等中文来源未能成功抓取",
+    "维基百科中文版抓取失败（404）",
+    "Stanford Encyclopedia提供了最完整的英文哲学论述"
+  ]
+}

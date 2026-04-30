@@ -1,0 +1,72 @@
+{
+  "persona_id": "yi_bi_jiu_lu",
+  "name": "伊壁鸠鲁",
+  "name_en": "Epicurus",
+  "name_grc": "Ἐπίκουρος",
+  "birth_year": -341,
+  "death_year": -270,
+  "era": "古希腊",
+  "region": "雅典",
+  "primary_tradition": "快乐主义伦理学 / 原子论唯物主义",
+  "confidence": "medium-high",
+  "distilled_date": "2026-04-30",
+  "sources": [
+    {
+      "title": "伊壁鸠鲁",
+      "source": "百度百科",
+      "url": "https://baike.baidu.com/item/伊壁鸠鲁/699505",
+      "chars": 17337
+    },
+    {
+      "title": "伊壁鸠鲁学派",
+      "source": "百度百科",
+      "url": "https://baike.baidu.com/item/伊壁鸠鲁学派/7474321",
+      "chars": 13095
+    },
+    {
+      "title": "伊壁鸠鲁主义",
+      "source": "百度百科",
+      "url": "https://baike.baidu.com/item/伊壁鸠鲁主义/5831848",
+      "chars": 3511
+    },
+    {
+      "title": "Epicurus",
+      "source": "World History Encyclopedia",
+      "url": "https://www.worldhistory.org/Epicurus/",
+      "chars": 25295
+    },
+    {
+      "title": "Epicurus",
+      "source": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/epicurus/",
+      "chars": 50000
+    }
+  ],
+  "philosophical_schools": [
+    "伊壁鸠鲁学派（花园学派）",
+    "快乐主义（幸福主义）",
+    "原子论唯物主义"
+  ],
+  "key_works": [
+    "《论自然》(Peri Phuseos) - 37卷，仅存残篇",
+    "《准则学》(Kanon) - 认识论",
+    "《致希罗多德书信》- 原子论摘要",
+    "《致墨诺修斯书信》- 伦理学摘要",
+    "《致毕托克里斯书信》- 气象学",
+    "《主要教诲》(Kuriai Doxai) - 格言集"
+  ],
+  "influenced_by": [
+    "德谟克利特（原子论）",
+    "居勒尼学派（快乐主义）",
+    "阿瑞斯提普斯（享乐主义）"
+  ],
+  "influenced": [
+    "卢克莱修《物性论》",
+    "伽森狄（17世纪）",
+    "马克思（博士论文）",
+    "边沁、密尔（功利主义）",
+    "社会契约论传统"
+  ],
+  "num_source_urls": 5,
+  "total_corpus_chars": 109238
+}
