@@ -94,6 +94,7 @@
 | 79 | 伊壁鸠鲁 | 古希腊 | 2026-04-30 | medium-high | 16 |
 | 80 | 康德 | 德国/18世纪 | 2026-04-30 | high | 30 |
 | 81 | 黑格尔 | 德国/19世纪 | 2026-04-30 | medium-high | 30 |
+| 82 | 尼采 | 德国/19世纪 | 2026-04-30 | high | 25 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -107,29 +108,29 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 待确定（请查看 queue/backlog.md）
-**persona_id：** 待确定
-**来源：** backlog（需重新读取）
+**下一待处理：** 海德格尔（hei_de_ge_er）
+**persona_id：** hei_de_ge_er
+**来源：** backlog（第四批外国哲学人物，#87）
 
-**注：** 黑格尔已完成。网络连接失败，git push origin main 未能在本轮完成。本地已提交，待网络恢复后重试。
+**注：** 尼采已完成。网络正常。百度百科尼采词条404，改用 Stanford Encyclopedia of Philosophy 和 Britannica 两个英文权威来源完成蒸馏。黑格尔 git push 已成功（commit 2af7cdb 推送至 origin/main）。
 
 
 ## 四、统计概览
 
 ```
 总人物数：     170
-已完成：       81
+已完成：       82
 进行中：       0
-待处理：       90
-完成率：       47%（80/170）
+待处理：       89
+完成率：       48%（81/170）
 
 按 priority：
-  high：       36（已完28）
+  high：       36（已完29）
   medium：     54（已完28）
   low：        80（已完16）
 
 按 confidence：
-  high：       42
+  high：       43
   medium：     27
   A：           1
   medium-high：  1
@@ -1404,3 +1405,26 @@
 **confidence：** medium-high
 **耗时：** 约30分钟
 **备注：** 黑格尔为德国唯心主义哲学家，无诗词作品；语料以 Stanford Encyclopedia 和 Britannica 为核心；百度百科词条404导致中文语料受限，通过英文权威来源补充；git push 持续失败，本地已提交，待网络恢复后重试。
+
+### 2026-04-30 尼采（ni_cai）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接超时）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调用 SerpAPI Google 搜索）
+**web_fetch：** ⚠️ 部分成功
+- Stanford Encyclopedia of Philosophy：✅ 成功
+- Britannica：✅ 成功
+- 百度百科尼采条目：❌ 404（baike.baidu.com/item/尼采/166016 返回"页面不存在"）
+- 百度百科尼采全名条目：❌ 404（baike.baidu.com/item/弗里德里希·威廉·尼采/2630781 返回"页面不存在"）
+- worldhistory.org：❌ 403
+- en.wikipedia.org：❌ fetch failed
+
+**最终来源：**
+1. Stanford Encyclopedia of Philosophy - Nietzsche（plato.stanford.edu/entries/nietzsche/）— 学术评论（30000字，主源）
+2. Britannica - Friedrich Nietzsche（britannica.com/biography/Friedrich-Nietzsche）— 传记（10000字）
+
+**git push 情况：** ✅ 成功（首次 push 成功）
+
+**confidence：** high
+**耗时：** 约25分钟
+
+**备注：** 尼采为德国哲学家，无诗词作品，无诗词下限要求；web_search 多次失败；百度百科尼采词条（/166016 和全名路径）均返回404；最终以 Stanford Encyclopedia of Philosophy（学术评论，含尼采传记、生平、作品和哲学思想详解）和 Britannica（传记简介）两个英文权威来源完成蒸馏；两个来源交叉验证一致，confidence 评级 high；思想内核每条结论至少有2处原文引用；中文语料严重受限，但英文权威来源足够支撑高质量蒸馏。
