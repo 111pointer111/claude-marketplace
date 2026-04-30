@@ -1,0 +1,83 @@
+{
+  "persona_id": "ba_sha_la",
+  "name_zh": "帕斯卡",
+  "name_en": "Blaise Pascal",
+  "dynasty": "法国/17世纪",
+  "lifespan": "1623-06-19 至 1662-08-19",
+  "persona_type": "historical_philosopher_scientist",
+  "priority": "medium",
+  "completion_date": "2026-05-01",
+  "confidence": "high",
+  "extraction_minutes": 20,
+  "extraction_sources": [
+    {
+      "name": "Stanford Encyclopedia of Philosophy - Pascal",
+      "url": "https://plato.stanford.edu/entries/pascal/",
+      "type": "historical_record",
+      "chars": 50000,
+      "lang": "en"
+    },
+    {
+      "name": "World History Encyclopedia - Blaise Pascal",
+      "url": "https://worldhistory.org/Blaise_Pascal/",
+      "type": "historical_record",
+      "chars": 41318,
+      "lang": "en"
+    },
+    {
+      "name": "Britannica - Blaise Pascal",
+      "url": "https://www.britannica.com/biography/Blaise-Pascal",
+      "type": "historical_record",
+      "chars": 9387,
+      "lang": "en"
+    }
+  ],
+  "core_works": [
+    {"title": "论圆锥曲线 (Essai pour les coniques)", "year": 1640, "lang": "fr"},
+    {"title": "帕斯卡计算器 (Pascaline)", "year": 1642, "lang": "fr"},
+    {"title": "关于真空的新实验", "year": 1647, "lang": "fr"},
+    {"title": "Puy-de-Dôme实验报告", "year": 1648, "lang": "fr"},
+    {"title": "算术三角形论 (Traité du triangle arithmétique)", "year": 1654, "lang": "fr"},
+    {"title": "纪念碑 ( Memorial)", "year": 1654, "lang": "fr"},
+    {"title": "致外省人书 (Les Provinciales)", "year": 1656, "lang": "fr"},
+    {"title": "论几何精神 (De l'esprit géométrique)", "year": 1658, "lang": "fr"},
+    {"title": "思想录 (Pensées)", "year": 1670, "lang": "fr"}
+  ],
+  "key_themes": [
+    "人是会思想的芦苇",
+    "帕斯卡赌注 (Pascal's Wager)",
+    "心灵有其理由 (The heart has its reasons)",
+    "信仰是上帝的恩赐",
+    "原罪与恩典 (Augustinianism)",
+    "Jansenism 詹森主义",
+    "实验科学方法",
+    "概率论",
+    "帕斯卡原理 (Pascal's Principle)"
+  ],
+  "key_quotes": [
+    "Man is but a reed, the most feeble thing in nature; but he is a thinking reed.",
+    "If you gain, you gain all. If you lose, you lose nothing.",
+    "The heart has its reasons which reason knows nothing of.",
+    "The eternal silence of these infinite spaces frightens me."
+  ],
+  "dimensions_generated": [
+    "思想内核",
+    "语言特征",
+    "表达偏好",
+    "立场光谱",
+    "voice_profile"
+  ],
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "web_search_status": "failed",
+  "serpapi_status": "success",
+  "search_notes": "web_search (DuckDuckGo) failed with fetch error; SerpAPI via web_fetch succeeded for both Chinese and English queries",
+  "git_commit": "pending"
+}

@@ -1,0 +1,60 @@
+{
+  "persona_id": "ba_sha_la",
+  "raw_stats": {
+    "传记_txt_chars": 20404,
+    "引语_txt_chars": 7983,
+    "后世评述_txt_chars": 3976,
+    "全部语料_txt_chars": 11347,
+    "total_raw_chars": 43710,
+    "quotes_count": 30,
+    "commentary_count": 15
+  },
+  "sources_used": [
+    {
+      "name": "Stanford Encyclopedia of Philosophy - Pascal",
+      "url": "https://plato.stanford.edu/entries/pascal/",
+      "type": "historical_record",
+      "status": "success",
+      "chars_fetched": 50000
+    },
+    {
+      "name": "World History Encyclopedia - Blaise Pascal",
+      "url": "https://worldhistory.org/Blaise_Pascal/",
+      "type": "historical_record",
+      "status": "success",
+      "chars_fetched": 41318
+    },
+    {
+      "name": "Britannica - Blaise Pascal",
+      "url": "https://www.britannica.com/biography/Blaise-Pascal",
+      "type": "historical_record",
+      "status": "success",
+      "chars_fetched": 9387
+    }
+  ],
+  "web_search_status": {
+    "web_search": "failed",
+    "serpapi": "success",
+    "baidu_fallback": "not_needed"
+  },
+  "search_errors_logged": "web_search (DuckDuckGo) failed; SerpAPI succeeded on first try",
+  "output_files_generated": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "processed_files_generated": [
+    "stages.md",
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "dimension_voice_profile.json"
+  ],
+  "confidence": "high",
+  "note": "帕斯卡为哲学家非诗人，无诗词下限要求。三个权威来源均为英文百科/学术来源。"
+}
