@@ -1,0 +1,54 @@
+{
+  "persona_id": "hei_ge_er",
+  "chinese_name": "黑格尔",
+  "english_name": "Georg Wilhelm Friedrich Hegel",
+  "birth_year": 1770,
+  "death_year": 1831,
+  "nationality": "德国",
+  "era": "18-19世纪",
+  "confidence": "medium-high",
+  "priority": "high",
+  "distillation_date": "2026-04-30",
+  "distillation_method": "web_search(SerpAPI)+web_fetch(Stanford+Britannica)",
+
+  "key_concepts": [
+    "辩证法",
+    "绝对唯心论",
+    "精神现象学",
+    "存在即合理",
+    "主奴辩证法",
+    "扬弃(Aufhebung)"
+  ],
+
+  "major_works": [
+    "《精神现象学》(1807)",
+    "《逻辑学》(1812-1818)",
+    "《哲学科学百科全书》(1817)",
+    "《法哲学原理》(1821)"
+  ],
+
+  "influence": [
+    "马克思(辩证法颠倒)",
+    "存在主义",
+    "法兰克福学派",
+    "分析哲学复兴"
+  ],
+
+  "sources_used": [
+    "Stanford Encyclopedia of Philosophy",
+    "Britannica大英百科全书"
+  ],
+
+  "sources_failed": [
+    "百度百科(404)",
+    "worldhistory.org(403)",
+    "marxists.org(fetch failed)",
+    "知乎(403)"
+  ],
+
+  "corpus_stats": {
+    "total_chars": 60000,
+    "sources_count": 2,
+    "primary_source": "Stanford Encyclopedia of Philosophy"
+  }
+}

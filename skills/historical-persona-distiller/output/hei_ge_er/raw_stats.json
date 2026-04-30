@@ -1,0 +1,39 @@
+{
+  "persona_id": "hei_ge_er",
+  "distillation_date": "2026-04-30",
+
+  "corpus_stats": {
+    "raw_chars_total": 60000,
+    "sources_fetched": 2,
+    "sources_successful": [
+      "Stanford Encyclopedia of Philosophy",
+      "Britannica"
+    ],
+    "sources_failed": [
+      "百度百科 (404)",
+      "worldhistory.org (403)",
+      "marxists.org (fetch failed)",
+      "知乎 (403)",
+      "ie.utm.edu (fetch failed)"
+    ],
+    "raw_files_created": 1,
+    "processed_files_created": 5
+  },
+
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+
+  "quality_checks": {
+    "citations_verified": true,
+    "idiom_sources_checked": true,
+    "all_skill_fields_filled": true,
+    "confidence_rating": "medium-high"
+  }
+}
