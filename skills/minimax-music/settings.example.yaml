@@ -1,0 +1,80 @@
+# MiniMax AI 音乐生成 Skill 配置
+# 复制此文件为 settings.yaml 并填入实际值
+
+# ===== MiniMax API =====
+# 从环境变量 MINIMAX_API_KEY 读取，脚本会自动从 os.environ 获取
+# 不要在此文件写入 API Key
+
+# ===== 输出路径 =====
+OUTPUT_DIR: "/path/to/your/music/output"
+
+# 音频格式
+DEFAULT_FORMAT: "mp3"
+DEFAULT_BITRATE: "256000"    # 支持 128000 / 256000
+DEFAULT_SAMPLE_RATE: "44100"
+
+# ===== 默认生成参数 =====
+DEFAULT_GENRE: "pop"
+DEFAULT_MOOD: "uplifting"
+DEFAULT_TEMPO: "moderate"
+
+# ===== 每日主题池（每天轮换 3 首） =====
+DAILY_THEMES:
+  - type: "instrumental"
+    name: "晨间唤醒"
+    song_title: "晨光序曲"
+    prompt: |
+      清晨卧室，轻柔钢琴右手solo为主，配合温暖弦乐垫底，
+      制作极简，每8小节有微小动态起伏，整体舒适愉悦，
+      动态平缓，无突然大声，无鼓组，无电子音效
+    genre: "piano ballad, instrumental"
+    mood: "warm, uplifting"
+    tempo: "moderate (72-80 bpm)"
+    instruments: "solo piano, warm strings pad"
+    structure: "8-bar intro - 16-bar main theme - 8-bar gentle build - soft ending"
+    avoid: "drums, electronic sounds, dramatic swells, sudden dynamics"
+
+  - type: "song"
+    name: "午后独处"
+    song_title: "四点的阳光"
+    prompt: |
+      中文民谣，关于一个人在咖啡馆窗边坐了整个下午的场景。
+      时间：下午4点的阳光从窗户照进来，咖啡已经凉透，书翻到第87页。
+      情绪：从平静的独处，到突然想起某个人，再到释然地笑了一下。
+      歌词要求：
+        - 用具体物品替代情绪词（凉掉的咖啡/翻皱的书页/窗上的雾气）
+        - 副歌hook：'下午四点的阳光，把两个人的影子叠在一起'
+        - 禁止出现：心痛、悲伤、眼泪、飞蛾扑火、遍体鳞伤、说教结尾
+        - 每段verse有2-3个具体生活细节，克制叙事，不过度煽情
+    genre: "folk"
+    mood: "warm, contemplative, bittersweet"
+    vocals: "女中音 mezzo-soprano，温暖自然。主歌 chest voice 接近说话，叙事的语气；预副歌 mixed voice 慢慢展开；副歌 warm belt 略带力量，有呼吸感不飙高音；桥段 head voice 轻唱，脆弱感；尾副歌 mellow belt 收束，尾音加 gentle vibrato"
+    instruments: "acoustic guitar, subtle piano"
+    structure: "verse - verse - pre-chorus - chorus - verse - chorus - bridge - chorus"
+    avoid: "过度煽情, '心痛' or '悲伤' or '眼泪', 情歌套路, 说教结尾"
+
+  - type: "song"
+    name: "古风叙事"
+    song_title: "竹影深"
+    prompt: |
+      古风歌曲，仙侠主题。
+      场景：月下竹林，白衣人独坐石上，指尖划过琴弦，惊起林间飞鸟。
+      情绪：从悠远独处 → 忆起旧事微动 → 释然一笑。
+      副歌Hook："竹林深处，不见故人归"
+      歌词要求：
+        - 用古代意象：竹影/酒盏/残月/烛火/剑穗
+        - 禁止：现代词汇，网络用语，白话
+        - 文言化但不晦涩，每段有画面
+        - 桥段用箫声过渡
+    genre: "古风"
+    mood: "ethereal, nostalgic, elegant"
+    vocals: "女高音，民族唱法，头腔共鸣圆润明亮。主歌半声轻唱，像山间流水；预副歌加入头声，渐亮；副歌清亮展开，高音通透不嘶吼；桥段气声轻吟，带一丝惆怅；尾副歌高音走上去，余韵悠长 fade out"
+    instruments: "笛子，古筝，琵琶，箫，板，铃铛"
+    structure: "intro (箫独奏) - verse - pre-chorus - chorus - bridge (二胡) - final chorus - outro (笛子渐弱)"
+    avoid: "现代词汇, 电子音, 电吉他, 西方乐器, 流行唱腔, 嘶吼, 过度用力"
+
+# ===== 人声音乐默认人声风格 =====
+DEFAULT_VOCALS: "温暖男中音，磁性嗓音，有呼吸感，不过度修音"
+
+# ===== 生成超时（秒） =====
+MMX_TIMEOUT: 300

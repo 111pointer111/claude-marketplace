@@ -1,0 +1,43 @@
+# 知乎自动发布 Skill 配置
+# 复制此文件为 settings.yaml 并填入实际值
+
+# ===== MiniMax API =====
+# 从环境变量 MINIMAX_API_KEY 读取，脚本会自动从 os.environ 获取
+# 不要在此文件写入 API Key
+
+# ===== 知乎 Cookie（可选）=====
+# ZHIHOU_COOKIE: "your-zhihu-cookie-here"
+
+# ===== 区域和模型 =====
+MINIMAX_REGION: "cn"           # cn 或 global
+MINIMAX_TEXT_MODEL: "MiniMax-M2.7"
+MINIMAX_MAX_TOKENS: 8192
+MINIMAX_TEMPERATURE: 0.7
+
+# ===== 发布参数 =====
+DEFAULT_TOPIC: "人工智能"
+DEFAULT_SOURCE: "官方网站"
+TOPIC_COOLDOWN_DAYS: 1
+UPLOAD_DIR: "/tmp/openclaw/uploads"
+ZHIHOU_WRITE_URL: "https://zhuanlan.zhihu.com/write"
+TOPIC_STATE_FILE: "/tmp/zhihu_topic_state.json"
+
+# ===== 文章字数范围 =====
+ARTICLE_MIN_WORDS: 1500
+ARTICLE_MAX_WORDS: 2500
+
+# ===== 封面图 =====
+COVER_STYLE: "赛博朋克，未来科技感，霓虹灯光，AI脑神经，网络数字世界，高清，概念艺术"
+COVER_ASPECT_RATIO: "1:1"
+
+# ===== 输出 =====
+OUTPUT_DIR: "/tmp/zhihu-output"
+
+# ===== 主题角度池（轮换） =====
+TOPIC_ANGLES:
+  - "技术解析"
+  - "产业分析"
+  - "实战案例"
+  - "未来预测"
+  - "深度解读"
+  - "对比研究"
