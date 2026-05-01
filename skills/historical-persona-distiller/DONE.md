@@ -99,6 +99,7 @@
 | 84 | 萨特 | 法国/20世纪 | 2026-04-30 | medium | 30 |
 | 85 | 笛卡尔 | 法国/17世纪 | 2026-04-30 | high | 25 |
 | 86 | 帕斯卡 | 法国/17世纪 | 2026-05-01 | high | 20 |
+| 87 | 伏尔泰 | 法国/18世纪 | 2026-05-01 | high | 25 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -112,28 +113,28 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 伏尔泰（fu_er_tai）
-**persona_id：** fu_er_tai
-**来源：** backlog.md（第四批外国哲学人物，#91）
-**注：** 帕斯卡已完成。web_search失败，SerpAPI成功。来源：Stanford Encyclopedia of Philosophy + World History Encyclopedia + Britannica。Git push 已成功（commit 1a2fe2d 和 e19c7c2 推送至 origin/main）。
+**下一待处理：** 卢梭（lu_rou）
+**persona_id：** lu_rou
+**来源：** backlog.md（第四批外国哲学人物，#92）
+**注：** 伏尔泰已完成。web_search失败，SerpAPI失败，百度安全验证拦截；最终以World History Encyclopedia和Stanford Encyclopedia of Philosophy两个权威英文来源成功获取语料。Git push 已成功（commit c57b31a 推送至 origin/main）。
 
 
 ## 四、统计概览
 
 ```
 总人物数：     170
-已完成：       85
+已完成：       87
 进行中：       0
-待处理：       86
-完成率：       50%（85/170）
+待处理：       84
+完成率：       51.2%（87/170）
 
 按 priority：
-  high：       36（已完30）
+  high：       36（已完31）
   medium：     54（已完30）
   low：        80（已完16）
 
 按 confidence：
-  high：       45
+  high：       46
   medium：     28
   A：           1
   medium-high：  1
