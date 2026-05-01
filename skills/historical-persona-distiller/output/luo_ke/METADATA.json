@@ -1,0 +1,37 @@
+{
+  "persona_id": "luo_ke",
+  "name": "John Locke",
+  "name_cn": "约翰·洛克",
+  "aliases": ["约翰·洛克", "John Locke"],
+  "era": "17th Century England",
+  "birth_year": 1632,
+  "death_year": 1704,
+  "lifespan": "1632–1704",
+  "confidence": "high",
+  "persona_type": "historical_philosopher",
+  "dynasty": "England (Stuart Era / Enlightenment)",
+  "persona_version": "1.0",
+  "distilled_at": "2026-05-01",
+  "sources_count": 4,
+  "poetry_count": 0,
+  "prose_count": 7,
+  "direct_quote_count": 18,
+  "stages_count": 4,
+  "key_works": [
+    "An Essay Concerning Human Understanding (1689)",
+    "Two Treatises of Government (1689)",
+    "A Letter Concerning Toleration (1689)",
+    "Thoughts Concerning Education (1693)",
+    "The Reasonableness of Christianity (1695)"
+  ],
+  "core_themes": [
+    "empiricism",
+    "natural rights",
+    "limited government",
+    "social contract",
+    "religious toleration",
+    "tabula rasa"
+  ],
+  "language": "English (17th-century Early Modern English)",
+  "distiller": "openclaw-historical-persona-distiller"
+}
