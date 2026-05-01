@@ -1,0 +1,43 @@
+{
+  "persona_id": "xiu_mo",
+  "chinese_name": "休谟",
+  "english_name": "David Hume",
+  "birth_death": "1711–1776",
+  "nationality": "Scottish",
+  "occupation": ["philosopher", "historian", "economist", "essayist"],
+  "persona_type": "philosopher",
+  "region": "Europe/Scotland",
+  "confidence": "high",
+  "distillation_date": "2026-05-01",
+
+  "source_urls": [
+    "https://plato.stanford.edu/entries/hume/",
+    "https://www.britannica.com/biography/David-Hume",
+    "https://iep.utm.edu/hume/"
+  ],
+
+  "source_quality": {
+    "stanford_enc": "primary academic resource",
+    "britannica": "secondary overview",
+    "iep": "secondary academic resource"
+  },
+
+  "text_corpus_stats": {
+    "biography_sources": 3,
+    "quotes_gathered": 20,
+    "key_works_identified": 6,
+    "life_stages_identified": 5
+  },
+
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "dimension_voice_profile.json"
+  ],
+
+  "output_files_generated": 7,
+
+  "confidence_rationale": "Multiple high-quality academic sources (Stanford, Britannica, IEP); direct quotes from original works; 3+ sources per claim; strong internal consistency across biographical records."
+}

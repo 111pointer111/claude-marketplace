@@ -1,0 +1,36 @@
+{
+  "persona_id": "xiu_mo",
+  "distillation_date": "2026-05-01",
+  "raw_stats": {
+    "biography_sources": 3,
+    "quotes_gathered": 20,
+    "key_works_identified": 6,
+    "life_stages_identified": 5,
+    "total_source_characters": 27000,
+    "web_search_calls": 2,
+    "web_fetch_calls": 5,
+    "serpapi_calls": 2
+  },
+  "dimension_files": {
+    "思想内核": "processed/xiu_mo/dimension_思想内核.json",
+    "语言特征": "processed/xiu_mo/dimension_语言特征.json",
+    "表达偏好": "processed/xiu_mo/dimension_表达偏好.json",
+    "立场光谱": "processed/xiu_mo/dimension_立场光谱.json",
+    "voice_profile": "processed/xiu_mo/dimension_voice_profile.json"
+  },
+  "output_files": [
+    "output/xiu_mo/SKILL.md",
+    "output/xiu_mo/EVENTS.md",
+    "output/xiu_mo/VOICE.md",
+    "output/xiu_mo/README.md",
+    "output/xiu_mo/METADATA.json",
+    "output/xiu_mo/CITATIONS.md"
+  ],
+  "done_marker": "done/xiu_mo.done",
+  "confidence": "high",
+  "search_tool_status": {
+    "web_search_duckduckgo": "success",
+    "serpapi_google": "success",
+    "web_fetch_direct": "success"
+  }
+}
