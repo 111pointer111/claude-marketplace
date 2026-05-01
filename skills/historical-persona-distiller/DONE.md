@@ -102,6 +102,8 @@
 | 87 | 伏尔泰 | 法国/18世纪 | 2026-05-01 | high | 25 |
 | 88 | 卢梭 | 法国/18世纪 | 2026-05-01 | high | 20 |
 
+| 89 | 休谟 | 苏格兰/18世纪 | 2026-05-01 | high | 20 |
+
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
 - `人物` — 姓名
@@ -114,10 +116,10 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 休谟（xiu_mo）
-**persona_id：** xiu_mo
-**来源：** backlog.md（第四批外国哲学人物，#93）
-**注：** 卢梭已完成。web_search和SerpAPI均失败；Stanford Encyclopedia（plato.stanford.edu）通过web_fetch直接访问成功；百度百科通过重定向获取成功（baike.baidu.com/item/卢梭 → 重定向至7169222）；两个来源中英交叉验证，语料覆盖生平、政治哲学、道德心理学、教育哲学和文学成就全领域。Git push 已成功（commit 6384e20 推送至 origin/main）。
+**下一待处理：** 洛克（luo_ke）
+**persona_id：** luo_ke
+**来源：** backlog.md（第四批外国哲学人物，#94）
+**注：** 休谟已完成。web_search 成功（Google via DuckDuckGo）；SerpAPI 成功（Google via serpapi.com，搜索"David Hume philosophy"返回272000条结果）；Stanford Encyclopedia、Britannica、Internet Encyclopedia of Philosophy 三个主要学术来源 web_fetch 全部成功；传记、引语、语料全部完整。Git push 已成功（commit b4a1793 推送至 origin/main）。
 
 
 ## 四、统计概览
