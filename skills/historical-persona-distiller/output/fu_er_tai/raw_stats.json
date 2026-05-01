@@ -1,0 +1,32 @@
+{
+  "人物": "伏尔泰（Voltaire）",
+  "persona_id": "fu_er_tai",
+  "蒸馏日期": "2026-05-01",
+  "confidence": "high",
+  "原始语料统计": {
+    "来源数量": 2,
+    "来源列表": [
+      "World History Encyclopedia (worldhistory.org/Voltaire/)",
+      "Stanford Encyclopedia of Philosophy (plato.stanford.edu/entries/voltaire/)"
+    ],
+    "传记字数": 4096,
+    "引语条数": 14,
+    "阶段数": 5
+  },
+  "蒸馏产出": {
+    "SKILL.md": "7741 bytes",
+    "METADATA.json": "1092 bytes",
+    "README.md": "已生成",
+    "CITATIONS.md": "已生成",
+    "VOICE.md": "已生成",
+    "EVENTS.md": "已生成"
+  },
+  "蒸馏过程": {
+    "web_search": "失败",
+    "SerpAPI": "失败",
+    "百度搜索": "失败（百度安全验证拦截）",
+    "World History Encyclopedia": "成功",
+    "Stanford Encyclopedia": "成功（缓存）"
+  },
+  "备注": "伏尔泰为哲学家非诗人，无诗词作品下限要求；web_search和SerpAPI均失败，但两个权威英文来源成功获取；百度百科被安全验证拦截；整体语料覆盖生平（5个阶段）、主要作品（9部代表作）、核心哲学思想"
+}

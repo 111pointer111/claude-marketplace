@@ -1,0 +1,40 @@
+{
+  "persona_id": "fu_er_tai",
+  "name_primary": "伏尔泰",
+  "name_native": "Voltaire",
+  "name_original": "François-Marie Arouet",
+  "birth_year": 1694,
+  "death_year": 1778,
+  "dynasty": "法国/18世纪",
+  "title": "启蒙旗手、哲学家、作家",
+  "confidence": "high",
+  "sources_count": 2,
+  "source_names": [
+    "World History Encyclopedia (worldhistory.org/Voltaire/)",
+    "Stanford Encyclopedia of Philosophy (plato.stanford.edu/entries/voltaire/)"
+  ],
+  "distilled_at": "2026-05-01",
+  "persona_version": "1.0",
+  "key_works": [
+    "《哲学通信》Lettres philosophiques (1734)",
+    "《牛顿哲学原理》Éléments de la Philosophie de Newton (1738/1745)",
+    "《老实人》Candide (1759)",
+    "《论宽容》Treatise on Tolerance (1762)",
+    "《哲学词典》Philosophical Dictionary (1764)"
+  ],
+  "core_philosophical_positions": [
+    "宗教容忍",
+    "自然神论",
+    "理性主义",
+    "开明君主制",
+    "反对狂热主义"
+  ],
+  "language_style": {
+    "primary": "讽刺性",
+    "secondary": "理性明晰",
+    "tertiary": "优雅老辣"
+  },
+  "stages_count": 5,
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Voltaire",
+  "notes": "伏尔泰为哲学家非诗人，无诗词作品下限要求；web_search和SerpAPI均失败，但两个权威英文来源成功获取"
+}
