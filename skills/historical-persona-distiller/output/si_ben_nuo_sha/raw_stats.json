@@ -1,0 +1,55 @@
+{
+  "人物": "斯宾诺莎（Baruch Spinoza）",
+  "persona_id": "si_ben_nuo_sha",
+  "蒸馏时间": "2026-05-02T02:00:00+08:00",
+  "confidence": "high",
+  "耗时": "约45分钟",
+
+  "来源统计": {
+    "Stanford Encyclopedia of Philosophy - Spinoza": {
+      "字数": 50000,
+      "类型": "学术文献",
+      "抓取状态": "成功",
+      "URL": "https://plato.stanford.edu/entries/spinoza/"
+    },
+    "斯宾诺莎传 (home.yulei.org)": {
+      "字数": 5000,
+      "类型": "传记",
+      "抓取状态": "成功",
+      "URL": "https://home.yulei.org/article/15-philosophy/24-2008-05-10-15-03-03.html"
+    }
+  },
+
+  "总来源数": 2,
+  "总字数": 55000,
+  "最低字数要求": 10000,
+  "是否符合": true,
+
+  "诗词数量": 0,
+  "诗词下限": "不适用（非诗人）",
+  "是否符合": "不适用",
+
+  "产出文件": [
+    "output/si_ben_nuo_sha/SKILL.md",
+    "output/si_ben_nuo_sha/README.md",
+    "output/si_ben_nuo_sha/METADATA.json",
+    "output/si_ben_nuo_sha/CITATIONS.md",
+    "output/si_ben_nuo_sha/raw_stats.json",
+    "output/si_ben_nuo_sha/EVENTS.md",
+    "output/si_ben_nuo_sha/VOICE.md",
+    "done/si_ben_nuo_sha.done"
+  ],
+
+  "搜索工具使用情况": {
+    "web_search": "失败（DuckDuckGo连接超时）",
+    "SerpAPI": "成功（通过web_fetch调用SerpAPI Google搜索成功，返回272000条结果）",
+    "web_fetch": "部分成功（Stanford Encyclopedia成功；百度百科404；Britannica失败；World History Encyclopedia 403）"
+  },
+
+  "最终来源": [
+    "Stanford Encyclopedia of Philosophy - Spinoza（plato.stanford.edu，50000字，主源）",
+    "斯宾诺莎传（home.yulei.org，5000字，副源）"
+  ],
+
+  "备注": "斯宾诺莎为哲学家非诗人，无诗词存世，诗词要求不适用；英文网站（Stanford Encyclopedia）访问良好，中文网站（百度百科）404，故主要依赖英文来源；两个来源质量均高，交叉验证一致"
+}

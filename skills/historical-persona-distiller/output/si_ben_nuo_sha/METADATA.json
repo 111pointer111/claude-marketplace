@@ -1,0 +1,39 @@
+{
+  "persona_id": "si_ben_nuo_sha",
+  "name_zh": "斯宾诺莎",
+  "name_en": "Baruch Spinoza",
+  "name_lat": "Benedictus de Spinoza",
+  "birth_year": 1632,
+  "death_year": 1677,
+  "dynasty": "荷兰（17世纪）",
+  "category": "外国哲学人物",
+  "priority": "medium",
+  "persona_type": "philosopher",
+  "confidence": "high",
+  "distilled_at": "2026-05-02T02:00:00+08:00",
+  "sources_count": 2,
+  "total_words": 55000,
+  "poetry_count": 0,
+  "poetry_requirement": "不适用（非诗人）",
+  "core_works": [
+    "《伦理学》(Ethica, c.1665-1675, published posthumously 1677)",
+    "《神学政治论》(Tractatus Theologico-Politicus, 1670)",
+    "《知性改进论》(Tractatus de Intellectus Emendatione, 1661)",
+    "《笛卡尔哲学原理》(Renati Descartes Principia Philosophiae, 1663)"
+  ],
+  "key_concepts": [
+    "Deus sive Natura（上帝即自然）",
+    "causa sui（自因）",
+    "substantia（实体）",
+    "attributum（属性）",
+    "modus（样式/分殊）",
+    "parallellismus（身心平行论）",
+    "determinismus（决定论）",
+    "rationalismus（理性主义）"
+  ],
+  "philosophical_tradition": "理性主义",
+  "geographical_region": "荷兰",
+  "historical_significance": "西方近代哲学最重要也最激进的理性主义者之一，对后世哲学影响遍及莱布尼茨、康德、黑格尔、尼采、海德格尔等",
+  "language_style": "几何学方法论，逻辑严密的哲学散文，拉丁文写作",
+  "distiller_notes": "斯宾诺莎为哲学家非诗人，无诗词存世；语料以Stanford Encyclopedia of Philosophy学术文献和传记为主，来源质量高但数量受限（英文网站访问良好，中文网站404）"
+}
