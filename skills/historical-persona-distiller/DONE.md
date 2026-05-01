@@ -100,6 +100,7 @@
 | 85 | 笛卡尔 | 法国/17世纪 | 2026-04-30 | high | 25 |
 | 86 | 帕斯卡 | 法国/17世纪 | 2026-05-01 | high | 20 |
 | 87 | 伏尔泰 | 法国/18世纪 | 2026-05-01 | high | 25 |
+| 88 | 卢梭 | 法国/18世纪 | 2026-05-01 | high | 20 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -113,19 +114,19 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 卢梭（lu_rou）
-**persona_id：** lu_rou
-**来源：** backlog.md（第四批外国哲学人物，#92）
-**注：** 伏尔泰已完成。web_search失败，SerpAPI失败，百度安全验证拦截；最终以World History Encyclopedia和Stanford Encyclopedia of Philosophy两个权威英文来源成功获取语料。Git push 已成功（commit c57b31a 推送至 origin/main）。
+**下一待处理：** 休谟（xiu_mo）
+**persona_id：** xiu_mo
+**来源：** backlog.md（第四批外国哲学人物，#93）
+**注：** 卢梭已完成。web_search和SerpAPI均失败；Stanford Encyclopedia（plato.stanford.edu）通过web_fetch直接访问成功；百度百科通过重定向获取成功（baike.baidu.com/item/卢梭 → 重定向至7169222）；两个来源中英交叉验证，语料覆盖生平、政治哲学、道德心理学、教育哲学和文学成就全领域。Git push 已成功（commit 6384e20 推送至 origin/main）。
 
 
 ## 四、统计概览
 
 ```
 总人物数：     170
-已完成：       87
+已完成：       88
 进行中：       0
-待处理：       84
+待处理：       83
 完成率：       51.2%（87/170）
 
 按 priority：
@@ -1511,3 +1512,21 @@
 **耗时：** 约25分钟
 
 **备注：** 伏尔泰为法国启蒙哲学家（1694-1778），非诗人，诗词要求不适用；两个权威英文百科来源符合多源要求；web_search和SerpAPI均失败，但两个英文来源成功获取；语料覆盖生平（5个阶段：文学生涯1694-1726、英国流放1726-1729、Cirey时期1734-1749、费尔奈1750-1762、晚年1762-1778）、核心哲学思想（宗教容忍、自然神论、反狂热、理性主义、开明君主制）、主要作品（《哲学通信》《老实人》《论宽容》《哲学词典》）和标志性引语（14条）；百度安全验证拦截未能获取中文资料，但英文来源质量高且交叉验证一致。
+
+### 2026-05-01 卢梭（lu_rou）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接超时）
+**SerpAPI：** ❌ 失败（fetch failed）
+**web_fetch：** ✅ 部分成功（Stanford Encyclopedia直接访问成功；百度百科通过重定向获取成功）
+
+**最终来源：**
+1. Stanford Encyclopedia of Philosophy - Rousseau（plato.stanford.edu/entries/rousseau/，约50000字截取）— 学术文献（主源，含生平、政治哲学、道德心理学、教育哲学和语言理论）
+2. 百度百科·卢梭（baike.baidu.com/item/卢梭 → 重定向至7169222，约12510字）— 中文百科（副源，含详细生平、著作目录、思想和评价）
+
+**git push 情况：** ✅ 首次 push 成功（commit 6384e20 推送至 origin/main）
+
+**confidence：** high
+**耗时：** 约20分钟
+
+**备注：** 卢梭为法国启蒙哲学家（1712-1778），非诗人，诗词要求不适用；两个来源中英交叉验证，语料覆盖生平（4个阶段）、政治哲学（社会契约论、公意说、直接民主）、道德心理学（amour de soi / amour propre / pitié三元体系）、教育哲学（自然主义、《爱弥儿》）和文学成就（《忏悔录》开创现代自传体）；web_search和SerpAPI均失败，但Stanford Encyclopedia通过web_fetch直接访问成功，百度百科通过URL重定向获取成功；卢梭核心思想「人性本善、社会腐化」和多源引语均已纳入蒸馏；性别偏见（排除女性参政权）作为已知局限已标注。
+
