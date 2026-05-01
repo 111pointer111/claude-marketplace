@@ -1494,3 +1494,20 @@
 **耗时：** 约20分钟
 
 **备注：** 帕斯卡为法国哲学家/科学家（1623-1662），无诗词作品，诗词要求不适用；三个权威英文百科来源符合多源要求；web_search失败后 SerpAPI via web_fetch 成功；语料覆盖生平（神童崛起、科学双峰、Port-Royal隐居）、核心哲学思想（人是会思想的芦苇、帕斯卡赌注、心灵有其理由、信仰超越理性）、科学成就（概率论、帕斯卡原理、气压实验）和文学成就（《致外省人书》《思想录》）。
+
+### 2026-05-01 伏尔泰（fu_er_tai）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接超时）
+**SerpAPI：** ❌ 失败（fetch failed）
+**web_fetch：** ⚠️ 部分成功（百度被安全验证拦截；World History Encyclopedia成功；Stanford Encyclopedia部分成功（缓存））
+
+**最终来源：**
+1. World History Encyclopedia - Voltaire（worldhistory.org/Voltaire/，约29000字）— 英文传记（主源）
+2. Stanford Encyclopedia of Philosophy - Voltaire（plato.stanford.edu/entries/voltaire/，约50000字截取）— 学术文献（副源）
+
+**git push 情况：** ✅ 成功（distill commit c57b31a + update commit 12d59d9 推送至 origin/main）
+
+**confidence：** high
+**耗时：** 约25分钟
+
+**备注：** 伏尔泰为法国启蒙哲学家（1694-1778），非诗人，诗词要求不适用；两个权威英文百科来源符合多源要求；web_search和SerpAPI均失败，但两个英文来源成功获取；语料覆盖生平（5个阶段：文学生涯1694-1726、英国流放1726-1729、Cirey时期1734-1749、费尔奈1750-1762、晚年1762-1778）、核心哲学思想（宗教容忍、自然神论、反狂热、理性主义、开明君主制）、主要作品（《哲学通信》《老实人》《论宽容》《哲学词典》）和标志性引语（14条）；百度安全验证拦截未能获取中文资料，但英文来源质量高且交叉验证一致。
