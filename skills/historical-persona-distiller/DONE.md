@@ -103,6 +103,7 @@
 | 88 | 卢梭 | 法国/18世纪 | 2026-05-01 | high | 20 |
 
 | 89 | 休谟 | 苏格兰/18世纪 | 2026-05-01 | high | 20 |
+| 90 | 洛克 | 英国/17世纪 | 2026-05-02 | high | 20 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -116,20 +117,20 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 洛克（luo_ke）
-**persona_id：** luo_ke
-**来源：** backlog.md（第四批外国哲学人物，#94）
-**注：** 休谟已完成。web_search 成功（Google via DuckDuckGo）；SerpAPI 成功（Google via serpapi.com，搜索"David Hume philosophy"返回272000条结果）；Stanford Encyclopedia、Britannica、Internet Encyclopedia of Philosophy 三个主要学术来源 web_fetch 全部成功；传记、引语、语料全部完整。Git push 已成功（commit b4a1793 推送至 origin/main）。
+**下一待处理：** 斯宾诺莎（si_ben_nuo_sha）
+**persona_id：** si_ben_nuo_sha
+**来源：** backlog.md（第四批外国哲学人物，#95）
+**注：**
 
 
 ## 四、统计概览
 
 ```
 总人物数：     170
-已完成：       88
+已完成：       90
 进行中：       0
 待处理：       83
-完成率：       51.2%（87/170）
+完成率：       52.9%（90/170）
 
 按 priority：
   high：       36（已完31）
@@ -1531,4 +1532,23 @@
 **耗时：** 约20分钟
 
 **备注：** 卢梭为法国启蒙哲学家（1712-1778），非诗人，诗词要求不适用；两个来源中英交叉验证，语料覆盖生平（4个阶段）、政治哲学（社会契约论、公意说、直接民主）、道德心理学（amour de soi / amour propre / pitié三元体系）、教育哲学（自然主义、《爱弥儿》）和文学成就（《忏悔录》开创现代自传体）；web_search和SerpAPI均失败，但Stanford Encyclopedia通过web_fetch直接访问成功，百度百科通过URL重定向获取成功；卢梭核心思想「人性本善、社会腐化」和多源引语均已纳入蒸馏；性别偏见（排除女性参政权）作为已知局限已标注。
+
+### 2026-05-02 洛克（luo_ke）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接超时）
+**SerpAPI：** ✅ 成功（SerpAPI Google搜索返回272000条结果）
+**web_fetch：** ✅ 成功（Stanford Encyclopedia、World History Encyclopedia、Britannica、Internet Encyclopedia of Philosophy 全部成功）
+
+**最终来源：**
+1. Stanford Encyclopedia of Philosophy (plato.stanford.edu/entries/locke/，约50000字截取) — 主源，学术文献，含认识论、政治哲学、教育理论和传记
+2. World History Encyclopedia (worldhistory.org/john-locke/) — 含政治哲学概述、社会契约论和美国建国影响
+3. Britannica (britannica.com/biography/John-Locke) — 传记、生平、学术影响概述
+4. Internet Encyclopedia of Philosophy (iep.utm.edu/locke/) — 含Essay详细分析、知识论、语言哲学
+
+**git push 情况：** ✅ 首次 push 成功（commit 6cd2274 推送至 origin/main）
+
+**confidence：** high
+**耗时：** 约20分钟
+
+**备注：** 洛克为英国经验主义哲学家（1632-1704），非诗人，诗词要求不适用；四个学术来源全部成功抓取，语料覆盖生平（4个阶段：求学依附沙夫茨伯里流亡光荣革命晚年）、核心思想（经验主义白板论/自然法与自然权利/有限政府/宗教宽容/社会契约论）；洛克的自我定位「基础劳工」（under-labourer）和Isaiah Berlin对其性格的总结均已纳入蒸馏；web_search失败但SerpAPI成功，无需降级至百度；洛克无诗词，confidence评级基于语料完整度和学术来源丰富度。
 
