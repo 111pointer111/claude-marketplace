@@ -1,0 +1,55 @@
+{
+  "persona_id": "lu_rou",
+  "name": "让-雅克·卢梭",
+  "name_en": "Jean-Jacques Rousseau",
+  "birth_year": 1712,
+  "death_year": 1778,
+  "dynasty": "启蒙运动/18世纪法国",
+  "nationality": "瑞士日内瓦（出生），后居法国",
+  "occupation": ["哲学家", "政治理论家", "教育家", "作曲家", "作家"],
+  "core_works": [
+    "《社会契约论》",
+    "《爱弥儿》",
+    "《忏悔录》",
+    "《新爱洛伊丝》",
+    "《论科学与艺术》",
+    "《论人类不平等的起源和基础》"
+  ],
+  "philosophical_schools": ["启蒙运动", "自然主义", "激进民主主义"],
+  "distillation_date": "2026-05-01",
+  "confidence": "high",
+  "sources": [
+    {
+      "name": "Stanford Encyclopedia of Philosophy - Rousseau",
+      "url": "https://plato.stanford.edu/entries/rousseau/",
+      "language": "en",
+      "size_chars": 50000,
+      "role": "主要英文来源"
+    },
+    {
+      "name": "百度百科·卢梭",
+      "url": "https://baike.baidu.com/item/卢梭",
+      "language": "zh",
+      "size_chars": 12510,
+      "role": "主要中文来源"
+    }
+  ],
+  "output_files": [
+    "SKILL.md",
+    "README.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "raw_stats": {
+    "biography_chars": 5172,
+    "quotes_chars": 3429,
+    "corpus_chars": 14521,
+    "stages_defined": 4,
+    "dimensions_completed": 5
+  },
+  "git_commit": null,
+  "git_push_status": "pending"
+}
