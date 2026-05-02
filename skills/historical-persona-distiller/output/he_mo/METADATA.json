@@ -1,0 +1,41 @@
+{
+  "persona_id": "he_mo",
+  "name_zh": "荷马",
+  "name_en": "Homer",
+  "born": "约前9世纪",
+  "died": "约前8世纪",
+  "dynasty": "古希腊",
+  "occupation": "吟游诗人（盲诗人）",
+  "works": [
+    "伊利亚特（Iliad，15,693行）",
+    "奥德赛（Odyssey，12,109行）"
+  ],
+  "persona_confidence": "high",
+  "distilled_at": "2026-05-02",
+  "distiller": "historical-persona-distiller pipeline",
+  "source_count": 4,
+  "corpus_lines": 422,
+  "sources": [
+    {
+      "name": "百度百科·荷马",
+      "url": "https://baike.baidu.com/item/荷马/84187",
+      "type": "biography"
+    },
+    {
+      "name": "World History Encyclopedia - Homer",
+      "url": "https://www.worldhistory.org/homer/",
+      "type": "biography"
+    },
+    {
+      "name": "World History Encyclopedia - Iliad",
+      "url": "https://www.worldhistory.org/iliad/",
+      "type": "poetry_collection"
+    },
+    {
+      "name": "World History Encyclopedia - Odyssey",
+      "url": "https://www.worldhistory.org/Odyssey/",
+      "type": "poetry_collection"
+    }
+  ],
+  "note": "关于荷马其人是否真实存在存在争议（荷马问题）。历史上可能有此人，也可能'荷马'是多位吟游诗人的集合称号。作品基于口头传统整理而成。"
+}

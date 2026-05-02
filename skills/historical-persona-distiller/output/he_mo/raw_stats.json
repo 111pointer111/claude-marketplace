@@ -1,0 +1,26 @@
+{
+  "persona_id": "he_mo",
+  "total_corpus_lines": 422,
+  "total_files_collected": 5,
+  "source_breakdown": {
+    "biography": {
+      "百度百科·荷马": "约200行",
+      "World History Encyclopedia - Homer": "约180行"
+    },
+    "poetry_collection": {
+      "World History Encyclopedia - Iliad": "约280行",
+      "World History Encyclopedia - Odyssey": "约300行"
+    },
+    "quotes": "约60行",
+    "commentary": "约120行"
+  },
+  "raw_files": [
+    "raw/he_mo/传记.txt",
+    "raw/he_mo/伊利亚特.txt",
+    "raw/he_mo/奥德赛.txt",
+    "raw/he_mo/引语.txt",
+    "raw/he_mo/后世评述.txt",
+    "raw/he_mo/全部语料.txt"
+  ],
+  "note": "荷马为古希腊诗人，史料以史诗文本和后世研究为主，无本人诗词直接作品传世。语料主要来自学术百科和文学分析。"
+}
