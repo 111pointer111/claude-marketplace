@@ -105,6 +105,7 @@
 | 90 | 斯宾诺莎 | 荷兰/17世纪 | 2026-05-02 | high | 45 |
 | 91 | 叔本华 | 德国/19世纪 | 2026-05-02 | high | 40 |
 | 92 | 维特根斯坦 | 奥地利-英国/20世纪 | 2026-05-02 | high | 15 |
+| 93 | 荷马 | 古希腊 | 2026-05-02 | high | 25 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -118,8 +119,8 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 斯宾诺莎（si_ben_nuo_sha）→ 荷马（he_mo）
-**来源：** backlog.md（第五批外国文学人物，#98-99）
+**下一待处理：** 荷马（he_mo）→ 但丁（dan_te）
+**来源：** backlog.md（第五批外国文学人物，#99-100）
 **注：** 荷马为古希腊史诗诗人，无需诗词采集
 
 
@@ -127,13 +128,13 @@
 
 ```
 总人物数：     170
-已完成：       93
+已完成：       94
 进行中：       0
-待处理：       80
-完成率：       54.7%（93/170）
+待处理：       79
+完成率：       55.3%（94/170）
 
 按 priority：
-  high：       36（已完34）
+  high：       36（已完35）
   medium：     54（已完30）
   low：        80（已完16）
 
@@ -1587,3 +1588,22 @@
 **耗时：** 约40分钟
 
 **备注：** 叔本华为德国悲观主义哲学家（1788-1860），非诗人，诗词要求不适用；三个来源均成功抓取，语料覆盖生平（5个阶段：早年游历、学术觉醒、哲学建构、柏林受挫、法兰克福隐居）、核心哲学思想（唯意志论/悲观主义/充足理由律四重根/同情伦理学/审美超越）、主要作品和26条标志性引语（含尼采、爱因斯坦、托尔斯泰评价）；web_search失败但SerpAPI成功，无需降级至百度。
+
+### 2026-05-02 荷马（he_mo）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接超时）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调用 SerpAPI Google 搜索成功）
+**web_fetch：** ⚠️ 部分成功（百度百科成功；World History Encyclopedia 全部成功×3；Britannica 404；Stanford Encyclopedia 404；Internet Encyclopedia of Philosophy 404；worldhistory.org 403失败）
+
+**最终来源：**
+1. World History Encyclopedia - Homer (worldhistory.org/homer/，约180行）— 荷马传记、史诗概述、后世影响
+2. World History Encyclopedia - Iliad (worldhistory.org/iliad/，约280行）— 伊利亚特详细分卷分析、文学特征、关键引语
+3. World History Encyclopedia - Odyssey (worldhistory.org/Odyssey/，约300行）— 奥德赛详细分卷分析、文学特征、关键引语
+4. 百度百科·荷马 (baike.baidu.com/item/荷马/84187，6259字）— 中文百科传记，含生平、学术争议、后世评价
+
+**git push 情况：** ✅ 首次 push 成功（commit 009a216 推送至 origin/main）
+
+**confidence：** high
+**耗时：** 约25分钟
+
+**备注：** 荷马为古希腊史诗诗人（约前9-前8世纪），无本人诗词直接传世，语料来自史诗研究文献；四个来源均成功抓取，语料覆盖生平（3个阶段：口述传统浸润期/伊利亚特创作期/奥德赛创作及晚年）、核心思想（英雄主义与Kleos/命运观Moira/人文主义/智慧Mētis/战争双重性）、语言特征（六音步诗体/程式化表达/丰富明喻/感官描写/倒叙手法）和Voice Profile；web_search失败但SerpAPI成功；无需降级至百度；荷马无诗词，置信度评级基于学术来源覆盖完整度。
