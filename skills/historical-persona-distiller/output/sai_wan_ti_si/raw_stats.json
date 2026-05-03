@@ -1,0 +1,35 @@
+{
+  "人物": "sai_wan_ti_si",
+  "蒸馏版本": "1.0",
+  "overall_confidence": "high",
+  "confidence上限": "high",
+  "语料统计": {
+    "传记字数_字节": 5600,
+    "诗词": 0,
+    "文": "2部长篇小说 + 其他",
+    "引语条数": 35
+  },
+  "sources_count": 4,
+  "stages_count": 5,
+  "stage_confidence": {
+    "阶段一_出生与早年求学": "medium",
+    "阶段二_意大利从军与列班托海战": "low",
+    "阶段三_阿尔及尔囚禁": "low",
+    "阶段四_归国困顿与文学生涯摸索": "medium",
+    "阶段五_巅峰与晚年成就": "high"
+  },
+  "维度文件": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "dimension_voice_profile.json"
+  ],
+  "raw文件": [
+    "传记.txt",
+    "引语.txt",
+    "后世评述.txt",
+    "全部语料.txt"
+  ],
+  "引用验证": "已通过质量控制检查"
+}
