@@ -107,6 +107,7 @@
 | 92 | 维特根斯坦 | 奥地利-英国/20世纪 | 2026-05-02 | high | 15 |
 | 93 | 荷马 | 古希腊 | 2026-05-02 | high | 25 |
 | 94 | 但丁 | 意大利/14世纪 | 2026-05-03 | high | 30 |
+| 95 | 莎士比亚 | 英国/16-17世纪 | 2026-05-03 | high | 25 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -120,7 +121,7 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 但丁（dan_te）→ 莎士比亚（sha_kesi_bi_ya）
+**下一待处理：** 莎士比亚（sha_kesi_biya）→ 荷马（he_mo）
 **来源：** backlog.md（第五批外国文学人物，#100）
 **注：** 莎士比亚为英国文艺复兴戏剧家，四大悲剧/喜剧
 
@@ -129,9 +130,9 @@
 
 ```
 总人物数：     170
-已完成：       95
+已完成：       96
 进行中：       0
-待处理：       78
+待处理：       74
 完成率：       55.9%（95/170）
 
 按 priority：
@@ -1230,6 +1231,26 @@
 **confidence：** high
 
 ---
+
+
+### 2026-05-03 莎士比亚（sha_kesi_biya）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接失败）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索，返回 JSON 结果）
+**web_fetch：** ✅ 成功（World History Encyclopedia、Britannica 等多个来源）
+
+**最终来源：**
+1. World History Encyclopedia - William Shakespeare (worldhistory.org) — 英文传记（30000字截取）
+2. Britannica - William Shakespeare (britannica.com) — 人物简介（10000字）
+3. Britannica - The Shakespeare Authorship Question (britannica.com) — 著作权争议（13662字截取）
+
+**备注：** 莎士比亚为英国文艺复兴戏剧家，无中文诗词作品；语料以英文学术来源为主；154首十四行诗和38部戏剧为主要语料；多源交叉验证一致。
+
+**git push 情况：** 首次 push 成功，无错误
+
+**confidence：** high
+**耗时：** 约25分钟
+
 
 ### 2026-04-30 康德（kang_de）蒸馏记录
 
