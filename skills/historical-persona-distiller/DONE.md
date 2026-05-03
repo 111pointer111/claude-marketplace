@@ -108,6 +108,7 @@
 | 93 | 荷马 | 古希腊 | 2026-05-02 | high | 25 |
 | 94 | 但丁 | 意大利/14世纪 | 2026-05-03 | high | 30 |
 | 95 | 莎士比亚 | 英国/16-17世纪 | 2026-05-03 | high | 25 |
+| 96 | 塞万提斯 | 西班牙/16-17世纪 | 2026-05-03 | high | 45 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -121,8 +122,8 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 莎士比亚（sha_kesi_biya）→ 荷马（he_mo）
-**来源：** backlog.md（第五批外国文学人物，#100）
+**下一待处理：** 歌德（ge_de）→ 雨果（yu_guo）
+**来源：** backlog.md（第五批外国文学人物，#102）
 **注：** 莎士比亚为英国文艺复兴戏剧家，四大悲剧/喜剧
 
 
@@ -130,18 +131,18 @@
 
 ```
 总人物数：     170
-已完成：       96
+已完成：       97
 进行中：       0
-待处理：       74
-完成率：       55.9%（95/170）
+待处理：       73
+完成率：       56.5%（96/170）
 
 按 priority：
-  high：       36（已完36）
+  high：       36（已完37）
   medium：     54（已完30）
   low：        80（已完16）
 
 按 confidence：
-  high：       49
+  high：       50
   medium：     28
   A：           1
   medium-high：  1
@@ -1648,3 +1649,22 @@
 **耗时：** 约25分钟
 
 **备注：** 荷马为古希腊史诗诗人（约前9-前8世纪），无本人诗词直接传世，语料来自史诗研究文献；四个来源均成功抓取，语料覆盖生平（3个阶段：口述传统浸润期/伊利亚特创作期/奥德赛创作及晚年）、核心思想（英雄主义与Kleos/命运观Moira/人文主义/智慧Mētis/战争双重性）、语言特征（六音步诗体/程式化表达/丰富明喻/感官描写/倒叙手法）和Voice Profile；web_search失败但SerpAPI成功；无需降级至百度；荷马无诗词，置信度评级基于学术来源覆盖完整度。
+
+### 2026-05-03 塞万提斯（sai_wan_ti_si）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接超时）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索，返回 JSON 结果）
+**web_fetch：** ✅ 成功（多来源成功抓取）
+
+**最终来源：**
+1. World History Encyclopedia - Miguel de Cervantes (worldhistory.org) — 英文传记
+2. Britannica - Miguel de Cervantes (britannica.com) — 人物简介（9294字符截取）
+3. Biography.com - Miguel de Cervantes — 作品与生平
+4. Interlude.hk - Miguel de Cervantes — 后世评述与引语
+
+**git push 情况：** ✅ 首次 push 成功（commit 4699b32 推送至 origin/main）
+
+**confidence：** high
+**耗时：** 约45分钟
+
+**备注：** 塞万提斯（Miguel de Cervantes，1547-1616）是西班牙文艺复兴作家，《堂吉诃德》被认为是西方第一部现代小说；语料以英文学术来源为主，抓取4个不同来源完成蒸馏；web_search失败但SerpAPI成功，无需降级至百度；塞万提斯是小说家非诗人，诗词数量要求不适用，整体置信度基于小说作品和传记语料的完整度评为high。
