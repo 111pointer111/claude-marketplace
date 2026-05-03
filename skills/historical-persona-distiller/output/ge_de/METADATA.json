@@ -1,0 +1,40 @@
+{
+  "persona_id": "ge_de",
+  "人物": "歌德",
+  "原文名": "Johann Wolfgang von Goethe",
+  "生卒年": "1749-1832",
+  "朝代": "德国/魏玛",
+  "priority": "high",
+  "confidence": "high",
+  "蒸馏日期": "2026-05-03",
+  "sources_count": 3,
+  "sources": [
+    {
+      "名称": "百度百科·约翰·沃尔夫冈·冯·歌德",
+      "URL": "https://baike.baidu.com/item/约翰·沃尔夫冈·冯·歌德/3941798",
+      "类型": "historical_record",
+      "字数": "约16000字"
+    },
+    {
+      "名称": "Britannica - Johann Wolfgang von Goethe",
+      "URL": "https://www.britannica.com/biography/Johann-Wolfgang-von-Goethe",
+      "类型": "historical_record",
+      "字数": "约8000字"
+    },
+    {
+      "名称": "SerpAPI Google搜索结果",
+      "URL": "https://serpapi.com/search?q=Johann+Goethe+biography",
+      "类型": "search_results",
+      "字数": "摘要"
+    }
+  ],
+  "主要作品": [
+    "少年维特之烦恼（1774）",
+    "浮士德（1774-1831）",
+    "威廉·迈斯特（1775-1828）",
+    "西东诗集（1819）",
+    "中德四季晨昏吟咏（1827-1829）",
+    "亲和力（1809）"
+  ],
+  "蒸馏耗时": "约25分钟"
+}

@@ -1,0 +1,35 @@
+{
+  "persona_id": "ge_de",
+  "人物": "歌德",
+  "原文名": "Johann Wolfgang von Goethe",
+  "出生": "1749年8月28日",
+  "去世": "1832年3月22日",
+  "总语料字数": 16234,
+  "语料分布": {
+    "传记": 2188,
+    "诗词与名言": 1450,
+    "后世评述": 1528,
+    "引语": 1322,
+    "全部语料": 16234
+  },
+  "来源": [
+    {
+      "名称": "百度百科·约翰·沃尔夫冈·冯·歌德",
+      "URL": "https://baike.baidu.com/item/约翰·沃尔夫冈·冯·歌德/3941798",
+      "类型": "historical_record",
+      "字数": "约16000字"
+    },
+    {
+      "名称": "Britannica - Johann Wolfgang von Goethe",
+      "URL": "https://www.britannica.com/biography/Johann-Wolfgang-von-Goethe",
+      "类型": "historical_record",
+      "字数": "约8000字"
+    },
+    {
+      "名称": "SerpAPI Google搜索结果",
+      "URL": "https://serpapi.com/search?q=Johann+Goethe+biography",
+      "类型": "search_results"
+    }
+  ],
+  "confidence": "high"
+}
