@@ -106,6 +106,7 @@
 | 91 | 叔本华 | 德国/19世纪 | 2026-05-02 | high | 40 |
 | 92 | 维特根斯坦 | 奥地利-英国/20世纪 | 2026-05-02 | high | 15 |
 | 93 | 荷马 | 古希腊 | 2026-05-02 | high | 25 |
+| 94 | 但丁 | 意大利/14世纪 | 2026-05-03 | high | 30 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -119,27 +120,27 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 荷马（he_mo）→ 但丁（dan_te）
-**来源：** backlog.md（第五批外国文学人物，#99-100）
-**注：** 荷马为古希腊史诗诗人，无需诗词采集
+**下一待处理：** 但丁（dan_te）→ 莎士比亚（sha_kesi_bi_ya）
+**来源：** backlog.md（第五批外国文学人物，#100）
+**注：** 莎士比亚为英国文艺复兴戏剧家，四大悲剧/喜剧
 
 
 ## 四、统计概览
 
 ```
 总人物数：     170
-已完成：       94
+已完成：       95
 进行中：       0
-待处理：       79
-完成率：       55.3%（94/170）
+待处理：       78
+完成率：       55.9%（95/170）
 
 按 priority：
-  high：       36（已完35）
+  high：       36（已完36）
   medium：     54（已完30）
   low：        80（已完16）
 
 按 confidence：
-  high：       48
+  high：       49
   medium：     28
   A：           1
   medium-high：  1
@@ -1210,6 +1211,25 @@
 ---
 
 ## 三、执行日志
+
+### 2026-05-03 但丁（dan_te）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接失败）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索，返回 JSON 结果）
+**web_fetch：** ✅ 成功
+
+**最终来源：**
+1. World History Encyclopedia - Dante Alighieri (worldhistory.org) — 英文传记（30000字截取）
+2. Stanford Encyclopedia of Philosophy - Dante (plato.stanford.edu) — 哲学分析（30000字截取）
+3. Britannica - Dante Alighieri (britannica.com) — 人物简介（5000字）
+
+**备注：** 但丁是意大利诗人，无中文诗词作品；语料以英文学术来源为主；《神曲》原诗文使用意大利语，引用采用英文翻译；多源交叉验证一致。
+
+**git push 情况：** 首次 push 成功，无错误
+
+**confidence：** high
+
+---
 
 ### 2026-04-30 康德（kang_de）蒸馏记录
 
