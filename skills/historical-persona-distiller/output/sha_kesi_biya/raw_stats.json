@@ -1,0 +1,17 @@
+{
+  "人物": "sha_kesi_biya",
+  "朝代": "英国/伊丽莎白与詹姆斯一世时代",
+  "生卒年": "1564-1616",
+  "诗词数量": 154,
+  "剧作数量": 38,
+  "叙事诗数量": 3,
+  "传记": "有（多来源）",
+  "直接引语数量": 35,
+  "confidence_上限": "high",
+  "抓取时间": "2026-05-03T04:15:00Z",
+  "sources_used": [
+    "https://www.worldhistory.org/William_Shakespeare/",
+    "https://www.britannica.com/biography/William-Shakespeare",
+    "https://www.britannica.com/art/The-Shakespeare-Authorship-Question"
+  ]
+}
