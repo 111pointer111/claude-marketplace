@@ -112,6 +112,7 @@
 | 97 | 歌德 | 德国/18-19世纪 | 2026-05-03 | high | 25 |
 | 98 | 雨果 | 法国/19世纪 | 2026-05-05 | high | 30 |
 | 99 | 托尔斯泰 | 俄国/19世纪 | 2026-05-05 | high | 45 |
+| 100 | 陀思妥耶夫斯基 | 俄国/19世纪 | 2026-05-05 | high | 45 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -125,8 +126,8 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 陀思妥耶夫斯基（tuo_situo_ye_fu_si_ji）
-**来源：** backlog.md（第五批外国文学人物，#105）
+**下一待处理：** 巴尔扎克（ba_er_za_ke）
+**来源：** backlog.md（第五批外国文学人物，#106）
 
 ---
 
@@ -148,6 +149,25 @@
 
 **备注：** 托尔斯泰（Leo Tolstoy，1828-1910）是俄国批判现实主义作家，《战争与和平》《安娜·卡列尼娜》作者，晚年转向道德宗教写作，宣扬非暴力不抵抗主义，深刻影响甘地；语料以百度百科中文资料为传记主源，Britannica 提供文学评价，JSTOR Daily 提供原始著作引语（特别是《怎么办？》《天国在你心中》《复活》）；web_search 成功但返回片段，SerpAPI via web_fetch 成功用于多渠道补充搜索；三个不同来源均成功抓取；托尔斯泰为小说家非诗人，诗词要求不适用；整体置信度基于多源语料完整度评为 high。
 
+### 2026-05-05 陀思妥耶夫斯基（tuo_situo_ye_fu_si_ji）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接失败）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索，返回 JSON 结果）
+**web_fetch：** ✅ 成功（Britannica 多页面成功、Biography.com 成功；百度百科和 World History Encyclopedia 返回 404；Stanford Encyclopedia 返回 404；encyclopedia.com 和 en.wikipedia.org 连接失败）
+
+**最终来源：**
+1. Britannica — 大英百科全书 Fyodor Dostoyevsky 页面（主源，约20000字，英文，包含传记、全部主要作品分析）
+2. Biography.com — 基本事实核查（约700字）
+3. 北京大学期刊网 — 《转喻的辩证法：陀思妥耶夫斯基的宗教修辞》（关键引语：基督与真理）
+4. 中国社会科学网 — 《论巴赫金的小说诗学》（复调理论）
+
+**git push 情况：** ✅ 首次 push 成功（commit b420abc 推送至 origin/main）
+
+**confidence：** high
+**耗时：** 约45分钟
+
+**备注：** 陀思妥耶夫斯基（Fyodor Dostoevsky，1821-1881）是俄国文学最伟大小说家之一，《罪与罚》《白痴》《群魔》《卡拉马佐夫兄弟》作者；语料以 Britannica 英文大英百科为传记主源和多作品分析，SerpAPI via web_fetch 成功获取多个 Britannica 子页面（《Crime and Punishment》《The Idiot》《The Possessed》《The Brothers Karamazov》），Biography.com 提供基本事实核查；四个不同来源均成功抓取；陀思妥耶夫斯基是小说家非诗人，诗词要求不适用；整体置信度基于多源语料完整度评为 high。
+
 
 ## 四、统计概览
 
@@ -155,16 +175,16 @@
 总人物数：     170
 已完成：       99
 进行中：       0
-待处理：       71
-完成率：       58.2%（98/170）
+待处理：       70
+完成率：       58.8%（100/170）
 
 按 priority：
   high：       36（已完39）
-  medium：     54（已完30）
+  medium：     54（已完31）
   low：        80（已完16）
 
 按 confidence：
-  high：       51
+  high：       52
   medium：     28
   A：           1
   medium-high：  1
