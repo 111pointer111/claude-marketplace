@@ -1,0 +1,84 @@
+{
+  "persona_id": "tuo_er_si_tai",
+  "name_zh": "列夫托尔斯泰",
+  "name_en": "Leo Tolstoy",
+  "dynasty": "俄国/19世纪",
+  "lifespan": "1828-09-09 至 1910-11-20",
+  "persona_type": "historical_novelist_philosopher",
+  "priority": "high",
+  "completion_date": "2026-05-05",
+  "confidence": "high",
+  "extraction_minutes": 45,
+  "extraction_sources": [
+    {
+      "name": "百度百科 - 列夫托尔斯泰",
+      "url": "https://baike.baidu.com/item/列夫·尼古拉耶维奇·托尔斯泰/1250657",
+      "type": "historical_record",
+      "chars": 6000,
+      "lang": "zh"
+    },
+    {
+      "name": "Britannica - Leo Tolstoy",
+      "url": "https://www.britannica.com/biography/Leo-Tolstoy",
+      "type": "historical_record",
+      "chars": 6500,
+      "lang": "en"
+    },
+    {
+      "name": "JSTOR Daily - Tolstoy's Christian Anarchism",
+      "url": "https://daily.jstor.org/tolstoys-christian-anarchism/",
+      "type": "historical_record",
+      "chars": 17000,
+      "lang": "en"
+    }
+  ],
+  "core_works": [
+    {"title": "童年 (Detstvo)", "year": 1852, "lang": "ru"},
+    {"title": "塞瓦斯托波尔故事集", "year": 1855, "lang": "ru"},
+    {"title": "哥萨克 (Cossacks)", "year": 1863, "lang": "ru"},
+    {"title": "战争与和平 (War and Peace)", "year": 1869, "lang": "ru"},
+    {"title": "安娜·卡列尼娜 (Anna Karenina)", "year": 1877, "lang": "ru"},
+    {"title": "忏悔录 (A Confession)", "year": 1880, "lang": "ru"},
+    {"title": "伊凡·伊里奇之死 (The Death of Ivan Ilyich)", "year": 1886, "lang": "ru"},
+    {"title": "怎么办？ (What Is to Be Done?)", "year": 1886, "lang": "ru"},
+    {"title": "天国在你心中 (The Kingdom of God Is Within You)", "year": 1894, "lang": "ru"},
+    {"title": "复活 (Resurrection)", "year": 1899, "lang": "ru"}
+  ],
+  "key_themes": [
+    "史诗体小说",
+    "批判现实主义",
+    "非暴力不抵抗主义",
+    "道德自我完善",
+    "基督教博爱精神",
+    "土地公有制",
+    "劳动神圣",
+    "艺术服务人民",
+    "俄国革命的镜子"
+  ],
+  "key_quotes": [
+    "All happy families resemble each other; each unhappy family is unhappy in its own way.",
+    "We can know only that we know nothing. And that is the highest degree of human wisdom.",
+    "Everyone thinks of changing the world, but no one thinks of changing himself.",
+    "The sole meaning of life is to serve humanity by contributing to the establishment of the kingdom of God."
+  ],
+  "dimensions_generated": [
+    "思想内核",
+    "语言特征",
+    "表达偏好",
+    "立场光谱",
+    "voice_profile"
+  ],
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "web_search_status": "failed",
+  "serpapi_status": "success",
+  "search_notes": "web_search (DuckDuckGo) succeeded with warnings but returned fragmented results; SerpAPI via web_fetch succeeded for philosophy and biography queries; direct web_fetch to Baidu Baike succeeded for primary biography",
+  "git_commit": "pending"
+}
