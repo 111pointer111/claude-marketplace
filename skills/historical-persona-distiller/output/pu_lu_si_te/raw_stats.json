@@ -1,0 +1,17 @@
+{
+  "人物": "pu_lu_si_te",
+  "朝代": "法国/20世纪",
+  "诗词数量": 0,
+  "文集数量": 1,
+  "传记": "有（Britannica英文百科）",
+  "直接引语数量": 8,
+  "confidence_上限": "medium",
+  "抓取时间": "2026-05-06T04:06:00+08:00",
+  "sources_used": [
+    "Britannica - Marcel Proust biography",
+    "Britannica - In Search of Lost Time",
+    "Britannica - Swann's Way"
+  ],
+  "语料总量_字节": 13644,
+  "备注": "普鲁斯特为法国小说家，非诗人，无诗词作品；语料以英文二手文献为主，一手法语原文受限"
+}

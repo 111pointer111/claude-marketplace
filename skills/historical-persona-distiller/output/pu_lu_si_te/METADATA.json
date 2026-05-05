@@ -1,0 +1,22 @@
+{
+  "人物": "pu_lu_si_te",
+  "姓名": "马塞尔·普鲁斯特",
+  "朝代": "法国/20世纪",
+  "生卒年": "1871-1922",
+  "蒸馏版本": "1.0",
+  "蒸馏日期": "2026-05-06T04:06:00+08:00",
+  "蒸馏耗时_分钟": 30,
+  "overall_confidence": "medium",
+  "sources_used_count": 3,
+  "sources_used": [
+    "Britannica - Marcel Proust biography (britannica.com/biography/Marcel-Proust)",
+    "Britannica - In Search of Lost Time (britannica.com/topic/In-Search-of-Lost-Time)",
+    "Britannica - Swann's Way (britannica.com/topic/Swanns-Way)"
+  ],
+  "poetry_count": 0,
+  "prose_count": 1,
+  "direct_quote_count": 8,
+  "stages_count": 5,
+  "引用验证": "已通过质量控制检查",
+  "备注": "普鲁斯特为法国小说家，非诗人，无诗词作品；主要语料为英文百科全书二手研究；中文资料（百度百科）404无法访问；《追忆似水年华》原文为法语，引用来自英文翻译"
+}
