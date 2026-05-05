@@ -115,6 +115,7 @@
 | 100 | 陀思妥耶夫斯基 | 俄国/19世纪 | 2026-05-05 | high | 45 |
 | 101 | 巴尔扎克 | 法国/19世纪 | 2026-05-06 | high | 17 |
 | 102 | 卡夫卡 | 奥地利/20世纪 | 2026-05-06 | medium | 20 |
+| 103 | 普鲁斯特 | 法国/20世纪 | 2026-05-06 | medium | 30 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -128,8 +129,30 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 普鲁斯特（pu_lu_si_te）
-**来源：** backlog.md（第五批外国文学人物，#108）
+**下一待处理：** 乔伊斯（qiao_yi_si）
+**来源：** backlog.md（第五批外国文学人物，#109）
+
+---
+
+### 2026-05-06 普鲁斯特（pu_lu_si_te）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接失败）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI，返回 JSON 结果）
+**web_fetch：** ✅ 成功（Britannica 3个页面均成功）
+
+**最终来源：**
+1. Britannica - Marcel Proust biography（约18,000字，英文，主源）
+2. Britannica - In Search of Lost Time（约6,500字）
+3. Britannica - Swann's Way（约4,000字）
+
+**git push 情况：** ✅ 首次 push 成功（commit 4eff349 推送至 origin/main）
+
+**百度百科：** ❌ 失败（baike.baidu.com/item/马塞尔-普鲁斯特 返回404错误）
+
+**confidence：** medium
+**耗时：** 约30分钟
+
+**备注：** 普鲁斯特（Marcel Proust，1871-1922）是法国小说家，《追忆似水年华》（130万字，7卷本）的作者；web_search 失败，改用 SerpAPI via web_fetch 成功；百度百科多次404，改用 Britannica 英文百科作为主要来源；3个 Britannica 页面共约28,000字语料；普鲁斯特为小说家非诗人，诗词要求不适用；整体置信度基于英文二手文献，评为 medium。
 
 ---
 
@@ -187,19 +210,19 @@
 
 ```
 总人物数：     170
-已完成：       99
+已完成：       102
 进行中：       0
-待处理：       70
-完成率：       58.8%（100/170）
+待处理：       67
+完成率：       60.0%（102/170）
 
 按 priority：
   high：       36（已完39）
-  medium：     54（已完31）
+  medium：     54（已完32）
   low：        80（已完16）
 
 按 confidence：
   high：       52
-  medium：     28
+  medium：     29
   A：           1
   medium-high：  1
   low：        0
