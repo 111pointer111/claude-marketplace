@@ -1,0 +1,26 @@
+{
+  "persona_id": "tuo_situo_ye_fu_si_ji",
+  "name_zh": "陀思妥耶夫斯基",
+  "name_original": "Fyodor Mikhailovich Dostoevsky",
+  "birth_year": 1821,
+  "death_year": 1881,
+  "dynasty": "俄国",
+  "confidence": "high",
+  "pid_verified": true,
+  "蒸馏日期": "2026-05-05",
+  "蒸馏方法": "基于Britannica大英百科全书、Biography.com、学术论文等多源语料",
+  "主要来源": [
+    "Britannica — Fyodor Dostoyevsky biography",
+    "Biography.com — Fyodor Dostoyevsky",
+    "北京大学期刊网 — 转喻的辩证法：陀思妥耶夫斯基的宗教修辞",
+    "中国社会科学网 — 论巴赫金的小说诗学"
+  ],
+  "语料统计": {
+    "传记文本": "~3000字",
+    "引语收集": "~2500字",
+    "后世评述": "~1000字",
+    "总字符数": "~6500字"
+  },
+  "confidence_rationale": "多源交叉验证，Britannica为权威百科，学术论文提供额外支撑。核心引语均有原始来源。人物生平清晰，作品丰富，语料充足。",
+  "confidence_threshold_met": true
+}

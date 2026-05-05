@@ -1,0 +1,33 @@
+{
+  "persona_id": "tuo_situo_ye_fu_si_ji",
+  "raw_materials": {
+    "传记_txt": "约3500字",
+    "引语_txt": "约2500字",
+    "后世评述_txt": "约1000字",
+    "全部语料_txt": "约7000字"
+  },
+  "sources": [
+    {
+      "name": "Britannica",
+      "type": "historical_record",
+      "contribution": "主要传记和全部主要作品分析"
+    },
+    {
+      "name": "Biography.com",
+      "type": "historical_record",
+      "contribution": "基本事实核查"
+    },
+    {
+      "name": "北京大学期刊网",
+      "type": "commentary",
+      "contribution": "宗教修辞分析，关键引语"
+    },
+    {
+      "name": "中国社会科学网",
+      "type": "commentary",
+      "contribution": "巴赫金复调理论研究"
+    }
+  ],
+  "poetry_count": 0,
+  "note": "陀思妥耶夫斯基是小说家，不是诗人，因此无诗歌语料。语料以小说、散文、传记为主。"
+}
