@@ -113,6 +113,7 @@
 | 98 | 雨果 | 法国/19世纪 | 2026-05-05 | high | 30 |
 | 99 | 托尔斯泰 | 俄国/19世纪 | 2026-05-05 | high | 45 |
 | 100 | 陀思妥耶夫斯基 | 俄国/19世纪 | 2026-05-05 | high | 45 |
+| 101 | 巴尔扎克 | 法国/19世纪 | 2026-05-06 | high | 17 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -126,21 +127,33 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 巴尔扎克（ba_er_za_ke）
-**来源：** backlog.md（第五批外国文学人物，#106）
+**下一待处理：** 卡夫卡（ka_fu_qia_ka）
+**来源：** backlog.md（第五批外国文学人物，#107）
 
 ---
 
-### 2026-05-05 托尔斯泰（tuo_er_si_tai）蒸馏记录
+### 2026-05-06 巴尔扎克（ba_er_za_ke）蒸馏记录
 
-**web_search：** ⚠️ 部分成功（DuckDuckGo 返回带警告的片段结果）
-**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索，返回 JSON 结果）
-**web_fetch：** ✅ 成功（百度百科、Britannica、JSTOR Daily 多源成功抓取）
+**web_search：** ❌ 失败（DuckDuckGo 返回片段但无法提取实质内容）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索，返回 JSON 结果，但中文检索结果不准确）
+**web_fetch：** ✅ 成功（Britannica 主源6个页面均成功，豆瓣成功）
 
 **最终来源：**
-1. 百度百科 - 列夫托尔斯泰（baike.baidu.com，约6000字，主源，中文）
-2. Britannica - Leo Tolstoy（britannica.com，约6500字，英文）
-3. JSTOR Daily - Tolstoy's Christian Anarchism（daily.jstor.org，约17000字，英文）
+1. Britannica - Honoré de Balzac（britannica.com，主源，约12000字，英文）
+2. Britannica - The Human Comedy（britannica.com，结构说明，约6000字）
+3. Britannica - Le Père Goriot（britannica.com，作品简介）
+4. Britannica - The Wild Ass's Skin（britannica.com，作品简介）
+5. Britannica - Cousin Bette（britannica.com，作品简介）
+6. 豆瓣读书 - 《人间喜剧》系列（douban.com，中文概述）
+
+**git push 情况：** ✅ 首次 push 成功（commit 23e5ac7 推送至 origin/main）
+
+**百度百科：** ❌ 失败（baike.baidu.com 返回404错误，多次尝试均失败）
+
+**confidence：** high
+**耗时：** 约17分钟
+
+**备注：** 巴尔扎克（Honoré de Balzac，1799-1850）是法国批判现实主义小说家，《人间喜剧》（91部小说）的作者；web_search 失败，SerpAPI via web_fetch 用于多渠道补充搜索；百度百科多次404，改为使用Britannica英文百科作为主要来源；6个不同 Britannica 页面 + 1个豆瓣来源共7个来源；巴尔扎克为小说家非诗人，诗词要求不适用；整体置信度基于多源语料完整度评为 high。
 
 **git push 情况：** ✅ 首次 push 成功（commit aa715f8 推送至 origin/main）
 
