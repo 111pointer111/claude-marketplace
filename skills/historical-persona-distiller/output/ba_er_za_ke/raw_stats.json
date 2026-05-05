@@ -1,0 +1,49 @@
+{
+  "persona_id": "ba_er_za_ke",
+  "蒸馏日期": "2026-05-05",
+  "source_count": 6,
+  "sources": [
+    "Britannica - Honoré de Balzac (britannica.com)",
+    "Britannica - The Human Comedy (britannica.com)",
+    "Britannica - Le Père Goriot (britannica.com)",
+    "Britannica - The Wild Ass's Skin (britannica.com)",
+    "Britannica - Cousin Bette (britannica.com)",
+    "豆瓣读书 - 《人间喜剧》系列 (douban.com)"
+  ],
+  "files_collected": [
+    "raw/ba_er_za_ke/传记.txt (Britannica)",
+    "raw/ba_er_za_ke/引语.txt",
+    "raw/ba_er_za_ke/后世评述.txt",
+    "raw/ba_er_za_ke/全部语料.txt"
+  ],
+  "total_corpus_size_bytes": 8067,
+  "quote_count": 15,
+  "direct_quotes": 9,
+  "works_mentioned": [
+    "Le Père Goriot (高老头)",
+    "Eugénie Grandet (欧也妮·葛朗台)",
+    "La Peau de chagrin / The Wild Ass's Skin (驴皮记)",
+    "Illusions perdues / Lost Illusions (幻灭)",
+    "La Cousine Bette / Cousin Bette (贝特的表妹)",
+    "Le Cousin Pons / Cousin Pons (庞斯表兄)",
+    "La Recherche de l'absolu / The Quest of the Absolute (绝对之追求)",
+    "Le Chef-d'oeuvre inconnu / The Unknown Masterpiece (未知的杰作)",
+    "Les Chouans (舒昂党人)",
+    "La Physiologie du mariage (婚姻生理学)",
+    "Scènes de la vie privée (私人生活场景)",
+    "Histoire des treize / History of the Thirteen (十三人故事)",
+    "Gobseck",
+    "La Maison Nucingen (纽辛根商号)",
+    "César Birotteau (凯撒·比洛托)",
+    "Louis Lambert",
+    "Séraphîta (塞拉菲塔)",
+    "Le Médecin de campagne / The Country Doctor (乡村医生)",
+    "Contes drolatiques / Droll Stories (古怪故事)"
+  ],
+  "web_search_status": "failed (OpenClaw web_search unavailable)",
+  "serpapi_status": "success (used for initial discovery)",
+  "baidu_status": "failed (blocked by security verification)",
+  "final_sources": "Britannica (primary) + 豆瓣 (secondary)",
+  "confidence": "high",
+  "notes": "百度百科多次404，改为使用Britannica英文百科作为主要来源"
+}

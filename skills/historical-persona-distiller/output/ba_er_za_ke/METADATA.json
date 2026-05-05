@@ -1,0 +1,35 @@
+{
+  "persona_id": "ba_er_za_ke",
+  "name": "奥诺雷·德·巴尔扎克",
+  "full_name_en": "Honoré de Balzac",
+  "birth_year": 1799,
+  "death_year": 1850,
+  "dynasty": "法国波旁王朝复辟/七月王朝时期",
+  "confidence": "high",
+  "languages": ["法语"],
+  "genres": ["小说", "短篇小说", "随笔"],
+  "pid": "ba_er_za_ke",
+  "蒸馏日期": "2026-05-05",
+  "主要来源": [
+    "Britannica - Honoré de Balzac (britannica.com)",
+    "Britannica - The Human Comedy (britannica.com)",
+    "Britannica - Le Père Goriot (britannica.com)",
+    "Britannica - The Wild Ass's Skin (britannica.com)",
+    "Britannica - Cousin Bette (britannica.com)",
+    "豆瓣读书 - 《人间喜剧》系列 (douban.com)"
+  ],
+  "sources_count": 6,
+  "works_count": "《人间喜剧》共91部小说/短篇",
+  "biography_source": "Britannica",
+  "引语总数": 9,
+  "stage_count": 4,
+  "dimensions_completed": [
+    "思想内核",
+    "语言特征",
+    "表达偏好",
+    "立场光谱",
+    "voice_profile"
+  ],
+  "confidence_rationale": "Britannica 是权威百科，提供了详细的传记、作品分析和引语。多个作品条目提供了具体小说内容。豆瓣提供了《人间喜剧》的中文概述。资料充分，人物形象清晰，置信度high。",
+  "备注": "百度百科因网络问题无法访问，改为使用Britannica英文百科作为主要来源，补充中文豆瓣书评。"
+}
