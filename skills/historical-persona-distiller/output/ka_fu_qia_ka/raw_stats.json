@@ -1,0 +1,74 @@
+{
+  "persona_id": "ka_fu_qia_ka",
+  "distillation_date": "2026-05-06",
+  "sources_used": 4,
+  "source_details": [
+    {
+      "source": "Britannica - Franz Kafka biography",
+      "type": "historical_record",
+      "url": "https://www.britannica.com/biography/Franz-Kafka",
+      "characters": 10032,
+      "status": "success"
+    },
+    {
+      "source": "Britannica - The Metamorphosis",
+      "type": "commentary",
+      "url": "https://www.britannica.com/topic/The-Metamorphosis",
+      "characters": 19781,
+      "status": "success"
+    },
+    {
+      "source": "PMC Medical Biography (PubMed Central)",
+      "type": "historical_record",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2639911/",
+      "characters": 19683,
+      "status": "success"
+    },
+    {
+      "source": "Kafka Museum Biography",
+      "type": "historical_record",
+      "url": "https://kafkamuseum.cz/en/biography",
+      "characters": 1701,
+      "status": "success"
+    }
+  ],
+  "total_corpus_characters": 51197,
+  "files_created": {
+    "raw": [
+      "raw/ka_fu_qia_ka/传记.txt",
+      "raw/ka_fu_qia_ka/变形记.txt",
+      "raw/ka_fu_qia_ka/引语.txt",
+      "raw/ka_fu_qia_ka/后世评述.txt"
+    ],
+    "processed": [
+      "processed/ka_fu_qia_ka/stages.md",
+      "processed/ka_fu_qia_ka/dimension_思想内核.json",
+      "processed/ka_fu_qia_ka/dimension_语言特征.json",
+      "processed/ka_fu_qia_ka/dimension_表达偏好.json",
+      "processed/ka_fu_qia_ka/dimension_立场光谱.json",
+      "processed/ka_fu_qia_ka/dimension_voice_profile.json"
+    ],
+    "output": [
+      "output/ka_fu_qia_ka/SKILL.md",
+      "output/ka_fu_qia_ka/EVENTS.md",
+      "output/ka_fu_qia_ka/VOICE.md",
+      "output/ka_fu_qia_ka/README.md",
+      "output/ka_fu_qia_ka/METADATA.json",
+      "output/ka_fu_qia_ka/CITATIONS.md",
+      "output/ka_fu_qia_ka/raw_stats.json"
+    ]
+  },
+  "confidence": "medium",
+  "confidence_reasons": [
+    "4个不同来源全部成功获取",
+    "Britannica提供详尽的传记和作品分析",
+    "PMC医学传记提供独特视角（疾病与文学关系）",
+    "卡夫卡为小说家非诗人，无诗词下限要求",
+    "中文资料受限（百度百科等获取失败），英文语料丰富但二手性质",
+    "无口语语料，所有voice profile基于书面语推测"
+  ],
+  "web_search_status": "failed",
+  "serpapi_status": "success",
+  "web_fetch_status": "partial_success",
+  "notes": "web_search失败（DuckDuckGo连接失败）；SerpAPI成功获取搜索结果；web_fetch成功获取Britannica、PMC医学传记和卡夫卡博物馆；但百度百科等中文资料获取失败"
+}

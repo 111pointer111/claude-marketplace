@@ -1,0 +1,117 @@
+{
+  "pid": "ka_fu_qia_ka",
+  "name": "卡夫卡",
+  "name_full": "Franz Kafka（弗朗茨·卡夫卡）",
+  "birth_year": 1883,
+  "death_year": 1924,
+  "birth_date": "1883-07-03",
+  "death_date": "1924-06-03",
+  "era": "奥匈帝国（1883-1924）",
+  "birthplace": "布拉格，波希米亚（现捷克共和国）",
+  "deathplace": "基尔林，靠近维也纳（奥地利）",
+  "confidence": "medium",
+  "confidence_rationale": "传记资料丰富（Britannica、PMC医学传记、卡夫卡博物馆），作品分析详尽（Britannica《变形记》分析），引语可靠（来自原始文献和学术研究）；语料以学术英文为主，中文资料受限；卡夫卡为小说家非诗人，无诗词下限要求；共4个不同来源，符合多源要求",
+
+  "life_stages": [
+    {
+      "stage": "布拉格成长与家庭阴影",
+      "period": "1883-1901",
+      "age_range": "0-18岁",
+      "confidence": "medium",
+      "note": "家庭背景影响深远，父亲的权威性在其作品中反复出现"
+    },
+    {
+      "stage": "大学求学期与文学觉醒",
+      "period": "1901-1912",
+      "age_range": "18-29岁",
+      "confidence": "medium",
+      "note": "遇见Max Brod，法学学习，开始认真创作"
+    },
+    {
+      "stage": "创作高峰期与疾病困扰",
+      "period": "1912-1924",
+      "age_range": "29-40岁",
+      "confidence": "high",
+      "note": "《变形记》《审判》《城堡》等核心作品创作期，肺结核诊断"
+    }
+  ],
+
+  "literary_achievements": {
+    "major_works": [
+      "《变形记》（Die Verwandlung，1915年）",
+      "《审判/诉讼》（Der Prozess，1925年死后）",
+      "《城堡》（Das Schloss，1926年死后）",
+      "《美国》（Amerika，1927年死后）",
+      "《判决》（Das Urteil，1913年）",
+      "《在流刑营》（In der Strafkolonie，1919年）"
+    ],
+    "posthumous_works": true,
+    "famous_phrases": [
+      "Kafkaesque（卡夫卡式）",
+      "《变形记》开篇：'一天早晨，格里高尔·萨姆沙从不安的睡梦中醒来，发现自己躺在床上变成了一只巨大的昆虫。'"
+    ]
+  },
+
+  "corpus_sources": [
+    {
+      "source": "raw/ka_fu_qia_ka/传记.txt",
+      "description": "Britannica大英百科全书卡夫卡传记（英文，约10000字）"
+    },
+    {
+      "source": "raw/ka_fu_qia_ka/变形记.txt",
+      "description": "Britannica《变形记》详细分析（英文，约19000字）"
+    },
+    {
+      "source": "raw/ka_fu_qia_ka/引语.txt",
+      "description": "直接引语集（来自PMC医学传记、Britannica、卡夫卡日记）"
+    },
+    {
+      "source": "raw/ka_fu_qia_ka/后世评述.txt",
+      "description": "后世评述与文学批评（来自PMC医学传记、Britannica、卡夫卡博物馆）"
+    },
+    {
+      "source": "processed/ka_fu_qia_ka/stages.md",
+      "description": "人生阶段切分"
+    },
+    {
+      "source": "processed/ka_fu_qia_ka/dimension_思想内核.json",
+      "description": "思想内核维度分析"
+    },
+    {
+      "source": "processed/ka_fu_qia_ka/dimension_语言特征.json",
+      "description": "语言特征维度分析"
+    },
+    {
+      "source": "processed/ka_fu_qia_ka/dimension_表达偏好.json",
+      "description": "表达偏好维度分析"
+    },
+    {
+      "source": "processed/ka_fu_qia_ka/dimension_立场光谱.json",
+      "description": "立场光谱维度分析"
+    },
+    {
+      "source": "processed/ka_fu_qia_ka/dimension_voice_profile.json",
+      "description": "Voice Profile 分析"
+    }
+  ],
+
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+
+  "distillation_date": "2026-05-06",
+  "distillation_confidence": "medium",
+  "known_limitations": [
+    "无口语语料：卡夫卡没有录音或视频留存；voice profile仅从书面语推测",
+    "翻译损失：卡夫卡使用德语写作，所有分析基于英中文翻译",
+    "中文资料受限：中文网络资料（百度百科等）获取受限，语料以英文为主",
+    "引语来源：大部分引语来自二手文献（Britannica、PMC医学传记），非直接来自德语原文",
+    "书信有限：虽然有《致父亲的信》等，但原始通信文本收集有限"
+  ]
+}
