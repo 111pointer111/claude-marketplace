@@ -1,0 +1,40 @@
+{
+  "persona_id": "yu_guo",
+  "人物": "维克多·雨果",
+  "原文名": "Victor Marie Hugo",
+  "生卒年": "1802-1885",
+  "朝代": "法国/19世纪",
+  "priority": "high",
+  "confidence": "high",
+  "蒸馏日期": "2026-05-05",
+  "sources_count": 3,
+  "sources": [
+    {
+      "名称": "百度百科·维克多·雨果",
+      "URL": "https://baike.baidu.com/item/维克多·雨果/434808",
+      "类型": "historical_record",
+      "字数": "约11000字"
+    },
+    {
+      "名称": "Britannica - Victor Hugo",
+      "URL": "https://www.britannica.com/biography/Victor-Hugo",
+      "类型": "historical_record",
+      "字数": "约15000字"
+    },
+    {
+      "名称": "SerpAPI Google搜索结果",
+      "URL": "https://serpapi.com/search?q=维克多·雨果+传记",
+      "类型": "search_results",
+      "字数": "摘要"
+    }
+  ],
+  "主要作品": [
+    "《巴黎圣母院》（1831）",
+    "《悲惨世界》（1862）",
+    "《惩罚集》（1853）",
+    "《九三年》（1874）",
+    "《东方诗集》（1829）",
+    "《沉思集》（1856）"
+  ],
+  "蒸馏耗时": "约30分钟"
+}

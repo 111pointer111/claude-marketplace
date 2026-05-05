@@ -1,0 +1,29 @@
+{
+  "raw_files": {
+    "传记.txt": {
+      "source": "百度百科·维克多·雨果",
+      "url": "https://baike.baidu.com/item/维克多·雨果/434808",
+      "bytes": 11836
+    },
+    "引语.txt": {
+      "source": "百度百科+Britannica整理",
+      "url": "multiple",
+      "bytes": 1482
+    },
+    "后世评述.txt": {
+      "source": "百度百科+Britannica整理",
+      "url": "multiple",
+      "bytes": 1487
+    },
+    "全部语料.txt": {
+      "source": "合并文件",
+      "url": "N/A",
+      "bytes": 17509
+    }
+  },
+  "total_raw_bytes": 17509,
+  "total_lines": 258,
+  "source_count": 3,
+  "language": "中/英双语",
+  "note": "雨果为法国作家，主要作品为法文；本蒸馏以中文资料（百度百科）为主源，英文资料（Britannica）为补充；引语多为翻译引用"
+}
