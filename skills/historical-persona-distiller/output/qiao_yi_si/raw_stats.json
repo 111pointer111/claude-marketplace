@@ -1,0 +1,65 @@
+{
+  "persona_id": "qiao_yi_si",
+  "total_corpus_size_chars": 30732,
+  "sources": [
+    {
+      "name": "Britannica - James Joyce",
+      "url": "britannica.com/biography/James-Joyce",
+      "type": "biography",
+      "size_chars": 12708,
+      "status": "success"
+    },
+    {
+      "name": "Britannica - Ulysses",
+      "url": "britannica.com/topic/Ulysses-novel-by-Joyce",
+      "type": "work_analysis",
+      "size_chars": 5797,
+      "status": "success"
+    },
+    {
+      "name": "Britannica - Finnegans Wake",
+      "url": "britannica.com/topic/Finnegans-Wake",
+      "type": "work_analysis",
+      "size_chars": 3870,
+      "status": "success"
+    },
+    {
+      "name": "Britannica - Dubliners",
+      "url": "britannica.com/topic/Dubliners",
+      "type": "work_analysis",
+      "size_chars": 1852,
+      "status": "success"
+    }
+  ],
+  "raw_files": [
+    "传记.txt (12,708 chars)",
+    "Ulysses.txt (5,797 chars)",
+    "Finnegans_Wake.txt (3,870 chars)",
+    "后世评述.txt (3,666 chars)",
+    "引语.txt (2,839 chars)",
+    "Dubliners.txt (1,852 chars)",
+    "全部语料.txt (30,732 chars)"
+  ],
+  "poetry_count": "N/A - 乔伊斯为小说家非诗人，无诗词创作",
+  "processed_files": [
+    "stages.md",
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "dimension_voice_profile.json"
+  ],
+  "output_files": [
+    "SKILL.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json",
+    "EVENTS.md",
+    "VOICE.md"
+  ],
+  "distillation_timestamp": "2026-05-06T06:01",
+  "web_search_status": "failed",
+  "serpapi_status": "success",
+  "web_fetch_status": "success"
+}

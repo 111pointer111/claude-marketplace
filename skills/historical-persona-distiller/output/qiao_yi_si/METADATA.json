@@ -1,0 +1,56 @@
+{
+  "persona_id": "qiao_yi_si",
+  "name": "詹姆斯·乔伊斯",
+  "name_en": "James Joyce",
+  "birth_year": 1882,
+  "death_year": 1941,
+  "dynasty": "爱尔兰/20世纪",
+  "persona_type": "现代主义小说家",
+  "primary_works": [
+    "都柏林人 (Dubliners, 1914)",
+    "一个青年艺术家的画像 (A Portrait of the Artist as a Young Man, 1916)",
+    "尤利西斯 (Ulysses, 1922)",
+    "芬尼根守灵夜 (Finnegans Wake, 1939)"
+  ],
+  "distillation_date": "2026-05-06",
+  "confidence": "medium",
+  "confidence_rationale": "语料以Britannica英文百科多个页面为主，来源可靠但为英文二手文献，中文语料受限；乔伊斯为小说家非诗人，诗词要求不适用；整体语料规模约30,000字，覆盖生平、全部主要作品、思想分析；confidence评为medium。",
+  "key_themes": [
+    "流亡与归属",
+    "语言实验",
+    "意识流",
+    "都柏林城市生活",
+    "艺术家与民族的关系"
+  ],
+  "signature_style": "意识流/内心独白、多语言混杂、神话结构对应、精确细节描写",
+  "language_ability": "多语种者（英语、爱尔兰语、挪威语、法语、意大利语、德语、希腊语、希伯来语、俄语、芬兰语、波兰语）",
+  "sources": [
+    {
+      "source": "Britannica - James Joyce (britannica.com/biography/James-Joyce)",
+      "type": "biography",
+      "language": "en",
+      "size": "~13000字符"
+    },
+    {
+      "source": "Britannica - Ulysses (britannica.com/topic/Ulysses-novel-by-Joyce)",
+      "type": "work_analysis",
+      "language": "en",
+      "size": "~11000字符"
+    },
+    {
+      "source": "Britannica - Finnegans Wake (britannica.com/topic/Finnegans-Wake)",
+      "type": "work_analysis",
+      "language": "en",
+      "size": "~6400字符"
+    },
+    {
+      "source": "Britannica - Dubliners (britannica.com/topic/Dubliners)",
+      "type": "work_analysis",
+      "language": "en",
+      "size": "~1900字符"
+    }
+  ],
+  "web_search_status": "failed",
+  "serpapi_status": "success",
+  "web_fetch_status": "success"
+}
