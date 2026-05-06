@@ -1,0 +1,64 @@
+{
+  "pid": "mi_dun",
+  "name": "约翰·弥尔顿",
+  "name_en": "John Milton",
+  "born": "1608年12月9日",
+  "died": "1674年11月8日",
+  "age": 66,
+  "era": "英国17世纪",
+  "dynasty": "斯图亚特王朝、内战、共和国、复辟时期",
+  "nationality": "英国",
+  "persona_id": "mi_dun",
+  "persona_name": "弥尔顿",
+  
+  "confidence": "medium",
+  "distilled_date": "2026-05-06",
+  "distiller": "pipeline-coordinator",
+  
+  "key_works": [
+    "Paradise Lost (1667/1674) - 英语文学最伟大史诗",
+    "Paradise Regained (1671)",
+    "Samson Agonistes (1671)",
+    "Areopagitica (1644) - 论出版自由",
+    "Lycidas (1637) - 挽歌"
+  ],
+  
+  "categories": [
+    "外国文学人物",
+    "英国17世纪诗人",
+    "史诗诗人",
+    "政治哲学家",
+    "清教思想家"
+  ],
+  
+  "sources_used": [
+    "Britannica - John Milton (biography)",
+    "Britannica - Paradise Lost (analysis)",
+    "Britannica - Paradise Regained (analysis)",
+    "Wikipedia - John Milton"
+  ],
+  
+  "source_count": 4,
+  
+  "language_prominence": "英语（拉丁语、意大利语）",
+  
+  "thought_dimensions": [
+    "基督教人文主义",
+    "良心自由",
+    "反暴政政治哲学",
+    "基督教英雄主义",
+    "写作作为神圣使命"
+  ],
+  
+  "stage_count": 5,
+  
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ]
+}
