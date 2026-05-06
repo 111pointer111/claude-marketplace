@@ -1,0 +1,33 @@
+# METADATA.json — Walt Whitman
+
+```json
+{
+  "persona_id": "hui_te_man",
+  "name_en": "Walt Whitman",
+  "name_cn": "沃尔特·惠特曼",
+  "born": "1819-05-31",
+  "died": "1892-03-26",
+  "nationality": "美国",
+  "era": "19世纪",
+  "primary_identity": "诗人、记者、随笔作家",
+  "persona_voice_type": "宇宙宣告者 / 民主歌唱者 / 悲痛的哀悼者",
+  "confidence": "high",
+  "source_count": 3,
+  "total_raw_chars": 19347,
+  "representative_works": [
+    "《草叶集》Leaves of Grass (1855-1892)",
+    "《鼓声集》Drum-Taps (1865)",
+    "《典型日子》Specimen Days (1882)"
+  ],
+  "key_themes": [
+    "民主个体主义",
+    "灵性自然主义",
+    "反清教感官肯定",
+    "永恒现在",
+    "民主博爱"
+  ],
+  "language_signature": "自由诗体 / 长行排列 / 列举法 / 直接呼语",
+  "distill_date": "2026-05-06",
+  "distill_method": "多源英文百科语料蒸馏"
+}
+```

@@ -1,0 +1,36 @@
+{
+  "persona_id": "hui_te_man",
+  "人物": "惠特曼",
+  "persona_id_display": "Walt Whitman",
+  "蒸馏日期": "2026-05-06",
+  "来源统计": {
+    "britannica": {
+      "url": "britannica.com/biography/Walt-Whitman",
+      "字数": 10154,
+      "类型": "传记"
+    },
+    "worldhistory": {
+      "url": "worldhistory.org/Walt_Whitman/",
+      "字数": 28995,
+      "类型": "传记/学术"
+    },
+    "poets_org": {
+      "url": "poets.org/poet/walt-whitman",
+      "字数": 5439,
+      "类型": "后世评述"
+    },
+    "serpapi": {
+      "关键词": "Walt Whitman biography poems",
+      "结果数": 1130000,
+      "类型": "搜索索引"
+    }
+  },
+  "总语料字数": 44588,
+  "来源数量": 3,
+  "诗词作品数": "《草叶集》收录400+首诗（原文为英文，诗歌原文未直接抓取）",
+  "confidence": "high",
+  "耗时分钟": 25,
+  "web_search结果": "失败（DuckDuckGo连接失败）",
+  "serpapi结果": "成功",
+  "web_fetch结果": "Britannica成功，World History Encyclopedia成功，poets.org成功；Poetry Foundation 403失败"
+}
