@@ -1,0 +1,48 @@
+{
+  "persona_id": "bo_de_lai_er",
+  "name": {
+    "zh": "夏尔·波德莱尔",
+    "en": "Charles Baudelaire",
+    "full": "Charles-Pierre Baudelaire"
+  },
+  "born": "1821-04-09",
+  "died": "1867-08-31",
+  "nationality": "法国",
+  "era": "19世纪",
+  "primary_role": "诗人",
+  "secondary_roles": ["翻译家", "文学评论家", "艺术评论家"],
+  "confidence": "medium",
+  "representative_works": [
+    {
+      "title": "《恶之花》",
+      "title_en": "Les Fleurs du mal",
+      "year": "1857/1861",
+      "type": "诗集"
+    },
+    {
+      "title": "《巴黎的忧郁》",
+      "title_en": "Le Spleen de Paris",
+      "year": "1868",
+      "type": "散文诗集"
+    },
+    {
+      "title": "《芳法洛》",
+      "title_en": "La Fanfarlo",
+      "year": "1847",
+      "type": "中篇小说"
+    },
+    {
+      "title": "翻译E.A.坡作品集",
+      "year": "1856",
+      "type": "翻译"
+    }
+  ],
+  "source_urls": [
+    "https://www.britannica.com/biography/Charles-Baudelaire",
+    "https://www.britannica.com/topic/Les-Fleurs-du-mal",
+    "https://zh.wikipedia.org/zh-cn/%E6%81%B6%E4%B9%8B%E8%8A%B1"
+  ],
+  "distillation_date": "2026-05-06",
+  "distillation_version": "1.0",
+  "quality_notes": "Medium confidence due to inability to directly fetch Les Fleurs du mal original text. Thought core analysis based on Britannica and other authoritative sources. All citations verified against source material. Poetry text needs to be supplemented."
+}
