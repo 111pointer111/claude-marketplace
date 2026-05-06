@@ -119,6 +119,7 @@
 | 104 | 乔伊斯 | 爱尔兰/20世纪 | 2026-05-06 | medium | 25 |
 | 105 | 福克纳 | 美国/20世纪 | 2026-05-06 | medium | 10 |
 | 106 | 弥尔顿 | 英国/17世纪 | 2026-05-06 | medium | 25 |
+| 107 | 维吉尔 | 古罗马 | 2026-05-06 | high | 25 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -132,8 +133,31 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 维吉尔（wei_ji_er）
-**来源：** backlog.md（第五批外国文学人物，#111）
+**下一待处理：** 惠特曼（hui_te_man）
+**来源：** backlog.md（第五批外国文学人物，#113）
+
+---
+
+### 2026-05-06 维吉尔（wei_ji_er）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接失败）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索，返回 JSON 结果，1,370,000条结果）
+**web_fetch：** ⚠️ 部分成功（Britannica × 2 成功；World History Encyclopedia × 2 成功；Poetry Foundation 403 Cloudflare；IEP UTM 404）
+
+**最终来源：**
+1. Britannica - Virgil（britannica.com/biography/Virgil，约18,355字，英文，主源）
+2. World History Encyclopedia - Virgil（worldhistory.org/virgil/，约20,000字，英文传记）
+3. World History Encyclopedia - The Aeneid（worldhistory.org/The_Aeneid/，约20,000字，英文文学分析）
+4. Britannica - Aeneid（britannica.com/topic/Aeneid，约5,299字，英文）
+
+**git push 情况：** ✅ 首次 push 成功（commit 7eaa21d 推送至 origin/main）
+
+**百度百科：** 未尝试
+
+**confidence：** high
+**耗时：** 约25分钟
+
+**备注：** 维吉尔（Publius Vergilius Maro，公元前70-前19年）是古罗马最伟大的诗人，《埃涅阿斯纪》（12卷，约9600行）是罗马民族叙事奠基之作；web_search失败后 SerpAPI via web_fetch 成功发挥作用；4个不同来源共约63,000字语料；Poetry Foundation 和 IEP UTM 抓取失败，但已有足够来源完成蒸馏；维吉尔为古罗马诗人，原始拉丁语诗文无音频留存，Voice Profile 为推测型；整体置信度基于多源语料完整度评为 high。
 
 ---
 
@@ -256,18 +280,18 @@
 
 ```
 总人物数：     170
-已完成：       104
+已完成：       105
 进行中：       0
-待处理：       66
-完成率：       61.2%（104/170）
+待处理：       65
+完成率：       61.8%（105/170）
 
 按 priority：
   high：       36（已完39）
-  medium：     54（已完33）
+  medium：     54（已完34）
   low：        80（已完16）
 
 按 confidence：
-  high：       52
+  high：       53
   medium：     30
   A：           1
   medium-high：  1
