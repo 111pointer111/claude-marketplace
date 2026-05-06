@@ -1,0 +1,47 @@
+{
+  "persona_id": "li_er_ke",
+  "name_cn": "里尔克",
+  "name_en": "Rainer Maria Rilke",
+  "name_original": "René Karl Wilhelm Johann Josef Maria Rilke",
+  "birth": "1875-12-04",
+  "death": "1926-12-29",
+  "birthplace": "Prague, Bohemia, Austria-Hungary (now Czech Republic)",
+  "deathplace": "Valmont, Switzerland",
+  "era": "20世纪/世纪之交",
+  "nationality": "Austrian",
+  "primary_language": "German",
+  "persona_id_confirmed": "li_er_ke",
+  "confidence_overall": "high",
+  "stage_count": 5,
+  "core_theme_count": 5,
+  "influence_descendants": ["海德格尔", "萨特", "保罗·策兰"],
+  "influence_precursors": ["浪漫主义", "尼采", "托尔斯泰", "罗丹"],
+  "representative_works": [
+    {"title": "Duino Elegies", "year": 1923, "type": "elegy_cycle"},
+    {"title": "Sonnets to Orpheus", "year": 1923, "type": "sonnet_cycle"},
+    {"title": "Neue Gedichte (New Poems)", "year": 1907, "type": "poetry_collection"},
+    {"title": "Das Stunden-Buch (The Book of Hours)", "year": 1905, "type": "poetry_collection"},
+    {"title": "The Notebooks of Malte Laurids Brigge", "year": 1910, "type": "novel"},
+    {"title": "Letters to a Young Poet", "year": 1929, "type": "letters"}
+  ],
+  "sources_used": [
+    {"name": "Britannica - Rilke Biography", "url": "https://www.britannica.com/biography/Rainer-Maria-Rilke", "type": "historical_record", "chars": 18226},
+    {"name": "百度百科 - 里尔克条目", "url": "https://baike.baidu.com/item/里尔克/1279141", "type": "historical_record", "chars": 18446},
+    {"name": "Rainer Maria Rilke Archive - About", "url": "https://rilkepoetry.com/about/", "type": "historical_record", "chars": 5849},
+    {"name": "poets.org - Rilke Biography", "url": "https://poets.org/poet/rainer-maria-rilke", "type": "historical_record", "chars": 3341},
+    {"name": "Britannica - Duino Elegies", "url": "https://www.britannica.com/topic/Duino-Elegies", "type": "commentary", "chars": 2385},
+    {"name": "Britannica - Sonnets to Orpheus", "url": "https://www.britannica.com/topic/Sonnets-to-Orpheus", "type": "commentary", "chars": 1530}
+  ],
+  "source_count": 6,
+  "total_corpus_chars": 49777,
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "dimension_voice_profile.json",
+    "dimension_一致性校验.json"
+  ],
+  "distilled_at": "2026-05-07T00:36+08:00",
+  "distill_version": "1.0"
+}

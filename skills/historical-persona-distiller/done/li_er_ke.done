@@ -1,0 +1,17 @@
+persona_id: li_er_ke
+distilled_at: 2026-05-07T00:36+08:00
+confidence: high
+sources_count: 6
+sources:
+  - Britannica Rilke Biography (britannica.com)
+  - 百度百科 里尔克 (baike.baidu.com)
+  - rilkepoetry.com About (rilkepoetry.com)
+  - poets.org Rilke (poets.org)
+  - Britannica Duino Elegies (britannica.com)
+  - Britannica Sonnets to Orpheus (britannica.com)
+search_tools:
+  web_search: failed (fetch failed)
+  serpapi: succeeded (via web_fetch)
+confidence_overall: high
+dimension_count: 6
+works_distilled: 8
