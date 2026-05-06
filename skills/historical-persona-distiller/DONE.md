@@ -1,5 +1,6 @@
 | 108 | 惠特曼 | 美国/19世纪 | 2026-05-06 | high | 25 |
 | 124 | 波德莱尔 | 法国/19世纪 | 2026-05-06 | medium | 25 |
+| 125 | 里尔克 | 奥地利/20世纪 | 2026-05-07 | high | 25 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -13,8 +14,33 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 里尔克（li_er_ke）
-**来源：** backlog.md（第五批外国文学人物，#115）
+**下一待处理：** 裴多菲（pei_duo_fei）
+**来源：** backlog.md（第五批外国文学人物，#116）
+
+---
+
+### 2026-05-07 里尔克（li_er_ke）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo fetch failed）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索，返回 JSON 结果，约 177,000 条结果）
+**web_fetch：** ✅ 成功（Britannica、百度百科、rilkepoetry.com、poets.org、Britannica Duino Elegies、Britannica Sonnets to Orpheus 共6个来源）
+
+**最终来源：**
+1. Britannica - Rilke Biography（britannica.com，约18,226字，英文，主源）
+2. 百度百科 - 里尔克（baike.baidu.com/item/里尔克/1279141，约18,446字，中文，详细中文传记）
+3. rilkepoetry.com - About Rilke（约5,849字，英文，里尔克专题档案）
+4. poets.org - Rilke Biography（约3,341字，英文，美国诗人学会）
+5. Britannica - Duino Elegies（约2,385字，英文，作品分析）
+6. Britannica - Sonnets to Orpheus（约1,530字，英文，作品分析）
+
+**git push 情况：** ✅ 首次 push 成功（commit 31573db 推送至 origin/main）
+
+**百度百科：** ✅ 成功（通过 baike.baidu.com/item/里尔克/1279141 直接抓取成功）
+
+**confidence：** high
+**耗时：** 约25分钟
+
+**备注：** 里尔克（Rainer Maria Rilke，1875-1926）是奥地利诗人，公认的德语现代诗歌最伟大声音之一；与叶芝、艾略特并称"欧洲现代最伟大的三位诗人"；代表作成熟期作为"事物诗"（Ding-Gedicht）创始人，晚期《杜伊诺哀歌》和《致奥尔弗斯的十四行诗》两部巅峰之作；web_search失败后 SerpAPI via web_fetch 成功；6个权威来源共约49,777字语料；所有思想内核结论均通过至少2处原文引用验证；Confidence评为 high。
 
 ---
 
@@ -182,10 +208,10 @@
 
 ```
 总人物数：     170
-已完成：       105
+已完成：       106
 进行中：       0
-待处理：       65
-完成率：       61.8%（105/170）
+待处理：       64
+完成率：       62.4%（106/170）
 
 按 priority：
   high：       36（已完39）
