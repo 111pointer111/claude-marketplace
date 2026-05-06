@@ -1,0 +1,49 @@
+{
+  "persona_id": "fu_ken_na",
+  "person": "福克纳",
+  "generated_at": "2026-05-06T00:15:00Z",
+  "sources": [
+    {
+      "name": "Britannica - William Faulkner",
+      "url": "https://www.britannica.com/biography/William-Faulkner",
+      "type": "historical_record",
+      "chars": 16000
+    },
+    {
+      "name": "NobelPrize.org - William Faulkner Biographical",
+      "url": "https://www.nobelprize.org/prizes/literature/1949/faulkner/biographical/",
+      "type": "historical_record",
+      "chars": 4000
+    },
+    {
+      "name": "Encyclopedia Virginia - William Faulkner",
+      "url": "https://encyclopediavirginia.org/entries/faulkner-william-1897-1962/",
+      "type": "historical_record",
+      "chars": 9600
+    },
+    {
+      "name": "Biography.com - William Faulkner",
+      "url": "https://www.biography.com/authors-writers/william-faulkner",
+      "type": "historical_record",
+      "chars": 13000
+    }
+  ],
+  "source_count": 4,
+  "total_chars": 42600,
+  "raw_files": [
+    "raw/fu_ken_na/传记_britannica.txt",
+    "raw/fu_ken_na/传记_nobel.txt",
+    "raw/fu_ken_na/传记_encyclopediavirginia.txt",
+    "raw/fu_ken_na/引语.txt",
+    "raw/fu_ken_na/全部语料.txt"
+  ],
+  "output_files": [
+    "output/fu_ken_na/SKILL.md",
+    "output/fu_ken_na/EVENTS.md",
+    "output/fu_ken_na/VOICE.md",
+    "output/fu_ken_na/README.md",
+    "output/fu_ken_na/METADATA.json",
+    "output/fu_ken_na/CITATIONS.md"
+  ],
+  "notes": "web_search失败，使用SerpAPI成功；4个不同英文来源；福克纳为小说家非诗人，诗词要求不适用"
+}

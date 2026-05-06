@@ -1,0 +1,26 @@
+{
+  "persona_id": "fu_ken_na",
+  "name_cn": "威廉·福克纳",
+  "name_en": "William Faulkner",
+  "birth_year": 1897,
+  "death_year": 1962,
+  "dynasty": "美国/20世纪",
+  "priority": "low",
+  "confidence": "medium",
+  "category": "novelist",
+  "subcategory": "现代主义小说家",
+  "literary_period": "20世纪美国文学",
+  "persona_id_method": "NAMING.md 拼音全拼",
+  "sources": [
+    "Britannica - William Faulkner",
+    "NobelPrize.org - William Faulkner Biographical",
+    "Encyclopedia Virginia - William Faulkner",
+    "Biography.com - William Faulkner"
+  ],
+  "source_count": 4,
+  "poetry_count": 0,
+  "is_poet": false,
+  "notes": "福克纳是小说家，诗词要求不适用；所有语料均来自英文二手文献",
+  "generated_at": "2026-05-06",
+  "generated_by": "historical-persona-distiller pipeline"
+}
