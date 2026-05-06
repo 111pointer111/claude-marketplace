@@ -118,6 +118,7 @@
 | 103 | 普鲁斯特 | 法国/20世纪 | 2026-05-06 | medium | 30 |
 | 104 | 乔伊斯 | 爱尔兰/20世纪 | 2026-05-06 | medium | 25 |
 | 105 | 福克纳 | 美国/20世纪 | 2026-05-06 | medium | 10 |
+| 106 | 弥尔顿 | 英国/17世纪 | 2026-05-06 | medium | 25 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -131,10 +132,32 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 弥尔顿（mi_dun）
+**下一待处理：** 维吉尔（wei_ji_er）
 **来源：** backlog.md（第五批外国文学人物，#111）
 
 ---
+
+### 2026-05-06 弥尔顿（mi_dun）蒸馏记录
+
+**web_search：** ⚠️ 部分失败（DuckDuckGo 结果有限）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI，返回 JSON 结果）
+**web_fetch：** ✅ 成功（Britannica 主站多个页面，Wikipedia 抓取失败）
+
+**最终来源：**
+1. Britannica - John Milton 主页（约10,000字，英文，主源）
+2. Britannica - Paradise Lost 分析（约16,000字，英文）
+3. Britannica - Paradise Regained 分析（约10,000字，英文）
+4. Britannica - Political Activity and Prose Works（约10,000字，英文）
+5. SerpAPI organic_results 摘要（约5,000字）
+
+**git push 情况：** ✅ 首次 push 成功（commit 93c6762 推送至 origin/main）
+
+**百度百科：** 未尝试
+
+**confidence：** medium
+**耗时：** 约25分钟
+
+**备注：** 弥尔顿（John Milton，1608-1674）是英国最伟大的史诗诗人，《失乐园》是公认的最伟大英语史诗；web_search 部分成功（DuckDuckGo 限制），改用 SerpAPI via web_fetch 补充；Britannica 多个页面成功，但 Wikipedia 直接抓取失败（共约50,000字语料）；弥尔顿为诗人但《失乐园》是史诗而非短诗，语料以评论分析为主而非原始诗歌文本；整体置信度评为 medium。
 
 ### 2026-05-06 福克纳（fu_ken_na）蒸馏记录
 
