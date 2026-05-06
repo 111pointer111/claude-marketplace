@@ -117,6 +117,7 @@
 | 102 | 卡夫卡 | 奥地利/20世纪 | 2026-05-06 | medium | 20 |
 | 103 | 普鲁斯特 | 法国/20世纪 | 2026-05-06 | medium | 30 |
 | 104 | 乔伊斯 | 爱尔兰/20世纪 | 2026-05-06 | medium | 25 |
+| 105 | 福克纳 | 美国/20世纪 | 2026-05-06 | medium | 10 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -130,8 +131,29 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 福克纳（fu_ken_na）
-**来源：** backlog.md（第五批外国文学人物，#110）
+**下一待处理：** 弥尔顿（mi_dun）
+**来源：** backlog.md（第五批外国文学人物，#111）
+
+---
+
+### 2026-05-06 福克纳（fu_ken_na）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接失败）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI，返回 JSON 结果）
+**web_fetch：** ✅ 成功（Britannica, NobelPrize.org, Encyclopedia Virginia, Biography.com 共4个页面）
+
+**最终来源：**
+1. Britannica - William Faulkner（主源，约16,000字，英文）
+2. NobelPrize.org - William Faulkner Biographical（约4,000字）
+3. Encyclopedia Virginia - William Faulkner（约9,600字）
+4. Biography.com - William Faulkner（约13,000字）
+
+**git push 情况：** ✅ 首次 push 成功（commit c5210dd 推送至 origin/main）
+
+**confidence：** medium
+**耗时：** 约10分钟
+
+**备注：** 福克纳（William Faulkner，1897-1962）是美国现代主义小说家，1949年诺贝尔文学奖得主；web_search 失败，SerpAPI via web_fetch 成功；4个英文来源共约42,600字语料；福克纳为小说家非诗人，诗词要求不适用；约克纳帕塔法县叙事宇宙是其标志性创作；整体置信度基于英文二手文献，评为 medium。
 
 ---
 
