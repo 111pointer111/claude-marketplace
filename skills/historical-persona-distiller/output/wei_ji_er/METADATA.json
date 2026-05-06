@@ -1,0 +1,50 @@
+{
+  "persona_id": "wei_ji_er",
+  "name_zh": "维吉尔",
+  "name_en": "Virgil",
+  "name_la": "Publius Vergilius Maro",
+  "birth_year": -70,
+  "death_year": -19,
+  "nationality": "古罗马",
+  "era": "奥古斯都时代",
+  "primary_works": [
+    "《埃涅阿斯纪》（Aeneid，12卷，约前30-前19年）",
+    "《农事诗》（Georgics，4卷，约前37-前30年）",
+    "《牧歌》（Eclogues，10首，约前39-38年）"
+  ],
+  "priority": "medium",
+  "confidence": "high",
+  "sources_count": 4,
+  "corpus_size_chars": 63000,
+  "distilled_date": "2026-05-06",
+  "sources": [
+    {
+      "name": "Britannica - Virgil",
+      "url": "https://www.britannica.com/biography/Virgil",
+      "chars": 18355
+    },
+    {
+      "name": "World History Encyclopedia - Virgil",
+      "url": "https://www.worldhistory.org/virgil/",
+      "chars": 20000
+    },
+    {
+      "name": "World History Encyclopedia - The Aeneid",
+      "url": "https://www.worldhistory.org/The_Aeneid/",
+      "chars": 20000
+    },
+    {
+      "name": "Britannica - Aeneid",
+      "url": "https://www.britannica.com/topic/Aeneid",
+      "chars": 5299
+    }
+  ],
+  "key_concepts": [
+    "pietas（虔诚天命）",
+    "fatum（命运）",
+    "Pax Romana（罗马和平）",
+    "六音步格（dactylic hexameter）",
+    "罗马文明使命"
+  ],
+  "historical_significance": "维吉尔被罗马人尊为最伟大的诗人，《埃涅阿is纪》被视为罗马民族叙事的奠基之作，对西方文学影响深远（但丁以他为《神曲》向导）"
+}

@@ -1,0 +1,50 @@
+{
+  "persona_id": "wei_ji_er",
+  "corpus_files": [
+    {
+      "filename": "全部语料.txt",
+      "size_chars": 28023,
+      "source_count": 4
+    }
+  ],
+  "sources": [
+    {
+      "source_num": 1,
+      "name": "Britannica - Virgil",
+      "url": "https://www.britannica.com/biography/Virgil",
+      "chars": 18355,
+      "type": "biography",
+      "status": "success"
+    },
+    {
+      "source_num": 2,
+      "name": "World History Encyclopedia - Virgil",
+      "url": "https://www.worldhistory.org/virgil/",
+      "chars": 20000,
+      "type": "biography",
+      "status": "success"
+    },
+    {
+      "source_num": 3,
+      "name": "World History Encyclopedia - The Aeneid",
+      "url": "https://www.worldhistory.org/The_Aeneid/",
+      "chars": 20000,
+      "type": "literary_analysis",
+      "status": "success"
+    },
+    {
+      "source_num": 4,
+      "name": "Britannica - Aeneid",
+      "url": "https://www.britannica.com/topic/Aeneid",
+      "chars": 5299,
+      "type": "literary_analysis",
+      "status": "success"
+    }
+  ],
+  "total_sources": 4,
+  "total_chars": 63654,
+  "web_search": "failed",
+  "serpapi": "success",
+  "web_fetch": "partial_success",
+  "notes": "web_search失败，降级至SerpAPI via web_fetch成功；Poetry Foundation返回403（Cloudflare）；IEP UTM返回404；共4个来源全部成功抓取"
+}
