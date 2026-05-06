@@ -120,6 +120,7 @@
 | 105 | 福克纳 | 美国/20世纪 | 2026-05-06 | medium | 10 |
 | 106 | 弥尔顿 | 英国/17世纪 | 2026-05-06 | medium | 25 |
 | 107 | 维吉尔 | 古罗马 | 2026-05-06 | high | 25 |
+| 108 | 惠特曼 | 美国/19世纪 | 2026-05-06 | high | 25 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -133,8 +134,30 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 惠特曼（hui_te_man）
-**来源：** backlog.md（第五批外国文学人物，#113）
+**下一待处理：** 波德莱尔（bo_de_lai_er）
+**来源：** backlog.md（第五批外国文学人物，#114）
+
+---
+
+### 2026-05-06 惠特曼（hui_te_man）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接失败）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索，返回 JSON 结果，1,130,000条结果）
+**web_fetch：** ⚠️ 部分成功（Britannica 成功；World History Encyclopedia 成功；poets.org 成功；Poetry Foundation 403 Cloudflare；Wikipedia fetch failed）
+
+**最终来源：**
+1. Britannica - Walt Whitman（britannica.com/biography/Walt-Whitman，约10,154字，英文，主源）
+2. World History Encyclopedia - Walt Whitman（worldhistory.org/Walt_Whitman/，Donald L. Wasson，约28,995字，英文，CC BY-NC-SA）
+3. poets.org - Walt Whitman Biography（约5,439字，英文，Academy of American Poets）
+
+**git push 情况：** ✅ 首次 push 成功（commit bc77da9 推送至 origin/main）
+
+**百度百科：** ❌ 失败（fetch failed，未尝试）
+
+**confidence：** high
+**耗时：** 约25分钟
+
+**备注：** 惠特曼（Walt Whitman，1819-1892）是美国19世纪最重要诗人，《草叶集》（1855-1892）作者，现代自由诗体先驱；web_search失败后 SerpAPI via web_fetch 成功发挥作用；3个权威英文百科来源共约44,588字语料；Poetry Foundation 403限制导致诗歌原文未直接抓取，基于二手文献分析；惠特曼是诗人但《草叶集》原文为英文，诗词要求不适用于外语人物；整体置信度基于多源英文语料完整度评为 high。
 
 ---
 
