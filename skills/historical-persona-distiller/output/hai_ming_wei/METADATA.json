@@ -1,0 +1,56 @@
+{
+  "人物": "hai_ming_wei",
+  "姓名": "欧内斯特·海明威",
+  "姓名英": "Ernest Hemingway",
+  "朝代/国籍": "美国",
+  "生卒年": "1899-1961",
+  "蒸馏版本": "1.0",
+  "蒸馏日期": "2026-05-07",
+  "蒸馏耗时_分钟": 15,
+  "overall_confidence": "high",
+  "sources_used_count": 3,
+  "direct_quote_count": 6,
+  "stages_count": 5,
+  "引用验证": "已通过质量控制检查",
+  "confidence_note": "传记语料约26000字（Britannica+Nobel Prize），作品分析语料充实（3个作品），所有引语均可溯源至Britannica或Nobel Prize官方网站原文。英语写作，语言障碍低。",
+  "代表作品": [
+    "The Sun Also Rises (1926) 太阳照常升起",
+    "A Farewell to Arms (1929) 永别了武器",
+    "For Whom the Bell Tolls (1940) 丧钟为谁而鸣",
+    "The Old Man and the Sea (1952) 老人与海",
+    "Death in the Afternoon (1932) 午后之死"
+  ],
+  "主要评价": [
+    "He was noted both for the intense masculinity of his writing and for his adventurous and widely publicized life. His succinct and lucid prose style exerted a powerful influence on American and British fiction in the 20th century. — Britannica",
+    "His straightforward prose, his spare dialogue, and his predilection for understatement are particularly effective in his short stories. — Nobel Prize Biography",
+    "The world breaks everyone and afterward many are strong at the broken places. But those that will not break it kills. — A Farewell to Arms",
+    "Man can be destroyed but not defeated. — The Old Man and the Sea"
+  ],
+  "sources": [
+    {
+      "url": "https://www.britannica.com/biography/Ernest-Hemingway",
+      "type": "historical_record",
+      "description": "Britannica《Ernest Hemingway》全文传记（17867字）"
+    },
+    {
+      "url": "https://www.nobelprize.org/prizes/literature/1954/hemingway/biographical/",
+      "type": "historical_record",
+      "description": "Nobel Prize官方海明威传记（7944字）"
+    },
+    {
+      "url": "https://www.britannica.com/topic/The-Old-Man-and-the-Sea-novel-by-Hemingway",
+      "type": "commentary",
+      "description": "Britannica《The Old Man and the Sea》作品分析"
+    },
+    {
+      "url": "https://www.britannica.com/topic/A-Farewell-to-Arms-novel",
+      "type": "commentary",
+      "description": "Britannica《A Farewell to Arms》深度作品分析"
+    },
+    {
+      "url": "https://www.britannica.com/topic/For-Whom-the-Bell-Tolls-novel-by-Hemingway",
+      "type": "commentary",
+      "description": "Britannica《For Whom the Bell Tolls》概要"
+    }
+  ]
+}
