@@ -1,6 +1,7 @@
 | 108 | 惠特曼 | 美国/19世纪 | 2026-05-06 | high | 25 |
 | 124 | 波德莱尔 | 法国/19世纪 | 2026-05-06 | medium | 25 |
 | 125 | 里尔克 | 奥地利/20世纪 | 2026-05-07 | high | 25 |
+| 126 | 裴多菲 | 匈牙利/19世纪 | 2026-05-07 | medium | 30 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -14,8 +15,8 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 裴多菲（pei_duo_fei）
-**来源：** backlog.md（第五批外国文学人物，#116）
+**下一待处理：** 马克·吐温（ma_ke_tu_wen）
+**来源：** backlog.md（第五批外国文学人物，#117）
 
 ---
 
@@ -41,6 +42,28 @@
 **耗时：** 约25分钟
 
 **备注：** 里尔克（Rainer Maria Rilke，1875-1926）是奥地利诗人，公认的德语现代诗歌最伟大声音之一；与叶芝、艾略特并称"欧洲现代最伟大的三位诗人"；代表作成熟期作为"事物诗"（Ding-Gedicht）创始人，晚期《杜伊诺哀歌》和《致奥尔弗斯的十四行诗》两部巅峰之作；web_search失败后 SerpAPI via web_fetch 成功；6个权威来源共约49,777字语料；所有思想内核结论均通过至少2处原文引用验证；Confidence评为 high。
+
+---
+
+### 2026-05-07 裴多菲（pei_duo_fei）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接失败）
+**SerpAPI：** ❌ 失败（fetch failed）
+**web_fetch：** ⚠️ 部分成功（Britannica主条目成功；baike.baidu.com裴多菲条目404；世界史、百科全书等均失败）
+
+**最终来源：**
+1. Britannica - Sándor Petőfi（britannica.com/biography/Sandor-Petofi，约4,517字，英文，主源）
+2. Britannica - Mihály Vörösmarty（britannica.com/biography/Mihaly-Vorosmarty，约3,679字，英文，提及裴多菲）
+3. Britannica - Mór Jókai（britannica.com/biography/Mor-Jokai，约1,654字，英文，提及裴多菲）
+
+**git push 情况：** ✅ 首次 push 成功（commit bdf2a41 推送至 origin/main）
+
+**百度百科：** ❌ 失败（baike.baidu.com/item/裴多菲/48971 返回404错误；baike.baidu.com/item/亚历山大·佩陶 也返回404）
+
+**confidence：** medium
+**耗时：** 约30分钟
+
+**备注：** 裴多菲（Sándor Petőfi，1823-1849）是匈牙利最伟大的诗人之一，1848年匈牙利革命的象征；《站起来，匈牙利人》（Talpra magyar）是匈牙利革命颂歌；《约翰·维特兹》（János vitéz，1845）是最受欢迎的叙事诗；web_search和SerpAPI均失败，改用Britannica英文百科作为主要来源；百度百科条目直接URL返回404，无法获取中文资料；三个Britannica条目共约9,850字语料；裴多菲为匈牙利语诗人，原始作品为匈牙利语，所有引语均基于英文二手文献，无原始诗歌文本直接引用；语料规模较小，整体置信度评为 medium。
 
 ---
 
