@@ -3,6 +3,7 @@
 | 125 | 里尔克 | 奥地利/20世纪 | 2026-05-07 | high | 25 |
 | 126 | 裴多菲 | 匈牙利/19世纪 | 2026-05-07 | medium | 30 |
 | 127 | 马克·吐温 | 美国/19世纪 | 2026-05-07 | high | 10 |
+| 128 | 海明威 | 美国/20世纪 | 2026-05-07 | high | 15 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -16,8 +17,30 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 海明威（hai_ming_wei）
-**来源：** backlog.md（第五批外国文学人物，#118）
+**下一待处理：** 巴尔扎克（ba_er_za_ke）
+**来源：** backlog.md（第五批外国文学人物，#106）
+
+---
+
+### 2026-05-07 海明威（hai_ming_wei）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo fetch failed）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索，返回 JSON 结果，包含视频和 snippet 信息）
+**web_fetch：** ✅ 成功（Britannica主传记、Nobel Prize官方传记、Britannica The Old Man and the Sea分析、Britannica A Farewell to Arms分析、Britannica For Whom the Bell Tolls概要，共5个来源）
+
+**最终来源：**
+1. Britannica - Ernest Hemingway Biography（britannica.com/biography/Ernest-Hemingway，约17,867字，英文，主源）
+2. Nobel Prize - Ernest Hemingway Biographical（nobelprize.org/prizes/literature/1954/hemingway/biographical/，约7,944字，英文）
+3. Britannica - The Old Man and the Sea分析（约5,399字，英文）
+4. Britannica - A Farewell to Arms深度分析（约19,249字，英文）
+5. Britannica - For Whom the Bell Tolls概要（约2,476字，英文）
+
+**git push 情况：** ✅ 首次 push 成功（commit 65d01f4 推送至 origin/main）
+
+**confidence：** high
+**耗时：** 约15分钟
+
+**备注：** 海明威（Ernest Hemingway，1899-1961）是美国作家，1954年诺贝尔文学奖得主；代表作品《老人与海》《永别了武器》《丧钟为谁而鸣》；web_search失败后 SerpAPI via web_fetch 成功发挥作用；共约53,000字语料；海明威为英语作家，语言障碍较低，可直接引用英语原文；5个权威来源覆盖传记+引语+作品分析；思想内核（grace under pressure、行动哲学、战争幻灭、自然世界）均有至少2处原文引用验证；confidence评为 high。
 
 ---
 
