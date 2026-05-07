@@ -1,0 +1,40 @@
+{
+  "persona_id": "pei_duo_fei",
+  "name_cn": "裴多菲",
+  "name_en": "Sándor Petőfi",
+  "name_original": "Petőfi Sándor",
+  "birth": "1823-01-01",
+  "death": "1849-07-31",
+  "birthplace": "Kiskőrös, Hungary, Austrian Empire (now Hungary)",
+  "deathplace": "Segesvár (Sighișoara), Transylvania, Austrian Empire (now Romania)",
+  "era": "19世纪/浪漫主义时期",
+  "nationality": "Hungarian",
+  "primary_language": "Hungarian",
+  "persona_id_confirmed": "pei_duo_fei",
+  "confidence_overall": "medium",
+  "stage_count": 5,
+  "core_theme_count": 5,
+  "influence_descendants": ["匈牙利浪漫主义诗人", "1848年革命者"],
+  "influence_precursors": ["匈牙利民歌传统", "法国大革命精神", "欧洲浪漫主义"],
+  "representative_works": [
+    {"title": "Talpra magyar (\"Rise, Hungarian\")", "year": 1848, "type": "political_poem"},
+    {"title": "János vitéz (John the Hero)", "year": 1845, "type": "narrative_poem"},
+    {"title": "Versek (Poems)", "year": 1844, "type": "poetry_collection"}
+  ],
+  "sources_used": [
+    {"name": "Britannica - Sándor Petőfi", "url": "https://www.britannica.com/biography/Sandor-Petofi", "type": "historical_record", "chars": 4517},
+    {"name": "Britannica - Mihály Vörösmarty", "url": "https://www.britannica.com/biography/Mihaly-Vorosmarty", "type": "historical_record", "chars": 3679},
+    {"name": "Britannica - Mór Jókai", "url": "https://www.britannica.com/biography/Mor-Jokai", "type": "historical_record", "chars": 1654}
+  ],
+  "source_count": 3,
+  "total_corpus_chars": 4887,
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "dimension_voice_profile.json"
+  ],
+  "distilled_at": "2026-05-07T02:15:00+08:00",
+  "distill_version": "1.0"
+}

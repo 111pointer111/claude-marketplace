@@ -1,0 +1,30 @@
+{
+  "persona_id": "pei_duo_fei",
+  "人物": "裴多菲·山陀尔（Sándor Petőfi）",
+  "distilled_at": "2026-05-07T02:20:00+08:00",
+  "sources_used": [
+    {"name": "Britannica - Sándor Petőfi", "url": "https://www.britannica.com/biography/Sandor-Petofi", "type": "historical_record", "chars": 4517},
+    {"name": "Britannica - Mihály Vörösmarty", "url": "https://www.britannica.com/biography/Mihaly-Vorosmarty", "type": "historical_record", "chars": 3679},
+    {"name": "Britannica - Mór Jókai", "url": "https://www.britannica.com/biography/Mor-Jokai", "type": "historical_record", "chars": 1654}
+  ],
+  "total_corpus_chars": 4887,
+  "source_count": 3,
+  "web_search_status": "failed",
+  "serpapi_status": "failed",
+  "web_fetch_status": "partial_success",
+  "baidu_status": "failed",
+  "confidence": "medium",
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "dimension_voice_profile.json",
+    "consistency_check.json"
+  ],
+  "quality_flags": [
+    "原始匈牙利语诗歌未直接引用",
+    "仅Britannica英文百科为主要来源",
+    "语料规模较小（约4887字符）"
+  ]
+}
