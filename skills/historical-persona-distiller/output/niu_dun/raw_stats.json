@@ -1,0 +1,41 @@
+{
+  "persona_id": "niu_dun",
+  "蒸馏日期": "2026-05-07",
+  "source_count": 5,
+  "sources": [
+    "Britannica - Isaac Newton (britannica.com/biography/Isaac-Newton)",
+    "MacTutor History of Mathematics - Isaac Newton (mathshistory.st-andrews.ac.uk/Biographies/Newton/)",
+    "Newton Institute - Isaac Newton's Life, based on Microsoft Encarta (newton.ac.uk/about/isaac-newton/isaac-newtons-life/)",
+    "Biography.com - Isaac Newton (biography.com/scientists/isaac-newton)",
+    "History.com - Isaac Newton (history.com/articles/isaac-newton)"
+  ],
+  "files_collected": [
+    "raw/niu_dun/01_Britannica.txt",
+    "raw/niu_dun/02_MacTutor.txt",
+    "raw/niu_dun/03_Newton_Institute.txt",
+    "raw/niu_dun/04_Biography.txt",
+    "raw/niu_dun/05_History.txt",
+    "raw/niu_dun/引语.txt",
+    "raw/niu_dun/全部语料.txt"
+  ],
+  "total_corpus_size_bytes": 52149,
+  "quote_count": 22,
+  "direct_quotes": 20,
+  "indirect_quotes": 2,
+  "works_mentioned": [
+    "Principia Mathematica (Philosophiae Naturalis Principia Mathematica, 1687)",
+    "Opticks (1704)",
+    "De Analysi per Aequationes Numeri Terminorum Infinitas (1669, unpublished)",
+    "De Methodis Serierum et Fluxionum (1671, unpublished)",
+    "The Chronology of Ancient Kingdoms Amended (1728, posthumous)",
+    "Observations upon the Prophecies of Daniel and the Apocalypse of St John (1733, posthumous)",
+    "Quaestiones Quaedam Philosophicae (约1664, notebook)",
+    "Of Colours (约1666, unpublished essay)"
+  ],
+  "web_search_status": "failed (OpenClaw web_search DuckDuckGo unavailable)",
+  "serpapi_status": "success (used for initial source discovery - 7 URLs found)",
+  "baidu_status": "not_tried (SerpAPI succeeded)",
+  "final_sources": "Britannica + MacTutor + Newton Institute (Encarta) + Biography.com + History.com",
+  "confidence": "high",
+  "notes": "中文Wikipedia fetch失败（网络错误），改为使用5个权威英文来源完成蒸馏。人物为科学家而非诗人，无需诗词作品采集。"
+}

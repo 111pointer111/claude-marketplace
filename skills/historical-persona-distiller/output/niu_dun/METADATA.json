@@ -1,0 +1,35 @@
+{
+  "persona_id": "niu_dun",
+  "name": "艾萨克·牛顿",
+  "full_name_en": "Sir Isaac Newton",
+  "birth_year": 1643,
+  "death_year": 1727,
+  "dynasty": "英国17-18世纪科学革命时期",
+  "confidence": "high",
+  "languages": ["英语", "拉丁语"],
+  "genres": ["科学论文", "自然哲学", "数学论文", "神学著作", "炼金术笔记"],
+  "pid": "niu_dun",
+  "蒸馏日期": "2026-05-07",
+  "主要来源": [
+    "Britannica - Isaac Newton (britannica.com/biography/Isaac-Newton)",
+    "MacTutor History of Mathematics - Isaac Newton (mathshistory.st-andrews.ac.uk/Biographies/Newton/)",
+    "Newton Institute - Isaac Newton's Life, based on Microsoft Encarta (newton.ac.uk)",
+    "Biography.com - Isaac Newton (biography.com/scientists/isaac-newton)",
+    "History.com - Isaac Newton (history.com/articles/isaac-newton)"
+  ],
+  "sources_count": 5,
+  "works_count": "Principia (1687), Opticks (1704), Principia第二版(1713/1726), 多部神学及炼金术著作（死后出版）",
+  "biography_source": "Britannica + MacTutor + Newton Institute (综合)",
+  "引语总数": 22,
+  "stage_count": 5,
+  "dimensions_completed": [
+    "思想内核",
+    "语言特征",
+    "表达偏好",
+    "立场光谱",
+    "voice_profile",
+    "一致性校验"
+  ],
+  "confidence_rationale": "5个权威英文来源均提供详细传记信息，人物形象跨越科学（数学、物理、光学、天文学）、炼金术、神学、政治（反对James II）、权力运作（皇家学会会长）等多个维度。引语丰富（22+），多个来源交叉验证。置信度high。",
+  "备注": "web_search失败，SerpAPI成功获取来源URL；中文Wikipedia fetch失败，改为使用多个权威英文来源完成蒸馏。"
+}
