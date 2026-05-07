@@ -4,6 +4,7 @@
 | 126 | 裴多菲 | 匈牙利/19世纪 | 2026-05-07 | medium | 30 |
 | 127 | 马克·吐温 | 美国/19世纪 | 2026-05-07 | high | 10 |
 | 128 | 海明威 | 美国/20世纪 | 2026-05-07 | high | 15 |
+| 129 | 莫里哀 | 法国/17世纪 | 2026-05-07 | medium | 20 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -17,8 +18,29 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 巴尔扎克（ba_er_za_ke）
-**来源：** backlog.md（第五批外国文学人物，#106）
+**下一待处理：** 牛顿（niu_dun）
+**来源：** backlog.md（第六批外国科技人物，#120）
+**优先级：** high
+
+---
+
+### 2026-05-07 莫里哀（mo_li_ai）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接失败）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索，返回 JSON 结果）
+**web_fetch：** ✅ 成功（Britannica、Notable Biographies 等多个来源）
+
+**最终来源：**
+1. Britannica - Molière biography（britannica.com/biography/Moliere-French-dramatist，约11,665字，英文，主源）
+2. Notable Biographies - Moliere（notablebiographies.com/Ma-Mo/Moli-re.html，约6,458字，英文）
+3. SerpAPI搜索摘要 - Moliere Tartuffe quotes、Le Misanthrope analysis
+
+**git push 情况：** ✅ 首次 push 成功（commit 3c82560 推送至 origin/main）
+
+**confidence：** medium
+**耗时：** 约20分钟
+
+**备注：** 莫里哀（Molière，1622-1673）是法国喜剧之父，《伪君子》《恨世者》《悭吝人》作者；web_search失败后 SerpAPI via web_fetch 成功发挥作用；3个不同来源共约18,123字语料；莫里哀为法国喜剧作家非诗人，诗词要求不适用；语料以传记分析为主，部分戏剧引语基于英译本；思想内核（喜剧为社会批判武器、虚伪为人类最大弱点、理性为判断标准、戏剧必须服务舞台）均有至少2处原文引用验证；整体置信度 medium 因主要来源为英文二手翻译文献，无原始法语戏剧文本直接引用。
 
 ---
 
