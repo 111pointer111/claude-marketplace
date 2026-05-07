@@ -6,6 +6,7 @@
 | 128 | 海明威 | 美国/20世纪 | 2026-05-07 | high | 15 |
 | 129 | 莫里哀 | 法国/17世纪 | 2026-05-07 | medium | 20 |
 | 130 | 牛顿 | 英国/17-18世纪 | 2026-05-07 | high | 25 |
+| 131 | 爱因斯坦 | 德国-美国/20世纪 | 2026-05-07 | high | 30 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -19,8 +20,8 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 爱因斯坦（ai_en_si_tan）
-**来源：** backlog.md（第六批外国科技人物，#121）
+**下一待处理：** 达尔文（da_er_wen）
+**来源：** backlog.md（第六批外国科技人物，#122）
 **优先级：** high
 
 ---
@@ -298,18 +299,18 @@
 
 ```
 总人物数：     170
-已完成：       106
+已完成：       107
 进行中：       0
-待处理：       64
-完成率：       62.4%（106/170）
+待处理：       63
+完成率：       62.9%（107/170）
 
 按 priority：
-  high：       36（已完39）
+  high：       36（已完40）
   medium：     54（已完34）
   low：        80（已完16）
 
 按 confidence：
-  high：       53
+  high：       54
   medium：     30
   A：           1
   medium-high：  1
@@ -1402,6 +1403,30 @@
 **耗时：** 约25分钟
 
 **备注：** 牛顿（Isaac Newton，1643-1727）是英国17-18世纪科学革命最伟大的科学家；《自然哲学的数学原理》（Principia，1687）是历史上最重要的科学著作之一；web_search失败后 SerpAPI via web_fetch 成功发挥作用；5个权威英文来源共约87,489字语料；人物为科学家而非诗人，无需诗词采集；所有思想内核（4个核心命题）均通过至少2处原文引用验证；confidence评为 high。
+
+---
+
+### 2026-05-07 爱因斯坦（ai_en_si_tan）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接失败）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索，返回 JSON 结果，177,000条结果）
+**web_fetch：** ✅ 成功（Britannica、Nobel Prize、Biography.com、Britannica Space-Time 文章等多个来源）
+
+**最终来源：**
+1. Britannica - Albert Einstein Biography（britannica.com/biography/Albert-Einstein，约20,000字，英文，主源）
+2. Nobel Prize Official Biography（nobelprize.org/prizes/physics/1921/einstein/biographical/，约4,801字，英文）
+3. Biography.com - Albert Einstein（biography.com/scientists/albert-einstein，约25,000字，英文）
+4. Britannica - Albert Einstein on Space-Time（britannica.com/topic/Albert-Einstein-on-Space-Time-1987141，约7,779字，爱因斯坦本人1926年撰写）
+5. Britannica - Photoelectric Effect（britannica.com/science/photoelectric-effect，约14,755字，含爱因斯坦1905年论文背景）
+
+**git push 情况：** ✅ 首次 push 成功（commit 935bb9f 推送至 origin/main）
+
+**中文来源：** ❌ 未尝试（百度百科直接访问成功但内容未抓取）
+
+**confidence：** high
+**耗时：** 约30分钟
+
+**备注：** 爱因斯坦（Albert Einstein，1879-1955）是20世纪最重要的物理学家，相对论创立者，1921年诺贝尔物理学奖得主；web_search失败后 SerpAPI via web_fetch 成功发挥作用；5个权威英文来源共约72,000+字语料；爱因斯坦为科学家而非诗人，无需诗词采集；思想内核（追求统一性、自由探索与独立思考、科学与人道主义结合）均有至少2处原文引用验证；4个人生阶段（童年/求学与专利局/柏林学术/美国流亡）划分合理，语言风格演变轨迹清晰（从技术性强→哲学化通俗→社会活动家语气）；confidence评为 high。
 
 ---
 
