@@ -5,6 +5,7 @@
 | 127 | 马克·吐温 | 美国/19世纪 | 2026-05-07 | high | 10 |
 | 128 | 海明威 | 美国/20世纪 | 2026-05-07 | high | 15 |
 | 129 | 莫里哀 | 法国/17世纪 | 2026-05-07 | medium | 20 |
+| 130 | 牛顿 | 英国/17-18世纪 | 2026-05-07 | high | 25 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -18,8 +19,8 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 牛顿（niu_dun）
-**来源：** backlog.md（第六批外国科技人物，#120）
+**下一待处理：** 爱因斯坦（ai_en_si_tan）
+**来源：** backlog.md（第六批外国科技人物，#121）
 **优先级：** high
 
 ---
@@ -1379,6 +1380,30 @@
 ---
 
 ## 三、执行日志
+
+### 2026-05-07 牛顿（niu_dun）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接失败）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索，返回 JSON 结果，7个URL）
+**web_fetch：** ✅ 成功（Britannica、MacTutor、Newton Institute、Biography.com、History.com 共5个来源）
+
+**最终来源：**
+1. Britannica - Isaac Newton（britannica.com/biography/Isaac-Newton，约14,037字，英文，主源）
+2. MacTutor History of Mathematics - Isaac Newton（mathshistory.st-andrews.ac.uk/Biographies/Newton/，约27,993字，英文，详细传记）
+3. Newton Institute - Isaac Newton's Life（Encarta来源，newton.ac.uk，约14,850字，英文，综合传记）
+4. Biography.com - Isaac Newton（biography.com/scientists/isaac-newton，约26,453字，英文，含名言）
+5. History.com - Isaac Newton（history.com/articles/isaac-newton，约4,156字，英文，概述）
+
+**git push 情况：** ✅ 首次 push 成功（commit 6517d9f 推送至 origin/main）
+
+**中文Wikipedia：** ❌ 失败（fetch failed，未获取中文资料）
+
+**confidence：** high
+**耗时：** 约25分钟
+
+**备注：** 牛顿（Isaac Newton，1643-1727）是英国17-18世纪科学革命最伟大的科学家；《自然哲学的数学原理》（Principia，1687）是历史上最重要的科学著作之一；web_search失败后 SerpAPI via web_fetch 成功发挥作用；5个权威英文来源共约87,489字语料；人物为科学家而非诗人，无需诗词采集；所有思想内核（4个核心命题）均通过至少2处原文引用验证；confidence评为 high。
+
+---
 
 ### 2026-05-03 歌德（ge_de）蒸馏记录
 
