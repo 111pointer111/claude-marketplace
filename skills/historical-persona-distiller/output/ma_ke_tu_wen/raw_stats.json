@@ -1,0 +1,58 @@
+{
+  "persona_id": "ma_ke_tu_wen",
+  "persona_name": "马克·吐温",
+  "distillation_date": "2026-05-07",
+  "distillation_duration_minutes": 10,
+  "sources_fetched": [
+    {
+      "source": "Britannica - Mark Twain Biography",
+      "url": "https://www.britannica.com/biography/Mark-Twain",
+      "size_chars": 11673,
+      "status": "success"
+    },
+    {
+      "source": "World History Encyclopedia - Mark Twain",
+      "url": "https://www.worldhistory.org/Mark_Twain/",
+      "size_chars": 33827,
+      "status": "success"
+    },
+    {
+      "source": "百度百科 - 马克·吐温",
+      "url": "https://baike.baidu.com/item/马克·吐温",
+      "size_chars": 16220,
+      "status": "success"
+    },
+    {
+      "source": "Britannica - The Adventures of Tom Sawyer",
+      "url": "https://www.britannica.com/topic/The-Adventures-of-Tom-Sawyer-novel-by-Twain",
+      "size_chars": 6139,
+      "status": "success"
+    }
+  ],
+  "raw_files_created": [
+    "raw/ma_ke_tu_wen/传记_britannica.txt",
+    "raw/ma_ke_tu_wen/传记_world_history_encyclopedia.txt",
+    "raw/ma_ke_tu_wen/传记_baidu.txt"
+  ],
+  "processed_files_created": [
+    "processed/ma_ke_tu_wen/stages.md"
+  ],
+  "output_files_created": [
+    "output/ma_ke_tu_wen/SKILL.md",
+    "output/ma_ke_tu_wen/EVENTS.md",
+    "output/ma_ke_tu_wen/VOICE.md",
+    "output/ma_ke_tu_wen/README.md",
+    "output/ma_ke_tu_wen/METADATA.json",
+    "output/ma_ke_tu_wen/CITATIONS.md",
+    "output/ma_ke_tu_wen/raw_stats.json"
+  ],
+  "web_search_status": "failed",
+  "serpapi_status": "success",
+  "total_sources": 3,
+  "total_citations": 28,
+  "confidence": "high",
+  "search_tools_used": [
+    "SerpAPI (https://serpapi.com/search via web_fetch)"
+  ],
+  "search_failure_reason": "web_search (DuckDuckGo) failed with 'fetch failed'; SerpAPI via web_fetch succeeded"
+}

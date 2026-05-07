@@ -1,0 +1,45 @@
+{
+  "persona_id": "ma_ke_tu_wen",
+  "name_zh": "马克·吐温",
+  "name_en": "Mark Twain (Samuel Langhorne Clemens)",
+  "birth_death": "1835-1910",
+  "dynasty": "美国/19世纪",
+  "confidence": "high",
+  "priority": "medium",
+  "persona_type": "humorist_novelist_journalist",
+  "key_works": [
+    "《卡拉韦拉斯县驰名的跳蛙》(1865)",
+    "《傻子旅行》(1869)",
+    "《艰苦岁月》(1872)",
+    "《镀金时代》(1873, 与Charles Warner合著)",
+    "《汤姆·索亚历险记》(1876)",
+    "《密西西比河上》(1883)",
+    "《哈克贝利·费恩历险记》(1884)",
+    "《康涅狄格州美国佬在亚瑟王朝》(1889)",
+    "《傻瓜威尔逊》(1894)",
+    "《败坏了哈德莱堡的人》(1900)"
+  ],
+  "philosophical_school": "美国现实主义文学、美国本土幽默文学",
+  "core_concepts": [
+    "口语化幽默叙事",
+    "社会批判",
+    "少年视角",
+    "民主理想与人道主义",
+    "反帝国主义",
+    "反精英主义"
+  ],
+  "distillation_date": "2026-05-07",
+  "distillation_version": "1.0",
+  "source_corpus_size": "约50000字",
+  "sources_used": [
+    "Britannica - Mark Twain Biography",
+    "World History Encyclopedia - Mark Twain",
+    "百度百科 - 马克·吐温"
+  ],
+  "notes": [
+    "马克·吐温为19世纪美国作家，无诗词作品下限要求",
+    "吐温是西方文学人物，主要作品为英语，语料来自英文百科和中文百科",
+    "本次蒸馏使用SerpAPI调Google搜索获取来源",
+    "web_search内置DuckDuckGo失败，SerpAPI成功"
+  ]
+}
