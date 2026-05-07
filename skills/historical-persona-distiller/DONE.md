@@ -8,6 +8,7 @@
 | 130 | 牛顿 | 英国/17-18世纪 | 2026-05-07 | high | 25 |
 | 131 | 爱因斯坦 | 德国-美国/20世纪 | 2026-05-07 | high | 30 |
 | 132 | 达尔文 | 英国/19世纪 | 2026-05-07 | high | 35 |
+| 133 | 伽利略 | 意大利/16-17世纪 | 2026-05-08 | high | 25 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -21,9 +22,29 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 伽利略（jia_li_lue）
-**来源：** backlog.md（第六批外国科技人物，#123）
+**下一待处理：** 哥白尼（ge_bai_ni）
+**来源：** backlog.md（第六批外国科技人物，#124）
 **优先级：** high
+
+---
+
+### 2026-05-08 伽利略（jia_li_lue）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo fetch failed）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索，返回 JSON 结果，23700条结果）
+**web_fetch：** ✅ 成功（百度百科、World History Encyclopedia、Britannica 均成功）
+
+**最终来源：**
+1. 百度百科·伽利略·伽利雷（baike.baidu.com/item/伽利略·伽利雷/6028466，约21426字，中文，主源）
+2. World History Encyclopedia - Galileo Galilei（worldhistory.org/Galileo_Galilei/，约49229字，英文，详细传记）
+3. Britannica - Galileo（britannica.com/biography/Galileo-Galilei，约8267字，英文，简介）
+
+**git push 情况：** ✅ 首次 push 成功（commit ea3cd89 推送至 origin/main）
+
+**confidence：** high
+**耗时：** 约25分钟
+
+**备注：** 伽利略（Galileo Galilei，1564-1642）是意大利数学家、物理学家、天文学家、自然哲学家，被誉为"近代科学之父"；web_search失败后 SerpAPI via web_fetch 成功发挥作用；3个权威来源（百度百科21426字+World History Encyclopedia 49229字+Britannica 8267字）共约77000+字语料；伽利略为科学家而非诗人，无需诗词采集；6条思想内核（数学语言观、实验验证主义、哥白尼物理真实性、惯性原理、落体定律、望远镜天文学）均有至少2处原文引用验证；对话体写作是其最标志性表达方式；1633年宗教审判和终身软禁是其人生最重大事件；1979年教皇为伽利略平反；confidence评为 high。
 
 ---
 
