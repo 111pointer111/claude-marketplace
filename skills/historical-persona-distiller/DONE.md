@@ -7,6 +7,7 @@
 | 129 | 莫里哀 | 法国/17世纪 | 2026-05-07 | medium | 20 |
 | 130 | 牛顿 | 英国/17-18世纪 | 2026-05-07 | high | 25 |
 | 131 | 爱因斯坦 | 德国-美国/20世纪 | 2026-05-07 | high | 30 |
+| 132 | 达尔文 | 英国/19世纪 | 2026-05-07 | high | 35 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -20,8 +21,8 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 达尔文（da_er_wen）
-**来源：** backlog.md（第六批外国科技人物，#122）
+**下一待处理：** 伽利略（jia_li_lue）
+**来源：** backlog.md（第六批外国科技人物，#123）
 **优先级：** high
 
 ---
@@ -1427,6 +1428,29 @@
 **耗时：** 约30分钟
 
 **备注：** 爱因斯坦（Albert Einstein，1879-1955）是20世纪最重要的物理学家，相对论创立者，1921年诺贝尔物理学奖得主；web_search失败后 SerpAPI via web_fetch 成功发挥作用；5个权威英文来源共约72,000+字语料；爱因斯坦为科学家而非诗人，无需诗词采集；思想内核（追求统一性、自由探索与独立思考、科学与人道主义结合）均有至少2处原文引用验证；4个人生阶段（童年/求学与专利局/柏林学术/美国流亡）划分合理，语言风格演变轨迹清晰（从技术性强→哲学化通俗→社会活动家语气）；confidence评为 high。
+
+---
+
+### 2026-05-07 达尔文（da_er_wen）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接失败）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索，返回 JSON 结果，~10,600,000条结果）
+**web_fetch：** ✅ 成功（Britannica、Biography.com、IEP等多个来源）
+
+**最终来源：**
+1. Britannica - Charles Darwin（britannica.com/biography/Charles-Darwin，约10,688字，英文，主源）
+2. Biography.com - Charles Darwin（biography.com/scientists/charles-darwin，约9,505字，英文，含达尔文原文引语）
+3. Internet Encyclopedia of Philosophy - Darwin词条（iep.utm.edu/darwin/，约30,000字，英文，深入分析达尔文哲学影响）
+
+**git push 情况：** ✅ 首次 push 成功（commit 83da1f7 推送至 origin/main）
+
+**百度百科：** ❌ 失败（baike.baidu.com 返回404）
+**其他来源失败记录：** worldhistory.org（disambiguation页面，非具体文章）、history.com（406）、science.org.au（404）、stanford.edu/entries/darwin（404）、nationalgeographic.com（403）、AMNH（403+CAPTCHA）
+
+**confidence：** high
+**耗时：** 约35分钟
+
+**备注：** 达尔文（Charles Darwin，1809-1882）是英国博物学家，进化论和自然选择理论的奠基人；《物种起源》(1859)彻底改变了人类对生命起源的认知；web_search失败后 SerpAPI via web_fetch 成功定位Britannica和Biography.com等高质量来源；IEP词条提供了深入的哲学影响分析（马尔萨斯、洪堡德、英国归纳法传统）；达尔文为科学家而非诗人，无需诗词采集；思想内核（自然选择机制、生存斗争、共同祖先、渐进主义、谨慎的宗教立场）均有2处以上原文引用验证；5个人生阶段（早年教育/贝格尔号航行/理论形成/《物种起源》/晚年遗产）划分合理，语言风格演变轨迹清晰（从感性浪漫→科学观察→严谨经验→成熟绵密→温暖细致）；confidence评为 high。
 
 ---
 
