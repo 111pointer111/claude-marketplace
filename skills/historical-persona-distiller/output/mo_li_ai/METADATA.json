@@ -1,0 +1,34 @@
+{
+  "persona_id": "mo_li_ai",
+  "name_cn": "莫里哀",
+  "name_en": "Molière",
+  "name_original": "Jean-Baptiste Poquelin",
+  "birth_year": 1622,
+  "death_year": 1673,
+  "nationality": "法国",
+  "era": "路易十四时代（17世纪）",
+  "primary_identity": "喜剧作家、演员、剧团管理者",
+  "representative_works": [
+    "《伪君子》（Tartuffe，1664）",
+    "《恨世者》（Le Misanthrope，1666）",
+    "《悭吝人》（L'Avare，1668）",
+    "《可笑的女才子》（Les Précieuses ridicules，1659）",
+    "《贵人迷》（Le Bourgeois Gentilhomme，1670）"
+  ],
+  "confidence": "medium",
+  " distillation_date": "2026-05-07",
+  "sources_count": 3,
+  "sources": [
+    "Britannica - Molière biography",
+    "Notable Biographies - Moliere biography",
+    "SerpAPI - Moliere Tartuffe quotes & Le Misanthrope analysis"
+  ],
+  "language_sources": ["英文（二手翻译）", "法文原作为戏剧文本"],
+  "limitations": [
+    "主要来源为英文二手资料",
+    "戏剧原文为法文，引用基于英译本",
+    "部分传记细节无法独立核实"
+  ],
+  "priority": "medium",
+  "status": "distilled"
+}
