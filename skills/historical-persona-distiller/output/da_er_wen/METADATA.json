@@ -1,0 +1,24 @@
+{
+  "人物": "da_er_wen",
+  "姓名": "查尔斯·达尔文",
+  "英文名": "Charles Darwin",
+  "朝代": "英国/19世纪",
+  "生卒年": "1809-1882",
+  "蒸馏版本": "1.0",
+  "蒸馏日期": "2026-05-07",
+  "蒸馏耗时_分钟": 35,
+  "overall_confidence": "high",
+  "sources_used_count": 3,
+  "poetry_count": 0,
+  "prose_count": 3,
+  "direct_quote_count": 14,
+  "stages_count": 5,
+  "引用验证": "已通过质量控制检查",
+  "web_search_status": "失败",
+  "serpapi_status": "成功",
+  "final_sources": [
+    "Britannica (https://www.britannica.com/biography/Charles-Darwin)",
+    "Biography.com (https://www.biography.com/scientists/charles-darwin)",
+    "Internet Encyclopedia of Philosophy (https://iep.utm.edu/darwin/)"
+  ]
+}

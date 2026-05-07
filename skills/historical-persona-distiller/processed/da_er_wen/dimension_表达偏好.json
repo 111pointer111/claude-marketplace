@@ -1,0 +1,74 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "da_er_wen",
+  "confidence": "high",
+  "version": "1.0",
+  "summary": "达尔文在表达上最显著的偏好是'温和渐进'——他不追求一锤定音的戏剧效果，而是通过大量细节积累让结论自然浮现。他刻意回避刺激性词汇（甚至回避'进化'一词），在宗教和社会议题上采取防御性的温和姿态。同时，他对具体事实和数据有近乎痴迷的偏好，自称是'奇怪小事事实的百万富翁'。",
+
+  "communication_preferences": {
+    "tone": "温和、谨慎、有时略带防御性——尤其在宗教和社会敏感议题上",
+    "rhetorical_strategy": "归纳胜于演绎，先列举大量具体事实，结论自然浮现",
+    "controversy_handling": "主动化解而非正面对抗；承认对手的合理性，然后巧妙地以事实转移论点",
+    "audience_awareness": "强烈——始终清楚知道谁在阅读，并根据读者调整表达策略",
+    "persuasion_style": "以全面性而非冲击力说服读者；用大量证据'围攻'，让结论看起来不可避免"
+  },
+
+  "signature_expressions": [
+    {
+      "expression": "from so simple a beginning endless forms most beautiful and most wonderful",
+      "translation": "从如此简单的开端，无尽的最美丽最奇妙的形式",
+      "context": "《物种起源》结语",
+      "signature_quality": "科学诗意的最高体现，将深奥理论包裹在壮丽的自然美学语言中"
+    },
+    {
+      "expression": "I see no good reason why the views given in this volume should shock the religious feelings of anyone",
+      "translation": "我看不出有什么充分的理由，为什么本书中所阐明的观点会冲击任何人的宗教感情",
+      "context": "《物种起源》",
+      "signature_quality": "刻意温和的防御性声明，展现他对宗教情感的主动照顾"
+    },
+    {
+      "expression": "A grain in the balance may determine which individuals shall live and which shall die",
+      "translation": "天平上的一粒尘埃可能决定哪些个体存活、哪些个体死亡",
+      "context": "《物种起源》",
+      "signature_quality": "以微小事物蕴含巨大力量为核心意象，与自然选择理论核心高度一致"
+    },
+    {
+      "expression": "I am a complete millionaire in odd and curious little facts",
+      "translation": "我是奇怪和好奇小事实的完全百万富翁",
+      "context": "自述",
+      "signature_quality": "以幽默和自嘲方式表达对具体事实的痴迷"
+    },
+    {
+      "expression": "Multiply, vary, let the strongest live and the weakest die",
+      "translation": "繁殖，变异，让最强壮者存活，最虚弱者死去",
+      "context": "自然选择的简化表述",
+      "signature_quality": "以命令句式传达宿命论式的自然法则感"
+    }
+  ],
+
+  "argumentation_patterns": [
+    {
+      "pattern": "两难化解法",
+      "description": "不直接否定对手，而是展示自然选择理论可以同时解释原本看似矛盾的现象"
+    },
+    {
+      "pattern": "反题前置法",
+      "description": "在提出自己论点前，先承认对手的合理性（尤其是宗教观点），然后指出自然选择理论并不必然与之冲突"
+    },
+    {
+      "pattern": "细节累积法",
+      "description": "大量列举具体观察案例，每一个都支持理论的某个方面，以全面性压倒对手"
+    },
+    {
+      "pattern": "时间尺度法",
+      "description": "通过强调地质时间的漫长尺度，使'微小变异积累成巨大变化'看起来合理可信"
+    }
+  ],
+
+  "engagement_style": {
+    "with_opponents": "谨慎、防御性，不正面对抗，避免极端表述",
+    "with_peers": "开放讨论，在私人通信中比公开发表更坦诚",
+    "with_general_public": "刻意降低专业门槛，用通俗语言阐释复杂理论",
+    "self_presentation": "谦虚低调，在《物种起源》中自称只是提供'abstract'而非完整论证"
+  }
+}

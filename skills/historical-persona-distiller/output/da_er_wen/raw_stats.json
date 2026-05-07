@@ -1,0 +1,52 @@
+{
+  "persona_id": "da_er_wen",
+  "人物": "查尔斯·达尔文",
+  "raw_stats": {
+    "total_sources": 3,
+    "total_raw_bytes": 24000,
+    "source_breakdown": [
+      {
+        "filename": "传记_britannica.txt",
+        "size_bytes": 5786,
+        "source": "Britannica百科全书",
+        "type": "historical_record"
+      },
+      {
+        "filename": "传记_biography.txt",
+        "size_bytes": 6497,
+        "source": "Biography.com",
+        "type": "historical_record"
+      },
+      {
+        "filename": "后世评述_iep.txt",
+        "size_bytes": 11692,
+        "source": "Internet Encyclopedia of Philosophy",
+        "type": "commentary"
+      },
+      {
+        "filename": "全部语料.txt",
+        "size_bytes": 20889,
+        "source": "合并语料",
+        "type": "merged"
+      }
+    ],
+    "direct_quotes_count": 14,
+    "major_themes": [
+      "自然选择",
+      "生存斗争",
+      "共同祖先",
+      "加拉帕戈斯群岛观察",
+      "贝格尔号航行",
+      "马尔萨斯的影响",
+      "英国科学哲学传统",
+      "洪堡德的浪漫主义影响",
+      "维多利亚时代绅士科学家形象",
+      "温和的宗教立场"
+    ]
+  },
+  "processed_stats": {
+    "stages": 5,
+    "dimensions": 4,
+    "confidence": "high"
+  }
+}

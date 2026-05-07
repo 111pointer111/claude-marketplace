@@ -1,0 +1,114 @@
+# 达尔文全部语料 / Charles Darwin Complete Corpus
+# persona_id: da_er_wen
+# 合并来源:
+# 1. 传记_britannica.txt - Britannica百科全书
+# 2. 传记_biography.txt - Biography.com
+# 3. 后世评述_iep.txt - Internet Encyclopedia of Philosophy
+
+## 合并正文
+
+【来源1：Britannica百科全书 - Charles Darwin词条】
+
+Charles Darwin (born February 12, 1809, Shrewsbury, Shropshire, England—died April 19, 1882, Downe, Kent) was an English naturalist whose scientific theory of evolution by natural selection became the foundation of modern evolutionary studies. An affable country gentleman, Darwin at first shocked religious Victorian society by suggesting that animals and humans shared a common ancestry. However, his nonreligious biology appealed to the rising class of professional scientists, and by the time of his death evolutionary imagery had spread through all of science, literature, and politics. Darwin, himself an agnostic, was accorded the ultimate British accolade of burial in Westminster Abbey, London.
+
+Darwin formulated his bold theory in private in 1837–39, after returning from a voyage around the world aboard HMS Beagle, but it was not until two decades later that he finally gave it full public expression in On the Origin of Species (1859), a book that has deeply influenced modern Western society and thought.
+
+Darwin was the second son of society doctor Robert Waring Darwin and of Susannah Wedgwood, daughter of the Unitarian pottery industrialist Josiah Wedgwood. Darwin's other grandfather, Erasmus Darwin, a freethinking physician and poet fashionable before the French Revolution, was author of Zoonomia; or the Laws of Organic Life (1794–96). Darwin's mother died when he was eight, and he was cared for by his three elder sisters. The boy stood in awe of his overbearing father, whose astute medical observations taught him much about human psychology. But he hated the rote learning of Classics at the traditional Anglican Shrewsbury School, where he studied between 1818 and 1825. Science was then considered dehumanizing in English public schools, and for dabbling in chemistry Darwin was condemned by his headmaster (and nicknamed "Gas" by his schoolmates).
+
+His father, considering the 16-year-old a wastrel interested only in game shooting, sent him to study medicine at Edinburgh University in 1825. Later in life, Darwin gave the impression that he had learned little during his two years at Edinburgh. In fact, it was a formative experience. There was no better science education in a British university. He was taught to understand the chemistry of cooling rocks on the primitive Earth and how to classify plants by the modern "natural system." At the Edinburgh Museum he was taught to stuff birds by John Edmonstone, a freed South American slave, and to identify the rock strata and colonial flora and fauna.
+
+More crucially, the university's radical students exposed the teenager to the latest Continental sciences. Edinburgh attracted English Dissenters who were barred from graduating at the Anglican universities of Oxford and Cambridge, and at student societies Darwin heard freethinkers deny the Divine design of human facial anatomy and argue that animals shared all the human mental faculties.
+
+As he collected sea slugs and sea pens on nearby shores, he was accompanied by Robert Edmond Grant, a radical evolutionist and disciple of the French biologist Jean-Baptiste Lamarck. An expert on sponges, Grant became Darwin's mentor, teaching him about the growth and relationships of primitive marine invertebrates. Darwin, encouraged to tackle the larger questions of life through a study of invertebrate zoology, made his own observations on the larval sea mat (Flustra) and announced his findings at the student societies.
+
+The young Darwin learned much in Edinburgh's rich intellectual environment, but not medicine: he loathed anatomy, and (pre-chloroform) surgery sickened him. His freethinking father, shrewdly realizing that the church was a better calling for an aimless naturalist, switched him to Christ's College, Cambridge, in 1828. He took his horse, indulged his drinking, shooting, and beetle-collecting passions with other squires' sons, and managed 10th place in the Bachelor of Arts degree in 1831. Here he was shown the conservative side of botany by a young professor, the Reverend John Stevens Henslow, while that doyen of Providential design in the animal world, the Reverend Adam Sedgwick, took Darwin to Wales in 1831 on a geologic field trip.
+
+Fired by Alexander von Humboldt's account of the South American jungles in his Personal Narrative of Travels, Darwin jumped at Henslow's suggestion of a voyage to Tierra del Fuego, at the southern tip of South America, aboard a rebuilt brig, HMS Beagle. Darwin would not sail as a lowly surgeon-naturalist but as a self-financed gentleman companion to the 26-year-old captain, Robert Fitzroy. Darwin equipped himself with weapons, books (Fitzroy gave him the first volume of Principles of Geology, by Charles Lyell), and advice on preserving carcasses from London Zoo's experts. The Beagle sailed from England on December 27, 1831.
+
+【来源2：Biography.com - Charles Darwin词条】
+
+Charles Robert Darwin was a British naturalist and biologist known for his theory of evolution and his understanding of the process of natural selection. In 1831, he embarked on a five-year voyage around the world on the HMS Beagle, during which time his studies of various plants and an led him to formulate his theories. In 1859, he published his landmark book, On the Origin of Species.
+
+Darwin was born on February 12, 1809, in the tiny merchant town of Shrewsbury, England. A child of wealth and privilege who loved to explore nature, Darwin was the second youngest of six kids.
+
+Darwin came from a long line of scientists: His father, Dr. R.W. Darwin, was a medical doctor, and his grandfather, Dr. Erasmus Darwin, was a renowned botanist. Darwin's mother, Susanna, died when he was only eight years old.
+
+In October 1825, at age 16, Darwin enrolled at University of Edinburgh along with his brother Erasmus. Two years later, he became a student at Christ's College in Cambridge.
+
+His father hoped he would follow in his footsteps and become a medical doctor, but the sight of blood made Darwin queasy. His father suggested he study to become a parson instead, but Darwin was far more inclined to study natural history.
+
+While Darwin was at Christ's College, botany professor John Stevens Henslow became his mentor. After Darwin graduated Christ's College with a bachelor of arts degree in 1831, Henslow recommended him for a naturalist's position aboard the HMS Beagle.
+
+The ship, commanded by Captain Robert FitzRoy, was to take a five-year survey trip around the world. The voyage would prove the opportunity of a lifetime for the budding young naturalist.
+
+On December 27, 1831, the HMS Beagle launched its voyage around the world with Darwin aboard. Over the course of the trip, Darwin collected a variety of natural specimens, including birds, plants and fossils.
+
+Through hands-on research and experimentation, he had the unique opportunity to closely observe principles of botany, geology and zoology. The Pacific Islands and Galapagos Archipelago were of particular interest to Darwin, as was South America.
+
+Upon his return to England in 1836, Darwin began to write up his findings in the Journal of Researches, published as part of Captain FitzRoy's larger narrative and later edited into the Zoology of the Voyage of the Beagle.
+
+The trip had a monumental effect on Darwin's view of natural history. He began to develop a revolutionary theory about the origin of living beings that ran contrary to the popular view of other naturalists at the time.
+
+Darwin's theory of evolution declared that species survived through a process called "natural selection," where those that successfully adapted or evolved to meet the changing requirements of their natural habitat thrived and reproduced, while those species that failed to evolve and reproduce died off.
+
+Through his observations and studies of birds, plants and fossils, Darwin noticed similarities among species all over the globe, along with variations based on specific locations, leading him to believe that the species we know today had gradually evolved from common ancestors.
+
+In 1858, after years of scientific investigation, Darwin publicly introduced his revolutionary theory of evolution in a letter read at a meeting of the Linnean Society. On November 24, 1859, he published a detailed explanation of his theory in his best-known work, On the Origin of Species by Means of Natural Selection.
+
+In the next century, DNA studies provided scientific evidence for Darwin's theory of evolution. However, controversy surrounding its conflict with Creationism is still found among some people today.
+
+Following a lifetime of devout research, Charles Darwin died at his family home, Down House, in London, on April 19, 1882. He was buried at Westminster Abbey.
+
+## 达尔文原文引语摘录
+
+- "A man who dares to waste one hour of time has not discovered the value of life." — Darwin
+- "How great the difference between savage and civilized man is—it is greater than between a wild and a domesticated animal." — Darwin
+- "I am a complete millionaire in odd and curious little facts." — Darwin
+- "Multiply, vary, let the strongest live and the weakest die." — Darwin
+- "For the shield may be as important for victory, as the sword or spear." — Darwin
+- "I see no good reason why the views given in this volume should shock the religious feelings of anyone." — Darwin, Origin of Species
+- "A grain in the balance may determine which individuals shall live and which shall die—which variety or species shall increase in number, and which shall decrease, or finally become extinct." — Darwin
+- "If it could be demonstrated that any complex organ existed, which could not possibly have been formed by numerous, successive, slight modifications, my theory would absolutely break down. But I can find out no such case." — Darwin
+- "The extinction of species and of whole groups of species, which has played so conspicuous a part in the history of the organic world, almost inevitably follows from the principle of natural selection." — Darwin
+- "There is grandeur in this view of life...from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved." — Darwin, Origin of Species
+
+【来源3：Internet Encyclopedia of Philosophy - Darwin词条】
+
+Charles Darwin is primarily known as the architect of the theory of evolution by natural selection. With the publication of On the Origin of Species in 1859, he advanced a view of the development of life on earth that profoundly shaped nearly all biological and much philosophical thought which followed. Darwin was the first to argue that a wide variety of features of the biological world could be simultaneously explained if all organisms were descended from a single common ancestor and modified by a process of adaptation to environmental conditions that Darwin christened "natural selection."
+
+Charles Robert Darwin was born in Shropshire, England, on February 12, 1809. He came from a relatively illustrious and well-to-do background: his father, Robert Darwin (1766–1848), was a wealthy and successful surgeon, and his uncle Josiah Wedgwood (1730–1795) was the son of the founder of the pottery and china works that still bear the family name. His grandfather was Erasmus Darwin (1731–1802), a co-founder of the Lunar Society. Erasmus Darwin's natural-philosophical poetry was widely known, especially Zoonomia (or "Laws of Life"), published between 1794 and 1796, and containing what we might today call some "proto-evolutionary" thought.
+
+Darwin had been expected to follow in his father's footsteps and set out for the University of Edinburgh at the age of sixteen to study medicine. He was so distressed by surgical demonstrations (in the years prior to anesthesia) that he quickly renounced any thoughts of becoming a doctor and turned his focus instead to the zoological lessons of Robert Edmond Grant, who would soon become his first real mentor. Darwin's father sent him in 1828 to Cambridge, with the goal of becoming an Anglican parson. Cambridge, however, would put him in contact with John Stevens Henslow, an influential botanist who encouraged Darwin to begin studying geology.
+
+His friendship with Henslow would trigger one of the pivotal experiences of Darwin's life. The professor was offered a position as "ship's naturalist" for the second voyage of the HMS Beagle. Henslow, dissuaded by his wife from taking the position himself, offered it to Darwin. After convincing his father that there could indeed be a career waiting for him at the end of the trip, Darwin departed on December 27, 1831.
+
+Darwin left England a barely credentialed, if promising, twenty-two-year-old student of zoology, botany, and geology. By the time the ship returned in 1836, Darwin had already become a well-known figure among British naturalists. This recognition occurred for several reasons. First, it was a voyage of intellectual transformation. One of Darwin's most significant scientific influences was Charles Lyell, whose three-volume Principles of Geology arrived by post over the course of the voyage, dramatically reshaping the way in which Darwin would view the geological, fossil, zoological, and botanical data that he collected on the trip. Second, Darwin spent the entire voyage collecting a wide variety of extremely interesting specimens and sending them back to London.
+
+It was also on this trip that Darwin made his famed visit to the islands of the Galapagos. It is certain that the classic presentation of the Galapagos trip as a sort of "eureka moment" for Darwin is incorrect. But the visit was nonetheless extremely important. Darwin was struck by the fact that the organisms found in the Galapagos did not look like inhabitants of other tropical islands, but rather seemed most similar to those found in coastal regions of South America. Why, Darwin began to wonder, would a divine intelligence not create species better tailored to their island environment, rather than borrowing forms derived from the nearby continent? This argument from biogeography was one Darwin always found persuasive.
+
+Beginning with his return in late 1836, Darwin would spend six fast-paced years moving through London's scientific circles. This was a period of frantic over-work and rapidly progressing illness. Darwin married his first cousin Emma Wedgwood in early 1839, and the family escaped the pressures of London to settle at a country manor in Down, Kent, in 1842. Darwin would largely be a homebody from this point on; his poor health and deep attachment to his ten children kept him hearthside for much of the remainder of his career. The death of two of his children in infancy, and especially a third, Annie, at the age of ten, were tragedies that weighed heavily upon him.
+
+We know that over the London period – and particularly during two crucial years, 1837 and 1838 – Darwin would quickly become convinced that his accumulated zoological data offered unequivocal support for what he would call transformism: the idea that the species that exist today are modified descendants of species that once existed in the past but are now extinct. Across the top of his B notebook (started around July 1837), he wrote the word ZOONOMIA, in homage to his grandfather's own transformist thought. The first "evolutionary tree" would soon follow. Around this time, he came to an understanding of natural selection as a mechanism for transformism, in essentially its modern form – since no organism is exempt from the struggle to survive and reproduce, any advantage, however slight, over its competitors will lead to more offspring in the long run, and hence the accumulation of advantageous change.
+
+In 1842, Darwin drafted a short version of this theory (now known as the Sketch) and expanded it to a much longer draft in 1844 (now known as the Essay), which he gave to his wife with instructions and an envelope of money to ensure that it would be published if Darwin died. Somewhat inexplicably, he then set this work aside for around a decade, publishing a magisterial three-volume work on the classification of the barnacles.
+
+In any event, he slowly began working on evolutionary ideas again over the mid-1850s, until, on June 18, 1858, he received a draft of an article from fellow naturalist Alfred Russel Wallace. Without his involvement, Lyell and the botanist Joseph Dalton Hooker arranged a meeting of the Linnean Society at which some of Darwin's Sketch and Wallace's paper would be read, allowing Darwin to secure priority in the discovery of natural selection. Meanwhile, Darwin turned to the preparation of an "abstract" of the larger book, much lighter on citations and biological detail than he would have liked, and he rushed it into print. On November 24, 1859, On the Origin of Species by Means of Natural Selection was published. Its initial print run immediately sold out.
+
+After publishing books on the fertilization of orchids, the morphology of climbing plants, and the variation of domesticated plants and animals, Darwin finally turned directly to the question of humans, publishing The Descent of Man in 1871. His efforts there to connect the mental capacities of animals with those of humans would be extended by The Expression of the Emotions in Man and Animals, published the following year. Further books on fertilization, flowers, movement in plants, and a final book on earthworms were Darwin's remaining major scientific publications.
+
+Darwin died in April 1882, and is buried in Westminster Abbey, next to John Herschel and just across from Isaac Newton. By the 1950s, biological theory as a whole had been remade in a largely Darwinian image, and in 1964, Theodosius Dobzhansky would famously write that "nothing makes sense in biology except in the light of evolution."
+
+## Darwin的哲学影响
+
+For all that Darwin was assuredly not a professional philosopher, he was still quite well-read, and concepts from both British and broader European traditions can undeniably be detected in his work.
+
+The British tradition was born out of the professionalization and standardization of scientific practice. Whewell would coin the very term 'scientist' around this period. Herschel's Preliminary Discourse on the Study of Natural Philosophy was published in 1830 (Darwin read it the same year), Whewell's History of the Inductive Sciences and Philosophy of the Inductive Sciences appeared in 1837 and 1840, respectively, and Mill's System of Logic dates from 1843.
+
+The other philosophical tradition which substantially shaped Darwin's thought was a German Romantic one, largely present in the figure of the naturalist, explorer, and philosopher Alexander von Humboldt (1769–1859). Darwin seems to have first read Humboldt in the years between the completion of his bachelor's degree and his departure on the Beagle. Throughout his life, he often described his interactions with the natural world in deeply aesthetic, if not spiritual, terms, frequently linking such reflections back to Humboldt's influence. Humboldt described the world in relational terms, focusing in particular on the reciprocal connections between botany, geology, and geography, a perspective that would be central in Darwin's own work. Humboldt also had expounded a nearly universally "gradualist" picture of life – emphasizing the continuity between animals and humans, plants and animals, and even animate and inanimate objects.
+
+Finally, we have the influence of Thomas Malthus. Darwin reads Malthus's Essay on the Principle of Population (1798) on September 28, 1838, just as he is formulating the theory of natural selection for the first time. We may be certain that Darwin took from the first chapter of Malthus's work a straightforward yet important mathematical insight. Left entirely to its own devices, the growth of population is an exponential phenomenon. Even with optimistic assumptions about the ability of humans to increase efficiency and yield in our production of food, it seems impossible that growth in the capacity to supply resources for a given population could proceed faster than a linear increase.
+
+This insight became crucial to the conviction that competition in nature – what he would call the struggle for existence – is omnipresent. Every organism is locked in a constant battle to survive and reproduce, whether with other members of its species, other species, or even its environmental conditions. This struggle can help us to understand both what would cause a species to go extinct, and to see why even the slightest heritable advantage could tilt the balance in favor of a newly arrived form.
+
+---
+Sources: Britannica, Biography.com, Internet Encyclopedia of Philosophy

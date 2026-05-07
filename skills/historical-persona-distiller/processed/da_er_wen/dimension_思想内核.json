@@ -1,0 +1,108 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "da_er_wen",
+  "confidence": "high",
+  "version": "1.0",
+  "summary": "查尔斯·达尔文的核心思想可概括为：自然界的多样性源于共同祖先经过漫长岁月的渐进修饰；自然选择是这种修饰的主要机制——凡有微小优势者，其后代在生存斗争中便有更多机会存活并繁殖。这一视角从根本上取消了物种固定不变的传统观念，将人类纳入自然界连续演化的序列之中。达尔文本人是一个不可知论者，他在科学和宗教之间刻意保持温和距离；同时，他深受英国哲学传统（归纳法）、德国浪漫主义（连续性原理）和马尔萨斯人口论的综合影响。",
+
+  "core_beliefs": [
+    {
+      "id": "cb1",
+      "belief": "物种并非静止不变，而是从共同祖先经过漫长渐进过程演化而来",
+      "original_quote_en": "from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved",
+      "original_quote_zh": "从如此简单的开端，无尽的最为美丽动人的形式正在演化，而且仍在演化之中",
+      "source": "《物种起源》结语",
+      "stage": "4"
+    },
+    {
+      "id": "cb2",
+      "belief": "自然选择是生物演化的主要驱动力：任何微小但有遗传优势的特征，在生存竞争中都会逐渐积累",
+      "original_quote_en": "any advantage, however slight, over its competitors will lead to more offspring in the long run, and hence the accumulation of advantageous change",
+      "original_quote_zh": "无论多么微小，只要一种生物比其竞争者具有任何优势，就会在长期中产生更多后代，从而导致有利变异的积累",
+      "source": "IEP词条，描述达尔文理论核心",
+      "stage": "3"
+    },
+    {
+      "id": "cb3",
+      "belief": "生存斗争无处不在——同一物种内、跨物种间、以及与自然环境条件的持续竞争",
+      "original_quote_en": "Every organism is locked in a constant battle to survive and reproduce, whether with other members of its species, other species, or even its environmental conditions (of drought or temperature, for instance)",
+      "original_quote_zh": "每一种生物都陷入了一场持续的生存和繁殖之战，无论是对抗同类、异类，还是对抗环境条件（如干旱或温度）",
+      "source": "IEP词条",
+      "stage": "3"
+    },
+    {
+      "id": "cb4",
+      "belief": "人口增长的几何级数与食物供应的算术级数增长之间存在不可避免的不平衡，这是一切生存斗争的数学基础",
+      "original_quote_en": "Left entirely to its own devices, the growth of population is an exponential phenomenon. Even with optimistic assumptions about the ability of humans to increase efficiency and yield in our production of food, it seems impossible that growth in the capacity to supply resources for a given population could proceed faster than a linear increase",
+      "original_quote_zh": "如果任其自然发展，人口增长是指数级的。即便对人类提高食物生产效率的能力做出最乐观的假设，某个给定人口的食物供应增长也不可能快于线性增长",
+      "source": "IEP词条，关于马尔萨斯对达尔文的影响",
+      "stage": "3"
+    },
+    {
+      "id": "cb5",
+      "belief": "科学理论应当建立在大量归纳证据之上，而非先验假设——这体现了英国科学哲学传统对达尔文的深刻影响",
+      "original_quote_en": "the largest possible basis of empirical data and generalize from them only when a theoretical claim has received sufficient evidential support",
+      "original_quote_zh": "应当收集尽可能大量的经验数据，只有当一个理论主张获得了充分的证据支持之后，才从中归纳出普遍结论",
+      "source": "IEP词条，关于培根式归纳法对达尔文的影响",
+      "stage": "3"
+    },
+    {
+      "id": "cb6",
+      "belief": "人类与动物共享心理能力，人类道德和情感能力可以追溯到动物祖先——这是一个具有深刻哲学意义的论断",
+      "original_quote_en": "he connected the mental capacities of animals with those of humans",
+      "original_quote_zh": "他将动物的心理能力与人类的心理能力联系起来",
+      "source": "IEP词条",
+      "stage": "4"
+    }
+  ],
+
+  "key_concepts": [
+    {
+      "concept": "自然选择 (Natural Selection)",
+      "definition": "在生存竞争中，拥有微小但有遗传优势特征的个体将有更多机会存活并繁殖，使该特征在种群中逐渐扩散"
+    },
+    {
+      "concept": "生存斗争 (Struggle for Existence)",
+      "definition": "受马尔萨斯启发提出的概念，认为所有生物都面临生存和繁殖的持续竞争——既包括与其他个体的直接竞争，也包括与环境的生存挑战"
+    },
+    {
+      "concept": "共同祖先 (Common Ancestry)",
+      "definition": "所有现存物种都来自少数甚至单一共同祖先的繁殖后代，物种间的差异源于漫长岁月的渐进修饰"
+    },
+    {
+      "concept": "性选择 (Sexual Selection)",
+      "definition": "特定特征在求偶竞争中的优势选择，后来在《人类的由来》中作为人类进化的独立机制提出"
+    },
+    {
+      "concept": "渐进主义 (Gradualism)",
+      "definition": "受洪堡德影响的观念，强调自然界的变化是连续、渐进的，而非突变式的——这是达尔文世界观的哲学基础"
+    }
+  ],
+
+  "influences": [
+    {
+      "name": "Alexander von Humboldt",
+      "impact": "对达尔文影响最深远的科学家/思想家之一。通过《旅行叙事》激发了达尔文环球航行的决心；其强调自然界连续性和关联性的浪漫主义视角深刻塑造了达尔文的世界观"
+    },
+    {
+      "name": "Thomas Malthus",
+      "impact": "1838年9月28日阅读马尔萨斯《人口论》，为达尔文提供了理解生存斗争的数学框架——人口指数增长与食物供应线性增长之间的张力"
+    },
+    {
+      "name": "Charles Lyell",
+      "impact": "其《地质学原理》在航行途中陆续寄到达尔文手中，彻底改变了他对地球历史的理解——均变论成为达尔文接受生物演化的思想前提"
+    },
+    {
+      "name": "Erasmus Darwin (祖父)",
+      "impact": "通过Zoonomia（1794-1796）展示了早期进化思想；达尔文在笔记本B封面写下祖父著作名以示致敬"
+    },
+    {
+      "name": "Robert Edmond Grant",
+      "impact": "爱丁堡时期的导师，向达尔文传授了海洋无脊椎动物知识和早期的进化论思想"
+    },
+    {
+      "name": "John Stevens Henslow",
+      "impact": "剑桥时期的导师，将达尔文引入植物学和地质学研究，推荐他登上贝格尔号，是达尔文科学生涯的引路人"
+    }
+  ]
+}

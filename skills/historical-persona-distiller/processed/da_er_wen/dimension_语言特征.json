@@ -1,0 +1,95 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "da_er_wen",
+  "confidence": "high",
+  "version": "1.0",
+  "summary": "达尔文的英文写作风格以清晰、绵密、论证递进为核心特征。他善于用大量具体观察数据"围攻"读者，措辞谨慎克制，在争议性问题上刻意使用温和措辞。其句式整体偏向复杂，但结构清晰，逻辑链条长而不乱。他偏好用具体事实而非抽象原则来建构论证，并在《物种起源》中有意回避技术术语以扩大读者群。",
+
+  "quantitative_features": {
+    "avg_sentence_length": "中等偏长（25-40词/句）",
+    "paragraph_structure": "先举例、后归纳，先铺垫、后结论，层层递进",
+    "technical_density": "中等——专业但不故作高深，《物种起源》刻意降低专业门槛",
+    "rhetorical_patterns": [
+      "大量列举具体观察数据（尤其是Stage 4《物种起源》时期）",
+      "条件句频繁使用：if...then...，展示论证的逻辑必然性",
+      "让步结构：承认对手论点后再逐一化解",
+      "设问自答：用设问引发读者思考，然后给出答案"
+    ]
+  },
+
+  "key_vocabulary": {
+    "characteristic_words": [
+      "variation（变异）",
+      "struggle（斗争）",
+      "modification（修饰）",
+      "descent（下降/血统）",
+      "selection（选择）",
+      "adaptation（适应）",
+      "descent with modification（带修饰的下降——达尔文偏好的'进化'表述）",
+      "accumulation（积累）",
+      "inference（推论）",
+      "analogous（相似的/类比的）"
+    ],
+    "avoided_words": [
+      "evolution（进化）——达尔文在《物种起源》中刻意回避这个词",
+      "creation（创造）——虽然谨慎处理，但后期著作中有所触及",
+      "materialism（唯物主义）——虽然受其影响，但在公开发表中回避"
+    ]
+  },
+
+  "sentence_patterns": [
+    {
+      "pattern": "归纳递进式",
+      "example_en": "A man who dares to waste one hour of time has not discovered the value of life.",
+      "example_zh": "一个敢浪费一小时时间的人，还没有发现生命的价值。",
+      "description": "以肯定句式陈述普遍观察或结论，语调平和但立场坚定"
+    },
+    {
+      "pattern": "设问引导式",
+      "example_en": "Why would a divine intelligence not create species better tailored to their island environment, rather than borrowing forms derived from the nearby continent?",
+      "example_zh": "为什么神圣的智慧不会创造出更适应岛屿环境的物种，反而要借用邻近大陆的形式？",
+      "description": "以反问引发读者思考，引导读者自己得出与达尔文相同的结论"
+    },
+    {
+      "pattern": "数据密集式",
+      "example_en": "The extinction of species and of whole groups of species, which has played so conspicuous a part in the history of the organic world, almost inevitably follows from the principle of natural selection.",
+      "example_zh": "物种乃至整个物种群的灭绝——它们在有机世界的历史上扮演着如此显著的角色——几乎不可避免地源于自然选择原理。",
+      "description": "用多个观测实例支撑一个论点，论证的全面性使对手无处反驳"
+    },
+    {
+      "pattern": "谨慎声明式",
+      "example_en": "I see no good reason why the views given in this volume should shock the religious feelings of anyone.",
+      "example_zh": "我看不出有什么充分的理由，为什么本书中所阐明的观点会冲击任何人的宗教感情。",
+      "description": "在敏感议题上采取温和、防御性立场，主动化解宗教反对情绪"
+    },
+    {
+      "pattern": "自然美学式",
+      "example_en": "There is grandeur in this view of life...from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved.",
+      "example_zh": "在这一生命观中有一种壮丽……从如此简单的开端，无尽的、最美丽、最奇妙的形式正在演化，而且仍在演化之中。",
+      "description": "带有浪漫主义美学色彩的结尾，以诗意语调传达深远的科学思想"
+    }
+  ],
+
+  "text_types": [
+    {
+      "type": "科学论著",
+      "example_works": ["《物种起源》(1859)", "《人类的由来》(1871)"],
+      "style_notes": "绵密论证，大量具体例证，谨慎措辞，刻意降低技术门槛"
+    },
+    {
+      "type": "旅行日志/科普散文",
+      "example_works": ["《贝格尔号航行日志》(1839)"],
+      "style_notes": "感性描述与科学观察并重，带有年轻博物学家的热情和浪漫主义影响"
+    },
+    {
+      "type": "私人信件和笔记本",
+      "example_works": ["自传", "笔记本B"],
+      "style_notes": "更直接坦诚，展示了他在形成理论过程中的犹豫和思考"
+    },
+    {
+      "type": "晚年自然随笔",
+      "example_works": ["关于蚯蚓的书(1881)"],
+      "style_notes": "细致入微的日常观察，文风温暖，体现出对自然的深厚感情"
+    }
+  ]
+}
