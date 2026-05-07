@@ -1,0 +1,58 @@
+{
+  "persona_id": "jia_li_lue",
+  "name": "伽利略·伽利雷",
+  "name_en": "Galileo Galilei",
+  "birth_date": "1564-02-15",
+  "death_date": "1642-01-08",
+  "age_at_death": 77,
+  "nationality": "意大利",
+  "era": "文艺复兴末期/科学革命早期",
+  "primary_professions": ["数学家", "物理学家", "天文学家", "自然哲学家"],
+  "confidence": "high",
+  "蒸馏日期": "2026-05-08",
+  "sources": [
+    {
+      "name": "百度百科·伽利略",
+      "url": "https://baike.baidu.com/item/伽利略·伽利雷/6028466",
+      "chars": 21426,
+      "type": "传记与百科"
+    },
+    {
+      "name": "World History Encyclopedia - Galileo Galilei",
+      "url": "https://www.worldhistory.org/Galileo_Galilei/",
+      "chars": 49229,
+      "type": "英文传记分析"
+    },
+    {
+      "name": "Britannica - Galileo",
+      "url": "https://www.britannica.com/biography/Galileo-Galilei",
+      "chars": 8267,
+      "type": "英文百科简介"
+    }
+  ],
+  "persona_dimensions": {
+    "思想内核": "high",
+    "语言特征": "high",
+    "表达偏好": "high",
+    "立场光谱": "high",
+    "一致性校验": "high",
+    "voice_profile": "high"
+  },
+  "key_beliefs": [
+    "自然之书是用数学语言写的",
+    "实验是理论的唯一检验标准",
+    "哥白尼日心说具有物理真实性",
+    "惯性原理：物体保持原有运动状态",
+    "落体定律：忽略空气阻力轻重同时落地",
+    "望远镜揭示宇宙真相"
+  ],
+  "major_works": [
+    "《星际使者》(1610)",
+    "《论太阳黑子的书信》(1613)",
+    "《试金者》(1623)",
+    "《关于两个主要世界体系的对话》(1632)",
+    "《关于两门新科学的对话》(1638)"
+  ],
+  "historical_significance": "近代科学之父，科学革命先驱，与哥白尼、开普勒、牛顿共同构成科学革命基石",
+  "legacy": "1979年教皇约翰·保罗二世为伽利略平反，承认宗教不应干预科学"
+}

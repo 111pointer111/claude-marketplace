@@ -1,0 +1,73 @@
+{
+  "persona_id": "jia_li_lue",
+  "persona_name": "伽利略·伽利雷",
+  "统计时间": "2026-05-08",
+  "raw_corpus_stats": {
+    "total_chars": 16566,
+    "sources_count": 3,
+    "source_breakdown": [
+      {
+        "name": "百度百科·伽利略",
+        "url": "https://baike.baidu.com/item/伽利略·伽利雷/6028466",
+        "chars": 21426,
+        "type": "传记与百科"
+      },
+      {
+        "name": "World History Encyclopedia",
+        "url": "https://www.worldhistory.org/Galileo_Galilei/",
+        "chars": 49229,
+        "type": "英文传记"
+      },
+      {
+        "name": "Britannica - Galileo",
+        "url": "https://www.britannica.com/biography/Galileo-Galilei",
+        "chars": 8267,
+        "type": "英文百科"
+      }
+    ]
+  },
+  "processed_files": {
+    "stages_md": "stages.md (1908 bytes)",
+    "dimension_思想内核": "dimension_思想内核.json",
+    "dimension_语言特征": "dimension_语言特征.json",
+    "dimension_表达偏好": "dimension_表达偏好.json",
+    "dimension_立场光谱": "dimension_立场光谱.json",
+    "dimension_一致性校验": "dimension_一致性校验.json",
+    "dimension_voice_profile": "dimension_voice_profile.json"
+  },
+  "output_files": {
+    "SKILL_md": "SKILL.md (2367 bytes)",
+    "README_md": "README.md (925 bytes)",
+    "METADATA_json": "METADATA.json",
+    "EVENTS_md": "EVENTS.md",
+    "VOICE_md": "VOICE.md",
+    "CITATIONS_md": "CITATIONS.md"
+  },
+  "confidence_summary": {
+    "综合置信度": "high",
+    "思想内核": "high",
+    "语言特征": "high",
+    "表达偏好": "high",
+    "立场光谱": "high",
+    "一致性校验": "high",
+    "voice_profile": "high"
+  },
+  "web_search_status": {
+    "web_search": "失败（DuckDuckGo fetch failed）",
+    "SerpAPI": "成功（通过 web_fetch 调 SerpAPI Google 搜索，返回 JSON 结果，23700条结果）",
+    "web_fetch": "成功（百度百科、World History Encyclopedia、Britannica均成功）"
+  },
+  "来源验证": {
+    "百度百科": "成功（21426字）",
+    "World History Encyclopedia": "成功（49229字，英文）",
+    "Britannica": "成功（8267字，英文）"
+  },
+  "完成度": {
+    "raw_语料": true,
+    "processed_维度文件": true,
+    "output_文件": true,
+    "done_flag": true,
+    "git_commit": true,
+    "git_push": "待执行"
+  }
+}
