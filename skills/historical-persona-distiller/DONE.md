@@ -2,6 +2,7 @@
 | 124 | 波德莱尔 | 法国/19世纪 | 2026-05-06 | medium | 25 |
 | 125 | 里尔克 | 奥地利/20世纪 | 2026-05-07 | high | 25 |
 | 126 | 裴多菲 | 匈牙利/19世纪 | 2026-05-07 | medium | 30 |
+| 127 | 马克·吐温 | 美国/19世纪 | 2026-05-07 | high | 10 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -15,8 +16,28 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 马克·吐温（ma_ke_tu_wen）
-**来源：** backlog.md（第五批外国文学人物，#117）
+**下一待处理：** 海明威（hai_ming_wei）
+**来源：** backlog.md（第五批外国文学人物，#118）
+
+---
+
+### 2026-05-07 马克·吐温（ma_ke_tu_wen）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo fetch failed）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索，返回 JSON 结果，约 177,000 条结果）
+**web_fetch：** ✅ 成功（Britannica、World History Encyclopedia、百度百科共3个来源）
+
+**最终来源：**
+1. Britannica - Mark Twain Biography（britannica.com/biography/Mark-Twain，约11,673字，英文，主源）
+2. World History Encyclopedia - Mark Twain（worldhistory.org/Mark_Twain/，约33,827字，英文，详细传记）
+3. 百度百科 - 马克·吐温（baike.baidu.com/item/马克·吐温，约16,220字，中文）
+
+**git push 情况：** ✅ 首次 push 成功（commit 4882324 推送至 origin/main）
+
+**confidence：** high
+**耗时：** 约10分钟
+
+**备注：** 马克·吐温（Mark Twain，Samuel Langhorne Clemens，1835-1910）是美国幽默作家、记者、演说家，被誉为"美国文学之父"；代表作品《哈克贝利·费恩历险记》被誉为美国文学巅峰之作；web_search失败后 SerpAPI via web_fetch 成功发挥作用；3个权威来源共约61,720字语料；吐温为19世纪美国作家，无诗词下限要求，语料以英文百科全书和中文百科为主；6条思想内核（民主理想、政治批判、人性贪婪、种族平等、反帝国主义、幽默服务社会批判）均有至少2处原文引用验证；confidence评为 high。
 
 ---
 
