@@ -1,0 +1,54 @@
+{
+  "persona_id": "gao_si",
+  "name_zh": "高斯",
+  "name_en": "Carl Friedrich Gauss",
+  "name_original": "Johann Carl Friedrich Gauß",
+  "birth_year": 1777,
+  "death_year": 1855,
+  "birth_place": "Brunswick, Duchy of Brunswick (now Germany)",
+  "death_place": "Göttingen, Hanover (now Germany)",
+  "nationality": "German",
+  "era": "18-19th century",
+  "primary_identity": "Mathematician",
+  "secondary_identities": ["Astronomer", "Physicist", "Geodesist"],
+  "major_works": [
+    "Disquisitiones Arithmeticae (1801)",
+    "Theoria motus corporum coelestium (1809)",
+    "Disquisitiones generales circa superficies curva (1828)",
+    "Theoria combinationis observationum erroribus minimis obnoxiae (1823)"
+  ],
+  "confidence": "high",
+  " distillation_date": "2026-05-08",
+  "distillation_method": "historical-persona-distiller pipeline",
+  "sources_used": [
+    {
+      "source": "MacTutor History of Mathematics - Carl Friedrich Gauss Biography",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Gauss/",
+      "type": "historical_record",
+      "chars": 20000,
+      "language": "en"
+    },
+    {
+      "source": "Britannica - Carl Friedrich Gauss",
+      "url": "https://www.britannica.com/biography/Carl-Friedrich-Gauss",
+      "type": "historical_record",
+      "chars": 14575,
+      "language": "en"
+    },
+    {
+      "source": "Disquisitiones Arithmeticae原文（MacTutor转载）",
+      "url": "https://mathshistory.st-andrews.ac.uk/Extras/Gauss_Disquisitiones/",
+      "type": "collected_works",
+      "chars": 12042,
+      "language": "la/en"
+    }
+  ],
+  "total_corpus_chars": 46517,
+  "core_beliefs_count": 6,
+  "citations_count": 15,
+  "life_stages_count": 5,
+  "web_search_status": "failed",
+  "serpapi_status": "success",
+  "web_fetch_status": "success",
+  "git_push_status": "pending"
+}
