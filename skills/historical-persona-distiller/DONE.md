@@ -14,7 +14,8 @@
 136 | 高斯 | 德国/18-19世纪 | 2026-05-08 | high | 25 |
 137 | 欧拉 | 瑞士-俄国/18世纪 | 2026-05-08 | high | 45 |
 138 | 特斯拉 | 塞尔维亚-美国/19-20世纪 | 2026-05-08 | high | 40 |
-139 | 诺贝尔 | 瑞典/19世纪 | 2026-05-09 | high | — |
+139 | 弗莱明 | 苏格兰/20世纪 | 2026-05-09 | medium | 15 |
+140 | 图灵 | 英国/20世纪 | — | — | — |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -28,9 +29,33 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 弗莱明（fu_lai_ming）
-**来源：** backlog.md（第六批外国科技人物，#138）
-**优先级：** medium
+**下一待处理：** 图灵（tu_ling）
+**来源：** backlog.md（第六批外国科技人物，#139）
+**优先级：** high
+
+---
+
+### 2026-05-09 弗莱明（fu_lai_ming）蒸馏记录
+
+**web_search：** ✅ 成功（DuckDuckGo 返回8条结果，包含Britannica/Nobel Prize/Wikipedia/Science History Institute等）
+**SerpAPI：** 未启用（web_search 成功）
+**web_fetch：** ✅ 成功（Britannica 9722字 + Nobel Prize 5577字 + Science History Institute 8049字 + Wikipedia 30000字 + New World Encyclopedia 15000字，共5个来源）
+
+**最终来源：**
+1. Britannica - Alexander Fleming（britannica.com/biography/Alexander-Fleming，约9722字，英文，百科主源）
+2. Nobel Prize Official Biography（nobelprize.org/prizes/medicine/1945/fleming/biographical/，约5577字，英文，官方传记）
+3. Science History Institute - Alexander Fleming（sciencehistory.org，约8049字，英文，医学史机构）
+4. Wikipedia - Alexander Fleming（en.wikipedia.org，约30000字，英文，详细传记）
+5. New World Encyclopedia - Alexander Fleming（newworldencyclopedia.org，约15000字，英文）
+
+**git push 情况：** ✅ 首次 push 成功（commit 6520fdf 推送至 origin/main）
+
+**百度百科：** ❌ 失败（baike.baidu.com 返回404，未尝试直接URL）
+
+**confidence：** medium
+**耗时：** 约15分钟
+
+**备注：** 弗莱明（Alexander Fleming，1881-1955）是苏格兰细菌学家，因意外发现青霉素被誉为"抗生素之父"；web_search成功定位5个权威英文来源；5个英文来源共约68348字语料；弗莱明为科学家而非诗人，无需诗词采集；6条思想内核（观察胜于假设/机体自我防御优先/消毒剂过度使用之害/青霉素是自然产物/抗生素耐药性预言/团队科学重于个人英雄）均有至少2处原文引用验证；Voice Profile核心是"意外发现者+免疫信奉者+一战创伤见证者+抗生素伦理先知+谦逊的团队科学家"的矛盾统一；标志语言包括"That's funny"（发现污染培养皿时的反应）和"One sometimes finds what one is not looking for"（对科学发现的哲学总结）；百度百科抓取失败导致无中文语料，整体置信度评为 medium。
 
 ---
 
