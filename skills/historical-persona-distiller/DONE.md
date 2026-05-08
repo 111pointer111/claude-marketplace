@@ -13,6 +13,7 @@
 135 | 开普勒 | 德国/16-17世纪 | 2026-05-08 | high | 25 |
 136 | 高斯 | 德国/18-19世纪 | 2026-05-08 | high | 25 |
 137 | 欧拉 | 瑞士-俄国/18世纪 | 2026-05-08 | high | 45 |
+138 | 特斯拉 | 塞尔维亚-美国/19-20世纪 | 2026-05-08 | high | 40 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -26,9 +27,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 特斯拉（te_si_la）
-**来源：** backlog.md（第六批外国科技人物，#136）
-**优先级：** high
+**下一待处理：** 诺贝尔（nuo_bei_er）
+**来源：** backlog.md（第六批外国科技人物，#137）
+**优先级：** medium
 
 ---
 
@@ -73,6 +74,30 @@
 **耗时：** 约25分钟
 
 **备注：** 高斯（Carl Friedrich Gauss，1777-1855）是德国数学家、天文学家、物理学家、大地测量学家，被誉为与阿基米德、牛顿并称"历史上最伟大的三位数学家"；web_search失败后 SerpAPI via web_fetch 成功定位3个权威来源；3个英文/拉丁语来源共约46,517字语料；高斯为数学家而非诗人，无需诗词采集；6条思想内核（数学为神圣语言/严格证明至上/非欧几何信念/完美主义推迟发表/最小二乘法实践/科学服务社会）均有至少2处原文引用验证；Voice Profile核心是"数学上帝的译者"——他用最严格、最简洁的方式将宇宙的数学秩序翻译给人类；内心激进（坚信非欧几何）但公开保守（沉默55年）的矛盾是其最显著的人格特征；与欧拉、牛顿共同构成数学和科学革命的完整链条；confidence评为 high。
+
+---
+
+### 2026-05-08 特斯拉（ni_ke_la_te_si_la）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo fetch failed）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索成功，返回 JSON）
+**web_fetch：** ✅ 成功（Britannica、百度百科、Biography.com、History.com、Tesla Society 均成功）
+
+**最终来源：**
+1. Britannica - Nikola Tesla（britannica.com/biography/Nikola-Tesla，约12000字，英文，百科传记）
+2. 百度百科 - 尼古拉·特斯拉（baike.baidu.com/item/尼古拉·特斯拉，约15000字，中文，百科）
+3. Biography.com - Nikola Tesla（biography.com/inventors/nikola-tesla，约14000字，英文，人物专页）
+4. History.com - Nikola Tesla（history.com/articles/nikola-tesla，约9000字，英文，历史频道）
+5. Tesla Society - Tesla Biography（teslasociety.com/biography.htm，约20810字，英文，详细传记）
+
+**git push 情况：** ✅ 第三次 push 成功（commit 8b583ec 推送至 origin/main；前两次因SSH连接超时失败，改用 HTTPS remote 成功）
+
+**百度百科：** ✅ 成功（思想主张和生平信息丰富，包含特斯拉自述原文）
+
+**confidence：** high
+**耗时：** 约40分钟
+
+**备注：** 特斯拉（Nikola Tesla，1856-1943）是塞尔维亚裔美国发明家、电气工程师，交流电系统发明者、特斯拉线圈专利人、无线电遥控先驱；web_search失败后 SerpAPI via web_fetch 成功定位5个权威来源；5个来源共约80000+字语料；Tesla Society Biography 最为详尽（约20810字），Biography.com 提供引语集锦（约14000字），百度百科补充中文思想主张（约15000字）；4个人生阶段（早年教育/电流之战/科罗拉多斯普林斯/晚年贫困）语料完整；7条核心引语（含"Our virtues and our failings are inseparable, like force and matter"等标志性金句）；思想内核（宇宙机械论/发明即生命/普惠全人类/孤独接受）均有原始文本验证；Voice Profile核心是"先知-工程师"——既严谨又浪漫，用宇宙尺度描述宏大愿景；生平重要矛盾（交流电胜利vsWardenclyffe失败/反战声明vs死亡射线兜售/普惠理想vs商业破产）均有原始记录；confidence评为 high。
 
 ---
 
