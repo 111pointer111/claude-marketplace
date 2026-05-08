@@ -1,0 +1,33 @@
+{
+  "persona_id": "kai_pu_le",
+  "人物": "开普勒",
+  "persona_id_pinyin": "kai_pu_le",
+  "sources": [
+    {
+      "name": "MacTutor History of Mathematics",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Kepler/",
+      "type": "historical_record",
+      "size_chars": 26854,
+      "status": "success"
+    },
+    {
+      "name": "World History Encyclopedia",
+      "url": "https://www.worldhistory.org/johannes-kepler/",
+      "type": "historical_record",
+      "size_chars": 9229,
+      "status": "success"
+    },
+    {
+      "name": "Britannica",
+      "url": "https://www.britannica.com/biography/Johannes-Kepler",
+      "type": "historical_record",
+      "size_chars": 6346,
+      "status": "success"
+    }
+  ],
+  "total_corpus_chars": 42429,
+  "source_count": 3,
+  "confidence": "high",
+  "蒸馏日期": "2026-05-08",
+  "耗时分钟": 25
+}
