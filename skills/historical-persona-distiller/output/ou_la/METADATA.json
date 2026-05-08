@@ -1,0 +1,33 @@
+{
+  "人物": "ou_la",
+  "姓名": "欧拉（Leonhard Euler）",
+  "朝代": "瑞士-俄国/18世纪",
+  "生卒年": "1707-1783",
+  "蒸馏版本": "1.0",
+  "蒸馏日期": "2026-05-08",
+  "蒸馏耗时_分钟": 45,
+  "overall_confidence": "high",
+  "sources_used_count": 3,
+  "sources": [
+    "MacTutor History of Mathematics (mathshistory.st-andrews.ac.uk/Biographies/Euler/)",
+    "Britannica Encyclopedia (britannica.com/biography/Leonhard-Euler)",
+    "Nicolas Fuss Eulogy, MacTutor History of Mathematics Extra (mathshistory.st-andrews.ac.uk/Extras/Euler_Fuss_Eulogy/)"
+  ],
+  "语料统计": {
+    "诗词数量": 0,
+    "文集数量": 0,
+    "传记": "有（MacTutor详细传记+Britannica+Fuss悼词）",
+    "直接引语数量": 20,
+    "总字符数_全部语料": 42615
+  },
+  "confidence说明": "科学家，无诗词；以详细数学史传记为主；MacTutor传记约35000字，Britannica约10000字，Fuss悼词约30000字（部分截断），三者均为权威学术来源",
+  "stages_count": 4,
+  "stage_confidence": {
+    "切片一_求学时期": "low",
+    "切片二_圣彼得堡初期": "medium-high",
+    "切片三_柏林巅峰": "high",
+    "切片四_失明后期": "medium"
+  },
+  "引用验证": "已通过质量控制检查；所有引语均可回溯至原始来源；数学史实可交叉验证",
+  "persona_type": "western_scientist"
+}

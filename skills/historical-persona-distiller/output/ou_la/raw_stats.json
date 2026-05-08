@@ -1,0 +1,82 @@
+{
+  "人物": "ou_la",
+  "姓名": "欧拉",
+  "朝代": "瑞士-俄国/18世纪",
+  "生卒年": "1707-1783",
+  "蒸馏日期": "2026-05-08",
+  "persona_type": "western_scientist",
+  "语料统计": {
+    "诗词数量": 0,
+    "文集数量": 0,
+    "传记": "有",
+    "后世评述": "有（Fuss悼词）",
+    "直接引语数量": 20,
+    "总字符数": 42615,
+    "sources_used": [
+      {
+        "name": "MacTutor History of Mathematics",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Euler/",
+        "type": "historical_record",
+        "status": "成功",
+        "chars": 35000
+      },
+      {
+        "name": "Britannica Encyclopedia",
+        "url": "https://www.britannica.com/biography/Leonhard-Euler",
+        "type": "historical_record",
+        "status": "成功",
+        "chars": 10000
+      },
+      {
+        "name": "Nicolas Fuss Eulogy",
+        "url": "https://mathshistory.st-andrews.ac.uk/Extras/Euler_Fuss_Eulogy/",
+        "type": "historical_record",
+        "status": "成功（含截断）",
+        "chars": 30000
+      }
+    ],
+    "failed_sources": [
+      {
+        "name": "百度百科 欧拉",
+        "reason": "404页面不存在"
+      },
+      {
+        "name": "World History Encyclopedia",
+        "reason": "403 Forbidden"
+      },
+      {
+        "name": "Wikipedia (en)",
+        "reason": "fetch failed"
+      }
+    ]
+  },
+  "搜索执行记录": {
+    "web_search": "失败（DuckDuckGo不可用）",
+    "serpapi_via_web_fetch": "成功",
+    "web_fetch_direct": "成功（MacTutor+Britannica）"
+  },
+  "overall_confidence": "high",
+  "confidence说明": "3个不同权威来源（MacTutor数学史+Britannica+Fuss悼词），均为学术级别来源；直接引语均可追溯；数学史实可交叉验证；科学家类型无诗词要求",
+  "dimension_confidence": {
+    "思想内核": "high",
+    "语言特征": "high",
+    "表达偏好": "medium-high",
+    "立场光谱": "medium-high",
+    "voice_profile": "high"
+  },
+  "stages": [
+    {"stage": 1, "name": "求学时期", "period": "1707-1726", "confidence": "low"},
+    {"stage": 2, "name": "圣彼得堡初期", "period": "1727-1741", "confidence": "medium-high"},
+    {"stage": 3, "name": "柏林巅峰", "period": "1741-1766", "confidence": "high"},
+    {"stage": 4, "name": "失明后期", "period": "1766-1783", "confidence": "medium"}
+  ],
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ]
+}
