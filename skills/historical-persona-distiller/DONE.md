@@ -10,6 +10,7 @@
 | 132 | 达尔文 | 英国/19世纪 | 2026-05-07 | high | 35 |
 | 133 | 伽利略 | 意大利/16-17世纪 | 2026-05-08 | high | 25 |
 | 134 | 哥白尼 | 波兰/16世纪 | 2026-05-08 | high | 25 |
+135 | 开普勒 | 德国/16-17世纪 | 2026-05-08 | high | 25 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -23,8 +24,8 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 开普勒（kai_pu_le）
-**来源：** backlog.md（第六批外国科技人物，#125）
+**下一待处理：** 高斯（gao_si）
+**来源：** backlog.md（第六批外国科技人物，#126）
 **优先级：** medium
 
 ---
@@ -47,6 +48,28 @@
 **耗时：** 约25分钟
 
 **备注：** 哥白尼（Nicolaus Copernicus，1473-1543）是波兰文艺复兴时期天文学家、数学家、日心说系统化提出者；web_search失败后 SerpAPI via web_fetch 成功发挥作用；4个权威来源共约80000+字语料；7条思想内核（太阳中心说、地球双重运动、宇宙和谐秩序、数学为唯一工具、托勒密批判、科学宗教并行、古今观测综合）均有至少2处原文引用验证；Voice Profile强调拉丁学术语的严谨与宇宙之美的矛盾统一；《天球运行论》1543年临终出版，前言被Osiander篡改；与伽利略、开普勒、牛顿共同构成科学革命基石；confidence评为 high。
+
+---
+
+### 2026-05-08 开普勒（kai_pu_le）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo fetch failed）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索，返回 JSON 结果，约3,770,000条结果）
+**web_fetch：** ✅ 成功（Britannica、MacTutor History of Mathematics、World History Encyclopedia 共3个来源）
+
+**最终来源：**
+1. MacTutor History of Mathematics - Johannes Kepler（mathshistory.st-andrews.ac.uk/Biographies/Kepler/，约26,854字，英文，详细传记，主源）
+2. World History Encyclopedia - Johannes Kepler（worldhistory.org/johannes-kepler/，约9,229字，英文，历史百科）
+3. Britannica - Johannes Kepler（britannica.com/biography/Johannes-Kepler，约6,346字，英文，百科简介）
+
+**git push 情况：** ✅ 首次 push 成功（commit 3800ef7 推送至 origin/main）
+
+**百度百科：** ⚠️ 部分成功（baike.baidu.com/item/开普勒 返回消歧页面，非具体人物条目）
+
+**confidence：** high
+**耗时：** 约25分钟
+
+**备注：** 开普勒（Johannes Kepler，1571-1630）是德国16-17世纪天文学家、数学家，行星运动三大定律发现者；web_search失败后 SerpAPI via web_fetch 成功定位3个权威来源；3个英文来源共约42,429字语料；开普勒为科学家而非诗人，无需诗词采集；6条思想内核（宇宙数学计划论、椭圆轨道革命、太阳主动动力学、第三和谐定律、经验主义方法论、基督教自然哲学家使命）均有至少2处原文引用验证；5个人生阶段（早年求学/格拉茨/布拉格/林茨/晚年）划分合理；Voice Profile核心是"数学虔诚"——将科学探索视为理解上帝数学创世计划之神圣使命；与哥白尼、伽利略、牛顿共同构成科学革命完整链条；confidence评为 high。
 
 ---
 
@@ -343,10 +366,10 @@
 
 ```
 总人物数：     170
-已完成：       107
+已完成：       108
 进行中：       0
-待处理：       63
-完成率：       62.9%（107/170）
+待处理：       62
+完成率：       63.5%（108/170）
 
 按 priority：
   high：       36（已完40）
