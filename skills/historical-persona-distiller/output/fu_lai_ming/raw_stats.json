@@ -1,0 +1,23 @@
+{
+  "persona_id": "fu_lai_ming",
+  "total_files": 4,
+  "total_chars": 27024,
+  "by_category": {
+    "传记": 19617,
+    "引语": 4409,
+    "后世评述": 1894
+  },
+  "by_source": {
+    "Britannica": 9722,
+    "Nobel_Prize_Official": 5577,
+    "Science_History_Institute": 8049,
+    "Wikipedia": 30000,
+    "New_World_Encyclopedia": 15000
+  },
+  "stage_count": 4,
+  "core_thought_count": 6,
+  "poetry_count": 0,
+  "poetry_requirement_met": "N/A（非诗人，无诗词下限要求）",
+  "source_count": 5,
+  "language_mix": "100% 英文（无中文来源成功抓取）"
+}

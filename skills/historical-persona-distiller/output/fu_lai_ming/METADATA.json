@@ -1,0 +1,62 @@
+{
+  "persona_id": "fu_lai_ming",
+  "name": "弗莱明",
+  "full_name": "亚历山大·弗莱明",
+  "english_name": "Alexander Fleming",
+  "birth_death": "1881-1955",
+  "nationality": "苏格兰（英国）",
+  "profession": "细菌学家、微生物学家",
+  "known_for": "发现青霉素（1928）、发现溶菌酶（1921）",
+  "major_award": "诺贝尔生理学或医学奖（1945年，与Howard Florey和Ernst Chain共享）",
+  "persona_version": "1.0",
+  "distillation_date": "2026-05-09",
+  "confidence": "medium",
+  "sources": [
+    {
+      "name": "Britannica",
+      "url": "https://www.britannica.com/biography/Alexander-Fleming",
+      "language": "en",
+      "type": "encyclopedia",
+      "chars": 9722
+    },
+    {
+      "name": "Nobel Prize Official Biography",
+      "url": "https://www.nobelprize.org/prizes/medicine/1945/fleming/biographical/",
+      "language": "en",
+      "type": "official_biography",
+      "chars": 5577
+    },
+    {
+      "name": "Science History Institute",
+      "url": "https://www.sciencehistory.org/education/scientific-biographies/alexander-fleming/",
+      "language": "en",
+      "type": "history_institution",
+      "chars": 8049
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Fleming",
+      "language": "en",
+      "type": "encyclopedia",
+      "chars": 30000
+    },
+    {
+      "name": "New World Encyclopedia",
+      "url": "https://www.newworldencyclopedia.org/entry/Alexander_Fleming",
+      "language": "en",
+      "type": "encyclopedia",
+      "chars": 15000
+    }
+  ],
+  "source_count": 5,
+  "total_corpus_chars": 68348,
+  "stage_count": 4,
+  "core_thought_count": 6,
+  "web_search_status": "success",
+  "serpapi_status": "not_needed",
+  "web_fetch_status": "success",
+  "poetry_count": "N/A（非诗人）",
+  "priority": "low",
+  "era": "20世纪",
+  "tags": ["科学家", "医学", "抗生素", "青霉素", "诺贝尔奖", "苏格兰"]
+}
