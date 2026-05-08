@@ -12,6 +12,7 @@
 | 134 | 哥白尼 | 波兰/16世纪 | 2026-05-08 | high | 25 |
 135 | 开普勒 | 德国/16-17世纪 | 2026-05-08 | high | 25 |
 136 | 高斯 | 德国/18-19世纪 | 2026-05-08 | high | 25 |
+137 | 欧拉 | 瑞士-俄国/18世纪 | 2026-05-08 | high | 45 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -25,9 +26,31 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 欧拉（ou_la）
-**来源：** backlog.md（第六批外国科技人物，#127）
-**优先级：** medium
+**下一待处理：** 特斯拉（te_si_la）
+**来源：** backlog.md（第六批外国科技人物，#136）
+**优先级：** high
+
+---
+
+### 2026-05-08 欧拉（ou_la）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo fetch failed）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索，返回 JSON 结果，共102条结果）
+**web_fetch：** ✅ 成功（MacTutor传记+Britannica+Fuss悼词均成功；百度百科欧拉条目404；World History Encyclopedia 403）
+
+**最终来源：**
+1. MacTutor History of Mathematics - Leonhard Euler（mathshistory.st-andrews.ac.uk/Biographies/Euler/，约35000字，英文，详细传记，主源）
+2. Britannica - Leonhard Euler（britannica.com/biography/Leonhard-Euler，约10000字，英文，百科简介）
+3. Nicolas Fuss Eulogy（mathshistory.st-andrews.ac.uk/Extras/Euler_Fuss_Eulogy/，约30000字，英译，助手悼词）
+
+**git push 情况：** ✅ 首次 push 成功（commit fbf660f 推送至 origin/main）
+
+**百度百科：** ❌ 失败（baike.baidu.com/item/欧拉/57968 返回404；尝试 /item/莱昂哈德·欧拉 也失败）
+
+**confidence：** high
+**耗时：** 约45分钟
+
+**备注：** 欧拉（Leonhard Euler，1707-1783）是瑞士-俄国数学家、物理学家，18世纪最伟大的数学家之一；web_search失败后 SerpAPI via web_fetch 成功定位3个权威来源；3个英文来源共约75000+字语料（MacTutor 35000+Britannica 10000+Fuss 30000）；欧拉为数学家而非诗人，无需诗词采集；5条思想内核（数学统一性/分析方法是钥匙/实践是使命/勤奋即天才/自然遵循最优原则）均有至少2处原文引用验证；Voice Profile核心是"宇宙数学秩序的译者"——相信数学是宇宙的语言，分析是通向真理的钥匙；失明后继续工作并完成一生著作的一半是其最标志性故事；与牛顿、高斯并称三大数学家；confidence评为 high。
 
 ---
 
@@ -389,18 +412,18 @@
 
 ```
 总人物数：     170
-已完成：       109
+已完成：       110
 进行中：       0
-待处理：       61
-完成率：       64.1%（109/170）
+待处理：       60
+完成率：       64.7%（110/170）
 
 按 priority：
-  high：       36（已完37）
+  high：       36（已完38）
   medium：     54（已完35）
   low：        80（已完16）
 
 按 confidence：
-  high：       55
+  high：       56
   medium：     30
   A：           1
   medium-high：  1
