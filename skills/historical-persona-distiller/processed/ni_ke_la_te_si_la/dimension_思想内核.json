@@ -1,0 +1,90 @@
+{
+  "pid": "ni_ke_la_te_si_la",
+  "dimension": "思想内核",
+  "confidence": "high",
+  "last_updated": "2026-05-08",
+  "summary": "特斯拉的核心思想是以科学为宗教、将宇宙视为一台完美机器的机械论世界观，融合了对交流电无线传输的执念、对发明的纯粹热爱、以及对孤独的接受。",
+
+  "core_values": [
+    {
+      "value": "科学神圣论",
+      "description": "特斯拉将科学发现视为最高追求，认为发明是服务于全人类的崇高事业。他对宇宙秩序怀有近乎宗教般的敬畏，将自己视为自然法则的解码者。",
+      "citations": [
+        "整个宇宙不过是一座巨大的机器，它既没有生也没有死。人类不能脱离自然秩序而成为例外，人类也像宇宙一样，是一座机器。——特斯拉",
+        "Nature and nature's laws lay hid by night. God said 'Let Tesla be' and all was light.— Mr. Behrend (paraphrasing Pope on Newton, presenting Edison Medal)"
+      ]
+    },
+    {
+      "value": "发明即生命",
+      "description": "特斯拉认为发明创造是生命的核心意义。他描述自己能够在脑海中完全构建、开发和完善发明，然后再付诸纸面。他的生命价值完全通过发明实现。",
+      "citations": [
+        "Tesla was gifted with intense powers of visualization and exceptional memory from early youth on. He was able to fully construct, develop and perfect his inventions completely in his mind before committing them to paper.",
+        "他注册了超过700项专利，他的视野包括太阳能探索和海洋能源，他预见了星际通信和卫星。——Tesla Society"
+      ]
+    },
+    {
+      "value": "普惠全人类",
+      "description": "特斯拉的发明理念始终以服务全人类为出发点，而非商业获利。他的世界系统梦想是免费向全球传输能量和信息。",
+      "citations": [
+        "特斯拉声称他 Secured the loan by assigning 51 percent of his patent rights of telephony and telegraphy to Morgan. He expected to provide worldwide communication and to furnish facilities for sending pictures, messages, weather warnings, and stock reports.",
+        "特斯拉在科罗拉多进行了仔细研究和测算，证明该系统可以传输任何规模的能量，而损失不会超过百分之几。——百度百科"
+      ]
+    },
+    {
+      "value": "孤独接受",
+      "description": "特斯拉终生未婚，将全部精力投入科学研究。他接受孤独作为创造者的代价，但内心深处渴望被理解和认可。",
+      "citations": [
+        "A lifelong bachelor he led a somewhat isolated existence, devoting his full energies to science.— Tesla Society",
+        "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more."
+      ]
+    }
+  ],
+
+  "worldview_statements": [
+    {
+      "statement": "宇宙机械论",
+      "quote": "整个宇宙不过是一座巨大的机器，它既没有生也没有死。人类不能脱离自然秩序而成为例外，人类也像宇宙一样，是一座机器。随着年代的推移，无限复杂的机制不断发展。而所谓的'灵魂'，无非是人体各种功能的总合而已。",
+      "source": "百度百科 - 特斯拉的思想主张"
+    },
+    {
+      "statement": "科学统一论",
+      "quote": "特斯拉表示，自己得出的关于生命的力学观念，是'符合佛的教义和耶稣登山训众的精神的'。",
+      "source": "百度百科 - 特斯拉的思想主张"
+    }
+  ],
+
+  "core_beliefs": [
+    "交流电将改变世界",
+    "无线能量传输可以实现",
+    "地球可以被用作导体",
+    "人类可以与行星通信",
+    "发明是最高的人类活动",
+    "宇宙万物皆可成为发电源泉"
+  ],
+
+  "personality_traits": [
+    {
+      "trait": "完美主义与强迫症",
+      "description": "严重的强迫症患者：极度厌恶珍珠和他人头发，对樟脑和桃子严重过敏，不喜欢握手，对数字3有特别偏爱。常常在进入建筑物前绕街区走3圈，每次用18张餐巾（3的倍数）来擦餐具。",
+      "citations": [
+        "特斯拉是一名严重的强迫症患者。他极度厌恶珍珠和别人的头发，对樟脑和桃子严重过敏，不喜欢握手，对数字3有着特别的偏爱。他常常在进入一栋建筑物前，要绕街区走3圈。他每次都要18张餐巾（3的倍数）来擦餐具。如果他读了某个作家的某一本书，就必须读这个作家的所有著作。——百度百科"
+      ]
+    },
+    {
+      "trait": "远见与妄想交织",
+      "description": "特斯拉兼具真正的科学洞察力和宏大到不切实际的想法。他预见了手机、卫星、互联网等，但他也声称可以接收来自行星的信号，制造死亡射线。",
+      "citations": [
+        "Tesla was a godsend to reporters who sought sensational copy but a problem to editors who were uncertain how seriously his futuristic prophecies should be regarded.",
+        "特斯拉声称可以 split the Earth like an apple，并声称发明了能够摧毁10000架飞机的死亡射线，射程400公里。——Britannica"
+      ]
+    },
+    {
+      "trait": "商业上的天真",
+      "description": "特斯拉在商业和财务方面极不实际。他允许Westinghouse放弃他的专利版权费，最终陷入贫困。他不善于管理金钱。",
+      "citations": [
+        "He was quite impractical in financial matters and an eccentric, driven by compulsions and a progressive germ phobia.— Britannica",
+        "Edison demurred, saying, 'Tesla, you don't understand our American humor.'— History.com"
+      ]
+    }
+  ]
+}

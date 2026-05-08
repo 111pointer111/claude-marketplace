@@ -1,0 +1,134 @@
+{
+  "pid": "ni_ke_la_te_si_la",
+  "name": "Nikola Tesla",
+  "name_zh": "尼古拉·特斯拉",
+  "name_full": "Nikola Tesla（尼古拉·特斯拉）",
+  "birth_year": 1856,
+  "death_year": 1943,
+  "birth_date": "1856-07-10",
+  "death_date": "1943-01-07",
+  "era": "19世纪末-20世纪初（奥匈帝国/美国）",
+  "birthplace": "Smiljan, Lika, Austrian Empire (now Croatia)",
+  "deathplace": "Hotel New Yorker, New York City, USA",
+  "nationality": "塞尔维亚裔美国人",
+  "occupation": ["inventor", "electrical engineer", "mechanical philosopher"],
+  "confidence": "high",
+  "confidence_rationale": "多源传记交叉验证（Britannica、百度百科、Biography.com、History.com、Tesla Society），语料约24,000字，包含特斯拉自传《My Inventions》和50+篇技术论文标题，覆盖4个主要人生阶段。",  
+
+  "life_stages": [
+    {
+      "stage": "Early Life and Education",
+      "period": "1856-1884",
+      "age_range": "0-28",
+      "confidence": "high",
+      "key_events": ["born in Smiljan", "brother Daniel's death", "studied in Graz and Prague", "conceived rotating magnetic field in Budapest park"]
+    },
+    {
+      "stage": "American Ascendancy and War of Currents",
+      "period": "1884-1895",
+      "age_range": "28-39",
+      "confidence": "high",
+      "key_events": ["arrived in NYC with 4 cents", "Edison's broken promise", "Westinghouse partnership", "AC system demonstrated at World's Columbian Exposition", "Niagara Falls power plant"]
+    },
+    {
+      "stage": "Colorado Springs and World Wireless Dream",
+      "period": "1895-1905",
+      "age_range": "39-49",
+      "confidence": "high",
+      "key_events": ["radio-controlled boat", "Colorado Springs experiments", "terrestrial stationary waves discovery", "Wardenclyffe Tower construction", "Morgan withdrawal"]
+    },
+    {
+      "stage": "Decline and Eccentric Final Years",
+      "period": "1905-1943",
+      "age_range": "49-86",
+      "confidence": "high",
+      "key_events": ["poverty and evictions", "Edison Medal 1917", "75th birthday Time cover", "death ray announcement", "death 1943", "funeral at St. John the Divine"]
+    }
+  ],
+
+  "major_inventions": [
+    "alternating current (AC) system",
+    "Tesla coil (1891)",
+    "induction motor",
+    "polyphase power transmission",
+    "radio-controlled remote control",
+    "wireless energy transmission concepts",
+    "fluorescent lighting concepts",
+    "rotating magnetic field theory"
+  ],
+
+  "major_works_published": [
+    {"year": 1888, "title": "A New System of Alternate Current Motors and Transformers"},
+    {"year": 1891, "title": "Phenomena of Alternating Currents of Very High Frequency"},
+    {"year": 1891, "title": "Experiments with Alternate Currents of Very High Frequency and Their Application to Methods of Artificial Illumination"},
+    {"year": 1900, "title": "The Problem of Increasing Human Energy"},
+    {"year": 1917, "title": "My Inventions (autobiography, serialized in Electrical Experimenter)"},
+    {"year": 1926, "title": "When Woman is Boss"}
+  ],
+
+  "major_awards_recognition": [
+    {"year": 1894, "award": "Elliott Cresson Gold Medal (Franklin Institute)"},
+    {"year": 1917, "award": "Edison Medal (AIEE)"},
+    {"year": 1931, "award": "Time Magazine cover for 75th birthday"},
+    {"year": 1937, "award": "Nobel Prize in Physics nomination"},
+    {"year": 1960, "award": "Magnetic flux density unit 'Tesla' adopted internationally"},
+    {"year": 1975, "award": "Inventor's Hall of Fame induction"}
+  ],
+
+  "corpus_sources": [
+    {
+      "source": "Britannica.com - Nikola Tesla biography",
+      "url": "https://www.britannica.com/biography/Nikola-Tesla",
+      "type": "historical_record",
+      "language": "en"
+    },
+    {
+      "source": "百度百科 - 尼古拉·特斯拉",
+      "url": "https://baike.baidu.com/item/尼古拉·特斯拉",
+      "type": "historical_record",
+      "language": "zh"
+    },
+    {
+      "source": "Biography.com - Nikola Tesla",
+      "url": "https://www.biography.com/inventors/nikola-tesla",
+      "type": "historical_record",
+      "language": "en"
+    },
+    {
+      "source": "History.com - Nikola Tesla",
+      "url": "https://www.history.com/articles/nikola-tesla",
+      "type": "historical_record",
+      "language": "en"
+    },
+    {
+      "source": "Tesla Society - Tesla Biography",
+      "url": "http://www.teslasociety.com/biography.htm",
+      "type": "historical_record",
+      "language": "en"
+    }
+  ],
+
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+
+  "distillation_date": "2026-05-08",
+  "distillation_confidence": "high",
+  "web_search_status": {
+    "web_search": "failed",
+    "serpapi": "succeeded",
+    "baidu_fallback": "not_needed"
+  },
+  "known_limitations": [
+    "英文语料为主，中文补充有限",
+    "特斯拉诗歌创作未单独收集",
+    "无口语语料，voice profile 从书面推测",
+    "优生学观点属于时代局限"
+  ]
+}

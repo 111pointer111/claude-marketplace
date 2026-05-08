@@ -1,0 +1,74 @@
+# 尼古拉·特斯拉 传记
+
+## 数据来源
+- Britannica: https://www.britannica.com/biography/Nikola-Tesla
+- 百度百科: https://baike.baidu.com/item/尼古拉·特斯拉
+- Biography.com: https://www.biography.com/inventors/nikola-tesla
+- History.com: https://www.history.com/articles/nikola-tesla
+- Tesla Society: http://www.teslasociety.com/biography.htm
+
+## 生平传记
+
+### 早年经历
+
+1856年7月，尼古拉·特斯拉出生在克罗地亚斯米湾村一个塞尔维亚族家庭，父母是塞尔维亚人，他是五个孩子中的老四。特斯拉最大的爱好是读书，热衷于阅读各种书籍，并且拥有很强的记忆力，看过后可以记下整本书的内容。其父担心他通宵读书损伤眼睛，禁止他使用蜡烛，每当父亲发现他在烛光下偷看书时，就会把他的蜡烛藏起来。但特斯拉会找到牛油做灯芯，粘好后把它们放到一个密封的锡器中，到了晚上他就会找东西遮住书房漏光的门缝和锁眼，开始掌灯夜读。
+
+特斯拉的父亲穆鲁丁·特斯拉，是一位东正教神父，因此，从特斯拉出生起，家人就想让他将来也做一名牧师。特斯拉的母亲杜卡·曼迪奇是一位塞尔维亚东正教神父的女儿，母亲的家族里有好几位发明家，为了家庭生活、农业生产等，曾发明了很多生产和生活工具。1862年，特斯拉6岁时，全家搬到附近的戈斯皮奇市并进入当地小学读书。
+
+特斯拉出生地克罗地亚斯米湾村
+
+特斯拉少年时在克罗地亚的卡尔洛瓦茨上学，并在1875年于奥地利的格拉茨理工大学学习物理学、数学和机械学。他在大学只上了一年的课，第二年军事边境局撤销，他失去了助学金，因交不起学费被迫退学。特斯拉没有毕业。1877年，特斯拉到布拉格学习了两年，他一边去大学里旁听课程，一边在图书馆学习。1879年，他试图在马里博尔找一份工作但没有成功，之后返回布拉格继续学业，待到24岁。
+
+Tesla was born on July 10, 1856 in Smiljan, Lika, which was then part of the Austo-Hungarian Empire, region of Croatia. His father, Milutin Tesla was a Serbian Orthodox Priest and his mother Djuka Mandic was an inventor in her own right of household appliances. Tesla studied at the Realschule, Karlstadt in 1873, the Polytechnic Institute in Graz, Austria and the University of Prague. At first, he intended to specialize in physics and mathematics, but soon he became fascinated with electricity. He began his career as an electrical engineer with a telephone company in Budapest in 1881. It was there, as Tesla was walking with a friend through the city park that the elusive solution to the rotating magnetic field flashed through his mind. With a stick, he drew a diagram in the sand explaining to his friend the principle of the induction motor.
+
+### 科研经历
+
+1882年秋，特斯拉到爱迪生电灯公司巴黎分公司当工程师，并成功设计出第一台感应电机模型。1884年，他前往美国，在爱迪生实验室工作，从此留在美国并加入美国国籍。
+
+1884年，特斯拉第一次踏上美国国土，来到了纽约，开始在爱迪生实验室工作。除了前雇主查尔斯·巴切罗所写的推荐信外，他几乎是一无所有。这封信是写给托马斯·爱迪生的，信中提到："我知道有两个伟大的人，一个是你，另一个就是这个年轻人。"爱迪生雇用了特斯拉，安排他在爱迪生机械公司工作。特斯拉开始为爱迪生进行简单的电器设计，他进步很快，不久以后就可以解决公司一些非常难的问题了。特斯拉完全负责了爱迪生公司直流电机的重新设计。凭着他精湛的电气技术和苦干精神，特斯拉花了半年多的时间对爱迪生的直流发电机进行改造，大大提高了发电机的效率和负载能力，但爱迪生却以"美国式的玩笑"为借口，拒绝偿付先前许诺的5万美元技术改造费，特斯拉愤而辞职，结束了他们之间仅一年的合作。
+
+After university, Tesla moved to Budapest, Hungary, where for a time he worked at the Central Telephone Exchange. It was while in Budapest that the idea for the induction motor first came to Tesla, but after several years of trying to gain interest in his invention, at age 28, Tesla decided to leave Europe for America.
+
+In 1884, Tesla arrived in the United States with little more than the clothes on his back and a letter of introduction to famed inventor and business mogul Thomas Edison, whose DC-based electrical works were fast becoming the standard in the country. Edison hired Tesla, and the two men were soon working tirelessly alongside each other, making improvements to Edison's inventions. Several months later, the two parted ways due to a conflicting business-scientific relationship, attributed by historians to their incredibly different personalities. While Edison was a power figure who focused on marketing and financial success, Tesla was commercially out-of-touch and somewhat vulnerable. Their feud would continue to affect Tesla's career.
+
+### 辉煌年代
+
+1887年年初，在工地上，特斯拉吸引了工头约翰森的注意，约翰森将特斯拉推荐给了布朗先生；4月，布朗先生在特斯拉名下投资50万美元，成立了特斯拉电灯与电气制造公司。
+
+1891年特斯拉取得了特斯拉线圈的专利；同年的7月31日，特斯拉成为美国公民。他告诉他的朋友们，他珍惜这个国籍胜过珍惜他的很多科学发明。1892年到1894年之间，特斯拉担任美国电力工程师协会（IEEE的前身）的副主席。1893年，西屋公司竞拍得在芝加哥举行的哥伦比亚博览会的用交流电照明的工程，这是在交流电发展史上的一件大事。西屋公司和特斯拉希望借此机会向美国民众展示交流电的可靠性和安全性。
+
+In May 1888 George Westinghouse, head of the Westinghouse Electric Company in Pittsburgh, bought the patent rights to Tesla's polyphase system of alternating-current dynamos, transformers, and motors. The transaction precipitated a titanic power struggle between Edison's direct-current systems and the Tesla-Westinghouse alternating-current approach, which eventually won out.
+
+Tesla soon established his own laboratory, where his inventive mind could be given free rein. He experimented with shadowgraphs similar to those that later were to be used by Wilhelm Röntgen when he discovered X-rays in 1895. Tesla's countless experiments included work on a carbon button lamp, on the power of electrical resonance, and on various types of lighting.
+
+In order to allay fears of alternating currents, Tesla gave exhibitions in his laboratory in which he lit lamps by allowing electricity to flow through his body. He was often invited to lecture at home and abroad. The Tesla coil, which he invented in 1891, is widely used today in radio and television sets and other electronic equipment. That year also marked the date of Tesla's U.S. citizenship.
+
+Westinghouse used Tesla's alternating current system to light the World's Columbian Exposition at Chicago in 1893. This success was a factor in their winning the contract to install the first power machinery at Niagara Falls, which bore Tesla's name and patent numbers. The project carried power to Buffalo by 1896.
+
+### 科罗拉多斯普林斯时期
+
+在科罗拉多斯普林斯，特斯拉留下来从1899年直到1900年初，特斯拉做出了他认为最重要的发现——地球静止波。通过这一发现，他证明了地球可以作为导体，并可以以一种特定电频率产生共振而响应。他还在40公里（25英里）的距离内无线点亮200盏灯泡，并创造了人造闪电，产生测量达41米（135英尺）的闪电。当时他确信他在科罗拉多州的实验室收到了来自另一个星球的信号，这一主张在一些科学期刊中遭到了嘲笑。
+
+When the Colorado Springs Tesla Coil magnifying transmitter was energized, it created sparks 30 feet long. From the outside antenna, these sparks could be seen from a distance of ten miles. From this laboratory, Tesla generated and sent out wireless waves which mediated energy, without wires for miles.
+
+### 沃登克里弗塔与衰落
+
+1900年返回纽约后，特斯拉开始在长岛建造一座无线世界广播塔，带着J. Pierpont Morgan American金融家提供的15万美元资本。特斯拉声称他通过将电话和电报的专利权益的51%分配给摩根来确保贷款。他希望提供全球通信，并提供发送图片、消息、天气警告和股票报告的设施。该项目因金融危机、劳工麻烦和摩根撤回支持而放弃。这是特斯拉最大的失败。
+
+With funding from a group of investors that included financial giant J. P. Morgan, Tesla began work on the free energy project in earnest in 1901. He designed and built a lab with a power plant and a massive transmission tower on a site on Long Island, New York, that became known as Wardenclyffe. However, doubts arose among his investors about the plausibility of Tesla's system. As his rival, Guglielmo Marconi—with the financial support of Andrew Carnegie and Thomas Edison—continued to make great advances with his own radio technologies, Tesla had no choice but to abandon the project. The Wardenclyffe staff was laid off in 1906, and by 1915, the site had fallen into foreclosure. Two years later, Tesla declared bankruptcy, and the tower was dismantled and sold for scrap to help pay the debts he had accrued.
+
+### 晚年
+
+特斯拉晚年的财务困难持续加重，1917年7月，居住了20年的华尔道夫酒店因其未付租金将其赶了出去。随后1924年和1927年又相继被瑞吉酒店、宾夕法尼亚酒店赶出去。由于长期缺乏研究经费和公司破产，特斯拉陷入了极端的反常，他深居简出，穷困潦倒，但仍会救助落在街头的病鸽，他独居于纽约市的一个旅馆里，偶尔会向新闻界发表一些不同寻常的声明。因举止怪异，特斯拉被普遍认为是"疯狂科学家"的原型。
+
+1931年，特斯拉75岁寿辰时，登上《时代》杂志封面。1937年，特斯拉获得诺贝尔物理学奖提名。
+
+Poor and reclusive, Tesla died of coronary thrombosis on January 7, 1943, at the age of 86 in New York City, where he had lived for nearly 60 years.
+
+After suffering a nervous breakdown following the closure of his wireless power project, Tesla eventually returned to work, primarily as a consultant. But as time went on, his ideas became progressively more outlandish and impractical. He grew increasingly eccentric, devoting much of his time to the care of wild pigeons in the parks of New York City. Tesla even drew the attention of the FBI with his talk of building a powerful "death ray," which had received some interest from the Soviet Union during World War II.
+
+### 逝世与葬礼
+
+1942年7月8日，特斯拉在纽约人旅馆受到南斯拉夫国王彼得二世的拜访。1943年1月7日，终生未娶的特斯拉在纽约人旅馆因心脏衰竭逝世，享年86岁；1月12日，特斯拉的葬礼在纽约曼哈顿的圣约翰大教堂举行。三位诺贝尔物理学奖得主罗伯特·安德鲁·密立根、康普顿和詹姆斯·弗朗克分别致辞。
+
+A state funeral was held at St. John the Divine Cathedral in New York City. Telegrams of condolence were received from many notables, including the first lady Eleanor Roosevelt and Vice President Wallace. Over 2000 people attended, including several Nobel Laureates. He was cremated at Ardsley on the Hudson, New York. His ashes were interned in a golden sphere, Tesla's favorite shape, on permanent display at the Tesla Museum in Belgrade along with his death mask.

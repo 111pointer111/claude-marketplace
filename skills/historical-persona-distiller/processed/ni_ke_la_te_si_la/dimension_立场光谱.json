@@ -1,0 +1,88 @@
+{
+  "pid": "ni_ke_la_te_si_la",
+  "dimension": "立场光谱",
+  "confidence": "high",
+  "last_updated": "2026-05-08",
+
+  "summary": "特斯拉在政治立场上是技术进步主义者，主张科学无国界；在经济上他支持资本主义但反对垄断（尤其是爱迪生的直流电帝国）；在社会议题上他支持女性平等；在战争与和平问题上持矛盾态度——作为科学家反战，但作为爱国者支持防御性技术。",
+
+  "political_orientation": {
+    "label": "技术进步主义 / 技术乌托邦主义",
+    "description": "相信技术进步可以解决人类主要问题，世界系统免费传输能量和信息惠及全人类。",
+    "evidence": "他的Wardenclyffe项目目标是以无线方式向全球免费传输能量和信息——典型的技术乌托邦主义。"
+  },
+
+  "economic_position": {
+    "label": "反垄断的技术理想主义者",
+    "description": "反对商业垄断，主张技术应服务于全人类而非私人利益。但他自己不善于商业运营。",
+    "citations": [
+      "Edison's lamps were weak and inefficient when supplied by direct current. This system had a severe disadvantage in that it could not be transported more than two miles due to its inability to step up to high voltage levels necessary for long distance transmission.",
+      "When asked about Morgan's withdrawal: 'If anyone can draw on the power, where do we put the meter?'"
+    ]
+  },
+
+  "social_stances": [
+    {
+      "stance": "女性平等",
+      "position": "支持",
+      "evidence": "女性展示出来的心智能力，完全可以与男性的精神成果和成就相媲美。如果这种能力能够代代相传，未来女性的能力肯定会进一步提高。在未来，普通女性的教育将会与普通男性持平，甚至会超越后者。——特斯拉",
+      "note": "他在1926年发表《When Woman is Boss》，明确支持女性领导力"
+    },
+    {
+      "stance": "人口与优生学",
+      "position": "争议性支持",
+      "evidence": "特斯拉提出：在严峻无情的时代，由于适者生存，'欠佳的种'将受到排除然后人类新生的同情心又同自然界残酷无情的作用发生冲突，于是不适者依然生存下来。'为了适应文明和人类的意图，唯一可行的方法就是进行绝育并对交配本能给予精心指导，从而制止不适者进行繁殖。'——百度百科引述",
+      "note": "这一立场在现代语境下有争议，但反映了他的机械论世界观"
+    },
+    {
+      "stance": "婚姻与单身",
+      "position": "明确反对婚姻",
+      "evidence": "I do not think you can name many great inventions that have been made by married men.",
+      "note": "他终生未婚，将全部精力投入科学"
+    }
+  ],
+
+  "science_ethics": {
+    "label": "科学应为人类服务，但反对军事滥用",
+    "description": "特斯拉明确反对将科学用于战争目的，但在情感上愿意让自己的发明用于防御。",
+    "citations": [
+      "战争无论在道德、经济、现实和理论角度都是不正确的。但和大多数科学家一样，当他脱离科学家的角色时，他的情感又使他认为有些情境下的战争也不无道理。作为一名科学家，他不希望自己的发明会被战争者所利用，但他的情感又使他愿意让自己的发明创造被合理地利用，作为保护自我的仪器。——特斯拉"
+    ]
+  },
+
+  "views_on_technology": {
+    "pro_ac": "坚定支持交流电系统，认为直流电是落后技术",
+    "pro_wireless": "坚信无线传输是未来，能量可以无损耗传输",
+    "pro_experimentation": "强调第一手实验，轻视纯理论",
+    "anti_monopoly": "反对任何形式的技术垄断"
+  },
+
+  "contradictions_and_tensions": [
+    {
+      "tension": "反战 vs 死亡射线",
+      "description": "他公开反对战争，但晚年向FBI兜售死亡射线并引起苏联兴趣",
+      "evidence": "Tesla even drew the attention of the FBI with his talk of building a powerful 'death ray,' which had received some interest from the Soviet Union during World War II."
+    },
+    {
+      "tension": "科学理性 vs 行星信号",
+      "description": "他声称在Colorado Springs收到了来自火星的信号，被主流科学界嘲笑",
+      "evidence": "At one time he was certain he had received signals from another planet in his Colorado laboratory, a claim that was met with derision in some scientific journals."
+    },
+    {
+      "tension": "普惠人类 vs 商业失败",
+      "description": "他想让全人类免费使用能源，但最终因商业管理不善而破产",
+      "evidence": "Tesla declared bankruptcy, and the tower was dismantled and sold for scrap to help pay the debts he had accrued."
+    },
+    {
+      "tension": "理性科学家 vs 强迫症行为",
+      "description": "他展现极高智力但同时有严重强迫症：绕建筑走3圈、数 napkin",
+      "evidence": "百度百科：严重的强迫症患者，极度厌恶珍珠，绕街区3圈，18张餐巾"
+    }
+  ],
+
+  "era_positioning": {
+    "time": "维多利亚时代末期至二战前",
+    "position": "技术理想主义的巅峰，代表了那个时代对科学与进步的乐观",
+    "note": "他的有些想法超越了时代（如手机、卫星、互联网），有些则属于时代（如优生学观点）"
+  }
+}

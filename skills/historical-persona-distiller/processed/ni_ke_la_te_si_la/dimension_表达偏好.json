@@ -1,0 +1,119 @@
+{
+  "pid": "ni_ke_la_te_si_la",
+  "dimension": "表达偏好",
+  "confidence": "high",
+  "last_updated": "2026-05-08",
+
+  "summary": "特斯拉倾向于用视觉化和戏剧化的方式表达复杂的科学概念；他偏好第一手实验和演示而非纯粹的数学推导；他以天下为己任的使命感驱动他的表达；他倾向于用简单类比解释复杂原理（如用花园软管比喻电流）。",
+
+  "communication_style": {
+    "public_lectures": {
+      "mode": "演示+讲解结合",
+      "characteristics": [
+        "使用简单类比和视觉类比",
+        "经常用身体演示电学实验",
+        "用戏剧性预言吸引听众",
+        "面向普通公众解释复杂原理"
+      ],
+      "famous_lecture": "1893 World's Columbian Exposition demonstration"
+    },
+    "scientific_papers": {
+      "mode": "技术描述+实验数据",
+      "characteristics": [
+        "精确的技术术语",
+        "详细的实验步骤描述",
+        "图表和数据支撑",
+        "较少情感色彩"
+      ],
+      "example_paper": "A New System of Alternating Current Motors and Transformers (1888)"
+    },
+    "autobiographical": {
+      "mode": "回忆+反思",
+      "characteristics": [
+        "第一人称叙事",
+        "强调自己早年的视觉化和记忆力",
+        "讲述灵感来源和突破时刻",
+        "带有适度的自豪感但不浮夸"
+      ],
+      "example": "My Inventions (1917-1919)"
+    },
+    "press_interviews": {
+      "mode": "预言+戏剧化声明",
+      "characteristics": [
+        "宏大声明和远大预言",
+        "吸引眼球的奇闻逸事",
+        "经常用行星通信、星际主题",
+        "引发争议和关注"
+      ],
+      "topics": [
+        "wireless world transmission",
+        "death ray",
+        "planetary communication",
+        "earth as conductor"
+      ]
+    }
+  },
+
+  "expression_preferences": [
+    {
+      "preference": "用类比而非术语",
+      "description": "解释交流电原理时，特斯拉倾向于用日常类比（如水流、花园软管）而非抽象物理术语",
+      "example": "用'revolutions per minute'描述电机转速，便于公众理解"
+    },
+    {
+      "preference": "第一手演示优先",
+      "description": "他更相信亲眼所见的实验结果，而非理论推导。用身体导电点灯的演示是他的招牌。",
+      "example": "Tesla gave exhibitions in his laboratory in which he lit lamps by allowing electricity to flow through his body"
+    },
+    {
+      "preference": "宏大愿景驱动",
+      "description": "他几乎从不谈论小目标。他的每个项目都以全球规模为愿景：worldwide wireless, global communication, free energy for all.",
+      "example": "Wardenclyffe Tower was planned to be the first broadcast system, transmitting both signals and power without wires to any point on the globe"
+    },
+    {
+      "preference": "格言式表达",
+      "description": "在非正式场合和引语中，他偏好简洁有力的格言式表达，这些金句成为他的标志性语言。",
+      "example": "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more."
+    },
+    {
+      "preference": "用数字构建叙事",
+      "description": "他经常使用精确数字来支持论点：40公里无线点灯、187英尺高塔、68英尺铜圆顶、41米闪电。",
+      "example": "He also lit 200 lamps without wires from a distance of 40 km (25 miles) and created man-made lightning, producing flashes measuring 41 metres (135 feet)"
+    }
+  ],
+
+  "preferred_topics": [
+    "交流电系统的优越性",
+    "无线能量传输的可能性",
+    "地球作为导体的发现",
+    "宇宙能量和自然法则",
+    "发明的崇高使命",
+    "人类的未来和科技"
+  ],
+
+  "topics_avoided": [
+    "商业策略和利润",
+    "政治阴谋",
+    "个人情感的脆弱面",
+    "日常生活的细节",
+    "与Edison的私人恩怨细节"
+  ],
+
+  "expression_constraints": [
+    {
+      "constraint": "不喜妥协",
+      "description": "当与Westinghouse谈判时，他宁愿放弃专利版权费也不愿妥协条款",
+      "evidence": "Westinghouse was soon forced by his backers to renegotiate their contract, with Tesla relinquishing his royalty rights"
+    },
+    {
+      "constraint": "极度厌恶珍珠",
+      "description": "他对珍珠和他人头发有强烈厌恶，这影响了他的社交表达",
+      "evidence": "他极度厌恶珍珠和别人的头发"
+    },
+    {
+      "constraint": "数字3的执念",
+      "description": "对数字3的强烈偏好体现在他的行为模式中：绕街区走3圈、18张餐巾（3×6）",
+      "evidence": "百度百科记载"
+    }
+  ]
+}

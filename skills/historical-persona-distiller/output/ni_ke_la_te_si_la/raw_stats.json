@@ -1,0 +1,114 @@
+{
+  "pid": "ni_ke_la_te_si_la",
+  "distillation_date": "2026-05-08",
+  "raw_corpus": {
+    "传记_txt_bytes": 8079,
+    "引语_txt_bytes": 2463,
+    "全部语料_txt_bytes": 24289,
+    "total_raw_bytes": 34831
+  },
+  "processed_files": {
+    "stages_md": {
+      "file": "processed/ni_ke_la_te_si_la/stages.md",
+      "bytes": 6251,
+      "stages_count": 4
+    },
+    "dimension_思想内核_json": {
+      "file": "processed/ni_ke_la_te_si_la/dimension_思想内核.json",
+      "bytes": 3571
+    },
+    "dimension_语言特征_json": {
+      "file": "processed/ni_ke_la_te_si_la/dimension_语言特征.json",
+      "bytes": 3952
+    },
+    "dimension_表达偏好_json": {
+      "file": "processed/ni_ke_la_te_si_la/dimension_表达偏好.json",
+      "bytes": 3375
+    },
+    "dimension_立场光谱_json": {
+      "file": "processed/ni_ke_la_te_si_la/dimension_立场光谱.json",
+      "bytes": 3333
+    }
+  },
+  "output_files": {
+    "SKILL_md": {
+      "file": "output/ni_ke_la_te_si_la/SKILL.md",
+      "bytes": 7160,
+      "sections": ["思想内核", "语言特征", "表达偏好", "立场光谱", "重要语录", "人物年表", "已知局限"]
+    },
+    "EVENTS_md": {
+      "file": "output/ni_ke_la_te_si_la/EVENTS.md",
+      "bytes": 8583,
+      "stages": 4
+    },
+    "VOICE_md": {
+      "file": "output/ni_ke_la_te_si_la/VOICE.md",
+      "bytes": 4102,
+      "sections": ["声音特征", "身份认同", "典型语录", "如何扮演", "需要避免的表达"]
+    },
+    "README_md": {
+      "file": "output/ni_ke_la_te_si_la/README.md",
+      "bytes": 3000,
+      "sections": ["人物简介", "目录结构", "核心特质速览", "关键历史事件", "局限性说明"]
+    },
+    "METADATA_json": {
+      "file": "output/ni_ke_la_te_si_la/METADATA.json",
+      "bytes": 3500
+    },
+    "CITATIONS_md": {
+      "file": "output/ni_ke_la_te_si_la/CITATIONS.md",
+      "bytes": 6000,
+      "citation_count": 19
+    },
+    "raw_stats_json": {
+      "file": "output/ni_ke_la_te_si_la/raw_stats.json",
+      "bytes": 1500
+    }
+  },
+  "sources_used": [
+    {
+      "name": "Britannica",
+      "url": "https://www.britannica.com/biography/Nikola-Tesla",
+      "type": "historical_record",
+      "language": "en",
+      "status": "success"
+    },
+    {
+      "name": "百度百科",
+      "url": "https://baike.baidu.com/item/尼古拉·特斯拉",
+      "type": "historical_record",
+      "language": "zh",
+      "status": "success"
+    },
+    {
+      "name": "Biography.com",
+      "url": "https://www.biography.com/inventors/nikola-tesla",
+      "type": "historical_record",
+      "language": "en",
+      "status": "success"
+    },
+    {
+      "name": "History.com",
+      "url": "https://www.history.com/articles/nikola-tesla",
+      "type": "historical_record",
+      "language": "en",
+      "status": "success"
+    },
+    {
+      "name": "Tesla Society",
+      "url": "http://www.teslasociety.com/biography.htm",
+      "type": "historical_record",
+      "language": "en",
+      "status": "success"
+    }
+  ],
+  "search_tool_usage": {
+    "web_search_attempted": true,
+    "web_search_success": false,
+    "serpapi_used": true,
+    "serpapi_success": true,
+    "baidu_fallback_used": false
+  },
+  "confidence": "high",
+  "confidence_rationale": "5个不同来源交叉验证，语料总量34831字节，覆盖4个人生阶段，19条可验证引语，政治/科学立场多有原始文本支撑。"
+}

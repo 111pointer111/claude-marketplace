@@ -1,0 +1,191 @@
+# NIKOLA TESLA - COMPLETE CORPUS
+# Sources: Britannica, Baidu Baike, Biography.com, History.com, Tesla Society
+
+## BIOGRAPHY CONTENT
+
+=== Britannica Biography ===
+Nikola Tesla (born July 9/10, 1856, Smiljan, Austrian Empire [now in Croatia]—died January 7, 1943, New York, New York, U.S.) was a Serbian American inventor and engineer who discovered and patented the rotating magnetic field, the basis of most alternating-current machinery. He also developed the three-phase system of electric power transmission. He immigrated to the United States in 1884 and sold the patent rights to his system of alternating-current dynamos, transformers, and motors to George Westinghouse. In 1891 he invented the Tesla coil, an induction coil widely used in radio technology.
+
+Tesla was from a family of Serbian origin. His father was an Orthodox priest; his mother was unschooled but highly intelligent. As he matured, he displayed remarkable imagination and creativity as well as a poetic touch.
+
+Training for an engineering career, he attended the Technical University at Graz, Austria, and the University of Prague. At Graz he first saw the Gramme dynamo, which operated as a generator and, when reversed, became an electric motor, and he conceived a way to use alternating current to advantage. Later, at Budapest, he visualized the principle of the rotating magnetic field and developed plans for an induction motor that would become his first step toward the successful utilization of alternating current. In 1882 Tesla went to work in Paris for the Continental Edison Company, and, while on assignment to Strassburg in 1883, he constructed, after work hours, his first induction motor. Tesla sailed for America in 1884, arriving in New York with four cents in his pocket, a few of his own poems, and calculations for a flying machine. He first found employment with Thomas Edison, but the two inventors were far apart in background and methods, and their separation was inevitable.
+
+In May 1888 George Westinghouse, head of the Westinghouse Electric Company in Pittsburgh, bought the patent rights to Tesla's polyphase system of alternating-current dynamos, transformers, and motors. The transaction precipitated a titanic power struggle between Edison's direct-current systems and the Tesla-Westinghouse alternating-current approach, which eventually won out.
+
+Tesla soon established his own laboratory, where his inventive mind could be given free rein. He experimented with shadowgraphs similar to those that later were to be used by Wilhelm Röntgen when he discovered X-rays in 1895. Tesla's countless experiments included work on a carbon button lamp, on the power of electrical resonance, and on various types of lighting.
+
+In order to allay fears of alternating currents, Tesla gave exhibitions in his laboratory in which he lit lamps by allowing electricity to flow through his body. He was often invited to lecture at home and abroad. The Tesla coil, which he invented in 1891, is widely used today in radio and television sets and other electronic equipment. That year also marked the date of Tesla's U.S. citizenship.
+
+Westinghouse used Tesla's alternating current system to light the World's Columbian Exposition at Chicago in 1893. This success was a factor in their winning the contract to install the first power machinery at Niagara Falls, which bore Tesla's name and patent numbers. The project carried power to Buffalo by 1896.
+
+In 1898 Tesla announced his invention of a teleautomatic boat guided by remote control. When skepticism was voiced, Tesla proved his claims for it before a crowd in Madison Square Garden.
+
+In Colorado Springs, where he stayed from May 1899 until early 1900, Tesla made what he regarded as his most important discovery—terrestrial stationary waves. By this discovery he proved that Earth could be used as a conductor and made to resonate at a certain electrical frequency. He also lit 200 lamps without wires from a distance of 40 km (25 miles) and created man-made lightning, producing flashes measuring 41 metres (135 feet). At one time he was certain he had received signals from another planet in his Colorado laboratory, a claim that was met with derision in some scientific journals.
+
+Returning to New York in 1900, Tesla began construction on Long Island of a wireless world broadcasting tower, with $150,000 capital from the American financier J. Pierpont Morgan. Tesla claimed he secured the loan by assigning 51 percent of his patent rights of telephony and telegraphy to Morgan. He expected to provide worldwide communication and to furnish facilities for sending pictures, messages, weather warnings, and stock reports. The project was abandoned because of a financial panic, labour troubles, and Morgan's withdrawal of support. It was Tesla's greatest defeat.
+
+Tesla's work then shifted to turbines and other projects. Because of a lack of funds, his ideas remained in his notebooks, which are still examined by enthusiasts for unexploited clues. In 1915 he was severely disappointed when a report that he and Edison were to share the Nobel Prize proved erroneous. Tesla was the recipient of the Edison Medal in 1917, the highest honor that the American Institute of Electrical Engineers could bestow.
+
+Tesla allowed himself only a few close friends. Among them were the writers Robert Underwood Johnson, Mark Twain, and Francis Marion Crawford. He was quite impractical in financial matters and an eccentric, driven by compulsions and a progressive germ phobia. But he had a way of intuitively sensing hidden scientific secrets and employing his inventive talent to prove his hypotheses. Tesla was a godsend to reporters who sought sensational copy but a problem to editors who were uncertain how seriously his futuristic prophecies should be regarded. Caustic criticism greeted his speculations concerning communication with other planets, his assertions that he could split the Earth like an apple, and his claim of having invented a death ray capable of destroying 10,000 airplanes at a distance of 400 km (250 miles).
+
+After Tesla's death the custodian of alien property impounded his trunks, which held his papers, his diplomas and other honors, his letters, and his laboratory notes. These were eventually inherited by Tesla's nephew, Sava Kosanovic, and later housed in the Nikola Tesla Museum in Belgrade. Hundreds filed into New York City's Cathedral of St. John the Divine for his funeral services, and a flood of messages acknowledged the loss of a great genius. Three Nobel Prize recipients addressed their tribute to "one of the outstanding intellects of the world who paved the way for many of the technological developments of modern times."
+
+=== Baidu Baike Biography ===
+尼古拉·特斯拉（美籍南斯拉夫发明家、电气工程师）
+
+1856年7月，尼古拉·特斯拉出生在克罗地亚斯米湾村一个塞尔维亚族家庭，父母是塞尔维亚人，他是五个孩子中的老四。特斯拉最大的爱好是读书，热衷于阅读各种书籍，并且拥有很强的记忆力，看过后可以记下整本书的内容。其父担心他通宵读书损伤眼睛，禁止他使用蜡烛，每当父亲发现他在烛光下偷看书时，就会把他的蜡烛藏起来。但特斯拉会找到牛油做灯芯，粘好后把它们放到一个密封的锡器中，到了晚上他就会找东西遮住书房漏光的门缝和锁眼，开始掌灯夜读。
+
+特斯拉的父亲穆鲁丁·特斯拉，是一位东正教神父。特斯拉的母亲杜卡·曼迪奇是一位塞尔维亚东正教神父的女儿，母亲的家族里有好几位发明家，为了家庭生活、农业生产等，曾发明了很多生产和生活工具。
+
+特斯拉在1875年于奥地利的格拉茨理工大学学习物理学、数学和机械学。他在大学只上了一年的课，第二年军事边境局撤销，他失去了助学金，因交不起学费被迫退学。特斯拉没有毕业。1877年，特斯拉到布拉格学习了两年，他一边去大学里旁听课程，一边在图书馆学习。1879年，他试图在马里博尔找一份工作但没有成功，之后返回布拉格继续学业，待到24岁。
+
+1882年秋，特斯拉到爱迪生电灯公司巴黎分公司当工程师，并成功设计出第一台感应电机模型。1884年，他前往美国，在爱迪生实验室工作，从此留在美国并加入美国国籍。
+
+1884年，特斯拉第一次踏上美国国土，来到了纽约，开始在爱迪生实验室工作。除了前雇主查尔斯·巴切罗所写的推荐信外，他几乎是一无所有。这封信是写给托马斯·爱迪生的，信中提到："我知道有两个伟大的人，一个是你，另一个就是这个年轻人。"特斯拉完全负责了爱迪生公司直流电机的重新设计。凭着他精湛的电气技术和苦干精神，特斯拉花了半年多的时间对爱迪生的直流发电机进行改造，大大提高了发电机的效率和负载能力，但爱迪生却以"美国式的玩笑"为借口，拒绝偿付先前许诺的5万美元技术改造费，特斯拉愤而辞职，结束了他们之间仅一年的合作。
+
+1891年特斯拉取得了特斯拉线圈的专利；同年的7月31日，特斯拉成为美国公民。特斯拉担任美国电力工程师协会（IEEE的前身）的副主席。1893年，西屋公司竞拍得在芝加哥举行的哥伦比亚博览会的用交流电照明的工程。
+
+特斯拉晚年的财务困难持续加重，1917年7月，居住了20年的华尔道夫酒店因其未付租金将其赶了出去。随后1924年和1927年又相继被瑞吉酒店、宾夕法尼亚酒店赶出去。由于长期缺乏研究经费和公司破产，特斯拉陷入了极端的反常，他深居简出，穷困潦倒，但仍会救助落在街头的病鸽，他独居于纽约市的一个旅馆里。1931年，特斯拉75岁寿辰时，登上《时代》杂志封面。1937年，特斯拉获得诺贝尔物理学奖提名。
+
+1943年1月7日，终生未娶的特斯拉在纽约人旅馆因心脏衰竭逝世，享年86岁；1月12日，特斯拉的葬礼在纽约曼哈顿的圣约翰大教堂举行。三位诺贝尔物理学奖得主罗伯特·安德鲁·密立根、康普顿和詹姆斯·弗朗克分别致辞。
+
+特斯拉的研究领域十分广泛，涉及交流电系统、无线电系统、无线能量传输、球状闪电、涡轮机、放大发射机、粒子束武器、X光设备、电能仪表、导弹科学、遥感技术、飞行器、宇宙射线、雷达系统、机器人等。
+
+特斯拉认为整个宇宙不过是一座巨大的机器，它既没有生也没有死。人类不能脱离自然秩序而成为例外，人类也像宇宙一样，是一座机器。
+
+关于女性观念：特斯拉表示，女性展示出来的心智能力，完全可以与男性的精神成果和成就相媲美。
+
+关于战争观：特斯拉认为，战争无论在道德、经济、现实和理论角度都是不正确的。
+
+=== Tesla Society Biography ===
+Nikola Tesla symbolized a unifying force and inspiration for all nations in the name of peace and science. He was a true visionary far ahead of his contemporaries in the field of scientific development.
+
+Tesla studied at the Realschule, Karlstadt in 1873, the Polytechnic Institute in Graz, Austria and the University of Prague. At first, he intended to specialize in physics and mathematics, but soon he became fascinated with electricity. He began his career as an electrical engineer with a telephone company in Budapest in 1881. It was there, as Tesla was walking with a friend through the city park that the elusive solution to the rotating magnetic field flashed through his mind. With a stick, he drew a diagram in the sand explaining to his friend the principle of the induction motor.
+
+In February 1882, Tesla discovered the rotating magnetic field, a fundamental principle in physics and the basis of nearly all devices that use alternating current. Tesla brilliantly adapted the principle of rotating magnetic field for the construction of alternating current induction motor and the polyphase system for the generation, transmission, distribution and use of electrical power. Tesla's A.C. induction motor is widely used throughout the world in industry and household appliances. It started the industrial revolution at the turn of the century.
+
+Tesla astonished the world by demonstrating the wonders of alternating current electricity at the World Columbian Exposition in Chicago in 1893. Alternating current became standard power in the 20th Century. This accomplishment changed the world. He designed the first hydroelectric powerplant in Niagara Falls in 1895, which was the final victory of alternating current.
+
+Tesla was a pioneer in many fields. The Tesla coil, which he invented in 1891, is widely used today in radio and television sets and other electronic equipment. Among his discoveries are the fluorescent light, laser beam, wireless communications, wireless transmission of electrical energy, remote control, robotics, Tesla's turbines and vertical take off aircraft. Tesla is the father of the radio and the modern electrical transmissions systems. He registered over 700 patents worldwide. His vision included exploration of solar energy and the power of the sea. He foresaw interplanetary communications and satellites.
+
+Tesla introduced his motors and electrical systems in a classic paper, "A New System of Alternating Current Motors and Transformers" which he delivered before the American Institute of Electrical Engineers in 1888.
+
+Tesla built an experimental station in Colorado Springs, Colorado in 1899, to experiment with high voltage, high frequency electricity and other phenomena. When the Colorado Springs Tesla Coil magnifying transmitter was energized, it created sparks 30 feet long. From this laboratory, Tesla generated and sent out wireless waves which mediated energy, without wires for miles.
+
+Financially supported by J. Pierpont Morgan, Tesla built the Wardenclyffe laboratory and its famous transmitting tower in Shoreham, Long Island between 1901 and 1905. This huge landmark was 187 feet high, capped by a 68-foot copper dome which housed the magnifying transmitter. It was planned to be the first broadcast system, transmitting both signals and power without wires to any point on the globe.
+
+Because of a dispute between Morgan and Tesla as to the final use of the tower, Morgan withdrew his funds. The financier's classic comment was, "If anyone can draw on the power, where do we put the meter?"
+
+Tesla lectured to the scientific community on his inventions in New York, Philadelphia and St. Louis and before scientific organizations in both England and France in 1892. Tesla's lectures and writings of the 1890s aroused wide admiration among contemporaries popularized his inventions and inspired untold numbers of younger men to enter the new field of radio and electrical science.
+
+Tesla was gifted with intense powers of visualization and exceptional memory from early youth on. He was able to fully construct, develop and perfect his inventions completely in his mind before committing them to paper.
+
+Tesla wrote many autobiographical articles for the prominent journal Electrical Experimenter, collected in the book, My Inventions. Tesla was gifted with intense powers of visualization and exceptional memory from early youth on. He was able to fully construct, develop and perfect his inventions completely in his mind before committing them to paper.
+
+In 1915, a New York Times article announced that Tesla and Edison were to share the Nobel Prize for physics. Oddly, neither man received the prize, the reason being unclear.
+
+On his 75th birthday in 1931, the inventor appeared on the cover of Time Magazine. On this occasion, Tesla received congratulatory letters from more than 70 pioneers in science and engineering including Albert Einstein.
+
+Tesla died on January 7th, 1943 in the Hotel New Yorker, where he had lived for the last ten years of his life.
+
+In his speech presenting Tesla with the Edison medal, Vice President Behrend of the Institute of Electrical Engineers eloquently expressed the following: "Were we to seize and eliminate from our industrial world the result of Mr. Tesla's work, the wheels of industry would cease to turn, our electric cars and trains would stop, our towns would be dark and our mills would be idle and dead. His name marks an epoch in the advance of electrical science." Mr. Behrend ended his speech with a paraphrase of Pope's lines on Newton: "Nature and nature's laws lay hid by night. God said 'Let Tesla be' and all was light."
+
+"The world will wait a long time for Nikola Tesla's equal in achievement and imagination." — E. Armstrong
+
+=== Biography.com Quotes ===
+Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.
+
+I do not think you can name many great inventions that have been made by married men.
+
+The scientists of today think deeply instead of clearly. One must be sane to think clearly, but one can think deeply and be quite insane.
+
+=== History.com Biography ===
+Nikola Tesla was born in 1856 in Smiljan, Croatia, then part of the Austro-Hungarian Empire. His father was a priest in the Serbian Orthodox church and his mother managed the family's farm. In 1863 Tesla's brother Daniel was killed in a riding accident. The shock of the loss unsettled the 7-year-old Tesla, who reported seeing visions—the first signs of his lifelong mental illnesses.
+
+Tesla studied math and physics at the Technical University of Graz and philosophy at the University of Prague. In 1882, while on a walk, he came up with the idea for a brushless AC motor, making the first sketches of its rotating electromagnets in the sand of the path.
+
+In 1884, Tesla arrived in the United States and was hired as an engineer at Thomas Edison's Manhattan headquarters. He worked there for a year, impressing Edison with his diligence and ingenuity. At one point Edison told Tesla he would pay $50,000 for an improved design for his DC dynamos. After months of experimentation, Tesla presented a solution and asked for the money. Edison demurred, saying, "Tesla, you don't understand our American humor." Tesla quit soon after.
+
+After an unsuccessful attempt to start his own Tesla Electric Light Company and a stint digging ditches for $2 a day, Tesla found backers to support his research into alternating current. In 1887 and 1888 he was granted more than 30 patents for his inventions and invited to address the American Institute of Electrical Engineers on his work. His lecture caught the attention of George Westinghouse.
+
+In the 1890s Tesla invented electric oscillators, meters, improved lights and the high-voltage transformer known as the Tesla coil. He also experimented with X-rays, gave short-range demonstrations of radio communication two years before Guglielmo Marconi and piloted a radio-controlled boat around a pool in Madison Square Garden.
+
+Together, Tesla and Westinghouse lit the 1893 World's Columbian Exposition in Chicago and partnered with General Electric to install AC generators at Niagara Falls, creating the first modern power station.
+
+Poor and reclusive, Tesla died of coronary thrombosis on January 7, 1943, at the age of 86 in New York City, where he had lived for nearly 60 years.
+
+After suffering a nervous breakdown following the closure of his wireless power project, Tesla eventually returned to work, primarily as a consultant. But as time went on, his ideas became progressively more outlandish and impractical. He grew increasingly eccentric, devoting much of his time to the care of wild pigeons in the parks of New York City. Tesla even drew the attention of the FBI with his talk of building a powerful "death ray," which had received some interest from the Soviet Union during World War II.
+
+=== Tesla's Published Papers (from Baidu) ===
+1888年: 《A New System of Alternate Current Motors and Transformers》
+1891年: 《Phenomena of Alternating Currents of Very High Frequency》
+1891年: 《Experiments with Alternate Currents of Very High Frequency and Their Application to Methods of Artificial Illumination》
+1892年: 《Experiments with Alternate Currents of High Potential and High Frequency》
+1892年: 《On the Dissipation of the Electrical Energy of the Hertz Resonator》
+1893年: 《On Light and Other High Frequency Phenomena》
+1895年: 《Tesla's Oscillator and Other Inventions》
+1896年: 《Earth Electricity to Kill Monopoly》
+1897年: 《On Electricity》
+1898年: 《High Frequency Oscillators for Electro-therapeutic and Other Purposes》
+1898年: 《Plans to Dispense With Artillery of the Present Type》
+1898年: 《Tesla Describes His Efforts in Various Fields of Work》
+1899年: 《On Current Interrupters》
+1900年: 《The Problem of Increasing Human Energy》
+1901年: 《Tesla's New Discovery》
+1901年: 《Talking With Planets》
+1902年: 《Inventor Tesla's Plant Nearing Completion》
+1904年: 《The Transmission of Electrical Energy Without Wires》
+1904年: 《Electric Autos》
+1905年: 《The Transmission of Electrical Energy Without Wires as a Means for Furthering Peace》
+1907年: 《Tuned Lightning》
+1907年: 《Tesla's Wireless Torpedo》
+1907年: 《Possibilities of Wireless》
+1908年: 《The Future of the Wireless Art》
+1908年: 《Mr. Tesla's Vision》
+1909年: 《Nikola Tesla's New Wireless》
+1911年: 《Dr. Tesla Talks of Gas Turbines》
+1911年: 《Tesla's New Monarch of Machines》
+1912年: 《The Disturbing Influence of Solar Radiation On the Wireless Transmission of Energy》
+1915年: 《How Cosmic Forces Shape Our Destinies》
+1915年: 《Some Personal Recollections》
+1915年: 《The Wonder World To Be Created By Electricity》
+1915年: 《Nikola Tesla Sees a Wireless Vision》
+1915年: 《Tesla's New Device Like Bolts of Thor》
+1916年: 《Wonders of the Future》
+1917年: 《Electric Drive for Battle Ships》
+1917年: 《Presentation of the Edison Medal to Nikola Tesla》
+1917年: 《Tesla's Views on Electricity and the War》
+1919年: 《Famous Scientific Illusions》
+1919年: 《The True Wireless》
+1919年: 《Electrical Oscillators》
+1920年: 《Rain Can Be Controlled and Hydraulic Force Provided》
+1926年: 《When Woman is Boss》
+1927年: 《World System of Wireless Transmission of Energy》
+1929年: 《Nikola Tesla Tells of New Radio Theories》
+1931年: 《Our Future Motive Power》
+1932年: 《Tesla Cosmic Ray Motor May Transmit Power 'Round Earth》
+1932年: 《Pioneer Radio Engineer Gives Views On Power》
+1932年: 《The Eternal Source of Energy of the Universe, Origin and Intensity of Cosmic Rays》
+1933年: 《Tesla 'Harnesses' Cosmic Energy》
+1934年: 《Tesla Invents Peace Ray》
+1934年: 《Tesla on Power Development and Future Marvels》
+1934年: 《Dr. Tesla Visions the End of Aircraft In War》
+1935年: 《The New Art of Projecting Concentrated Non-dispersive Energy Through Natural Media》
+1935年: 《A Machine to End War》
+1935年: 《Tesla Predicts Ships Powered by Shore Beam》
+1937年: 《Prepared Statement by Nikola Tesla》
+1944年: 《Tesla Tries to Prevent World War II》
+
+1917年8月~1919年7月: 《My Inventions》(自传, 发表于《Electrical Experimenter》)
+
+=== Tesla's Philosophy Statements ===
+"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more."
+"I do not think you can name many great inventions that have been made by married men."
+"The scientists of today think deeply instead of clearly. One must be sane to think clearly, but one can think deeply and be quite insane."
+
+Tesla on his life philosophy: The entire universe is a giant machine with neither birth nor death. Humans cannot become exceptions to the natural order; humans, like the universe, are machines.
+
+Tesla on women: Women have demonstrated mental abilities that can fully match the spiritual achievements and accomplishments of men.
+
+Tesla on war: War is incorrect from moral, economic, practical, and theoretical perspectives. But when he stepped out of his role as a scientist, his emotions sometimes made him believe war could be justified in certain situations.
+

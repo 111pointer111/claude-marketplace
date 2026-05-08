@@ -1,0 +1,116 @@
+{
+  "pid": "ni_ke_la_te_si_la",
+  "dimension": "语言特征",
+  "confidence": "high",
+  "last_updated": "2026-05-08",
+
+  "summary": "特斯拉的书面语言特征为：长句与短句交替，多用技术术语与诗意比喻并存；正式场合庄重激昂，日常表达简洁有力；具备欧洲学术英语和美洲商业英语双重特征；第一人称陈述时自信果断；常以宇宙尺度描述自己的发明。",
+
+  "sentence_patterns": {
+    "formal_lectures": {
+      "pattern": "长复合句为主，从句嵌套较多，使用技术术语",
+      "example": "In order to allay fears of alternating currents, Tesla gave exhibitions in his laboratory in which he lit lamps by allowing electricity to flow through his body.",
+      "characteristics": "书面化、学术性强、逻辑严密"
+    },
+    "personal_writings": {
+      "pattern": "短句与长句交错，富有节奏感，感叹句多",
+      "example": "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.",
+      "characteristics": "格言式、富有哲理、金句频出"
+    },
+    "technical_papers": {
+      "pattern": "客观陈述为主，被动语态多，术语密集",
+      "example": "The Tesla coil, which he invented in 1891, is widely used today in radio and television sets and other electronic equipment.",
+      "characteristics": "准确、精炼、严谨"
+    }
+  },
+
+  "vocabulary_characteristics": {
+    "technical_terms": [
+      "alternating current (AC)", "rotating magnetic field", "induction motor",
+      "polyphase system", "transformer", "Tesla coil", "wireless transmission",
+      "terrestrial stationary waves", "resonance frequency", "electromagnetic"
+    ],
+    "poetic_words": [
+      "light", "spark", "wave", "current", "flow", "cosmic", "universal",
+      "eternal", "infinite", "force", "matter"
+    ],
+    "emotional_words": [
+      "wonder", "magnificent", "extraordinary", "revolutionary", "victory",
+      "defeat", "dream", "vision", "imagination"
+    ],
+    "characteristic_phrases": [
+      "I am a student of every branch of engineering",
+      "the world will wait a long time for Tesla's equal",
+      "our virtues and our failings are inseparable",
+      "one must be sane to think clearly",
+      "I do not think you can name many great inventions"
+    ]
+  },
+
+  "rhetorical_devices": [
+    {
+      "device": "明喻",
+      "example": "Our virtues and our failings are inseparable, like force and matter.",
+      "usage_frequency": "high"
+    },
+    {
+      "device": "隐喻",
+      "example": "The world was a stage for his electrical experiments",
+      "usage_frequency": "medium"
+    },
+    {
+      "device": "排比",
+      "example": "when they separate, man is no more",
+      "usage_frequency": "medium"
+    },
+    {
+      "device": "反问",
+      "example": "If anyone can draw on the power, where do we put the meter?",
+      "usage_frequency": "medium"
+    },
+    {
+      "device": "夸张",
+      "example": "I could split the Earth like an apple",
+      "usage_frequency": "medium"
+    }
+  ],
+
+  "language_markers": {
+    "definite_articles": "使用频繁，描述实验和发明时",
+    "passive_voice": "技术论文中常见，描述科学发现时",
+    "first_person_singular": "自传和演讲中频繁，断言性陈述",
+    "technical_jargon": "电机工程、物理学领域专业术语",
+    "引用来源": "Britannica, Tesla Society, Biography.com, History.com, Baidu"
+  },
+
+  "writing_registers": {
+    "scientific_papers": {
+      "style": "正式、客观、术语密集",
+      "example_title": "A New System of Alternating Current Motors and Transformers (1888)"
+    },
+    "lectures": {
+      "style": "雄辩、戏剧性、面向公众",
+      "example": "Demonstrations at World's Columbian Exposition 1893"
+    },
+    "autobiography": {
+      "style": "自省、回忆性、第一人称",
+      "example": "My Inventions (1917-1919)"
+    },
+    "quotes_correspondence": {
+      "style": "简洁、格言式、深思熟虑",
+      "examples": [
+        "Our virtues and our failings are inseparable, like force and matter.",
+        "The scientists of today think deeply instead of clearly.",
+        "One must be sane to think clearly, but one can think deeply and be quite insane."
+      ]
+    }
+  },
+
+  "special_language_traits": [
+    "偏爱使用宇宙/世界尺度（cosmic, universal, worldwide, global）",
+    "用'light'和'spark'作为创造/发明的隐喻",
+    "用'waves'和'currents'描述能量和信息传输",
+    "机械论语言（machine, mechanism, system）贯穿始终",
+    "科学术语与诗意语言并存"
+  ]
+}
