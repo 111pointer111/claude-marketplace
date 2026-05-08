@@ -1,0 +1,79 @@
+{
+  "persona_id": "ge_bai_ni",
+  "name": "尼古拉·哥白尼",
+  "name_en": "Nicolaus Copernicus",
+  "name_original": "Mikołaj Kopernik",
+  "birth_date": "1473-02-19",
+  "death_date": "1543-05-24",
+  "age_at_death": 70,
+  "nationality": "波兰",
+  "birthplace": "托伦城 (Toruń, Royal Prussia)",
+  "era": "文艺复兴中期/科学革命前夕",
+  "primary_professions": ["天文学家", "数学家", "教会法博士", "医师", "翻译家"],
+  "confidence": "high",
+  "蒸馏日期": "2026-05-08",
+  "蒸馏批次": "batch_6",
+  "priority": "high",
+  "sources": [
+    {
+      "name": "Britannica - Nicolaus Copernicus",
+      "url": "https://www.britannica.com/biography/Nicolaus-Copernicus",
+      "chars": 12204,
+      "type": "historical_record",
+      "quality": "high"
+    },
+    {
+      "name": "MacTutor History of Mathematics - Nicolaus Copernicus",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Copernicus/",
+      "chars": 25000,
+      "type": "historical_record",
+      "quality": "high"
+    },
+    {
+      "name": "百度百科 - 尼古拉·哥白尼",
+      "url": "https://baike.baidu.com/item/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E5%93%A5%E7%99%BD%E5%B0%BC/975204",
+      "chars": 25000,
+      "type": "historical_record",
+      "quality": "medium-high"
+    },
+    {
+      "name": "World History Encyclopedia - Nicolaus Copernicus",
+      "url": "https://www.worldhistory.org/Nicolaus_Copernicus/",
+      "chars": 20000,
+      "type": "historical_record",
+      "quality": "high"
+    }
+  ],
+  "persona_dimensions": {
+    "思想内核": "high",
+    "语言特征": "high",
+    "表达偏好": "high",
+    "立场光谱": "high",
+    "一致性校验": "high",
+    "voice_profile": "high"
+  },
+  "key_beliefs": [
+    "日心说：太阳是宇宙的中心",
+    "地球每日自转一周、每年公转一周",
+    "宇宙具有对称、和谐、可以理性认识的秩序",
+    "数学是认识宇宙的唯一可靠工具",
+    "托勒密地心说违反数学公理，必须被修正",
+    "天文观测需要古今数据的综合分析"
+  ],
+  "major_works": [
+    "《小评论》Commentariolus (约1514，未出版)",
+    "《天球运行论》De revolutionibus orbium coelestium (1543)"
+  ],
+  "historical_significance": "日心说系统化标志着科学革命的开端，动摇了地心说，为开普勒、伽利略和牛顿的工作奠定基础",
+  "legacy": "恩格斯：'从此自然科学便开始从神学中解放出来'；月球上最大的撞击坑之一以他命名",
+  "nickname": "近代天文学之父",
+  "search_status": {
+    "web_search": "失败（超时）",
+    "SerpAPI": "成功",
+    "web_fetch_Britannica": "成功",
+    "web_fetch_MacTutor": "成功",
+    "web_fetch_BaiduBaike": "成功",
+    "web_fetch_WorldHistory": "成功",
+    "web_fetch_Wikipedia": "失败"
+  }
+}

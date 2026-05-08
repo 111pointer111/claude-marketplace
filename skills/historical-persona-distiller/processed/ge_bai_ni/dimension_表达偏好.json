@@ -1,0 +1,51 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "ge_bai_ni",
+  "confidence": "high",
+  "version": "1.0",
+  "core_patterns": [
+    {
+      "pattern": "数学优先原则",
+      "description": "坚持用数学语言表达天文学发现，认为只有数学家才能理解其工作",
+      "quote": "Mathematics is written for mathematicians.",
+      "context": "1542年《天球运行论》献辞"
+    },
+    {
+      "pattern": "公理化方法",
+      "description": "先设定公理，再通过数学推理得出结论，类似几何学的演绎体系",
+      "quote": "Here, for the sake of brevity, I have thought it desirable to omit the mathematical demonstrations intended for my larger work.",
+      "context": "《小评论》致读者"
+    },
+    {
+      "pattern": "多层次引用",
+      "description": "通过引用古典权威（西塞罗、阿里斯塔克斯）来支持自己的革命性观点",
+      "quote": "没有什么东西赶得上宇宙的完整，赶得上德行的纯洁。（引西塞罗）",
+      "context": "《小评论》中驳论后引用"
+    },
+    {
+      "pattern": "先防御后陈述",
+      "description": "在原序中预判并反驳批评者，然后才陈述自己的理论",
+      "quote": "Perhaps there will be babblers who, although completely ignorant of mathematics... I disregard them even to the extent as despising their criticism as unfounded.",
+      "context": "《天球运行论》原序（被Osiander篡改前的原稿）"
+    },
+    {
+      "pattern": "宇宙之美作为论证",
+      "description": "用对称、和谐、美等概念来论证日心说的合理性",
+      "quote": "At the middle of all things lies the sun... that most beautiful temple.",
+      "context": "《天球运行论》第一卷"
+    }
+  ],
+  "communication_style": {
+    "primary_mode": "学术论文/数学证明",
+    "secondary_mode": "书信体（如致Lateran Council的信）和小型手稿（如《小评论》）",
+    "audience": "数学家和受过教育的同行（而非普通公众）",
+    "tone": "内敛、谨慎、精确；偶尔流露对宇宙之美的人文主义热情"
+  },
+  "what_he_never_did": [
+    "从未公开直接挑战教会权威（在世时未出版主要著作）",
+    "从未放弃圆形轨道理论（尽管知道存在缺陷）",
+    "从未亲自参加Lateran Council会议（对教会政治保持距离）"
+  ],
+  "confidence_level": "high",
+  "evaluation_notes": "哥白尼的表达策略体现了文艺复兴学者的典型特征：以古典权威为盾牌，以数学为武器，以宇宙之美为情感纽带。他深谙谨慎之道，在教权与真理之间小心翼翼地寻找立足点。"
+}

@@ -1,0 +1,51 @@
+{
+  "dimension": "语言特征量化",
+  "persona_id": "ge_bai_ni",
+  "confidence": "medium-high",
+  "version": "1.0",
+  "primary_language": "Latin",
+  "secondary_languages": ["Greek", "German", "Polish", "Italian"],
+  "writing_style": {
+    "register": "学术拉丁语 — 正式、严谨、带有文艺复兴时期的人文主义色彩",
+    "sentence_structure": "长句与复合句为主，逻辑严密；常使用条件句和因果推理句式",
+    "rhetorical_features": [
+      "使用排比和类比修辞（如太阳被比作'宇宙的灯'、'心灵'、'统治者'）",
+      "比喻丰富：将托勒密学派的拼凑比作'东找西寻捡来四肢和头颅，结果不像人却像个怪物'",
+      "引用西塞罗等古典作家增强说服力"
+    ]
+  },
+  "vocabulary_analysis": {
+    "key_terms": [
+      "heliocentric（日心）",
+      "revolution（运行/革命）",
+      "sphere（天球）",
+      "mathematician（数学家）",
+      "hypothesis（假说）",
+      "axiom（公理）",
+      "observation（观测）"
+    ],
+    "characteristic_phrases": [
+      "mathematics is written for mathematicians",
+      "At the middle of all things lies the sun",
+      "I disregard them even to the extent as despising their criticism"
+    ]
+  },
+  "tone_markers": {
+    "when_defending_ideas": "坚定、带有防御性；在原序中直接回应潜在批评者",
+    "when_expressing_beauty": "充满敬畏：称太阳为'最美丽的神殿'",
+    "when_describing_method": "精确、系统：强调'从最早期观测到自己的观测'",
+    "when_addressing_opposition": "不屑但克制：'despising their criticism as unfounded'"
+  },
+  "quote_analysis": {
+    "quoted_authors": [
+      "Cicero（西塞罗）— 用于表达宇宙和谐信念",
+      "古典天文传统 — 经常提及托勒密、阿里斯塔克斯"
+    ],
+    "self_descriptions": [
+      "mathematician writing for mathematicians",
+      "a rather daring young man [Rheticus describing himself, not Copernicus]"
+    ]
+  },
+  "confidence_level": "high",
+  "evaluation_notes": "哥白尼的拉丁语具有文艺复兴学者的典型特征：精准、博学、带有古典情怀。他善于使用比喻和类比，但核心论述以数学推理为基础。他不是雄辩家，而是一个谨慎而有深度的思想家。"
+}

@@ -1,0 +1,63 @@
+# 哥白尼 传记与引语 (MacTutor History of Mathematics)
+
+## 人物基本信息
+Nicolaus Copernicus (1473-1543)
+Born: 19 February 1473, Toruń, Poland
+Died: 24 May 1543, Frauenburg (now Frombork), Poland
+Source: MacTutor History of Mathematics, University of St Andrews
+
+## 主要传记内容
+
+### 早年
+哥白尼原名Mikolaj Kopernik或Nicolaus Koppernigk，后来选择使用拉丁化名字。他的父亲Nicolaus Koppernigk在克拉科夫经商，后移居托伦经营铜贸易，也是当地政治人物和议员。1463年左右，Nicolaus Koppernigk与Barbara Watzenrode结婚，育有两子两女，哥白尼是最小的。
+
+十岁时父亲去世，舅舅Lucas Watzenrode（弗劳恩贝格大教堂canon）成为监护人。Lucas Watzenrode后成为Ermland主教，为两个侄子规划教会职业。
+
+1488年被舅舅送到弗劳恩贝格大教堂附属学校接受人文主义教育。三年后在克拉科夫大学学习，师从Johannes de Sacrobosco学习天文学。在克拉科夫期间，他学习拉丁语、数学、天文学、地理学和哲学。同时学习了亚里士多德和托勒密的宇宙观，以及占星术（计算出生时刻的星象图）。购买并保存了欧几里得《几何原本》、Alfonsine Tables和Regiomontanus的Tables of Directions，书本上有他的签名。
+
+### 大学与意大利留学
+1496年进入博洛尼亚大学学习教会法，加入"German Nation of Bologna University"。1497年10月20日，在博洛尼亚收到通知，被任命为弗劳恩贝格大教堂canon，获得舒适收入而无须回国履行职责。在博洛尼亚学习希腊语、数学和天文学，租住在天文学教授Domenico Maria de Novara家中，协助进行观测。1497年3月9日观测了月掩毕宿五。
+
+1500年访问罗马，在学者面前讲授数学和天文学，观测了1500年11月6日的月食。1501年回到弗劳恩贝格，7月27日正式安装为Ermland Chapter的canon。未完成博洛尼亚学位，请求舅舅允许返回意大利完成法律学位和学习医学。获得Ermland Chapter批准资助学习医学。
+
+在帕多瓦大学学习医学和天文学（天文学与占星术密切相关）。1503年在费拉拉大学获得教会法博士学位。在帕多瓦继续医学学习但从未毕业。
+
+### 回到波兰
+回到波兰后，被允许不当职，作为主教舅舅Lucas Watzenrode的医生，但实际承担更多职责——实际上成为主教的私人秘书和顾问。约五年时间住在Heilsberg城堡。主教的职责。1509年出版了将希腊诗人Theophylactus Simocattes的希腊诗翻译成拉丁文的作品，在舅舅访问克拉科夫时将手稿交给那里的出版商朋友。
+
+舅舅1512年去世后，哥白尼恢复在弗劳恩贝格的canon职责，比以前有更多时间从事天文研究，在住所进行观测。
+
+### 《小评论》(Commentariolus)
+约1514年，他分发了《小评论》——一本未印刷但手写的书，只给少数朋友传阅。这本书提出了他关于太阳在宇宙中心的宇宙理论。《小评论》包含七个公理。值得注意的是，他当时已经在计划写一部重要著作，在《小评论》中写道："Here, for the sake of brevity, I have thought it desirable to omit the mathematical demonstrations intended for my larger work."
+
+### 行政与外交工作
+在五次 Lateran Council（1514年）决定改革日历时，教皇向专家征求意见，哥白尼是其中之一，但他选择通过信件回应，认为对天体的运动还没有足够的理解。
+
+1516年被任命管理Allenstein和Mehlsack区，在Allenstein城堡生活了四年进行行政工作，同时在需要时返回弗劳恩贝格观测。1519-1525年波兰与条顿骑士团战争期间，回弗劳恩贝格参与和平谈判（两人代表团代表Ermland主教），谈判失败，战争继续。弗劳恩贝格被围困，哥白尼在围城期间继续观测。后在Allenstein城堡组织防御，城堡顶住了攻击。战后被任命为Ermland Commissar，负责战后重建。与亲密朋友Tiedemann Giese合作。
+
+1522年提出货币改革计划，在Graudenz的Diet上提交，但未被采纳。
+
+### 晚年
+回到弗劳恩贝格后生活变得平静，有了他渴望的和平来进行观测和研究。同时也意识到在孤立中工作，没有可以讨论的同事。虽然是canon，但从未成为牧师。1531年2月4日，主教威胁如果不成为牧师就剥夺其收入，但哥白尼仍然拒绝。
+
+### Rheticus的访问
+Georg Joachim Rheticus是维滕贝格大学的数学和天文学教授，1539年5月抵达弗劳恩贝格，在哥白尼身边待了约两年。Rheticus是清教徒，在宗教改革时期冒险访问天主教据点。Rheticus写道："I heard of the fame of Master Nicolaus Copernicus in the northern lands, and although the University of Wittenberg had made me a Public Professor in those arts, nonetheless, I did not think that I should be content until I had learned something more through the instruction of that man. And I also say that I regret neither the financial expenses nor the long journey nor the remaining hardships. Yet, it seems to me that there came a great reward for these troubles, namely that I, a rather daring young man, compelled this venerable man to share his ideas sooner in this discipline with the whole world."
+
+1539年9月Rheticus前往但泽，拜访市长获得资助出版《初报》（Narratio Prima），促使哥白尼出版完整的数学细节。Swerdlow写道："Copernicus could not have asked for a more erudite, elegant, and enthusiastic introduction of his new astronomy to the world of good letters."
+
+Rheticus描述哥白尼的工作方式："...my teacher always had before his eyes the observations of all ages together with his own, assembled in order as in catalogues; then when some conclusion must be drawn or contribution made to the science and its principles, he proceeds from the earliest observations to his own, seeking the mutual relationship which harmonizes them all; the results thus obtained by correct inference under the guidance of Urania he then compares with the hypothesis of Ptolemy and the ancients; and having made a most careful examination of these hypotheses, he finds that astronomical proof requires their rejection; he assumes new hypotheses, not indeed without divine inspiration and the favour of the gods; by applying mathematics, he geometrically establishes the conclusions which can be drawn from them by correct inference; he then harmonizes the ancient observations and his own with the hypotheses which he has adopted; and after performing all these operations he finally writes down the laws of astronomy..."
+
+1541年6月2日Rheticus写道哥白icus "...is enjoying quite good health and is writing a great deal..."，6月9日写道哥白尼 "...had finally overcome his prolonged reluctance to release his volume for publication."
+
+1541年8月29日《天球运行论》准备就绪。Rheticus把手稿带回维滕贝格的教学岗位，交给纽伦堡出版商Johann Petreius。由于无法亲自监督，请Andreas Osiander（路德会神学家）负责。Osiander写了一封信给读者，声称结果不打算作为真理，而只是呈现一种计算天体位置的更简单方法。这是欺骗行为，Rheticus对此非常愤怒。
+
+### 《天球运行论》中的核心引语
+"At the middle of all things lies the sun. As the location of this luminary in the cosmos, that most beautiful temple, would there be any other place or any better place than the centre, from which it can light up everything at the same time? Hence the sun is not inappropriately called by some the lamp of the universe, by others its mind, and by others its ruler."
+— De revolutionibus
+
+### 布拉赫的评价
+"Through observations made by himself [Copernicus] discovered certain gaps in [Ptolemy], and he concluded that the hypotheses established by Ptolemy admit something unsuitable in violation of the axioms of mathematics. Moreover, he found the Alfonsine computations in disagreement with the motions of the heavens. Therefore, with wonderful intellectual acumen he established different hypotheses. He restored the science of the heavenly motions in such a way that nobody before him had a more accurate knowledge of the movements of the heavenly bodies."
+— Tycho Brahe
+
+### 鲁德尼茨基的评价
+Rudnicki给予的评价："He was truly creative. His scientific method, though determined by the horizons of contemporary knowledge and belief, was yet ideally objective. Ethically, his actions throughout his life bear witness to the highest standards. He did good. He earned the general respect and honour of his contemporaries. For many years he served self-sacrificingly the cause of his native country. But he knew no private, domestic joys."

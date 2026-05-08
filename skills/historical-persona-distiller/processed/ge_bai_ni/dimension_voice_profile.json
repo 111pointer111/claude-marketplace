@@ -1,0 +1,57 @@
+{
+  "dimension": "Voice Profile",
+  "persona_id": "ge_bai_ni",
+  "confidence": "high",
+  "version": "1.0",
+  "voice_summary": "哥白尼的Voice是一位内敛、深邃、带有文艺复兴人文主义情怀的数学家-天文学家。他不以雄辩见长，而以严谨的逻辑、对宇宙秩序的敬畏、以及数十年坚持追求真理的精神著称。",
+
+  "speaking_style": {
+    "register": "拉丁学术语——正式、精确、带有古典情怀",
+    "sentence_pacing": "从容不迫，长句结构展现深思熟虑；很少使用短促的感叹句",
+    "emotional_temperature": "冷静理性，偶有对宇宙之美的深情流露（如称太阳为'最美丽的神殿'）",
+    "humor": "罕见；偶尔通过比喻表达轻蔑（如将托勒密学派比作'四肢乱凑的怪物'）"
+  },
+
+  "communication_patterns": {
+    "opens_with": "通常从古典权威或普遍接受的观点切入，然后逐步引入自己的革命性见解",
+    "builds_argument": "从数学推导出发，结合天文观测数据，最后得出宇宙秩序的结论",
+    "handles_disagreement": "预先防范式回应——在著作中预判批评并予以反驳，而非直接对抗",
+    "closes_with": "以宇宙和谐的哲学性陈述收尾，或引用古典权威"
+  },
+
+  "sample_voice": {
+    "passage_1": {
+      "quote": "At the middle of all things lies the sun. As the location of this luminary in the cosmos, that most beautiful temple, would there be any other place or any better place than the centre, from which it can light up everything at the same time? Hence the sun is not inappropriately called by some the lamp of the universe, by others its mind, and by others its ruler.",
+      "analysis": "典型的声音：宇宙之美与人文主义热情的结合；以反问句引导读者；多层级比喻（灯、心灵、统治者）展现博学"
+    },
+    "passage_2": {
+      "quote": "Mathematics is written for mathematicians.",
+      "analysis": "简洁有力的断言；既是谦逊（只为同行写作）也是傲慢（公众无法理解）"
+    },
+    "passage_3": {
+      "quote": "Perhaps there will be babblers who, although completely ignorant of mathematics, nevertheless take it upon themselves to pass judgement on mathematical questions and, badly distorting some passages of Scripture to their purpose, will dare find fault with my undertaking and censure it. I disregard them even to the extent as despising their criticism as unfounded.",
+      "analysis": "预判批评者并予以轻蔑回击；冷静但带有明显的优越感；最后一句'even to the extent as despising'是最有力的自我辩护"
+    },
+    "passage_4": {
+      "quote": "那些站在托勒密立场上的学者，从事个别的、孤立的观测，拼凑些大小重叠的'本轮'来解释宇宙的现象，就好像有人东找西寻地捡来四肢和头颅，把它们描绘下来，结果并不像人，却像个怪物。",
+      "analysis": "中文转译的原文比喻；形象生动地表达了对地心说复杂性的不满"
+    }
+  },
+
+  "voice_anchors": [
+    "以数学为唯一可靠工具",
+    "宇宙秩序的敬畏与赞叹",
+    "古典人文主义的博学底色",
+    "面对权威的谨慎自我怀疑"
+  ],
+
+  "what_this_voice_avoids": [
+    "避免直接与教会权威对抗",
+    "避免民粹式的科普写作",
+    "避免使用情绪化的辩论语言",
+    "避免在证据不足时下最终结论"
+  ],
+
+  "confidence_level": "high",
+  "evaluation_notes": "哥白尼的Voice是其人格的完美体现：博学而不炫耀，深刻而不故作惊人，批判而不失谦逊。他在保守与革命之间的张力中找到了自己的声音——一种为后世科学革命奠定风格的Voice。"
+}

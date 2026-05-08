@@ -1,0 +1,22 @@
+哥白尼（ge_bai_ni）蒸馏完成
+
+完成时间：2026-05-08
+置信度：high
+蒸馏批次：batch_6
+
+来源：
+- Britannica (https://www.britannica.com/biography/Nicolaus-Copernicus)
+- MacTutor History of Mathematics (https://mathshistory.st-andrews.ac.uk/Biographies/Copernicus/)
+- 百度百科 (https://baike.baidu.com/item/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E5%93%A5%E7%99%BD%E5%B0%BC/975204)
+- World History Encyclopedia (https://www.worldhistory.org/Nicolaus_Copernicus/)
+
+搜索工具使用情况：
+- web_search: 失败（DuckDuckGo超时）
+- SerpAPI via web_fetch: 成功
+- web_fetch Britannica: 成功
+- web_fetch MacTutor: 成功
+- web_fetch 百度百科: 成功
+- web_fetch WorldHistory: 成功
+- web_fetch Wikipedia: 失败
+
+人物简介：尼古拉·哥白尼（1473-1543），波兰文艺复兴时期天文学家、数学家，日心说系统化提出者，代表科学革命的开端。

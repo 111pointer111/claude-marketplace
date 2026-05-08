@@ -1,0 +1,70 @@
+# 哥白尼 传记与引语 (World History Encyclopedia)
+
+## 来源信息
+Source: World History Encyclopedia
+Title: Nicolaus Copernicus
+Author: Mark Cartwright
+Published: October 26, 2020
+
+## 人物基本信息
+Nicolaus Copernicus (1473-1543 CE) was a Polish astronomer who famously proposed that the Earth and other planets revolved around the Sun in a heliocentric system and not, as then widely thought, in a geocentric system where the Earth is the centre.
+
+Real name: Mikołaj Kopernik
+Born: 19 February 1473 CE in Toruń, Poland (then part of Prussia)
+Father: Successful merchant
+After father's death c. 1483 CE, adopted by Lucas Watzelrode (maternal uncle, later bishop of Warmia)
+
+## 主要传记内容
+
+### 教育背景
+- University of Kraków: studied astronomy
+- University of Bologna: studied medicine and astrology
+- Also studied: mathematics, philosophy, history
+- Lectured in mathematics in Rome in 1500 CE
+- University of Padua: continued medical studies
+- 1503 CE: received doctorate in canon law from University of Ferrara
+
+### 回到波兰
+Returned to Poland in 1506 CE, acted as uncle's physician. Set up as church canon (but never became a priest). Required to collect rents, manage assets, oversee finances of bishopric of Frombork. Despite these duties, never forgot astronomy.
+
+### 天文观测工作
+Had to wrestle with problems: Aristotle's idea that planets moved uniformly in invisible spheres at fixed distances from Earth; Ptolemy's epicycle/deferent system. Studied all existing theories but their complexity seemed contrived to explain an original model that was perhaps flawed. Copernicus's innovation: change the central equant point.
+
+### 宇宙观
+约1514 CE形成他的理论：
+- The central point of the universe was not the Earth
+- Earth was a planet orbiting the Sun, the real central point of the solar system
+- Earth turned on its own axis daily and orbited the Sun annually
+- Small changes in Earth's axis angle explained precession of equinoxes
+
+行星顺序（从太阳起）：Mercury, Venus, Earth, Mars, Jupiter, Saturn
+
+### 1514年第五次Lateran Council
+被邀请提出关于日历改革的意见，但从未出席。
+
+### De Revolutionibus
+Six volumes published in 1543 CE. 延迟出版的原因：作者担心公众反应，但更可能是仍在处理数学细节。哥白尼说他是"mathematician writing for mathematicians"。
+
+### Osiander的前言
+Andreas Osiander在未经授权的情况下插入了一封信，声称该书不打算呈现宇宙真实情况，只是为数学家提供的理论工具。这可能保护了该书和哥白尼的名声免受天主教会全面愤怒。
+
+### 晚年
+1543年5月24日去世于Frombork。在书出版前不久去世。
+
+### 历史影响
+尽管反应温和，但马丁·路德在1540年代谴责了De Revolutionibus。1616年，教会当局将其列为禁书。哥白尼的工作开始了科学革命。
+
+引语：
+"Copernicus' ideas went wholly against the traditional view of humanity's place in the universe as proposed by the Catholic Church."
+
+评价（Mark Cartwright）："In honour of his contribution to this process and modern astronomy, one of the largest craters on the Moon is named after Copernicus."
+
+## 关键引语
+1. 关于自己的方法：
+"The delay might have been due to the author's concern for the public's reaction, but it is much more likely that he was still wrestling with details and problems of mathematics. Indeed, Copernicus himself stated that he was a mathematician writing for mathematicians."
+
+2. 关于Osiander的保护性前言：
+"Fortunately for Copernicus, although it happened without his permission, Andreas Osiander... had inserted a preface which stated the work was intended as a theoretical aid to mathematicians and not a presentation of how the universe was in reality."
+
+3. 关于历史影响：
+"Copernicus was one of the first protagonists in the scientific revolution that began in the Renaissance period."

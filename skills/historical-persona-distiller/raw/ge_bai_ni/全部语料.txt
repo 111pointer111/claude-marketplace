@@ -1,0 +1,119 @@
+# 哥白尼 全部语料
+# 来源：Britannica、MacTutor History of Mathematics、百度百科、World History Encyclopedia
+
+---
+
+# 【Britannica — 传记引语】
+
+Nicolaus Copernicus (born February 19, 1473, Toruń, Royal Prussia, Poland—died May 24, 1543, Frauenburg, [East Prussia] [now Frombork, Poland])
+
+父亲Nicolaus是富商，母亲Barbara Watzenrode来自望族。四孩子中最小的。父亲去世后，舅舅Lucas Watzenrode（1447-1512）成为监护人并安排其教会职业。
+
+1491-1494年在克拉科夫大学学习，1496-1500年在博洛尼亚大学，1501-1503年在帕多瓦大学，1503年在费拉拉大学获教会法博士学位。
+
+舅舅1512年去世后，恢复canon职责，有更多时间进行天文研究。
+
+**关键引语1（De revolutionibus）：**
+"At the middle of all things lies the sun. As the location of this luminary in the cosmos, that most beautiful temple, would there be any other place or any better place than the centre, from which it can light up everything at the same time? Hence the sun is not inappropriately called by some the lamp of the universe, by others its mind, and by others its ruler."
+
+**关键引语2：**
+"Mathematics is written for mathematicians." — Dedication to De revolutionibus, 1542
+
+**关键引语3（致读者，原序）：**
+"Perhaps there will be babblers who, although completely ignorant of mathematics, nevertheless take it upon themselves to pass judgement on mathematical questions and, badly distorting some passages of Scripture to their purpose, will dare find fault with my undertaking and censure it. I disregard them even to the extent as despising their criticism as unfounded."
+
+**关键引语4（Rheticus描述哥白尼的工作方式）：**
+"...my teacher always had before his eyes the observations of all ages together with his own, assembled in order as in catalogues; then when some conclusion must be drawn or contribution made to the science and its principles, he proceeds from the earliest observations to his own, seeking the mutual relationship which harmonizes them all; the results thus obtained by correct inference under the guidance of Urania he then compares with the hypothesis of Ptolemy and the ancients; and having made a most careful examination of these hypotheses, he finds that astronomical proof requires their rejection; he assumes new hypotheses, not indeed without divine inspiration and the favour of the gods; by applying mathematics, he geometrically establishes the conclusions which can be drawn from them by correct inference; he then harmonizes the ancient observations and his own with the hypotheses which he has adopted; and after performing all these operations he finally writes down the laws of astronomy..."
+
+**第谷·布拉赫的评价：**
+"Through observations made by himself [Copernicus] discovered certain gaps in [Ptolemy], and he concluded that the hypotheses established by Ptolemy admit something unsuitable in violation of the axioms of mathematics. Moreover, he found the Alfonsine computations in disagreement with the motions of the heavens. Therefore, with wonderful intellectual acumen he established different hypotheses. He restored the science of the heavenly motions in such a way that nobody before him had a more accurate knowledge of the movements of the heavenly bodies."
+
+---
+
+# 【MacTutor — 详细传记】
+
+原名Mikolaj Kopernik/Nicolaus Koppernigk。父亲是铜矿商，1483年去世后由舅舅Lucas Watzenrode监护。舅舅1492年成为Ermland主教。
+
+克拉科夫大学期间学习：拉丁语、数学、天文学、地理学、哲学。学习亚里士多德和托勒密宇宙观以及占星术。购得欧几里得《几何原本》1482年威尼斯版、Alfonsine Tables 1492年版，有其签名。
+
+1497年3月9日观测月掩毕宿五。1500年11月6日在罗马观测月食。
+
+1509年出版希腊诗人Theophylactus Simocattes诗作的拉丁文译本。
+
+约1514年写成并散发《小评论》(Commentariolus)，提出七条公理，是日心说雏形。
+
+1516年管理Allenstein和Mehlsack区。1519-1525年战争期间参与防御奥尔什丁城堡。战后任Ermland Commissar，负责重建。1522年提出货币改革计划，未被采纳。
+
+1539年5月Georg Joachim Rheticus从维滕贝格大学来拜访，在弗劳恩贝格待了约两年。Rheticus写道："I heard of the fame of Master Nicolaus Copernicus in the northern lands, and although the University of Wittenberg had made me a Public Professor in those arts, nonetheless, I did not think that I should be content until I had learned something more through the instruction of that man. And I also say that I regret neither the financial expenses nor the long journey nor the remaining hardships. Yet, it seems to me that there came a great reward for these troubles, namely that I, a rather daring young man, compelled this venerable man to share his ideas sooner in this discipline with the whole world."
+
+1541年6月2日Rheticus写道哥白尼 "...is enjoying quite good health and is writing a great deal..."，6月9日写道哥白尼 "...had finally overcome his prolonged reluctance to release his volume for publication."
+
+1541年8月29日《天球运行论》手稿准备就绪，交给纽伦堡出版商Johann Petreius。
+
+**鲁德尼茨基的评价(J. Rudnicki)：**
+"He was truly creative. His scientific method, though determined by the horizons of contemporary knowledge and belief, was yet ideally objective. Ethically, his actions throughout his life bear witness to the highest standards. He did good. He earned the general respect and honour of his contemporaries. For many years he served self-sacrificingly the cause of his native country. But he knew no private, domestic joys."
+
+---
+
+# 【百度百科 — 关键内容】
+
+## 出生背景
+1473年2月19日出生于波兰维斯瓦河畔托伦城。父亲是克拉科夫成功的铜矿商人，母亲芭芭拉·瓦岑罗德来自托伦名门望族，舅舅卢卡斯·瓦岑罗德是瓦尔米亚主教。
+
+## 关键观测
+1497年3月9日和老师诺瓦拉观测毕宿五被月掩，证明月球体积没有缩小，把托勒密地心说打开了一个缺口。
+
+## 宗教信仰引语（《天体之运行：导言》）：
+"如果真有一种科学能够使人心灵高贵，脱离时间的污秽，这种科学一定是天文学。因为人类果真见到天主管理下的宇宙所有的庄严秩序时，必然会感到一种动力促使人趋向于规范的生活，去实行各种道德，可以从万物中看出来造物主确实是真美善之源。"
+
+罗素《西方哲学史》："哥白尼是一位波兰教士，抱着真纯无暇的正统信仰……他的正统信仰很真诚，他不认为他的学说与《圣经》相抵触。"
+
+## 对托勒密的评价：
+"应该把自己的箭射向托勒密的同一个方向，只是弓和箭的质料要和他完全两样。"
+
+## 货币改革
+1517年撰写货币改革论文，被称为"哥白尼-格雷欣法则"。
+
+## 晚年
+1543年5月24日在病榻上收到《天球运行论》样书后去世。
+
+墓志铭："你不必赏我像赏给圣保禄的恩宠，但求你赏赐我像你给圣伯多禄的宽赦和右盗的仁慈。"
+
+恩格斯《自然辩证法》："自然科学借以宣布其独立并且好像是重演路德焚烧教谕的革命行动，便是哥白尼那本不朽著作的出版，他用这本书（胆怯地，而且可说是只在临终时）来向自然事物方面的教会权威挑战，从此自然科学便开始从神学中解放出来。"
+
+---
+
+# 【World History Encyclopedia — 评述与影响】
+
+Mark Cartwright撰写于2020年10月26日。
+
+主要贡献：
+1. 地球和其他行星围绕太阳旋转（日心系统）
+2. 地球每年绕太阳公转一圈
+3. 地球每天自转一圈
+4. 地球轴线角度的微小变化解释了二分点的岁差
+
+行星从太阳起的顺序：Mercury, Venus, Earth, Mars, Jupiter, Saturn
+
+1514年获邀参加第五届Lateran Council讨论历法改革，但从未出席。
+
+**"mathematician writing for mathematicians"**
+ Copernicus himself stated that he was "a mathematician writing for mathematicians"
+
+**Osiander的保护性前言**
+Andreas Osiander "had inserted a preface which stated the work was intended as a theoretical aid to mathematicians and not a presentation of how the universe was in reality."
+
+1616年，教会当局将De Revolutionibus列为禁书。
+
+"Copernicus was one of the first protagonists in the scientific revolution that began in the Renaissance period."
+
+---
+
+# 【《小评论》七条公理】
+1. 宇宙没有一个共同的中心
+2. 地球的中心不是宇宙的中心
+3. 宇宙的中心靠近太阳
+4. 地球到太阳的距离同天穹高度之比是微不足道的
+5. 在天空中看到的任何运动，都是地球运动引起的
+6. 在空中看到的太阳运动的一切现象，都不是它本身运动产生的，而是地球运动引起的
+7. 人们看到的行星向前和向后运动，是由于地球运动引起的

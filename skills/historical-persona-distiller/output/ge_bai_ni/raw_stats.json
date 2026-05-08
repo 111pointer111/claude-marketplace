@@ -1,0 +1,84 @@
+{
+  "persona_id": "ge_bai_ni",
+  "persona_name": "尼古拉·哥白尼",
+  "统计时间": "2026-05-08",
+  "raw_corpus_stats": {
+    "total_chars": 80000,
+    "sources_count": 4,
+    "source_breakdown": [
+      {
+        "name": "Britannica - Nicolaus Copernicus",
+        "url": "https://www.britannica.com/biography/Nicolaus-Copernicus",
+        "chars": 12204,
+        "type": "historical_record"
+      },
+      {
+        "name": "MacTutor History of Mathematics - Nicolaus Copernicus",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Copernicus/",
+        "chars": 25000,
+        "type": "historical_record"
+      },
+      {
+        "name": "百度百科 - 尼古拉·哥白尼",
+        "url": "https://baike.baidu.com/item/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E5%93%A5%E7%99%BD%E5%B0%BC/975204",
+        "chars": 25000,
+        "type": "historical_record"
+      },
+      {
+        "name": "World History Encyclopedia - Nicolaus Copernicus",
+        "url": "https://www.worldhistory.org/Nicolaus_Copernicus/",
+        "chars": 20000,
+        "type": "historical_record"
+      }
+    ]
+  },
+  "processed_files": {
+    "stages_md": "stages.md (2036 bytes)",
+    "dimension_思想内核": "dimension_思想内核.json (4038 bytes)",
+    "dimension_语言特征": "dimension_语言特征.json (1621 bytes)",
+    "dimension_表达偏好": "dimension_表达偏好.json (1747 bytes)",
+    "dimension_立场光谱": "dimension_立场光谱.json (1707 bytes)",
+    "dimension_一致性校验": "dimension_一致性校验.json (1347 bytes)",
+    "dimension_voice_profile": "dimension_voice_profile.json (2377 bytes)"
+  },
+  "output_files": {
+    "SKILL_md": "SKILL.md (5033 bytes)",
+    "README_md": "README.md (998 bytes)",
+    "METADATA_json": "METADATA.json (2252 bytes)",
+    "EVENTS_md": "EVENTS.md (3023 bytes)",
+    "VOICE_md": "VOICE.md (4146 bytes)",
+    "CITATIONS_md": "CITATIONS.md (6575 bytes)"
+  },
+  "confidence_summary": {
+    "综合置信度": "high",
+    "思想内核": "high",
+    "语言特征": "high",
+    "表达偏好": "high",
+    "立场光谱": "high",
+    "一致性校验": "high",
+    "voice_profile": "high"
+  },
+  "web_search_status": {
+    "web_search": "失败（DuckDuckGo超时）",
+    "SerpAPI": "成功（通过 web_fetch 调 SerpAPI Google 搜索，返回 JSON 结果）",
+    "web_fetch_Britannica": "成功",
+    "web_fetch_MacTutor": "成功",
+    "web_fetch_BaiduBaike": "成功",
+    "web_fetch_WorldHistory": "成功",
+    "web_fetch_Wikipedia": "失败（fetch failed）"
+  },
+  "来源验证": {
+    "Britannica": "成功",
+    "MacTutor": "成功",
+    "百度百科": "成功",
+    "World_History_Encyclopedia": "成功"
+  },
+  "完成度": {
+    "raw_语料": true,
+    "processed_维度文件": true,
+    "output_文件": true,
+    "done_flag": "待创建",
+    "git_commit": "待执行",
+    "git_push": "待执行"
+  }
+}

@@ -1,0 +1,63 @@
+# 哥白尼 传记与引语 (Britannica)
+
+## 人物基本信息
+Nicolaus Copernicus (born February 19, 1473, Toruń, Royal Prussia, Poland—died May 24, 1543, Frauenburg, [East Prussia] [now Frombork, Poland])
+
+## 主要传记内容
+
+### 早年与教育
+哥白尼于1473年2月19日出生于波兰托伦市一个商人家庭。父亲Nicolaus是富商，母亲Barbara Watzenrode来自望族。他是四个孩子中最小的。父亲去世后（1483-1485年间），舅舅Lucas Watzenrode（1447-1512）成为监护人。Watzenrode后来成为瓦尔米亚主教，为哥白尼安排了教会职业道路。
+
+1491-1494年，哥白尼在克拉科夫大学学习自由艺术（包括天文学和占星术）。后前往意大利博洛尼亚大学（1496-1500），与著名天文学家Domenico Maria de Novara同住。Novara负责发布城市年度占星预测，哥白尼是其"助理和见证人"。1497年3月9日，他在博洛尼亚观测了月掩毕宿五（Aldebaran）。
+
+1500年，哥白尼在罗马向听众演讲数学主题。1501年短暂回弗劳恩贝格后返回意大利帕多瓦大学学医（1501-1503）。1503年，他从费拉拉大学获得教会法博士学位。
+
+### 回到波兰
+回到波兰后，主教舅舅安排他一个闲职，实际职责主要是行政和医疗。作为教会法规博士，他收取教会土地的租金， secured military defenses，监管chapter财政，管理面包店、酿酒厂和磨坊，并照顾其他canons和舅舅的医疗需求。（尽管担任canon，哥白尼从未成为牧师。）他的天文工作是在业余时间进行的。
+
+### 天文学思想形成
+就在Watzenrode生命的最后几年，哥白尼显然想到了他后来成名的主意。1514年，他分发了《小评论》（Commentariolus，"Little Commentary"），提出了以太阳为中心的宇宙体系的七个公理：
+1. 宇宙没有一个中心
+2. 地球的中心不是宇宙的中心
+3. 宇宙的中心靠近太阳
+4. 地球到太阳的距离与到恒星的距离相比微不足道
+5. 地球的旋转解释了恒星的明显每日旋转
+6. 太阳的明显年度运动是由地球绕太阳公转引起的
+7. 行星的明显逆行运动是由观测者的地球运动引起的
+
+### 行政工作与战争
+1516年，哥白尼被任命管理Allenstein和Mehlsack区，在Allenstein城堡生活了四年执行这些行政职责。1519-1525年波兰与条顿骑士团战争期间，他参与了和平谈判，负责组织奥尔什丁城堡的防御。作为奖励，他被任命为Ermland的 Commissar，负责战后重建。
+
+### 《天球运行论》的出版
+Georg Joachim Rheticus（1514-74）是哥白尼的热忱弟子，其传记可惜已失传。1539年5月，Rheticus抵达弗劳恩贝格，在那里待了大约两年。他描述拜访："I heard of the fame of Master Nicolaus Copernicus in the northern lands, and although the University of Wittenberg had made me a Public Professor in those arts, nonetheless, I did not think that I should be content until I had learned something more through the instruction of that man."
+
+Rheticus写了《初报》（Narratio Prima），介绍哥白尼的工作，鼓励哥白尼出版完整数学细节。1541年8月29日，《天球运行论》手稿准备就绪。Rheticus将其带给纽伦堡出版商Johann Petreius。由于无法亲自监督印刷，他请Andreas Osiander（路德会神学家）负责。但Osiander未经授权在书名页后插入了一封信，声称结果不打算作为真理，而只是呈现一种计算天体位置的更简单方法。这封信没有签名，真实作者直到50年后开普勒才揭露。
+
+### 晚年与去世
+1543年5月24日，哥白尼在病榻上收到了印刷的书——约200页的拉丁文——因脑出血去世。
+
+### 直接引语
+
+1. 关于太阳在宇宙中的位置：
+"At the middle of all things lies the sun. As the location of this luminary in the cosmos, that most beautiful temple, would there be any other place or any better place than the centre, from which it can light up everything at the same time? Hence the sun is not inappropriately called by some the lamp of the universe, by others its mind, and by others its ruler."
+— De revolutionibus
+
+2. 关于数学是为数学家而写：
+"Mathematics is written for mathematicians."
+— Dedication to De revolutionibus, 1542
+
+3. 关于反对者：
+"Perhaps there will be babblers who, although completely ignorant of mathematics, nevertheless take it upon themselves to pass judgement on mathematical questions and, badly distorting some passages of Scripture to their purpose, will dare find fault with my undertaking and censure it. I disregard them even to the extent as despising their criticism as unfounded."
+— Intended Preface to De revolutionibus
+
+4. 关于自己的方法（Rheticus描述）：
+"...my teacher always had before his eyes the observations of all ages together with his own, assembled in order as in catalogues; then when some conclusion must be drawn or contribution made to the science and its principles, he proceeds from the earliest observations to his own, seeking the mutual relationship which harmonizes them all..."
+— Narratio Prima by Rheticus
+
+5. 第谷·布拉赫的评价：
+"Through observations made by himself [Copernicus] discovered certain gaps in [Ptolemy], and he concluded that the hypotheses established by Ptolemy admit something unsuitable in violation of the axioms of mathematics. Moreover, he found the Alfonsine computations in disagreement with the motions of the heavens. Therefore, with wonderful intellectual acumen he established different hypotheses. He restored the science of the heavenly motions in such a way that nobody before him had a more accurate knowledge of the movements of the heavenly bodies."
+— Tycho Brahe
+
+6. 卢德维希·乔基姆·罗特（Georg Joachim Rheticus）的描述：
+"Yet, it seems to me that there came a great reward for these troubles, namely that I, a rather daring young man, compelled this venerable man to share his ideas sooner in this discipline with the whole world."
+— Rheticus on his visit to Copernicus

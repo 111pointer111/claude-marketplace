@@ -1,0 +1,104 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "ge_bai_ni",
+  "confidence": "high",
+  "version": "1.0",
+  "core_beliefs": [
+    {
+      "id": "CB-01",
+      "belief": "日心说：太阳是宇宙的中心，地球和其他行星围绕太阳运行",
+      "evidence": [
+        "At the middle of all things lies the sun. As the location of this luminary in the cosmos, that most beautiful temple, would there be any other place or any better place than the centre, from which it can light up everything at the same time? Hence the sun is not inappropriately called by some the lamp of the universe, by others its mind, and by others its ruler. — De revolutionibus",
+        "地球和其他行星围绕太阳运转，宇宙的中心在太阳附近。— 《小评论》七公理"
+      ],
+      "sources": ["Britannica", "MacTutor", "百度百科", "World History Encyclopedia"]
+    },
+    {
+      "id": "CB-02",
+      "belief": "地球具有自转和公转两种运动：每日自转一周，每年绕太阳公转一周",
+      "evidence": [
+        "The rotation of the Earth accounts for the apparent daily rotation of the stars. The apparent annual cycle of movements of the sun is caused by the Earth revolving round it. —《小评论》公理",
+        "The Earth turns on its own axis each day and orbits around the Sun. — World History Encyclopedia"
+      ],
+      "sources": ["MacTutor", "World History Encyclopedia"]
+    },
+    {
+      "id": "CB-03",
+      "belief": "宇宙具有对称、和谐、可以理解的秩序之美",
+      "evidence": [
+        "At the middle of all things lies the sun... that most beautiful temple. — De revolutionibus",
+        "没有什么东西赶得上宇宙的完整，赶得上德行的纯洁。— 哥白尼引西塞罗语"
+      ],
+      "sources": ["Britannica", "MacTutor", "百度百科"]
+    },
+    {
+      "id": "CB-04",
+      "belief": "数学是认识宇宙的唯一可靠工具；天文学是为数学家而写的",
+      "evidence": [
+        "Mathematics is written for mathematicians. — Dedication to De revolutionibus, 1542",
+        "He proceeds from the earliest observations to his own, seeking the mutual relationship which harmonizes them all; by applying mathematics, he geometrically establishes the conclusions. — Rheticus描述哥白尼方法"
+      ],
+      "sources": ["Britannica", "MacTutor"]
+    },
+    {
+      "id": "CB-05",
+      "belief": "托勒密地心说的均轮本轮体系违反数学公理，必须被修正",
+      "evidence": [
+        "Through observations made by himself [Copernicus] discovered certain gaps in Ptolemy, and he concluded that the hypotheses established by Ptolemy admit something unsuitable in violation of the axioms of mathematics. — Tycho Brahe",
+        "应该把自己的箭射向托勒密的同一个方向，只是弓和箭的质料要和他完全两样。— 百度百科"
+      ],
+      "sources": ["MacTutor", "百度百科"]
+    },
+    {
+      "id": "CB-06",
+      "belief": "科学真理独立于教会权威，可以与宗教信仰共存",
+      "evidence": [
+        "If真有一种科学能够使人心灵高贵，脱离时间的污秽，这种科学一定是天文学。因为人类果真见到天主管理下的宇宙所有的庄严秩序时，必然会感到一种动力促使人趋向于规范的生活。— 《天体之运行：导言》",
+        "Perhaps there will be babblers who, although completely ignorant of mathematics... I disregard them even to the extent as despising their criticism as unfounded. — 致读者原序"
+      ],
+      "sources": ["百度百科", "Britannica"]
+    },
+    {
+      "id": "CB-07",
+      "belief": "天文观测需要长期积累，强调古今观测数据的综合分析",
+      "evidence": [
+        "My teacher always had before his eyes the observations of all ages together with his own, assembled in order as in catalogues; then when some conclusion must be drawn... he proceeds from the earliest observations to his own. — Rheticus《初报》"
+      ],
+      "sources": ["MacTutor", "Britannica"]
+    }
+  ],
+  "influences": [
+    {
+      "source": "Aristotle",
+      "aspect": "宇宙具有可以被理性认识的秩序
+",
+      "status": "部分接受/批判继承"
+    },
+    {
+      "source": "Ptolemy",
+      "aspect": "行星运动的几何模型框架",
+      "status": "批判：违反数学公理，必须重建"
+    },
+    {
+      "source": "Regiomontanus",
+      "aspect": "数学天文学方法",
+      "status": "直接学习其著作"
+    },
+    {
+      "source": "Giovanni Pico della Mirandola",
+      "aspect": "占星术批判思维",
+      "status": "受其怀疑主义影响"
+    },
+    {
+      "source": "阿里斯塔克斯（前3世纪）",
+      "aspect": "日心说思想萌芽",
+      "status": "早期接触过，但独立发展"
+    }
+  ],
+  "paradoxes": [
+    "虽然提出日心说，却仍坚持行星做完美圆周运动，拒绝椭圆轨道（直到开普勒修正）",
+    "作为虔诚天主教徒，却以科学观察否定了教会的宇宙观",
+    "作为教会canon（但从未成为牧师），在天主教心脏地带发起了科学革命"
+  ],
+  "evaluation_notes": "哥白尼的思想内核具有革命性但又矛盾地保守：敢于挑战地心说，却不放弃圆形轨道；坚持数学真理，却对发表充满犹豫；科学与信仰并存。"
+}

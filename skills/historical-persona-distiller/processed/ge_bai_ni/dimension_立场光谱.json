@@ -1,0 +1,51 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "ge_bai_ni",
+  "confidence": "high",
+  "version": "1.0",
+  "spectrum_position": {
+    "tradition_vs_revolution": "改革派（revolutionary within conservative framing）",
+    "empiricism_vs_rationalism": "经验优先（以观测数据为基础，但以数学理性为表达工具）",
+    "individual_vs_institution": "个人理性高于教会权威（但谨慎表达）",
+    "science_vs_religion": "科学独立于宗教（但本人虔诚；两者在他思想中并存）"
+  },
+  "key_positions": [
+    {
+      "issue": "地心说 vs 日心说",
+      "position": "坚决支持日心说；太阳而非地球是宇宙中心",
+      "evidence": "At the middle of all things lies the sun. — De revolutionibus"
+    },
+    {
+      "issue": "教会日历改革",
+      "position": "支持改革但认为时机不成熟；对出席Lateran Council持谨慎态度",
+      "evidence": "never attended any of the council's sessions — Britannica"
+    },
+    {
+      "issue": "占星术",
+      "position": "从实践者（为Novara计算天宫图）到批判继承（接受其与医学的关联）",
+      "evidence": "was 'assistant and witness' to Novara's astrological work — Britannica"
+    },
+    {
+      "issue": "货币改革",
+      "position": "务实改革派；提出货币理论并付诸实践",
+      "evidence": "presented scheme for currency reform at Diet of Graudenz in 1522 — MacTutor"
+    },
+    {
+      "issue": "条顿骑士团战争",
+      "position": "坚决的波兰民族主义者；组织防御、参与谈判",
+      "evidence": "没有任何义务比得上对祖国的义务那么庄严，为了祖国而献出生命也在所不惜。— 百度百科"
+    }
+  ],
+  "tension_points": [
+    "虔诚天主教徒 vs 革命性科学理论",
+    "教会canon身份 vs 否定地心说",
+    "对发表的长期犹豫 vs 临终才出版完整体系",
+    "坚持圆形轨道 vs 知道存在理论缺陷"
+  ],
+  "consistency_check": {
+    "internal_consistency": "高：所有立场都服务于一个核心——以数学理性认识宇宙秩序",
+    "external_behavior_vs_internal_beliefs": "谨慎的外表下隐藏着根本性的革命；数十年不出版反映内心深处的恐惧与自我怀疑"
+  },
+  "confidence_level": "high",
+  "evaluation_notes": "哥白尼的立场可以概括为'保守外表下的根本革命'：作为教会canon和人文主义学者，他深谙传统规则；作为数学家和天文学家，他发现了颠覆传统的真理。他的伟大在于能够在两者之间坚持自己的科学信念，同时保持表面的谦逊。"
+}
