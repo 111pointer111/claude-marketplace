@@ -1,0 +1,49 @@
+{
+  "persona_id": "nuo_bei_er",
+  "sources": [
+    {
+      "name": "Britannica",
+      "url": "https://www.britannica.com/biography/Alfred-Nobel",
+      "type": "historical_record",
+      "chars": 13594,
+      "status": "success"
+    },
+    {
+      "name": "Nobel Prize Official Biography",
+      "url": "https://www.nobelprize.org/alfred-nobel/",
+      "type": "historical_record",
+      "chars": 10423,
+      "status": "success"
+    },
+    {
+      "name": "Nobel Prize Will",
+      "url": "https://www.nobelprize.org/alfred-nobel/alfred-nobels-will/",
+      "type": "historical_record",
+      "chars": 3363,
+      "status": "success"
+    },
+    {
+      "name": "Nobel Prize Life and Philosophy (Frängsmyr)",
+      "url": "https://www.nobelprize.org/alfred-nobel/alfred-nobel-life-and-philosophy/",
+      "type": "historical_record",
+      "chars": 15000,
+      "status": "success"
+    },
+    {
+      "name": "Biography.com",
+      "url": "https://www.biography.com/inventors/a45977855/alfred-nobel",
+      "type": "historical_record",
+      "chars": 4078,
+      "status": "success"
+    }
+  ],
+  "total_sources": 5,
+  "successful_sources": 5,
+  "failed_sources": [],
+  "total_chars": 46458,
+  "poetry_count": 0,
+  "poetry_note": "诺贝尔的诗歌未发表；无诗词存世",
+  "web_search_status": "failed (DuckDuckGo bot detection)",
+  "serpapi_status": "success",
+  "search_notes": "web_search因DuckDuckGo bot detection失败；SerpAPI (Google) 成功获取有机结果；最终使用Britannica、Nobel Prize官方、Biography.com三个主要来源"
+}

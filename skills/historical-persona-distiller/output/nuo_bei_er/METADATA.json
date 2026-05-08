@@ -1,0 +1,38 @@
+{
+  "persona_id": "nuo_bei_er",
+  "name_zh": "诺贝尔",
+  "name_en": "Alfred Bernhard Nobel",
+  "birth_year": 1833,
+  "death_year": 1896,
+  "dynasty": "瑞典/19世纪",
+  "category": "外国科技人物",
+  "priority": "medium",
+  "persona_type": "inventor_industrialist_humanist",
+  "confidence": "high",
+  "distilled_at": "2026-05-09T04:08:00+08:00",
+  "sources_count": 4,
+  "total_words": 30000,
+  "poetry_count": 0,
+  "poetry_requirement": "不适用（非诗人；诗歌未发表）",
+  "core_works": [
+    "黄色炸药（dynamite）专利，1867年",
+    "诺贝尔遗嘱，1895年11月27日",
+    "爆炸明胶（blasting gelatin），1875年",
+    "无烟火药ballistite，1887年",
+    "金属雷管（blasting cap），1865年"
+  ],
+  "key_concepts": [
+    "dynamite（黄色炸药）",
+    "kieselguhr（硅藻土）",
+    "blasting cap（雷管）",
+    "benefit to humankind（为人类带来最大利益）",
+    "worthiest person（最有价值的人）",
+    "普世主义（cosmopolitanism）",
+    "科学到工业的桥梁"
+  ],
+  "philosophical_tradition": "人文主义/和平主义",
+  "geographical_region": "瑞典→俄罗斯→法国→意大利",
+  "historical_significance": "19世纪最具影响力的发明家兼工业家之一；诺贝尔奖已成为全球最具声望的国际奖项",
+  "language_style": "公开场合庄重简洁普世；私人通信内省自嘲幽默；技术文件精确宣告性",
+  "distiller_notes": "诺贝尔是发明家非诗人，无诗词可供引用；语料主要来自Britannica、Biography.com、诺贝尔奖官网、诺贝尔奖官网Life and Philosophy（Frängsmyr学术纪念演讲）。所有web_search均失败，改用SerpAPI成功。"
+}
