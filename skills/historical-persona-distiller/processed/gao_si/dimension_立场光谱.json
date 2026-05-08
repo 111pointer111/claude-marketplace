@@ -1,0 +1,90 @@
+{
+  "persona_id": "gao_si",
+  "dimension": "立场光谱",
+  "version": "1.0",
+  "confidence": "high",
+
+  "summary": "高斯在政治上属于保守的保皇党（忠诚于不伦瑞克公爵和汉诺威王朝），在科学哲学上既是理性主义者也是经验主义者，在宗教上倾向于自然神论而非正统基督教，在非欧几何上内心激进但公开保守，在数学纯粹与应用之间存在内在张力。",
+
+  "dimensions": [
+    {
+      "axis": "政治立场",
+      "position": "保守保皇派（Conservative Monarchist）",
+      "description": "高斯是忠诚的保皇党人。他一生受不伦瑞克公爵资助，因此对其有深厚的忠诚感。当公爵1806年战死后，他继续效忠汉诺威王朝，1807年接受哥廷根天文台台长职位（为汉诺威公爵服务）。他虽接受普鲁士的资助，但从未公开反对任何王国。",
+      "evidence": [
+        "Britannica：\"As an intensely loyal subject of the duke of Brunswick and, after 1807 when he returned to Göttingen as an astronomer, of the duke of Hanover, Gauss felt that the work was socially valuable.\"",
+        "MacTutor：不伦瑞克公爵1791年资助高斯，1806年战死后高斯继续服务汉诺威王朝"
+      ]
+    },
+    {
+      "axis": "科学哲学",
+      "position": "理性主义+经验主义混合",
+      "description": "高斯在数学上持理性主义立场（相信数学真理的先验性），但他同时是经验主义者（怀疑欧几里得几何的先验真理，认为它可能是经验的）。他对测地学和天文学的毕生投入也表明他重视经验数据。",
+      "evidence": [
+        "Britannica：\"He began to doubt the a priori truth of Euclidean geometry and suspected that its truth might be empirical.\"",
+        "MacTutor：高斯花费12年进行汉诺威大地测量，用日光仪做精确观测",
+        "MacTutor：\"He published his second book... a major two volume treatise on the motion of celestial bodies\"（理论与观测并重）"
+      ]
+    },
+    {
+      "axis": "宗教观点",
+      "position": "自然神论（倾向于）",
+      "description": "高斯将数学视为理解上帝创造的神圣语言，但他在给朋友的信中暗示他并不接受正统基督教的某些教义。他称《算术研究》为献给公爵的'神圣象征'，体现一种将科学宗教化的倾向，而非正统基督教。",
+      "evidence": [
+        "Disquisitiones Arithmeticae序言：\"I offer it to you as a sacred token of my filial devotion.\"（将数学工作神圣化）",
+        "Britannica：他对欧几里得几何真理的经验性怀疑暗示其宗教观点的非正统性"
+      ]
+    },
+    {
+      "axis": "数学纯粹vs应用",
+      "position": "纯粹为主，但重视应用价值",
+      "description": "高斯本质上是一位纯粹数学家，但他也认为科学工作应对社会有直接价值。他在测地学、天文学和地磁学中的大量应用工作反映了他对数学实用性的重视。然而他最珍视的发现（数论、非欧几何、椭圆函数）都是纯粹的。",
+      "evidence": [
+        "Britannica：\"Gauss felt that the work was socially valuable.\"（接受汉诺威测量）",
+        "MacTutor：高斯发明日光仪改进测量精度，纯粹为实践服务",
+        "Britannica：其数论研究（纯粹）和测地学/天文学（应用）各占同等重要性"
+      ]
+    },
+    {
+      "axis": "非欧几何立场",
+      "position": "内心激进（坚信非欧），公开保守（沉默）",
+      "description": "这是高斯最大的公开-私下矛盾之一。他在15岁（约1792年）就知道非欧几何的可能性，但从未公开捍卫这一观点。他担心承认非欧几何会损害声誉，因此选择沉默。他私下对Lobachevsky表示支持（提名其入科学院），但拒绝公开辩论。",
+      "evidence": [
+        "MacTutor：Gauss告诉Schumacher他担心公开承认非欧几何会损害其声誉",
+        "MacTutor：Gauss自述从15岁起就有非欧几何信念（1846年给Schumacher的信：\"54年来有相同信念\"）",
+        "Britannica：Gauss自学俄语跟进Lobachevsky的争议，提名其为哥廷根科学院成员——私下支持而非公开捍卫"
+      ]
+    },
+    {
+      "axis": "学术社交",
+      "position": "孤立主义（Remote and Aloof）",
+      "description": "Britannica明确描述高斯为'remote and aloof'（疏离而孤僻）。他不主动扩大哥廷根大学的规模，也不多招学生。他与少数人保持通信，但拒绝公开支持或捍卫他人的革命性工作（如Bolyai和Lobachevsky的非欧几何）。",
+      "evidence": [
+        "Britannica：\"He was a remote and aloof figure.\"",
+        "Britannica：\"The University of Göttingen was small, and he did not seek to enlarge it or to bring in extra students.\"",
+        "MacTutor：Gauss confided in Schumacher但从未公开捍卫非欧几何"
+      ]
+    }
+  ],
+
+  "key_tensions": [
+    {
+      "tension": "纯粹数学信念 vs 实践应用价值",
+      "description": "高斯内心以纯粹数学为最高使命，但对外宣称科学工作应有社会价值"
+    },
+    {
+      "tension": "内心激进思想 vs 公开保守立场",
+      "description": "非欧几何、椭圆函数等重大发现深藏不露，只有死后才被发现"
+    },
+    {
+      "tension": "学术孤立主义 vs 社交沟通需求",
+      "description": "疏离孤僻但又与Bessel、Schumacher、Olbers、Farkas Bolyai等人保持长期通信"
+    }
+  ],
+
+  "confidence_rationale": "立场光谱分析基于MacTutor详细传记、Britannica对高斯个性描述和私人信件记录，证据充分。政治立场、学术孤立性和非欧几何立场均有直接证据支持。",
+  "sources_used": [
+    "MacTutor History of Mathematics - Carl Friedrich Gauss Biography",
+    "Britannica - Carl Friedrich Gauss"
+  ]
+}

@@ -1,0 +1,67 @@
+# 高斯引语语料
+
+## 直接引语（按来源分类）
+
+### 来源1: MacTutor History of Mathematics
+
+**Gauss给Olbers的信（妻子去世后）:**
+"to gather new strength in the arms of your friendship - strength for a life which is only valuable because it belongs to my three small children."
+
+**Gauss评论Bolyai的非欧几里得几何工作:**
+"to praise it would mean to praise myself."
+
+**Gauss在1816年书评中论平行公设:**
+"the vain effort to conceal with an untenable tissue of pseudo proofs the gap which one cannot fill out."
+
+**Gauss向Schumacher吐露对非欧几何的看法:**
+Gauss confided in Schumacher, telling him that he believed his reputation would suffer if he admitted in public that he believed in the existence of such a geometry.
+
+**Gauss在1846年给Schumacher的信:**
+he had the same convictions for 54 years, indicating that he had known of the existence of a non-Euclidean geometry since he was 15 years of age.
+
+**Gauss论Lobachevsky的工作:**
+praised its "genuinely geometric" character.
+
+**Gauss评论Abel:**
+Abel had come one-third of the way.
+
+**Dedekind对Gauss的描述:**
+"... usually he sat in a comfortable attitude, looking down, slightly stooped, with hands folded above his lap. He spoke quite freely, very clearly, simply and plainly: but when he wanted to emphasise a new viewpoint ... then he lifted his head, turned to one of those sitting next to him, and gazed at him with his beautiful, penetrating blue eyes during the emphatic speech. ... If he proceeded from an explanation of principles to the development of mathematical formulas, then he got up, and in a stately very upright posture he wrote on a blackboard beside him in his peculiarly beautiful handwriting: he always succeeded through economy and deliberate arrangement in making do with a rather small space. For numerical examples, on whose careful completion he placed special value, he brought along the requisite data on little slips of paper."
+
+**Gauss论Ceres预测成功:**
+Although he did not disclose his methods at the time, Gauss had used his least squares approximation method.
+
+### 来源2: Britannica
+
+**Gauss自述（Disquisitiones Arithmeticae序言）:**
+高斯在《算术研究》序言中写道，他1795年开始研究此课题时并不知道该领域的最新发现独自进行了深入研究，其中最美丽的定理之一是关于-1是4n+1型数的二次剩余而是4n+3型数的非剩余的定理。
+
+**Gauss论自己的成就:**
+Gauss often withheld publication of his discoveries. He began to doubt the a priori truth of Euclidean geometry and suspected that its truth might be empirical.
+
+**Gauss论Lobachevsky:**
+Gauss taught himself enough Russian to follow the controversy and proposed Lobachevsky for the Göttingen Academy of Sciences.
+
+**Gauss论Bolyai的工作:**
+Gauss wrote a letter to Bolyai telling him that he had already discovered everything that Bolyai had just published.
+
+**Gauss的写作风格:**
+ contemporaries compared his writing style to thin gruel: it is clear and sets high standards for rigour, but it lacks motivation and can be slow and wearing to follow.
+
+### 来源3: Disquisitiones Arithmeticae原文（MacTutor）
+
+**Dedication to the Duke of Brunswick:**
+"I consider it my greatest good fortune that You allow me to adorn this work of mine with YOUR most honourable name. I offer it to you as a sacred token of my filial devotion. Were it not for YOUR favour, Most Serene Prince, I would not have had my first introduction to the sciences. Were it not for YOUR unceasing benefits in support of my studies, I would not have been able to devote myself totally to my passionate love, the study of mathematics."
+
+**Author's Preface:**
+"The inquiries which this volume will investigate pertain to that part of Mathematics which concerns itself with integers. I will rarely refer to fractions and never to surds."
+
+"The purpose of this volume whose publication I promised five years ago is to present my investigations into the field of Higher Arithmetic."
+
+"When I succeeded in this I was so attracted by these questions that I could not let them be. Thus as one result led to another I had completed most of what is presented in the first four sections of this work before I came into contact with similar works of other geometers."
+
+"In several difficult discussions I have used synthetic proofs and have suppressed the analysis which led to the results. This was necessitated by brevity, a consideration that must be consulted as much as possible."
+
+"The theory of the division of a circle or of a regular polygon treated in Section VII of itself does not pertain to Arithmetic but the principles involved depend uniquely on Higher Arithmetic."
+
+"My greatest hope is that it pleases those who have at heart the development of science and that it proposes solutions that they have been looking for or at least opens the way for new investigations."

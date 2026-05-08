@@ -1,0 +1,58 @@
+# 高斯后世评述语料
+
+## 来源1: MacTutor History of Mathematics
+
+**Gauss's legacy (MacTutor Conclusion):**
+After Gauss's death in 1855, the discovery of so many novel ideas among his unpublished papers extended his influence well into the remainder of the century. Acceptance of non-Euclidean geometry had not come with the original work of Bolyai and Lobachevsky, but it came instead with the almost simultaneous publication of Riemann's general ideas about geometry, the Italian Eugenio Beltrami's explicit and rigorous account of it, and Gauss's private notes and correspondence.
+
+**Gauss's contributions summary (Britannica):**
+Carl Friedrich Gauss was a German mathematician, generally regarded as one of the greatest mathematicians of all time for his contributions to number theory, geometry, probability theory, geodesy, planetary astronomy, the theory of functions, and potential theory (including electromagnetism).
+
+**Gauss's personality (Britannica):**
+Gauss was rare among mathematicians in that he was a calculating prodigy, and he retained the ability to do elaborate calculations in his head most of his life. He was a remote and aloof figure.
+
+**Gauss's teaching style (Dedekind's description):**
+[见引语部分 Dedekind的描述]
+
+**Gauss's writing style (Britannica):**
+contemporaries compared his writing style to thin gruel: it is clear and sets high standards for rigour, but it lacks motivation and can be slow and wearing to follow.
+
+**Gauss's publication habits (Britannica):**
+Gauss often withheld publication of his discoveries. He seemed extremely pleased with advances made by other mathematicians, particularly that of Eisenstein and of Lobachevsky.
+
+**Gauss and Lobachevsky (Britannica):**
+When Lobachevsky was attacked by other Russians for his ideas on non-Euclidean geometry, Gauss taught himself enough Russian to follow the controversy and proposed Lobachevsky for the Göttingen Academy of Sciences.
+
+**Gauss and Bolyai (Britannica):**
+Gauss wrote a letter to Bolyai telling him that he had already discovered everything that Bolyai had just published.
+
+**Gauss's comment on Abel:**
+Gauss commented to a friend that Abel had come one-third of the way (in the theory of elliptic functions).
+
+## 来源2: Britannica
+
+**Gauss's recognition:**
+Gauss's pioneering work gradually established him as the era's preeminent mathematician, first in the German-speaking world and then farther afield.
+
+**Gauss and the Duke of Brunswick:**
+Impressed by this ability and by his gift for languages, his teachers and his devoted mother recommended him to the duke of Brunswick in 1791, who granted him financial assistance to continue his education.
+
+**Gauss's work style (Britannica):**
+Gauss felt that the work [astronomy and surveying] was socially valuable. Similar motives led Gauss to accept the challenge of surveying the territory of Hanover.
+
+**Gauss's intrinsic curvature discovery:**
+Gauss showed that there is an intrinsic measure of curvature that is not altered if the surface is bent without being stretched.
+
+**Gauss's reluctance to publish:**
+Some have attributed this failure [not publishing his non-Euclidean geometry ideas] to his innate conservatism, others to his incessant inventiveness that always drew him on to the next new idea, still others to his failure to find a central idea that would govern geometry once Euclidean geometry was no longer unique.
+
+**Gauss's career at Göttingen:**
+The University of Göttingen was small, and he did not seek to enlarge it or to bring in extra students. Toward the end of his life, mathematicians of the calibre of Richard Dedekind and Riemann passed through Göttingen, and he was helpful.
+
+**Gauss's financial success:**
+Gauss spent the years from 1845 to 1851 updating the Göttingen University widow's fund. This work gave him practical experience in financial matters, and he went on to make his fortune through shrewd investments in bonds issued by private companies.
+
+## Disquisitiones Arithmeticae 原文评述
+
+**Preface评述:**
+The purpose of this volume is to present my investigations into the field of Higher Arithmetic. I was unaware of the more recent discoveries in the field and was without the means of discovering them. What happened was this. Engaged in other work I chanced on an extraordinary arithmetic truth... Since I considered it so beautiful in itself and since I suspected its connection with even more profound results, I concentrated on it all my efforts in order to understand the principles on which it depended and to obtain a rigorous proof. When I succeeded in this I was so attracted by these questions that I could not let them be.

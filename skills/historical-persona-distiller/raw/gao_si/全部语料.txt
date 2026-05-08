@@ -1,0 +1,208 @@
+# 高斯传记语料
+
+## 来源1: MacTutor History of Mathematics - Carl Friedrich Gauss Biography
+来源: https://mathshistory.st-andrews.ac.uk/Biographies/Gauss/
+字符数: 约20,000字
+
+---
+
+Carl Friedrich Gauss (1777 - 1855) - Biography
+
+At the age of seven, Carl Friedrich Gauss started elementary school, and his potential was noticed almost immediately. His teacher, Büttner, and his assistant, Martin Bartels, were amazed when Gauss summed the integers from 1 to 100 instantly by spotting that the sum was 50 pairs of numbers each pair summing to 101.
+
+In 1788 Gauss began his education at the Gymnasium with the help of Büttner and Bartels, where he learnt High German and Latin. After receiving a stipend from the Duke of Brunswick-Wolfenbüttel, Gauss entered Brunswick Collegium Carolinum in 1792. At the academy Gauss independently discovered Bode's law, the binomial theorem and the arithmetic-geometric mean, as well as the law of quadratic reciprocity and the prime number theorem.
+
+In 1795 Gauss left Brunswick to study at Göttingen University. Gauss's teacher there was Kästner, whom Gauss often ridiculed. His only known friend amongst the students was Farkas Bolyai. They met in 1799 and corresponded with each other for many years.
+
+Gauss left Göttingen in 1798 without a diploma, but by this time he had made one of his most important discoveries - the construction of a regular 17-gon by ruler and compasses. This was the most major advance in this field since the time of Greek mathematics and was published as Section VII of Gauss's famous work, Disquisitiones Arithmeticae.
+
+Gauss returned to Brunswick where he received a degree in 1799. After the Duke of Brunswick had agreed to continue Gauss's stipend, he requested that Gauss submit a doctoral dissertation to the University of Helmstedt. He already knew Pfaff, who was chosen to be his advisor. Gauss's dissertation was a discussion of the fundamental theorem of algebra.
+
+With his stipend to support him, Gauss did not need to find a job so devoted himself to research. He published the book Disquisitiones Arithmeticae in the summer of 1801. There were seven sections, all but the last section, referred to above, being devoted to number theory.
+
+In June 1801, Zach, an astronomer whom Gauss had come to know two or three years previously, published the orbital positions of Ceres, a new "small planet" which was discovered by Piazzi, an Italian astronomer on 1 January, 1801. Unfortunately, Piazzi had only been able to observe 9 degrees of its orbit before it disappeared behind the Sun. Zach published several predictions of its position, including one by Gauss which differed greatly from the others. When Ceres was rediscovered by Zach on 7 December 1801 it was almost exactly where Gauss had predicted. Although he did not disclose his methods at the time, Gauss had used his least squares approximation method.
+
+In June 1802 Gauss visited Olbers who had discovered Pallas in March of that year and Gauss investigated its orbit. Olbers requested that Gauss be made director of the proposed new observatory in Göttingen, but no action was taken. Gauss began corresponding with Bessel, whom he did not meet until 1825, and with Sophie Germain.
+
+Gauss married Johanna Ostoff on 9 October, 1805. Despite having a happy personal life for the first time, his benefactor, the Duke of Brunswick, was killed fighting for the Prussian army. In 1807 Gauss left Brunswick to take up the position of director of the Göttingen observatory.
+
+Gauss arrived in Göttingen in late 1807. In 1808 his father died, and a year later Gauss's wife Johanna died after giving birth to their second son, who was to die soon after her. Gauss was shattered and wrote to Olbers asking him to give him a home for a few weeks,
+
+to gather new strength in the arms of your friendship - strength for a life which is only valuable because it belongs to my three small children.
+
+Gauss was married for a second time the next year, to Minna the best friend of Johanna, and although they had three children, this marriage seemed to be one of convenience for Gauss.
+
+Gauss's work never seemed to suffer from his personal tragedy. He published his second book, Theoria motus corporum coelestium in sectionibus conicis Solem ambientium (Theory of the motion of the heavenly bodies surrounding the sun in conic sections), in 1809, a major two volume treatise on the motion of celestial bodies.
+
+Much of Gauss's time was spent on a new observatory, completed in 1816, but he still found the time to work on other subjects. His publications during this time include Disquisitiones generales circa seriem infinitam (General investigations of an infinite series), a rigorous treatment of series and an introduction of the hypergeometric function, Methodus nova integralium valores per approximationem inveniendi (On a new method for finding the values of integrals), a practical essay on approximate integration, Bestimmung der Genauigkeit der Beobachtungen (Determining the accuracy of the observations), a discussion of statistical estimators, and Theoria attractionis corporum sphaeroidicorum ellipticorum homogeneorum methodus nova tractata (Theory of a new method of attraction of the homogeneous parts of a elliptical spheroidal body). The latter work was inspired by geodesic problems and was principally concerned with potential theory. In fact, Gauss found himself more and more interested in geodesy in the 1820s.
+
+Gauss had been asked in 1818 to carry out a geodesic survey of the state of Hanover to link up with the existing Danish grid. Gauss was pleased to accept and took personal charge of the survey, making measurements during the day and reducing them at night, using his extraordinary mental capacity for calculations. He regularly wrote to Schumacher, Olbers and Bessel, reporting on his progress and discussing problems.
+
+Because of the survey, Gauss invented the heliotrope which worked by reflecting the Sun's rays using a design of mirrors and a small telescope. However, inaccurate base lines were used for the survey and an unsatisfactory network of triangles. Gauss often wondered if he would have been better advised to have pursued some other occupation but he published over 70 papers between 1820 and 1830.
+
+In 1822 Gauss won the Copenhagen University Prize with Theoria attractionis (Theory of attraction)... together with the idea of mapping one surface onto another so that the two are similar in their smallest parts. The paper Theoria combinationis observationum erroribus minimis obnoxiae (On the theory of errors in combinations of observations) (1823), with its supplement (1828), was devoted to mathematical statistics, in particular to the least squares method.
+
+From the early 1800s Gauss had an interest in the question of the possible existence of a non-Euclidean geometry. He discussed this topic at length with Farkas Bolyai and in his correspondence with Gerling and Schumacher. In a book review in 1816 he discussed proofs which deduced the axiom of parallels from the other Euclidean axioms, suggesting that he believed in the existence of non-Euclidean geometry, although he was rather vague.
+
+... the vain effort to conceal with an untenable tissue of pseudo proofs the gap which one cannot fill out.
+
+Gauss confided in Schumacher, telling him that he believed his reputation would suffer if he admitted in public that he believed in the existence of such a geometry.
+
+In 1831 Farkas Bolyai sent to Gauss his son János Bolyai's work on the subject. Gauss replied
+
+to praise it would mean to praise myself.
+
+Again, a decade later, when he was informed of Lobachevsky's work on the subject, he praised its "genuinely geometric" character, while in a letter to Schumacher in 1846, states that he had the same convictions for 54 years, indicating that he had known of the existence of a non-Euclidean geometry since he was 15 years of age.
+
+Gauss had a major interest in differential geometry, and published many papers on the subject. Disquisitiones generales circa superficies curva (General investigations of curved surfaces) (1828) was his most renowned work in this field. In fact, this paper rose from his geodesic interests, but it contained such geometrical ideas as Gaussian curvature. The paper also includes Gauss's famous theorema egregium (The important theorem):-
+
+If an area in R3 can be developed (i.e. mapped isometrically) into another area of R3, the values of the Gaussian curvatures are identical in corresponding points.
+
+The period 1817-1832 was a particularly distressing time for Gauss. He took in his sick mother in 1817, who stayed until her death in 1839, while he was arguing with his wife and her family about whether they should go to Berlin. He had been offered a position at Berlin University and Minna and her family were keen to move there. Gauss, however, never liked change and decided to stay in Göttingen.
+
+In 1831, Wilhelm Weber arrived in Göttingen as physics professor filling Tobias Mayer's chair. Gauss had known Weber since 1828 and supported his appointment. Gauss had worked on physics before 1831, publishing Über ein neues allgemeines Grundgesetz der Mechanik (On a new general fundamental law of mechanics), which contained the principle of least constraint, and Principia generalia theoriae figurae fluidorum in statu aequilibrii (General principles of the theory of the shape of fluids in a state of equilibrium) which discussed forces of attraction. These papers were based on Gauss's potential theory, which proved of great importance in his work on physics.
+
+In 1832, Gauss and Weber began investigating the theory of terrestrial magnetism after Alexander von Humboldt attempted to obtain Gauss's assistance in making a grid of magnetic observation points around the Earth. Gauss was excited by this prospect and by 1840 he had written three important papers on the subject: Intensitas vis magneticae terrestris ad mensuram absolutam revocata (Measurement of the absolute intensity of terrestrial magnetic force revisited) (1832), Allgemeine Theorie des Erdmagnetismus (General theory of geomagnetism) (1839) and Allgemeine Lehrsätze in Beziehung auf die im verkehrten Verhältnisse des Quadrats der Entfernung wirkenden Anziehungs- und Abstossungskräfte (General theorems in relation to the acting in perverse circumstances of the square of the distance of attraction and repulsion) (1840).
+
+Allgemeine Theorie (General Theory)... showed that there can only be two poles in the globe and went on to prove an important theorem, which concerned the determination of the intensity of the horizontal component of the magnetic force along with the angle of inclination. Gauss used the Laplace equation to aid him with his calculations, and ended up specifying a location for the magnetic South pole.
+
+Humboldt had devised a calendar for observations of magnetic declination. However, once Gauss's new magnetic observatory (completed in 1833 - free of all magnetic metals) had been built, he proceeded to alter many of Humboldt's procedures, not pleasing Humboldt greatly. However, Gauss's changes obtained more accurate results with less effort.
+
+Gauss and Weber achieved much in their six years together. They discovered Kirchhoff's laws, as well as building a primitive telegraph device which could send messages over a distance of 5000 ft. However, this was just an enjoyable pastime for Gauss. He was more interested in the task of establishing a world-wide net of magnetic observation points. This occupation produced many concrete results. The Magnetischer Verein (Magnetic Society) and its journal were founded, and the atlas of geomagnetism was published, while Gauss and Weber's own journal in which their results were published ran from 1836 to 1841.
+
+In 1837, Weber was forced to leave Göttingen when he became involved in a political dispute and, from this time, Gauss's activity gradually decreased. He still produced letters in response to fellow scientists' discoveries usually remarking that he had known the methods for years but had never felt the need to publish. Sometimes he seemed extremely pleased with advances made by other mathematicians, particularly that of Eisenstein and of Lobachevsky.
+
+Gauss spent the years from 1845 to 1851 updating the Göttingen University widow's fund. This work gave him practical experience in financial matters, and he went on to make his fortune through shrewd investments in bonds issued by private companies.
+
+Two of Gauss's last doctoral students were Moritz Cantor and Dedekind. Dedekind wrote a fine description of his supervisor:-
+
+... usually he sat in a comfortable attitude, looking down, slightly stooped, with hands folded above his lap. He spoke quite freely, very clearly, simply and plainly: but when he wanted to emphasise a new viewpoint ... then he lifted his head, turned to one of those sitting next to him, and gazed at him with his beautiful, penetrating blue eyes during the emphatic speech. ... If he proceeded from an explanation of principles to the development of mathematical formulas, then he got up, and in a stately very upright posture he wrote on a blackboard beside him in his peculiarly beautiful handwriting: he always succeeded through economy and deliberate arrangement in making do with a rather small space. For numerical examples, on whose careful completion he placed special value, he brought along the requisite data on little slips of paper.
+
+Gauss presented his golden jubilee lecture in 1849, fifty years after his diploma had been granted by Helmstedt University. It was appropriately a variation on his dissertation of 1799. From the mathematical community only Jacobi and Dirichlet were present, but Gauss received many messages and honours.
+
+From 1850 onwards Gauss's work was again nearly all of a practical nature although he did approve Riemann's doctoral thesis and heard his probationary lecture. His last known scientific exchange was with Gerling. He discussed a modified Foucault pendulum in 1854. He was also able to attend the opening of the new railway link between Hanover and Göttingen, but this proved to be his last outing. His health deteriorated slowly, and Gauss died in his sleep early in the morning of 23 February, 1855.
+# 高斯引语语料
+
+## 直接引语（按来源分类）
+
+### 来源1: MacTutor History of Mathematics
+
+**Gauss给Olbers的信（妻子去世后）:**
+"to gather new strength in the arms of your friendship - strength for a life which is only valuable because it belongs to my three small children."
+
+**Gauss评论Bolyai的非欧几里得几何工作:**
+"to praise it would mean to praise myself."
+
+**Gauss在1816年书评中论平行公设:**
+"the vain effort to conceal with an untenable tissue of pseudo proofs the gap which one cannot fill out."
+
+**Gauss向Schumacher吐露对非欧几何的看法:**
+Gauss confided in Schumacher, telling him that he believed his reputation would suffer if he admitted in public that he believed in the existence of such a geometry.
+
+**Gauss在1846年给Schumacher的信:**
+he had the same convictions for 54 years, indicating that he had known of the existence of a non-Euclidean geometry since he was 15 years of age.
+
+**Gauss论Lobachevsky的工作:**
+praised its "genuinely geometric" character.
+
+**Gauss评论Abel:**
+Abel had come one-third of the way.
+
+**Dedekind对Gauss的描述:**
+"... usually he sat in a comfortable attitude, looking down, slightly stooped, with hands folded above his lap. He spoke quite freely, very clearly, simply and plainly: but when he wanted to emphasise a new viewpoint ... then he lifted his head, turned to one of those sitting next to him, and gazed at him with his beautiful, penetrating blue eyes during the emphatic speech. ... If he proceeded from an explanation of principles to the development of mathematical formulas, then he got up, and in a stately very upright posture he wrote on a blackboard beside him in his peculiarly beautiful handwriting: he always succeeded through economy and deliberate arrangement in making do with a rather small space. For numerical examples, on whose careful completion he placed special value, he brought along the requisite data on little slips of paper."
+
+**Gauss论Ceres预测成功:**
+Although he did not disclose his methods at the time, Gauss had used his least squares approximation method.
+
+### 来源2: Britannica
+
+**Gauss自述（Disquisitiones Arithmeticae序言）:**
+高斯在《算术研究》序言中写道，他1795年开始研究此课题时并不知道该领域的最新发现独自进行了深入研究，其中最美丽的定理之一是关于-1是4n+1型数的二次剩余而是4n+3型数的非剩余的定理。
+
+**Gauss论自己的成就:**
+Gauss often withheld publication of his discoveries. He began to doubt the a priori truth of Euclidean geometry and suspected that its truth might be empirical.
+
+**Gauss论Lobachevsky:**
+Gauss taught himself enough Russian to follow the controversy and proposed Lobachevsky for the Göttingen Academy of Sciences.
+
+**Gauss论Bolyai的工作:**
+Gauss wrote a letter to Bolyai telling him that he had already discovered everything that Bolyai had just published.
+
+**Gauss的写作风格:**
+ contemporaries compared his writing style to thin gruel: it is clear and sets high standards for rigour, but it lacks motivation and can be slow and wearing to follow.
+
+### 来源3: Disquisitiones Arithmeticae原文（MacTutor）
+
+**Dedication to the Duke of Brunswick:**
+"I consider it my greatest good fortune that You allow me to adorn this work of mine with YOUR most honourable name. I offer it to you as a sacred token of my filial devotion. Were it not for YOUR favour, Most Serene Prince, I would not have had my first introduction to the sciences. Were it not for YOUR unceasing benefits in support of my studies, I would not have been able to devote myself totally to my passionate love, the study of mathematics."
+
+**Author's Preface:**
+"The inquiries which this volume will investigate pertain to that part of Mathematics which concerns itself with integers. I will rarely refer to fractions and never to surds."
+
+"The purpose of this volume whose publication I promised five years ago is to present my investigations into the field of Higher Arithmetic."
+
+"When I succeeded in this I was so attracted by these questions that I could not let them be. Thus as one result led to another I had completed most of what is presented in the first four sections of this work before I came into contact with similar works of other geometers."
+
+"In several difficult discussions I have used synthetic proofs and have suppressed the analysis which led to the results. This was necessitated by brevity, a consideration that must be consulted as much as possible."
+
+"The theory of the division of a circle or of a regular polygon treated in Section VII of itself does not pertain to Arithmetic but the principles involved depend uniquely on Higher Arithmetic."
+
+"My greatest hope is that it pleases those who have at heart the development of science and that it proposes solutions that they have been looking for or at least opens the way for new investigations."
+# 高斯后世评述语料
+
+## 来源1: MacTutor History of Mathematics
+
+**Gauss's legacy (MacTutor Conclusion):**
+After Gauss's death in 1855, the discovery of so many novel ideas among his unpublished papers extended his influence well into the remainder of the century. Acceptance of non-Euclidean geometry had not come with the original work of Bolyai and Lobachevsky, but it came instead with the almost simultaneous publication of Riemann's general ideas about geometry, the Italian Eugenio Beltrami's explicit and rigorous account of it, and Gauss's private notes and correspondence.
+
+**Gauss's contributions summary (Britannica):**
+Carl Friedrich Gauss was a German mathematician, generally regarded as one of the greatest mathematicians of all time for his contributions to number theory, geometry, probability theory, geodesy, planetary astronomy, the theory of functions, and potential theory (including electromagnetism).
+
+**Gauss's personality (Britannica):**
+Gauss was rare among mathematicians in that he was a calculating prodigy, and he retained the ability to do elaborate calculations in his head most of his life. He was a remote and aloof figure.
+
+**Gauss's teaching style (Dedekind's description):**
+[见引语部分 Dedekind的描述]
+
+**Gauss's writing style (Britannica):**
+contemporaries compared his writing style to thin gruel: it is clear and sets high standards for rigour, but it lacks motivation and can be slow and wearing to follow.
+
+**Gauss's publication habits (Britannica):**
+Gauss often withheld publication of his discoveries. He seemed extremely pleased with advances made by other mathematicians, particularly that of Eisenstein and of Lobachevsky.
+
+**Gauss and Lobachevsky (Britannica):**
+When Lobachevsky was attacked by other Russians for his ideas on non-Euclidean geometry, Gauss taught himself enough Russian to follow the controversy and proposed Lobachevsky for the Göttingen Academy of Sciences.
+
+**Gauss and Bolyai (Britannica):**
+Gauss wrote a letter to Bolyai telling him that he had already discovered everything that Bolyai had just published.
+
+**Gauss's comment on Abel:**
+Gauss commented to a friend that Abel had come one-third of the way (in the theory of elliptic functions).
+
+## 来源2: Britannica
+
+**Gauss's recognition:**
+Gauss's pioneering work gradually established him as the era's preeminent mathematician, first in the German-speaking world and then farther afield.
+
+**Gauss and the Duke of Brunswick:**
+Impressed by this ability and by his gift for languages, his teachers and his devoted mother recommended him to the duke of Brunswick in 1791, who granted him financial assistance to continue his education.
+
+**Gauss's work style (Britannica):**
+Gauss felt that the work [astronomy and surveying] was socially valuable. Similar motives led Gauss to accept the challenge of surveying the territory of Hanover.
+
+**Gauss's intrinsic curvature discovery:**
+Gauss showed that there is an intrinsic measure of curvature that is not altered if the surface is bent without being stretched.
+
+**Gauss's reluctance to publish:**
+Some have attributed this failure [not publishing his non-Euclidean geometry ideas] to his innate conservatism, others to his incessant inventiveness that always drew him on to the next new idea, still others to his failure to find a central idea that would govern geometry once Euclidean geometry was no longer unique.
+
+**Gauss's career at Göttingen:**
+The University of Göttingen was small, and he did not seek to enlarge it or to bring in extra students. Toward the end of his life, mathematicians of the calibre of Richard Dedekind and Riemann passed through Göttingen, and he was helpful.
+
+**Gauss's financial success:**
+Gauss spent the years from 1845 to 1851 updating the Göttingen University widow's fund. This work gave him practical experience in financial matters, and he went on to make his fortune through shrewd investments in bonds issued by private companies.
+
+## Disquisitiones Arithmeticae 原文评述
+
+**Preface评述:**
+The purpose of this volume is to present my investigations into the field of Higher Arithmetic. I was unaware of the more recent discoveries in the field and was without the means of discovering them. What happened was this. Engaged in other work I chanced on an extraordinary arithmetic truth... Since I considered it so beautiful in itself and since I suspected its connection with even more profound results, I concentrated on it all my efforts in order to understand the principles on which it depended and to obtain a rigorous proof. When I succeeded in this I was so attracted by these questions that I could not let them be.

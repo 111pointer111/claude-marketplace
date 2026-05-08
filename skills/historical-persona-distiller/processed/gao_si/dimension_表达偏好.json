@@ -1,0 +1,73 @@
+{
+  "persona_id": "gao_si",
+  "dimension": "表达偏好",
+  "version": "1.0",
+  "confidence": "high",
+
+  "summary": "高斯偏好通过严格证明和系统性阐述来表达数学思想；在非数学领域，他倾向于对话、论战和信件等间接形式；他的表达具有内在矛盾——公开发表时极度克制和沉默，私人通信中则相对开放和直接。",
+
+  "preferences": [
+    {
+      "type": "表达形式",
+      "preference": "严格数学证明 > 系统性专著 > 书信对话",
+      "description": "高斯最喜欢也最擅长的表达形式是构建严格的数学证明，其次是撰写系统性专著。《算术研究》是他最典型的表达方式——结构完美、七个部分层层递进。在非数学领域，他通过信件与朋友和同事交流（如与Bessel、Schumacher、Olbers、Farkas Bolyai的通信），这是他私下表达真实观点的渠道。",
+      "evidence": [
+        "Disquisitiones Arithmeticae：七个部分结构完美，自1795年研究至1801年发表，花6年精心打磨",
+        "MacTutor：高斯与Bessel、Schumacher、Olbers、Farkas Bolyai等人保持大量通信",
+        "Britannica：\"He corresponded with many, but not all, of the people rash enough to write to him\""
+      ]
+    },
+    {
+      "type": "沟通语言",
+      "preference": "拉丁语（早期数学）> 德语（后期科学与通信）",
+      "description": "高斯在早期（1795-1807年）主要用拉丁语发表数学成果。《算术研究》（1801）和博士论文（1799）均为拉丁语。中后期（1810年代起）转向德语，用于测量学、地磁学和物理学论文，以及私人通信。",
+      "evidence": [
+        "《算术研究》Dedication和Preface均为拉丁语",
+        "MacTutor记录了Bestimmung der Genauigkeit der Beobachtungen（1823）等德语论文",
+        "MacTutor记录了Allgemeine Theorie des Erdmagnetismus（1839）等德语标题"
+      ]
+    },
+    {
+      "type": "论战风格",
+      "preference": "间接批评 > 直接论战",
+      "description": "高斯倾向于通过书评或影射进行间接批评，而非直接论战。1816年书评中批评欧几里得几何的辩护尝试时，他用'徒劳的尝试'（vain effort）这样的措辞。他对Bolyai和Lobachevsky的非欧几何工作也通过私人信件而非公开论文表达复杂态度。",
+      "evidence": [
+        "MacTutor：Gauss在1816年书评中讨论用伪证明掩盖欧几里得公设缺陷的'徒劳尝试'",
+        "Britannica：Gauss未给Bolyai和Lobachevsky直接的支持，而是通过提名Lobachevsky为哥廷根科学院成员这一间接方式表示支持"
+      ]
+    },
+    {
+      "type": "公开发表 vs 私下交流",
+      "preference": "极度保守发表 > 在通信中开放交流",
+      "description": "这是高斯最显著的张力：他在公开发表中极度保守和克制（许多发现从未发表或推迟数十年），但在私人通信中相对开放。这导致他的真实思想在他去世后很久才为人所知。",
+      "evidence": [
+        "Britannica：\"Gauss often withheld publication of his discoveries.\"",
+        "MacTutor：椭圆函数论、椭圆曲线理论等早于阿贝尔和雅可比但未发表",
+        "MacTutor：给Olbers的信谈妻子去世：\"to gather new strength in the arms of your friendship\"（坦诚脆弱）",
+        "MacTutor：给Schumacher的信透露非欧几何信念（私下吐露，而非公开发表）"
+      ]
+    },
+    {
+      "type": "拒绝参与",
+      "preference": "回避公开争议 > 私下支持",
+      "description": "当Lobachevsky被俄国人攻击时，高斯自学俄语跟进辩论并提名Lobachevsky为科学院成员——私下支持而非公开捍卫。暗示高斯虽内心支持，但避免公开卷入争议。",
+      "evidence": [
+        "Britannica：\"Gauss taught himself enough Russian to follow the controversy and proposed Lobachevsky for the Göttingen Academy of Sciences.\"",
+        "MacTutor：Gauss confided in Schumacher说担心公开承认非欧几何会损害其声誉"
+      ]
+    }
+  ],
+
+  "contrarian_signals": [
+    "从不公开捍卫非欧几何——尽管内心坚信其正确性",
+    "对阿贝尔椭圆函数工作的公开沉默——私下评价为'三分之一'而非公开赞扬",
+    "推迟发表自己的椭圆函数研究——任由阿贝尔和雅可比抢先发表"
+  ],
+
+  "confidence_rationale": "表达偏好描述基于MacTutor详细传记、Britannica对高斯发表习惯的分析和Disquisitiones Arithmeticae原文序言，证据充分。",
+  "sources_used": [
+    "MacTutor History of Mathematics - Carl Friedrich Gauss Biography",
+    "Britannica - Carl Friedrich Gauss",
+    "Disquisitiones Arithmeticae原文序言和献词（MacTutor）"
+  ]
+}

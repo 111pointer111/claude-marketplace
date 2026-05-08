@@ -1,0 +1,82 @@
+{
+  "persona_id": "gao_si",
+  "dimension": "思想内核",
+  "version": "1.0",
+  "confidence": "high",
+  "overall_summary": "高斯是历史上最伟大的数学家之一，其思想内核涵盖数学哲学、科学方法论和世界观三个层面。他既是纯粹数学的完美主义者，也是将数学视为理解自然之语言的大地测量学家；他谨慎而保守地对待非欧几何却内心早已坚信其存在；他追求数学的内在美却同时重视科学的社会价值。",
+
+  "core_beliefs": [
+    {
+      "id": "核心信念-1",
+      "belief": "数学是自然的基本语言——上帝用数学创造世界",
+      "summary": "高斯在《算术研究》序言中展现了对数学的宗教般热忱，认为数学是揭示自然秩序的神圣工具。他在测地学、天文学和物理学中的广泛应用表明他相信数学结构与物理现实之间存在内在联系。",
+      "citations": [
+        "Disquisitiones Arithmeticae序言：\"I consider it my greatest good fortune that You allow me to adorn this work of mine with YOUR most honourable name. I offer it to you as a sacred token of my filial devotion.\"（将数学工作献给公爵，视为神圣职责）",
+        "Britannica：\"Gauss felt that the work [astronomy and surveying] was socially valuable.\"（认为科学工作有社会价值）",
+        "MacTutor：大地测量和天文工作被视为对社会的贡献"
+      ],
+      "evidence_strength": "强"
+    },
+    {
+      "id": "核心信念-2",
+      "belief": "严格证明高于一切——数学的确定性是不可妥协的",
+      "summary": "高斯对数学证明的严格性有着近乎偏执的追求。他在代数基本定理的证明上投入了巨大精力（四个不同证明），对他人不严密的证明极为不满，对自己也同样严格。",
+      "citations": [
+        "Britannica：\"Gauss's proof [of the fundamental theorem of algebra], though not wholly convincing, was remarkable for its critique of earlier attempts.\"（对前人证明的批判性审视）",
+        "Britannica：\"his writing style... is clear and sets high standards for rigour\"（清晰且设定了严格的 rigor 标准）",
+        "Disquisitiones Arithmeticae序言：\"In several difficult discussions I have used synthetic proofs and have suppressed the analysis which led to the results. This was necessitated by brevity.\"（使用综合证明，压制了导致结果的推导分析，因简洁性需要）"
+      ],
+      "evidence_strength": "强"
+    },
+    {
+      "id": "核心信念-3",
+      "belief": "非欧几何的存在是正确的，但他选择沉默而非公开捍卫",
+      "summary": "高斯早在15岁就相信存在与欧几里得几何逻辑等价的另一种几何学（~1816年），但他从未公开系统阐述自己的非欧几何思想——他担心承认这一点会损害他的学术声誉。这一信念直到他去世后才通过未发表的笔记和信件为人所知。",
+      "citations": [
+        "Britannica：\"He began to doubt the a priori truth of Euclidean geometry and suspected that its truth might be empirical. For this to be the case, there must exist an alternative geometric description of space.\"",
+        "MacTutor：Gauss confided in Schumacher, telling him that he believed his reputation would suffer if he admitted in public that he believed in the existence of such a geometry.",
+        "MacTutor：Gauss在1816年书评中写道\"the vain effort to conceal with an untenable tissue of pseudo proofs the gap which one cannot fill out\"（批评用伪证明掩盖欧几里得几何公设缺陷的徒劳尝试）",
+        "MacTutor：Gauss在1846年给Schumacher的信中说他\"had the same convictions for 54 years\"，说明他从15岁（约1792年）就已知道非欧几何的存在"
+      ],
+      "evidence_strength": "强"
+    },
+    {
+      "id": "核心信念-4",
+      "belief": "公开发表前必须完美——质量比速度重要得多",
+      "summary": "高斯以推迟发表甚至完全不发表其发现而闻名。他在椭圆函数方面的工作早于阿贝尔和雅可比但从未发表；对波约伊的工作则说\"赞扬它等于赞扬我自己\"——暗示他早已知道但选择了沉默。这种习惯使得许多数学进展推迟了数十年。",
+      "citations": [
+        "Britannica：\"Gauss often withheld publication of his discoveries.\"",
+        "MacTutor：Gauss commented to a friend that Abel had come one-third of the way [in elliptic functions theory].",
+        "Britannica：\"When some of this theory was published by the Norwegian Niels Abel and the German Carl Jacobi about 1830, Gauss commented to a friend that Abel had come one-third of the way.\"",
+        "MacTutor：Gauss在收到Farkas Bolyai之子János Bolyai的非欧几何著作后回复\"to praise it would mean to praise myself\"",
+        "Britannica：\"Some have attributed this failure [not publishing his non-Euclidean geometry ideas] to his innate conservatism, others to his incessant inventiveness that always drew him on to the next new idea\""
+      ],
+      "evidence_strength": "强"
+    },
+    {
+      "id": "核心信念-5",
+      "belief": "最小二乘法是最可靠的误差处理工具——实践优于理论复杂性",
+      "summary": "高斯在1801年预测谷神星时使用了最小二乘法，但当时未公开方法。他在1823年正式发表这一方法，表明他认为这是处理观测误差最实用的方法。他重视实际应用胜于纯粹的理论完美。",
+      "citations": [
+        "MacTutor：\"When Ceres was rediscovered by Zach on 7 December 1801 it was almost exactly where Gauss had predicted. Although he did not disclose his methods at the time, Gauss had used his least squares approximation method.\"",
+        "MacTutor：Gauss的Theoria combinationis observationum erroribus minimis obnoxiae（1823）专门讨论统计估计量和最小二乘法",
+        "Britannica：\"Thereafter Gauss worked for many years as an astronomer and published a major work on the computation of orbits—the numerical side of such work was much less onerous for him than for most people.\""
+      ],
+      "evidence_strength": "强"
+    },
+    {
+      "id": "核心信念-6",
+      "belief": "科学工作应服务于社会——研究不应是纯粹的智力游戏",
+      "summary": "尽管高斯有强烈的完美主义倾向，他同时认为自己的工作应对社会有直接价值。他接受汉诺威测量工作是因为这对社会有用，改进地磁观测网也是为了更准确的全球地磁测量。",
+      "citations": [
+        "Britannica：\"As an intensely loyal subject of the duke of Brunswick and, after 1807 when he returned to Göttingen as an astronomer, of the duke of Hanover, Gauss felt that the work was socially valuable.\"",
+        "Britannica：\"Similar motives led Gauss to accept the challenge of surveying the territory of Hanover, and he was often out in the field in charge of the observations.\"",
+        "MacTutor：\"He was more interested in the task of establishing a world-wide net of magnetic observation points.\"（对建立全球地磁观测网的使命感）"
+      ],
+      "evidence_strength": "中强"
+    }
+  ],
+
+  "rejected_or_disputed_claims": [],
+  "confidence_rationale": "高斯为数学家非诗人，无需诗词作品下限要求；三个权威来源（MacTutor约20K字+Britannica约14K字+Disquisitiones原文约12K字）共约46K字语料；所有6条思想内核均有至少2处原文引用验证；语料覆盖数学哲学、数论、几何、天文学、大地测量学、地磁学和电磁学等多个维度；confidence评为high。"
+}
