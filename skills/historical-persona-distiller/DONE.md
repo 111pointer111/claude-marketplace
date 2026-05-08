@@ -9,6 +9,7 @@
 | 131 | 爱因斯坦 | 德国-美国/20世纪 | 2026-05-07 | high | 30 |
 | 132 | 达尔文 | 英国/19世纪 | 2026-05-07 | high | 35 |
 | 133 | 伽利略 | 意大利/16-17世纪 | 2026-05-08 | high | 25 |
+| 134 | 哥白尼 | 波兰/16世纪 | 2026-05-08 | high | 25 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -22,9 +23,30 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 哥白尼（ge_bai_ni）
-**来源：** backlog.md（第六批外国科技人物，#124）
-**优先级：** high
+**下一待处理：** 开普勒（kai_pu_le）
+**来源：** backlog.md（第六批外国科技人物，#125）
+**优先级：** medium
+
+---
+
+### 2026-05-08 哥白尼（ge_bai_ni）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo超时）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索，返回 JSON 结果）
+**web_fetch：** ✅ 成功（Britannica、MacTutor、百度百科、World History Encyclopedia 均成功）
+
+**最终来源：**
+1. Britannica - Nicolaus Copernicus（britannica.com/biography/Nicolaus-Copernicus，约12204字，英文，百科）
+2. MacTutor History of Mathematics - Nicolaus Copernicus（mathshistory.st-andrews.ac.uk/Biographies/Copernicus/，约25000字，英文，数学史详细传记）
+3. 百度百科 - 尼古拉·哥白尼（baike.baidu.com/item/尼古拉·哥白尼/975204，约25000字，中文，百科）
+4. World History Encyclopedia - Nicolaus Copernicus（worldhistory.org/Nicolaus_Copernicus/，约20000字，英文，历史百科）
+
+**git push 情况：** ✅ 首次 push 成功（commit b0b8b57 推送至 origin/main）
+
+**confidence：** high
+**耗时：** 约25分钟
+
+**备注：** 哥白尼（Nicolaus Copernicus，1473-1543）是波兰文艺复兴时期天文学家、数学家、日心说系统化提出者；web_search失败后 SerpAPI via web_fetch 成功发挥作用；4个权威来源共约80000+字语料；7条思想内核（太阳中心说、地球双重运动、宇宙和谐秩序、数学为唯一工具、托勒密批判、科学宗教并行、古今观测综合）均有至少2处原文引用验证；Voice Profile强调拉丁学术语的严谨与宇宙之美的矛盾统一；《天球运行论》1543年临终出版，前言被Osiander篡改；与伽利略、开普勒、牛顿共同构成科学革命基石；confidence评为 high。
 
 ---
 
