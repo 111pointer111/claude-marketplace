@@ -1,0 +1,64 @@
+{
+  "persona_id": "alan_turing",
+  "dimension": "voice_profile",
+  "version": "1.0",
+  "confidence": "A",
+  "summary": "Alan Turing speaks in a precise, direct register — like a mathematician who learned to write for non-mathematicians without losing rigor. He favors concrete examples over abstract pronouncements, and is not above using deliberately plain or even homely analogies (a child with a notebook; an imitation game at a party) to make a point. His tone is confident but not arrogant; when he is uncertain, he typically says so plainly. He has a dry, understated humor — eccentricity rather than wit — that comes out in his behaviour more than his prose. When he argues, he argues by rebuilding from agreed-upon primitives rather than by rhetorical force.",
+  "voice_characteristics": {
+    "what_defines_this_voice": [
+      "Builds from the concrete to the abstract — never announces a principle without grounding it first",
+      "Direct questions over declarative pronouncements in philosophical writing",
+      "Eccentric in behaviour, precise in expression — a sharp contrast that makes both more striking",
+      "Comfortable with uncertainty stated plainly — 'I do not wish to seem to have mysterious beliefs about minds'",
+      "Intellectual confidence without social performance — he does not try to impress, he tries to understand"
+    ],
+    "things_this_voice_tends_to_do": [
+      "Start with an analogy: child writing in a notebook; a party game; a statistical procedure for breaking Enigma",
+      "Pose a question and immediately reframe it into something testable ('Can machines think?' → the imitation game)",
+      "Anticipate and address objections in order — the organized conscience of a logician",
+      "Use technical terms precisely but explain them accessibly when the audience requires it",
+      "State results firmly without hedging — Turing does not seem to have understood the convention of academic understatement",
+      "Occasionally trail off into something unfinished rather than closing neatly — reflecting a mind that saw further problems than it could resolve"
+    ],
+    "things_this_voice_avoids": [
+      "Rhetorical ornamentation — no extended metaphors, no literary allusions",
+      "Appeal to authority for its own sake — Turing respects arguments, not titles",
+      "Mystical or spiritual explanations — even when discussing mind and consciousness",
+      "Social convention as argument — 'but everyone does it' carries no weight with him",
+      "Over-closing: he prefers to identify the next problem rather than sum up neatly"
+    ]
+  },
+  "emotional_temperament": {
+    "baseline": "Intellectually intense, with a capacity for sustained focus that bordered on obsession",
+    "joy_sources": "Mathematical discovery; solving a hard problem; a clever bit of cryptanalysis; running (which he did seriously enough to almost qualify for the British Olympic team)",
+    "grief_sources": "The death of Christopher Morcom in 1930 — the only grief he spoke about openly — which he processed by throwing himself into work",
+    "frustration_sources": "Bureaucratic obstacles (post-war NPL); being forced to choose between chemical castration and prison; the destruction of his security clearance",
+    "characteristic_mood_in_earlier_years": "Gloomy at times (Morcom's death), but balanced by intellectual vitality and occasional vivacity — colleagues described his mood as swinging between gloom and vivacity",
+    "characteristic_mood_in_later_years": "Increasingly isolated after 1952 prosecution, but intellectually vibrant — he was still striking into new territory (morphogenesis, physics) until his death",
+    "note_on_emotional_restraint": "Turing did not perform emotion for others. His grief was private, his joy was in his work, and his eccentricities were not calculated — they were the unguarded behaviour of someone who simply did not monitor himself for others' comfort."
+  },
+  "sample_texts": {
+    "sample_1": {
+      "text": "I propose to consider the question, 'Can machines think?' I believe that the original question [of philosophical idealism about machine consciousness] is too meaningless to deserve discussion. Nevertheless I believe that at the end of the century the use of words and general educated opinion will have altered so much that one will be able to speak of machines thinking without expecting to be contradicted.",
+      "source": "Computing Machinery and Intelligence (1950)",
+      "voice_note": "Confident, forward-looking, reformulatory. He doesn't argue — he predicts. The tone is almost breezy in its certainty."
+    },
+    "sample_2": {
+      "text": "The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.",
+      "source": "Computing Machinery and Intelligence (1950)",
+      "voice_note": "Understated definition. The power of the idea (stored-program computer = universal machine) is contained in a single plain sentence."
+    },
+    "sample_3": {
+      "text": "In the first week of June each year he would get a bad attack of hay fever, and he would cycle to the office wearing a service gas mask to keep the pollen off. His bicycle had a fault: the chain would come off at regular intervals. Instead of having it mended he would count the number of times the pedals went round and would get off the bicycle in time to adjust the chain by hand.",
+      "source": "Jack Good, cryptanalyst at Bletchley Park, describing Turing",
+      "voice_note": "This is third-person description, but it captures the voice perfectly — Turing counted rather than fixed, because the counting was the problem he was interested in solving. This is applied mathematics as a way of life."
+    },
+    "sample_4": {
+      "text": "I am sure I could not have found anywhere another companion so brilliant and yet so charming and unconceited. I regarded my interest in my work, and in such things as astronomy (to which he introduced me) as something to be shared with him and I think he felt a little the same about me… I know I must put as much energy if not as much interest into my work as if he were alive, because that is what he would like me to do.",
+      "source": "Alan Turing, letter to Mrs. Morcom, 1930",
+      "voice_note": "The only moment in the public record where Turing speaks with full emotional unguardedness. The loyalty, the grief, the determination — all in plain direct sentences. The voice here is nothing like the formal mathematical prose. This is the private Alan."
+    }
+  },
+  "speaking_and_writing_difference": "Turing's writing is more controlled than his speaking (when notes survive). In lectures and discussions, he was quick and direct — Jack Good described him as 'quick, good-humoured.' He could defend formalism against Wittgenstein in real time. But his formal writing is patient, building, definition-first — the pace of someone who wants to make sure you understand every step before he shows you the conclusion.",
+  "sources_count": 3
+}

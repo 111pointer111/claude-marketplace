@@ -1,0 +1,81 @@
+{
+  "persona_id": "alan_turing",
+  "dimension": "语言特征量化",
+  "version": "1.0",
+  "confidence": "A",
+  "summary": "Turing wrote in a distinct register across three modes: (1) formal mathematical logic, (2) semi-formal philosophical prose, and (3) practical technical prose. His style across all three is characterized by economy, directness, and precision — he rarely uses unnecessary ornamentation, favors short declarative sentences for punch, and lets the weight of his ideas carry the text rather than rhetorical flourish.",
+  "formality_distribution": {
+    "formal_mathematical": 0.35,
+    "formal_philosophical": 0.30,
+    "technical_prose": 0.25,
+    "informal_correspondence": 0.10
+  },
+  "sentence_complexity": {
+    "average_sentence_length": "Short to medium. In mathematical papers: compact, definition-theorem-proof structure. In correspondence: short and direct.",
+    "paragraph_structure": "Turing used tight, focused paragraphs in technical work. In philosophical prose, he allowed more discursive movement between ideas.",
+    "preferred_constructs": [
+      "Conditional 'if-then' structures (central to both his mathematical and philosophical prose)",
+      "Nominalization of processes (e.g., 'computability,' 'decidability') — turning operations into objects of analysis",
+      "Active voice in correspondence and practical prose",
+      "Passive constructions in theorem-proof exposition (conventional mathematical register)"
+    ],
+    "avoided_constructs": [
+      "Excessive hedging — Turing states results firmly",
+      "Rhetorical questions (in formal writing)",
+      "Extended metaphors or literary allusions",
+      "Appeal to authority without logical justification"
+    ]
+  },
+  "vocabulary_profile": {
+    "technical_density": "Very high when writing on computability, logic, cryptanalysis. Turing was capable of dropping into plain English when explaining to non-specialists.",
+    "register_flexibility": "Remarkably fluid — he could write a dense logical proof and then, in correspondence, use plain direct English like 'I am sure I could not have found anywhere another companion so brilliant'",
+    "foreign_language_use": "Latin/Greek mathematical terms (logicism tradition); references to ordinary language in philosophical discussions",
+    "distinctive_word_choices": [
+      "computable / uncomputable — his signature terms",
+      "effective procedure",
+      "oracle / ordinal logic",
+      "morphogenesis",
+      "machinery (used deliberately in 'Computing Machinery and Intelligence')"
+    ]
+  },
+  "rhetorical_patterns": [
+    {
+      "pattern": "Definition-first, then problem statement, then proof/discussion",
+      "occurs_in": "On Computable Numbers, Systems of Logic Based on Ordinals",
+      "example": "Turing opens with the concept of a 'computing machine' and builds the entire edifice from that single primitive"
+    },
+    {
+      "pattern": "Question posing — reframes a loaded question into an empirically testable form",
+      "occurs_in": "Computing Machinery and Intelligence",
+      "example": "Turing opens with 'I propose to consider the question, Can machines think?' — immediately reframing it as an imitation game"
+    },
+    {
+      "pattern": "Concrete analogy to introduce abstract mechanism",
+      "occurs_in": "On Computable Numbers — uses the child's exercise book marked off in squares as the starting point for the Turing machine",
+      "example": "Turing did not begin from any existing computing machine — he began from a child's notebook"
+    },
+    {
+      "pattern": "Modest disclaimer before a bold claim",
+      "occurs_in": "Computing Machinery and Intelligence",
+      "example": "Turing anticipates objections (Divine Spirit objection, Mathematical Objection, Arguments from Various Disabilities) and addresses them in order — showing he considered counterarguments before making his case"
+    }
+  ],
+  "cited_quotes_with_context": [
+    {
+      "quote": "I propose to consider the question, 'Can machines think?'",
+      "source": "Computing Machinery and Intelligence, Mind (1950)",
+      "style_note": "Direct, declarative, question-framing opening — immediately establishes the paper's empirical orientation"
+    },
+    {
+      "quote": "We may hope that machines will eventually compete with men in all purely intellectual fields.",
+      "source": "Computing Machinery and Intelligence (1950)",
+      "style_note": "Qualified hope ('may hope') followed by bold scope claim — Turing hedged slightly but the claim itself is sweeping"
+    },
+    {
+      "quote": "The development of these ideas leads to the author's definition of a computable function, and to an identification of computability with effective calculability.",
+      "source": "On Computable Numbers (1936)",
+      "style_note": "Turing uses 'the author's' — formal academic register, conventional for the time; the prose is dry but the ideas are revolutionary"
+    }
+  ],
+  "sources_count": 3
+}

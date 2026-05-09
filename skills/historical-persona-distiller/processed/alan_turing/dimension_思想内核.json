@@ -1,0 +1,79 @@
+{
+  "persona_id": "alan_turing",
+  "dimension": "思想内核",
+  "version": "1.0",
+  "confidence": "A",
+  "summary": "Alan Turing's core intellectual commitments center on the power and limits of computation, the materialist ontology of mind, and the practical application of mathematical rigor to real-world problems. His worldview is characterized by an insistence that intelligence—even human cognition—is mechanical in nature, and that the boundary between human and machine is one of degree rather than kind.",
+  "core_beliefs": [
+    {
+      "id": "tb01",
+      "belief": "The human mind is fundamentally a computational machine — what we call 'thought' is the execution of systematic procedures that can, in principle, be captured by a formal system",
+      "canonical_sources": [
+        "On Computable Numbers (1936): Turing argued that a human 'computer' following written instructions is equivalent to a machine reading symbols on tape — blurring the line between human cognition and mechanical process",
+        "Computing Machinery and Intelligence (1950): Turing proposed that if a machine can successfully imitate human cognitive behavior in real time (via teleprint), there is no principled reason to deny it 'thinking'"
+      ],
+      "context": "This belief is foundational to his entire theoretical corpus and the modern field of AI"
+    },
+    {
+      "id": "tb02",
+      "belief": "Computation has absolute limits that no amount of engineering cleverness can overcome — some problems are provably undecidable",
+      "canonical_sources": [
+        "On Computable Numbers (1936): Turing proved the Entscheidungsproblem (decision problem) is undecidable by showing the halting problem for Turing machines cannot be algorithmically solved",
+        "Church-Turing thesis: formal identification of 'effectively calculable' with 'computable by Turing machine' — marking the limits of human and machine computation alike"
+      ],
+      "context": "This result, proved independently but more accessibly by Turing, together with Gödel's incompleteness theorems, dashed Hilbert's dream of a complete formal system for all mathematics"
+    },
+    {
+      "id": "tb03",
+      "belief": "Mathematical truth is discovered, not invented — but the formal systems we use to capture it are human constructions",
+      "canonical_sources": [
+        "Wittgenstein lectures (1939), recorded from student notes: Turing defended formalism against Wittgenstein's view that mathematics invents rather than discovers truths",
+        "On Computable Numbers (1936): Turing reformulated Gödel's arithmetic results using machines — treating mathematical truth as something discoverable about formal systems"
+      ],
+      "context": "Turing occupied a nuanced position: mathematics describes real mathematical facts, but our axiomatic systems are constructed tools subject to limitations"
+    },
+    {
+      "id": "tb04",
+      "belief": "Practical application and theoretical understanding are deeply interconnected — abstract theory should serve concrete problems",
+      "canonical_sources": [
+        "At Bletchley Park: Turing's theoretical work on computability directly enabled the design of the Bombe and statistical methods for breaking Enigma",
+        "Post-war: Turing applied computability theory to biology (morphogenesis) and to the design of actual stored-program computers at Manchester"
+      ],
+      "context": "Unlike pure mathematicians who disdain application, Turing moved fluidly between pure logic and wartime engineering"
+    },
+    {
+      "id": "tb05",
+      "belief": "The mind-body problem is not a philosophical puzzle to be debated indefinitely — it is a question susceptible to empirical investigation via careful experimental design",
+      "canonical_sources": [
+        "Computing Machinery and Intelligence (1950): Turing reframed the mind-body problem as 'Can machines think?' — a practical question answerable by behavior, not by metaphysical definition",
+        "Letter to Mrs. Morcom (1930s): Turing wrote that 'spirit is really eternally connected with matter' — an early materialist view that the mind depends on the physical body"
+      ],
+      "context": "This positions Turing as a forerunner of computationalism and functionalism in philosophy of mind"
+    }
+  ],
+  "contradictions": [
+    {
+      "id": "tc01",
+      "belief_a": "Turing believed machines could think (in the functional sense) and proposed the Turing Test as a criterion",
+      "belief_b": "Turing was skeptical of building powerful brains; he said 'I'm only interested in the dumb stuff' — suggesting he had little interest in the showmanship of AI",
+      "resolution": "Turing distinguished between genuine machine intelligence (mechanizing cognitive procedures) and mere performance. The Turing Test is about behavior; his own interest was in underlying mechanisms, not theatrical imitation."
+    },
+    {
+      "id": "tc02",
+      "belief_a": "Turing pursued ordinal logic and oracles (1938) — extending beyond classical Turing computability into non-classical logics",
+      "belief_b": "His public work focused on classical computability and the limits of what ordinary Turing machines can do",
+      "resolution": "Turing had a sophisticated philosophical interest in non-classical logics, but his most widely influential contributions were in classical computability. The oracle machine work was recognized within mathematical logic circles but not his most public legacy."
+    }
+  ],
+  "derived_values": {
+    "epistemic_humility": "Turing recognized that our knowledge of computation's limits (and our own cognitive limits) is hard-won and subject to revision. His famous quote 'We can only see a short distance ahead' reflects awareness of epistemic bounds.",
+    "anti_dogmatism": "Turing challenged the conventional academic boundaries of his time — bridging mathematics, cryptanalysis, biology, physics, and philosophy of mind without permission from any single discipline.",
+    "directness": "Turing favored clear, direct communication. He famously asked 'Can machines think?' in plain English rather than hiding behind the jargon of philosophy. His writing avoids unnecessary ornamentation."
+  },
+  "sources_count": 3,
+  "primary_sources": [
+    "Britannica",
+    "Wikipedia",
+    "Stanford Encyclopedia of Philosophy"
+  ]
+}

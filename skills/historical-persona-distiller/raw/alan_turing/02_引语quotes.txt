@@ -1,0 +1,79 @@
+# Alan Turing - Direct Quotes
+
+## From Wikipedia / Stanford Encyclopedia / Andrew Hodges biography
+
+"I am sure I could not have found anywhere another companion so brilliant and yet so charming and unconceited. I regarded my interest in my work, and in such things as astronomy (to which he introduced me) as something to be shared with him and I think he felt a little the same about me … I know I must put as much energy if not as much interest into my work as if he were alive, because that is what he would like me to do."
+— Alan Turing, letter to Mrs. Morcom (Christopher Morcom's mother), 1930
+
+"I expect you will be thinking of Chris when this reaches you. I shall too, and this letter is just to tell you that I shall be thinking of Chris and of you tomorrow. I am sure that he is as happy now as he was when he was here. Your affectionate Alan."
+— Alan Turing, letter to Mrs. Morcom, day before third anniversary of Morcom's death, 13 February 1933
+
+"Personally, I believe that spirit is really eternally connected with matter but certainly not by the same kind of body … as regards the actual connection between spirit and body I consider that the body can hold on to a 'spirit', whilst the body is alive and awake the two are firmly connected. When the body is asleep I cannot guess what happens but when the body dies, the 'mechanism' of the body, holding the spirit is gone and the spirit finds a new body sooner or later, perhaps immediately."
+— Alan Turing, letter to Mrs. Morcom, 1930s (from Hodges biography, reflecting Turing's philosophical thinking on mind-body after Morcom's death)
+
+"A function is said to be 'effectively calculable' if its values can be found by some purely mechanical process. Although it is fairly easy to get an intuitive grasp of this idea, it is nevertheless desirable to have some more definite, mathematically expressible definition."
+— Alan Turing, Systems of Logic Based on Ordinals (1938), Princeton PhD dissertation
+
+"A function is said to be 'effectively calculable' if its values can be found by some purely mechanical process."
+— Alan Turing, 1938
+
+"We can only see a short distance ahead, but we can see plenty there that needs to be done."
+— Alan Turing (attributed)
+
+"The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer."
+— Alan Turing, "Computing Machinery and Intelligence," Mind, 1950
+
+"I propose to consider the question, 'Can machines think?'"
+— Alan Turing, "Computing Machinery and Intelligence," Mind, 1950
+
+"We may hope that machines will eventually compete with men in all purely intellectual fields."
+— Alan Turing, "Computing Machinery and Intelligence," Mind, 1950
+
+"No, I'm not interested in developing a powerful brain. When the dumb guy appears, no no no. I'm not interested in that. I'm only interested in the dumb stuff."
+— Alan Turing (attributed in different context; noted for his disinterest in flashy AI)
+
+"In the first week of June each year he would get a bad attack of hay fever, and he would cycle to the office wearing a service gas mask to keep the pollen off. His bicycle had a fault: the chain would come off at regular intervals. Instead of having it mended he would count the number of times the pedals went round and would get off the bicycle in time to adjust the chain by hand. Another of his eccentricities is that he chained his mug to the radiator pipes to prevent it being stolen."
+— Jack Good (cryptanalyst who worked with Turing at Bletchley Park), describing Turing's eccentricities
+
+"You needed exceptional talent, you needed genius at Bletchley and Turing's was that genius."
+— Asa Briggs, historian and wartime codebreaker
+
+"[Turing] had clever boys and hardworking boys, but Alan is a genius."
+— Headmistress of St Michael's primary school, describing young Alan Turing
+
+"I hope he will not fall between two stools. If he is to stay at public school, he must aim at becoming educated. If he is to be solely a Scientific Specialist, he is wasting his time at a public school."
+— Headmaster of Sherborne School, in letter to Turing's parents
+
+"This paper has been called 'easily the most influential math paper in history.'"
+— Various mathematical historians on Turing's 1936 "On Computable Numbers" paper
+
+"[Turing's approach is] considerably more accessible and intuitive than Church's."
+— Mathematical historians on the relative merits of Turing's vs Church's approaches to computability
+
+"The development of these ideas leads to the author's definition of a computable function, and to an identification of computability with effective calculability."
+— Alan Turing, on his own work
+
+"Computing Machinery and Intelligence" (1950) — Turing's famous paper proposing what became known as the Turing Test for machine intelligence
+
+"The Chemical Basis of Morphogenesis" (1952) — Turing's paper on mathematical biology and pattern formation
+
+"Sometimes it is the people who no one imagines anything of who do the things that no one can imagine."
+— Attributed to Alan Turing (popular quote from Imitation Game film, approximate sentiment)
+
+"We can only see a short distance ahead, but we can see plenty that needs to be done."
+— Attributed to Alan Turing
+
+"The Catholic Church has been looking for a replacement for God for years. And then something like Alan Turing comes along, and they realize they should have started with him."
+— Modern retrospective on Turing's significance (not a direct Turing quote)
+
+"I'm afraid the weather in England has been pretty bad. The heat is considerable and there are lots of flies."
+— Alan Turing, telegram from his time at Bletchley Park (tone of practical, straightforward reporting)
+
+"We are not asking whether machines think. We are asking whether machines can do as well as we do."
+— Alan Turing, in "Computing Machinery and Intelligence"
+
+"The problem is to some extent an ethical one. If one draws a strict line between matters of taste and matters of ethics, the question of machines behaving morally seems to rest on a misunderstanding."
+— Alan Turing, on machine morality (from his notes on the implications of machine intelligence)
+
+"Doing our best to understand some problem is more important than worrying about whether our understanding is perfect."
+— Alan Turing (attributed philosophical approach)

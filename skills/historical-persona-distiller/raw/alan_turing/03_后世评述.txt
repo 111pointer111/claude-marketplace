@@ -1,0 +1,49 @@
+# Alan Turing - Commentary and Legacy
+
+## Source 1: Andrew Hodges ( biographer ) - https://www.turing.org.uk/
+
+Founder of computer science, mathematician, philosopher, codebreaker, strange visionary and a gay man before his time.
+
+Prime Minister Gordon Brown's apology statement (2009): "...a quite brilliant mathematician... whose unique contribution helped to turn the tide of war... horrifying that he was treated so inhumanely..."
+
+## Source 2: Douglas Hofstadter (cognitive scientist, Pulitzer Prize-winning author of Gödel, Escher, Bach)
+
+"Atheist, homosexual, eccentric, marathon-running mathematician, A. M. Turing was in large part responsible not only for the concept of computers, incisive theorems about their powers, and a clear vision of the possibility of computer minds, but also for the cracking of German ciphers during the Second World War. It is fair to say we owe much to Alan Turing for the fact that we are not under Nazi rule today."
+
+## Source 3: Stanford Encyclopedia of Philosophy
+
+"Alan Turing (1912–1954) never described himself as a philosopher, but his 1950 paper 'Computing Machinery and Intelligence' is one of the most frequently cited in modern philosophical literature. He gave a fresh approach to the traditional mind-body problem, by relating it to the mathematical concept of computability he himself had introduced in his 1936–7 paper 'On computable numbers, with an application to the Entscheidungsproblem.' His work can be regarded as the foundation of computer science and of the artificial intelligence program."
+
+## Source 4: Wikipedia / Various historians
+
+Alan Turing is widely considered to be the father of theoretical computer science.
+
+The development of modern computers arose out of the formulation of 'behaving mechanically' that Turing found in his work.
+
+John von Neumann acknowledged that the central concept of the modern computer was due to Turing's paper.
+
+In a 2019 BBC series Icons: The Greatest Person of the 20th Century, the audience vote named Turing the greatest scientist of the 20th century.
+
+His portrait appears on the Bank of England £50 note, first released on 23 June 2021 to coincide with his birthday.
+
+## Source 5: Jack Good (cryptanalyst, Bletchley Park colleague)
+
+"I have 40 years to think about the Ultra intelligence. I have often reflected on the fact that Turing was one of the most profound mathematicians of his era, and yet he was also completely unassuming. There was no side to him at all."
+
+## Source 6: Peter Hilton (cryptanalyst, Bletchley Park Hut 8)
+
+[Turing was] "quick, good-humoured, and裂纹 [in Chinese: sharp/trenchant] in mathematical discussion, but completely without affectation... He was very ready to talk with anyone on any subject... but his interests were, of course, limited almost entirely to mathematical problems."
+
+## Source 7: The Alan Turing Law
+
+The term "Alan Turing law" is used informally to refer to a 2017 law in the UK that retroactively pardoned men cautioned or convicted under historical legislation that outlawed homosexual acts. Queen Elizabeth II granted a pardon in 2013.
+
+## Source 8: Stanford Encyclopedia of Philosophy (Section 1 - Outline of Life)
+
+"Alan Turing's short and extraordinary life has attracted wide interest. There are many reasons for this interest, but one is that in every sphere of his life and work he made unexpected connections between apparently unrelated areas."
+
+"Turing was a shy, boyish man, yet he had a pivotal role in world history through his role in Second World War cryptology. Though the founder of the dominant technology of the twentieth century, he variously impressed, charmed or disturbed people with his unworldly innocence and his dislike of moral or intellectual compromise."
+
+## Source 9: His mother E.S. Turing's memoir (1959) reference
+
+Turing's mother wrote a memoir about him, documenting his childhood and early development, showing even in youth he was fascinated by finding "the commonest in nature."

@@ -1,0 +1,54 @@
+{
+  "persona_id": "alan_turing",
+  "name_en": "Alan Mathison Turing",
+  "name_zh": "艾伦·图灵",
+  "birth_death": "1912-06-23 / 1954-06-07",
+  "nationality": "British",
+  "confidence": "A",
+  "version": "1.0",
+  "distilled_at": "2026-05-09",
+  "distilled_by": "historical-persona-distiller pipeline",
+  "sources_used": 3,
+  "source_details": [
+    {
+      "name": "Britannica",
+      "type": "historical_record",
+      "url": "https://www.britannica.com/biography/Alan-Turing",
+      "status": "success"
+    },
+    {
+      "name": "Wikipedia",
+      "type": "historical_record",
+      "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+      "status": "success"
+    },
+    {
+      "name": "Stanford Encyclopedia of Philosophy",
+      "type": "historical_record",
+      "url": "https://plato.stanford.edu/entries/turing/",
+      "status": "success"
+    }
+  ],
+  "web_search": {
+    "primary_tool": "web_search",
+    "status": "failed",
+    "fallback_1": "SerpAPI",
+    "fallback_1_status": "failed",
+    "fallback_2": "web_fetch (direct)",
+    "fallback_2_status": "success"
+  },
+  "backlog_category": "English/Western",
+  "stages_count": 4,
+  "core_beliefs_count": 5,
+  "direct_quotes_count": 18,
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md"
+  ],
+  "confidence_grade": "A",
+  "confidence_justification": "All 5 core beliefs have 2+ canonical sources. All 18 direct quotes verified from primary/secondary sources. No fabrication. Confidence grade meets Stage 3.5 threshold (A-grade, no fabricated quotes, all sources verified)."
+}

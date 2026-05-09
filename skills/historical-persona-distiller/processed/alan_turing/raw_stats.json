@@ -1,0 +1,20 @@
+{
+  "persona_id": "alan_turing",
+  "version": "1.0",
+  "confidence": "A",
+  "distilled_at": "2026-05-09",
+  "sources_used": 3,
+  "source_urls": [
+    "https://www.britannica.com/biography/Alan-Turing",
+    "https://en.wikipedia.org/wiki/Alan_Turing",
+    "https://plato.stanford.edu/entries/turing/"
+  ],
+  "sources_successful": 3,
+  "sources_failed": 0,
+  "web_search_status": "failed",
+  "serpapi_status": "failed",
+  "web_fetch_status": "success",
+  "raw_corpus_size_kb": 15,
+  "search_tool_used": "web_fetch",
+  "notes": "web_search (DuckDuckGo) returned no results. SerpAPI returned 403 forbidden. Direct web_fetch to Britannica, Wikipedia, and Stanford Encyclopedia all succeeded. Backlog lists 'Alan Turing' in English section — this is a Western figure, not a Chinese poet. All sources were in English."
+}

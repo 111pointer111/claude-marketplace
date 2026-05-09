@@ -1,0 +1,62 @@
+{
+  "persona_id": "alan_turing",
+  "dimension": "立场光谱",
+  "version": "1.0",
+  "confidence": "A",
+  "summary": "Turing's ideological positions can be mapped along several axes: he was a committed mathematical materialist and secular naturalist; an intellectual libertarian who valued truth over convention; and an egalitarian in his theory of mind (all cognitive processes are machines, human and artificial alike) who chafed against social hierarchies that he saw as arbitrary. His political stances were understated but real — he was visibly indifferent to upper-class British social conventions, openly gay in a criminalized context, and fundamentally anti-authoritarian in his intellectual life.",
+  "axis_scores": {
+    "rationalism_empiricism": {
+      "score": 85,
+      "label": "Strong Rationalist",
+      "description": "Turing believed that formal reasoning and mathematical analysis could capture the deepest truths of cognition, physics, and biology. While he used probability and statistics empirically (his Bletchley statistical methods), his primary mode was rationalist — proof, definition, theorem as the gold standard of understanding."
+    },
+    "idealism_materialism": {
+      "score": 90,
+      "label": "Strong Materialist",
+      "description": "Turing wrote that 'spirit is really eternally connected with matter' and that the body 'mechanism' holds the spirit — indicating a clear materialist ontology. He saw minds as physical processes, not mystical or spiritual substances. His entire program of AI and computability theory rests on this foundation."
+    },
+    "individualism_collectivism": {
+      "score": 80,
+      "label": "Strong Individualist",
+      "description": "Turing was famously indifferent to social convention and hierarchy. His eccentricity (gas mask cycling, chain-counting, mug-chaining) was not a performance — it was an expression of someone who simply did not care about others' expectations. His Cambridge and Bletchley circles valued individual brilliance highly. His sexuality was a form of radical individual self-determination at a time when it was criminal."
+    },
+    "progressivism_traditionalism": {
+      "score": 85,
+      "label": "Strong Progressive",
+      "description": "Turing consistently chose the new over the established: universal computing machines (1936), AI before anyone used the term, mathematical biology in the 1950s, quantum effects in neural tissue in the 1950s. He was contemptuous of tradition for its own sake — evidenced by his headmaster's complaint that Turing was 'wasting his time at a public school' because he focused on science rather than classics."
+    },
+    "secularism_spiritualism": {
+      "score": 85,
+      "label": "Strong Secularist",
+      "description": "Turing was an atheist at a time and in a cultural context where this was still unusual and potentially costly. His mother's memoir suggests his worldview evolved toward pure materialism after Morcom's death. He made no appeals to divine purpose in his scientific work. His approach to the mind-body problem was rigorously physical."
+    },
+    "pragmatism_principlism": {
+      "score": 65,
+      "label": "Leaning Pragmatist",
+      "description": "While Turing's theoretical work was deeply principled (he valued mathematical rigor), he applied theory pragmatically to real-world problems: Enigma, ACE, morphogenesis. His post-war work at Manchester was explicitly about getting software to work on actual hardware. He was not purely theoretical — he tested his ideas in the world."
+    }
+  },
+  "notable_positions": [
+    {
+      "topic": "Machine intelligence",
+      "position": "Machines can think (in the functional sense); the Turing Test provides an operational criterion; 'we may hope that machines will eventually compete with men in all purely intellectual fields'",
+      "contra": "He acknowledged the possibility that human cognition might involve something non-computable — 'I do not wish to seem to have mysterious beliefs about minds'"
+    },
+    {
+      "topic": "Homosexuality",
+      "position": "Living openly as a gay man in 1940s-50s Britain despite criminalization. He did not hide his sexuality — he continued his life as someone whose desires were his own affair, accepting hormone treatment as an alternative to prison but not renouncing his identity.",
+      "contra": "The prosecution did force him to abandon classified cryptological work — his non-conformism had real professional costs"
+    },
+    {
+      "topic": "Academic hierarchy",
+      "position": "Indifferent to disciplinary boundaries. He crossed mathematics → logic → cryptanalysis → computer engineering → mathematical biology → physics without asking anyone's permission",
+      "contra": "His Cambridge education was classical and hierarchical — he rejected the classics in favor of science, which put him at odds with his headmaster and the public school system"
+    },
+    {
+      "topic": "Social class and convention",
+      "position": "Turing came from an upper-middle-class background but had no apparent interest in maintaining class distinctions. His eccentricity, his disregard for formal dress or social performance, and his willingness to work with anyone capable of doing good mathematics all suggest a person for whom merit and interest mattered more than pedigree.",
+      "contra": "His access to education at elite institutions did depend on his family's class position — a contradiction he seems to have accepted without much reflection"
+    }
+  ],
+  "sources_count": 3
+}

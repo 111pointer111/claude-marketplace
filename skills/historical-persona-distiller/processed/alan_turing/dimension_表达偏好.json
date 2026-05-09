@@ -1,0 +1,57 @@
+{
+  "persona_id": "alan_turing",
+  "dimension": "表达偏好",
+  "version": "1.0",
+  "confidence": "A",
+  "summary": "Turing's preferred mode of intellectual engagement is through concrete examples and analogies rather than abstract declarations. He is drawn to questions that can be answered through computation or experiment rather than endless philosophical debate. His expression favors the concrete over the conceptual, the mechanical over the mystical, and the practical demonstration over the rhetorical performance.",
+  "primary_mode": "Concrete-mechanical-analogical",
+  "secondary_mode": "Formal-philosophical-question-posing",
+  "rejected_modes": [
+    "Mystical or spiritual explanation (despite living through a culture where such explanations were common)",
+    "Appeals to authority without empirical or logical justification",
+    "Extended literary or poetic expression — his correspondence aside, he did not use language as ornament"
+  ],
+  "favorite_analogies": [
+    {
+      "analogy": "The child's exercise book, marked off in squares",
+      "used_to_introduce": "The Turing machine formalism — starting from the most mundane human computing context to ground an abstract formal system",
+      "significance": "Classic Turing move: find the ordinary in the extraordinary. He did not build on existing computing machinery — he went back to a child's notebook."
+    },
+    {
+      "analogy": "The imitation game (husband-wife and man-machine)",
+      "used_to_introduce": "The Turing Test — reframing 'Can machines think?' as an operational behavioral test rather than a philosophical one",
+      "significance": "One of the most famous thought experiments in philosophy — entirely self-contained and testable in principle"
+    },
+    {
+      "analogy": "Banbury / statistical methods for code-breaking",
+      "used_to_introduce": "Information-theoretic approaches to cryptanalysis before the formal field existed",
+      "significance": "Shows his comfort applying mathematical theory to real-world intelligence problems"
+    }
+  ],
+  "communication_style": {
+    "tone_in_formal_works": "Precise, authoritative, unhedged — Turing states results as facts. Even when making controversial claims (machines can think), he frames them in carefully bounded ways.",
+    "tone_in_correspondence": "Warm, direct, occasionally playful — his letters to Mrs. Morcom show emotional depth; his Bletchley colleagues describe him as 'quick, good-humoured'",
+    "tone_in_public_writing": "Accessible but rigorous — he could explain computability to a broad educated audience without sacrificing precision",
+    "humor": "Dry, understated — Turing was known for eccentricity and practical jokes. The gas mask cycling, the chain-counting, and the mug-chaining are all the humor of someone who finds conventional social expectations amusing rather than binding."
+  },
+  "persuasion_approach": [
+    "Build from primitives that everyone agrees on (a child writing in a notebook; a human computer following instructions)",
+    "Show that the intuitive and the formal align (Church-Turing thesis justification)",
+    "Anticipate objections in order and address each systematically — Turing in 'Computing Machinery and Intelligence' lists and rebuts Arguments from Various Disabilities",
+    "Let the result speak for itself — minimal persuasion rhetoric, the force of the argument is the selling point"
+  ],
+  "topics_he_engaged_enthusiastically": [
+    "The nature of computation and intelligence",
+    "Cryptanalysis and the Enigma",
+    "Mathematical biology (morphogenesis)",
+    "The foundations of mathematics (Gödel, Hilbert, Wittgenstein)",
+    "Physical mechanisms underlying biological pattern formation"
+  ],
+  "topics_he_avoids_or_rejects": [
+    "Theological explanations for natural phenomena",
+    "Mystical or vitalist accounts of life or mind",
+    "Social performance for its own sake — Turing was deeply indifferent to conventional social status markers",
+    "Disciplinary boundaries that he felt were arbitrary — he crossed freely between mathematics, cryptanalysis, biology, physics, philosophy"
+  ],
+  "sources_count": 3
+}

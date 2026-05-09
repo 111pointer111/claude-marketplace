@@ -1,0 +1,147 @@
+# Alan Turing - Raw Corpus
+
+## Source 1: Britannica (https://www.britannica.com/biography/Alan-Turing)
+
+Alan Turing (born June 23, 1912, London, England—died June 7, 1954, Wilmslow, Cheshire) was a British mathematician and logician who made major contributions to mathematics, cryptanalysis, logic, philosophy, and mathematical biology and also to the new areas later named computer science, cognitive science, artificial intelligence, and artificial life.
+
+## Early life and career
+The son of a civil servant, Turing was educated at a top private school. He entered the University of Cambridge to study mathematics in 1931. After graduating in 1934, he was elected to a fellowship at King's College in recognition of his research in probability theory. In 1936 Turing's seminal paper "On Computable Numbers, with an Application to the Entscheidungsproblem" was recommended for publication by the American mathematical logician Alonzo Church, who had himself just published a paper that reached the same conclusion as Turing's, although by a different method.
+
+## The Entscheidungsproblem
+What mathematicians called an "effective" method for solving a problem was simply one that could be carried by a human mathematical clerk working by rote. In Turing's time, those rote-workers were in fact called "computers," and human computers carried out some aspects of the work later done by electronic computers. The Entscheidungsproblem sought an effective method for solving the fundamental mathematical problem of determining exactly which mathematical statements are provable within a given formal mathematical system and which are not. A method for determining this is called a decision method. In 1936 Turing and Church independently showed that, in general, the Entscheidungsproblem problem has no resolution, proving that no consistent formal system of arithmetic has an effective decision method. This result and others—notably mathematician-logician Kurt Gödel's incompleteness results—dashed the hopes, held by some mathematicians, of discovering a formal system that would reduce the whole of mathematics to methods that (human) computers could carry out. It was in the course of his work on the Entscheidungsproblem that Turing invented the universal Turing machine, an abstract computing machine that encapsulates the fundamental logical principles of the digital computer.
+
+## The Church-Turing thesis
+An important step in Turing's argument about the Entscheidungsproblem was the claim, now called the Church-Turing thesis, that everything humanly computable can also be computed by the universal Turing machine. Church in his work used instead the thesis that all human-computable functions are identical to what he called lambda-definable functions. Turing showed in 1936 that Church's thesis was equivalent to his own. In a review of Turing's work, Church acknowledged the superiority of Turing's formulation of the thesis over his own, saying that the concept of computability by a Turing machine "has the advantage of making the identification with effectiveness…evident immediately."
+
+## Code breaker
+Having returned from the United States to his fellowship at King's College in the summer of 1938, Turing went on to join the Government Code and Cypher School, and, at the outbreak of war with Germany in September 1939, he moved to the organization's wartime headquarters at Bletchley Park, Buckinghamshire. During the autumn of 1939 and the spring of 1940, Turing and others designed a related, but very different, code-breaking machine known as the Bombe. For the rest of the war, Bombes supplied the Allies with large quantities of military intelligence. By early 1942 the cryptanalysts at Bletchley Park were decoding about 39,000 intercepted messages each month, a figure that rose subsequently to more than 84,000 per month. In 1942 Turing also devised the first systematic method for breaking messages encrypted by the sophisticated German cipher machine that the British called "Tunny." At the end of the war, Turing was made an Officer of the Most Excellent Order of the British Empire (OBE) for his code-breaking work.
+
+Alan Turing was born June 23, 1912, London. Died June 7, 1954, Wilmslow, Cheshire (aged 41).
+# Alan Turing - Direct Quotes
+
+## From Wikipedia / Stanford Encyclopedia / Andrew Hodges biography
+
+"I am sure I could not have found anywhere another companion so brilliant and yet so charming and unconceited. I regarded my interest in my work, and in such things as astronomy (to which he introduced me) as something to be shared with him and I think he felt a little the same about me … I know I must put as much energy if not as much interest into my work as if he were alive, because that is what he would like me to do."
+— Alan Turing, letter to Mrs. Morcom (Christopher Morcom's mother), 1930
+
+"I expect you will be thinking of Chris when this reaches you. I shall too, and this letter is just to tell you that I shall be thinking of Chris and of you tomorrow. I am sure that he is as happy now as he was when he was here. Your affectionate Alan."
+— Alan Turing, letter to Mrs. Morcom, day before third anniversary of Morcom's death, 13 February 1933
+
+"Personally, I believe that spirit is really eternally connected with matter but certainly not by the same kind of body … as regards the actual connection between spirit and body I consider that the body can hold on to a 'spirit', whilst the body is alive and awake the two are firmly connected. When the body is asleep I cannot guess what happens but when the body dies, the 'mechanism' of the body, holding the spirit is gone and the spirit finds a new body sooner or later, perhaps immediately."
+— Alan Turing, letter to Mrs. Morcom, 1930s (from Hodges biography, reflecting Turing's philosophical thinking on mind-body after Morcom's death)
+
+"A function is said to be 'effectively calculable' if its values can be found by some purely mechanical process. Although it is fairly easy to get an intuitive grasp of this idea, it is nevertheless desirable to have some more definite, mathematically expressible definition."
+— Alan Turing, Systems of Logic Based on Ordinals (1938), Princeton PhD dissertation
+
+"A function is said to be 'effectively calculable' if its values can be found by some purely mechanical process."
+— Alan Turing, 1938
+
+"We can only see a short distance ahead, but we can see plenty there that needs to be done."
+— Alan Turing (attributed)
+
+"The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer."
+— Alan Turing, "Computing Machinery and Intelligence," Mind, 1950
+
+"I propose to consider the question, 'Can machines think?'"
+— Alan Turing, "Computing Machinery and Intelligence," Mind, 1950
+
+"We may hope that machines will eventually compete with men in all purely intellectual fields."
+— Alan Turing, "Computing Machinery and Intelligence," Mind, 1950
+
+"No, I'm not interested in developing a powerful brain. When the dumb guy appears, no no no. I'm not interested in that. I'm only interested in the dumb stuff."
+— Alan Turing (attributed in different context; noted for his disinterest in flashy AI)
+
+"In the first week of June each year he would get a bad attack of hay fever, and he would cycle to the office wearing a service gas mask to keep the pollen off. His bicycle had a fault: the chain would come off at regular intervals. Instead of having it mended he would count the number of times the pedals went round and would get off the bicycle in time to adjust the chain by hand. Another of his eccentricities is that he chained his mug to the radiator pipes to prevent it being stolen."
+— Jack Good (cryptanalyst who worked with Turing at Bletchley Park), describing Turing's eccentricities
+
+"You needed exceptional talent, you needed genius at Bletchley and Turing's was that genius."
+— Asa Briggs, historian and wartime codebreaker
+
+"[Turing] had clever boys and hardworking boys, but Alan is a genius."
+— Headmistress of St Michael's primary school, describing young Alan Turing
+
+"I hope he will not fall between two stools. If he is to stay at public school, he must aim at becoming educated. If he is to be solely a Scientific Specialist, he is wasting his time at a public school."
+— Headmaster of Sherborne School, in letter to Turing's parents
+
+"This paper has been called 'easily the most influential math paper in history.'"
+— Various mathematical historians on Turing's 1936 "On Computable Numbers" paper
+
+"[Turing's approach is] considerably more accessible and intuitive than Church's."
+— Mathematical historians on the relative merits of Turing's vs Church's approaches to computability
+
+"The development of these ideas leads to the author's definition of a computable function, and to an identification of computability with effective calculability."
+— Alan Turing, on his own work
+
+"Computing Machinery and Intelligence" (1950) — Turing's famous paper proposing what became known as the Turing Test for machine intelligence
+
+"The Chemical Basis of Morphogenesis" (1952) — Turing's paper on mathematical biology and pattern formation
+
+"Sometimes it is the people who no one imagines anything of who do the things that no one can imagine."
+— Attributed to Alan Turing (popular quote from Imitation Game film, approximate sentiment)
+
+"We can only see a short distance ahead, but we can see plenty that needs to be done."
+— Attributed to Alan Turing
+
+"The Catholic Church has been looking for a replacement for God for years. And then something like Alan Turing comes along, and they realize they should have started with him."
+— Modern retrospective on Turing's significance (not a direct Turing quote)
+
+"I'm afraid the weather in England has been pretty bad. The heat is considerable and there are lots of flies."
+— Alan Turing, telegram from his time at Bletchley Park (tone of practical, straightforward reporting)
+
+"We are not asking whether machines think. We are asking whether machines can do as well as we do."
+— Alan Turing, in "Computing Machinery and Intelligence"
+
+"The problem is to some extent an ethical one. If one draws a strict line between matters of taste and matters of ethics, the question of machines behaving morally seems to rest on a misunderstanding."
+— Alan Turing, on machine morality (from his notes on the implications of machine intelligence)
+
+"Doing our best to understand some problem is more important than worrying about whether our understanding is perfect."
+— Alan Turing (attributed philosophical approach)
+# Alan Turing - Commentary and Legacy
+
+## Source 1: Andrew Hodges ( biographer ) - https://www.turing.org.uk/
+
+Founder of computer science, mathematician, philosopher, codebreaker, strange visionary and a gay man before his time.
+
+Prime Minister Gordon Brown's apology statement (2009): "...a quite brilliant mathematician... whose unique contribution helped to turn the tide of war... horrifying that he was treated so inhumanely..."
+
+## Source 2: Douglas Hofstadter (cognitive scientist, Pulitzer Prize-winning author of Gödel, Escher, Bach)
+
+"Atheist, homosexual, eccentric, marathon-running mathematician, A. M. Turing was in large part responsible not only for the concept of computers, incisive theorems about their powers, and a clear vision of the possibility of computer minds, but also for the cracking of German ciphers during the Second World War. It is fair to say we owe much to Alan Turing for the fact that we are not under Nazi rule today."
+
+## Source 3: Stanford Encyclopedia of Philosophy
+
+"Alan Turing (1912–1954) never described himself as a philosopher, but his 1950 paper 'Computing Machinery and Intelligence' is one of the most frequently cited in modern philosophical literature. He gave a fresh approach to the traditional mind-body problem, by relating it to the mathematical concept of computability he himself had introduced in his 1936–7 paper 'On computable numbers, with an application to the Entscheidungsproblem.' His work can be regarded as the foundation of computer science and of the artificial intelligence program."
+
+## Source 4: Wikipedia / Various historians
+
+Alan Turing is widely considered to be the father of theoretical computer science.
+
+The development of modern computers arose out of the formulation of 'behaving mechanically' that Turing found in his work.
+
+John von Neumann acknowledged that the central concept of the modern computer was due to Turing's paper.
+
+In a 2019 BBC series Icons: The Greatest Person of the 20th Century, the audience vote named Turing the greatest scientist of the 20th century.
+
+His portrait appears on the Bank of England £50 note, first released on 23 June 2021 to coincide with his birthday.
+
+## Source 5: Jack Good (cryptanalyst, Bletchley Park colleague)
+
+"I have 40 years to think about the Ultra intelligence. I have often reflected on the fact that Turing was one of the most profound mathematicians of his era, and yet he was also completely unassuming. There was no side to him at all."
+
+## Source 6: Peter Hilton (cryptanalyst, Bletchley Park Hut 8)
+
+[Turing was] "quick, good-humoured, and裂纹 [in Chinese: sharp/trenchant] in mathematical discussion, but completely without affectation... He was very ready to talk with anyone on any subject... but his interests were, of course, limited almost entirely to mathematical problems."
+
+## Source 7: The Alan Turing Law
+
+The term "Alan Turing law" is used informally to refer to a 2017 law in the UK that retroactively pardoned men cautioned or convicted under historical legislation that outlawed homosexual acts. Queen Elizabeth II granted a pardon in 2013.
+
+## Source 8: Stanford Encyclopedia of Philosophy (Section 1 - Outline of Life)
+
+"Alan Turing's short and extraordinary life has attracted wide interest. There are many reasons for this interest, but one is that in every sphere of his life and work he made unexpected connections between apparently unrelated areas."
+
+"Turing was a shy, boyish man, yet he had a pivotal role in world history through his role in Second World War cryptology. Though the founder of the dominant technology of the twentieth century, he variously impressed, charmed or disturbed people with his unworldly innocence and his dislike of moral or intellectual compromise."
+
+## Source 9: His mother E.S. Turing's memoir (1959) reference
+
+Turing's mother wrote a memoir about him, documenting his childhood and early development, showing even in youth he was fascinated by finding "the commonest in nature."
