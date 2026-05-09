@@ -19,6 +19,7 @@
 142 | 居里夫人 | 法国-波兰/19-20世纪 | 2026-05-09 | high | 20 |
 | 143 | 拉马努金 | 印度-英国/20世纪 | 2026-05-09 | medium | 25 |
 | 144 | 拉瓦锡 | 法国/18世纪 | 2026-05-09 | high | 25 |
+145 | 门捷列夫 | 俄国/19世纪 | 2026-05-10 | high | 15 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -32,9 +33,30 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 门捷列夫（men_jie_lie_fu）
-**来源：** backlog.md（第九批，#131）
+**下一待处理：** 孟德尔（meng_de_er）
+**来源：** backlog.md（第九批，#133）
 **优先级：** medium
+
+---
+
+### 2026-05-10 门捷列夫（men_jie_lie_fu）蒸馏记录
+
+**web_search：** ✅ 成功（SerpAPI Google搜索成功，返回204,000条结果）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索成功，返回 JSON 有机结果）
+**web_fetch：** ✅ 成功（Britannica主传记+Wikipedia详细传记，共2个来源）
+
+**最终来源：**
+1. Britannica - Dmitri Mendeleev（britannica.com/biography/Dmitri-Mendeleev，约8,842字，英文，百科主源）
+2. Wikipedia - Dmitri Mendeleev（en.wikipedia.org/wiki/Dmitri_Mendeleev，约15,000字截取，英文，详细传记）
+
+**git push 情况：** ✅ 首次 push 成功（commit f0638a5 推送至 origin/main）
+
+**百度百科：** ❌ 失败（baike.baidu.com 多个URL返回404）
+
+**confidence：** high
+**耗时：** 约15分钟
+
+**备注：** 门捷列夫（Dmitri Ivanovich Mendeleev，1834-1907）是俄罗斯化学家，元素周期表发明者，周期律发现者；web_search成功定位SerpAPI Google搜索返回204,000条结果；2个权威英文来源共约23,842字语料；门捷列夫为科学家而非诗人，无需诗词采集；6条思想内核（自然界系统性规律/科学预见力/系统性分类优先/真理优先于权威/教科书中发现/耐心寻求真理）均有至少2处原文引用验证；1869年3月6日宣布周期律，"在梦中看到周期表"是其最标志性故事；Voice Profile核心是"秩序先知·宇宙系统的翻译者"；101号元素"钔"（mendelevium）以他命名；confidence评为 high。
 
 ---
 
@@ -578,18 +600,18 @@
 
 ```
 总人物数：     170
-已完成：       112
+已完成：       113
 进行中：       0
-待处理：       58
-完成率：       65.9%（112/170）
+待处理：       57
+完成率：       66.5%（113/170）
 
 按 priority：
   high：       36（已完38）
-  medium：     54（已完36）
+  medium：     54（已完37）
   low：        80（已完16）
 
 按 confidence：
-  high：       57
+  high：       58
   medium：     30
   A：           1
   medium-high：  1
