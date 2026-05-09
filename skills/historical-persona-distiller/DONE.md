@@ -16,7 +16,8 @@
 138 | 特斯拉 | 塞尔维亚-美国/19-20世纪 | 2026-05-08 | high | 40 |
 139 | 弗莱明 | 苏格兰/20世纪 | 2026-05-09 | medium | 15 |
 140 | 图灵 | 英国/20世纪 | 2026-05-09 | high | 25 |
-141 | 居里夫人 | 法国-波兰/19-20世纪 | 2026-05-09 | high | 20 |
+142 | 居里夫人 | 法国-波兰/19-20世纪 | 2026-05-09 | high | 20 |
+| 143 | 拉马努金 | 印度-英国/20世纪 | 2026-05-09 | medium | 25 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -30,9 +31,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 斯宾诺莎（si_bin_nuo_sha）
-**来源：** backlog.md（第八批，#95）
-**优先级：** medium
+**下一待处理：** 拉瓦锡（la_wa_xi）
+**来源：** backlog.md（第八批，#129）
+**优先级：** high
 
 ---
 
@@ -2195,3 +2196,22 @@
 **耗时：** 约25分钟
 
 **备注：** 波德莱尔（Charles Baudelaire，1821-1867）是法国19世纪最重要诗人之一，《恶之花》（1857/1861）作者，象征主义先驱和现代主义开创者；web_search失败后 SerpAPI via web_fetch 成功发挥作用；Britannica 两个来源共约10,756字语料；因 poetryfoundation.org 等诗歌原文网站被 Cloudflare 保护，无法直接抓取《恶之花》原文，部分分析基于二手文献；思想内核分析较为完整，5条核心信念均有 Britannica 等权威来源支持，每条至少2处引用；整体置信度 medium 因缺乏原始诗歌文本直接引用，可在后续获取原文后提升至 high。
+
+### 2026-05-09 拉马努金（la_ma_nu_jin）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo bot检测）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索成功，返回 JSON 有机结果）
+**web_fetch：** ✅ 成功（Britannica、Wikipedia、St Andrews History of Mathematics 均成功，共3个来源）
+
+**最终来源：**
+1. Britannica - Srinivasa Ramanujan（britannica.com/biography/Srinivasa-Ramanujan，约10,316字，英文，百科主源）
+2. Wikipedia - Srinivasa Ramanujan（en.wikipedia.org/wiki/Srinivasa_Ramanujan，约30,000字截取，英文，详细传记）
+3. St Andrews History of Mathematics - Ramanujan（mathshistory.st-andrews.ac.uk/Biographies/Ramanujan/，约20,000字截取，英文，数学史权威）
+
+**git push 情况：** ✅ 首次 push 成功（commit fbe91e8 推送至 origin/main）
+
+**confidence：** A
+**耗时：** 约25分钟
+
+**备注：** 拉马努金（Srinivasa Ramanujan，1887-1920）是印度数学天才，在几乎没有正规教育的情况下独立发展了约3900个数学结果；web_search失败后 SerpAPI via web_fetch 成功发挥作用；3个权威英文来源语料丰富，思想内核分析完整，5条核心信念均有 Britannica、Wikipedia、St Andrews 等权威来源支持，每条至少2处原文引用；拉马努金为数学家而非诗人，不涉及诗词抓取问题；整体置信度评为 A（高），所有引语均可溯源至原始文本，无自行创作内容。
+
