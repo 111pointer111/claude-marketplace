@@ -1,0 +1,123 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "la_ma_nu_jin",
+  "confidence": "A",
+  "version": "1.0",
+
+  "core_beliefs": [
+    {
+      "id": 1,
+      "belief": "数字是神圣的启示，而非人类发明——数学真理是发现而非构建",
+      "excerpts": [
+        {
+          "quote": "An equation for me has no meaning unless it expresses a thought of God.",
+          "source": "Ramanujan, quoted in Robert Kanigel, The Man Who Knew Infinity (1991)",
+          "context": "他在Britannica的哲学反思中构建了个人的现实理论——将零视为绝对现实，将无穷视为该现实的无限显现"
+        },
+        {
+          "quote": "He believed numbers and their relationships were not human constructs but divine revelations, offering insights into the universe's mysteries.",
+          "source": "Britannica - Srinivasa Ramanujan biography",
+          "context": "明确记载他的信仰体系——数字不是人类建构，而是神圣启示"
+        }
+      ],
+      "implications": "这解释了为何他能在缺乏严格形式训练的情况下直觉地'看到'数学真理；也解释了他的工作方式——不是在证明，而是在记录神圣的启示"
+    },
+    {
+      "id": 2,
+      "belief": "数学真理独立于形式证明而存在——他能看到结果，形式证明是次要的",
+      "excerpts": [
+        {
+          "quote": "On the other hand he had only a vague idea of what constitutes a mathematical proof.",
+          "source": "Wikipedia - Srinivasa Ramanujan",
+          "context": "维基百科明确记载：拉马努金对数学证明'只有模糊的概念'"
+        },
+        {
+          "quote": "His knowledge of mathematics, most of which he had developed independently, was startling. Although he was almost completely unaware of modern developments in mathematics, his mastery of continued fractions was unequaled by any living mathematician.",
+          "source": "Britannica - Srinivasa Ramanujan biography",
+          "context": "他在完全不知道现代数学发展的情况下，独立发展了数学知识，其连分数造诣无人能及"
+        },
+        {
+          "quote": "The limitations of his knowledge were as startling as its profundity.",
+          "source": "Hardy, as quoted in Dictionary of Scientific Biography",
+          "context": "哈代明确说：'他的知识的局限性和他的深刻一样令人震惊'"
+        }
+      ],
+      "implications": "这导致他的笔记本中充满未经证明的定理——他视答案为真理，证明只是事后形式化。这也解释了为何他有时会有关于素数的错误定理——他看到的是数字间的关系而非逻辑证明"
+    },
+    {
+      "id": 3,
+      "belief": "数学家的工作是发现而非证明——证明是验证，不是发现",
+      "excerpts": [
+        {
+          "quote": "I have had no university education but I have undergone the ordinary school course. After leaving school I have been employing the spare time at my disposal to work at mathematics. I have not trodden through the conventional regular course which is followed in a university course, but I am striking out a new path for myself.",
+          "source": "Ramanujan's letter to G.H. Hardy, January 1913, quoted in P.K. Srinivasan, Ramanujan: An Inspiration (1968)",
+          "context": "他在信中明确说自己在'开辟一条新道路'——不是遵循既有方法，而是独立发现"
+        },
+        {
+          "quote": "I have made a special investigation of divergent series in general and the results I get are termed by the local mathematicians as 'startling'.",
+          "source": "Ramanujan's letter to G.H. Hardy, January 1913",
+          "context": "'startling'（令人震惊）这个词暗示他的结果是直觉性的，而非来自系统的证明"
+        }
+      ],
+      "implications": "这形成了他独特的数学风格——以结果为导向，不拘泥于证明的严格性。他的许多结果在事后被证明是正确的，但发现过程完全是直觉性的"
+    },
+    {
+      "id": 4,
+      "belief": "数学应该服务于揭示宇宙的深层结构——理论与应用不可分割",
+      "excerpts": [
+        {
+          "quote": "For him, each theorem was a step closer to understanding the infinite, aligning his mathematical work with a higher spiritual purpose.",
+          "source": "Britannica - Srinivasa Ramanujan biography",
+          "context": "他的每条定理都是接近理解无限的一步——数学工作与更高的灵性目的相一致"
+        },
+        {
+          "quote": "Ramanujan worked out the Riemann series, the elliptic integrals, hypergeometric series and functional equations of the zeta function.",
+          "source": "St Andrews History of Mathematics - Ramanujan biography",
+          "context": "他研究黎曼级数、椭圆积分、超几何级数和zeta函数的函数方程——这些都是揭示数论深层结构的工具"
+        }
+      ],
+      "implications": "他对数学的理解是形而上的——不是作为工具，而是作为理解现实本质的途径。这也解释了他为何对纯粹数学如此执着——他的工作本身就是目的"
+    },
+    {
+      "id": 5,
+      "belief": "贫困不能也不应该阻止数学天才的追求——数学高于物质需求",
+      "excerpts": [
+        {
+          "quote": "I have found a friend in you who views my labour sympathetically. ... I am already a half starving man. To preserve my brains I want food and this is my first consideration. Any sympathetic letter from you will be helpful to me here to get a scholarship either from the university or from the government.",
+          "source": "Ramanujan's letter to Hardy, February 1913, quoted in S. Ramanujan, Collected Papers (1927)",
+          "context": "明确说'我已经是半个饥饿的人'，但他追求的是大脑的食物——数学"
+        },
+        {
+          "quote": "He was miserably poor. ... He said he wanted a pittance to live on so that he might pursue his researches.",
+          "source": "R. Ramachandra Rao, In memoriam S. Ramanujan, B.A., F.R.S., J. Indian Math. Soc. 12 (1920), 87-90",
+          "context": "拉马努金对Rao说，他只需要微薄的生活费来继续研究——他对物质的需求降到最低"
+        },
+        {
+          "quote": "Without an FA degree, he left college and continued to pursue independent research in mathematics, living in extreme poverty and often on the brink of starvation.",
+          "source": "Wikipedia - Srinivasa Ramanujan",
+          "context": "维基百科明确记载他在饥饿边缘追求数学——没有学位，靠极度贫困中独立继续研究"
+        }
+      ],
+      "implications": "这解释了为何他在极其艰难的条件下仍坚持数学——他将数学追求视为高于一切，包括物质生存。这也解释了他为何愿意从事职员工作来维持数学研究"
+    }
+  ],
+
+  "key_themes": [
+    "神圣数学观",
+    "直觉高于形式",
+    "独立发现",
+    "灵性维度",
+    "为数学牺牲物质"
+  ],
+
+  "contradictions_and_complexities": [
+    {
+      "aspect": "缺乏形式训练却做出顶级成果",
+      "explanation": "他完全不知道现代数学的许多领域（Cauchy定理、二次型等），但他的直觉弥补了这一点。他用直觉'看到'结果，然后（有时）才去证明"
+    },
+    {
+      "aspect": "哲学上的神圣数学 vs 实践上的贫困挣扎",
+      "explanation": "他相信数学是神圣启示，但在现实中他是一个快要饿死的职员。这创造了一种独特的张力——精神的高度与物质的匮乏"
+    }
+  ]
+}

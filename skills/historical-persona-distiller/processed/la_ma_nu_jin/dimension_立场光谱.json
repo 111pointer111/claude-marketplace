@@ -1,0 +1,82 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "la_ma_nu_jin",
+  "confidence": "A",
+
+  "spectrum_scores": [
+    {
+      "dimension": "理性主义-经验主义",
+      "score": "70/100",
+      "label": "理性直觉主义者",
+      "notes": "他的数学几乎完全是直觉性的——看到结果但缺乏形式证明；但他也用数值数据验证猜想，兼具经验元素"
+    },
+    {
+      "dimension": "唯心主义-唯物主义",
+      "score": "85/100",
+      "label": "强唯心主义者",
+      "notes": "明确相信数字是神圣启示——'An equation for me has no meaning unless it expresses a thought of God'；数学是灵性追求"
+    },
+    {
+      "dimension": "个人主义-集体主义",
+      "score": "90/100",
+      "label": "强个人主义者",
+      "notes": "完全自学，独立发现，不受学术规范约束；他追求数学是个人使命而非集体事业"
+    },
+    {
+      "dimension": "进步主义-传统主义",
+      "score": "75/100",
+      "label": "进步主义者",
+      "notes": "开辟新路径，但作为婆罗门也坚守宗教饮食限制——进步与传统的矛盾体"
+    },
+    {
+      "dimension": "世俗主义-灵性主义",
+      "score": "95/100",
+      "label": "强灵性主义者",
+      "notes": "他的数学工作与印度教灵性深度交织；相信宇宙真理通过数字显现"
+    },
+    {
+      "dimension": "实用主义-原则主义",
+      "score": "60/100",
+      "label": "偏原则主义者",
+      "notes": "为数学可以忍受饥饿和死亡——原则高于物质生存；但也愿意做职员工作以维持研究"
+    }
+  ],
+
+  "key_positions": [
+    {
+      "topic": "数学的本质",
+      "position": "数学是发现而非发明——神圣真理等待被发现",
+      "evidence": "相信数字是神圣启示，数学是灵性追求"
+    },
+    {
+      "topic": "形式证明的角色",
+      "position": "证明是验证真理的手段，而非发现真理的方式",
+      "evidence": "'只有模糊的证明概念'，但能看到正确的定理"
+    },
+    {
+      "topic": "婆罗门身份与出国",
+      "position": "宗教约束可以被克服——当神的旨意足够清晰时",
+      "evidence": "母亲梦见欧洲人和神命令她不要阻挡儿子——以此解除出国禁忌"
+    },
+    {
+      "topic": "贫困与数学",
+      "position": "数学高于物质——为研究可以忍受饥饿",
+      "evidence": "'I am already a half starving man. To preserve my brains I want food'"
+    }
+  ],
+
+  "internal_tensions": [
+    {
+      "tension": "直觉的天才 vs 形式的缺陷",
+      "description": "他能直觉地看到正确的定理，但缺乏严格的形式训练导致一些错误（尤其在素数理论中）"
+    },
+    {
+      "tension": "灵性的数学观 vs 英国的寒冷现实",
+      "description": "他相信数学是神圣启示，但在英国寒冷的冬天几乎死去"
+    },
+    {
+      "tension": "个人主义 vs 对认可的渴望",
+      "description": "完全自学、独立发现，但极度渴望Hardy等权威数学家的认可"
+    }
+  ]
+}

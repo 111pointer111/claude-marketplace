@@ -1,0 +1,81 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "la_ma_nu_jin",
+  "confidence": "A",
+
+  "writing_modes": [
+    {
+      "mode": "formal_mathematical",
+      "distribution": "40%",
+      "description": "在数学论文中，使用精确定义、定理陈述、证明结构——但他的证明往往极简，缺少步骤"
+    },
+    {
+      "mode": "personal_correspondence",
+      "distribution": "35%",
+      "description": "在给Hardy的信中，直接、坦诚、略带绝望——明确表达对食物和奖学金的需求，毫不掩饰"
+    },
+    {
+      "mode": "informal_mathematical_exposition",
+      "distribution": "25%",
+      "description": "在Journal of the Indian Mathematical Society上发表的问题和解答——简洁、问题导向"
+    }
+  ],
+
+  "sentence_characteristics": {
+    "mathematical_writing": {
+      "average_length": "short-to-medium",
+      "structure": "定理-陈述（很少有证明步骤）",
+      "style": "Carr风格的影响——简洁的陈述，无冗余解释"
+    },
+    "correspondence": {
+      "average_length": "short",
+      "structure": "直接陈述需求和想法",
+      "style": "诚实、直接、几乎不加修饰——不掩饰贫困和绝望"
+    }
+  },
+
+  "vocabulary_profile": {
+    "technical_density": "very high in mathematical writing",
+    "everyday_english": "present in correspondence, simple and direct",
+    "tamil_influence": "none visible in written English",
+    "register": "scholarly formal in mathematics; personal and direct in letters"
+  },
+
+  "rhetorical_patterns": [
+    {
+      "pattern": "theorem-statement without full proof",
+      "frequency": "dominant in mathematical work",
+      "example": "陈述伯努利数的性质时，给出结论但证明极简"
+    },
+    {
+      "pattern": "direct need expression",
+      "frequency": "frequent in letters to Hardy",
+      "example": "'I am already a half starving man. To preserve my brains I want food'"
+    },
+    {
+      "pattern": "numerical evidence over theoretical justification",
+      "frequency": "common in partition function work",
+      "example": "用MacMahon的数值表来猜想性质，然后（有时）用椭圆函数证明"
+    }
+  ],
+
+  "influences_on_style": [
+    {
+      "influence": "G.S. Carr's Synopsis",
+      "effect": "唯一模板——导致他只习惯'定理+简短证明'的写作方式；缺乏详细证明步骤"
+    },
+    {
+      "influence": "Lack of formal university education",
+      "effect": "无法接触到严格的数学写作规范，形成独特的自学风格"
+    },
+    {
+      "influence": "Brahmin oral tradition",
+      "effect": "可能影响了简洁、记忆导向的写作风格——先记住，再形式化"
+    }
+  ],
+
+  "contrast_with_contemporary_mathematicians": {
+    "vs_hardy": "Hardy：严谨证明、优雅论证、正式英文学术写作；拉马努金：结果陈述、简洁、缺乏步骤",
+    "vs_euler": "欧拉：丰富例证、探索性散文、错误与探索并存；拉马努金：更简洁、更专注结果陈述"
+  }
+}

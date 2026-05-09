@@ -1,0 +1,40 @@
+{
+  "persona_id": "la_ma_nu_jin",
+  "raw_corpus_stats": {
+    "total_sources": 3,
+    "sources": [
+      {"name": "Britannica", "size_bytes": 6171, "status": "success"},
+      {"name": "Wikipedia", "size_bytes": 12472, "status": "success"},
+      {"name": "St Andrews History of Mathematics", "size_bytes": 13290, "status": "success"}
+    ],
+    "total_raw_size_bytes": 31933,
+    "corpus_files": [
+      "raw/la_ma_nu_jin/01_britannica.md",
+      "raw/la_ma_nu_jin/02_wikipedia.md",
+      "raw/la_ma_nu_jin/03_st_andrews.md"
+    ]
+  },
+  "processed_files": {
+    "stages": "processed/la_ma_nu_jin/stages.md",
+    "dimension_思想内核": "processed/la_ma_nu_jin/dimension_思想内核.json",
+    "dimension_语言特征": "processed/la_ma_nu_jin/dimension_语言特征.json",
+    "dimension_表达偏好": "processed/la_ma_nu_jin/dimension_表达偏好.json",
+    "dimension_立场光谱": "processed/la_ma_nu_jin/dimension_立场光谱.json",
+    "dimension_voice_profile": "processed/la_ma_nu_jin/dimension_voice_profile.json"
+  },
+  "output_files": {
+    "SKILL.md": "output/la_ma_nu_jin/SKILL.md",
+    "EVENTS.md": "output/la_ma_nu_jin/EVENTS.md",
+    "VOICE.md": "output/la_ma_nu_jin/VOICE.md",
+    "README.md": "output/la_ma_nu_jin/README.md",
+    "METADATA.json": "output/la_ma_nu_jin/METADATA.json",
+    "CITATIONS.md": "output/la_ma_nu_jin/CITATIONS.md"
+  },
+  "quality_metrics": {
+    "confidence_grade": "A",
+    "core_beliefs_verified": 5,
+    "direct_quotes_verified": 18,
+    "sources_cross_referenced": 3,
+    "no_fabricated_quotes": true
+  }
+}

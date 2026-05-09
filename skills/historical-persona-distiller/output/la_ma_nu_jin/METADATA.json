@@ -1,0 +1,54 @@
+{
+  "persona_id": "la_ma_nu_jin",
+  "name_en": "Srinivasa Aiyangar Ramanujan",
+  "name_zh": "斯里尼瓦萨·拉马努金",
+  "birth_death": "1887-12-22 / 1920-04-26",
+  "nationality": "British India",
+  "confidence": "A",
+  "version": "1.0",
+  "distilled_at": "2026-05-09",
+  "distilled_by": "historical-persona-distiller pipeline",
+  "sources_used": 3,
+  "source_details": [
+    {
+      "name": "Britannica",
+      "type": "historical_record",
+      "url": "https://www.britannica.com/biography/Srinivasa-Ramanujan",
+      "status": "success"
+    },
+    {
+      "name": "Wikipedia",
+      "type": "historical_record",
+      "url": "https://en.wikipedia.org/wiki/Srinivasa_Ramanujan",
+      "status": "success"
+    },
+    {
+      "name": "St Andrews History of Mathematics",
+      "type": "historical_record",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Ramanujan/",
+      "status": "success"
+    }
+  ],
+  "web_search": {
+    "primary_tool": "web_search",
+    "status": "failed",
+    "fallback_1": "SerpAPI",
+    "fallback_1_status": "success",
+    "fallback_2": "web_fetch (direct baidu)",
+    "fallback_2_status": "not_needed"
+  },
+  "backlog_category": "数学/科学",
+  "stages_count": 4,
+  "core_beliefs_count": 5,
+  "direct_quotes_count": 14,
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md"
+  ],
+  "confidence_grade": "A",
+  "confidence_justification": "All 5 core beliefs have 2+ canonical sources. All 14 direct quotes verified from primary/secondary sources. No fabrication. Confidence grade meets Stage 3.5 threshold (A-grade, no fabricated quotes, all sources verified)."
+}

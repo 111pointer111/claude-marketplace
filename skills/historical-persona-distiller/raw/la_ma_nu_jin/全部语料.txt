@@ -1,0 +1,199 @@
+# Britannica - Srinivasa Ramanujan Biography
+# URL: https://www.britannica.com/biography/Srinivasa-Ramanujan
+# Fetched: 2026-05-09
+
+Srinivasa Ramanujan (born December 22, 1887, Erode, India—died April 26, 1920, Kumbakonam) was an Indian mathematician known for his contributions to infinite series, number theory, and the properties of the partition function.
+
+## Early life
+Ramanujan's early life was unconventional for a mathematician. Born into a poor Brahmin family, he had little access to formal education and was largely self-taught. From a young age he developed a deep interest in mathematics and focused almost exclusively on it, neglecting other subjects. When he was 16 years old, he obtained a copy of George Shoobridge Carr's Synopsis of Elementary Results in Pure and Applied Mathematics, 2 vol. (1880–86). This collection of thousands of theorems, many presented with only the briefest of proofs and with no material newer than 1860, aroused his genius. Having verified the results in Carr's book, Ramanujan went beyond it, developing his own theorems and ideas. In 1903 he secured a scholarship to the University of Madras but lost it the following year because he neglected all other studies in pursuit of mathematics.
+
+Ramanujan continued his work, without employment and living in the poorest of circumstances. After marrying in 1909 he began a search for permanent employment that culminated in an interview with the secretary of the Indian Mathematical Society, Ramachandra Rao. Impressed by Ramanujan's mathematical prowess, Rao supported his research for a time, but Ramanujan, unwilling to exist on charity, obtained a clerical post with the Madras Port Trust.
+
+## Mathematical breakthroughs
+
+## Foundational work and recognition
+When Ramanujan was in his 20s, his mathematical work began to attract attention from local mathematicians. He developed theories on continued fractions, number theory, and infinite series, many of which were new and considered revolutionary. His work on partition functions, which calculate the number of ways a number can be expressed as the sum of positive integers, was particularly notable.
+
+In 1911 Ramanujan published the first of his papers in the Journal of the Indian Mathematical Society. His knowledge of mathematics, most of which he had developed independently, was startling. Although he was almost completely unaware of modern developments in mathematics, his mastery of continued fractions was unequaled by any living mathematician. He worked out the Riemann series, elliptic integrals, hypergeometric series, functional equations of the zeta function, and his own theory of divergent series, in which he found a value for the sum of such series using a technique he invented that came to be called Ramanujan summation. On the other hand, he knew nothing of doubly periodic functions, the classical theory of quadratic forms, or Cauchy's theorem, and he had only the most nebulous idea of what constitutes a mathematical proof. Though brilliant, many of his theorems on the theory of prime numbers were wrong.
+
+## Further advances and philosophical reflections
+In England Ramanujan made further advances, especially in the partition of numbers. His papers were published in English and European journals, and in 1918 he was elected to the Royal Society of London.
+
+Beyond mathematics, Ramanujan delved into the philosophical underpinnings of his work, building a personal theory of reality centered on zero and infinity. He viewed zero as representing absolute reality and infinity as the infinite manifestations of that reality. He believed numbers and their relationships were not human constructs but divine revelations, offering insights into the universe's mysteries. For him, each theorem was a step closer to understanding the infinite, aligning his mathematical work with a higher spiritual purpose.
+
+"An [equation] for me has no meaning unless it expresses a thought of God."
+—Srinivasa Ramanujan, quoted in The Man Who Knew Infinity: A Life of the Genius Ramanujan (1991) by Robert Kanigel
+
+## The Hardy–Ramanujan collaboration
+In 1913 Ramanujan began corresponding with the renowned British mathematician Godfrey H. Hardy. When Hardy first received Ramanujan's letter, he was incredulous of Ramanujan's unorthodox methods and lack of formal proofs. Upon reviewing the theorems, however, Hardy recognized the depth of Ramanujan's work and arranged a special scholarship at the University of Madras and a grant from Trinity College, Cambridge. In 1914 Ramanujan moved to England, where he worked alongside Hardy.
+
+One of the more well-known stories of their partnership involves the number 1729, which is now known as the Hardy-Ramanujan number. When Ramanujan was admitted to a hospital because of ill health, Hardy visited him and mentioned that the taxi he arrived in was numbered 1729, noting that he found the number unremarkable. Ramanujan immediately pointed out that 1729 is actually quite special—it is the smallest number that can be expressed as the sum of two cubes in two different ways: 1729 = 13 + 123 = 93 + 103.
+
+## Health struggles, legacy, and posthumous discoveries
+In 1917 Ramanujan contracted tuberculosis, but his condition improved enough for him to return to India in 1919. After a hard battle with illness, Ramanujan died in 1920 at the age of 32. Recognized worldwide by mathematicians as a phenomenal genius, he was often compared to the likes of Leonhard Euler and Carl Jacobi.
+
+Ramanujan left behind three notebooks and a sheaf of pages (also called the "lost notebook") containing many unpublished results that mathematicians continued to verify long after his death. In 1920, shortly before his death, Ramanujan wrote a letter to Hardy describing a series of new mathematical functions, which he called mock modular forms, and outlined a theory about their behavior. These functions puzzled mathematicians for years. In 2012 researchers led by Ken Ono of Emory University presented findings that confirmed Ramanujan's theories. Ono noted that these mock modular forms could potentially unlock insights into modern scientific phenomena, including black holes.
+# Wikipedia - Srinivasa Ramanujan (Partial - Life in England section)
+# URL: https://en.wikipedia.org/wiki/Srinivasa_Ramanujan
+# Fetched: 2026-05-09
+
+Srinivasa Ramanujan Iyengar (22 December 1887 – 26 April 1920) was an Indian mathematician who worked during the early 20th century. He made substantial contributions to mathematical analysis, number theory, infinite series, and continued fractions, including solutions to mathematical problems then considered unsolvable.
+
+Ramanujan initially developed his own mathematical research in isolation. According to Hans Eysenck, "he tried to interest the leading professional mathematicians in his work, but failed for the most part. What he had to show them was too novel, too unfamiliar, and additionally presented in unusual ways; they could not be bothered."
+
+Seeking mathematicians who could better understand his work, in 1913 he began a mail correspondence with the English mathematician G. H. Hardy at the University of Cambridge. Recognising Ramanujan's work as extraordinary, Hardy arranged for him to travel to Cambridge. In his notes, Hardy commented that Ramanujan had produced groundbreaking new theorems, including some that "defeated me completely; I had never seen anything in the least like them before", and some recently proven but highly advanced results.
+
+Throughout his life, Ramanujan independently compiled nearly 3,900 results (mostly identities and equations). Many were completely novel; his original and highly unconventional results, such as the Ramanujan prime, the Ramanujan theta function, partition formulae and mock theta functions, have opened entire new areas of work and inspired further research. Of his thousands of results, most have been proven correct. The Ramanujan Journal was established to publish work in all areas of mathematics influenced by Ramanujan.
+
+He became one of the youngest Fellows of the Royal Society and only the second Indian member, and the first Indian to be elected a Fellow of Trinity College, Cambridge.
+
+In 1919, ill health—now believed to have been hepatic amoebiasis—compelled Ramanujan's return to India, where he died in 1920 at the age of 32. His last letters to Hardy, written in January 1920, show that he was still continuing to produce new mathematical ideas and theorems. His "lost notebook", containing discoveries from the last year of his life, caused great excitement among mathematicians when it was rediscovered in 1976.
+
+## Early life
+
+Ramanujan (literally, "younger brother of Rama", a Hindu deity) was born into a Tamil Brahmin Iyengar family in Erode, in modern Tamil Nadu. His father, Kuppuswamy Srinivasa Iyengar, worked as a clerk in a sari shop. His mother, Komalatammal, was a housewife and sang at a local temple. They lived in a small traditional home on Sarangapani Sannidhi Street in the town of Kumbakonam.
+
+When he was nearly five years old, Ramanujan entered the primary school in Kumbakonam. At Town Higher Secondary School, Ramanujan was to do well in all his school subjects. In 1900 he began to work on his own on mathematics summing geometric and arithmetic series.
+
+A child prodigy by age 11, he had exhausted the mathematical knowledge of two college students who were lodgers at his home. He was later lent a book written by S. L. Loney on advanced trigonometry. He mastered this by the age of 13 while discovering sophisticated theorems on his own. By 14, he received merit certificates and academic awards.
+
+In 1903, when he was 16, Ramanujan obtained from a friend a library copy of A Synopsis of Elementary Results in Pure and Applied Mathematics, G. S. Carr's collection of 5,000 theorems. Ramanujan reportedly studied the contents of the book in detail. The next year, Ramanujan independently developed and investigated the Bernoulli numbers and calculated the Euler–Mascheroni constant to 15 decimal places. His peers at the time said they "rarely understood him" and "stood in respectful awe" of him.
+
+When he graduated from Town Higher Secondary School in 1904, Ramanujan was awarded the K. Ranganatha Rao prize for mathematics by the school's headmaster. He received a scholarship to study at Government Arts College, Kumbakonam, but the following year his scholarship was not renewed because Ramanujan devoted more and more of his time to mathematics and neglected his other subjects. Without money, he was soon in difficulties and, without telling his parents, he ran away to the town of Vizagapatnam about 650 km north of Madras.
+
+In August 1905, Ramanujan ran away from home, heading towards Visakhapatnam, and stayed in Rajahmundry for about a month. He later enrolled at Pachaiyappa's College in Madras. There, he passed in mathematics, choosing only to attempt questions that appealed to him and leaving the rest unanswered, but performed poorly in other subjects. Ramanujan failed his Fellow of Arts exam in December 1906 and again a year later. Without an FA degree, he left college and continued to pursue independent research in mathematics, living in extreme poverty and often on the brink of starvation.
+
+In 1910, after a meeting between the 23-year-old Ramanujan and the founder of the Indian Mathematical Society, V. Ramaswamy Aiyer, Ramanujan began to get recognition in Madras's mathematical circles.
+
+## Adulthood in India
+
+On 14 July 1909, Ramanujan married Janaki (Janakiammal; 21 March 1899 – 13 April 1994), a girl his mother had selected for him a year earlier and who was ten years old when they married.
+
+After the marriage, Ramanujan developed a hydrocele testis. The condition could be treated with a routine surgical operation, but his family could not afford the operation. In January 1910, a doctor volunteered to do the surgery at no cost.
+
+In 1910, Ramanujan met deputy collector V. Ramaswamy Aiyer, who founded the Indian Mathematical Society. As Aiyer later recalled:
+
+"I was struck by the extraordinary mathematical results contained in [the notebooks]. I had no mind to smother his genius by an appointment in the lowest rungs of the revenue department."
+
+R. Ramachandra Rao, the district collector for Nellore and the secretary of the Indian Mathematical Society, was impressed by Ramanujan's research but doubted that it was his own work. When Rao asked him what he wanted, Ramanujan replied that he needed work and financial support. Rao consented and sent him to Madras.
+
+In early 1912, he got a temporary job in the Madras Accountant General's office, with a monthly salary of 20 rupees. He lasted only a few weeks. In a letter dated 9 February 1912, Ramanujan wrote:
+
+"Sir, I understand there is a clerkship vacant in your office, and I beg to apply for the same. I have passed the Matriculation Examination and studied up to the F.A. but was prevented from pursuing my studies further owing to several untoward circumstances. I have, however, been devoting all my time to Mathematics and developing the subject. I can say I am quite confident I can do justice to my work if I am appointed to the post."
+
+Attached to his application was a recommendation from E. W. Middlemast, a mathematics professor at the Presidency College, who wrote that Ramanujan was "a young man of quite exceptional capacity in Mathematics."
+
+Three weeks after he applied, on 1 March, Ramanujan learned that he had been accepted as a Class III, Grade IV accounting clerk, making 30 rupees per month.
+
+## Contacting British mathematicians
+
+In the spring of 1913, Narayana Iyer, Ramachandra Rao and E. W. Middlemast tried to present Ramanujan's work to British mathematicians. M. J. M. Hill of University College London commented that Ramanujan's papers were riddled with holes. He said that although Ramanujan had "a taste for mathematics, and some ability", he lacked the necessary educational background and foundation.
+
+On 16 January 1913, Ramanujan wrote to G. H. Hardy, whom he knew from studying Orders of Infinity (1910). Coming from an unknown mathematician, the nine pages of mathematics made Hardy initially view Ramanujan's manuscripts as a possible fraud. Hardy recognised some of Ramanujan's formulae but others "seemed scarcely possible to believe". After seeing Ramanujan's theorems on continued fractions on the last page of the manuscripts, Hardy said the theorems "defeated me completely; I had never seen anything in the least like them before", and that they "must be true, because, if they were not true, no one would have the imagination to invent them."
+
+Hardy asked a colleague, J. E. Littlewood, to take a look at the papers. Littlewood was amazed by Ramanujan's genius. After discussing the papers with Littlewood, Hardy concluded that the letters were "certainly the most remarkable I have received" and that Ramanujan was "a mathematician of the highest quality, a man of altogether exceptional originality and power."
+
+On 8 February 1913, Hardy wrote Ramanujan a letter expressing interest in his work, adding that it was "essential that I should see proofs of some of your assertions." Ramanujan sent Hardy a letter packed with theorems, writing, "I have found a friend in you who views my labour sympathetically."
+
+In accordance with his Brahmin upbringing, Ramanujan refused to leave his country to "go to a foreign land", and his parents were also opposed for the same reason. Apparently, Ramanujan's mother had a vivid dream in which Ramanujan was surrounded by Europeans, and the family goddess, the deity of Namagiri, commanded her "to stand no longer between her son and the fulfilment of his life's purpose."
+
+On 17 March 1914, Ramanujan travelled to England by ship, leaving his wife to stay with his parents in India.
+
+## Life in England
+
+Ramanujan departed from Madras aboard the S.S. Nevasa on 17 March 1914. When he disembarked in London on 14 April, Neville was waiting for him with a car. Four days later, Neville took him to his house on Chesterton Road in Cambridge. Ramanujan immediately began his work with Littlewood and Hardy. After six weeks, Ramanujan moved out of Neville's house and took up residence on Whewell's Court.
+
+What was to be done in the way of teaching him modern mathematics? The limitations of his knowledge were as startling as its profundity. Littlewood was asked to help teach Ramanujan rigorous mathematical methods. However, he said that it was extremely difficult because every time some matter, which it was thought that Ramanujan needed to know, was mentioned, Ramanujan's response was an avalanche of original ideas which made it almost impossible for Littlewood to persist in his original intention.
+
+The war soon took Littlewood away on war duty but Hardy remained in Cambridge to work with Ramanujan. Even in his first winter in England, Ramanujan was ill.
+
+On 16 March 1916 Ramanujan graduated from Cambridge with a Bachelor of Arts by Research. Ramanujan's dissertation was on Highly composite numbers and consisted of seven of his papers published in England.
+
+Ramanujan fell seriously ill in 1917 and his doctors feared that he would die. He did improve a little by September but spent most of his time in various nursing homes.
+
+On 18 February 1918 Ramanujan was elected a fellow of the Cambridge Philosophical Society and then three days later, the greatest honour that he would receive, his name appeared on the list for election as a fellow of the Royal Society of London. His election as a fellow of the Royal Society was confirmed on 2 May 1918, then on 10 October 1918 he was elected a Fellow of Trinity College Cambridge, the fellowship to run for six years.
+
+The honours which were bestowed on Ramanujan seemed to help his health improve a little and he renewed his effort at producing mathematics. By the end of November 1918 Ramanujan's health had greatly improved. Hardy wrote in a letter:
+
+"I think we may now hope that he has turned the corner, and is on the road to a real recovery. His temperature has ceased to be irregular, and he has gained nearly a stone in weight. There has never been any sign of any diminution in his extraordinary mathematical talents. He will return to India with a scientific standing and reputation such as no Indian has enjoyed before, and I am confident that India will regard him as the treasure he is. His natural simplicity and modesty have never been affected in the least by success."
+
+Ramanujan sailed to India on 27 February 1919 arriving on 13 March. However, his health was very poor and, despite medical treatment, he died there the following year.
+# St Andrews History of Mathematics - Srinivasa Ramanujan Biography
+# URL: https://mathshistory.st-andrews.ac.uk/Biographies/Ramanujan/
+# Fetched: 2026-05-09
+
+Srinivasa Aiyangar Ramanujan (1887 - 1920) - Biography
+
+Ramanujan made substantial contributions to the analytical theory of numbers and worked on elliptic functions, continued fractions, and infinite series.
+
+Ramanujan was born in his grandmother's house in Erode, a small village about 400 km southwest of Madras (now Chennai). When Ramanujan was a year old his mother took him to the town of Kumbakonam, about 160 km nearer Madras. His father worked in Kumbakonam as a clerk in a cloth merchant's shop. In December 1889 he contracted smallpox.
+
+When he was nearly five years old, Ramanujan entered the primary school in Kumbakonam although he would attend several different primary schools before entering the Town High School in Kumbakonam in January 1898. At the Town High School, Ramanujan was to do well in all his school subjects and showed himself an able all-round scholar. In 1900 he began to work on his own on mathematics summing geometric and arithmetic series.
+
+Ramanujan was shown how to solve cubic equations in 1902 and he went on to find his own method to solve the quartic. The following year, not knowing that the quintic could not be solved by radicals, he tried (and of course failed) to solve the quintic.
+
+It was in the Town High School that Ramanujan came across a mathematics book by G S Carr called Synopsis of elementary results in pure mathematics. This book, with its very concise style, allowed Ramanujan to teach himself mathematics, but the style of the book was to have a rather unfortunate effect on the way Ramanujan was later to write down mathematics since it provided the only model that he had of written mathematical arguments.
+
+By 1904 Ramanujan had begun to undertake deep research. He investigated the series sum(1/n) and calculated Euler's constant to 15 decimal places. He began to study the Bernoulli numbers, although this was entirely his own independent discovery.
+
+Ramanujan, on the strength of his good school work, was given a scholarship to the Government College in Kumbakonam which he entered in 1904. However, the following year his scholarship was not renewed because Ramanujan devoted more and more of his time to mathematics and neglected his other subjects. Without money, he was soon in difficulties and, without telling his parents, he ran away to the town of Vizagapatnam about 650 km north of Madras. He continued his mathematical work, however, and at this time he worked on hypergeometric series and investigated relations between integrals and series.
+
+In 1906 Ramanujan went to Madras where he entered Pachaiyappa's College. His aim was to pass the First Arts examination which would allow him to be admitted to the University of Madras. He attended lectures at Pachaiyappa's College but became ill after three month's study. He took the First Arts examination after having left the course. He passed in mathematics but failed all his other subjects and therefore failed the examination. This meant that he could not enter the University of Madras. In the following years he worked on mathematics developing his own ideas without any help and without any real idea of the then current research topics other than that provided by Carr's book.
+
+Continuing his mathematical work, Ramanujan studied continued fractions and divergent series in 1908. At this stage he became seriously ill again and underwent an operation in April 1909 after which it took him some considerable time to recover. He married on 14 July 1909 when his mother arranged for him to marry a ten-year-old girl S Janaki Ammal.
+
+Ramanujan continued to develop his mathematical ideas and began to pose problems and solve problems in the Journal of the Indian Mathematical Society. He developed relations between elliptic modular equations in 1910. After publication of a brilliant research paper on Bernoulli numbers in 1911 in the Journal of the Indian Mathematical Society, he gained recognition for his work. Despite his lack of a university education, he was becoming well known in the Madras area as a mathematical genius.
+
+In 1911 Ramanujan approached the founder of the Indian Mathematical Society for advice on a job. After this he was appointed to his first job, a temporary post in the Accountant General's Office in Madras. It was then suggested that he approach Ramachandra Rao who was a Collector at Nellore. Ramachandra Rao was a founder member of the Indian Mathematical Society who had helped start the mathematics library. He writes:
+
+"A short uncouth figure, stout, unshaven, not over clean, with one conspicuous feature – shining eyes – walked in with a frayed notebook under his arm. He was miserably poor. ... He opened his book and began to explain some of his discoveries. I saw quite at once that there was something out of the way; but my knowledge did not permit me to judge whether he talked sense or nonsense. ... I asked him what he wanted. He said he wanted a pittance to live on so that he might pursue his researches."
+
+Ramachandra Rao told him to return to Madras and he tried, unsuccessfully, to arrange a scholarship for Ramanujan. In 1912 Ramanujan applied for the post of clerk in the accounts section of the Madras Port Trust. In his letter of application he wrote:
+
+"I have passed the Matriculation Examination and studied up to the First Arts but was prevented from pursuing my studies further owing to several untoward circumstances. I have, however, been devoting all my time to Mathematics and developing the subject."
+
+Despite the fact that he had no university education, Ramanujan was clearly well known to the university mathematicians in Madras for, with his letter of application, Ramanujan included a reference from E W Middlemast who was the Professor of Mathematics at The Presidency College in Madras. Middlemast, a graduate of St John's College, Cambridge, wrote:
+
+"I can strongly recommend the applicant. He is a young man of quite exceptional capacity in mathematics and especially in work relating to numbers. He has a natural aptitude for computation and is very quick at figure work."
+
+On the strength of the recommendation Ramanujan was appointed to the post of clerk and began his duties on 1 March 1912. In his letter to Hardy in 1913, Ramanujan introduced himself and his work:
+
+"I have had no university education but I have undergone the ordinary school course. After leaving school I have been employing the spare time at my disposal to work at mathematics. I have not trodden through the conventional regular course which is followed in a university course, but I am striking out a new path for myself. I have made a special investigation of divergent series in general and the results I get are termed by the local mathematicians as 'startling'."
+
+Hardy, together with Littlewood, studied the long list of unproved theorems which Ramanujan enclosed with his letter. On 8 February he replied to Ramanujan, the letter beginning:
+
+"I was exceedingly interested by your letter and by the theorems which you state. You will however understand that, before I can judge properly of the value of what you have done, it is essential that I should see proofs of some of your assertions. Your results seem to me to fall into roughly three classes: (1) there are a number of results that are already known, or easily deducible from known theorems; (2) there are results which, so far as I know, are new and interesting, but interesting rather from their curiosity and apparent difficulty than their importance; (3) there are results which appear to be new and important..."
+
+Ramanujan was delighted with Hardy's reply and when he wrote again he said:
+
+"I have found a friend in you who views my labour sympathetically. ... I am already a half starving man. To preserve my brains I want food and this is my first consideration. Any sympathetic letter from you will be helpful to me here to get a scholarship either from the university or from the government."
+
+Indeed the University of Madras did give Ramanujan a scholarship in May 1913 for two years and, in 1914, Hardy brought Ramanujan to Trinity College, Cambridge, to begin an extraordinary collaboration.
+
+Ramanujan sailed from India on 17 March 1914. He arrived in London on 14 April 1914 and was met by Neville. After four days in London they went to Cambridge and Ramanujan spent a couple of weeks in Neville's home before moving into rooms in Trinity College on 30th April. Right from the beginning, however, he had problems with his diet. The outbreak of World War I made obtaining special items of food harder and it was not long before Ramanujan had health problems.
+
+What was to be done in the way of teaching him modern mathematics? The limitations of his knowledge were as startling as its profundity. Littlewood was asked to help teach Ramanujan rigorous mathematical methods. However, he said that it was extremely difficult because every time some matter, which it was thought that Ramanujan needed to know, was mentioned, Ramanujan's response was an avalanche of original ideas which made it almost impossible for Littlewood to persist in his original intention.
+
+The war soon took Littlewood away on war duty but Hardy remained in Cambridge to work with Ramanujan. Even in his first winter in England, Ramanujan was ill and he wrote in March 1915 that he had been ill due to the winter weather and had not been able to publish anything for five months.
+
+On 16 March 1916 Ramanujan graduated from Cambridge with a Bachelor of Arts by Research. Ramanujan's dissertation was on Highly composite numbers and consisted of seven of his papers published in England.
+
+Ramanujan fell seriously ill in 1917 and his doctors feared that he would die. In February 1918 Hardy wrote:
+
+"Batty Shaw found out, what other doctors did not know, that he had undergone an operation about four years ago. His worst theory was that this had really been for the removal of a malignant growth, wrongly diagnosed. In view of the fact that Ramanujan is no worse than six months ago, he has now abandoned this theory - the other doctors never gave it any support. Tubercle has been the provisionally accepted theory, apart from this, since the original idea of gastric ulcer was given up. ... Like all Indians he is fatalistic, and it is terribly hard to get him to take care of himself."
+
+On 18 February 1918 Ramanujan was elected a fellow of the Cambridge Philosophical Society and then three days later, the greatest honour that he would receive, his name appeared on the list for election as a fellow of the Royal Society of London. His election as a fellow of the Royal Society was confirmed on 2 May 1918, then on 10 October 1918 he was elected a Fellow of Trinity College Cambridge.
+
+The honours which were bestowed on Ramanujan seemed to help his health improve a little and he renewed his effort at producing mathematics. By the end of November 1918 Ramanujan's health had greatly improved. Hardy wrote in a letter:
+
+"I think we may now hope that he has turned the corner, and is on the road to a real recovery. His temperature has ceased to be irregular, and he has gained nearly a stone in weight. ... There has never been any sign of any diminution in his extraordinary mathematical talents. He has produced less, naturally, during his illness but the quality has been the same. .... He will return to India with a scientific standing and reputation such as no Indian has enjoyed before, and I am confident that India will regard him as the treasure he is. His natural simplicity and modesty have never been affected in the least by success - indeed all that is wanted is to get him to realise that he really is a success."
+
+Ramanujan sailed to India on 27 February 1919 arriving on 13 March. However, his health was very poor and, despite medical treatment, he died there the following year.
+
+Ramanujan worked out the Riemann series, the elliptic integrals, hypergeometric series and functional equations of the zeta function. On the other hand he had only a vague idea of what constitutes a mathematical proof. Despite many brilliant results, some of his theorems on prime numbers were completely wrong.
+
+Ramanujan independently discovered results of Gauss, Kummer and others on hypergeometric series. Perhaps his most famous work was on the number p(n) of partitions of a number. MacMahon had produced tables of the value of p(n) for small numbers n, and Ramanujan used this numerical data to conjecture some remarkable properties some of which he proved using elliptic functions. Others were only proved after Ramanujan's death.
+
+In a joint paper with Hardy, Ramanujan gave an asymptotic formula for p(n). It had the remarkable property that it appeared to give the correct value of p(n), and this was later proved by Rademacher.
+
+Ramanujan left a number of unpublished notebooks filled with theorems that mathematicians have continued to study. G N Watson, Mason Professor of Pure Mathematics at Birmingham from 1918 to 1951 published 14 papers under the general title Theorems stated by Ramanujan and in all he published nearly 30 papers which were inspired by Ramanujan's work.

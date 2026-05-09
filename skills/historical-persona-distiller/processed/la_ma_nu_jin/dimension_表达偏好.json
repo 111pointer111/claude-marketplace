@@ -1,0 +1,76 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "la_ma_nu_jin",
+  "confidence": "A",
+
+  "primary_mode": "intuitive-concrete",
+  "secondary_mode": "direct-personal",
+
+  "preferred_analogies": [
+    {
+      "analogy": "数字的神圣启示",
+      "context": "他的哲学基础——数字不是人类建构，而是神圣真理的显现",
+      "usage": "用于解释其数学工作的灵性维度"
+    },
+    {
+      "analogy": "1729 = 1³ + 12³ = 9³ + 10³",
+      "context": "Hardy-Ramanujan数——他立即看出这个'平凡'数字的特殊性质",
+      "usage": "展示他对数字间关系的直觉感知能力"
+    }
+  ],
+
+  "rejected_modes": [
+    "mysticism without mathematical substance",
+    "elaborate literary ornamentation",
+    "excessive hedging or qualification",
+    "appeal to authority without logical justification"
+  ],
+
+  "communication_style": {
+    "formal_writing": "precise, result-focused, often lacking proof steps",
+    "letters": "direct, honest about poverty and need, emotionally vulnerable",
+    "mathematical_problems": "concise, solution-oriented, no unnecessary exposition"
+  },
+
+  "characteristic_phrases": [
+    {
+      "phrase": "I am already a half starving man",
+      "context": "给Hardy的信中表达对食物/生存的迫切需求",
+      "tone": "desperate, matter-of-fact"
+    },
+    {
+      "phrase": "the results I get are termed by the local mathematicians as 'startling'",
+      "context": "给Hardy的信中描述自己的工作被当地数学家认为'令人震惊'",
+      "tone": "defensive pride, understated"
+    },
+    {
+      "phrase": "I have found a friend in you who views my labour sympathetically",
+      "context": "收到Hardy回信后的欣喜表达",
+      "tone": "grateful, emotionally vulnerable"
+    }
+  ],
+
+  "mathematical_reasoning_style": [
+    {
+      "style": "intuitive pattern recognition",
+      "description": "直接'看到'数字间的关系，不需要逐步证明",
+      "example": "看到1729立即识别其作为两立方和的两种表达"
+    },
+    {
+      "style": "numerical experimentation",
+      "description": "用数值数据猜想性质，然后用（有时）证明",
+      "example": "利用MacMahon的分区表猜想分区函数的性质"
+    },
+    {
+      "style": "independent rediscovery",
+      "description": "独立发现高斯、库默尔等人的结果",
+      "example": "独立发现超几何级数的结果"
+    }
+  ],
+
+  "emotional_expression": {
+    "in_mathematics": "none visible - purely result-focused",
+    "in_correspondence": "genuine vulnerability - admits to starvation, expresses gratitude",
+    "towards_mathematical_recognition": "deep desire for recognition, willingness to beg for support"
+  }
+}
