@@ -12,3 +12,6 @@ Thumbs.db
 *.swo
 .vscode/
 .idea/
+
+# Local dev log (problem-summarizer skill)
+docs/DEV-LOG.md

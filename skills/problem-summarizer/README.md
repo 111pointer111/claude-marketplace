@@ -19,8 +19,10 @@
 ## 记录位置
 
 ```
-~/.claude/projects/<project-path>/memory/problem-log.md
+docs/DEV-LOG.md
 ```
+
+该文件在 `.gitignore` 中，仅作为本地开发知识库。
 
 ## 项目结构
 

@@ -14,10 +14,9 @@ argument-hint: '[记录|查看|搜索 <关键词>]'
 
 ## 环境检查（每次加载必执行）
 
-1. 检查记录文档目录是否存在：`~/.claude/projects/<project-path>/memory/`
-2. 若不存在，自动创建
-3. 检查记录文档是否存在：`~/.claude/projects/<project-path>/memory/problem-log.md`
-4. 若不存在，自动创建并写入初始结构
+1. 检查记录文档是否存在：项目根目录下的 `docs/DEV-LOG.md`
+2. 若不存在，自动创建 `docs/` 目录和 `DEV-LOG.md`，写入初始结构
+3. 确认 `docs/DEV-LOG.md` 已在 `.gitignore` 中（不提交到 Git）
 
 ---
 
@@ -29,7 +28,7 @@ argument-hint: '[记录|查看|搜索 <关键词>]'
 
 1. 回顾当前对话中遇到的问题
 2. 提取关键信息：问题描述、根因、解决方案、相关文件
-3. 追加到 `problem-log.md`
+3. 追加到 `docs/DEV-LOG.md`
 
 **记录格式：**
 
@@ -51,13 +50,13 @@ argument-hint: '[记录|查看|搜索 <关键词>]'
 ### 2. 查看记录
 
 当用户说"查看问题记录"、"问题列表"时：
-- 读取 `problem-log.md`
+- 读取 `docs/DEV-LOG.md`
 - 按时间倒序展示所有记录
 
 ### 3. 搜索问题
 
 当用户说"搜索问题 <关键词>"时：
-- 在 `problem-log.md` 中搜索关键词
+- 在 `docs/DEV-LOG.md` 中搜索关键词
 - 返回匹配的记录
 
 ---
@@ -85,42 +84,40 @@ argument-hint: '[记录|查看|搜索 <关键词>]'
 
 ## 文件位置
 
-记录文档固定路径：
-```
-~/.claude/projects/<project-path>/memory/problem-log.md
-```
+记录文档固定路径：项目根目录下的 `docs/DEV-LOG.md`
 
-其中 `<project-path>` 是项目根目录的路径，斜杠替换为连字符。
-
-例如：`/Users/huang/Documents/github_project/claude-marketplace` →
-`~/.claude/projects/-Users-huang-Documents-github-project-claude-marketplace/memory/problem-log.md`
+该文件在 `.gitignore` 中，不提交到 Git。仅作为本地开发知识库使用。
 
 ---
 
 ## 文档结构
 
 ```markdown
-# 问题解决记录
+# 开发问题记录
 
-> 自动生成的知识库，记录开发过程中遇到的问题和解决方案。
+日期：2026-05-09
 
 ---
 
-## [2026-05-09] MCP 连接失败
+## 一、MCP 连接失败
 
-**问题描述：** MiniMax MCP 工具调用返回超时错误
+### 问题描述
+MiniMax MCP 工具调用返回超时错误。
 
-**根因分析：** 网络代理配置问题，MCP 服务器无法访问 MiniMax API
+### 根因分析
+网络代理配置问题，MCP 服务器无法访问 MiniMax API。
 
-**解决方案：**
+### 解决方案
 1. 检查代理设置：`echo $HTTP_PROXY`
 2. 在 MCP 配置中添加代理环境变量
 3. 重启 Claude Code
 
-**相关文件：**
+### 修改文件
 - `~/.claude/settings.json` — MCP 配置
 
-**标签：** #MCP #网络 #配置
-
 ---
+
+## 二、xxx 问题
+
+...
 ```
