@@ -20,6 +20,7 @@
 | 143 | 拉马努金 | 印度-英国/20世纪 | 2026-05-09 | medium | 25 |
 | 144 | 拉瓦锡 | 法国/18世纪 | 2026-05-09 | high | 25 |
 145 | 门捷列夫 | 俄国/19世纪 | 2026-05-10 | high | 15 |
+146 | 孟德尔 | 奥地利/19世纪 | 2026-05-10 | high | 20 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -33,8 +34,8 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 孟德尔（meng_de_er）
-**来源：** backlog.md（第九批，#133）
+**下一待处理：** 巴斯德（ba_si_de）
+**来源：** backlog.md（第九批，#134）
 **优先级：** medium
 
 ---
@@ -57,6 +58,31 @@
 **耗时：** 约15分钟
 
 **备注：** 门捷列夫（Dmitri Ivanovich Mendeleev，1834-1907）是俄罗斯化学家，元素周期表发明者，周期律发现者；web_search成功定位SerpAPI Google搜索返回204,000条结果；2个权威英文来源共约23,842字语料；门捷列夫为科学家而非诗人，无需诗词采集；6条思想内核（自然界系统性规律/科学预见力/系统性分类优先/真理优先于权威/教科书中发现/耐心寻求真理）均有至少2处原文引用验证；1869年3月6日宣布周期律，"在梦中看到周期表"是其最标志性故事；Voice Profile核心是"秩序先知·宇宙系统的翻译者"；101号元素"钔"（mendelevium）以他命名；confidence评为 high。
+
+---
+
+### 2026-05-10 孟德尔（meng_de_er）蒸馏记录
+
+**web_search：** ✅ 成功（DuckDuckGo 直接搜索成功，返回10条结果）
+**SerpAPI：** 未使用（web_search 成功）
+**web_fetch：** ✅ 成功（Britannica主传记+Wikipedia详细传记+Biography.com+Genome.gov+Britannica遗传学专页+Biographyhost，共6个来源）
+
+**最终来源：**
+1. Britannica - Gregor Mendel Biography（britannica.com/biography/Gregor-Mendel，约10,647字，英文，百科主源）
+2. Wikipedia - Gregor Mendel（en.wikipedia.org/wiki/Gregor_Mendel，约49,229字截取，英文，详细传记）
+3. Biography.com - Gregor Mendel（biography.com/scientists/gregor-mendel，约8,587字，英文）
+4. Genome.gov - Gregor Johann Mendel（genome.gov/genetics-glossary/Gregor-Johann-Mendel，约769字，英文）
+5. Britannica - The Work of Mendel（britannica.com/science/genetics/The-work-of-Mendel，约7,939字，英文）
+6. Biographyhost.com - Gregor Mendel Biography（biographyhost.com，约7,969字，英文）
+
+**git push 情况：** ✅ 首次 push 成功（commit 289ac2e 推送至 origin/main）
+
+**百度百科：** 未使用
+
+**confidence：** high
+**耗时：** 约20分钟
+
+**备注：** 孟德尔（Gregor Johann Mendel，1822-1884）是奥地利修士、生物学家、数学家，现代遗传学之父；web_search成功获取10条高质量结果；6个权威来源共约93,140字原始语料，合并后约22,285字；4条直接引语（"My time will come." / "perpetual anxiety about a means of livelihood" / "my dearest little animals" / "My scientific studies have afforded me great gratification"）均有原始文本来源；5条思想内核（离散因子传递/数学精确描述/实验验证优于推测/真理终将被承认/信仰与科学和谐共存）均有2+处原文引用验证；5个人生阶段（寒门学子/修士生涯/学术深造/黄金实验期/晚年逝世）语料完整；Voice Profile核心是"数学修士·沉默的先驱"——精确、克制、内敛、坚持；孟德尔悖论（Fisher批评数据"过于完美"）已在引语清单中标注；confidence评为 high。
 
 ---
 
