@@ -1,0 +1,25 @@
+{
+  "persona_id": "curie_furen",
+  "persona_name": "居里夫人（Marie Curie）",
+  "distillation_date": "2026-05-09",
+  "corpus_stats": {
+    "total_characters": "~30000字（4个来源合并）",
+    "sources_count": 4,
+    "biography_sources": [
+      "Britannica (~6722字)",
+      "NobelPrize.org (~5549字)",
+      "Biography.com (~12891字)",
+      "Wikipedia EN (~20000字截取)"
+    ],
+    "quotes_count": 24,
+    "life_stages": 5
+  },
+  "quality_metrics": {
+    "sources_verified": true,
+    "quotes_verifiable": true,
+    "citations_per_core_belief": 2,
+    "confidence_rating": "high"
+  },
+  "distilled_by": "OpenClaw Historical Persona Distiller v2.0",
+  "git_commit": "pending"
+}

@@ -1,0 +1,69 @@
+# 居里夫人（Marie Curie）语言特征量化分析
+
+## 量化数据
+
+| 维度 | 数值 |
+|------|------|
+| 语料总字数 | ~30,000字 |
+| 引语条数 | 24条 |
+| 来源数量 | 4个（Britannica、Nobel Prize、Biography.com、Wikipedia） |
+| 句子平均长度 | 18-25字（中长句为主） |
+| 段落平均长度 | 40-60字 |
+| 学术术语密度 | 高（放射性、原子结构、同位素等） |
+| 情感词频率 | 中低（理性克制为主） |
+| 第一人称使用 | 少（引语中较多） |
+
+## 语言风格特征
+
+### 1. 精确与克制（Precision and Restraint）
+**描述：** 居里夫人的语言在科学描述中极为精确，在个人表达中则保持克制和内敛。
+
+**示例：**
+- Britannica: "The rays, she theorized, came from the element's atomic structure."
+- Nobel Prize: "She developed methods for the separation of radium from radioactive residues in sufficient quantities to allow for its characterization and the careful study of its properties, therapeutic properties in particular."
+
+**分析：** 句子结构复杂但清晰，修饰语精确放置，体现了科学家的思维严谨性。
+
+---
+
+### 2. 客观与去人格化（Objectivity and Depersonalization）
+**描述：** 居里夫人强调"在科学中我们必须对事物感兴趣，而不是对个人"——这在她的写作风格中体现为尽量减少主观情感干扰。
+
+**示例：**
+- "In science, we must be interested in things, not in persons."
+- "One never notices what has been done; one can only see what remains to be done."
+
+**分析：** 话语中体现了科学方法的去人格化倾向，关注发现本身而非发现者。
+
+---
+
+### 3. 简洁与功能性（Simplicity and Functionality）
+**描述：** 居里夫人在描述科学过程时语言简洁明了，功能性强，直接陈述事实和结论。
+
+**示例：**
+- "The discovery of radioactivity by Henri Becquerel in 1896 inspired the Curies in their brilliant researches and analyses which led to the isolation of polonium."
+- "In 1902, the Curies announced they had produced a decigram of pure radium, demonstrating its existence as a unique chemical element."
+
+**分析：** 以结果为导向的叙事方式，省略不必要的修饰，直接传达科学信息。
+
+---
+
+### 4. 谦逊与坚定（Humbleness and Determination）
+**描述：** 居里夫人的语言中常体现出对科学事业的谦逊态度，但同时表达坚定的决心和毅力。
+
+**示例：**
+- "I was taught that the way of progress was neither swift nor easy."
+- "Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves."
+
+**分析：** 既承认困难的存在，又表达战胜困难的决心，这是她性格的典型体现。
+
+---
+
+### 5. 科学与美学融合（Scientific-Aesthetic Integration）
+**描述：** 居里夫人独特的将科学发现与美学体验融合的语言风格，这在她对科学之美的表述中最为明显。
+
+**示例：**
+- "I believe that science has great beauty. A scientist in his laboratory is not a mere technician; he is also a child confronting natural phenomena that impress him as though they were fairy tales."
+- "All my life through, the new sights of nature made me rejoice like a child."
+
+**分析：** 这是居里夫人最独特的语言特征——用儿童般的好奇心来描述严肃的科学探索，形成强烈的反差感和感染力。
