@@ -1,0 +1,33 @@
+# 门捷列夫（men_jie_lie_fu）蒸馏完成标记
+
+**人物**: 门捷列夫（Dmitri Mendeleev）
+**蒸馏日期**: 2026-05-10
+**置信度**: high
+**PID**: men_jie_lie_fu
+
+## 蒸馏产出
+
+### Output 文件（已生成）
+- SKILL.md
+- EVENTS.md
+- VOICE.md
+- README.md
+- METADATA.json
+- CITATIONS.md
+- raw_stats.json
+
+### Processed 文件（已生成）
+- stages.md
+- dimension_思想内核.json
+- dimension_语言特征.json
+- dimension_表达偏好.json
+- dimension_立场光谱.json
+- dimension_voice_profile.json
+
+### Raw 文件（已生成）
+- 传记.txt
+- 引语.txt
+- Wikipedia补充.txt
+- 全部语料.txt
+
+## 蒸馏完成

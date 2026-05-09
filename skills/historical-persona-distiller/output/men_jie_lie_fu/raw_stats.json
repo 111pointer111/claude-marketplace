@@ -1,0 +1,43 @@
+{
+  "persona_id": "men_jie_lie_fu",
+  "人物": "门捷列夫",
+  "蒸馏日期": "2026-05-10",
+  "原始文件": [
+    {
+      "文件名": "传记.txt",
+      "来源": "Britannica Dmitri Mendeleev Biography",
+      "URL": "https://www.britannica.com/biography/Dmitri-Mendeleev",
+      "字数": "约8842字",
+      "类型": "百科传记"
+    },
+    {
+      "文件名": "引语.txt",
+      "来源": "Britannica + Wikipedia 整理",
+      "URL": "多个",
+      "字数": "约4862字",
+      "类型": "引语集"
+    },
+    {
+      "文件名": "Wikipedia补充.txt",
+      "来源": "Wikipedia Dmitri Mendeleev",
+      "URL": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev",
+      "字数": "约7882字",
+      "类型": "百科详细传记"
+    }
+  ],
+  "统计": {
+    "来源总数": 2,
+    "总字数": "约21586字",
+    "直接引语数": 8,
+    "后世评述引语数": 7,
+    "思想内核条目数": 6,
+    "人生阶段数": 4,
+    "诗歌数": "不适用（科学家无诗词下限要求）"
+  },
+  "质量指标": {
+    "confidence": "high",
+    "多源验证": true,
+    "引语溯源": true,
+    "原文完整粘贴": true
+  }
+}

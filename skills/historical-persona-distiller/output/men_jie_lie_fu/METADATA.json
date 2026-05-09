@@ -1,0 +1,48 @@
+{
+  "persona_id": "men_jie_lie_fu",
+  "name_cn": "门捷列夫",
+  "name_en": "Dmitri Mendeleev",
+  "lifespan": "1834-1907",
+  "dynasty": "俄国/19世纪",
+  "pid": "men_jie_lie_fu",
+  "confidence": "high",
+  "priority": "medium",
+  "蒸馏日期": "2026-05-10",
+  "蒸馏方式": "cron自动化蒸馏",
+  "主要来源": [
+    {
+      "来源": "Britannica",
+      "URL": "https://www.britannica.com/biography/Dmitri-Mendeleev",
+      "字数": "约8842字",
+      "类型": "百科主源"
+    },
+    {
+      "来源": "Wikipedia",
+      "URL": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev",
+      "字数": "约15000字（截取）",
+      "类型": "百科详细传记"
+    }
+  ],
+  "来源总数": 2,
+  "语料总字数": "约23842字",
+  "核心引语数": 8,
+  "思想内核条目数": 6,
+  "人生阶段数": 4,
+  "奖项": [
+    "德米多夫奖（1861）",
+    "戴维奖章（1882）",
+    "法拉第奖讲（1889）",
+    "英国皇家学会外籍会员（1892）",
+    "科普利奖章（1905）"
+  ],
+  "代表作品": [
+    "《化学原理》（Osnovy khimii，1868-1870）",
+    "《有机化学》（1861）",
+    "《论水与酒精的化合物》（博士论文，1865）"
+  ],
+  "meta": {
+    "version": "1.0",
+    "confidence_说明": "所有6条核心信念均至少有2处原始文本引用，8条直接引语全部可溯源，4个人生阶段划分清晰，语料覆盖完整",
+    "已知局限": "门捷列夫为科学家非诗人，无诗词采集问题；Voice Profile基于Britannica和Wikipedia等二手文献推断"
+  }
+}
