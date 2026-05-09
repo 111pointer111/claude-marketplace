@@ -1,0 +1,20 @@
+{
+  "source_count": 5,
+  "total_chars": 43605,
+  "by_source": {
+    "britannica_maxwell_bio": 9974,
+    "mactutor_maxwell": 19798,
+    "britannica_maxwell_equations": 3082,
+    "britannica_kinetic_theory": 3827,
+    "baidu_maxwell": 6924
+  },
+  "by_type": {
+    "historical_record": 43605
+  },
+  "poetry_count": 0,
+  "poetry_requirement_met": false,
+  "poetry_requirement_note": "科学家，无诗词作品要求",
+  "direct_quotes_count": 25,
+  "citations_verifiable": true,
+  "notes": "麦克斯韦本人论文原文多通过二手文献引用；百度百科来源为中文翻译；Britannica和MacTutor为主要英文权威来源"
+}

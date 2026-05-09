@@ -1,0 +1,79 @@
+{
+  "persona_id": "mai_si_wei_ten",
+  "name_cn": "詹姆斯·克拉克·麦克斯韦",
+  "name_en": "James Clerk Maxwell",
+  "birth_year": 1831,
+  "death_year": 1879,
+  "nationality": "苏格兰（英国）",
+  "era": "19世纪",
+  "primary_profession": "理论物理学家、数学家",
+  "major_field": "电磁学、热力学与统计物理学",
+  "persona_id_methodology": "NAMING.md规则：拼音全拼+下划线连接",
+  "pid": "mai_si_wei_ten",
+  "confidence": "high",
+  "sources": [
+    {
+      "name": "Britannica - James Clerk Maxwell Biography",
+      "url": "https://www.britannica.com/biography/James-Clerk-Maxwell",
+      "type": "historical_record",
+      "chars": 9974
+    },
+    {
+      "name": "MacTutor History of Mathematics - Maxwell",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Maxwell/",
+      "type": "historical_record",
+      "chars": 19798
+    },
+    {
+      "name": "Britannica - Maxwell's Equations",
+      "url": "https://www.britannica.com/science/Maxwells-equations",
+      "type": "historical_record",
+      "chars": 3082
+    },
+    {
+      "name": "Britannica - Kinetic Theory of Gases",
+      "url": "https://www.britannica.com/science/kinetic-theory-of-gases",
+      "type": "historical_record",
+      "chars": 3827
+    },
+    {
+      "name": "百度百科 - 詹姆斯·克拉克·麦克斯韦",
+      "url": "https://baike.baidu.com/item/詹姆斯·克拉克·麦克斯韦",
+      "type": "historical_record",
+      "chars": 6924
+    }
+  ],
+  "source_count": 5,
+  "total_chars": 43605,
+  "persona_dimensions": [
+    "思想内核",
+    "语言特征",
+    "表达偏好",
+    "立场光谱"
+  ],
+  "key_events": [
+    "1831: 出生（爱丁堡）",
+    "1846: 第一篇论文（14岁）",
+    "1854: 剑桥毕业获史密斯奖",
+    "1857: 土星环Adams奖",
+    "1862: 预言电磁波=光速",
+    "1866: 气体动理论",
+    "1871: 首任卡文迪许教授",
+    "1879: 逝世（48岁）"
+  ],
+  "core_contributions": [
+    "麦克斯韦方程组（四个方程）",
+    "电磁波=光速的历史性预言",
+    "麦克斯韦-玻尔兹曼气体动理论",
+    "土星环由小颗粒组成的数学证明",
+    "三原色色彩视觉理论",
+    "卡文迪许实验室设计建立"
+  ],
+  "distill_date": "2026-05-09",
+  "distill_duration_minutes": 15,
+  "search_tools": {
+    "web_search": "failed (DuckDuckGo fetch failed)",
+    "serpapi": "not used (web_search failed)",
+    "web_fetch": "succeeded (Britannica, MacTutor, baike.baidu.com)"
+  }
+}
