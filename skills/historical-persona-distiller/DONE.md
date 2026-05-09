@@ -32,9 +32,31 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 麦克斯韦（mai_si_wei_ten）
+**下一待处理：** 门捷列夫（men_jie_lie_fu）
 **来源：** backlog.md（第九批，#131）
 **优先级：** medium
+
+---
+
+### 2026-05-09 麦克斯韦（mai_si_wei_ten）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo fetch failed）
+**SerpAPI：** ❌ 失败（未启用，web_search失败后直接使用web_fetch）
+**web_fetch：** ✅ 成功（Britannica传记+MacTutor数学史+百度百科+2个Britannica子页面，共5个来源）
+
+**最终来源：**
+1. Britannica - James Clerk Maxwell Biography（britannica.com/biography/James-Clerk-Maxwell，约9,974字，英文，百科主源）
+2. MacTutor History of Mathematics - James Clerk Maxwell（mathshistory.st-andrews.ac.uk/Biographies/Maxwell/，约19,798字，英文，详细传记）
+3. Britannica - Maxwell's Equations（britannica.com/science/Maxwells-equations，约3,082字，英文）
+4. Britannica - Kinetic Theory of Gases（britannica.com/science/kinetic-theory-of-gases，约3,827字，英文）
+5. 百度百科 - 詹姆斯·克拉克·麦克斯韦（baike.baidu.com/item/詹姆斯·克拉克·麦克斯韦，约6,924字，中文）
+
+**git push 情况：** ❌ 失败（网络问题，无法连接github.com:443，多次重试均失败）
+
+**confidence：** high
+**耗时：** 约15分钟
+
+**备注：** 麦克斯韦（James Clerk Maxwell，1831-1879）是苏格兰物理学家、数学家，剑桥大学首任卡文迪许教授，被誉为"电磁理论之父"，与牛顿、爱因斯坦并称"历史上最伟大的三位物理学家"；web_search失败后 SerpAPI 未启用，直接使用 web_fetch 抓取5个权威来源成功；5个来源共约43,605字语料；麦克斯韦为科学家而非诗人，无需诗词采集；5条思想内核（物理世界的数学统一性/几何直观优先/实验与理论不可分割/科学属于全人类/宇宙机械类比主义）均有至少2处原文引用验证；Voice Profile核心是"理性先知·几何宇宙的译者"——从数学方程的美感中"看见"宇宙真相，先知型科学家；麦克斯韦方程组将电学、磁学、光学统一，预言电磁波=光速，是19世纪最重大的物理学突破；git push 因网络问题失败，已本地commit，状态待推送。
 
 ---
 
@@ -556,18 +578,18 @@
 
 ```
 总人物数：     170
-已完成：       111
+已完成：       112
 进行中：       0
-待处理：       59
-完成率：       65.3%（111/170）
+待处理：       58
+完成率：       65.9%（112/170）
 
 按 priority：
   high：       36（已完38）
-  medium：     54（已完35）
+  medium：     54（已完36）
   low：        80（已完16）
 
 按 confidence：
-  high：       56
+  high：       57
   medium：     30
   A：           1
   medium-high：  1
