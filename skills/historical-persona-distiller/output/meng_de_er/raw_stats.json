@@ -1,0 +1,73 @@
+{
+  "personaId": "meng_de_er",
+  "name": "孟德尔 (Gregor Mendel)",
+  "distilledAt": "2026-05-09",
+  "sourcesCollected": [
+    {
+      "name": "Britannica - Gregor Mendel Biography",
+      "url": "https://www.britannica.com/biography/Gregor-Mendel",
+      "type": "historical_record",
+      "size_chars": 10647
+    },
+    {
+      "name": "Wikipedia - Gregor Mendel",
+      "url": "https://en.wikipedia.org/wiki/Gregor_Mendel",
+      "type": "historical_record",
+      "size_chars": 49229
+    },
+    {
+      "name": "Biography.com - Gregor Mendel",
+      "url": "https://www.biography.com/scientists/gregor-mendel",
+      "type": "historical_record",
+      "size_chars": 8587
+    },
+    {
+      "name": "Genome.gov - Gregor Johann Mendel",
+      "url": "https://www.genome.gov/genetics-glossary/Gregor-Johann-Mendel",
+      "type": "commentary",
+      "size_chars": 769
+    },
+    {
+      "name": "Britannica - The Work of Mendel",
+      "url": "https://www.britannica.com/science/genetics/The-work-of-Mendel",
+      "type": "historical_record",
+      "size_chars": 7939
+    },
+    {
+      "name": "Biographyhost.com - Gregor Mendel Biography",
+      "url": "https://biographyhost.com/p/gregor-mendel-biography.html",
+      "type": "historical_record",
+      "size_chars": 7969
+    }
+  ],
+  "corpus_stats": {
+    "total_sources": 6,
+    "total_raw_chars": 93140,
+    "merged_corpus_chars": 22285,
+    "biography_chars": 11850,
+    "quotes_chars": 898
+  },
+  "directQuotes": 4,
+  "keyEvents": 30,
+  "lifeStages": 5,
+  "outputFiles": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "processedFiles": [
+    "stages.md",
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "dimension_voice_profile.json"
+  ],
+  "confidence": "high",
+  "webSearchStatus": "成功 - 使用 DuckDuckGo 直接搜索",
+  "serpApiStatus": "未使用（web_search 成功）"
+}
