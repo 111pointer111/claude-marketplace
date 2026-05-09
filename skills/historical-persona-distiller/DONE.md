@@ -32,13 +32,13 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 法拉第（fa_la_di）
-**来源：** backlog.md（第八批，#130）
-**优先级：** high
+**下一待处理：** 麦克斯韦（mai_si_wei_ten）
+**来源：** backlog.md（第九批，#131）
+**优先级：** medium
 
 ---
 
-### 2026-05-09 拉瓦锡（la_wa_xi）蒸馏记录
+### 2026-05-09 法拉第（michael_faraday）蒸馏记录
 
 **web_search：** ❌ 失败（DuckDuckGo fetch failed）
 **SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索成功，返回 JSON 有机结果）
@@ -556,10 +556,10 @@
 
 ```
 总人物数：     170
-已完成：       110
+已完成：       111
 进行中：       0
-待处理：       60
-完成率：       64.7%（110/170）
+待处理：       59
+完成率：       65.3%（111/170）
 
 按 priority：
   high：       36（已完38）
@@ -2242,3 +2242,23 @@
 
 **备注：** 拉马努金（Srinivasa Ramanujan，1887-1920）是印度数学天才，在几乎没有正规教育的情况下独立发展了约3900个数学结果；web_search失败后 SerpAPI via web_fetch 成功发挥作用；3个权威英文来源语料丰富，思想内核分析完整，5条核心信念均有 Britannica、Wikipedia、St Andrews 等权威来源支持，每条至少2处原文引用；拉马努金为数学家而非诗人，不涉及诗词抓取问题；整体置信度评为 A（高），所有引语均可溯源至原始文本，无自行创作内容。
 
+
+### 2026-05-09 法拉第（michael_faraday）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接失败/超时）
+**SerpAPI：** ❌ 失败（SerpAPI 返回错误或超时）
+**web_fetch：** ✅ 成功（Britannica 传记主源成功，3个来源共约22,000字语料）
+
+**最终来源：**
+1. Britannica - Michael Faraday（britannica.com/biography/Michael-Faraday，约18,475字，英文，主源）
+2. Britannica - Faraday's laws of electrolysis（britannica.com/science/Faradays-laws-of-electrolysis，约2,256字，英文）
+3. 后世评述（Britannica 综合内容，约1,348字）
+
+**git push 情况：** ❌ 失败（网络问题，多次重试均失败：Empty reply from server / Failed to connect to github.com port 443）
+
+**confidence：** medium
+**耗时：** 约20分钟
+
+**备注：** 法拉第（Michael Faraday，1791-1867）是英国19世纪实验物理学家，发现电磁感应（1831年）、发明第一台电动机和发电机（dynamo）、发现电解定律（以"法拉第"命名的电学单位）；web_search失败后 SerpAPI via web_fetch 也失败（网络问题）；最终通过 web_fetch 直接抓取 Britannica 成功获得足够语料；人物为科学家而非诗人，无诗词抓取问题；语料主要来源为 Britannica 综合传记（二手文献），缺乏 Faraday 原始论文的直接引用，confidence 评为 medium；5个阶段划分清晰，语料约12,388字，全部引用均可溯源至Britannica传记原文，无自行创作内容。
+
+**Git push 失败原因：** 网络问题（无法连接 github.com:443），已本地 commit，状态待推送。
