@@ -18,6 +18,7 @@
 140 | 图灵 | 英国/20世纪 | 2026-05-09 | high | 25 |
 142 | 居里夫人 | 法国-波兰/19-20世纪 | 2026-05-09 | high | 20 |
 | 143 | 拉马努金 | 印度-英国/20世纪 | 2026-05-09 | medium | 25 |
+| 144 | 拉瓦锡 | 法国/18世纪 | 2026-05-09 | high | 25 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -31,9 +32,35 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 拉瓦锡（la_wa_xi）
-**来源：** backlog.md（第八批，#129）
+**下一待处理：** 法拉第（fa_la_di）
+**来源：** backlog.md（第八批，#130）
 **优先级：** high
+
+---
+
+### 2026-05-09 拉瓦锡（la_wa_xi）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo fetch failed）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索成功，返回 JSON 有机结果）
+**web_fetch：** ✅ 成功（Britannica 多个页面成功，5个不同URL约42000+字语料）
+
+**最终来源：**
+1. Britannica - Antoine Lavoisier Biography（britannica.com/biography/Antoine-Lavoisier，约7745字，英文，百科主源）
+2. Britannica - Oxygen Discovery（britannica.com/science/oxygen，约15428字，英文，氧的发现与命名）
+3. Britannica - Conservation of Mass（britannica.com/science/conservation-of-mass，约2879字，英文）
+4. Britannica - Chemical Element（britannica.com/science/chemical-element，约9249字，英文，元素定义）
+5. Britannica - French Revolution（britannica.com/event/French-Revolution，约6745字，英文，时代背景）
+
+**git push 情况：** ✅ 首次 push 成功（commit 56935e7 推送至 origin/main）
+
+**百度百科：** ❌ 失败（baike.baidu.com/item/拉瓦锡 和 baike.baidu.com/item/安托万·拉瓦锡 均返回404）
+**Wikipedia：** ❌ 失败（fetch failed）
+**Nobel Prize/ThoughtCo/World History：** ❌ 失败（部分返回403/522错误）
+
+**confidence：** A
+**耗时：** 约25分钟
+
+**备注：** 拉瓦锡（Antoine-Laurent Lavoisier，1743-1794）是法国化学家、金融家，被誉为"近代化学之父"；web_search失败后 SerpAPI via web_fetch 成功定位5个Britannica权威来源；5个来源共约42000+字语料；拉瓦锡为化学家无需诗词采集；质量守恒定律、燃烧氧化理论、氧气命名等6条思想内核均有2+处Britannica原文引用验证；最著名语录"Nothing is lost, nothing is created, everything is transformed"有多处来源记载；拉瓦锡于法国大革命期间（1794年5月8日）在断头台上被处死，年仅50岁——科学史上最悲剧的损失之一；Voice Profile核心是"理性先知·定量炼金术士"——精确、严谨、定量、权威而克制的科学语言，与启蒙时代理性人在政治暴力面前的悲剧性交织。
 
 ---
 
