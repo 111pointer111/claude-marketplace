@@ -1,0 +1,84 @@
+{
+  "核心价值观": [
+    {
+      "条目": "实验先于理论",
+      "描述": "Faraday坚信自然界的真理必须通过实验来发现和验证，而非依赖权威或先入为主的理论。他从现象出发，用实验来引导概念形成，这一实验哲学是其科学方法论的核心。",
+      "原文引用": [
+        "Unlike his contemporaries, he was not convinced that electricity was a material fluid that flowed through wires like water through a pipe. Instead, he thought of it as a vibration or force that was somehow transmitted as the result of tensions created in the conductor. — Britannica Biography of Michael Faraday",
+        "He closed the primary circuit and, to his delight and satisfaction, saw the galvanometer needle jump. A current had been induced in the secondary coil by one in the primary. — Britannica Biography of Michael Faraday"
+      ],
+      "同时代对比": "与同时代将电视为'流体'的科学家相比，Faraday坚持从实验现象出发而非从数学预设出发思考电的本质。这种直观物理思维最终导向电磁感应发现，而数学功底更深的理论家（如Ampère）却错过了这个机会。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "自然界的统一性",
+      "描述": "Faraday一生致力于发现电、磁、光之间的内在联系，认为自然界的一切力量都是同一根本力的不同表现。这一信念驱使他发现电磁感应、磁光效应等一系列统一性现象。",
+      "原文引用": [
+        "He provided the experimental, and a good deal of the theoretical, foundation upon which James Clerk Maxwell erected classical electromagnetic field theory. — Britannica Biography of Michael Faraday",
+        "The magnitude of a current was dependent upon the number of lines of force cut by the conductor in unit time. — Britannica Biography of Michael Faraday"
+      ],
+      "同时代对比": "同时代科学家倾向于将电、磁、光视为各自独立的现象，Faraday的'力线'概念是第一个将它们联系起来的统一框架，比Maxwell的数学场论早约30年。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "科学的谦逊与开放",
+      "描述": "Faraday在实验证据面前随时准备修正自己的观点。他提出了'电紧张态'概念却始终找不到实验证明，但他从未放弃这个想法，也不排斥他人质疑。他拒绝了爵位和会长职位，显示了对名利的淡泊态度。",
+      "原文引用": [
+        "Although he could not find experimental evidence for the electrotonic state, he never entirely abandoned the concept, and it shaped most of his later work. — Britannica Biography of Michael Faraday",
+        "Faraday declined a knighthood and the presidency of the Royal Society. — Britannica Biography of Michael Faraday"
+      ],
+      "同时代对比": "与他同时代的许多大科学家（如Davy、Napoleon封爵的科学家）不同，Faraday在获得巨大声誉后依然保持谦逊，拒绝皇室授勋。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "科学属于公众",
+      "描述": "Faraday坚持科学不应是精英的专利，而应服务于普通公众。他创立了皇家理工学院圣诞讲座传统，用通俗语言向大众传播科学知识，这一传统延续至今。",
+      "原文引用": [
+        "The Royal Institution's Christmas lectures, a tradition Faraday began, continue to this day. — Britannica Biography of Michael Faraday",
+        "He was appointed the first Fullerian Professor of Chemistry at the Royal Institution, a post he held until his death. — Britannica Biography of Michael Faraday"
+      ],
+      "同时代对比": "与大多数维多利亚时代将科学视为上流社会专利的科学家不同，Faraday主动走出实验室，用圣诞讲座等方式将科学带给普通民众。",
+      "贯穿程度": "始终如一（晚期更明显）",
+      "实践一致性": "一致"
+    }
+  ],
+  "政治立场": {
+    "描述": "Faraday不参与政治，也不介入政治争论。作为一名科学家，他以服务社会而非改造社会为已任。他没有明显的政治偏向，对社会改革态度中性，更关注自然现象本身。其信仰（Sandemanians派）强调个人精神修养而非政治参与。",
+    "原文引用": [
+      "The family belonged to a small Christian sect, called Sandemanians, that provided spiritual sustenance to Faraday throughout his life. It was the single most important influence upon him and strongly affected the way in which he approached and interpreted nature. — Britannica Biography of Michael Faraday"
+    ],
+    "时代坐标": "Faraday处于维多利亚时代鼎盛期（1837-1901），英国政治稳定，他是科学服务于帝国的典型代表，但本人不参与政治。",
+    "内在张力": "无明显张力",
+    "confidence": "medium"
+  },
+  "底线清单": [
+    {
+      "条目": "科学诚实",
+      "描述": "不伪造实验结果，不为迎合权威而放弃实验证据。即使是Davy这样的恩师，Faraday也坚持自己的实验发现。",
+      "原文引用": "It has been said, with some truth, that Faraday was Davy's greatest discovery. — Britannica Biography of Michael Faraday",
+      "是否有例外": "无"
+    },
+    {
+      "条目": "拒绝荣誉和权力",
+      "描述": "拒绝一切可能分散科学精力的荣誉，包括爵位和皇家学会会长职位。",
+      "原文引用": "Faraday declined a knighthood and the presidency of the Royal Society. — Britannica Biography of Michael Faraday",
+      "是否有例外": "无"
+    }
+  ],
+  "自我定位": {
+    "描述": "Faraday自视为自然的探索者，而非权威的解释者。他不认为自己是在'创造'知识，而是在'发现'自然已有的真理。他的Sandemanians信仰强化了这种谦逊——人应通过实验认识上帝创造的自然界。",
+    "原文引用": [
+      "He sent a bound copy of his notes to Davy along with a letter asking for employment, but there was no opening. Davy did not forget, however, and when one of his laboratory assistants was dismissed for brawling, he offered Faraday a job. — Britannica Biography of Michael Faraday",
+      "The article on electricity in the third edition of the Encyclopædia Britannica particularly fascinated him. Using old bottles and lumber, he made a crude electrostatic generator and did simple experiments. — Britannica Biography of Michael Faraday"
+    ],
+    "与时代关系": "自视甚低但志向高远——从贫困学徒到伟大科学家，完全依靠自学和实验才能。他的经历本身就是对'自我奋斗'的最佳注解。"
+  },
+  "思想内部张力": {
+    "主要矛盾": "直觉 vs 数学：Faraday具有非凡的物理直觉（力线、场概念），但不擅长数学形式化。这导致他的理论在提出时缺乏严格性，需要Maxwell后来用数学语言完善。但他坚持'直观图像'优于'数学形式'，这在科学哲学上是一种有意识的立场。",
+    "深层原因": "正规教育有限：Faraday只在教堂主日学校接受基础教育，未系统学习数学。这既是局限也是优势——他的思维不受传统数学物理学的束缚，能以全新方式思考电磁现象。",
+    "对人格的影响": "这种张力使Faraday更依赖实验而非理论推演，更喜欢用物理图像而非数学公式来表达思想，也促使他更耐心地进行大量实验而非坐在书桌前推导公式。"
+  }
+}

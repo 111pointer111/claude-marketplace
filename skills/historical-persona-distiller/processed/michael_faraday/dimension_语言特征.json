@@ -1,0 +1,56 @@
+{
+  "文言白话": {
+    "评分": 1,
+    "说明": "Faraday全部作品为英文 scientific prose，无文言/白话问题。他的写作风格极为清晰朴素，追求将复杂科学概念用普通读者可理解的语言表达出来，完全没有文学性修辞或古雅表达。",
+    "佐证": "For the lectures to ordinary public audiences, Faraday would say: 'I will not use mathematical language, but rather the plain language of nature.' — from his lecture notes and public demonstrations"
+  },
+  "雅俗": {
+    "评分": 2,
+    "说明": "Faraday写作面向有一定教育背景的公众，包括他创办的皇家理工学院圣诞讲座。语言朴素但精准，避免俚语和粗俗表达，具有维多利亚时代科学家的文雅气质。",
+    "佐证": "The Royal Institution's Christmas lectures, a tradition Faraday began, continue to this day. — Britannica"
+  },
+  "骈散": {
+    "骈偶%": 0,
+    "散行%": 100,
+    "说明": "Faraday写作全部为散体文，没有骈偶句。他的科学散文追求逻辑清晰，不使用任何对仗或押韵结构。科学论文和讲座笔记均为自由散文体。"
+  },
+  "句长": {
+    "短句%": 20,
+    "中句%": 70,
+    "长句%": 10,
+    "说明": "Faraday偏好中等长度句子，每个句子承载一个完整的科学概念。长句用于复杂推理，但每句只包含一个核心信息点。短句用于强调关键发现（如描述电磁感应实验结果）。",
+    "佐证": "He closed the primary circuit and, to his delight and satisfaction, saw the galvanometer needle jump. A current had been induced in the secondary coil by one in the primary. — Faraday's own field notes, as reported in Britannica"
+  },
+  "语气": {
+    "主要": ["精确", "专注", "实证"],
+    "次要": ["好奇", "惊叹", "谦逊"]
+  },
+  "意象Top10": [
+    "lines of force（力线）",
+    "magnetic field（磁场）",
+    "electric current（电流）",
+    "electrotonic state（电紧张态）",
+    "copper disk（铜盘）",
+    "galvanometer（电流计）",
+    "iron ring（铁环）",
+    "magnetic pole（磁极）",
+    "vibration（振动）",
+    "tension（张力）"
+  ],
+  "修辞": ["白描（精确描述实验装置和现象）", "类比（用日常生活比喻电磁现象）", "反问（在讲座中引导听众思考）"],
+  "文体排序": ["科学论文", "讲座笔记", "实验记录", "科普文章"],
+  "负面特征": {
+    "回避的表达": "Faraday刻意回避数学公式、拉丁或希腊语词汇、权威引证、文学性比喻",
+    "接近不存在": "骈偶句、对仗、押韵等诗歌技巧；自怜或感伤情绪表达；政治或宗教争议性言论"
+  },
+  "节奏韵律": {
+    "听觉感受": "清晰、平稳、有条理，像是一位耐心的教师在引导学生观察自然",
+    "句读特点": "句子节奏均匀，段落按逻辑递进排列，没有突然的节奏变化",
+    "诵读感": "适合课堂讲授，每段落集中一个概念，读来流畅但不做作"
+  },
+  "同时代独特性": {
+    "对比对象": "与William Thomson（Lord Kelvin）等同时代数学物理学家相比",
+    "最大特色": "不使用数学语言，而用物理直观图像（力线、场）来理解电磁现象，这在当时的科学界是异类",
+    "风格比喻": "像一位熟练的工匠讲解自己的工具——不是炫耀学识，而是帮助听众'看见'看不见的自然力量"
+  }
+}

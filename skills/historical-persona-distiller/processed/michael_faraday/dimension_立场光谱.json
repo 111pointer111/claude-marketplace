@@ -1,0 +1,46 @@
+{
+  "皇权专制": {
+    "评分": 0,
+    "置信度": "low",
+    "说明": "Faraday没有对政治制度发表过意见。他的工作是科学性的，不涉及政治哲学讨论。",
+    "依据": "语料中没有涉及皇权或政治制度的内容",
+    "演变": "无演变"
+  },
+  "变法革新": {
+    "评分": "+1",
+    "置信度": "medium",
+    "说明": "Faraday本人就是科学革命的代表——他发现了电磁感应这一颠覆性现象，并将其转化为实用技术（发电机）。他对技术创新持完全开放态度。",
+    "依据": "This was the first dynamo. It was also the direct ancestor of electric motors, for it was only necessary to reverse the situation, to feed an electric current to the disk, to make it rotate. — Britannica",
+    "演变": "无演变——革新精神贯穿一生"
+  },
+  "民生疾苦": {
+    "评分": "+1",
+    "置信度": "medium",
+    "说明": "Faraday出身贫困，童年时常吃不饱饭。他成名后主动通过圣诞讲座等方式向普通公众传播科学知识，希望科学能改善普通人的生活。",
+    "依据": "The family belonged to a small Christian sect, called Sandemanians, that provided spiritual sustenance to Faraday throughout his life. — Britannica; Faraday later recalled being given one loaf of bread that had to last him for a week. — Britannica",
+    "演变": "从自身经历贫困到主动服务公众"
+  },
+  "华夷之辨": {
+    "评分": 0,
+    "置信度": "low",
+    "说明": "不适用。Faraday是19世纪英国人，他的研究没有涉及民族或华夷问题。",
+    "依据": "语料中无相关内容",
+    "演变": "无"
+  },
+  "文学功利观": {
+    "评分": 0,
+    "置信度": "low",
+    "说明": "Faraday不是文学家，其作品全部为科学写作。科学写作的目的是传播知识和启发思考，这与'载道'和'审美独立'都不直接对应。",
+    "依据": "语料中无相关内容",
+    "演变": "无"
+  },
+  "出世/入世": {
+    "评分": "+2",
+    "置信度": "high",
+    "说明": "Faraday是入世的——他积极工作，发表论文，申请专利（在发电机方面），创办讲座，服务公众。他没有隐居或逃避社会。Sandemanians的信仰使他内心有出世的一面（强调精神修养），但行动上完全入世。",
+    "依据": "In 1821 he married Sarah Barnard, settled permanently at the Royal Institution, and began the series of researches on electricity and magnetism that were to revolutionize physics. — Britannica",
+    "演变": "始终入世"
+  },
+  "综合可信度": "medium",
+  "综合说明": "Faraday是一位科学家，其政治立场和哲学立场在语料中反映有限。最可信的维度是'变法革新'（他就是科学革命的代表）和'出世/入世'（完全入世），其他维度因语料中缺乏相关内容而置信度较低。"
+}
