@@ -41,9 +41,11 @@ argument-hint: '[<参数提示>]'
 ```
 
 **当前 Skills：**
-- `minimax_model_skill/` — MiniMax 全模态，所有多模态能力统一通过 MiniMax MCP 调用
+- `minimax_model_skill/` — MiniMax 全模态，通过 mmx CLI 统一调用
 - `video-generation/` — 视频生成，支持 Runway / Pika / Kling
 - `voice-synthesis/` — 配音合成，支持 MiniMax / 通义千问
+- `problem-summarizer/` — 问题总结记录，自动记录问题和解决方案
+- `commit-helper/` — Git Commit 规范生成，自动生成 Conventional Commits 格式
 
 ### 环境变量
 所有 API Key 集中在 `skills/.env` 管理（已 gitignore）。从 `skills/.env.example` 复制。每个 SKILL.md 自行处理缺失 key 的引导流程。
