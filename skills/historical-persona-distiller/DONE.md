@@ -15,7 +15,7 @@
 137 | 欧拉 | 瑞士-俄国/18世纪 | 2026-05-08 | high | 45 |
 138 | 特斯拉 | 塞尔维亚-美国/19-20世纪 | 2026-05-08 | high | 40 |
 139 | 弗莱明 | 苏格兰/20世纪 | 2026-05-09 | medium | 15 |
-140 | 图灵 | 英国/20世纪 | — | — | — |
+140 | 图灵 | 英国/20世纪 | 2026-05-09 | high | 25 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -29,9 +29,26 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 图灵（tu_ling）
-**来源：** backlog.md（第六批外国科技人物，#139）
+**下一待处理：** 居里夫人（curie_furen）
+**来源：** backlog.md（第七批，#135）
 **优先级：** high
+
+---
+
+### 2026-05-09 图灵（alan_turing）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 返回无结果）
+**SerpAPI：** ❌ 失败（返回403 forbidden）
+**web_fetch：** ✅ 成功（Britannica + Wikipedia + Stanford Encyclopedia 均成功，共3个来源）
+
+**最终来源：**
+1. Britannica - Alan Turing（britannica.com/biography/Alan-Turing，约8500字，英文，百科主源）
+2. Wikipedia - Alan Turing（en.wikipedia.org，约30000字，英文，详细传记）
+3. Stanford Encyclopedia of Philosophy - Alan Turing（plato.stanford.edu/entries/turing/，英文，哲学百科）
+
+**git push 情况：** ✅ 首次 push 成功（commit 882837a 推送至 origin/main）
+
+**备注：** 图灵（Alan Turing，1912-1954）是计算机科学之父、数学家、密码破译者；backlog中列入English/Western人物因此为英文来源；web_search和SerpAPI均失败，直接web_fetch成功抓取3个权威英文来源；3个来源均成功，无失败来源；所有5条思想内核均有2+处原文引用；18条直接引语全部可验证来源；confidence: A；图灵无需诗词采集（现代科学家）；Voice Profile基于其学术写作风格和已知性格特征推断。
 
 ---
 
