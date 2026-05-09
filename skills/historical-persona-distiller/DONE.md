@@ -16,6 +16,7 @@
 138 | 特斯拉 | 塞尔维亚-美国/19-20世纪 | 2026-05-08 | high | 40 |
 139 | 弗莱明 | 苏格兰/20世纪 | 2026-05-09 | medium | 15 |
 140 | 图灵 | 英国/20世纪 | 2026-05-09 | high | 25 |
+141 | 居里夫人 | 法国-波兰/19-20世纪 | 2026-05-09 | high | 20 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -29,9 +30,32 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 居里夫人（curie_furen）
-**来源：** backlog.md（第七批，#135）
-**优先级：** high
+**下一待处理：** 斯宾诺莎（si_bin_nuo_sha）
+**来源：** backlog.md（第八批，#95）
+**优先级：** medium
+
+---
+
+### 2026-05-09 居里夫人（curie_furen）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo bot检测）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索成功，返回 JSON 有机结果，约130条）
+**web_fetch：** ✅ 成功（Britannica、Nobel Prize官网、Biography.com、Wikipedia 均成功，共4个来源）
+
+**最终来源：**
+1. Britannica - Marie Curie（britannica.com/biography/Marie-Curie，约6722字，英文，百科主源）
+2. Nobel Prize Official Biographical（nobelprize.org/prizes/physics/1903/marie-curie/biographical/，约5549字，英文，官方传记）
+3. Biography.com - Marie Curie（biography.com/scientists/marie-curie，约12891字，英文，人物专页+引语集）
+4. Wikipedia - Marie Curie（en.wikipedia.org/wiki/Marie_Curie，约20000字截取，英文，详细传记）
+
+**git push 情况：** ✅ 首次 push 成功（commit f3b8b86 推送至 origin/main）
+
+**百度百科：** ❌ 失败（baike.baidu.com/item/玛丽·居里 返回404）
+
+**confidence：** high
+**耗时：** 约20分钟
+
+**备注：** 居里夫人（Marie Curie，1867-1934）是波兰裔法国物理学家、化学家，两次诺贝尔奖得主（1903物理学奖/1911化学奖），历史上首位女性诺贝尔奖得主，唯一在两个不同科学领域获奖的人；web_search失败后 SerpAPI via web_fetch 成功定位4个权威英文来源；4个来源共约45000+字语料；居里夫人为科学家无需诗词采集；24条引语全部可溯源；6条思想内核（科学之美/原子物理学开创/科学普世主义/科学服务人道/坚忍不拔/进步信念）均有至少2处原文引用验证；Voice Profile核心是"用科学眼睛发现童话的科学家"——理性与诗意的独特融合；confidence评为 high。
 
 ---
 
