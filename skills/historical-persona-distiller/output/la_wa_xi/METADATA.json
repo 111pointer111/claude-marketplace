@@ -1,0 +1,40 @@
+{
+  "persona_id": "la_wa_xi",
+  "name": "安托万·洛朗·拉瓦锡",
+  "name_en": "Antoine-Laurent de Lavoisier",
+  "dynasty": "法国18世纪",
+  "birth": "1743年8月26日",
+  "death": "1794年5月8日",
+  "age": 50,
+  "birthplace": "法国巴黎",
+  "occupation": ["化学家", "金融家", "公共行政官员"],
+  "major_contributions": [
+    "质量守恒定律",
+    "燃烧的氧化理论",
+    "现代化学命名体系",
+    "氧气命名"
+  ],
+  "representative_works": [
+    {
+      "title": "《化学基础论》",
+      "title_en": "Traité Élémentaire de Chimie",
+      "year": 1789,
+      "note": "与牛顿《自然哲学的数学原理》和达尔文《物种起源》并称自然科学三大经典"
+    }
+  ],
+  "nickname": "近代化学之父",
+  "metadata": {
+    "version": "1.0",
+    "distilled_at": "2026-05-09",
+    "confidence": "A",
+    "sources_count": 3,
+    "primary_sources": [
+      "Britannica - Antoine Lavoisier Biography",
+      "Britannica - Oxygen Discovery",
+      "Britannica - Conservation of Mass"
+    ],
+    "total_corpus_chars": 56000,
+    "language": "zh-CN + en",
+    "persona_type": "historian_scientist"
+  }
+}
