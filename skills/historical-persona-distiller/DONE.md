@@ -21,6 +21,7 @@
 | 144 | 拉瓦锡 | 法国/18世纪 | 2026-05-09 | high | 25 |
 145 | 门捷列夫 | 俄国/19世纪 | 2026-05-10 | high | 15 |
 146 | 孟德尔 | 奥地利/19世纪 | 2026-05-10 | high | 20 |
+147 | 培根 | 英国/17世纪 | 2026-05-11 | high | 20 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -35,8 +36,30 @@
 ## 二、下一待处理
 
 **下一待处理：** 巴斯德（ba_si_de）
-**来源：** backlog.md（第九批，#134）
+**来源：** backlog.md（第九批，#135）
 **优先级：** medium
+
+---
+
+### 2026-05-11 培根（pei_gen）蒸馏记录
+
+**web_search：** ✅ 成功（DuckDuckGo 直接搜索成功，返回多条结果）
+**SerpAPI：** 未使用（web_search 成功）
+**web_fetch：** ✅ 成功（Stanford Encyclopedia + Britannica + IEP，共3个来源）
+
+**最终来源：**
+1. Stanford Encyclopedia of Philosophy - Francis Bacon（plato.stanford.edu/entries/francis-bacon/，约50,000字，英文，哲学权威）
+2. Britannica - Francis Bacon（britannica.com/biography/Francis-Bacon-Viscount-Saint-Alban，约20,113字，英文，百科主源）
+3. Internet Encyclopedia of Philosophy - Bacon, Francis（iep.utm.edu/francis-bacon/，约48,192字，英文，哲学综合概述）
+
+**git push 情况：** ✅ 首次 push 成功（commit 098a1f6 推送至 origin/main）
+
+**百度百科：** 未使用
+
+**confidence：** high
+**耗时：** 约20分钟
+
+**备注：** 培根（Francis Bacon，1561-1626）是英国文艺复兴末期至启蒙时代最重要的哲学家、作家、政治家；web_search成功定位多个英文权威来源；3个来源共约118,305字语料；培根为哲学家无需诗词采集；8条思想内核（知识即权力/知识救济人类/彻底重建/知识进步无限/四偶像说/排除式归纳法/知识制度化/真值与效用同一）均有至少2处原文引用验证；Voice Profile核心是"理性先知·经验主义与方法论革新之父"——冷峻讽刺下是改变人类处境的热忱理想；最著名语录"Human knowledge and human power come to the same thing"（知识与权力是同一件事）；1626年因实验雪的温度效用受寒去世——知识即权力的终极实践；培根是流水线第147号人物，也是第一位非中文人物；confidence评为 high。
 
 ---
 
