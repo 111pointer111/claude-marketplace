@@ -10,7 +10,8 @@
 | 132 | 达尔文 | 英国/19世纪 | 2026-05-07 | high | 35 |
 | 133 | 伽利略 | 意大利/16-17世纪 | 2026-05-08 | high | 25 |
 | 134 | 哥白尼 | 波兰/16世纪 | 2026-05-08 | high | 25 |
-135 | 开普勒 | 德国/16-17世纪 | 2026-05-08 | high | 25 |
+| 134b | 巴斯德 | 法国/19世纪 | 2026-05-10 | medium | 20 |
+| 135 | 开普勒 | 德国/16-17世纪 | 2026-05-08 | high | 25 |
 136 | 高斯 | 德国/18-19世纪 | 2026-05-08 | high | 25 |
 137 | 欧拉 | 瑞士-俄国/18世纪 | 2026-05-08 | high | 45 |
 138 | 特斯拉 | 塞尔维亚-美国/19-20世纪 | 2026-05-08 | high | 40 |
@@ -35,9 +36,9 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 巴斯德（ba_si_de）
-**来源：** backlog.md（第九批，#135）
-**优先级：** medium
+**下一待处理：** 特斯拉（ni_ke_la_te_si_la）
+**来源：** backlog.md（第九批，#136）
+**优先级：** high
 
 ---
 
@@ -60,6 +61,30 @@
 **耗时：** 约20分钟
 
 **备注：** 培根（Francis Bacon，1561-1626）是英国文艺复兴末期至启蒙时代最重要的哲学家、作家、政治家；web_search成功定位多个英文权威来源；3个来源共约118,305字语料；培根为哲学家无需诗词采集；8条思想内核（知识即权力/知识救济人类/彻底重建/知识进步无限/四偶像说/排除式归纳法/知识制度化/真值与效用同一）均有至少2处原文引用验证；Voice Profile核心是"理性先知·经验主义与方法论革新之父"——冷峻讽刺下是改变人类处境的热忱理想；最著名语录"Human knowledge and human power come to the same thing"（知识与权力是同一件事）；1626年因实验雪的温度效用受寒去世——知识即权力的终极实践；培根是流水线第147号人物，也是第一位非中文人物；confidence评为 high。
+
+---
+
+### 2026-05-10 巴斯德（ba_si_de）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo fetch failed）
+**SerpAPI：** ❌ 失败（返回403）
+**web_fetch：** ✅ 成功（Britannica多个页面+Biography.com+World History Encyclopedia，共5个来源）
+
+**最终来源：**
+1. Britannica - Louis Pasteur（britannica.com/biography/Louis-Pasteur，约20,000字，英文，百科主源）
+2. Biography.com - Louis Pasteur（biography.com/scientists/louis-pasteur，约18,000字，英文，含引语集锦）
+3. Britannica - Louis Pasteur Research Career（britannica.com/biography/Louis-Pasteur/Research-career，约5,000字）
+4. Britannica - Spontaneous Generation（britannica.com/biography/Louis-Pasteur/Spontaneous-generation，约4,000字）
+5. World History Encyclopedia - Louis Pasteur（worldhistory.org/article/2085/louis-pasteur/，约7,000字）
+
+**git push 情况：** ✅ 首次 push 成功（commit eb272f3 推送至 origin/main）
+
+**百度百科：** 未使用
+
+**confidence：** medium
+**耗时：** 约20分钟
+
+**备注：** 巴斯德（Louis Pasteur，1822-1895）是法国化学家、微生物学家，近代微生物学奠基人；web_search和SerpAPI均失败，web_fetch直接抓取Britannica等英文来源成功；5个不同来源共约54,000字语料；巴斯德为科学家而非诗人，无需诗词采集；6条思想内核（微生物致病论/机会眷顾有准备的头脑/科学应用如果实与树/无限小角色无限大/疫苗可预防疾病/宇宙不对称性）均有2+处原文引用验证；标志性语录"Chance only favors the prepared mind"；5个人生阶段（早年求学/斯特拉斯堡与里尔/巴氏消毒法与丝绸业/疫苗学突破/晚年遗产）划分清晰；confidence评为 medium，因主要依赖英文百科二手文献，缺乏原始法语日记和书信的直接引用。
 
 ---
 
