@@ -1,0 +1,74 @@
+{
+  "raw_stats": {
+    "persona_id": "pei_gen",
+    "persona_name": "弗朗西斯·培根",
+    "sources_collected": [
+      {
+        "source_name": "Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/francis-bacon/",
+        "type": "historical_record",
+        "content_type": "philosophy detailed analysis",
+        "fetch_status": "success",
+        "chars_fetched": 50000
+      },
+      {
+        "source_name": "Britannica",
+        "url": "https://www.britannica.com/biography/Francis-Bacon-Viscount-Saint-Alban",
+        "type": "historical_record",
+        "content_type": "biography and facts",
+        "fetch_status": "success",
+        "chars_fetched": 20113
+      },
+      {
+        "source_name": "Internet Encyclopedia of Philosophy",
+        "url": "https://iep.utm.edu/francis-bacon/",
+        "type": "commentary",
+        "content_type": "comprehensive overview",
+        "fetch_status": "success",
+        "chars_fetched": 48192
+      }
+    ],
+    "local_files_created": {
+      "raw_dir": "raw/pei_gen/",
+      "files": [
+        {
+          "filename": "传记.txt",
+          "source": "Stanford Encyclopedia + Britannica",
+          "chars": 5879
+        },
+        {
+          "filename": "引语.txt",
+          "source": "Britannica + Stanford + IEP",
+          "chars": 3510
+        }
+      ]
+    },
+    "processed_dir": "processed/pei_gen/",
+    "processed_files": [
+      "stages.md",
+      "dimension_思想内核.json",
+      "dimension_语言特征.json",
+      "dimension_表达偏好.json",
+      "dimension_立场光谱.json",
+      "dimension_voice_profile.json"
+    ],
+    "output_dir": "output/pei_gen/",
+    "output_files": [
+      "SKILL.md",
+      "EVENTS.md",
+      "VOICE.md",
+      "README.md",
+      "METADATA.json",
+      "CITATIONS.md",
+      "raw_stats.json"
+    ]
+  },
+  "workflow": {
+    "search_method": "web_search (DuckDuckGo) succeeded",
+    "serpapi_used": false,
+    "baidu_used": false,
+    "sources_count": 3,
+    "confidence": "high",
+    "all_dimensions_completed": true
+  }
+}

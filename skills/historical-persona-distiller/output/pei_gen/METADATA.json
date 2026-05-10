@@ -1,0 +1,44 @@
+{
+  "persona_id": "pei_gen",
+  "persona_name": "弗朗西斯·培根",
+  "english_name": "Francis Bacon",
+  "pid_pattern": "pei_gen",
+  "birth_year": 1561,
+  "death_year": 1626,
+  "nationality": "英国",
+  "era": "文艺复兴末期至启蒙初期",
+  "confidence": "high",
+  "蒸馏日期": "2026-05-11",
+  "语料统计": {
+    "sources_used": 3,
+    "source_names": ["Stanford Encyclopedia of Philosophy", "Britannica", "Internet Encyclopedia of Philosophy"],
+    "raw_files_created": ["raw/pei_gen/传记.txt", "raw/pei_gen/引语.txt"],
+    "total_raw_length_chars": 9389,
+    "processed_dimensions": ["思想内核", "语言特征", "表达偏好", "立场光谱", "Voice Profile"],
+    "stages_identified": 4
+  },
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "dimensional_confidence": {
+    "思想内核": "high",
+    "语言特征": "medium-high",
+    "表达偏好": "high",
+    "立场光谱": "high",
+    "voice_profile": "high"
+  },
+  "web_search_status": {
+    "primary_search": "成功",
+    "fallback_serpapi": "未使用",
+    "fallback_baidu": "未使用",
+    "最终使用的来源": ["Stanford Encyclopedia of Philosophy (web_fetch)", "Britannica (web_fetch)", "Internet Encyclopedia of Philosophy (web_fetch)"]
+  },
+  "git_commit": "pending",
+  "notes": "培根是第一位非中文历史人物，完全使用英文来源蒸馏。web_search 成功找到多个来源，web_fetch 成功抓取 Stanford、Britannica、IEP 三个来源，语料质量高。"
+}
