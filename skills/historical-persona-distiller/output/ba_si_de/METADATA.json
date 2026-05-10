@@ -1,0 +1,78 @@
+{
+  "persona_id": "ba_si_de",
+  "name_zh": "巴斯德",
+  "name_en": "Louis Pasteur",
+  "birth_year": 1822,
+  "death_year": 1895,
+  "nationality": "法国",
+  "primary_field": "化学、微生物学",
+  "secondary_fields": ["疫苗学", "立体化学", "细菌学"],
+  "confidence": "medium",
+  "distilled_at": "2026-05-10",
+  "distiller_model": "minimax/MiniMax-M2.7",
+  "sources_used": [
+    {
+      "name": "Britannica - Louis Pasteur",
+      "url": "https://www.britannica.com/biography/Louis-Pasteur",
+      "type": "encyclopedia",
+      "language": "en",
+      "characters": 3784
+    },
+    {
+      "name": "Biography.com - Louis Pasteur",
+      "url": "https://www.biography.com/scientists/louis-pasteur",
+      "type": "biography",
+      "language": "en",
+      "characters": 8106
+    },
+    {
+      "name": "Britannica - Pasteurization",
+      "url": "https://www.britannica.com/technology/pasteurization",
+      "type": "encyclopedia",
+      "language": "en",
+      "characters": 6294
+    },
+    {
+      "name": "Britannica - Anthrax",
+      "url": "https://www.britannica.com/science/anthrax-disease",
+      "type": "encyclopedia",
+      "language": "en",
+      "characters": 12447
+    },
+    {
+      "name": "Britannica - Rabies",
+      "url": "https://www.britannica.com/science/rabies",
+      "type": "encyclopedia",
+      "language": "en",
+      "characters": 7396
+    }
+  ],
+  "source_count": 5,
+  "total_corpus_characters": 37927,
+  "combined_corpus_characters": 11707,
+  "poems_collected": 0,
+  "poems_required": 0,
+  "is_poet": false,
+  "core_beliefs_count": 6,
+  "key_events_count": 13,
+  "quotes_count": 12,
+  "personality_tags": [
+    "实验主义者",
+    "实用主义者",
+    "救世情怀",
+    "科学理性",
+    "严谨精确",
+    "爱国主义者"
+  ],
+  "known_limitations": [
+    "缺乏原始法语文献",
+    "中文资料受限",
+    "百科来源为主",
+    "无第一手书信日记"
+  ],
+  "search_tools_used": {
+    "web_search": "failed",
+    "serpapi": "success",
+    "web_fetch": "partial_success"
+  }
+}
