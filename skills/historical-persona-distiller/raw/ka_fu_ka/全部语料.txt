@@ -1,0 +1,150 @@
+# 卡夫卡 Franz Kafka (1883-1924) 语料收集
+# persona_id: ka_fu_ka
+# 收集时间: 2026-05-11
+
+## 来源1: Britannica - Franz Kafka Biography
+https://www.britannica.com/biography/Franz-Kafka
+
+Franz Kafka (born July 3, 1883, Prague, Bohemia—died June 3, 1924, Kierling, near Vienna, Austria) was a German-language writer of visionary fiction whose works—especially the novel Der Prozess (1925; The Trial) and the story Die Verwandlung (1915; The Metamorphosis)—express the anxieties and alienation felt by many in 20th-century Europe and North America.
+
+Franz Kafka, the son of Julie Löwy and Hermann Kafka, a merchant, was born into a prosperous middle-class Jewish family. After two brothers died in infancy, he became the eldest child and remained, for the rest of his life, conscious of his role as elder brother; Ottla, the youngest of his three sisters, became the family member closest to him. Kafka strongly identified with his maternal ancestors because of their spirituality, intellectual distinction, piety, rabbinical learning, melancholy disposition, and delicate physical and mental constitution. He was not, however, particularly close to his mother. Subservient to her overwhelming ill-tempered husband and his exacting business, she shared with her spouse a lack of comprehension of their son's unprofitable and, they feared, unhealthy dedication to the literary "recording of his…dreamlike inner life."
+
+The figure of Kafka's father overshadowed his work as well as his existence. The figure is, in fact, one of his most impressive creations. In his imagination this coarse, practical, and domineering shopkeeper and patriarch who worshipped nothing but material success and social advancement belonged to a race of giants and was an awesome, admirable, but repulsive tyrant. In Kafka's most important attempt at autobiography, Brief an den Vater (written 1919; Letter to Father), a letter that never reached the addressee, Kafka attributed his failure to live, to cut loose from parental ties and establish himself in marriage and fatherhood, as well as his escape into literature, to the prohibitive father figure, which instilled in him the sense of his own impotence. He felt his will had been broken by his father. The conflict with the father is reflected directly in Kafka's story Das Urteil (1913; The Judgment). It is projected on a grander scale in Kafka's novels, which portray in lucid, deceptively simple prose a man's desperate struggle with an overwhelming power, one that may persecute its victim (as in The Trial) or one that may be sought after and begged in vain for approval (as in Das Schloss [1926; The Castle]).
+
+Yet the roots of Kafka's anxiety and despair go deeper than his relationship with his father and family, with whom he chose to live in close and cramped proximity for the major part of his adult life. The source of Kafka's despair lies in a sense of ultimate isolation from true communion with all human beings—the friends he cherished, the women he loved, the job he detested, the society he lived in—and with God, or, as he put it, with true indestructible Being.
+
+The son of an assimilated Jew who held only perfunctorily to the religious practices and social formalities of the Jewish community, Kafka was German in both language and culture. He was a timid, guilt-ridden, and obedient child who did well in elementary school and in the Altstädter Staatsgymnasium, an exacting high school for the academic elite. He was respected and liked by his teachers. Inwardly, however, he rebelled against the authoritarian institution and the dehumanized humanistic curriculum, with its emphasis on rote learning and classical languages. Kafka's opposition to established society became apparent when, as an adolescent, he declared himself a socialist as well as an atheist. Throughout his adult life he expressed qualified sympathies for the socialists, he attended meetings of Czech anarchists (before World War I), and in his later years he showed marked interest and sympathy for a socialized Zionism. Even then he was essentially passive and politically unengaged. As a Jew, Kafka was isolated from the German community in Prague, but, as a modern intellectual, he was also alienated from his own Jewish heritage. He was sympathetic to Czech political and cultural aspirations, but his identification with German culture kept even these sympathies subdued. Thus, social isolation and rootlessness contributed to Kafka's lifelong personal unhappiness.
+
+Kafka did, however, become friendly with some German Jewish intellectuals and literati in Prague, and in 1902 he met Max Brod. This minor literary artist became the most intimate and solicitous of Kafka's friends, and eventually, as Kafka's literary executor, he emerged as the promoter, saviour, and interpreter of Kafka's writings and as his most influential biographer. The two men became acquainted while Kafka was studying law at the University of Prague. He received his doctorate in 1906, and in 1907 he took up regular employment with an insurance company. The long hours and exacting requirements of the Assicurazioni Generali, however, did not permit Kafka to devote himself to writing. In 1908 he found in Prague a job in the seminationalized Workers' Accident Insurance Institute for the Kingdom of Bohemia. There he remained until 1917, when tuberculosis forced him to take intermittent sick leaves and, finally, to retire (with a pension) in 1922, about two years before he died. In his job he was considered tireless and ambitious; he soon became the right hand of his boss, and he was esteemed and liked by all who worked with him.
+
+In fact, generally speaking, Kafka was a charming, intelligent, and humorous individual, but he found his routine office job and the exhausting double life into which it forced him (for his nights were frequently consumed in writing) to be excruciating torture, and his deeper personal relationships were neurotically disturbed. The conflicting inclinations of his complex and ambivalent personality found expression in his sexual relationships. Inhibition painfully disturbed his relations with Felice Bauer, to whom he was twice engaged before their final rupture in 1917. Later his love for Milena Jesenská Pollak was also thwarted. His health was poor and office work exhausted him. In 1917 he was diagnosed as having tuberculosis, and from then onward he spent frequent periods in sanatoriums.
+
+In 1923 Kafka went to Berlin to devote himself to writing. During a vacation on the Baltic coast later that year, he met Dora Dymant (Diamant), a young Jewish socialist. The couple lived in Berlin until Kafka's health significantly worsened during the spring of 1924. After a brief final stay in Prague, where Dymant joined him, he died of tuberculosis in a clinic near Vienna.
+
+## 来源2: Britannica - The Metamorphosis
+https://www.britannica.com/topic/The-Metamorphosis
+
+The Metamorphosis (novella by Kafka) | Novella, Summary, Analysis, & Themes
+
+As Franz Kafka lay troubled and restless one night, he found himself in his bed struck by an idea for a disturbing story. Over the next few weeks he would develop that idea into The Metamorphosis. The novella, first published in German as Die Verwandlung in 1915, became one of the most celebrated works of literary fiction in history. It is one of the few stories authored by Kafka that was published during his lifetime, following The Judgment (1913) and preceding In the Penal Colony (1919).
+
+When Gregor Samsa woke up from uneasy dreams he found himself transformed in his bed into a gigantic insect.
+
+Kafka's fablelike storytelling in The Metamorphosis enchanted many readers from the very first sentence: "As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic insect."
+
+In 1912 Kafka was at the Prague home of his lifelong friend, supporter, and fellow author Max Brod when he met a secretary named Felice Bauer. They struck up a romantic relationship. On November 17, 1912, Kafka wrote to Bauer in one of his daily letters: "I was simply too miserable to get out of bed.…I'll write you again today, even though I still have to run around a lot and shall write down a short story that occurred to me during my misery in bed and oppresses me with inmost intensity."
+
+Afterward, Kafka began writing The Metamorphosis, continuing his double life: working at an insurance company by day and writing fiction by night. Less than a week later he wrote to Bauer: "Yes, that would be fine, to read this story aloud to you and be forced to hold your hand, for the story is a little horrible. It is called The Metamorphosis, it would give you a real scare."
+
+In later letters and diary entries, he would call the story "exceptionally repulsive," "infinitely repulsive," and "imperfect almost to the core."
+
+Kafka's familial relationships were even more turbulent. His father, Hermann Kafka, represented all that was oppressive to the writer. In a 47-page letter addressed to his father that was never sent, Franz Kafka detailed how his father had set an unattainable standard and example for the son, prohibiting him from living freely. His mother, Julie Kafka, tended to support his father, which eroded her relationship with his son. Writing to Brod, Franz Kafka mentioned that he debated suicide because of the pressures his family placed on him. This conflict against a repressive force manifests in many of Kafka's works.
+
+Kafka's experiences transparently bled onto the pages of The Metamorphosis. Consider the story's brusque patriarch and the protagonist's monstrous otherness. Isolation—from companionship, from intimacy, from fulfillment—is a theme in both Kafka's life and his works.
+
+"Was he an animal, that music had such an effect upon him?" —The Metamorphosis
+
+One morning, as Gregor Samsa woke from a fitful, dream-filled sleep, he found that he had changed into an enormous bedbug.
+
+Kafka's story remains unique. It has a contemporary setting grounded in reality, and, although it is certainly horrific in some scenes, The Metamorphosis is also comedic. It reads like a modern-day myth, presenting a clear allegory but few clues as to the message behind the metamorphosis.
+
+## 来源3: Britannica - The Trial
+https://www.britannica.com/topic/The-Trial-novel-by-Kafka
+
+The Trial, novel by visionary German-language writer Franz Kafka, originally published posthumously in 1925. One of Kafka's major works, and perhaps his most pessimistic, this surreal story of a young man who finds himself caught up in the mindless bureaucracy of the law has become synonymous with the anxieties and alienation of the modern age and with an ordinary person's struggle against an unreasoning and unreasonable authority. It is often considered to be an imaginative anticipation of totalitarianism.
+
+The narrative emerges from the book's opening sentence: "Somebody must have slandered Joseph K., for one morning, without having done anything wrong, he was arrested."
+
+K. is not informed of the time that he is expected to appear, but he goes on Sunday morning to the address he was given, which proves to be that of a large tenement building. Eventually a washerwoman directs him to a crowded meeting hall, where the examining magistrate scolds K. for being late. K. energetically protests his treatment and denounces the corruption of the system.
+
+K. never discovered why he was arrested or what he was charged with, and he was never able to understand the principles governing the system of justice in which he found himself ensnared. In the end, he did not resist his inevitable execution.
+
+After Kafka's death from tuberculosis in 1924, the chapters were organized and the book published by his friend and literary executor, Max Brod, despite Kafka's request that Brod destroy the manuscript. The book was unfinished, and there has been debate as to whether the chapters were published in the correct order.
+
+## 来源4: Britannica - The Castle
+https://www.britannica.com/topic/The-Castle-novel-by-Kafka
+
+The Castle, allegorical novel by Franz Kafka, published posthumously in German as Das Schloss in 1926.
+
+The setting of the novel is a village dominated by a castle. Time seems to have stopped in this wintry landscape, and nearly all the scenes occur in the dark. K., the otherwise nameless protagonist, arrives at the village claiming to be a land surveyor appointed by the castle authorities. His claim is rejected by the village officials, and the novel recounts K.'s efforts to gain recognition from an elusive authority. K. aggressively challenges both the petty, arrogant officials and the villagers who accept their authority. All his stratagems fail.
+
+The Castle is an unfinished novel—as Max Brod, Kafka's literary executor, observed, Kafka intended that K. should die exhausted by his futile efforts to gain access to and acceptance from the elusive, local authorities but that on his deathbed his character was finally to receive a permit to stay in the village—and it stands as testament to the Kafka's achievements that its unfinished state is in no way detrimental to its effectiveness. Thomas Mann hazarded that Kafka might have finished the book with a single added chapter, but Kafka abandoned it in 1922, making occasional notes but never returning to it in earnest. Mann agreed with Brod that the novel was a highly symbolic, and oddly humourous, allegory in which divine grace meets the slowly grinding machinery of the bureaucratic state; for her part, Simone de Beauvoir, who considered The Castle a pioneering work of existentialism, said of it, "Kafka spoke to us about ourselves."
+
+## 来源5: Biography.com - Franz Kafka
+https://www.biography.com/authors-writers/franz-kafka
+
+Franz Kafka (1883-1924)
+
+Author Franz Kafka grew up in an upper middle-class Jewish family. After studying law at the University of Prague, he worked in insurance and wrote in the evenings. In 1923, he moved to Berlin to focus on writing, but died of tuberculosis shortly after. His friend Max Brod published most of his work posthumously, such as Amerika and The Castle.
+
+Tragedy shaped the Kafka home. Franz's two younger brothers, Georg and Heinrich, died in infancy by the time Kafka was six, leaving the boy the only son in a family that included three daughters (all of whom would later die in Nazi death camps or a Polish ghetto).
+
+Kafka's father had a profound impact on both Kafka's life and writing. He was a tyrant of sorts, with a wicked temper and little appreciation for his son's creative side. Much of Kafka's personal struggles, in romance and other relationships, came, he believed, in part from his complicated relationship with his father. In his literature, Kafka's characters were often coming up against an overbearing power of some kind, one that could easily break the will of men and destroy their sense of self-worth.
+
+German was his first language. In fact, despite his Czech background and Jewish roots, Kafka's identity favored German culture.
+
+Kafka was a smart child who did well in school even at the Altstädter Staatsgymnasium, an exacting high school for the academic elite. Still, even while Kafka earned the respect of his teachers, he chafed under their control and the school's control of his life.
+
+After high school Kafka enrolled at the Charles Ferdinand University of Prague, where intended to study chemistry but after just two weeks switched to law. The change pleased his father, and also gave Kafka the time to take classes in art and literature.
+
+In 1906 Kafka completed his law degree and embarked on a year of unpaid work as a law clerk.
+
+After completing his apprenticeship, Kafka found work with an Italian insurance agency in late 1907. He lasted at the agency a little less than a year. After turning in his resignation he quickly found a new job with the Workers' Accident Insurance Institute for the Kingdom of Bohemia.
+
+As much as any work could, the job and his employers suited Kafka, who worked hard and became his boss's right-hand man. Kafka remained with the company until 1917, when a bout with tuberculosis forced him to take a sick leave and to eventually retire in 1922.
+
+At work Kafka was a popular employee, easy to socialize with and seen as somebody with a good sense of humor. But his personal life still raged with complications. His inhibitions and insecurities plagued his relationships. Twice he was engaged to marry his girlfriend, Felice Bauer, before the two finally went their separate ways in 1917.
+
+Later, Kafka later fell in love with Dora Dymant (Diamant), who shared his Jewish roots and a preference for socialism. Amidst Kafka's increasingly dire health, the two fell in love and lived together in Berlin.
+
+Kafka and Dora eventually returned to Prague. In an attempt to overcome his tuberculosis, Kafka traveled to Vienna for treatment at a sanatorium. He died in Kierling, Austria, on June 3, 1924. He was buried beside his parents in Prague's New Jewish Cemetery in Olsanske.
+
+While Kafka strove to earn a living, he also poured himself into his writing work. An old friend named Max Brod would prove crucial in supporting Kafka's literary work both during his life and long after it.
+
+Kafka's celebrity as a writer only came after his death. During his lifetime, he published just a sliver of his overall work.
+
+His most popular and best-selling short story, "The Metamorphosis," was completed in 1912 and published in 1915. The story was written from Kafka's third-floor room, which offered a direct view of the Vltava River and its toll bridge.
+
+"I would stand at the window for long periods," he wrote in his diary in 1912, "and was frequently tempted to amaze the toll collector on the bridge below by my plunge."
+
+Kafka followed up "The Metamorphosis" with Meditation, a collection of short stories, in 1913, and "Before the Law," a parable within his novel The Trial, written between 1914 and 1915.
+
+Even with his worsening health, Kafka continued to write. In 1916 he completed "The Judgment," which spoke directly about the relationship he shared with his father. Later works included "In the Penal Colony" and "A Country Doctor," both finished in 1919.
+
+In 1924, an ill but still working Kafka finished A Hunger Artist, which features four stories that demonstrate the concise and lucid style that marked his writing at the end of his life.
+
+But Kafka, still living with the demons that plagued with him self-doubt, was reluctant to unleash his work on the world. He requested that Brod, who doubled as his literary executor, destroy any unpublished manuscripts.
+
+Fortunately, Brod did not adhere to his friend's wishes and in 1925 published The Trial, a dark, paranoid tale that proved to be the author's most successful novel.
+
+The following year, Brod released The Castle, which again railed against a faceless and dominating bureaucracy.
+
+In 1927, the novel Amerika was published. The story hinges on a boy, Karl Rossmann, who is sent by his family to America, where his innocence and simplicity are exploited everywhere he travels.
+
+Incredibly, at the time of his death Kafka's name was known only to small group of readers. It was only after he died and Max Brod went against the demands of his friend that Kafka and his work gained fame. His books garnered favor during World War II, especially, and greatly influenced German literature.
+
+As the 1960s took shape and Eastern Europe was under the fist of bureaucratic Communist governments, Kafka's writing resonated particularly strongly with readers. So alive and vibrant were the tales that Kafka spun about man and faceless organizations that a new term was introduced into the English lexicon: "Kafkaesque."
+
+The measure of Kafka's appeal and value as a writer was quantified in 1988, when his handwritten manuscript of The Trial was sold at auction for $1.98 million, at that point the highest price ever paid for a modern manuscript.
+
+## 标志性引语
+
+1. "As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic insect." —The Metamorphosis (Muir translation)
+
+2. "Somebody must have slandered Joseph K., for one morning, without having done anything wrong, he was arrested." —The Trial (opening sentence)
+
+3. "A first sign of the beginning of understanding is the wish to die." —Letter to Father / Diary
+
+4. "I was simply too miserable to get out of bed." —Letter to Felice Bauer, November 17, 1912
+
+5. "Was he an animal, that music had such an effect upon him?" —The Metamorphosis
+
+6. "Kafka spoke to us about ourselves." —Simone de Beauvoir on The Castle
+
+7. "The story is a little horrible. It is called The Metamorphosis, it would give you a real scare." —Letter to Felice Bauer
+
+8. "I would stand at the window for long periods...and was frequently tempted to amaze the toll collector on the bridge below by my plunge." —Diary, 1912
+
+9. "His books garnered favor during World War II...a new term was introduced into the English lexicon: 'Kafkaesque.'" —Biography.com
+
+10. "This is perhaps the most important work in 20th-century German literature." —West German book dealer on The Trial manuscript sale

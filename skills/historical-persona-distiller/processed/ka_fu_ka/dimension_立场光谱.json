@@ -1,0 +1,61 @@
+{
+  "persona_id": "ka_fu_ka",
+  "dimension": "立场光谱",
+  "version": "1.0",
+  "confidence": "high",
+  
+  "political_orientation": {
+    "self_declaration": "社会主义者 + 无神论者（青少年时期公开宣告）",
+    "实际倾向": "政治上被动、非介入性的社会主义同情者",
+    "description": "Kafka declared himself a socialist and an atheist as an adolescent. Throughout his adult life he expressed qualified sympathies for the socialists, attended meetings of Czech anarchists (before WWI), and in later years showed marked interest in socialized Zionism. However, even then he was essentially passive and politically unengaged.",
+    "quotes": [
+      "As an adolescent, he declared himself a socialist as well as an atheist.",
+      "Throughout his adult life he expressed qualified sympathies for the socialists, he attended meetings of Czech anarchists."
+    ]
+  },
+  
+  "religious_orientation": {
+    "orientation": "无神论者/不可知论者，存在性精神寻求",
+    "description": "Despite being born into a Jewish family, Kafka was alienated from his Jewish heritage. His spiritual struggles were more existential than religious — concerns about Being, isolation from God, and the absence of meaning rather than belief or disbelief in a deity.",
+    "quotes": [
+      "The source of Kafka's despair lies in a sense of ultimate isolation from true communion with all human beings...and with God, or, as he put it, with true indestructible Being."
+    ]
+  },
+  
+  "social_position": {
+    "class": "中产阶级犹太家庭，但始终批判资产阶级价值观",
+    "description": "Born into a prosperous middle-class Jewish family, Kafka identified spiritually with his maternal ancestors — their spirituality, intellectual distinction, and melancholy disposition — rather than with his father's materialist, success-oriented worldview. He lived his adult life in close proximity to his parents while feeling deeply alienated from their values."
+  },
+  
+  "ideological_conflicts": {
+    "conflict_01": {
+      "description": "个人自由 vs. 家庭义务",
+      "detail": "The tension between living a free, creative life and fulfilling familial/social expectations (marriage, career) runs through all his major works."
+    },
+    "conflict_02": {
+      "description": "理性秩序 vs. 存在混乱",
+      "detail": "Despite being a methodical person who worked in insurance/bureaucracy, Kafka portrayed bureaucratic systems as irrational and oppressive."
+    },
+    "conflict_03": {
+      "description": "犹太身份认同 vs. 德国文化同化",
+      "detail": "As a German-speaking Jew in Prague, he was doubly isolated — from German community, from Jewish community, from Czech culture."
+    }
+  },
+  
+  "position_on_key_issues": {
+    "authority": "批判性——权威是压迫性的、非人格化的、无法理解的",
+    "religion": "质疑性——对传统宗教持怀疑态度，更关注存在性精神问题",
+    "modernity": "矛盾性——既受益于现代理性体系，又深感其荒谬和压迫",
+    "art_and_literature": "使命性——文学是逃离家庭压迫、建立个人存在的唯一出路",
+    "death": "接受性——面对死亡的平静，既不渴望也不恐惧，认为死亡是某种审判的完成"
+  },
+  
+  "spectrum_placement": {
+    "political": "左翼同情者（被动、非介入）",
+    "economic": "反资本主义（通过批判资产阶级价值观）",
+    "social": "自由主义人文主义（强调个人、批判威权）",
+    "cultural": "现代主义先驱（对传统形式的反叛）"
+  },
+  
+  "summary": "卡夫卡的立场位于政治光谱的左翼边缘——对社会主义和共产主义持同情态度，但在实践层面始终被动和非介入。他更关注的是存在性问题（异化、沟通失败、审判的无意义）而非具体的政治方案。这种存在主义焦虑使他成为20世纪现代主义和后现代主义文学的精神先驱，而非明确的政治行动者。"
+}

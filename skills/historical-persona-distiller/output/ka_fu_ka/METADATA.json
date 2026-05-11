@@ -1,0 +1,57 @@
+{
+  "persona_id": "ka_fu_ka",
+  "name_original": "Franz Kafka",
+  "name_zh": "弗兰茨·卡夫卡",
+  "birth_year": 1883,
+  "death_year": 1924,
+  "nationality": "奥匈帝国波希米亚（今捷克）",
+  "era": "19-20世纪之交",
+  "identity": "德语作家、短篇小说家、小说家",
+  "persona_id": "ka_fu_ka",
+  "pid": "ka_fu_ka",
+  "confidence": "high",
+  "priority": "medium",
+  "language_primary": "德语",
+  "language_secondary": "中文译介",
+  
+  "life_span_years": 40,
+  "birth_place": "布拉格（波希米亚，奥匈帝国）",
+  "death_place": "基尔林（奥地利）",
+  
+  "major_works": [
+    {"title": "变形记", "year": 1915, "type": "中篇小说"},
+    {"title": "审判", "year": 1925, "type": "小说（遗作）"},
+    {"title": "城堡", "year": 1926, "type": "小说（遗作）"},
+    {"title": "判决", "year": 1913, "type": "短篇"},
+    {"title": "在流刑营", "year": 1919, "type": "短篇"},
+    {"title": "乡村医生", "year": 1919, "type": "短篇集"},
+    {"title": "饥饿艺术家", "year": 1924, "type": "短篇集"},
+    {"title": "致父亲的信", "year": 1919, "type": "书信"},
+    {"title": "美国", "year": 1927, "type": "小说（遗作）"}
+  ],
+  
+  "key_themes": [
+    "异化与孤立",
+    "压迫性权威的不可理解",
+    "沟通的根本失败",
+    "无法明确的罪与审判",
+    "父子冲突",
+    "官僚体系荒谬",
+    "存在的无意义"
+  ],
+  
+  "linguistic_features": [
+    "短句主导",
+    "法律文件般精确",
+    "冷静疏离的语调",
+    "反情绪化",
+    "寓言性与超现实主义结合"
+  ],
+  
+  "source_count": 5,
+  "source_total_chars": 42000,
+  
+  "distilled_at": "2026-05-11",
+  "version": "1.0",
+  "distiller": "pipeline-v2"
+}

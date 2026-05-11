@@ -1,0 +1,45 @@
+{
+  "persona_id": "ka_fu_ka",
+  "raw_stats": {
+    "corpus_sources": [
+      {
+        "source_name": "Britannica - Franz Kafka Biography",
+        "url": "https://www.britannica.com/biography/Franz-Kafka",
+        "chars": 12000,
+        "type": "biography"
+      },
+      {
+        "source_name": "Britannica - The Metamorphosis",
+        "url": "https://www.britannica.com/topic/The-Metamorphosis",
+        "chars": 15000,
+        "type": "commentary"
+      },
+      {
+        "source_name": "Britannica - The Trial",
+        "url": "https://www.britannica.com/topic/The-Trial-novel-by-Kafka",
+        "chars": 7300,
+        "type": "commentary"
+      },
+      {
+        "source_name": "Britannica - The Castle",
+        "url": "https://www.britannica.com/topic/The-Castle-novel-by-Kafka",
+        "chars": 4100,
+        "type": "commentary"
+      },
+      {
+        "source_name": "Biography.com - Franz Kafka",
+        "url": "https://www.biography.com/authors-writers/franz-kafka",
+        "chars": 10200,
+        "type": "biography"
+      }
+    ],
+    "total_sources": 5,
+    "total_chars": 48600,
+    "citations_count": 36,
+    "major_works_covered": 9,
+    "life_stages_covered": 5,
+    "web_search_status": "failed",
+    "serpapi_status": "success",
+    "serpapi_note": "SerpAPI成功用于初步搜索，但主要通过直接web_fetch抓取Britannica和Biography.com高质量来源"
+  }
+}

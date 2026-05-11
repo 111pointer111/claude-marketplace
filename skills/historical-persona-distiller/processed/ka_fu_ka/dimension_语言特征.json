@@ -1,0 +1,70 @@
+{
+  "persona_id": "ka_fu_ka",
+  "dimension": "语言特征",
+  "version": "1.0",
+  "confidence": "high",
+  
+  "linguistic_features": {
+    "sentence_structure": {
+      "characteristic": "短句、简单句为主，句法清晰如法律文件",
+      "description": "Kafka's sentence structure is deceptively simple — almost bureaucratic in its clarity. Despite describing surreal, nightmare scenarios, his sentences remain grammatically straightforward and detached. This creates a disturbing contrast between the ordinary syntax and the extraordinary content.",
+      "examples_from_text": [
+        "As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic insect.",
+        "Somebody must have slandered Joseph K., for one morning, without having done anything wrong, he was arrested."
+      ]
+    },
+    
+    "tone": {
+      "characteristic": "冷静、疏离、客观记者般的语调",
+      "description": "The narrator's tone is remarkably detached — events of horrifying import are described with the same calm precision as everyday occurrences. This creates a sense of unreality where nothing seems quite real, yet is presented as absolutely matter-of-fact.",
+      "examples_from_text": [
+        "He was considered tireless and ambitious; he soon became the right hand of his boss, and he was esteemed and liked by all who worked with him.",
+        "He died of tuberculosis in a clinic near Vienna."
+      ]
+    },
+    
+    "diction": {
+      "characteristic": "精确、具体、几乎没有隐喻性形容词的平实词汇",
+      "description": "Kafka uses concrete, specific vocabulary. He avoids ornamental description and poetic flourishes in favor of precise denotation. Even when describing metamorphosis or surreal transformations, his word choice remains anchored in the physical and tangible.",
+      "examples_from_text": [
+        "He was charming, intelligent, and humorous.",
+        "His speech is no longer intelligible."
+      ]
+    },
+    
+    "narrative_voice": {
+      "characteristic": "第三人称全知视角，但保持极度客观和克制",
+      "description": "The narrative voice is omniscient but deliberately neutral. Kafka refuses to interpret or explain the significance of events, leaving readers to grapple with meaninglessness on their own. The narrator offers no comfort, no commentary, and no escape.",
+      "examples_from_text": [
+        "He found himself changed in his bed into a monstrous insect.",
+        "The story is a little horrible. It would give you a real scare."
+      ]
+    },
+    
+    "rhetorical_devices": {
+      "characteristic": "冷静的陈述作为修辞策略",
+      "description": "Kafka relies on understatement and bathetic contrast — the juxtaposition of the mundane and the monstrous — to create existential dread. There is no melodrama, no exclamation, no authorial intrusion to signal what the reader should feel.",
+      "examples_from_text": [
+        "One morning, as Gregor Samsa woke from a fitful, dream-filled sleep, he found that he had changed into an enormous bedbug.",
+        "In later letters and diary entries, he would call the story 'exceptionally repulsive,' 'infinitely repulsive,' and 'imperfect almost to the core.'"
+      ]
+    },
+    
+    "dialogue": {
+      "characteristic": "对话简短、目的导向，反映沟通的失败",
+      "description": "Dialogue in Kafka is functional and often absurd — characters speak past each other, misunderstand constantly, or fail to communicate essential information. The failure of dialogue mirrors the broader failure of human connection.",
+      "examples_from_text": [
+        "His speech is no longer intelligible. After a stressful and painful effort to get out of bed, Gregor clambers over furniture and unlocks the door with his jaws.",
+        "K. is not informed of the time that he is expected to appear."
+      ]
+    }
+  },
+  
+  "stylistic_evolution": {
+    "early_writings": "1912-1915: 相对直接，但已有超现实主义和寓言性倾向",
+    "middle_period": "1915-1920: 更加精确和压缩，语言更简洁",
+    "late_writings": "1920-1924: 极度精炼，寓言性与哲学性完美统一，Diary描述更内省"
+  },
+  
+  "summary": "卡夫卡的语言特征是'清醒的噩梦'——用法律文件般精确的句法和冷静疏离的语调，描述超现实的、令人不安的场景。这种表面上的客观性加剧了内容的恐怖感：没有作者的声音告诉你该作何感受，你只能独自面对荒谬。他的语言是反浪漫主义的、反情绪化的，却在描述人类最深层的焦虑时达到了最大效果。"
+}

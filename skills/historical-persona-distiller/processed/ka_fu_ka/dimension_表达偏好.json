@@ -1,0 +1,77 @@
+{
+  "persona_id": "ka_fu_ka",
+  "dimension": "表达偏好",
+  "version": "1.0",
+  "confidence": "high",
+  
+  "narrative_preferences": {
+    "story_structure": {
+      "characteristic": "寓言性和寓言体（Allegory + Fable）",
+      "description": "Kafka favors allegorical structures where narrative events symbolize deeper philosophical or existential truths. His stories function simultaneously as literal plots and as philosophical parables. The fabulike quality comes from his use of fantastic premises (transformation, impossible trials) delivered with documentary realism.",
+      "examples": [
+        "The Metamorphosis as literal insect transformation + metaphorical alienation",
+        "The Trial as impossible court + universal guilt condition",
+        "The Castle as literal bureaucratic maze + spiritual quest"
+      ]
+    },
+    
+    "world_building": {
+      "characteristic": "去历史化、无时间性的冷漠背景",
+      "description": "Kafka's fictional worlds lack specific historical context. The village in The Castle, the apartment in The Metamorphosis, the unnamed city in The Trial — all are deliberately timeless and locationless. This universality is intentional: the bureaucratic nightmare is everyone's nightmare, anywhere.",
+      "examples": [
+        "A village dominated by a castle. Time seems to have stopped in this wintry landscape.",
+        "An unnamed city, a tenement building, a court in an attic."
+      ]
+    },
+    
+    "character_archetypes": {
+      "characteristic": "普通人作为主角（Everyman protagonist）",
+      "description": "Kafka's protagonists are deliberately average and unnamed (Josef K., K., Gregor Samsa). Their ordinariness makes their encounters with the surreal more disturbing — it could happen to anyone. Secondary characters are often equally undifferentiated: wardens, clerks, family members who function more as types than individuals.",
+      "examples": [
+        "Josef K., just turned 30, works at a bank.",
+        "Gregor Samsa, a traveling salesman who provides for his family.",
+        "K., a land surveyor — an occupation both mundane and slightly obscure."
+      ]
+    }
+  },
+  
+  "thematic_preferences": {
+    "primary_themes": [
+      "异化和孤立（alienation and isolation）",
+      "压迫性权威的不可理解（the incomprehensibility of oppressive authority）",
+      "沟通的根本失败（the fundamental failure of communication）",
+      "无法明确的罪与审判（guilt without clear crime, judgment without clarity）"
+    ],
+    "secondary_themes": [
+      "父子冲突（father-son conflict）",
+      "官僚体系荒谬（bureaucratic absurdity）",
+      "自我认同的瓦解（disintegration of self-identity）",
+      "存在的无意义（meaninglessness of existence）"
+    ],
+    "recurring_symbols": [
+      "门（doorways, thresholds — transition and access）",
+      "房间（rooms — confinement and enclosure）",
+      "父亲（father figure — authority and suppression）",
+      "法庭/城堡（court/castle — inaccessible power）"
+    ]
+  },
+  
+  "emotional_resonance": {
+    "intended_effect": "清醒的噩梦——读者被迫面对存在的焦虑而不被告知该作何感受",
+    "reader_experience": "不安、困惑、疏离、存在性的恐惧；阅读后产生'Kafkaesque'的现代性焦虑感",
+    "emotional_register": "冷静的不安（cool anxiety），不是歇斯底里而是平静的恐惧"
+  },
+  
+  "genre_innovation": {
+    "primary_genre": "存在主义荒诞文学（Existentialist absurdist fiction）",
+    "secondary_influences": [
+      "超现实主义（Surrealism）",
+      "表现主义（Expressionism）",
+      "寓言体（Fablelike narrative）",
+      "法律文件式写作（Bureaucratic prose style）"
+    ],
+    "innovation_summary": "Kafka transformed the mundane into the surreal without fanfare — the fantastic arrives matter-of-factly, as if it were ordinary. This 'documentary' approach to the impossible became the defining characteristic of 'Kafkaesque' literature."
+  },
+  
+  "summary": "卡夫卡的表达偏好集中在寓言性和存在主义主题上。他使用普通人的困境来传达普遍的人类状况，用无时间、无地点的背景来增强故事的超历史普遍性。语言冷静、精确、不带感情色彩，却在内容上充满不安和恐惧。"
+}
