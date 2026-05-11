@@ -90,6 +90,29 @@
 
 **备注：** 哈维（William Harvey，1578-1657）是英国医生、解剖学家、生理学家，被誉为实验生理学之父；web_search失败后 SerpAPI 成功定位来源，最终通过 web_fetch 直接抓取4个 Britannica/PMC/NCBI 权威英文来源；4个来源共约34,300字语料；哈维为医生非诗人，诗词要求不适用；6条思想内核（血液循环完整回路/心脏肌肉泵原理/定量实验方法/静脉瓣膜单向证明/反对机械论/比较解剖学方法）均有至少2处原文引用验证；Voice Profile核心是"理性先知·实验生理学之父"——用拉丁学者的严谨与英国人的克制，在千年权威的废墟上建立血液循环的真理殿堂；冷峻外表下是对生命奥秘的敬畏与探索激情；1628年《心血运动论》挑战盖伦长达15世纪的权威，为现代医学实验方法论奠基；confidence评为 high。
 
+### 2026-05-11 希波克拉底（xi_bo_ke_la_di）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 超时）
+**SerpAPI：** ✅ 成功（用于初步搜索定位来源）
+**web_fetch：** ✅ 成功（直接抓取4个权威来源）
+
+**最终来源：**
+1. Britannica - Hippocrates Biography（britannica.com/biography/Hippocrates，约12,339字，英文，百科主源）
+2. Britannica - Hippocratic Oath（britannica.com/topic/Hippocratic-oath，约5,247字，英文，誓言全文）
+3. PMC/NCBI - Hippocrates of Kos: The Founder and Pioneer of Clinical Medicine（PMC11526839，约24,747字，英文，学术综述）
+4. World History Encyclopedia - Hippocrates（worldhistory.org/Hippocrates/，约20,000字，英文，人物百科）
+
+**git push 情况：** ✅ 首次 push 成功（commit b751846 推送至 origin/main）
+
+**百度百科：** 未使用（搜索条目为同名法国电影，非人物）
+
+**confidence：** high
+**耗时：** 约30分钟
+
+**备注：** 希波克拉底（Hippocrates，约前460-前375）是古希腊科斯岛医师，被公认为现代医学之父；web_search失败后 SerpAPI 成功定位来源，最终通过 web_fetch 直接抓取4个权威英文来源；4个来源共约62,333字语料；希波克拉底为医家非诗人，诗词要求不适用；6条思想内核（四体液理论/预防优于治疗/整体论/脑为意识中枢/医学独立于宗教/临床观察法）均有至少2处原文引用验证；Voice Profile核心是"冷静务实的医道圣贤"——以简洁直白、关切而克制的语言传递医学知识与伦理规范；Hippocratic Oath确立了"首先，不伤害"的医学伦理永恒原则；confidence评为 high。
+
+
+
 ---
 
 ### 2026-05-11 培根（pei_gen）蒸馏记录
