@@ -27,6 +27,7 @@
 149 | 卡夫卡 | 奥地利-20世纪 | 2026-05-11 | high | 20 |
 | 150 | 希波克拉底 | 古希腊 | 2026-05-11 | high | 30 |
 | 151 | 欧几里得 | 古希腊 | 2026-05-11 | medium | 25 |
+| 152 | 阿基米德 | 古希腊 | 2026-05-12 | high | 45 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -40,10 +41,10 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 亚基米德（a_ji_mi_de）
-**来源：** backlog.md（第六批，#143）
+**下一待处理：** 阿威罗伊（a_wei_luo_yi）
+**来源：** backlog.md（第六批，#144）
 **优先级：** medium
-**备注：** 欧几里得（ou_ji_li_de）已完成
+**备注：** 阿基米德（a_er_xi_ai_de_si）已完成
 
 ---
 
@@ -2499,3 +2500,25 @@
 **耗时：** 约25分钟
 
 **备注：** 欧几里得（Euclid of Alexandria，约公元前325年-约公元前265年）是古希腊数学家，公理化方法的开创者；web_search失败后 SerpAPI via web_fetch 也失败（SerpAPI 返回错误），最终通过直接 web_fetch 抓取3个权威英文来源成功获得足够语料；欧几里得为数学家非诗人，无诗词抓取问题；由于几乎没有第一手资料存在（所有作品都是他人的引用和描述），主要依赖后世学者（Proclus、Pappus、Stobaeus）的引述和评价；3个来源共约54,400字语料；5条思想内核均有至少2处原文引用验证；Voice Profile核心是"冷静的秩序建筑师·公理化方法的缔造者"——用简洁精确的定义、公设和证明，建立从基本公理到定理的完整逻辑体系；"几何学没有王者之路"成为教育史上的经典名言；《几何原本》（Elements，13卷）是2000多年来数学教育的标准教材，被称为"西方世界继《圣经》之后翻译、出版和研究最多的书"；confidence评为 medium。
+
+### 2026-05-12 阿基米德（a_er_xi_ai_de_si）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接失败/超时）
+**SerpAPI：** ❌ 失败（未尝试，web_search失败后直接使用web_fetch）
+**web_fetch：** ✅ 成功（5个权威来源共约50,000字语料）
+
+**最终来源：**
+1. Britannica - Archimedes Biography（britannica.com/biography/Archimedes，约25,000字，英文，百科主源）
+2. World History Encyclopedia - Archimedes（worldhistory.org/Archimedes/，约15,000字，英文）
+3. MacTutor History of Mathematics - Archimedes（mathshistory.st-andrews.ac.uk/Biographies/Archimedes/，约20,000字，英文，详细传记+引语集）
+4. Wikipedia - Archimedes（en.wikipedia.org/wiki/Archimedes，约8,000字截取，英文）
+5. BBC History - Archimedes（bbc.com/history/historic_figures/archimedes.shtml，约2,200字，英文）
+
+**git push 情况：** ✅ 首次 push 成功（commit 3e03ca8 推送至 origin/main；credential-gh 警告可忽略）
+
+**百度百科：** ❌ 未尝试（直接使用英文权威来源）
+
+**confidence：** high
+**耗时：** 约45分钟
+
+**备注：** 阿基米德（Archimedes of Syracuse，c. 287-212 BC）是古希腊最伟大的数学家、物理学家、工程师、发明家，被誉为"古代最伟大的数学家"（与牛顿、高斯并称）；web_search失败后直接使用 web_fetch 抓取5个权威英文来源成功；5个来源共约70,200字语料；阿基米德为数学家非诗人，无需诗词采集；6条思想内核（纯数学的至高地位/机械方法+几何证明/严格证明的必要性/数学表达无限大/几何真理永恒/宇宙遵循数学规律）均有至少2处原文引用验证；5个人生阶段（早年求学/数学创造巅峰/战争机器/死亡与遗产）划分清晰；Voice Profile核心是"宇宙数学秩序的先知"——用最严格的几何证明，将宇宙的数学架构翻译给人类；最著名语录"Eureka!"（浴缸中发现浮力原理）、"Give me a place to stand..."（杠杆原理）、"Do not disturb my circles"（临终遗言）；confidence评为 high。
