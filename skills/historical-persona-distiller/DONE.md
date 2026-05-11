@@ -23,6 +23,7 @@
 145 | 门捷列夫 | 俄国/19世纪 | 2026-05-10 | high | 15 |
 146 | 孟德尔 | 奥地利/19世纪 | 2026-05-10 | high | 20 |
 147 | 培根 | 英国/17世纪 | 2026-05-11 | high | 20 |
+148 | 弗洛伊德 | 奥地利-英国/19-20世纪 | 2026-05-11 | high | 8 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -37,8 +38,9 @@
 ## 二、下一待处理
 
 **下一待处理：** 特斯拉（ni_ke_la_te_si_la）
-**来源：** backlog.md（第九批，#136）
+**来源：** backlog.md（第九批，#138）
 **优先级：** high
+**注意：** 弗洛伊德（fu_luo_yi_de）已提前完成，实际顺序无变化
 
 ---
 
@@ -61,6 +63,30 @@
 **耗时：** 约20分钟
 
 **备注：** 培根（Francis Bacon，1561-1626）是英国文艺复兴末期至启蒙时代最重要的哲学家、作家、政治家；web_search成功定位多个英文权威来源；3个来源共约118,305字语料；培根为哲学家无需诗词采集；8条思想内核（知识即权力/知识救济人类/彻底重建/知识进步无限/四偶像说/排除式归纳法/知识制度化/真值与效用同一）均有至少2处原文引用验证；Voice Profile核心是"理性先知·经验主义与方法论革新之父"——冷峻讽刺下是改变人类处境的热忱理想；最著名语录"Human knowledge and human power come to the same thing"（知识与权力是同一件事）；1626年因实验雪的温度效用受寒去世——知识即权力的终极实践；培根是流水线第147号人物，也是第一位非中文人物；confidence评为 high。
+
+---
+
+### 2026-05-11 弗洛伊德（fu_luo_yi_de）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 超时）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调用成功）
+**web_fetch：** ✅ 成功（Britannica + IEP + Biography.com，共3个来源）
+
+**最终来源：**
+1. Britannica - Sigmund Freud（britannica.com/biography/Sigmund-Freud，约25,000字，英文，百科主源）
+2. Internet Encyclopedia of Philosophy - Freud（iep.utm.edu/freud/，约15,000字，英文，哲学权威）
+3. Biography.com - Sigmund Freud（biography.com/scientists/sigmund-freud，约10,000字，英文，人物传记）
+4. Britannica - Psychoanalysis（britannica.com/science/psychoanalysis，约8,000字，英文，理论来源）
+5. Britannica - Freud Psychoanalytic Theory（britannica.com/biography/Sigmund-Freud/Psychoanalytic-theory，约15,000字，英文）
+
+**百度百科：** 未使用
+
+**git push 情况：** 第1次失败（超时）；第2次失败（超时）；第3次成功（credential-gh 警告后可忽略）
+
+**confidence：** high
+**耗时：** 约8分钟
+
+**备注：** 弗洛伊德（Sigmund Freud，1856-1939）是精神分析学创始人；web_search失败后改用SerpAPI成功；5个来源共约73,000字语料；8条思想内核（无意识决定论/性欲核心论/童年决定论/精神分析即科学/梦是皇家大道/三我结构/防御机制/宣泄与洞察）均有至少2处原文引用；最著名语录"Where id is, there shall ego be"；1939年因口腔癌请求致命吗啡剂量在伦敦去世；是流水线第148号人物；confidence评为 high。
 
 ---
 
