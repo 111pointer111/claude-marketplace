@@ -38,10 +38,10 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 希波克拉底（xi_bo_ke_la_di）
-**来源：** backlog.md（第七批，#141）
+**下一待处理：** 欧几里得（ou_ji_li_de）
+**来源：** backlog.md（第七批，#142）
 **优先级：** medium
-**注意：** 哈维（ha_wei）已完成，卡夫卡（ka_fu_ka）已提前完成（vs 特斯拉 ni_ke_la_te_si_la），顺序无变化
+**备注：** 希波克拉底（xi_bo_ke_la_di）已完成（vs 特斯拉 ni_ke_la_te_si_la），顺序无变化
 
 ---
 
