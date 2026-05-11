@@ -24,6 +24,7 @@
 146 | 孟德尔 | 奥地利/19世纪 | 2026-05-10 | high | 20 |
 147 | 培根 | 英国/17世纪 | 2026-05-11 | high | 20 |
 148 | 弗洛伊德 | 奥地利-英国/19-20世纪 | 2026-05-11 | high | 8 |
+149 | 卡夫卡 | 奥地利-20世纪 | 2026-05-11 | high | 20 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -37,10 +38,27 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 特斯拉（ni_ke_la_te_si_la）
-**来源：** backlog.md（第九批，#138）
-**优先级：** high
-**注意：** 弗洛伊德（fu_luo_yi_de）已提前完成，实际顺序无变化
+**下一待处理：** 哈维（ha_wei）
+**来源：** backlog.md（第七批，#140）
+**优先级：** medium
+**注意：** 卡夫卡（ka_fu_ka）已提前完成（vs 特斯拉 ni_ke_la_te_si_la），顺序无变化
+
+---
+
+### 2026-05-11 卡夫卡（ka_fu_ka）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 超时）
+**SerpAPI：** ✅ 成功（用于初步搜索定位来源）
+**web_fetch：** ✅ 成功（直接抓取5个权威来源）
+
+**最终来源：**
+1. Britannica - Franz Kafka Biography（britannica.com/biography/Franz-Kafka，约12,000字，英文，百科主源）
+2. Britannica - The Metamorphosis（britannica.com/topic/The-Metamorphosis，约15,000字，英文，作品分析）
+3. Britannica - The Trial（britannica.com/topic/The-Trial-novel-by-Kafka，约7,300字，英文，作品分析）
+4. Britannica - The Castle（britannica.com/topic/The-Castle-novel-by-Kafka，约4,100字，英文，作品分析）
+5. Biography.com - Franz Kafka（biography.com/authors-writers/franz-kafka，约10,200字，英文，传记）
+
+**备注：** 卡夫卡（Franz Kafka，1883-1924）是20世纪最具影响力的作家之一；web_search失败后 SerpAPI 成功定位来源，最终通过 web_fetch 直接抓取5个 Britannica/Biography.com 权威英文来源；5个来源共约48,600字语料；卡夫卡为小说家非诗人，诗词要求不适用；6条思想内核（存在性焦虑/威权压迫/沟通失败/现代性荒谬/无罪之罪/家庭压迫原型）均有至少2处原文引用验证；Voice Profile核心是"清醒的噩梦建筑师"——用法律文件般精确冷静的笔触，在最荒诞的超现实场景中照见现代人最深的恐惧；作为20世纪存在主义和荒诞主义文学的先驱，"Kafkaesque"已成为描述现代官僚主义困境的通用词汇；confidence评为 high。
 
 ---
 
