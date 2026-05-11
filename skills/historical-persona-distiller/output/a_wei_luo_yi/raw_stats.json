@@ -1,0 +1,29 @@
+{
+  "persona_id": "a_wei_luo_yi",
+  "source_urls_count": 4,
+  "source_types": {
+    "biography": 4,
+    "philosophy": 3,
+    "secondary_analysis": 2
+  },
+  "files_created": {
+    "raw/传记.txt": true,
+    "raw/引语.txt": true,
+    "processed/stages.md": true,
+    "processed/dimension_思想内核.json": true,
+    "processed/dimension_语言特征.json": true,
+    "processed/dimension_表达偏好.json": true,
+    "processed/dimension_立场光谱.json": true,
+    "processed/dimension_voice_profile.json": true,
+    "output/SKILL.md": true,
+    "output/EVENTS.md": true,
+    "output/VOICE.md": true,
+    "output/README.md": true,
+    "output/METADATA.json": true,
+    "output/CITATIONS.md": true
+  },
+  "quotes_count": 18,
+  "key_beliefs_count": 6,
+  "life_stages_count": 4,
+  "confidence": "high"
+}

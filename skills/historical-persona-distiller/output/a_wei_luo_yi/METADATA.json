@@ -1,0 +1,58 @@
+{
+  "persona_id": "a_wei_luo_yi",
+  "name_zh": "阿威罗伊",
+  "name_en": "Averroes",
+  "name_ar": "Ibn Rushd (Abu al-Walid Muhammad ibn Ahmad ibn Rushd)",
+  "birth_year": 1126,
+  "death_year": 1198,
+  "dynasty": "Almohad Caliphate (安达卢斯/北非)",
+  "domains": ["philosophy", "jurisprudence", "medicine", "theology"],
+  "persona_confidence": "high",
+  "distilled_date": "2026-05-12",
+  "sources_count": 4,
+  "sources": [
+    "Britannica (https://www.britannica.com/biography/Averroes)",
+    "Stanford Encyclopedia of Philosophy (https://plato.stanford.edu/entries/ibn-rushd/)",
+    "Internet Encyclopedia of Philosophy (https://iep.utm.edu/ibn-rushd-averroes/)",
+    "New World Encyclopedia (https://www.newworldencyclopedia.org/entry/Averroes)"
+  ],
+  "key_works": [
+    "Fasl al-Maqāl (Decisive Treatise)",
+    "Tahāfut al-Tahāfut (Incoherence of the Incoherence)",
+    "al-Kashf 'an manāhij al-adilla",
+    "Long Commentary on Aristotle's De Anima",
+    "Kitāb al-Kūlyāt fī al-Ṭibb (Colliget)"
+  ],
+  "key_beliefs": [
+    "Philosophy is religiously commanded (not merely permitted)",
+    "Causal realism vs occasionalism",
+    "Three paths to truth: demonstrative, dialectical, rhetorical",
+    "Eternal cosmos with First Mover as final cause",
+    "Single eternal material intellect shared by all humans"
+  ],
+  "influential_on": [
+    "Thomas Aquinas",
+    "Siger of Brabant",
+    "Maimonides",
+    "Moses Narboni"
+  ],
+  "influenced_by": [
+    "Aristotle",
+    "Ibn Sina (Avicenna)",
+    "Ibn Bājja (Avempace)",
+    "al-Farabi"
+  ],
+  "personality_quirks": [
+    "Commentary as life's work (three decades, three levels)",
+    "Honest admission of original contribution",
+    "Pedagogical care for different audience levels",
+    "Dignified response to persecution"
+  ],
+  "confidence_assessment": {
+    "overall": "high",
+    "multiple_sources": true,
+    "original_texts_extant": true,
+    "quotes_verified": true,
+    "idiosyncrasies_captured": true
+  }
+}
