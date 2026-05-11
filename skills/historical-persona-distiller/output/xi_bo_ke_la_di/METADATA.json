@@ -1,0 +1,42 @@
+{
+  "persona_id": "xi_bo_ke_la_di",
+  "name": {
+    "zh": "希波克拉底",
+    "en": "Hippocrates",
+    "grc": "Ἱπποκράτης",
+    "note": "科斯的希波克拉底（Hippocrates of Kos）"
+  },
+  "birth_death": {
+    "born": "c. 460 BCE",
+    "died": "c. 375 BCE",
+    "place_of_birth": "科斯岛（Kos），古希腊",
+    "place_of_death": "拉里萨（Larissa），帖撒利亚"
+  },
+  "era": "古希腊古典时期（Classical Greece）",
+  "domains": ["医学", "临床医学", "医学伦理学", "医学教育"],
+  "known_for": [
+    "将医学从宗教神学中解放",
+    "四体液理论（血液/粘液/黄胆汁/黑胆汁）",
+    "《希波克拉底誓言》（Hippocratic Oath）",
+    "临床观察与预后方法",
+    "预防医学思想"
+  ],
+  "major_works": [
+    "Hippocratic Corpus（《希波克拉底文集》，约60篇）",
+    "Hippocratic Oath（《誓言》）",
+    "Epidemics（《流行病》，个案记录）",
+    "Aphorisms（《格言集》）",
+    "On the Sacred Disease（《论神圣疾病》）"
+  ],
+  "confidence": "high",
+  "sources": [
+    "Britannica - Hippocrates (biography)",
+    "PMC11526839 - Hippocrates of Kos: The Founder and Pioneer of Clinical Medicine",
+    "Britannica - Hippocratic Oath",
+    "World History Encyclopedia - Hippocrates"
+  ],
+  "pipeline_info": {
+    "distilled_on": "2026-05-11",
+    "pipeline_version": "cron-54de3035-59f3-406f-87df-cfb5311a032f"
+  }
+}
