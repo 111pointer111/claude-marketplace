@@ -42,10 +42,10 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 花拉子密（hua_la_zi_mi）
-**来源：** backlog.md（第六批，#145）
-**优先级：** medium
-**备注：** 阿威罗伊（a_wei_luo_yi）已完成
+**下一待处理：** 塞尔苏斯（sai_er_su_si）
+**来源：** backlog.md（第六批，#146）
+**优先级：** low
+**备注：** 花拉子密（hua_la_zi_mi）已完成
 
 ---
 
@@ -775,19 +775,19 @@
 
 ```
 总人物数：     170
-已完成：       114
+已完成：       115
 进行中：       0
-待处理：       56
-完成率：       67.1%（114/170）
+待处理：       55
+完成率：       67.6%（115/170）
 
 按 priority：
   high：       36（已完38）
-  medium：     54（已完38）
-  low：        80（已完16）
+  medium：     54（已完39）
+  low：        80（已完17）
 
 按 confidence：
   high：       59
-  medium：     30
+  medium：     31
   A：           1
   medium-high：  1
   low：        0
@@ -2544,3 +2544,34 @@
 **耗时：** 约20分钟
 
 **备注：** 阿威罗伊（Ibn Rushd / Averroes，1126-1198）是伊斯兰哲学史上亚里士多德传统的最后一位伟大注释者；web_search成功定位4个权威英文来源；4个来源共约140,000+字语料；阿威罗伊为哲学家非诗人，无需诗词采集；6条思想内核（哲学是宗教命令/因果真实论/宇宙永恒/单一物质理智/三重真理论/上帝因果知识）均有至少2处原文引用验证；5个人生阶段（法学世家/转型期/注释高峰期/放逐与召回/逝世）划分清晰；Voice Profile核心是"注释者"——用法学家的精确、哲学家的严谨、信仰者的热忱，将亚里士多德带给需要他的人；最著名语录"Law commands the study of philosophy"（哲学研究是宗教命令）；对托马斯·阿奎那和巴黎大学阿威罗伊主义者的影响已纳入影响网络；confidence评为 high。
+
+### 2026-05-12 花拉子密（hua_la_zi_mi）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接失败/超时）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI Google 搜索成功，返回 JSON 有机结果）
+**web_fetch：** ✅ 成功（Britannica + MacTutor + New World Encyclopedia，共3个来源）
+
+**最终来源：**
+1. Britannica - Al-Khwarizmi Biography（britannica.com/biography/al-Khwarizmi，约4,905字，英文，百科主源）
+2. MacTutor History of Mathematics - Al-Khwarizmi（mathshistory.st-andrews.ac.uk/Biographies/Al-Khwarizmi/，约22,310字，英文，详细传记）
+3. New World Encyclopedia - Al-Khwarizmi（newworldencyclopedia.org/entry/Al-Khwarizmi，约15,000字，英文）
+
+**git push 情况：** ✅ 首次 push 成功（commit 0e6c624 推送至 origin/main；credential-gh 警告可忽略）
+
+**百度百科：** 未使用（web_search失败后直接使用 SerpAPI + 英文权威来源）
+
+**confidence：** medium
+**耗时：** 约25分钟
+
+**备注：** 花拉子密（Muhammad ibn Musa al-Khwarizmi，约780-850年）是9世纪伊斯兰黄金时代最具影响力的数学家之一，被尊为"代数学之父"；web_search失败后 SerpAPI via web_fetch 成功定位3个权威英文来源；3个来源共约42,000+字语料；花拉子密为数学家非诗人，无需诗词采集；6条思想内核（数学系统性/知识普及与实用性/跨文化知识整合/学术严谨与验证/知识传播使命感/原创性与综合的平衡）均有至少2处原文引用验证；5条思想内核均从花拉子密《代数学》原文（Rosen 1831年英译本）提取，包括其关于数字本质的经典描述和解二次方程的步骤；Voice Profile核心是"知识整合者与传播者"——用文字而非符号，通过系统性方法将代数知识服务于社会实际需求（遗产分配、贸易、土地测量）；"algorithm"（算法）一词来源于其名字的拉丁化"Algoritmi"，"algebra"（代数）一词来源于其著作中的"al-jabr"（补全/恢复）；confidence评为 medium（主要直接著作《代数学》仅为拉丁译本留存，原著已失传）。
+
+---
+
+**更新于2026-05-12**
+
+## 二、下一待处理
+
+**下一待处理：** 塞尔苏斯（sai_er_su_si）
+**来源：** backlog.md（第六批，#146）
+**优先级：** low
+**备注：** 花拉子密（hua_la_zi_mi）已完成
