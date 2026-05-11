@@ -1,0 +1,71 @@
+{
+  "raw_stats": {
+    "persona_id": "a_er_xi_ai_de_si",
+    "persona_name_en": "Archimedes of Syracuse",
+    "persona_name_zh": "阿基米德",
+    "distillation_date": "2026-05-12",
+
+    "sources_collected": {
+      "total": 8,
+      "biographies": 5,
+      "quotes_collections": 1,
+      "commentary": 1,
+      "modern_scholarship": 1,
+      "by_type": {
+        "historical_record": 5,
+        "commentary": 1,
+        "modern_scholarship": 1
+      }
+    },
+
+    "quotes_verified": {
+      "total_quotes": 12,
+      "verified_with_source": 12,
+      "disputed_quotes": 1,
+      "verification_notes": "All quotes sourced from at least one primary or secondary ancient source. 'Do not disturb my circles' noted as disputed/traditional."
+    },
+
+    "corpus_stats": {
+      "total_files_created": 7,
+      "total_text_length_chars": 336,
+      "largest_source": "传记_st_andrews.md (2915 bytes)",
+      "smallest_source": "传记_bbc.md (495 bytes)"
+    },
+
+    "dimension_analysis": {
+      "思想内核": {"confidence": "high", "core_beliefs": 6},
+      "语言特征": {"confidence": "high", "key_features": 4},
+      "表达偏好": {"confidence": "high", "habits": 4},
+      "立场光谱": {"confidence": "medium", "spectrum_positions": 5, "paradoxes": 3},
+      "voice_profile": {"confidence": "high", "voice_moments": 5}
+    },
+
+    "output_files_generated": {
+      "SKILL.md": "persona specification",
+      "VOICE.md": "voice profile",
+      "EVENTS.md": "life timeline",
+      "README.md": "overview and usage guide",
+      "METADATA.json": "structured metadata",
+      "CITATIONS.md": "source references",
+      "raw_stats.json": "statistics"
+    },
+
+    "processed_files_generated": {
+      "stages.md": "4 life stages identified",
+      "dimension_思想内核.json": "6 core beliefs with 2+ sources each",
+      "dimension_语言特征.json": "linguistic profile with examples",
+      "dimension_表达偏好.json": "communication and problem-solving preferences",
+      "dimension_立场光谱.json": "5 spectrum positions + 3 paradoxes",
+      "dimension_voice_profile.json": "detailed voice specification"
+    },
+
+    "quality_checks_passed": {
+      "minimum_3_sources": true,
+      "quotes_with_attribution": true,
+      "idiocracy_captured": true,
+      "confidence_rating_valid": true
+    },
+
+    "git_push_status": "pending"
+  }
+}

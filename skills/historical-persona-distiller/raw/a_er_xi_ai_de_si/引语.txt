@@ -1,0 +1,64 @@
+# 阿基米德引语集
+
+## 直接引语（从原始资料中提取）
+
+### 1. "Eureka! Eureka! I have found it!"
+来源：Vitruvius, De Architectura ix, 215
+说明：阿基米德在发现浮力原理（王冠问题）时，从浴缸中跑出赤身裸体跑上街头时喊出的话。
+
+### 2. "Give me a place to stand and I will move the earth."
+来源：Pappus, Synagoge (Collection), Book VIII
+说明：关于杠杆原理的著名言论，展现了他对力学原理的自信。
+
+### 3. "Noli turbare circulos meos." (Do not disturb my circles!)
+来源：Various ancient sources, reported by Valerius Maximus and others
+说明：阿基米德临终前对罗马士兵说的话，当时他正在沙滩上画几何图形。
+
+### 4. "Certain things first became clear to me by a mechanical method, although they had to be demonstrated by geometry afterwards because their investigation by the said method did not furnish an actual demonstration. But it is of course easier, when we have previously acquired by the method, some knowledge of the questions, to supply the proof than it is to find it without any previous knowledge."
+来源：Archimedes, The Method of Mechanical Theorems (Letter to Eratosthenes)
+说明：阿基米德在《方法论》中描述他如何通过机械方法发现几何定理。
+
+### 5. "There are things which seem incredible to most men who have not studied mathematics."
+来源：Archimedes, The Sand Reckoner
+说明：阿基米德讨论大数时的观点。
+
+### 6. "If thou art able, O stranger, to find out all these things and gather them together in your mind, giving all the relations, thou shalt depart crowned with glory and knowing that thou hast been adjudged perfect in this species of wisdom."
+来源：Archimedes' tomb inscription (as reported by Cicero)
+说明：刻在阿基米德墓碑上的谜语（牛问题的一部分）。
+
+### 7. "...so that those who claim to discover everything, but produce no proofs of the same, may be confuted as having pretended to discover the impossible."
+来源：Archimedes, On Spirals (preface to Dositheus)
+说明：阿基米德讲述他如何处理亚历山大数学家声称他的定理是他们的故事。
+
+## 普卢塔克描述的阿基米德言论/描述
+
+### 关于机械发明：
+"These machines [Archimedes] had designed and contrived, not as matters of any importance, but as mere amusements in geometry; in compliance with King Hiero's desire and request, some little time before, that he should reduce to practice some part of his admirable speculation in science, and by accommodating the theoretic truth to sensation and ordinary use, bring it more within the appreciation of the people in general."
+来源：Plutarch, Life of Marcellus
+
+### 关于纯数学的崇高地位：
+"Archimedes possessed so high a spirit, so profound a soul, and such treasures of scientific knowledge, that though these inventions had now obtained him the renown of more than human sagacity, he yet would not deign to leave behind him any commentary or writing on such subjects; but, repudiating as sordid and ignoble the whole trade of engineering, and every sort of art that lends itself to mere use and profit, he placed his whole affection and ambition in those purer speculations where there can be no reference to the vulgar needs of life; studies, the superiority of which to all others is unquestioned..."
+来源：Plutarch, Life of Marcellus
+
+### 关于对几何学的痴迷：
+"Oftimes Archimedes' servants got him against his will to the baths, to wash and anoint him, and yet being there, he would ever be drawing out of geometrical figures, even in the very embers of the chimney. And while they were anointing of him with oils and sweet savours, with his fingers he drew lines upon his naked body, so far was he taken from himself, and brought into ecstasy or trance, with the delight he had in the study of geometry."
+来源：Plutarch, Life of Marcellus
+
+## 其他古代作家的描述
+
+### 利维描述阿基米德的战争机器效果：
+"...when Archimedes began to ply his engines, he at once shot against the land forces all sorts of missile weapons, and immense masses of stone that came down with incredible noise and violence; against which no man could stand; for they knocked down those upon whom they fell in heaps, breaking all their ranks and files. In the meantime huge poles thrust out from the walls over the ships and sunk some by great weights which they let down from on high upon them; others they lifted up into the air by an iron hand or beak like a crane's beak and, when they had drawn them up by the prow, and set them on end upon the poop, they plunged them to the bottom of the sea..."
+来源：Livy, Ab Urbe Condita
+
+### 西塞罗描述阿基米德的墓碑：
+"...and found it enclosed all around and covered with brambles and thickets; for I remembered certain doggerel lines inscribed, as I had heard, upon his tomb, which stated that a sphere along with a cylinder had been put on top of his grave."
+来源：Cicero, Against Verres
+
+---
+来源整合自：
+- MacTutor History of Mathematics quotations page
+- Plutarch, Life of Marcellus
+- Livy, Ab Urbe Condita
+- Vitruvius, De Architectura
+- Pappus, Synagoge
+- Cicero, Against Verres

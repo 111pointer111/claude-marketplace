@@ -1,0 +1,66 @@
+# 后世评述 - 阿基米德
+
+## 古代评价
+
+### 普卢塔克（希腊作家，公元45/50-120/125年）
+"It is not possible to find in all geometry more difficult and intricate questions, or more simple and lucid explanations. Some ascribe this to his natural genius; while others think that incredible effort and toil produced these, to all appearances, easy and unlaboured results. No amount of investigation of yours would succeed in attaining the proof, and yet, once seen, you immediately believe you would have discovered it; by so smooth and so rapid a path he leads you to the conclusion required."
+来源：Plutarch, Life of Marcellus
+
+### 查尔斯论阿基米德积分工作的历史地位：
+"...gave birth to the calculus of the infinite conceived and brought to perfection by Kepler, Cavalieri, Fermat, Leibniz and Newton."
+来源：M. Chasles, referring to Archimedes' integration methods
+
+### T.L. Heath 论阿基米德著作的质量：
+"The treatises are, without exception, monuments of mathematical exposition; the gradual revelation of the plan of attack, the masterly ordering of the propositions, the stern elimination of everything not immediately relevant to the purpose, the finish of the whole, are so impressive in their perfection as to create a feeling akin to awe in the mind of the reader."
+来源：T.L. Heath, A History of Greek Mathematics II (1931)
+
+### 克罗格论阿基米德著作的传播：
+"Unlike the Elements of Euclid, the works of Archimedes were not widely known in antiquity. ... It is true that ... individual works of Archimedes were obviously studied at Alexandria, since Archimedes was often quoted by three eminent mathematicians of Alexandria: Heron, Pappus and Theon."
+来源：M. Clagett, Biography in Dictionary of Scientific Biography
+
+### 西塞罗对阿基米德的评价：
+马塞拉斯称阿基米德为"几何学的布里阿里乌斯"（geometric Briareus），把他视为宝贵的科学资产，下令不得伤害他。
+
+## 文艺复兴及近代评价
+
+### 达芬奇
+达芬奇反复表达对阿基米德的钦佩，并将他的一项发明Architonnerre归功于阿基米德。
+
+### 伽利略
+伽利略称阿基米德为"superhuman"（超人的）和"my master"（我的主人）。
+
+### 惠更斯
+基督iaan Huygens说："I think Archimedes is comparable to no one"，有意识地模仿阿基米德进行早期工作。
+
+### 莱布尼茨
+"他如果理解阿基米德和阿波罗尼奥斯，会较少钦佩后来最杰出人物的成就。"
+
+### 高斯
+高斯的英雄是阿基米德和牛顿。他的老师莫里茨·坎托报告说，高斯曾说："只有三个时代划分的数学家：阿基米德、牛顿和艾森斯坦。"
+
+### 怀特黑德
+"在1500年，欧洲知道的还不如死于公元前212年的阿基米德多。"
+
+### 雷维尔·内茨
+"西方科学不过是阿基米德的系列脚注"，称他为"曾经存在的最重要的科学家"。
+
+### 埃里克·坦普尔·贝尔
+"任何列出历史上三位最伟大数学家的名单都会包括阿基米德的名字。其他两位通常与他并列的是牛顿和高斯。一些人，考虑到他们各自时代数学和物理科学的贫富或贫乏程度，以及根据他们时代的背景估计他们的成就，会把阿基米德放在第一位。"
+
+## 现代评价
+
+### 数学史学家的一致评价
+历史学家和数学家几乎一致认为阿基米德是古典时期最杰出的科学家，也是整个历史上最伟大的数学家之一。
+
+### 阿基米德原理的持久影响
+阿基米德原理至今仍是物理学基本原理之一，在工程、船舶设计等领域广泛应用。
+
+### 阿基米德螺旋的持久应用
+阿基米德螺旋至今在世界许多地方用于抽水，体现了阿基米德工程发明的持久实用价值。
+
+---
+来源整合自：
+- Plutarch, Parallel Lives (Life of Marcellus)
+- T.L. Heath, A History of Greek Mathematics
+- M. Clagett, Dictionary of Scientific Biography
+- Various Renaissance and modern sources引述

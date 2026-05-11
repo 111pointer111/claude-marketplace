@@ -1,0 +1,337 @@
+# 阿基米德传记 - 大英百科全书
+
+阿基米德（约公元前287年出生于锡拉库萨[西西里岛]——约公元前212/211年去世于锡拉库萨）是古希腊最著名的数学家和发明家。他因发现球体及其外接圆柱的表面积和体积之间的关系而闻名。他因提出静力学原理（被称为阿基米德原理）和一种提水装置（被称为阿基米德螺旋）而闻名。
+
+## 他的生平
+
+阿基米德早年在埃及呆过一段时间，但大部分时间住在西西里岛的主要希腊城邦锡拉库萨，在那里他与国王希罗二世关系密切。阿基米德以书信形式与当时的数学家（包括亚历山大学者萨摩斯的科农和昔兰尼的埃拉托斯特尼）交流发表了他的著作。他在罗马人于公元前213年围攻锡拉库萨时建造的战争机器发挥了重要作用，有效延缓了城市的陷落。当锡拉库萨最终在公元前212年或公元前211年秋天被罗马将军马库斯·克劳狄乌斯·马塞拉斯攻陷时，阿基米德在城市的洗劫中被杀。
+
+关于阿基米德生平的资料比任何其他古代科学家都多，但这些资料大多是轶事性质的，反映了他的机械天才在大众想象中留下的印象。因此，他被归功于发明阿基米德螺旋，据说他制作了两个"球体"，马塞拉斯带回了罗马——一个是星象仪，另一个是机械装置（细节不确定），用于机械方式表现太阳、月球和行星的运动。传说他确定希罗王冠中金和银比例的故事很可能是真实的，但他在浴缸中想到这个主意后赤身裸体跑上街头大喊"Heurēka!"（"我找到了！"）的版本是流行的夸张。同样，关于他使用大量镜子将围攻锡拉库萨的罗马船只点燃的故事；他说"给我一个站立的地方，我就能移动地球"；以及一个罗马士兵因为他不离开他的数学图表而杀死他的故事——这些都是流行的对他真正感兴趣的反射（光学——研究光从镜子、平面的反射的学科、力学和纯数学）。
+
+据普卢塔克（约公元46-119年）记载，阿基米德对他所擅长的那种实用发明的评价极低，以至于他没有留下任何关于此类主题的书面著作。虽然除了对一篇可疑的论述"论球体制造"的提及外，他所有已知著作都是理论性质的，但他对力学的兴趣深刻影响了他的数学思维。他不仅写了理论力学和水静力学的著作，而且他的《论机械定理的方法》一书表明，他将机械推理用作发现新数学定理的启发式工具。
+
+## 他的著作
+
+阿基米德用希腊文留下了九篇现存的论文。《论球与圆柱》（两卷）的主要结果是：任何半径为r的球体的表面积是其最大圆的四倍（现代记号为S=4πr²），且球的体积是外接圆柱体积的三分之二（直接得出球的体积公式V=4/3πr³）。阿基米德非常自豪这一发现，以至于他留下指示让他的坟墓上刻上球体内接于圆柱的图案。马库斯·图利乌斯·西塞罗（公元前106-43年）在阿基米德去世一个半世纪后发现了这座被植被覆盖的坟墓。
+
+《圆的测量》是一篇较长作品的片段，其中π（圆周率）是圆的周长与直径之比，被证明介于310/71和317/71之间。阿基米德确定π的方法是用具有大量边的正多边形对圆进行外接和内接，直到17世纪欧洲发展出无穷级数展开之前一直被沿用。该作品还包含对3的平方根和其他大数的准确近似值（用整数比表示）。
+
+《论圆锥曲线和球状体》涉及确定由圆锥截面（圆、椭圆、抛物线或双曲线）绕其轴旋转形成的固体的体积。在《论螺旋线》中，阿基米德定义了一条螺旋线，给出了与旋转角度相关的基本性质。《平面平衡论》（或平面重心；两卷）主要致力于建立各种直线平面图形和抛物线段及抛物面的重心。第一卷确立了"杠杆定律"（物体以与重量成反比的距离从支点平衡）。
+
+《抛物线的求积》用两种方法证明了抛物线段与直线之间的面积是内接三角形面积的三分之四。
+
+《沙计算器》是一篇为门外汉写的短文——写给希罗的儿子盖隆——但包含了一些极其原创的数学。它的目的是通过展示如何表达一个巨大的数字——填满整个宇宙所需的沙粒数量——来弥补希腊数字符号系统的不足。
+
+《论浮体》（两卷）是他创建的水静力学的第一篇已知著作。其中建立了著名的阿基米德原理：比流体重的固体浸入流体时，会因为排出的流体的重量而变轻。
+
+## 快速事实
+
+在古代，阿基米德也被视为一位杰出的天文学家：他的至点观测被那个时代最杰出的古代天文学家喜帕恰斯使用。
+
+---
+来源: https://www.britannica.com/biography/Archimedes# 阿基米德传记 - 世界历史百科
+
+阿基米德（公元前287-212年）是一位希腊工程师和发明家，被认为是古代最伟大的数学家，也是历史上最伟大的数学家之一。他被认为发明了许多至今仍在使用的发明（如阿基米德螺旋），被称为数学和数学物理学之父。
+
+他出生于锡拉库萨（西西里岛），除了在埃及亚历山大短暂学习的时间外，他都在那里生活，在那里他结识了博学家埃拉托斯特尼（约公元前276-195年）和萨摩斯的天文学家科农（约公元前280-220年）。回到锡拉库萨后，他为希罗二世国王（约公元前270-215年）工作，作为一名工程师和问题解决者。据说他设计或改进了许多武器来保卫锡拉库萨免受罗马人在第二次布匿战争（公元前218-201年）期间的入侵，包括一个至今仍存在争议的热射线。
+
+## 生平与亚历山大
+
+关于阿基米德的生平知之甚少，只知道他出生于锡拉库萨（西西里岛），这是当时被称为Magna Graecia（"大希腊"）地区的希腊殖民地。他的父亲是一位名叫菲迪亚斯的天文学家，他的家族被认为是上层阶级，或者可能是贵族，因为他们能够送他去亚历山大接受教育。保存至今最早提到阿基米德的文献来自波利比乌斯（约公元前200-118年）的著作，他对阿基米德设计的战争机器最感兴趣。
+
+在某个时候，他的父亲送他去亚历山大，那时候它正在成为一个与雅典匹敌的智力中心。在亚历山大，他结识了昔兰尼的埃拉托斯特尼和萨摩斯的科农，他们都是这座城市的知识精英。科农是一位备受尊敬的天文学家和数学家，埃拉托斯特尼是亚历山大图书馆的馆长，是一位博学家。这些关系的细节未知，但阿基米德非常钦佩埃拉托斯特尼，以至于他把自己的著作《方法论》献给了他。
+
+## 天文进步
+
+据说阿基米德撰写了大量关于天文学的著作，但后来作家提及的这些著作都已失传，只有他的《沙计算器》保存了下来。这部作品以保留萨摩斯的阿里斯塔丘斯提出的日心说模型而闻名。学者T.L.Heath评论说：
+
+"《沙计算器》因在其中的发展了一个系统，用基于万进制的幂的阶和期来表达非常大的数字而引人注目。它还包含了阿里斯塔丘斯·萨摩斯人提出的宇宙日心说理论的的重要参考文献，载于"假设"一书中，以及以前测量地球大小和给出太阳和月球大小及距离的尝试的历史细节。"
+
+阿基米德被认为发明了一种天文设备，可以识别太阳、月球和行星的位置和运动。至少其中一个设备被描述为一个青铜球，当转动时显示行星的位置以及它们如何围绕地球运转。 西塞罗对阿基米德类似发明的提及得到了亚历山大的数学家帕普斯（约290-350年）的证实，他声称阿基米德写有一部关于如何建造此类设备的著作。
+
+## 阿基米德螺旋
+
+无论他是否是安提凯西拉装置的创造者，他作为阿基米德螺旋的发明者是公认的。阿基米德螺旋是一种圆柱体，包含一个扭曲的叶片，当曲柄转动时向上旋转，这是一种至今仍在世界许多地方使用的从低处向高处取水的装置。
+
+雅典作家雅典尼乌斯讲述了希罗二世请求阿基米德为他设计一艘史上最大船只的故事，这艘船可以作为航海、豪华船只或战争用途。这艘船按照阿基米德的计划建造，但由于其尺寸和重量，发现船体会泄漏大量水。阿基米德的螺旋是一个圆柱体，包含一个扭曲的叶片，当曲柄转动时，水会被抽上来并从船上排出。这个机制至今仍在世界许多地方使用。
+
+## 阿基米德原理
+
+据说阿基米德在试图找出像叙拉古斯号这样的大船如何能够浮起时，得出了他的结论。阿基米德原理解释了为什么物体会浮起而不是沉没（浮力原理），因此他被称为流体静力学之父。罗马建筑师和工程师维特鲁维斯（约公元前90-20年）给出了最著名的版本：当希罗二世为一座寺庙向神祇供奉纯金制造王冠时，金匠被怀疑用较贱的金属偷换了部分黄金。他请阿基米德想出一种不损坏王冠就能发现的方法。据说阿基米德思考这个问题一段时间，直到有一天，他降低自己在浴缸中，注意到当他身体沉入时水位上升，并理解这个原理可以用来确定王冠的密度。据说他对这个启示如此兴奋，以至于他跑出家门，在街上赤身奔跑，大喊"Eureka!"（"我找到了！"）。
+
+希思阐述了原理：
+
+"阿基米德发明了整个流体静力学科学。从《论浮体》开始，他首先假设流体中压力均匀，他首先证明静止时流体的表面是以地球中心为中心的球体。其他命题表明，如果一个固体漂浮在流体中，固体的重量等于排出的流体的重量，如果一个比流体重的固体在流体中称重，它将比其真实重量轻排出的流体的重量。"
+
+## 数学进步
+
+阿基米德作为数学天才的声誉建立在许多作品上，许多仍存，被认为是对该领域的主要贡献。Heath写道：
+
+"阿基米德的著作都是原创的，是数学阐述的完美典范；从以下保存的著作清单可以看出其广泛范围： 《论球与圆柱》一、二，《圆的测量》，《论圆锥曲线和球状体》，《论螺旋线》，《论平面平衡》一、二，《沙计算器》，《抛物线求积》，《论浮体》一、二，最后是《方法论》，直到1906年才被发现。"
+
+《机械定理方法论》由历史学家、语言学家和阿基米德专家约翰·海贝格（1854-1928年）于1906年首次鉴定为阿基米德的原始希腊文著作。它被隐藏在后来用过的基督教礼拜仪式文本的背面。那时候常用这种方式重复利用旧书。
+
+## 战争机器
+
+阿基米德经常被归功于发明杠杆，但实际上他做的是解释杠杆如何工作并允许更精确地使用它。他发明的里程计使用杠杆在车上，当滚动时，在两点之间每英里放置一个小球来测量距离。杠杆也被用来改进现有的弹射器，以保卫锡拉库萨免受罗马人的攻击。
+
+在第二次布匿战争期间，锡拉库萨从罗马转投迦太基。罗马派遣将军克劳狄乌斯·马塞拉斯和阿庇乌斯·克劳狄乌斯·普尔切尔在公元前214年围攻锡拉库萨。罗马人似乎认为这场战役会很容易，直到他们遇到阿基米德的战争机器，据说是它们保卫了这座城市两年。除了改进的弹射器，两个最著名的设备是阿基米德爪和阿基米德热射线。
+
+阿基米德爪是一种类似起重机的机制，一端有钩子，可以部署来摧毁船只。罗马历史学家李维（公元前59年-公元17年）注意到罗马人因阿基米德的防御而遭受重大损失，并特别提到爪设备的效力。
+
+热射线更具争议性。作家卢西亚努斯·萨摩萨塔（约125-180年）只是说阿基米德用火摧毁了敌船，而安条克的安塞米乌斯声称他使用"燃烧玻璃"，但都没有描述是如何做到的。拜占庭作家约翰·策策斯（约1110-1180年）在他的《千年纪》（《历史》）第二卷中提供了最详细的描述。这个账户取自数学家帕普斯（约290-350年）的一部失传著作。
+
+## 结局
+
+无论阿基米德的防御是什么，它们有效地阻止了罗马人两年，直到他们在守卫分心准备阿尔忒弥斯节时突破了外墙。马塞拉斯给出了严格的命令，要活捉阿基米德，因为他似乎知道他成功保卫了城市，并认为他是一个军事资产。
+
+据普卢塔克（约45/50-120/125年）记载，阿基米德正在海滩上进行一些计算，这时一个罗马士兵召唤他跟随。阿基米德全神贯注于他所做的事情，据说告诉那人，"不要打扰我的圆圈"，指的是他在沙滩上画的图表。据说这是他最后的话，因为士兵没有认出他，拔剑杀了他。
+
+西塞罗声称访问了这座坟墓，它位于城市中，已经年久失修，他当总督时进行了修复。据说坟墓上装饰着球体和圆柱，这是阿基米德著名著作的主题，以纪念这位古代最伟大的头脑之一。
+
+---
+来源: https://www.worldhistory.org/Archimedes/# 阿基米德传记 - 圣安德鲁斯大学数学史
+
+阿基米德的父亲是菲迪亚斯，一位天文学家。我们除了这一点外，对菲迪亚斯一无所知，我们知道这一点只是因为阿基米德在他的《沙计算器》中告诉我们这一点。阿基米德的一个叫希拉克利德斯的朋友为他写了传记，但不幸的是这部作品已经丢失。如果能找到这部丢失的作品，或者即使在他人著作中找到的摘录，我们对阿基米德的了解将会发生怎样的改变。
+
+阿基米德是锡拉库萨本地人。一些作者报告说他曾访问埃及，在那里发明了一种现在被称为阿基米德螺旋的装置。这是一个泵，至今在世界许多地方使用。很可能，当阿基米德年轻时，他在亚历山大与欧几里得的继承者一起学习。当然，他完全熟悉在那里发展的数学，但更确定的是，他亲自认识在那里工作的数学家，他以个人消息的形式将他的结果送到亚历山大。他高度重视亚历山大数学家萨摩斯的科农，认为他不仅在数学才能上非常出色，而且作为亲密的朋友。
+
+在《论螺旋线》的序言中，阿基米德讲述了一个关于他在亚历山大的朋友的趣事。他告诉我们，他习惯于向他们发送他最新定理的陈述，但不给出证明。显然，那里的数学家中有一些人声称这些结果是他自己的，所以阿基米德说，在最后一次向他们发送定理时，他包括了两个是错误的，使得那些声称发现了一切但不提供相同证明的人，被揭露为假装发现了不可能的东西。
+
+除了在他的著作的序言中，关于阿基米德的信息来自普卢塔克、李维等人的故事。普卢塔克告诉我们，阿基米德与锡拉库萨国王希罗二世有亲属关系。阿基米德与希罗家族至少友谊的证据来自《沙计算器》被献给了希罗的儿子盖隆。
+
+事实上，在他的有生之年，他获得了很少有其他数学家能达到的声誉。原因是他在当时并没有引起对新数学思想的广泛关注，而是阿基米德发明了许多用作战争引擎的机器。这些机器在罗马将军马塞拉斯指挥的攻击锡拉库萨时特别有效。
+
+普卢塔克在他关于罗马指挥官马塞拉斯的著作中，描述了阿基米德的战争机器如何被用来对付罗马人：
+
+"当阿基米德开始操作他的机器时，他立即向地面部队发射各种导弹和巨大的石块，以令人难以置信的噪音和暴力落下；没有人能站立；它们击倒了落在他们身上的人，粉碎了所有的队伍和行列。与此同时，巨大的柱子从城墙上伸出，在船只上方沉下巨大的重量；其他的被像鹤嘴一样的铁手或鸟嘴举起，当它们被船首拉起并竖立在船尾时，它们将它们摔入海底；或者船被引擎拉着旋转，撞向墙下突出的岩石，造成船上士兵的巨大伤亡。一艘船经常被举到空中（一个可怕的景象），来回摇摆，让水手们都被抛出来，最后摔在岩石上，或者摔落。"
+
+阿基米德被他的朋友和亲戚希罗王说服建造这样的机器：
+
+"这些机器是阿基米德设计和构思的，不是作为任何重要的事情，而是作为几何学中的娱乐；应希罗王的愿望和请求，不久前他把他令人钦佩的推测科学的某一部分付诸实践，通过将理论真理适应感觉和日常使用，使它更能为普通人所欣赏。"
+
+然而，阿基米德，虽然他通过机械发明获得了 fame，但他认为纯数学是唯一值得追求的事业。普卢塔克再次美丽地描述了阿基米德的态度：
+
+"阿基米德拥有如此高的精神，如此深邃的灵魂，如此丰富的科学知识，尽管这些发明现在已为他获得了超过人类智慧的声誉，但他仍然不屑于留下任何关于此类主题的评论或著作；而是鄙视作为肮脏和卑劣的整个工程行业，以及每一种沦为单纯使用和利润的艺术，他将全部的热爱和野心寄托在那些更纯粹的推测上，在那里不可能有任何对世俗需求的参照；这些研究，其相对于所有其他研究的优越性是无可置疑的，唯一的疑问是， 所检查的主题的美丽和宏伟，以及方法和证明手段的精确性和说服力，最值得我们赞赏。"
+
+他的几何学痴迷被普卢塔克优美地描述：
+
+"常常阿基米德的仆人违背他的意愿带他去洗澡，但在那里，他总是会在甚至在 chimney 的余烬中画几何图形。当他们用油和香甜的气味为他擦身时，他用手指在他裸露的身体上画线，他是如此地脱离自我，在几何研究的快乐中陷入恍惚或出神。"
+
+阿基米德的成就非常出色。他被认为是数学史上大多数历史学家认为的最伟大的数学家之一。他完善了一种集成方法，允许他找到许多物体的面积、体积和表面积。
+
+查斯尔说，阿基米德的积分工作"产生了由开普勒、卡瓦列里、费马、莱布尼茨和牛顿构思和完善的无限积分 calculus。
+
+阿基米德能够应用穷竭法，这是积分的早期形式，获得了一系列重要的结果。他给出了π的准确近似，并表明他可以准确近似平方根。他发明了一种表达大数的系统。在力学中，阿基米德发现了平面图形和固体重心的一些基本定理。他最著名的定理给出了浸没在液体中的物体的重量，称为阿基米德原理。
+
+阿基米德的著作按时间顺序排列：《平面平衡论》、《抛物线求积》、《论球与圆柱》（两卷）、《论螺旋线》、《论圆锥曲线和球状体》、《论浮体》（两卷）、《圆的测量》和《沙计算器》。1906年夏天，哥本哈根大学古典语言学教授J·L·海贝格发现了一份10世纪的手稿，其中包括阿基米德的著作《方法论》。
+
+在《方法论》中，阿基米德描述了他发现许多几何结果的方式：
+
+"某些事情首先通过机械方法变得清晰，尽管它们后来必须通过几何学来证明。因为通过所述方法 investigation 它们并没有提供实际证明。但当然，一旦我们通过方法事先获得了对正在调查的问题的某种认识，提供证明比在没有先前知识的情况下发现它更容易。"
+
+也许阿基米德几何结果的卓越最好由普卢塔克总结：
+
+"在所有几何学中，不可能找到更困难和更复杂的问题，也不可能找到更简单和更清晰的解释。一些人将其归于他的自然天赋；而另一些人认为这些看似轻松和不费力的结果是由难以置信的努力和辛勤产生的。你的任何调查研究都不会成功获得证明，而一旦看到，你立即相信你会发现它；通过如此平滑和快速的路径，他引导你达到所需的结论。"
+
+关于阿基米德在公元前212年罗马人攻占锡拉库萨期间被杀的叙述，普卢塔克提供了三个版本：
+
+第一个版本：
+"阿基米德……正如此刻的命运所示，正专注于通过图表研究某个问题，他的思想和眼睛同样专注于他的推测，他从未注意到罗马人的入侵，也从未注意到城市的陷落。在这种研究和沉思的沉浸中，一个士兵意外地来到他面前，命令他跟随去马塞拉斯；他拒绝在他完成问题证明之前这样做，士兵愤怒地拔出剑刺穿了他。"
+
+第二个版本：
+"一个罗马士兵拿着剑冲向他，要杀他；而阿基米德回头看，恳切地请求他稍等片刻，让他不要在他当时正在进行但不完整的工作上中断；但士兵对他的请求无动于衷，立即杀了他。"
+
+第三个版本：
+"当阿基米德带着数学仪器、日晷、球体和角度去马塞拉斯测量太阳的表观直径时，一些士兵看到他，认为他带着一容器黄金，杀了他。"
+
+阿基米德把他关于圆柱外接球的最重要成就留给了自己，他要求在他的坟墓上刻上这个以及他关于两者比例的结果。西塞罗在公元前75年在西西里，他说，他寻找阿基米德的坟墓（发现它被灌木和浓密的灌木丛包围），并进行了修复。
+
+---
+来源: https://mathshistory.st-andrews.ac.uk/Biographies/Archimedes/# 阿基米德 - 维基百科
+
+阿基米德的生平细节模糊；据说由他的朋友Heraclides Lembus撰写的阿基米德传记已被提及，但这部作品已经丢失，现代学者怀疑它是否由赫拉克利德斯所写。根据拜占庭希腊学者John Tzetzes的声明，阿基米德在公元前212年去世前活了75年，据此估计阿基米德约于公元前287年出生于锡拉库萨这个海港城市。
+
+## 金冠问题
+
+据维特鲁维乌斯记载，希罗二世为一座寺庙委托制造金冠，并提供了纯金。但国王开始怀疑金匠用一些较贱的银取代了一些，并保留了一些纯金。在无法让金匠坦白的情况下，他请阿基米德进行调查。后来，当阿基米德踏入浴缸时，他注意到浴缸中的水位在他沉入时上升得越多，他意识到这个效果可以用来确定金冠的体积，兴奋得没穿衣服就跑到街上，大喊"Eureka!"（"我找到了！"）。
+
+## 启动叙拉古斯号
+
+雅典尼乌斯引用了 Moschion 的描述，讲述了希罗二世如何委托设计一艘巨大的船——叙拉古斯号，据说是古代制造的最大的船。普卢塔克给出了略有不同的描述，说阿基米德向希罗吹嘘他能够移动任何巨大的重量，希罗挑战他移动一艘船。这些账户包含许多历史上难以置信的奇妙细节：普卢塔克说阿基米德建造了一个滑轮系统，而亚历山大的希罗则将同样的吹嘘归因于阿基米德发明了 baroulkos（一种绞盘）。帕普斯将这一功绩归因于阿基米德使用杠杆原理，并引用了他常说的话："给我一个站立的地方，我就能移动地球。"
+
+## 战争机器
+
+阿基米德在古代获得的最大的声誉是他在这场围城中的声誉。三位不同的历史学家普卢塔克、李维和波利bius 提供了关于这些战争机器的证词，描述了改进的弹射器、可以从墙上伸出投放重铅块的起重机，或者用铁爪将船从水中提起然后摔沉的起重机。
+
+一个更难以置信的描述涉及阿基米德使用"燃烧镜子"将太阳光线聚焦到进攻的罗马船上点燃它们。这个设备有时被称为"阿基米德热射线"。
+
+## 死亡
+
+关于阿基米德在叙拉库萨陷落后被洗劫时的死亡，有几个不同版本：最古老的记载来自李维，说阿基米德在沙滩上画图时被一名不知道他是阿基米德的罗马士兵杀死。根据普卢塔克的说法，士兵要求阿基米德跟他走，但阿基米德拒绝，说他必须完成问题的工作，士兵用剑杀死了他。另一个版本是阿基米德携带数学仪器被士兵杀死，因为士兵认为它们是贵重物品。另一个罗马作家瓦莱里乌斯·马克西穆斯说，阿基米德最后的遗言是："……但用手保护着沙，说'我求你，不要打扰这个。'"这类似于现在常归于他的话："不要打扰我的圆圈。"
+
+据说马塞拉斯对阿基米德的死感到愤怒，因为他认为阿基米德是一个有价值的科学资产（他称阿基米德为"几何学的布里阿里乌斯"），并命令不要伤害他。西塞罗提到马塞拉斯带到了罗马两个阿基米德建造的天象仪。
+
+## 数学
+
+### 穷竭法
+
+在《抛物线的求积》中，阿基米德用这种技术证明了被抛物线和一条直线包围的面积是一个相应内接三角形面积的4/3倍，表达为无穷几何级数。
+
+### 机械方法
+
+阿基米德写道："因为通过方法事先获得对正在调查的问题的某种认识，比在没有先前知识的情况下调查更容易提供证明。"
+
+他还开发了表达大数的方法。在《沙计算器》中，阿基米德设计了一个基于万（10,000）的计数系统，以计算大于填满宇宙所需的沙粒数量的数字。
+
+## 著作
+
+现存的著作按时间顺序排列： 《圆的测量》、《沙计算器》、《论平面平衡》、《抛物线求积》、《论球与圆柱》、《论螺旋线》、《论圆锥曲线和球状体》、《论浮体》、《骨牌》（一个拼图游戏）、《牛问题》和《机械定理方法论》（1906年发现）。
+
+《方法论》描述了他如何使用杠杆定律来测量形状的面积和体积。阿基米德说，他首先用这种方法证明了结果，然后才用穷竭法来证明。
+
+---
+来源: https://en.wikipedia.org/wiki/Archimedes# 阿基米德 - BBC历史人物
+
+阿基米德是一位希腊数学家、哲学家和发明家，著有几何学、算术和力学方面的重要著作。
+
+阿基米德出生于西西里岛东海岸的锡拉库萨，在埃及的亚历山大接受教育。然后回到锡拉库萨，在那里度过了大部分余生，致力于许多领域的研究和实验。
+
+在力学方面，他定义了杠杆原理，并被认为发明了复合滑轮和液压螺旋，用于将水从低处提升到高处。他最著名的是发现了流体静力学定律，有时被称为"阿基米德原理"，即浸没在流体中的物体失去的重量等于它排出的流体量的重量。
+
+据说阿基米德在踏入浴缸时发现了这一点，促使他大声呼喊"Eureka!"
+
+在罗马人征服西西里岛的214年，阿基米德为国家效力，他的几台机械装置被用于防御锡拉库萨。其中归因于他的战争机器包括弹射器，以及可能是传说中的一种镜子系统，用于将太阳光线聚焦在侵略者的船上并点燃它们。
+
+叙拉库萨被占领后，阿基米德被一名罗马士兵杀死。据说他是如此沉迷于他的计算，他告诉他的杀手不要打扰他。
+
+---
+来源: https://www.bbc.com/history/historic_figures/archimedes.shtml# 阿基米德引语集
+
+## 直接引语（从原始资料中提取）
+
+### 1. "Eureka! Eureka! I have found it!"
+来源：Vitruvius, De Architectura ix, 215
+说明：阿基米德在发现浮力原理（王冠问题）时，从浴缸中跑出赤身裸体跑上街头时喊出的话。
+
+### 2. "Give me a place to stand and I will move the earth."
+来源：Pappus, Synagoge (Collection), Book VIII
+说明：关于杠杆原理的著名言论，展现了他对力学原理的自信。
+
+### 3. "Noli turbare circulos meos." (Do not disturb my circles!)
+来源：Various ancient sources, reported by Valerius Maximus and others
+说明：阿基米德临终前对罗马士兵说的话，当时他正在沙滩上画几何图形。
+
+### 4. "Certain things first became clear to me by a mechanical method, although they had to be demonstrated by geometry afterwards because their investigation by the said method did not furnish an actual demonstration. But it is of course easier, when we have previously acquired by the method, some knowledge of the questions, to supply the proof than it is to find it without any previous knowledge."
+来源：Archimedes, The Method of Mechanical Theorems (Letter to Eratosthenes)
+说明：阿基米德在《方法论》中描述他如何通过机械方法发现几何定理。
+
+### 5. "There are things which seem incredible to most men who have not studied mathematics."
+来源：Archimedes, The Sand Reckoner
+说明：阿基米德讨论大数时的观点。
+
+### 6. "If thou art able, O stranger, to find out all these things and gather them together in your mind, giving all the relations, thou shalt depart crowned with glory and knowing that thou hast been adjudged perfect in this species of wisdom."
+来源：Archimedes' tomb inscription (as reported by Cicero)
+说明：刻在阿基米德墓碑上的谜语（牛问题的一部分）。
+
+### 7. "...so that those who claim to discover everything, but produce no proofs of the same, may be confuted as having pretended to discover the impossible."
+来源：Archimedes, On Spirals (preface to Dositheus)
+说明：阿基米德讲述他如何处理亚历山大数学家声称他的定理是他们的故事。
+
+## 普卢塔克描述的阿基米德言论/描述
+
+### 关于机械发明：
+"These machines [Archimedes] had designed and contrived, not as matters of any importance, but as mere amusements in geometry; in compliance with King Hiero's desire and request, some little time before, that he should reduce to practice some part of his admirable speculation in science, and by accommodating the theoretic truth to sensation and ordinary use, bring it more within the appreciation of the people in general."
+来源：Plutarch, Life of Marcellus
+
+### 关于纯数学的崇高地位：
+"Archimedes possessed so high a spirit, so profound a soul, and such treasures of scientific knowledge, that though these inventions had now obtained him the renown of more than human sagacity, he yet would not deign to leave behind him any commentary or writing on such subjects; but, repudiating as sordid and ignoble the whole trade of engineering, and every sort of art that lends itself to mere use and profit, he placed his whole affection and ambition in those purer speculations where there can be no reference to the vulgar needs of life; studies, the superiority of which to all others is unquestioned..."
+来源：Plutarch, Life of Marcellus
+
+### 关于对几何学的痴迷：
+"Oftimes Archimedes' servants got him against his will to the baths, to wash and anoint him, and yet being there, he would ever be drawing out of geometrical figures, even in the very embers of the chimney. And while they were anointing of him with oils and sweet savours, with his fingers he drew lines upon his naked body, so far was he taken from himself, and brought into ecstasy or trance, with the delight he had in the study of geometry."
+来源：Plutarch, Life of Marcellus
+
+## 其他古代作家的描述
+
+### 利维描述阿基米德的战争机器效果：
+"...when Archimedes began to ply his engines, he at once shot against the land forces all sorts of missile weapons, and immense masses of stone that came down with incredible noise and violence; against which no man could stand; for they knocked down those upon whom they fell in heaps, breaking all their ranks and files. In the meantime huge poles thrust out from the walls over the ships and sunk some by great weights which they let down from on high upon them; others they lifted up into the air by an iron hand or beak like a crane's beak and, when they had drawn them up by the prow, and set them on end upon the poop, they plunged them to the bottom of the sea..."
+来源：Livy, Ab Urbe Condita
+
+### 西塞罗描述阿基米德的墓碑：
+"...and found it enclosed all around and covered with brambles and thickets; for I remembered certain doggerel lines inscribed, as I had heard, upon his tomb, which stated that a sphere along with a cylinder had been put on top of his grave."
+来源：Cicero, Against Verres
+
+---
+来源整合自：
+- MacTutor History of Mathematics quotations page
+- Plutarch, Life of Marcellus
+- Livy, Ab Urbe Condita
+- Vitruvius, De Architectura
+- Pappus, Synagoge
+- Cicero, Against Verres# 后世评述 - 阿基米德
+
+## 古代评价
+
+### 普卢塔克（希腊作家，公元45/50-120/125年）
+"It is not possible to find in all geometry more difficult and intricate questions, or more simple and lucid explanations. Some ascribe this to his natural genius; while others think that incredible effort and toil produced these, to all appearances, easy and unlaboured results. No amount of investigation of yours would succeed in attaining the proof, and yet, once seen, you immediately believe you would have discovered it; by so smooth and so rapid a path he leads you to the conclusion required."
+来源：Plutarch, Life of Marcellus
+
+### 查尔斯论阿基米德积分工作的历史地位：
+"...gave birth to the calculus of the infinite conceived and brought to perfection by Kepler, Cavalieri, Fermat, Leibniz and Newton."
+来源：M. Chasles, referring to Archimedes' integration methods
+
+### T.L. Heath 论阿基米德著作的质量：
+"The treatises are, without exception, monuments of mathematical exposition; the gradual revelation of the plan of attack, the masterly ordering of the propositions, the stern elimination of everything not immediately relevant to the purpose, the finish of the whole, are so impressive in their perfection as to create a feeling akin to awe in the mind of the reader."
+来源：T.L. Heath, A History of Greek Mathematics II (1931)
+
+### 克罗格论阿基米德著作的传播：
+"Unlike the Elements of Euclid, the works of Archimedes were not widely known in antiquity. ... It is true that ... individual works of Archimedes were obviously studied at Alexandria, since Archimedes was often quoted by three eminent mathematicians of Alexandria: Heron, Pappus and Theon."
+来源：M. Clagett, Biography in Dictionary of Scientific Biography
+
+### 西塞罗对阿基米德的评价：
+马塞拉斯称阿基米德为"几何学的布里阿里乌斯"（geometric Briareus），把他视为宝贵的科学资产，下令不得伤害他。
+
+## 文艺复兴及近代评价
+
+### 达芬奇
+达芬奇反复表达对阿基米德的钦佩，并将他的一项发明Architonnerre归功于阿基米德。
+
+### 伽利略
+伽利略称阿基米德为"superhuman"（超人的）和"my master"（我的主人）。
+
+### 惠更斯
+基督iaan Huygens说："I think Archimedes is comparable to no one"，有意识地模仿阿基米德进行早期工作。
+
+### 莱布尼茨
+"他如果理解阿基米德和阿波罗尼奥斯，会较少钦佩后来最杰出人物的成就。"
+
+### 高斯
+高斯的英雄是阿基米德和牛顿。他的老师莫里茨·坎托报告说，高斯曾说："只有三个时代划分的数学家：阿基米德、牛顿和艾森斯坦。"
+
+### 怀特黑德
+"在1500年，欧洲知道的还不如死于公元前212年的阿基米德多。"
+
+### 雷维尔·内茨
+"西方科学不过是阿基米德的系列脚注"，称他为"曾经存在的最重要的科学家"。
+
+### 埃里克·坦普尔·贝尔
+"任何列出历史上三位最伟大数学家的名单都会包括阿基米德的名字。其他两位通常与他并列的是牛顿和高斯。一些人，考虑到他们各自时代数学和物理科学的贫富或贫乏程度，以及根据他们时代的背景估计他们的成就，会把阿基米德放在第一位。"
+
+## 现代评价
+
+### 数学史学家的一致评价
+历史学家和数学家几乎一致认为阿基米德是古典时期最杰出的科学家，也是整个历史上最伟大的数学家之一。
+
+### 阿基米德原理的持久影响
+阿基米德原理至今仍是物理学基本原理之一，在工程、船舶设计等领域广泛应用。
+
+### 阿基米德螺旋的持久应用
+阿基米德螺旋至今在世界许多地方用于抽水，体现了阿基米德工程发明的持久实用价值。
+
+---
+来源整合自：
+- Plutarch, Parallel Lives (Life of Marcellus)
+- T.L. Heath, A History of Greek Mathematics
+- M. Clagett, Dictionary of Scientific Biography
+- Various Renaissance and modern sources引述

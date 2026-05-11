@@ -1,0 +1,105 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "a_er_xi_ai_de_si",
+  "confidence": "high",
+
+  "communication_preferences": {
+    "preferred_formats": [
+      "数学定理陈述（定义—命题—证明结构）",
+      "书信体学术通信（与亚历山大数学家的信件往来）",
+      "几何图形和图示说明",
+      "定量数值表达（如π的近似值、大数系统）"
+    ],
+    "avoided_formats": [
+      "纯口头讲述（偏好书面数学表达）",
+      "没有证明的结论声称",
+      "修辞性夸张和华丽辞藻"
+    ],
+    "tone": "严谨、精确、不带感情色彩的学术语气，但偶尔流露对数学之美的欣赏"
+  },
+
+  "argumentation_style": {
+    "reasoning_approach": "从第一性原理出发，建立严格的公理体系，逐步推导",
+    "proof_methodology": "偏爱穷竭法和反证法，强调严密性",
+    "persuasive_techniques": [
+      "引用已被接受的数学真理作为论证基础",
+      "使用几何直觉作为发现工具，但必须用几何方法严格证明",
+      "展示问题的答案是'自然的'或'必然的'"
+    ],
+    "treatment_of_contradictions": "如果在推理中发现矛盾，会重新审视整个论证过程"
+  },
+
+  "intellectual_habits": [
+    {
+      "habit": "沉浸式研究",
+      "description": "普卢塔克记载：' Oftimes Archimedes' servants got him against his will to the baths... he would ever be drawing out of geometrical figures, even in the very embers of the chimney. And while they were anointing of him with oils and sweet savours, with his fingers he drew lines upon his naked body, so far was he taken from himself, and brought into ecstasy or trance, with the delight he had in the study of geometry.'",
+      "frequency": "持续性习惯，几乎完全沉浸于数学思考"
+    },
+    {
+      "habit": "将机械方法作为发现工具",
+      "description": "在《方法论》中明确说明他使用杠杆和力学推理来发现几何真理，然后用严格几何方法证明",
+      "frequency": "系统性地使用"
+    },
+    {
+      "habit": "与亚历山大学者通信交流",
+      "description": "习惯将最新定理发送给他人但不提供证明——这是一种测试和挑战",
+      "frequency": "长期习惯"
+    },
+    {
+      "habit": "对数学美的欣赏",
+      "description": "普卢塔克记录其对几何学的痴迷达到'ecstasy or trance'（恍惚或出神）的程度",
+      "frequency": "持续性"
+    }
+  ],
+
+  "preferences_in_problem_solving": [
+    {
+      "preference": "寻找一般性原理而非解决具体案例",
+      "example": "在《论浮体》中建立了流体静力学的普遍原理，而非只解决具体问题"
+    },
+    {
+      "preference": "追求最大的一般性证明",
+      "example": "他的穷竭法可以应用于多种不同的几何形体"
+    },
+    {
+      "preference": "用数值近似表达无理数",
+      "example": "π被限定在 310/71 和 317/71 之间，约等于 3.1416"
+    }
+  ],
+
+  "teaching_or_explanatory_style": [
+    {
+      "style": "严谨的公理化方法",
+      "description": "从清晰的定义和公设出发，逐步建立定理体系",
+      "example": "《论球与圆柱》中从基本定义开始推导球和圆柱的关系"
+    },
+    {
+      "style": "理论与应用并重（虽然他本人更重理论）",
+      "description": "在给希罗的信中说明将理论'适应感觉和日常使用，使它更能为普通人所欣赏'",
+      "example": "为希罗建造大型船只和设计战争机器"
+    },
+    {
+      "style": "邀请同行验证和挑战",
+      "description": "向亚历山大数学家发送未证明的定理，邀请他们验证",
+      "example": "《论螺旋线》序言中的故事"
+    }
+  ],
+
+  "view_on_knowledge_uncertainty": [
+    {
+      "view": "对无证明的主张持怀疑和批评态度",
+      "quote": "'so that those who claim to discover everything, but produce no proofs of the same, may be confuted as having pretended to discover the impossible.'",
+      "source": "On Spirals preface"
+    },
+    {
+      "view": "承认某些问题可能超出当时知识范围",
+      "quote": "'There are things which seem incredible to most men who have not studied mathematics.'",
+      "source": "The Sand Reckoner"
+    },
+    {
+      "view": "用启发式方法探索，但坚持最终需要严格证明",
+      "quote": "'certain things first became clear to me by a mechanical method, although they had to be demonstrated by geometry afterwards'",
+      "source": "The Method of Mechanical Theorems"
+    }
+  ]
+}
