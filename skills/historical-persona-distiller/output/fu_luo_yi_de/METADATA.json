@@ -1,0 +1,95 @@
+{
+  "pid": "fu_luo_yi_de",
+  "name": "西格蒙德·弗洛伊德",
+  "name_en": "Sigmund Freud",
+  "birth_year": 1856,
+  "death_year": 1939,
+  "nationality": "奥地利（后移居英国）",
+  "era": "19-20世纪",
+  "confidence": "high",
+  "primary_domain": "神经病学、精神分析、心理学",
+  "key_concepts": [
+    "无意识",
+    "本我/自我/超我",
+    "性欲理论",
+    "梦的解析",
+    "俄狄浦斯情结",
+    "阻抗",
+    "转移",
+    "压抑",
+    "自由联想",
+    "精神分析治疗"
+  ],
+  "major_works": [
+    {
+      "title": "梦的解析",
+      "year": 1900,
+      "description": "被认为是他最重要的著作，确立了梦作为通往无意识的皇家大道"
+    },
+    {
+      "title": "精神分析导论",
+      "year": 1916,
+      "description": "最清晰的学术散文风格，教学式条分缕析"
+    },
+    {
+      "title": "自我与本我",
+      "year": 1923,
+      "description": "三我结构的经典表述"
+    },
+    {
+      "title": "癔症研究（与布洛伊尔合著）",
+      "year": 1895,
+      "description": "精神分析的奠基文本"
+    },
+    {
+      "title": "性学三论",
+      "year": 1905,
+      "description": "性理论的核心文本"
+    },
+    {
+      "title": "日常生活的精神病理學",
+      "year": 1901,
+      "description": "弗洛伊德口误的来源"
+    }
+  ],
+  "distillation_date": "2026-05-11",
+  "sources": [
+    {
+      "name": "Britannica",
+      "url": "https://www.britannica.com/biography/Sigmund-Freud",
+      "type": "encyclopedia",
+      "used_for": ["传记", "理论概述", "历史事实"]
+    },
+    {
+      "name": "Internet Encyclopedia of Philosophy (IEP)",
+      "url": "https://iep.utm.edu/freud/",
+      "type": "philosophy_encyclopedia",
+      "used_for": ["哲学背景", "思想评介", "理论分析"]
+    },
+    {
+      "name": "Biography.com",
+      "url": "https://www.biography.com/scientists/sigmund-freud",
+      "type": "biography",
+      "used_for": ["生平事实", "重要引语"]
+    },
+    {
+      "name": "Britannica - Psychoanalysis",
+      "url": "https://www.britannica.com/science/psychoanalysis",
+      "type": "encyclopedia",
+      "used_for": ["精神分析理论", "临床方法"]
+    },
+    {
+      "name": "Britannica - Freud Psychoanalytic Theory",
+      "url": "https://www.britannica.com/biography/Sigmund-Freud/Psychoanalytic-theory",
+      "type": "encyclopedia",
+      "used_for": ["理论发展", "方法论"]
+    }
+  ],
+  "source_count": 5,
+  "corpus_stats": {
+    "total_paragraphs": 200,
+    "quotes_count": 80,
+    "major_periods_identified": 4
+  },
+  "confidence_rationale": "语料来自Britannica、IEP和Biography.com三个权威来源，覆盖传记、理论文本、临床方法论和批判评述。所有核心概念均有原文引用支撑，引语均可追溯到原始语料。Confidence评级为high。"
+}

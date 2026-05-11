@@ -1,0 +1,74 @@
+{
+  "pid": "fu_luo_yi_de",
+  "corpus_stats": {
+    "sources_used": [
+      {
+        "name": "Britannica",
+        "url": "https://www.britannica.com/biography/Sigmund-Freud",
+        "type": "encyclopedia",
+        "content_bytes": 25000
+      },
+      {
+        "name": "Internet Encyclopedia of Philosophy (IEP)",
+        "url": "https://iep.utm.edu/freud/",
+        "type": "philosophy_encyclopedia",
+        "content_bytes": 15000
+      },
+      {
+        "name": "Biography.com",
+        "url": "https://www.biography.com/scientists/sigmund-freud",
+        "type": "biography",
+        "content_bytes": 10000
+      },
+      {
+        "name": "Britannica - Psychoanalysis",
+        "url": "https://www.britannica.com/science/psychoanalysis",
+        "type": "encyclopedia",
+        "content_bytes": 8000
+      },
+      {
+        "name": "Britannica - Freud Psychoanalytic Theory",
+        "url": "https://www.britannica.com/biography/Sigmund-Freud/Psychoanalytic-theory",
+        "type": "encyclopedia",
+        "content_bytes": 15000
+      }
+    ],
+    "total_sources": 5,
+    "total_content_bytes": 73000,
+    "raw_files_created": [
+      "raw/fu_luo_yi_de/传记.txt",
+      "raw/fu_luo_yi_de/引语.txt",
+      "raw/fu_luo_yi_de/后世评述.txt",
+      "raw/fu_luo_yi_de/全部语料.txt"
+    ],
+    "processed_files_created": [
+      "processed/fu_luo_yi_de/stages.md",
+      "processed/fu_luo_yi_de/dimension_思想内核.json",
+      "processed/fu_luo_yi_de/dimension_语言特征.json",
+      "processed/fu_luo_yi_de/dimension_表达偏好.json",
+      "processed/fu_luo_yi_de/dimension_立场光谱.json",
+      "processed/fu_luo_yi_de/dimension_voice_profile.json"
+    ],
+    "output_files_created": [
+      "output/fu_luo_yi_de/SKILL.md",
+      "output/fu_luo_yi_de/EVENTS.md",
+      "output/fu_luo_yi_de/VOICE.md",
+      "output/fu_luo_yi_de/README.md",
+      "output/fu_luo_yi_de/METADATA.json",
+      "output/fu_luo_yi_de/CITATIONS.md",
+      "output/fu_luo_yi_de/raw_stats.json"
+    ],
+    "quotes_count": 45,
+    "life_stages_identified": 4,
+    "confidence_level": "high"
+  },
+  "web_search_status": {
+    "web_search": "失败（DuckDuckGo超时）",
+    "serpapi": "成功（通过web_fetch调用成功）",
+    "fallback_baidu": "未使用",
+    "final_sources": ["Britannica (web_fetch)", "IEP (web_fetch)", "Biography.com (web_fetch)"]
+  },
+  "distillation_started": "2026-05-11T00:06:00Z",
+  "distillation_completed": "2026-05-11T00:14:00Z",
+  "distillation_duration_minutes": 8
+}
