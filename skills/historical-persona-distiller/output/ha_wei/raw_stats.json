@@ -1,0 +1,51 @@
+{
+  "raw_stats": {
+    "persona_id": "ha_wei",
+    "persona_name": "威廉·哈维",
+    "completion_time": "2026-05-11T12:08:00+08:00",
+    "word_counts": {
+      "传记": 2100,
+      "引语": 3100,
+      "后世评述": 2200,
+      "全部语料": 7400
+    },
+    "source_counts": {
+      "total": 4,
+      "britannica": 2,
+      "pmc_ncbi": 2
+    },
+    "source_details": [
+      {
+        "name": "Britannica - William Harvey Biography",
+        "url": "britannica.com/biography/William-Harvey",
+        "word_count_approx": 10000,
+        "type": "biography"
+      },
+      {
+        "name": "PMC2776239 - William Harvey and the discovery",
+        "url": "pmc.ncbi.nlm.nih.gov/articles/PMC2776239/",
+        "word_count_approx": 6500,
+        "type": "commentary"
+      },
+      {
+        "name": "PMC10566385 - Lessons from the life of William Harvey",
+        "url": "pmc.ncbi.nlm.nih.gov/articles/PMC10566385/",
+        "word_count_approx": 10000,
+        "type": "commentary"
+      },
+      {
+        "name": "Britannica - Key discoveries and influences",
+        "url": "britannica.com/biography/William-Harvey/Key-discoveries-and-influences",
+        "word_count_approx": 7800,
+        "type": "commentary"
+      }
+    ],
+    "language_type": "en",
+    "is_poet": false,
+    "poetry_collection_note": "哈维是医生/生理学家，非诗人，无诗词作品要求",
+    "citations_count": 11,
+    "citations_verified": true,
+    "confidence": "high",
+    "confidence_rationale": "4个权威来源（Britannica × 2, PMC × 2），所有引语均可溯源，语料覆盖生平、发现过程、学术争议和后世影响，confidence评为high"
+  }
+}

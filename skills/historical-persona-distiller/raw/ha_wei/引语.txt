@@ -1,0 +1,45 @@
+# 威廉·哈维引语集
+
+## 哈维《心血运动论》(De Motu Cordis, 1628) 原文引语
+
+### 关于血液循环发现的经典引语
+
+**第八章 —— 哈维假设血液循环的思考过程：**
+
+"In truth, when, from a variety of investigators through dissection of the living in order to experiment and through the opening of arteries, from the symmetry and magnitude of the ventricles of the heart and of the vessels entering and leaving (since Nature, who does nothing in vain, would not have needkessly given these vessels such relatively large size), from the skilfull and careful craftsmanship of the valves and fibres and the rest of the fabric of the heart, and from many other things, I had very often and seriously though about, and had long turned over in my mind, how great an amount there was, that is to say how great the amount of transmitted blood would be [and] in how short a time that transmission would be effected...I began privately to think that it might rather have a certain movement, as it were, in a circle..."
+
+（"的确，当我从各种研究者通过活体解剖进行实验、通过打开动脉，从心室的对称性和大小以及进入和离开的血管（因为自然不会徒劳地给予这些血管如此相对较大的尺寸），从瓣膜和纤维以及心脏其余结构的巧妙精细的工艺，以及从许多其他事情中，我经常认真地思考，并在心中反复掂量，有多少量，也就是说，有多少量的血液被传输……在很短的时间内传输会完成……我开始私下认为，它可能有某种运动，可以说是……循环。"）
+
+**第十三章 —— 哈维总结他的发现：**
+
+"It has been shown by reason and experiment that blood by the beat of the ventricles flows through the lungs and heart and is pumped to the whole body. There it passes through pores in the flesh into the veins through which it returns from the periphery everywhere to the centre, from the smaller veins into the larger ones, finally coming to the vena cava and right atrium. This occurs in such an amount, with such an outflow through the arteries and such a reflux through the veins, that it cannot be supplied by the food consumed. It is also much more than is needed for nutrition. It must therefore be concluded that the blood in the animal body moves around in a circle continuously and that the action or function of the heart is to accomplish this by pumping. This is only reason for the motion and beat of the heart."
+
+（"通过推理和实验已经表明，血液通过心室的跳动流经肺和心脏，被泵送到全身。在那里，它通过肉体中的毛孔进入静脉，通过静脉从外周各处返回中心，从较小的静脉进入较大的静脉，最终到达腔静脉和右心房。这个过程的数量如此之大，动脉流出如此之多，静脉回流如此之大，以至于不可能由所消耗的食物来供应。它也远远超过营养所需的量。因此必须得出结论：动物体内的血液不断地循环运动，心脏的动作或功能就是通过泵送来实现这一点。这就是心脏运动和跳动的唯一理由。"）
+
+## 哈维其他著作引语
+
+### 《献给查尔斯一世的题词》(De Motu Cordis, 1628)
+
+"The most serene King! The animal's heart is the basis of its life, its chief member, the sun of its microcosm; on the heart all its activity depends, from the heart all its liveliness and strength arise. Equally is the king the basis of his kingdoms, the sun of his microcosm, the heart of the state; from him all power arises and all grace stems."
+
+（"最宁静的国王！动物的心脏是其生命的基础，是其最重要的成员，是其微观世界的太阳；所有活动都依赖于心脏，所有活力和力量都从心脏升起。同样，国王是其王国的基础，是其微观世界的太阳，是国家的心脏；所有权力都从他升起，所有恩典都从他流淌。"）
+
+### 哈维对失去手稿的评价
+
+哈维称1642年丢失的手稿为"最大的痛苦"（the greatest crucifying）。
+
+## 托马斯·赫胥黎对哈维的评价（1878年）
+
+"Harvey is entitled, beyond dispute, to be regarded as the sole discoverer of the circulation of the blood, and the method of its propulsion by the heart."
+
+（"哈维当之无愧地应被视为血液循环的唯一发现者，以及心脏推动血液方法的唯一发现者。"）
+
+## 关于血液循环的误解（哈维之前的传统观点）
+
+在哈维之前，医学界相信：
+- 血液由肝脏不断新生，由肝脏通过静脉分配营养
+- 动脉和静脉是两个独立的系统
+- 血液在周围组织中被消耗并不断补充
+- 心脏的主要功能是产生热量
+
+哈维证明了这些观点都是错误的。

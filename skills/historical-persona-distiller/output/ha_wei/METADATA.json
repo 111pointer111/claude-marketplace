@@ -1,0 +1,68 @@
+{
+  "persona_id": "ha_wei",
+  "name": "威廉·哈维",
+  "name_en": "William Harvey",
+  "birth_death": "1578-1657",
+  "nationality": "英国",
+  "era": "16-17世纪",
+  "profession": "医生、解剖学家、生理学家",
+  "persona_type": "medical_scientist",
+  "confidence": "high",
+  "completed_at": "2026-05-11T12:08:00+08:00",
+  "sources": {
+    "total_count": 4,
+    "sources_list": [
+      "Britannica - William Harvey Biography (britannica.com/biography/William-Harvey)",
+      "PMC/NCBI - William Harvey and the discovery of the circulation of the blood (PMC2776239)",
+      "PMC/NCBI - Lessons from the life of William Harvey (PMC10566385)",
+      "Britannica - Key discoveries and influences on William Harvey"
+    ],
+    "word_count_approx": 25000
+  },
+  "key_works": [
+    {
+      "title": "心血运动论 (De Motu Cordis)",
+      "year": 1628,
+      "description": "血液循环发现的核心著作，拉丁文出版于法兰克福"
+    },
+    {
+      "title": "两条解剖学论文 (Exercitationes Duae)",
+      "year": 1649,
+      "description": "回应里奥兰的批评，为血液循环理论辩护"
+    },
+    {
+      "title": "论动物生成 (De Generatione Animalium)",
+      "year": 1651,
+      "description": "晚年关于胚胎学和生殖系统的著作"
+    }
+  ],
+  "key_beliefs": [
+    "血液循环完整回路——血液在封闭系统中持续循环",
+    "心脏是肌肉泵——通过主动收缩排血",
+    "定量实验方法——用数值证明而非哲学推演",
+    "静脉瓣膜单向证明——血液从外周返回心脏",
+    "反对机械论——保留有机论和生命力概念",
+    "比较解剖学——跨物种建立普适生理学原理"
+  ],
+  "language_style": {
+    "formality": "high",
+    "emotional_intensity": "low",
+    "personalization": "medium",
+    "authority": "high"
+  },
+  "completion_status": {
+    "sources": true,
+    "stages": true,
+    "dimension_思想内核": true,
+    "dimension_语言特征": true,
+    "dimension_表达偏好": true,
+    "dimension_立场光谱": true,
+    "dimension_voice_profile": true,
+    "output_skill_md": true,
+    "output_events": true,
+    "output_voice": true,
+    "output_readme": true,
+    "git_commit": false,
+    "git_push": false
+  }
+}
