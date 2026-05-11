@@ -26,6 +26,7 @@
 148 | 弗洛伊德 | 奥地利-英国/19-20世纪 | 2026-05-11 | high | 8 |
 149 | 卡夫卡 | 奥地利-20世纪 | 2026-05-11 | high | 20 |
 | 150 | 希波克拉底 | 古希腊 | 2026-05-11 | high | 30 |
+| 151 | 欧几里得 | 古希腊 | 2026-05-11 | medium | 25 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -39,10 +40,10 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 欧几里得（ou_ji_li_de）
-**来源：** backlog.md（第七批，#142）
+**下一待处理：** 亚基米德（a_ji_mi_de）
+**来源：** backlog.md（第六批，#143）
 **优先级：** medium
-**备注：** 希波克拉底（xi_bo_ke_la_di）已完成（vs 特斯拉 ni_ke_la_te_si_la），顺序无变化
+**备注：** 欧几里得（ou_ji_li_de）已完成
 
 ---
 
@@ -2478,3 +2479,23 @@
 **备注：** 法拉第（Michael Faraday，1791-1867）是英国19世纪实验物理学家，发现电磁感应（1831年）、发明第一台电动机和发电机（dynamo）、发现电解定律（以"法拉第"命名的电学单位）；web_search失败后 SerpAPI via web_fetch 也失败（网络问题）；最终通过 web_fetch 直接抓取 Britannica 成功获得足够语料；人物为科学家而非诗人，无诗词抓取问题；语料主要来源为 Britannica 综合传记（二手文献），缺乏 Faraday 原始论文的直接引用，confidence 评为 medium；5个阶段划分清晰，语料约12,388字，全部引用均可溯源至Britannica传记原文，无自行创作内容。
 
 **Git push 失败原因：** 网络问题（无法连接 github.com:443），已本地 commit，状态待推送。
+
+### 2026-05-11 欧几里得（ou_ji_li_de）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 连接失败/超时）
+**SerpAPI：** ❌ 失败（SerpAPI 返回错误或超时）
+**web_fetch：** ✅ 成功（3个权威来源共约55,000字语料）
+
+**最终来源：**
+1. MacTutor History of Mathematics - Euclid Biography（mathshistory.st-andrews.ac.uk/Biographies/Euclid/，约24,000字，英文，数学史权威）
+2. World History Encyclopedia - Euclid by N.S. Palmer（worldhistory.org/Euclid/，约23,000字，英文，人物百科）
+3. Linda Hall Library - Euclid of Alexandria（lindahall.org/about/news/scientist-of-the-day/euclid-of-alexandria/，约7,400字，英文，科学史图书馆）
+
+**git push 情况：** ✅ 首次 push 成功（commit 0809f2e 推送至 origin/main）
+
+**百度百科：** 未使用（搜索被百度安全验证拦截，改用直接 web_fetch）
+
+**confidence：** medium
+**耗时：** 约25分钟
+
+**备注：** 欧几里得（Euclid of Alexandria，约公元前325年-约公元前265年）是古希腊数学家，公理化方法的开创者；web_search失败后 SerpAPI via web_fetch 也失败（SerpAPI 返回错误），最终通过直接 web_fetch 抓取3个权威英文来源成功获得足够语料；欧几里得为数学家非诗人，无诗词抓取问题；由于几乎没有第一手资料存在（所有作品都是他人的引用和描述），主要依赖后世学者（Proclus、Pappus、Stobaeus）的引述和评价；3个来源共约54,400字语料；5条思想内核均有至少2处原文引用验证；Voice Profile核心是"冷静的秩序建筑师·公理化方法的缔造者"——用简洁精确的定义、公设和证明，建立从基本公理到定理的完整逻辑体系；"几何学没有王者之路"成为教育史上的经典名言；《几何原本》（Elements，13卷）是2000多年来数学教育的标准教材，被称为"西方世界继《圣经》之后翻译、出版和研究最多的书"；confidence评为 medium。
