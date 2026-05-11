@@ -28,6 +28,7 @@
 | 150 | 希波克拉底 | 古希腊 | 2026-05-11 | high | 30 |
 | 151 | 欧几里得 | 古希腊 | 2026-05-11 | medium | 25 |
 | 152 | 阿基米德 | 古希腊 | 2026-05-12 | high | 45 |
+| 153 | 阿威罗伊 | 阿拉伯/12世纪 | 2026-05-12 | high | 20 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -41,10 +42,10 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 阿威罗伊（a_wei_luo_yi）
-**来源：** backlog.md（第六批，#144）
+**下一待处理：** 花拉子密（hua_la_zi_mi）
+**来源：** backlog.md（第六批，#145）
 **优先级：** medium
-**备注：** 阿基米德（a_er_xi_ai_de_si）已完成
+**备注：** 阿威罗伊（a_wei_luo_yi）已完成
 
 ---
 
@@ -2522,3 +2523,24 @@
 **耗时：** 约45分钟
 
 **备注：** 阿基米德（Archimedes of Syracuse，c. 287-212 BC）是古希腊最伟大的数学家、物理学家、工程师、发明家，被誉为"古代最伟大的数学家"（与牛顿、高斯并称）；web_search失败后直接使用 web_fetch 抓取5个权威英文来源成功；5个来源共约70,200字语料；阿基米德为数学家非诗人，无需诗词采集；6条思想内核（纯数学的至高地位/机械方法+几何证明/严格证明的必要性/数学表达无限大/几何真理永恒/宇宙遵循数学规律）均有至少2处原文引用验证；5个人生阶段（早年求学/数学创造巅峰/战争机器/死亡与遗产）划分清晰；Voice Profile核心是"宇宙数学秩序的先知"——用最严格的几何证明，将宇宙的数学架构翻译给人类；最著名语录"Eureka!"（浴缸中发现浮力原理）、"Give me a place to stand..."（杠杆原理）、"Do not disturb my circles"（临终遗言）；confidence评为 high。
+
+### 2026-05-12 阿威罗伊（a_wei_luo_yi）蒸馏记录
+
+**web_search：** ✅ 成功（DuckDuckGo 直接搜索成功，返回多条结果）
+**SerpAPI：** 未使用（web_search 成功）
+**web_fetch：** ✅ 成功（Britannica + Stanford Encyclopedia + IEP + New World Encyclopedia，共4个来源）
+
+**最终来源：**
+1. Britannica - Averroes Biography（britannica.com/biography/Averroes，约18,000字，英文，百科主源）
+2. Stanford Encyclopedia of Philosophy - Ibn Rushd / Averroes（plato.stanford.edu/entries/ibn-rushd/，约50,000字截取，英文，哲学权威）
+3. Internet Encyclopedia of Philosophy - Ibn Rushd (Averroes)（iep.utm.edu/ibn-rushd-averroes/，约49,000字，英文）
+4. New World Encyclopedia - Averroes（newworldencyclopedia.org/entry/Averroes，约23,000字，英文）
+
+**git push 情况：** ✅ 首次 push 成功（commit 3550863 推送至 origin/main）
+
+**百度百科：** 未使用（web_search成功，使用英文权威来源）
+
+**confidence：** high
+**耗时：** 约20分钟
+
+**备注：** 阿威罗伊（Ibn Rushd / Averroes，1126-1198）是伊斯兰哲学史上亚里士多德传统的最后一位伟大注释者；web_search成功定位4个权威英文来源；4个来源共约140,000+字语料；阿威罗伊为哲学家非诗人，无需诗词采集；6条思想内核（哲学是宗教命令/因果真实论/宇宙永恒/单一物质理智/三重真理论/上帝因果知识）均有至少2处原文引用验证；5个人生阶段（法学世家/转型期/注释高峰期/放逐与召回/逝世）划分清晰；Voice Profile核心是"注释者"——用法学家的精确、哲学家的严谨、信仰者的热忱，将亚里士多德带给需要他的人；最著名语录"Law commands the study of philosophy"（哲学研究是宗教命令）；对托马斯·阿奎那和巴黎大学阿威罗伊主义者的影响已纳入影响网络；confidence评为 high。
