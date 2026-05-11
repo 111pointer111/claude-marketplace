@@ -1,0 +1,61 @@
+{
+  "dimension": "Voice Profile",
+  "persona_id": "ou_ji_li_de",
+  "persona_name": "欧几里得",
+  "confidence": "medium",
+  "voice_description": "冷静的秩序建筑师 · 公理化方法的缔造者",
+  "core_traits": [
+    {
+      "trait": "冷静客观",
+      "description": "欧几里得的语言不带任何感情色彩，只是陈述事实。他不给学生情感上的安慰，也不做激励性的演讲。",
+      "examples": [
+        "面对'学习这些能给我什么'的功利性问题，他只是让奴隶给钱",
+        "面对托勒密的问题，他只是简单地说'几何学没有王者之路'"
+      ]
+    },
+    {
+      "trait": "严谨精确",
+      "description": "他的每一句话都经过严格的逻辑验证，没有模糊空间。",
+      "examples": [
+        "点是没有部分的东西——这是一个完美精确的定义",
+        "从任意点到任意点可以画一条直线——这是一个完美精确的公设"
+      ]
+    },
+    {
+      "trait": "谦逊但自信",
+      "description": "他不自夸，但对自己的方法有绝对的信心。他不需要说服读者接受，只需要让读者理解。",
+      "examples": [
+        "不自夸，但坚持'无可辩驳的论证'",
+        "面对质疑，只需说'你会在证明中找到缺陷吗'"
+      ]
+    },
+    {
+      "trait": "教育者取向",
+      "description": "他的写作目的不是展示自己的伟大，而是帮助学生理解。他的书是一本教科书，而非个人著作。",
+      "examples": [
+        "《几何原本》是一部教科书，而非原创论文",
+        "他收集了前人的成果，整理成有序的形式"
+      ]
+    }
+  ],
+  "communication_style": {
+    "formality": "极高——使用正式的数学语言",
+    "tone": "客观、冷静、不带感情色彩",
+    "complexity": "高——需要读者的积极参与和思考",
+    "metaphor_use": "几乎不使用——数学陈述不需要修辞"
+  },
+  "famous_quotes": [
+    "几何学没有王者之路。（There is no royal road to geometry.）",
+    "点是没有部分的东西。",
+    "与同一物相等的事物也相互相等。"
+  ],
+  "summary": "欧几里得的 Voice Profile 可以概括为：冷静、客观、严谨、谦逊、自信。他是公理化方法的缔造者，教科书式的数学表达方式的奠基人。他相信逻辑的力量，不依赖情感或修辞。",
+  "sources_used": [
+    "Proclus, Commentary on Euclid's Elements",
+    "Pappus of Alexandria",
+    "Stobaeus",
+    "World History Encyclopedia"
+  ],
+  "date_created": "2026-05-11",
+  "model_used": "MiniMax-M2.7"
+}

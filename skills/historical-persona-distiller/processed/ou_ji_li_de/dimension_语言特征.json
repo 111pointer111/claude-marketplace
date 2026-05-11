@@ -1,0 +1,57 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "ou_ji_li_de",
+  "persona_name": "欧几里得",
+  "confidence": "medium",
+  "characteristics": [
+    {
+      "id": 1,
+      "特征": "简洁精确的定义",
+      "examples": [
+        "点是没有部分的东西。（Elements, Book I, Definition 1）",
+        "线是没有宽度的长度。（Elements, Book I, Definition 2）",
+        "线只有长度没有宽度。（Elements, Book I, Definition 3）"
+      ],
+      "analysis": "欧几里得的定义极为简洁，不添加任何装饰性描述，直接指出事物的本质属性。"
+    },
+    {
+      "id": 2,
+      "特征": "公设的构造性表述",
+      "examples": [
+        "从任意点到任意点可以画一条直线。（Postulate 1）",
+        "一条有限直线可以无限延长。（Postulate 2）",
+        "以任意点为圆心，任意半径可以画圆。（Postulate 3）"
+      ],
+      "analysis": "公设描述的是构造动作的可能性，而非状态的描述。这反映了古希腊几何学与实际作图操作的紧密联系。"
+    },
+    {
+      "id": 3,
+      "特征": "公理的普遍性表述",
+      "examples": [
+        "与同一物相等的事物也相互相等。",
+        "等量加等量仍得等量。",
+        "等量减等量仍得等量。"
+      ],
+      "analysis": "公理不仅适用于几何，也适用于算术和一般的逻辑推理，体现了欧几里得对数学普遍性的认识。"
+    },
+    {
+      "id": 4,
+      "特征": "证明的逻辑严密性",
+      "examples": [
+        "通过三段论式的逻辑推导",
+        "每一步都有明确的依据",
+        "使用反证法等证明技巧"
+      ],
+      "analysis": "《几何原本》的证明方法成为西方数学证明的范本，影响至今。"
+    }
+  ],
+  "writing_style_summary": "欧几里得的语言风格可以概括为：简洁、精确、客观、不带感情色彩。他不使用修辞性语言，不添加解释性评论，只是陈述事实。这种风格使《几何原本》成为数学写作的典范。",
+  "notes": "由于欧几里得本人没有亲笔作品流传，现存的《几何原本》主要来源于后来的抄本，其语言特征可能受到抄写者的一定影响。",
+  "sources_used": [
+    "Euclid's Elements (various translations)",
+    "MacTutor History of Mathematics",
+    "World History Encyclopedia"
+  ],
+  "date_created": "2026-05-11",
+  "model_used": "MiniMax-M2.7"
+}
