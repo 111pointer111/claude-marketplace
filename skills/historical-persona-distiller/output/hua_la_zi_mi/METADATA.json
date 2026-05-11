@@ -1,0 +1,36 @@
+{
+  "人物": "hua_la_zi_mi",
+  "朝代": "伊斯兰阿拔斯王朝（9世纪）",
+  "生卒年": "约780年-约850年",
+  "蒸馏版本": "1.0",
+  "蒸馏日期": "2026-05-12T06:06:00+08:00",
+  "蒸馏耗时_分钟": 25,
+  "overall_confidence": "medium",
+  "sources_used_count": 3,
+  "poetry_count": 0,
+  "prose_count": 3,
+  "direct_quote_count": 13,
+  "stages_count": 3,
+  "引用验证": "已通过质量控制检查",
+  "confidence_reason": "有《代数学》原文拉丁译本留存（英译本），MacTutor和Britannica等权威传记资料丰富，但本人直接著作多为拉丁译本，原著已失传，且生平资料极其有限。",
+  "sources": [
+    {
+      "source": "Britannica",
+      "url": "https://www.britannica.com/biography/al-Khwarizmi",
+      "type": "historical_record",
+      "description": "Britannica 传记，权威百科全书"
+    },
+    {
+      "source": "MacTutor History of Mathematics",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Khwarizmi/",
+      "type": "historical_record",
+      "description": "圣安德鲁斯大学数学史档案，详细传记"
+    },
+    {
+      "source": "New World Encyclopedia",
+      "url": "https://www.newworldencyclopedia.org/entry/Al-Khwarizmi",
+      "type": "historical_record",
+      "description": "综合百科条目，含生平、贡献和历史影响"
+    }
+  ]
+}

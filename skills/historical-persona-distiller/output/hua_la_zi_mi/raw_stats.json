@@ -1,0 +1,18 @@
+{
+  "人物": "hua_la_zi_mi",
+  "朝代": "伊斯兰阿拔斯王朝（9世纪）",
+  "诗词数量": 0,
+  "文集数量": 3,
+  "传记": "有",
+  "直接引语数量": 13,
+  "confidence_上限": "medium",
+  "抓取时间": "2026-05-12T06:06:00+08:00",
+  "sources_used": [
+    "https://www.britannica.com/biography/al-Khwarizmi",
+    "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Khwarizmi/",
+    "https://www.newworldencyclopedia.org/entry/Al-Khwarizmi"
+  ],
+  "人物类型": "western_scientist",
+  "语料总字数": 20114,
+  "无诗词": "花拉子密为数学家/科学家，非诗人，无需诗词语料"
+}
