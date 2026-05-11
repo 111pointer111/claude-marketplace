@@ -38,10 +38,10 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 哈维（ha_wei）
-**来源：** backlog.md（第七批，#140）
+**下一待处理：** 希波克拉底（xi_bo_ke_la_di）
+**来源：** backlog.md（第七批，#141）
 **优先级：** medium
-**注意：** 卡夫卡（ka_fu_ka）已提前完成（vs 特斯拉 ni_ke_la_te_si_la），顺序无变化
+**注意：** 哈维（ha_wei）已完成，卡夫卡（ka_fu_ka）已提前完成（vs 特斯拉 ni_ke_la_te_si_la），顺序无变化
 
 ---
 
@@ -58,7 +58,37 @@
 4. Britannica - The Castle（britannica.com/topic/The-Castle-novel-by-Kafka，约4,100字，英文，作品分析）
 5. Biography.com - Franz Kafka（biography.com/authors-writers/franz-kafka，约10,200字，英文，传记）
 
+**git push 情况：** ✅ 首次 push 成功（commit 098a1f6 推送至 origin/main）
+
+**百度百科：** 未使用
+
+**confidence：** high
+**耗时：** 约20分钟
+
 **备注：** 卡夫卡（Franz Kafka，1883-1924）是20世纪最具影响力的作家之一；web_search失败后 SerpAPI 成功定位来源，最终通过 web_fetch 直接抓取5个 Britannica/Biography.com 权威英文来源；5个来源共约48,600字语料；卡夫卡为小说家非诗人，诗词要求不适用；6条思想内核（存在性焦虑/威权压迫/沟通失败/现代性荒谬/无罪之罪/家庭压迫原型）均有至少2处原文引用验证；Voice Profile核心是"清醒的噩梦建筑师"——用法律文件般精确冷静的笔触，在最荒诞的超现实场景中照见现代人最深的恐惧；作为20世纪存在主义和荒诞主义文学的先驱，"Kafkaesque"已成为描述现代官僚主义困境的通用词汇；confidence评为 high。
+
+---
+
+### 2026-05-11 哈维（ha_wei）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 超时）
+**SerpAPI：** ✅ 成功（用于初步搜索定位来源）
+**web_fetch：** ✅ 成功（直接抓取4个权威来源）
+
+**最终来源：**
+1. Britannica - William Harvey Biography（britannica.com/biography/William-Harvey，约10,000字，英文，百科主源）
+2. PMC/NCBI - William Harvey and the discovery of the circulation of the blood（PMC2776239，约6,500字，英文，学术评论）
+3. PMC/NCBI - Lessons from the life of William Harvey（PMC10566385，约10,000字，英文，学术评论）
+4. Britannica - Key discoveries and influences（britannica.com/biography/William-Harvey/Key-discoveries-and-influences，约7,800字，英文，百科专题）
+
+**git push 情况：** ✅ 首次 push 成功（commit 9ab1be0 推送至 origin/main）
+
+**百度百科：** 未使用
+
+**confidence：** high
+**耗时：** 约20分钟
+
+**备注：** 哈维（William Harvey，1578-1657）是英国医生、解剖学家、生理学家，被誉为实验生理学之父；web_search失败后 SerpAPI 成功定位来源，最终通过 web_fetch 直接抓取4个 Britannica/PMC/NCBI 权威英文来源；4个来源共约34,300字语料；哈维为医生非诗人，诗词要求不适用；6条思想内核（血液循环完整回路/心脏肌肉泵原理/定量实验方法/静脉瓣膜单向证明/反对机械论/比较解剖学方法）均有至少2处原文引用验证；Voice Profile核心是"理性先知·实验生理学之父"——用拉丁学者的严谨与英国人的克制，在千年权威的废墟上建立血液循环的真理殿堂；冷峻外表下是对生命奥秘的敬畏与探索激情；1628年《心血运动论》挑战盖伦长达15世纪的权威，为现代医学实验方法论奠基；confidence评为 high。
 
 ---
 
@@ -718,18 +748,18 @@
 
 ```
 总人物数：     170
-已完成：       113
+已完成：       114
 进行中：       0
-待处理：       57
-完成率：       66.5%（113/170）
+待处理：       56
+完成率：       67.1%（114/170）
 
 按 priority：
   high：       36（已完38）
-  medium：     54（已完37）
+  medium：     54（已完38）
   low：        80（已完16）
 
 按 confidence：
-  high：       58
+  high：       59
   medium：     30
   A：           1
   medium-high：  1
