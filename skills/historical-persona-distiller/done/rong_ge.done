@@ -1,24 +1,5 @@
-# 荣格（Carl Gustav Jung, 1875-1961）Persona 蒸馏完成标记
-
-persona_id: rong_ge
-人物: 荣格
+distill: 卡尔·荣格 Carl Gustav Jung persona (high)
+蒸馏日期：2026-05-12
+来源：Britannica（传记/集体无意识/原型/分析心理学）
+语料规模：约9000字
 confidence: high
-distilled_at: 2026-05-12
-sources: Britannica, Biography.com, English Wikipedia, Psychology Today, 百度百科
-
-## 产出文件
-
-- output/rong_ge/SKILL.md
-- output/rong_ge/EVENTS.md
-- output/rong_ge/VOICE.md
-- output/rong_ge/README.md
-- output/rong_ge/METADATA.json
-- output/rong_ge/CITATIONS.md
-- output/rong_ge/raw_stats.json
-
-## 质量说明
-
-- 来源数量: 8个（4英文+2中文+2旧文件）
-- 思想内核每条至少2处引用
-- 直接引语全部可追溯至原始语料
-- confidence: high
