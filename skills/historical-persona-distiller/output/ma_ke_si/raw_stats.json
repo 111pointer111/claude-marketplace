@@ -1,0 +1,52 @@
+{
+  "persona_id": "ma_ke_si",
+  "name": "Karl Marx",
+  "name_zh": "马克思",
+  "distilled_at": "2026-05-12",
+  "sources_statistics": {
+    "total_sources_consulted": 6,
+    "sources_breakdown": {
+      "biography": ["Britannica", "Biography.com", "BBC Historic Figures"],
+      "philosophy": ["Stanford Encyclopedia of Philosophy", "Encyclopedia.com"],
+      "general_history": ["History.com"]
+    },
+    "web_search_status": {
+      "primary_tool": "web_search (DuckDuckGo)",
+      "result": "部分结果，但内容有限"
+    },
+    "serpapi_status": {
+      "used_as_fallback": true,
+      "result": "成功 - 验证了'opium of the people'原文"
+    },
+    "web_fetch_status": {
+      "britannica": "成功",
+      "biography_com": "部分成功（有收费墙拦截）",
+      "history_com": "成功",
+      "bbc": "成功",
+      "stanford_sep": "成功（内容丰富）",
+      "encyclopedia_com": "成功（内容丰富）"
+    }
+  },
+  "corpus_statistics": {
+    "传记_字数": "约15000字（中英文来源合并）",
+    "引语_条数": 18,
+    "全部语料_字数": "约20000字",
+    "stage_count": 4,
+    "stage_definitions": {
+      "stage_1": {"name": "青年求学与思想觉醒", "years": "1818-1841", "confidence": "high"},
+      "stage_2": {"name": "激进新闻工作者与革命转向", "years": "1842-1848", "confidence": "high"},
+      "stage_3": {"name": "伦敦流亡的理论深化期", "years": "1849-1864", "confidence": "high"},
+      "stage_4": {"name": "资本论创作与晚年", "years": "1865-1883", "confidence": "high"}
+    }
+  },
+  "quality_statistics": {
+    "quotes_verified": 18,
+    "quotes_with_citations": 18,
+    "dimension_files_created": 6,
+    "output_files_created": 8,
+    "confidence": "high",
+    "confidence_justification": "6个独立学术来源，所有引语多源验证，语料极度充分"
+  },
+  "git_commit": "pending",
+  "dones_md_updated": "pending"
+}

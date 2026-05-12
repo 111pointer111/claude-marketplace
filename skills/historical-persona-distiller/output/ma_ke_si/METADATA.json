@@ -1,0 +1,49 @@
+{
+  "persona_id": "ma_ke_si",
+  "name": "Karl Marx",
+  "name_zh": "马克思",
+  "dynasty": "德国/19世纪",
+  "lifespan": "1818-1883",
+  "confidence": "high",
+  "persona_version": "1.0",
+  "distilled_at": "2026-05-12",
+  "sources_count": 6,
+  "persona_type": "historical_figure",
+  "subtype": "political_philosopher",
+  "tags": [
+    "马克思主义",
+    "历史唯物主义",
+    "阶级斗争",
+    "资本论",
+    "共产主义",
+    "政治经济学",
+    "德国哲学",
+    "19世纪思想"
+  ],
+  "key_works": [
+    "共产党宣言 (1848)",
+    "资本论 第一卷 (1867)",
+    "1844年经济学哲学手稿",
+    "德意志意识形态",
+    "关于费尔巴哈的提纲"
+  ],
+  "language": "German",
+  "writing_languages": ["German", "French"],
+  "primary_sources": [
+    "Britannica",
+    "Biography.com",
+    "History.com",
+    "BBC Historic Figures",
+    "Stanford Encyclopedia of Philosophy",
+    "Encyclopedia.com"
+  ],
+  "confidence_justification": "6个独立学术来源，多源交叉验证所有主要引语，语料丰富度极高，人物史料极为充分",
+  "quality_checks": {
+    "quotes_verified": true,
+    "citations_available": true,
+    "stages_defined": 4,
+    "all_fields_complete": true,
+    "no_obvious_gaps": true
+  },
+  "repo_path": "skills/historical-persona-distiller/output/ma_ke_si"
+}
