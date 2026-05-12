@@ -31,6 +31,7 @@
 | 153 | 阿威罗伊 | 阿拉伯/12世纪 | 2026-05-12 | high | 20 |
 | 154 | 塞尔苏斯 | 古罗马 | 2026-05-12 | medium | 25 |
 | 156 | 马克思 | 德国/19世纪 | 2026-05-12 | high | ~60 |
+| 157 | 韦伯 | 德国/19-20世纪 | 2026-05-12 | high | 10 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -47,7 +48,7 @@
 **下一待处理：** 弗洛伊德（fu_luo_yi_de）
 **来源：** backlog.md（第七批，#149）
 **优先级：** high
-**备注：** 马克思（ma_ke_si）已完成（2026-05-12）；斯宾诺莎（#95）、叔本华（#96）、巴尔扎克（#106）、福克纳（#110）、麦克斯韦（#131）已完成但DONE.md未更新；法拉第（#130）done文件已存在
+**备注：** 马克思（ma_ke_si）已完成（2026-05-12）；韦伯（wei_bo）本次蒸馏完成（2026-05-12）；斯宾诺莎（#95）、叔本华（#96）、巴尔扎克（#106）、福克纳（#110）、麦克斯韦（#131）已完成但DONE.md未更新；法拉第（#130）done文件已存在
 
 ---
 
@@ -63,12 +64,30 @@
 - 麦克斯韦 mai_si_wei_ten.done
 - 弗洛伊德 fu_luo_yi_de.done（2026-05-11执行日志已记录）
 - 塞尔苏斯 sai_er_su_si.done（2026-05-12执行日志已记录）
+- 韦伯 wei_bo.done（本次执行日志已记录）
 
-DONE.md"下一待处理"已更正为荣格（rong_ge）。
+DONE.md"下一待处理"已更正为弗洛伊德（fu_luo_yi_de）。
 
 ---
 
-### 2026-05-11 卡夫卡（ka_fu_ka）蒸馏记录
+### 2026-05-12 韦伯（wei_bo）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 返回 bot 检测挑战）
+**SerpAPI：** ✅ 成功（用于 quotes 搜索）
+**web_fetch：** ✅ 成功（Stanford Encyclopedia + Britannica + Wikipedia）
+
+**最终来源：**
+1. Stanford Encyclopedia of Philosophy（plato.stanford.edu/entries/weber/，英文，学术传记+思想分析）
+2. Britannica（britannica.com/biography/Max-Weber-German-sociologist，约8,000字，英文，百科）
+3. Wikipedia（en.wikipedia.org/wiki/Max_Weber，约15,000字，英文，传记）
+4. Goodreads（goodreads.com/author/quotes/42041.Max_Weber，约14,000字，引语集）
+
+**git push 情况：** ✅ 首次 push 成功（commit 6c53806 推送至 origin/main）
+
+**confidence：** high
+**耗时：** 约10分钟
+
+**备注：** 韦伯（Max Weber，1864-1920）是现代社会学的奠基人之一；web_search失败后通过 SerpAPI + web_fetch 成功抓取4个来源；韦伯非诗人/文学家，语料以学术传记和引语为主，无诗词文集；核心概念：Rationalisierung（理性化）、Entzauberung（失魅）、Gehäuse（铁笼）、Value-freedom（价值自由）、Ideal Type（理想型）；思想内核5条（理性化、价值自由、失魅洞察、信念伦理、学术使命）均有原文引用验证；Voice Profile为德语学术演讲风格，低沉庄重，medium confidence（无历史录音）；confidence评为 high。
 
 **web_search：** ❌ 失败（DuckDuckGo 超时）
 **SerpAPI：** ✅ 成功（用于初步搜索定位来源）
