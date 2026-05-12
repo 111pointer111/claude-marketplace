@@ -2688,3 +2688,26 @@ DONE.md"下一待处理"已更正为弗洛伊德（fu_luo_yi_de）。
 **备注：** 马克思（Karl Heinrich Marx，1818-1883）是德国哲学家、经济学家、社会革命家，历史唯物主义和科学社会主义创始人；web_search失败后通过 web_fetch 直接抓取6个权威英文来源；6个来源共约117,000+字语料；马克思为政治理论家非诗人，无需诗词采集要求；5条思想内核（历史唯物主义/阶级斗争/工人阶级解放力量/宗教鸦片论/劳动异化论）均有至少2处原文引用验证；"Religion is the opium of the people"原文经SerpAPI验证完整版："Religion is the sigh of the oppressed creature, the heart of a heartless world, just as it is the spirit of spiritless conditions. It is the opium of the people."（1843）；Voice Profile核心是"沉稳的思想战士"——用低沉的嗓音、精密的分析，在理性与激情之间自如切换；标志性语录："Workers of all lands, unite!""Philosophy turns itself against the world that it finds.""资本是死劳动，像吸血鬼一样，只有吸吮活劳动才有生命。"；是流水线第156号人物；confidence评为 high。
 
 **更新于2026-05-12**
+
+---
+
+### 2026-05-12 荣格（rong_ge）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 返回错误）
+**SerpAPI：** ✅ 成功（用于初步搜索定位关键词）
+**web_fetch：** ✅ 成功（Britannica多个页面）
+
+**最终来源：**
+1. Britannica - Carl Jung Biography（约7,700字，英文，百科传记）
+2. Britannica - collective unconscious（约1,700字，英文，集体无意识定义）
+3. Britannica - archetype（约2,200字，英文，原型定义）
+4. Britannica - analytic psychology（约1,900字，英文，分析心理学定义）
+
+**git push 情况：** ✅ 两次 push 均成功
+- commit af89204：distill: 卡尔·荣格 persona (high)
+- commit ce2aee2：update: 荣格 done, next: 弗洛伊德
+
+**confidence：** high
+**耗时：** 约10分钟
+
+**备注：** 荣格（Carl Gustav Jung，1875-1961）是瑞士心理学家，分析心理学创始人；本次执行中 web_search 完全失败，SerpAPI via web_fetch 也部分失败，最终直接使用 Britannica 的多个页面成功获取足够语料；由于是西方心理学家，无诗词采集要求，以学术传记和概念定义为主；5条思想内核（集体无意识/原型普遍性/内倾外倾双极性/四种心理功能/情结概念/分析心理学方法论区别）均有 Britannica 原文引用验证；Voice Profile：学术严谨性与对无形世界开放好奇心的融合，德国学院派精确性+神话诗意；是流水线第158号人物；confidence评为 high。
