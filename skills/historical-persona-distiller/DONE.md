@@ -30,7 +30,7 @@
 | 152 | 阿基米德 | 古希腊 | 2026-05-12 | high | 45 |
 | 153 | 阿威罗伊 | 阿拉伯/12世纪 | 2026-05-12 | high | 20 |
 | 154 | 塞尔苏斯 | 古罗马 | 2026-05-12 | medium | 25 |
-| 155 | 荣格 | 瑞士/19-20世纪 | 2026-05-12 | high | 30 |
+| 156 | 马克思 | 德国/19世纪 | 2026-05-12 | high | ~60 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -44,10 +44,10 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 马克思（ma_ke_si）
-**来源：** backlog.md（第七批，#151）
+**下一待处理：** 弗洛伊德（fu_luo_yi_de）
+**来源：** backlog.md（第七批，#149）
 **优先级：** high
-**备注：** 斯宾诺莎（#95）、叔本华（#96）、巴尔扎克（#106）、福克纳（#110）、麦克斯韦（#131）已完成但DONE.md未更新；法拉第（#130）、弗洛伊德（#149）done文件已存在
+**备注：** 马克思（ma_ke_si）已完成（2026-05-12）；斯宾诺莎（#95）、叔本华（#96）、巴尔扎克（#106）、福克纳（#110）、麦克斯韦（#131）已完成但DONE.md未更新；法拉第（#130）done文件已存在
 
 ---
 
@@ -794,18 +794,18 @@ DONE.md"下一待处理"已更正为荣格（rong_ge）。
 
 ```
 总人物数：     170
-已完成：       115
+已完成：       116
 进行中：       0
-待处理：       55
-完成率：       67.6%（115/170）
+待处理：       54
+完成率：       68.2%（116/170）
 
 按 priority：
-  high：       36（已完38）
+  high：       36（已完39）
   medium：     54（已完39）
   low：        80（已完17）
 
 按 confidence：
-  high：       59
+  high：       60
   medium：     31
   A：           1
   medium-high：  1
@@ -2641,3 +2641,30 @@ DONE.md"下一待处理"已更正为荣格（rong_ge）。
 **更新于2026-05-12**
 **优先级：** medium
 **备注：** 塞尔苏斯（sai_er_su_si）已完成
+
+---
+
+### 2026-05-12 马克思（ma_ke_si）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo 无结果返回/超时）
+**SerpAPI：** ✅ 成功（通过 web_fetch 调 SerpAPI，验证"opium of the people"原文）
+**web_fetch：** ✅ 成功（Britannica + Biography.com + History.com + BBC + Stanford Encyclopedia + Encyclopedia.com，共6个来源）
+
+**最终来源：**
+1. Britannica - Karl Marx（britannica.com/biography/Karl-Marx，约28,000字，英文，百科主源）
+2. Biography.com - Karl Marx（biography.com/scholars-educators/karl-marx，约15,000字，英文）
+3. History.com - Karl Marx（history.com/articles/karl-marx，约8,000字，英文）
+4. BBC Historic Figures - Karl Marx（bbc.com/history/historic_figures/marx_karl.shtml，约2,000字，英文）
+5. Stanford Encyclopedia of Philosophy - Karl Marx（plato.stanford.edu/entries/marx/，约35,000字，英文，哲学权威，含MECW引语）
+6. Encyclopedia.com - Karl Marx（encyclopedia.com/people/social-sciences-and-law/political-science-biographies/karl-marx，约29,000字，英文，完整知识传记）
+
+**百度百科：** 未使用（SerpAPI成功验证，无需降级到百度）
+
+**git push 情况：** ✅ 首次 push 成功（commit 254abed 推送至 origin/main）
+
+**confidence：** high
+**耗时：** 约60分钟
+
+**备注：** 马克思（Karl Heinrich Marx，1818-1883）是德国哲学家、经济学家、社会革命家，历史唯物主义和科学社会主义创始人；web_search失败后通过 web_fetch 直接抓取6个权威英文来源；6个来源共约117,000+字语料；马克思为政治理论家非诗人，无需诗词采集要求；5条思想内核（历史唯物主义/阶级斗争/工人阶级解放力量/宗教鸦片论/劳动异化论）均有至少2处原文引用验证；"Religion is the opium of the people"原文经SerpAPI验证完整版："Religion is the sigh of the oppressed creature, the heart of a heartless world, just as it is the spirit of spiritless conditions. It is the opium of the people."（1843）；Voice Profile核心是"沉稳的思想战士"——用低沉的嗓音、精密的分析，在理性与激情之间自如切换；标志性语录："Workers of all lands, unite!""Philosophy turns itself against the world that it finds.""资本是死劳动，像吸血鬼一样，只有吸吮活劳动才有生命。"；是流水线第156号人物；confidence评为 high。
+
+**更新于2026-05-12**
