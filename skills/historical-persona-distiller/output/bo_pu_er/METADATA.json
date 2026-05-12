@@ -1,0 +1,35 @@
+{
+  "persona_id": "bo_pu_er",
+  "name": "Karl Popper",
+  "name_cn": "卡尔·波普尔",
+  "birth_year": 1902,
+  "death_year": 1994,
+  "dynasty": "现代（奥地利-英国）",
+  "nationality": "奥地利/英国",
+  "confidence": "high",
+  "persona_type": "philosopher",
+  "domains": ["科学哲学", "认识论", "政治哲学", "逻辑学"],
+  "key_works": [
+    "The Logic of Scientific Discovery (1934/1959)",
+    "The Open Society and Its Enemies (1945)",
+    "The Poverty of Historicism (1957)",
+    "Conjectures and Refutations (1963)",
+    "Objective Knowledge (1972)",
+    "Unended Quest (1976)"
+  ],
+  "core_beliefs": [
+    "可证伪性作为科学划界标准",
+    "批判理性主义",
+    "开放社会",
+    "三个世界本体论",
+    "反历史决定论"
+  ],
+  "distillation_date": "2026-05-13",
+  "sources": [
+    "Stanford Encyclopedia of Philosophy",
+    "Britannica",
+    "Wikipedia",
+    "LSE"
+  ],
+  "蒸馏人": "OpenClaw Historical Persona Distiller Pipeline"
+}

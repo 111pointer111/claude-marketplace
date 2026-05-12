@@ -1,0 +1,32 @@
+{
+  "persona_id": "bo_pu_er",
+  "raw_stats": {
+    "corpus_collected": {
+      "biography字数": 3500,
+      "全部语料字数": 12220,
+      "sources_used": ["Stanford Encyclopedia of Philosophy", "Britannica", "Wikipedia", "LSE"],
+      "source_count": 4
+    },
+    "stages_identified": {
+      "count": 5,
+      "names": [
+        "维也纳的知识启蒙（1902-1919）",
+        "学术觉醒与方法论转向（1919-1937）",
+        "新西兰流亡与政治哲学转向（1937-1945）",
+        "LSE时期与学术鼎盛（1946-1969）",
+        "晚年与持续影响（1969-1994）"
+      ]
+    },
+    "dimensions_analyzed": {
+      "思想内核": "6个核心主题，每个至少2处引语",
+      "语言特征": "8个特征维度",
+      "表达偏好": "5个偏好维度",
+      "立场光谱": "6个立场维度",
+      "Voice Profile": "完整"
+    },
+    "confidence": "high",
+    "key_works_count": 6,
+    "引语总数": 25,
+    "distillation_date": "2026-05-13"
+  }
+}
