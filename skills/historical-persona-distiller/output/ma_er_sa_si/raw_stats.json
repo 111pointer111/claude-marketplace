@@ -1,0 +1,66 @@
+{
+  "raw_stats": {
+    "persona": "ma_er_sa_si",
+    "chinese_name": "马尔萨斯",
+    "english_name": "Thomas Robert Malthus",
+    "distilled_at": "2026-05-13T06:01:00+08:00",
+    "sources": [
+      {
+        "name": "Britannica - Thomas Malthus",
+        "url": "https://www.britannica.com/money/Thomas-Malthus",
+        "word_count": 12831,
+        "language": "en",
+        "type": "historical_record"
+      },
+      {
+        "name": "Wikipedia - Thomas Robert Malthus",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Robert_Malthus",
+        "word_count": 30000,
+        "language": "en",
+        "type": "historical_record"
+      },
+      {
+        "name": "Britannica - Biography",
+        "url": "https://www.britannica.com/biography/Thomas-Malthus",
+        "word_count": 12060,
+        "language": "en",
+        "type": "historical_record"
+      }
+    ],
+    "total_source_words": 54891,
+    "total_source_count": 3,
+    "dimensions_analyzed": [
+      "思想内核",
+      "语言特征",
+      "表达偏好",
+      "立场光谱",
+      "Voice Profile",
+      "阶段切分"
+    ],
+    "citations_count": 15,
+    "raw_files_created": [
+      "raw/ma_er_sa_si/传记.txt",
+      "raw/ma_er_sa_si/引语.txt",
+      "raw/ma_er_sa_si/全部语料.txt"
+    ],
+    "processed_files_created": [
+      "processed/ma_er_sa_si/stages.md",
+      "processed/ma_er_sa_si/dimension_思想内核.json",
+      "processed/ma_er_sa_si/dimension_语言特征.json",
+      "processed/ma_er_sa_si/dimension_表达偏好.json",
+      "processed/ma_er_sa_si/dimension_立场光谱.json",
+      "processed/ma_er_sa_si/dimension_voice_profile.json"
+    ],
+    "output_files_created": [
+      "output/ma_er_sa_si/SKILL.md",
+      "output/ma_er_sa_si/EVENTS.md",
+      "output/ma_er_sa_si/VOICE.md",
+      "output/ma_er_sa_si/README.md",
+      "output/ma_er_sa_si/METADATA.json",
+      "output/ma_er_sa_si/CITATIONS.md",
+      "output/ma_er_sa_si/raw_stats.json"
+    ],
+    "overall_confidence": "high",
+    "confidence_notes": "3个权威英文来源；马尔萨斯为经济学家非诗人，诗词要求不适用；核心思想有多个来源交叉验证"
+  }
+}

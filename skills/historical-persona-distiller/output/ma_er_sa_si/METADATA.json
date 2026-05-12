@@ -1,0 +1,44 @@
+{
+  "persona_type": "historical_figure",
+  "name": "ma_er_sa_si",
+  "chinese_name": "马尔萨斯",
+  "english_name": "Thomas Robert Malthus",
+  "dynasty": "英国/18-19世纪",
+  "lifespan": "1766-1834",
+  "fields": ["政治经济学", "人口学", " demography"],
+  "persona_version": "1.0",
+  "distilled_at": "2026-05-13T06:01:00+08:00",
+  "sources_count": 3,
+  "sources": [
+    {
+      "name": "Britannica - Thomas Malthus",
+      "url": "https://www.britannica.com/money/Thomas-Malthus",
+      "language": "en",
+      "word_count": 12831
+    },
+    {
+      "name": "Wikipedia - Thomas Robert Malthus",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Robert_Malthus",
+      "language": "en",
+      "word_count": 30000
+    },
+    {
+      "name": "Britannica - Biography",
+      "url": "https://www.britannica.com/biography/Thomas-Malthus",
+      "language": "en",
+      "word_count": 12060
+    }
+  ],
+  "overall_confidence": "high",
+  "overall_confidence_notes": "3个权威英文来源共约54,891字语料；马尔萨斯为经济学家非诗人，诗词要求不适用；核心思想（人口原理、有效需求理论）均有多个来源交叉验证；confidence评为high",
+  "distillation_stats": {
+    "raw_corpus_words": 54891,
+    "sources_used": 3,
+    "dimensions_analyzed": 6,
+    "citations": 15,
+    "processing_time_minutes": 15
+  },
+  "pid": "ma_er_sa_si",
+  "done_file": "done/ma_er_sa_si.done",
+  "output_dir": "output/ma_er_sa_si/"
+}
