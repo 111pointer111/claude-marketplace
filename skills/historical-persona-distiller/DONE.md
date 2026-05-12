@@ -33,6 +33,7 @@
 | 156 | 马克思 | 德国/19世纪 | 2026-05-12 | high | ~60 |
 | 157 | 韦伯 | 德国/19-20世纪 | 2026-05-12 | high | 10 |
 | 158 | 荣格 | 瑞士/19-20世纪 | 2026-05-12 | high | 10 |
+| 159 | 涂尔干 | 法国/19-20世纪 | 2026-05-13 | high | ~20 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -46,10 +47,10 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 弗洛伊德（fu_luo_yi_de）
-**来源：** backlog.md（第七批，#149）
-**优先级：** high
-**备注：** 马克思（ma_ke_si）已完成（2026-05-12）；韦伯（wei_bo）本次蒸馏完成（2026-05-12）；斯宾诺莎（#95）、叔本华（#96）、巴尔扎克（#106）、福克纳（#110）、麦克斯韦（#131）已完成但DONE.md未更新；法拉第（#130）done文件已存在
+**下一待处理：** 波普尔（bo_pu_er）
+**来源：** backlog.md（第七批，#154）
+**优先级：** medium
+**备注：** 涂尔干（tu_er_gan）本次蒸馏完成（2026-05-13）；涂尔干是流水线第159号人物；confidence 评为 high；4个权威来源（Britannica/IEP/Wikipedia/Goodreads）共约52,000字语料
 
 ---
 
@@ -2711,3 +2712,23 @@ DONE.md"下一待处理"已更正为弗洛伊德（fu_luo_yi_de）。
 **耗时：** 约10分钟
 
 **备注：** 荣格（Carl Gustav Jung，1875-1961）是瑞士心理学家，分析心理学创始人；本次执行中 web_search 完全失败，SerpAPI via web_fetch 也部分失败，最终直接使用 Britannica 的多个页面成功获取足够语料；由于是西方心理学家，无诗词采集要求，以学术传记和概念定义为主；5条思想内核（集体无意识/原型普遍性/内倾外倾双极性/四种心理功能/情结概念/分析心理学方法论区别）均有 Britannica 原文引用验证；Voice Profile：学术严谨性与对无形世界开放好奇心的融合，德国学院派精确性+神话诗意；是流水线第158号人物；confidence评为 high。
+
+
+### 2026-05-13 涂尔干（tu_er_gan）蒸馏记录
+
+**web_search：** ✅ 成功（DuckDuckGo 返回10条结果）
+**web_fetch：** ✅ 成功（Britannica/IEP/Wikipedia/Goodreads 共4个来源）
+
+**最终来源：**
+1. Britannica（britannica.com/biography/Emile-Durkheim，约12,259字，英文，百科传记）
+2. Internet Encyclopedia of Philosophy（iep.utm.edu/emile-durkheim/，约20,000字截断，英文，哲学百科）
+3. Wikipedia（en.wikipedia.org/wiki/%C3%89mile_Durkheim，约20,000字截断，英文，传记）
+4. Goodreads Quotes（goodreads.com/author/quotes/32676._mile_Durkheim，约8,000字截断，引语集）
+
+**git push 情况：** ✅ 首次 push 成功（commit 0ce8a81 推送至 origin/main）
+
+**confidence：** high
+**耗时：** 约20分钟
+
+**备注：** 涂尔干（Émile Durkheim，1858-1917）是法国社会学家，现代社会学奠基人，与马克思、韦伯并称社会学三大家；web_search成功定位多个英文权威来源；4个不同来源共约52,000字语料；6条思想内核（sui generis/社会事实的外在性/失范/机械有机团结/宗教社会整合功能/集体欢腾）均有原文引用验证；Voice Profile：严肃学术风格、冷静实证、论证绵密，"社会事实是……"为标志性开场；是流水线第159号人物；confidence评为 high。
+
