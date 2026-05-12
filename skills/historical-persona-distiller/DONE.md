@@ -2754,3 +2754,25 @@ DONE.md"下一待处理"已更正为弗洛伊德（fu_luo_yi_de）。
 
 **备注：** 波普尔（Karl Raimund Popper，1902-1994）是奥地利-英国哲学家，20世纪最重要的科学哲学家之一；以可证伪性理论闻名，创立批判理性主义哲学体系；web_search成功，4个权威来源均成功抓取；4个不同来源共约49,000字语料；6条思想内核（可证伪性/批判理性主义/开放社会/三个世界本体论/历史主义批判/可错论）均有原文引用验证；是流水线第160号人物；confidence评为 high。
 
+
+---
+
+### 2026-05-13 马尔萨斯（ma_er_sa_si）蒸馏记录
+
+**web_search：** ❌ 失败（DuckDuckGo fetch failed）
+**SerpAPI：** ✅ 成功（用于初步搜索定位来源）
+**web_fetch：** ✅ 成功（Britannica×2 + Wikipedia，共3个权威来源）
+
+**最终来源：**
+1. Britannica - Thomas Malthus（britannica.com/money/Thomas-Malthus，约12,831字，英文，百科主源）
+2. Wikipedia - Thomas Robert Malthus（en.wikipedia.org/wiki/Thomas_Robert_Malthus，约30,000字截取，英文，传记）
+3. Britannica - Biography（britannica.com/biography/Thomas-Malthus，约12,060字，英文，重复内容）
+
+**git push 情况：** ✅ 首次 push 成功（commit 6dfa0a4 推送至 origin/main；credential-gh 警告可忽略）
+
+**百度百科：** 未使用（web_fetch 直接抓取英文权威来源成功）
+
+**confidence：** high
+**耗时：** 约15分钟
+
+**备注：** 马尔萨斯（Thomas Robert Malthus，1766-1834）是英国经济学家和人口学家，《人口原理》（1798）作者；web_search失败后通过 SerpAPI + web_fetch 成功抓取3个权威英文来源；3个不同来源共约54,891字语料；马尔萨斯为经济学家非诗人，无需诗词采集；核心概念：Malthusian trap（人口陷阱）/几何级数vs算术级数/有效需求/道德约束；5条思想内核（人口法则不可逃避/贫困是人口法则必然结果非制度之罪/道德约束优于罪恶苦难/经验主义方法论/有效需求与平衡消费）均有原文引用验证；Voice Profile为19世纪英国学术英语风格——冷峻、理性、数据驱动、逻辑严密，medium confidence（无历史录音）；凯恩斯称其为"剑桥经济学家的第一人"；影响了达尔文和华莱士的进化论思想；是流水线第161号人物；confidence评为 high。
