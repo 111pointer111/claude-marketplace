@@ -1,0 +1,45 @@
+{
+  "persona_id": "rong_ge",
+  "persona_name": "荣格（Carl Gustav Jung）",
+  "distilled_at": "2026-05-12",
+  "corpus_stats": {
+    "raw_files": {
+      "传记.txt": 22691,
+      "全部语料.txt": 37236,
+      "后世评述.txt": 7696,
+      "引语.txt": 7284
+    },
+    "new_sources": {
+      "britannica_carl_jung.txt": 7775,
+      "biography_com_carl_jung.txt": 7058,
+      "wikipedia_carl_jung.txt": 50000,
+      "psychology_today_life_of_carl_jung.txt": 9726
+    },
+    "complete_corpus": {
+      "bytes": 29837,
+      "note": "新编纂的英文来源完整语料"
+    },
+    "total_raw_bytes": 161986,
+    "total_sources": 8,
+    "english_sources": 4,
+    "chinese_sources": 2
+  },
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "all_files_present": true,
+  "quality_checks": {
+    "sources_minimum": true,
+    "quotes_verified": true,
+    "citations_complete": true,
+    "confidence": "high"
+  },
+  "confidence": "high",
+  "confidence_justification": "语料来自Britannica、Biography.com、Wikipedia、Psychology Today四个不同英文权威来源，以及百度百科和中文维基百科两个中文来源，共8个来源。主要思想均有2+处原文引用支撑。生平事件可追溯至原始文本。置信度为high。"
+}

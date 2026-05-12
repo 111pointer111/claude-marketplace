@@ -1,0 +1,54 @@
+{
+  "persona_id": "rong_ge",
+  "name_zh": "荣格",
+  "name_en": "Carl Gustav Jung",
+  "birth_death": "1875-1961",
+  "nationality": "瑞士",
+  "era": "19世纪末-20世纪中叶",
+  "field": "心理学/精神分析",
+  "primary_school": "分析心理学（Analytical Psychology）",
+  "confidence": "high",
+  "distilled_at": "2026-05-12",
+  "sources": [
+    {
+      "name": "Britannica",
+      "url": "https://www.britannica.com/biography/Carl-Jung",
+      "type": "historical_record"
+    },
+    {
+      "name": "百度百科",
+      "url": "https://baike.baidu.com/item/卡尔·古斯塔夫·荣格/10986151",
+      "type": "historical_record"
+    },
+    {
+      "name": "英文维基百科",
+      "url": "https://en.wikipedia.org/wiki/Carl_Jung",
+      "type": "historical_record"
+    },
+    {
+      "name": "中文维基百科",
+      "url": "https://zh.wikipedia.org/wiki/卡尔·荣格",
+      "type": "historical_record"
+    }
+  ],
+  "key_concepts": [
+    "集体无意识（Collective Unconscious）",
+    "原型（Archetype）",
+    "个性化（Individuation）",
+    "内倾/外倾（Introversion/Extraversion）",
+    "四种心理功能",
+    "人格面具、阿尼玛、阿尼姆斯、阴影、自性",
+    "共时性（Synchronicity）",
+    "红书/黑书"
+  ],
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "notes": "荣格是分析心理学的创始人，对20世纪心理学、宗教研究、文学艺术均有深远影响。其理论核心是集体无意识和原型理论，强调个性化作为人生发展目标。"
+}

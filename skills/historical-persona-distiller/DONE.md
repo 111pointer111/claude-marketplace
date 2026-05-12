@@ -30,6 +30,7 @@
 | 152 | 阿基米德 | 古希腊 | 2026-05-12 | high | 45 |
 | 153 | 阿威罗伊 | 阿拉伯/12世纪 | 2026-05-12 | high | 20 |
 | 154 | 塞尔苏斯 | 古罗马 | 2026-05-12 | medium | 25 |
+| 155 | 荣格 | 瑞士/19-20世纪 | 2026-05-12 | high | 30 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -43,10 +44,27 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 斯宾诺莎（si_ben_nuo_sha）
-**来源：** backlog.md（第四批，#95）
-**优先级：** medium
-**备注：** 塞尔苏斯（sai_er_su_si）已完成
+**下一待处理：** 马克思（ma_ke_si）
+**来源：** backlog.md（第七批，#151）
+**优先级：** high
+**备注：** 斯宾诺莎（#95）、叔本华（#96）、巴尔扎克（#106）、福克纳（#110）、麦克斯韦（#131）已完成但DONE.md未更新；法拉第（#130）、弗洛伊德（#149）done文件已存在
+
+---
+
+### 状态同步记录
+
+**2026-05-12 状态修正**
+发现done/目录中多个人物的.done文件已存在，但DONE.md"下一待处理"仍指向斯宾诺莎（2026-05-02完成）：
+- 斯宾诺莎 si_ben_nuo_sha.done（2026-05-02）
+- 叔本华 shu_ben_hua.done
+- 巴尔扎克 ba_er_za_ke.done
+- 福克纳 fu_ken_na.done
+- 法拉第 michael_faraday.done
+- 麦克斯韦 mai_si_wei_ten.done
+- 弗洛伊德 fu_luo_yi_de.done（2026-05-11执行日志已记录）
+- 塞尔苏斯 sai_er_su_si.done（2026-05-12执行日志已记录）
+
+DONE.md"下一待处理"已更正为荣格（rong_ge）。
 
 ---
 
@@ -2565,6 +2583,36 @@
 **耗时：** 约25分钟
 
 **备注：** 花拉子密（Muhammad ibn Musa al-Khwarizmi，约780-850年）是9世纪伊斯兰黄金时代最具影响力的数学家之一，被尊为"代数学之父"；web_search失败后 SerpAPI via web_fetch 成功定位3个权威英文来源；3个来源共约42,000+字语料；花拉子密为数学家非诗人，无需诗词采集；6条思想内核（数学系统性/知识普及与实用性/跨文化知识整合/学术严谨与验证/知识传播使命感/原创性与综合的平衡）均有至少2处原文引用验证；5条思想内核均从花拉子密《代数学》原文（Rosen 1831年英译本）提取，包括其关于数字本质的经典描述和解二次方程的步骤；Voice Profile核心是"知识整合者与传播者"——用文字而非符号，通过系统性方法将代数知识服务于社会实际需求（遗产分配、贸易、土地测量）；"algorithm"（算法）一词来源于其名字的拉丁化"Algoritmi"，"algebra"（代数）一词来源于其著作中的"al-jabr"（补全/恢复）；confidence评为 medium（主要直接著作《代数学》仅为拉丁译本留存，原著已失传）。
+
+---
+
+### 2026-05-12 荣格（rong_ge）蒸馏记录
+
+**web_search：** ✅ 成功（DuckDuckGo，返回Britannica、Biography.com、Wikipedia、ThoughtCo等10个结果）
+**SerpAPI：** 未使用（web_search成功）
+**web_fetch：** ✅ 成功（Britannica + Biography.com + Wikipedia + Psychology Today，共4个来源）
+
+**最终来源：**
+1. Britannica - Carl Jung（britannica.com/biography/Carl-Jung，约7,775字，英文，百科主源）
+2. Biography.com - Carl Jung（biography.com/scientists/carl-jung，约7,058字，英文，通俗来源）
+3. English Wikipedia - Carl Jung（en.wikipedia.org/wiki/Carl_Jung，约50,000字，英文，百科主源）
+4. Psychology Today - The Life of Carl Jung（psychologytoday.com，约9,726字，英文，专家评述）
+5. 百度百科：卡尔·古斯塔夫·荣格（中文，补充传记）
+6. 引语.txt（原有中文语料，约7,284字）
+7. 传记.txt（原有中文语料，约22,691字）
+8. 后世评述.txt（原有中文语料，约7,696字）
+
+**百度百科：** ✅ 成功（中文传记，补充）
+
+**git push 情况：** ✅ 首次 push 成功
+
+**confidence：** high
+
+**耗时：** 约30分钟
+
+**备注：** 荣格（Carl Gustav Jung，1875-1961）是瑞士精神病学家、分析心理学创始人；web_search成功定位多个英文权威来源；8个不同来源共约161,986字语料；上一批次部分蒸馏留有raw/语料和processed/维度文件，本次补充英文来源后完成output/所有文件；6条思想内核（集体无意识/原型/个性化/态度类型/力比多/共时性）均有至少2处原文引用验证；Voice Profile核心是"灵魂探索者与原型炼金师"——沉稳、内省、博学、略带神秘；标志性短语："向外看的人在做梦，向内看的人是觉醒的"；是流水线第155号人物；confidence评为 high。
+
+**更新于2026-05-12**
 
 ---
 
