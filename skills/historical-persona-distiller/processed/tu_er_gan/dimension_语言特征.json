@@ -1,0 +1,53 @@
+{
+  "pid": "tu_er_gan",
+  "dimension": "语言特征",
+  "version": "1.0",
+  "features": [
+    {
+      "id": 1,
+      "feature": "法语学术散文风格：严谨、命题式、定义明确",
+      "description": "涂尔干的写作风格体现了法国学术散文的传统——精确的概念界定，严密的命题结构，每一个关键术语都经过清晰的定义。",
+      "example": "社会事实是存在于个人身外，但又具有强制性的行为方式、思维和感觉。"
+    },
+    {
+      "id": 2,
+      "feature": "偏好抽象概念术语",
+      "description": "涂尔干创造并大量使用抽象社会学概念：social fact（社会事实）、collective consciousness（集体意识）、anomie（失范）、mechanical solidarity（机械团结）、organic solidarity（有机团结）、collective effervescence（集体欢腾）。这些术语成为社会学的核心词汇。",
+      "examples": [
+        "social fact",
+        "collective consciousness",
+        "anomie",
+        "mechanical solidarity",
+        "organic solidarity",
+        "collective effervescence"
+      ]
+    },
+    {
+      "id": 3,
+      "feature": "长句结构，多修饰性从句",
+      "description": "涂尔干的句子通常是复杂的长句，包含多个修饰性从句，以精确表达社会现象的复杂性和层次性。这种句式结构服务于其严密的社会学论证。",
+      "example": "社会是个人意识互动融合产生的综合现实，只有在社会学层面上才能理解。"
+    },
+    {
+      "id": 4,
+      "feature": "实证主义语气，不带感情色彩",
+      "description": "涂尔干坚持实证主义方法论，力图将社会学建设成为像自然科学一样精密的科学。他的写作排斥感情色彩，以客观、冷静的笔调分析社会现象。",
+      "example": "从社会学角度讲，我们必须将社会现象视为客观存在的事实加以研究。"
+    },
+    {
+      "id": 5,
+      "feature": "常用规范性表达：必须（must）、应当（ought）",
+      "description": "尽管追求科学客观性，涂尔干的写作中常常出现规范性表达，体现了其作为教育改革者的实践关怀。他相信社会学知识应当服务于社会改良。",
+      "example": "社会学必须建立自己的方法论原则，才能成为真正的科学。"
+    },
+    {
+      "id": 6,
+      "feature": "使用定义-命题-论证的标准学术结构",
+      "description": "涂尔干的论文采用严格的学术结构：先给出核心概念的定义，再提出命题，最后通过论证和证据加以支持。这种结构在其所有主要著作中一以贯之。",
+      "example": "先定义社会事实，再论证社会事实的外在性与强制性，最后用自杀统计数据加以证明。"
+    }
+  ],
+  "distilled_at": "2026-05-13",
+  "confidence": "high",
+  "corpus_source": "传记.txt"
+}

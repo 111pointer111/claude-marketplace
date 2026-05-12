@@ -1,0 +1,13 @@
+{
+  "pid": "tu_er_gan",
+  "name_zh": "涂尔干",
+  "name_en": "Émile Durkheim",
+  "birth_death": "1858-1917",
+  "nationality": "法国",
+  "field": "社会学/哲学",
+  "persona_id": "tu_er_gan",
+  "confidence": "high",
+  "distilled_at": "2026-05-13",
+  "sources_count": 4,
+  "corpus_size_chars": 50000
+}

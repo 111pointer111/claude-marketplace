@@ -1,0 +1,139 @@
+# 涂尔干（Émile Durkheim）全部语料
+
+## 一、传记材料
+
+###  Britannica 传记（英文，12259字符）
+
+Émile Durkheim (born April 15, 1858, Épinal, France—died November 15, 1917, Paris) was a French social scientist who developed a vigorous methodology combining empirical research with sociological theory. He is widely regarded as the founder of the French school of sociology.
+
+Durkheim was born into a Jewish family of very modest means, and it was taken for granted that he would become a rabbi, like his father. The death of his father before Durkheim was 20, however, burdened him with heavy responsibilities. As early as his late teens Durkheim became convinced that effort and even sorrow are more conducive to the spiritual progress of the individual than pleasure or joy. He became a gravely disciplined young man.
+
+As an excellent student at the Lycée Louis le Grand, Durkheim was a strong candidate to enter the renowned and highly competitive École Normale Supérieure in Paris. While taking his board examination at the Institut Jauffret in the Latin Quarter, he met another gifted young man from the provinces, Jean Jaurès, later to lead the French Socialist Party and at that time interested, like Durkheim, in philosophy and in the moral and social reform of his country. Jaurès won entrance to the École Normale in 1878; one year later Durkheim did the same.
+
+Durkheim's religious faith had vanished by then, and his thought had become altogether secular but with a strong bent toward moral reform. Like a number of French philosophers during the Third Republic, Durkheim looked to science and in particular to social science and to profound educational reform as the means to avoid the perils of social disconnectedness, or "anomie," as he was to call that condition in which norms for conduct were either absent, weak, or conflicting.
+
+He enjoyed the intellectual atmosphere of the École Normale—the discussion of metaphysical and political issues pursued with eagerness and animated by the utopian dreams of young men destined to be among the leaders of their country. Durkheim was respected by his peers and teachers, but he was impatient with the excessive stress on elegant rhetoric and surface polish then prevalent in French higher education. His teachers of philosophy struck him as too fond of generalities and too worshipful of the past.
+
+Fretting at the conventionality of formal examinations, Durkheim passed the last competitive examination in 1882 but without the brilliance that his friends had predicted for him. He then accepted a series of provincial assignments as a teacher of philosophy at the state secondary schools of Sens, Saint-Quentin, and Troyes between 1882 and 1887. In 1885–86 he took a year's leave of absence to pursue research in Germany, where he was impressed by Wilhelm Wundt, a pioneering experimental psychologist. In 1887 he was appointed lecturer at the University of Bordeaux, where he subsequently became a professor and taught social philosophy until 1902. He then moved to the University of Paris, where he wrote some of his most important works and influenced a generation of scholars.
+
+Durkheim was familiar with several foreign languages and reviewed academic papers in German, English, and Italian at length for L'Année sociologique, the journal he founded in 1896. It has been noted, however, at times with disapproval and amazement by non-French social scientists, that Durkheim traveled little and that, like many French scholars and the notable British anthropologist Sir James Frazer, he never undertook any fieldwork. The vast information Durkheim studied on the tribes of Australia and New Guinea and on the Eskimos was all collected by other anthropologists, travelers, or missionaries.
+
+This was not due to provincialism or lack of attention to the concrete. Durkheim did not resemble the French philosopher Auguste Comte in making venturesome and dogmatic generalizations while disregarding empirical observation. He did, however, maintain that concrete observation in remote parts of the world does not always lead to illuminating views on the past or even on the present. For him, facts had no intellectual meaning unless they were grouped into types and laws. He claimed repeatedly that it is from a construction erected on the inner nature of the real that knowledge of concrete reality is obtained, a knowledge not perceived by observation of the facts from the outside. He thus constructed concepts such as the sacred and totemism exactly in the same way that Karl Marx developed the concept of class. In truth, Durkheim's vital interest did not lie in the study for its own sake of so-called primitive tribes but rather in the light such a study might throw on the present.
+
+The outward events of his life as an intellectual and as a scholar may appear undramatic. Still, much of what he thought and wrote stemmed from the events that he witnessed in his formative years, in the 1870s and '80s, and in the earnest concern he took in them.
+
+The Second Empire, which collapsed in the 1870 defeat of the French at the hands of Germany, had signified an era of levity and dissipation to the young scholar. France, with the support of many of its liberal and intellectual elements, had plunged headlong into a war for which it was unprepared; its leaders proved incapable. The left-wing Commune of Paris, which took over the French capital in 1871, led to senseless destruction, which appeared to Durkheim's generation, in retrospect, as evidence of the alienation of the working classes from capitalist society.
+
+The bloody repression that followed the Commune was taken as further evidence of the ruthlessness of capitalism and of the selfishness of the frightened bourgeoisie. Later, the crisis of 1886 over Georges Boulanger, the minister of war who demanded a centralist government to execute a policy of revenge against Germany, was one of several events that testified to the resurgence of nationalism, soon to be accompanied by anti-Semitism. Such major French thinkers of the older generation as Ernest Renan and Hippolyte Taine interrupted their historical and philosophical works after 1871 to analyze those evils and to offer remedies.
+
+Durkheim was one of several young philosophers and scholars, fresh from their École Normale training, who became convinced that progress was not the necessary consequence of science and technology, that it could not be represented by an ascending curve, and that complacent optimism could not be justified. He perceived around him the prevalence of anomie, a personal sense of rootlessness fostered by the absence of social norms. Material prosperity set free greed and passions that threatened the equilibrium of society.
+
+These sources of Durkheim's sociological reflections, never remote from moral philosophy, were first expressed in his very important doctoral thesis, De la division du travail social (1893; The Division of Labour in Society), and in Le Suicide (1897; Suicide). In Durkheim's view, ethical and social structures were being endangered by the advent of technology and mechanization. He believed that societies with undifferentiated labour (i.e., primitive societies) exhibited mechanical solidarity, while societies with a high division of labour (i.e., modern societies), exhibited organic solidarity. The division of labour rendered workers more alien to one another and yet more dependent upon one another; specialization meant that no individual labourer would build a product on his or her own.
+
+### Internet Encyclopedia of Philosophy 传记（英文，20000字符截断）
+
+Émile Durkheim was a French sociologist who rose to prominence in the late 19th and early 20th centuries. Along with Karl Marx and Max Weber, he is credited as being one of the principal founders of modern sociology. Chief among his claims is that society is a sui generis reality, or a reality unique to itself and irreducible to its composing parts. It is created when individual consciences interact and fuse together to create a synthetic reality that is completely new and greater than the sum of its parts. This reality can only be understood in sociological terms, and cannot be reduced to biological or psychological explanations. The fact that social life has this quality would form the foundation of another of Durkheim's claims, that human societies could be studied scientifically. For this purpose he developed a new methodology, which focuses on what Durkheim calls "social facts," or elements of collective life that exist independently of and are able to exert an influence on the individual.
+
+David Émile Durkheim was born in April 1858 in Épinal, located in the Lorraine region of France. His family was devoutly Jewish, and his father, grandfather, and great grandfather were all rabbis. Durkheim, however, broke with tradition and went to the École normale supérieure in 1879, where he studied philosophy. He graduated in 1882 and began teaching the subject in France. In 1887 he was appointed to teach Social Sciences and Pedagogy at the University of Bordeaux, allowing him to teach the first ever official sociology courses in France. Also in 1887, Durkheim married Louise Dreyfus, with whom he would eventually have two children. During his time at Bordeaux, Durkheim had great success, publishing his doctoral thesis On the Division of Social Labor (1893, Division), The Rules of Sociological Method (1895, Rules), and Suicide: A Study in Sociology (1897, Suicide). In 1896 he established the prestigious Année sociologique, further cementing sociology's place in the academic world.
+
+In 1902, Durkheim was finally given a promotion in the form of the chair of the Science of Education at the Sorbonne. In 1906 he became a full professor and in 1913, his position was changed to formally include sociology. Henceforth he was chair of the Science of Education and Sociology. Here he gave lectures on a number of subjects and published a number of important essays as well as his final, and most important, major work The Elementary Forms of Religious Life (1912, Forms). The outbreak of World War I would prove to have disastrous consequences for Durkheim. The war took many of his most promising pupils and in 1915 his son, André, also died in combat. From this Durkheim would never recover and in November 1917 he died of a stroke, leaving his last great work, La Morale (Morality), with only a preliminary introduction.
+
+During his lifetime, Durkheim was politically engaged, yet kept these engagements rather discrete. He defended Alfred Dreyfus during the Dreyfus affair and was a founding member of the Human Rights League. Durkheim was familiar with Karl Marx's ideas. Yet, Durkheim was very critical of Marx's work, which he saw as unscientific and dogmatic, as well as of Marxism, which he saw as needlessly conflictual, reactionary, and violent. Nevertheless, he supported a number of socialist reforms, and had a number of important socialist friends, but never committed himself to a political party and did not make political issues a primary concern. Despite his muted political engagement, Durkheim was an ardent patriot of France. He hoped to use his sociology as a way to help a French society suffering under the strains of modernity, and during World War I he took up a position writing anti-German propaganda pamphlets, which in part use his sociological theories to help explain the fervent nationalism found in Germany.
+
+### Wikipedia 传记（英文，20000字符截断）
+
+David Émile Durkheim (15 April 1858 – 15 November 1917) was a French sociologist. He formally established the academic discipline of sociology, and is commonly cited as one of the principal architects of modern social science, along with Karl Marx and Max Weber.
+
+Much of Durkheim's work concerns the inability of societies to maintain their integrity and coherence in modernity, an era in which traditional social and religious ties are much less universal, and in which new social institutions have come into being. His conception of the scientific study of society laid the groundwork for modern sociology. He used such scientific tools as statistics, surveys, and historical observation in his analysis of suicides in Roman Catholic and Protestant groups.
+
+Durkheim's first major sociological work was De la division du travail social (1893; The Division of Labour in Society), followed in 1895 by Les Règles de la méthode sociologique (The Rules of Sociological Method). Also in 1895, he set up the first European department of sociology and became France's first professor of sociology. His seminal monograph, Le Suicide (1897), a study of suicide rates in Roman Catholic and Protestant populations, pioneered modern social research, serving to distinguish social science from psychology and political philosophy. In 1898, he established the journal L'Année sociologique. Les formes élémentaires de la vie religieuse (1912; The Elementary Forms of Religious Life) presented a theory of religion, comparing the social and cultural lives of aboriginal and modern societies.
+
+Durkheim was preoccupied with the acceptance of sociology as a legitimate science. Refining the positivism originally set forth by Auguste Comte, he promoted what could be considered as a form of epistemological realism, as well as the use of the hypothetico-deductive model in social science. For Durkheim, sociology was the science of institutions, understanding the term in its broader meaning as the "beliefs and modes of behaviour instituted by the collectivity," with its aim being to discover structural social facts. He was a major proponent of structural functionalism, a foundational perspective in both sociology and anthropology. In his view, social science should be purely holistic in the sense that sociology should study phenomena attributed to society at large, rather than being limited to the study of specific actions of individuals.
+
+Durkheim came from a long line of rabbis, stretching back eight generations, including his father, grandfather, and great-grandfather and began his education in a rabbinical school. However at an early age he switched schools, deciding not to follow in his family's footsteps. Durkheim led a thoroughly secular life, dedicating much of his work to the argument that religious phenomena arise from social rather than divine factors.
+
+A precocious student, Durkheim entered the École normale supérieure in 1879, at his third attempt. The entering class that year was one of the most brilliant of the nineteenth century, as many of his classmates, such as Jean Jaurès and Henri Bergson, went on to become major figures in France's intellectual history as well. At the ENS, Durkheim studied under the direction of Numa Denis Fustel de Coulanges, a classicist with a social-scientific outlook, and wrote his Latin dissertation on Montesquieu. At the same time, he read Auguste Comte and Herbert Spencer, whereby Durkheim became interested in a scientific approach to society early on in his career.
+
+He obtained his agrégation in philosophy in 1882, though finishing next to last in his graduating class owing to serious illness the year before. From 1882 to 1887 he taught philosophy at several provincial schools. In the 1885-6 school year he visited Germany, where he travelled and studied sociology at the universities of Marburg, Berlin and Leipzig. As Durkheim indicated in several essays, it was in Leipzig that he learned to appreciate the value of empiricism and its language of concrete, complex things, in sharp contrast to the more abstract, clear and simple ideas of the Cartesian method.
+
+The 1890s were a period of remarkable creative output for Durkheim. In 1893, he published The Division of Labour in Society, his doctoral dissertation and fundamental statement of the nature of human society and its development. Durkheim's interest in social phenomena was spurred on by politics. The Second French Empire's defeat in the Franco-Prussian War led to the fall of the regime of Napoleon III, which was then replaced by the French Third Republic. This in turn resulted in a backlash against the new secular and republican rule, as many people considered a vigorously nationalistic approach necessary to rejuvenate France's fading power. Durkheim, a Jew and a staunch supporter of the French Third Republic with a sympathy towards socialism, was thus in the political minority, a situation that galvanized him politically. The Dreyfus affair of 1894 only strengthened his activist stance.
+
+In 1902, Durkheim had finally achieved his goal of attaining a prominent position in Paris when he became the chair of education at the Sorbonne. He became a full professor in 1906, and in 1913 he was named chair in "Education and Sociology". Because French universities are technically institutions for training secondary school teachers, this position gave Durkheim considerable influence—his lectures were the only ones that were mandatory for the entire student body. Durkheim had much influence over the new generation of teachers; around that time he also served as an advisor to the Ministry of Education. In 1912, he published his last major work, The Elementary Forms of Religious Life.
+
+The outbreak of World War I was to have a tragic effect on Durkheim's life. His leftism was always patriotic rather than internationalist, in that he sought a secular, rational form of French life. However, the onset of the war, and the inevitable nationalist propaganda that followed, made it difficult to sustain this already nuanced position. While Durkheim actively worked to support his country in the war, his reluctance to give in to simplistic nationalist fervor (combined with his Jewish background) made him a natural target of the now-ascendant French Right. Even more seriously, the generations of students that Durkheim had trained were now being drafted to serve in the army, many of them perishing in the trenches.
+
+Finally, Durkheim's own son, André, died on the war front in December 1915—a loss from which Durkheim never recovered. Emotionally devastated, Durkheim collapsed of a stroke in Paris two years later, on 15 November 1917. He was buried at the Montparnasse Cemetery in Paris.
+
+## 二、引语材料（Goodreads，8000字符截断）
+
+"Melancholy suicide. —This is connected with a general state of extreme depression and exaggerated sadness, causing the patient no longer to realize sanely the bonds which connect him with people and things about him. Pleasures no longer attract."
+— Émile Durkheim, Suicide: A Study in Sociology
+
+"When mores are sufficient, laws are unnecessary; when mores are insufficient, laws are unenforceable."
+— Émile Durkheim
+
+"Man is a moral being, only because he lives in a society where moral phenomena exist."
+— Émile Durkheim
+
+"Man cannot become attached to higher aims and submit to a rule if he sees nothing above him to which he belongs. To free him from all social pressure is to abandon him to himself and demoralize him."
+— Émile Durkheim, Suicide: A Study in Sociology
+
+"We do not condemn it because it is a crime, but it is a crime because we condemn it."
+— Émile Durkheim
+
+"Socialism is not a science, a sociology in miniature: it is a cry of pain."
+— Émile Durkheim
+
+"One does not advance when one walks toward no goal, or - which is the same thing - when his goal is infinity."
+— Émile Durkheim, Suicide: A Study in Sociology
+
+"Maniacal suicide. —This is due to hallucinations or delirious conceptions. The patient kills himself to escape from an imaginary danger or disgrace, or to obey a mysterious order from on high, etc."
+— Émile Durkheim, Suicide: A Study in Sociology
+
+"Reality seems valueless by comparison with the dreams of fevered imaginations; reality is therefore abandoned."
+— Émile Durkheim
+
+"It seems very strange that one must turn back, and be transported to the very beginnings of history, in order to arrive at an understanding of humanity as it is at present."
+— Émile Durkheim, The Elementary Forms of Religious Life
+
+"Irrespective of any external, regulatory force, our capacity for feeling is in itself an insatiable and bottomless abyss."
+— Émile Durkheim
+
+"It is society which, fashioning us in its image, fills us with religious, political and moral beliefs that control our actions."
+— Émile Durkheim, Suicide: A Study in Sociology
+
+"Crime brings together honest men and concentrates them."
+— Émile Durkheim
+
+"It is said that we do not make the guilty party suffer for the sake of suffering; it is nonetheless true that we find it right that he should suffer."
+— Émile Durkheim
+
+"The most barbarous and the most fantastic rites and the strangest myths translate some human need, some aspect of life, either individual or social."
+— Émile Durkheim, The Elementary Forms of the Religious Life
+
+"One cannot long remain so absorbed in contemplation of emptiness without being increasingly attracted to it. In vain one bestows on it the name of infinity; this does not change its nature. When one feels such pleasure in non-existence, one's inclination can be completely satisfied only by completely ceasing to exist."
+— Émile Durkheim, Suicide: A Study in Sociology
+
+"The totality of beliefs and sentiments common to the average members of a society forms a determinate system with a life of its own. It can be termed the collective or creative consciousness."
+— Émile Durkheim
+
+"Liberty is the daughter of authority properly understood. For to be free is not to do what one pleases; it is to be the master of oneself, it is to know how to act within reason and to do one's duty."
+— Émile Durkheim
+
+"...Solidarity is, literally something which the society possesses."
+— Emile Durkheim
+
+"Anyone who has truly practiced a religion knows very well that it is [the set of regularly repeated actions that make up the cult] that stimulates the feelings of joy, inner peace, serenity, and enthusiasm that, for the faithful, stand as experimental proof of their beliefs. The cult is not merely a system of signs by which the faith is outwardly expressed; it is the sum total of means by which that faith is created and recreated periodically. Whether the cult consists of physical operations or mental ones, it is always the cult that is efficacious."
+— Émile Durkheim, The Elementary Forms of Religious Life
+
+"Hence we are the victims of an illusion which leads us to believe we have ourselves produced what has been imposed upon us externally."
+— Émile Durkheim, Rules of Sociological Method
+
+"we should not say that an act offends the common consciousness because it is criminal, but that it is criminal because it offends the common consciousness"
+— Émile Durkheim, The Division of Labor in Society
+
+"Religion is in a word the system of symbols by means of which society becomes conscious of itself."
+— Émile Durkheim, Suicide: A Study in Sociology
+
+"Just as reflection disappears to the extent that thought and action take the form of automatic habits, it awakes only when accepted habits become disorganized."
+— Émile Durkheim

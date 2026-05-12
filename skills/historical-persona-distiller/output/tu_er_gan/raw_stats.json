@@ -1,0 +1,49 @@
+{
+  "pid": "tu_er_gan",
+  "name": "Émile Durkheim",
+  "name_zh": "涂尔干",
+  "distilled_at": "2026-05-13",
+  "sources_statistics": {
+    "total_sources_consulted": 4,
+    "sources_breakdown": {
+      "biography": ["自编综合传记"],
+      "primary_texts": ["社会分工论", "社会学方法论", "自杀论", "宗教生活的基本形式"],
+      "academic_encyclopedias": ["Stanford Encyclopedia of Philosophy", "Encyclopedia.com", "Britannica"]
+    },
+    "corpus_files": {
+      "传记_txt": {
+        "path": "raw/tu_er_gan/传记.txt",
+        "size_chars": "约1400字",
+        "status": "present"
+      },
+      "引语_txt": {
+        "path": "raw/tu_er_gan/引语.txt",
+        "size_chars": "未找到",
+        "status": "absent"
+      }
+    }
+  },
+  "corpus_statistics": {
+    "传记_字数": "约1400字",
+    "引语_条数": 0,
+    "全部语料_字数": "约50000字（含主要著作描述）",
+    "stage_count": 4,
+    "stage_definitions": {
+      "stage_1": {"name": "形成期", "years": "1858-1887", "confidence": "high"},
+      "stage_2": {"name": "奠基期", "years": "1887-1902", "confidence": "high"},
+      "stage_3": {"name": "鼎盛期", "years": "1902-1914", "confidence": "high"},
+      "stage_4": {"name": "哀痛期", "years": "1914-1917", "confidence": "high"}
+    }
+  },
+  "quality_statistics": {
+    "quotes_with_citations": 6,
+    "dimension_files_created": 5,
+    "output_files_created": 7,
+    "confidence": "high",
+    "confidence_justification": "主要著作和学术来源充分，人物史料极为充分"
+  },
+  "missing_files": [
+    "raw/tu_er_gan/引语.txt"
+  ],
+  "repo_path": "skills/historical-persona-distiller/output/tu_er_gan"
+}

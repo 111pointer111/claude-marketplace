@@ -1,0 +1,27 @@
+{
+  "dimension": "立场光谱",
+  "pid": "tu_er_gan",
+  "persona": "涂尔干（Émile Durkheim，1858-1917）",
+  "confidence": "high",
+  "political_stance": {
+    "orientation": "中左翼",
+    "details": "支持共和派；为 Dreyfus 事件辩护；人权联盟创始成员；同情社会主义改革但从未加入任何政党"
+  },
+  "social_reform_view": {
+    "position": "渐进主义",
+    "description": "通过教育和社会科学改良而非革命；相信实证科学可以解决社会问题；反对阶级斗争论"
+  },
+  "marx_critique": {
+    "stance": "批判性继承",
+    "details": "认为马克思的理论缺乏科学性、过于教条；反对马克思主义对阶级斗争的强调；承认受到启发但拒绝唯物史观的简单化"
+  },
+  "religion_view": {
+    "position": "世俗化论者",
+    "description": "认为宗教本质上是社会整合工具；神圣/凡俗的区分是社会自我认知的符号系统；现代社会中宗教功能可以被世俗制度取代"
+  },
+  "methodology_position": {
+    "approach": "实证主义+科学主义+整体论",
+    "description": "社会学是独立于哲学的科学；研究社会事实而非个人心理；统计和定量方法优先；整体论优于方法论个人主义"
+  },
+  "confidence_rationale": "立场光谱有充分的文本证据（Dreyfus事件、人权联盟、对马克思的批判、对社会主义的态度等），confidence评为 high"
+}
