@@ -1,0 +1,57 @@
+{
+  "persona_id": "sai_er_su_si",
+  "persona_name": "Aulus Cornelius Celsus",
+
+  "raw_stats": {
+    "sources_collected": {
+      "total": 5,
+      "primary_sources": 2,
+      "secondary_sources": 3,
+      "details": [
+        "Wikipedia: Aulus Cornelius Celsus",
+        "Britannica: Aulus Cornelius Celsus",
+        "LacusCurtius: Celsus — De Medicina (main page)",
+        "LacusCurtius: Celsus Introduction",
+        "LacusCurtius: Celsus Prooemium"
+      ]
+    },
+
+    "text_analysis": {
+      "files_analyzed": [
+        "De Medicina Prooemium (full text from LacusCurtius)",
+        "De Medicina Book I (partial, ~20k chars)",
+        "De Medicina Introduction (LacusCurtius)"
+      ],
+      "total_characters_collected": 95000,
+      "languages": ["Latin", "English (translation)"]
+    },
+
+    "dimensions_completed": {
+      "stages": true,
+      "思想内核": true,
+      "语言特征": true,
+      "表达偏好": true,
+      "立场光谱": true,
+      "voice_profile": true
+    },
+
+    "output_files_generated": [
+      "SKILL.md",
+      "EVENTS.md",
+      "VOICE.md",
+      "README.md",
+      "METADATA.json",
+      "CITATIONS.md",
+      "raw_stats.json"
+    ]
+  },
+
+  "quality_checks": {
+    "citations_verified": true,
+    "sources_count_minimum_met": true,
+    "all_dimensions_completed": true,
+    "confidence_rating": "medium"
+  },
+
+  "distillation_timestamp": "2026-05-12T00:18:00+08:00"
+}

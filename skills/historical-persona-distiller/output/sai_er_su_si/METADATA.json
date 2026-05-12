@@ -1,0 +1,35 @@
+{
+  "persona_id": "sai_er_su_si",
+  "name": "Aulus Cornelius Celsus",
+  "name_zh": "塞尔苏斯",
+  "birth_year": -25,
+  "death_year": 50,
+  "era": "Roman Empire (Augustus-Tiberius period)",
+  "dynasty": null,
+  "confidence": "medium",
+  "confidence_rationale": "Celsus is not primarily an original thinker but a synthesizer and encyclopedist. His biographical information is extremely sparse, and there is debate about whether he was a practicing physician. However, his surviving medical text De Medicina is rich and well-documented.",
+
+  "sources_used": [
+    "Wikipedia: Aulus Cornelius Celsus (https://en.wikipedia.org/wiki/Aulus_Cornelius_Celsus)",
+    "Britannica: Aulus Cornelius Celsus (https://www.britannica.com/biography/Aulus-Cornelius-Celsus)",
+    "LacusCurtius: Celsus — De Medicina (https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Celsus/home.html)",
+    "LacusCurtius: Celsus Introduction (https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Celsus/Introduction*.html)",
+    "LacusCurtius: Celsus Prooemium (https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Celsus/Prooemium*.html)"
+  ],
+
+  "source_quality": {
+    "primary_sources": 2,
+    "secondary_sources": 3,
+    "total_distinct_sources": 5
+  },
+
+  "texts_analyzed": [
+    "De Medicina (Prooemium)",
+    "De Medicina Book I",
+    "De Medicina Introduction (LacusCurtius)"
+  ],
+
+  "distillation_date": "2026-05-12",
+  "distiller": "openclaw-persona-distiller-pipeline",
+  "version": "1.0"
+}
