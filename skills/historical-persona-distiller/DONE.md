@@ -34,6 +34,7 @@
 | 157 | 韦伯 | 德国/19-20世纪 | 2026-05-12 | high | 10 |
 | 158 | 荣格 | 瑞士/19-20世纪 | 2026-05-12 | high | 10 |
 | 159 | 涂尔干 | 法国/19-20世纪 | 2026-05-13 | high | ~20 |
+| 160 | 波普尔 | 奥地利-英国/20世纪 | 2026-05-13 | high | ~30 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -47,10 +48,10 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 波普尔（bo_pu_er）
-**来源：** backlog.md（第七批，#154）
+**下一待处理：** 斯宾诺莎（si_ben_nuo_sha）
+**来源：** backlog.md（第四批，#95）
 **优先级：** medium
-**备注：** 涂尔干（tu_er_gan）本次蒸馏完成（2026-05-13）；涂尔干是流水线第159号人物；confidence 评为 high；4个权威来源（Britannica/IEP/Wikipedia/Goodreads）共约52,000字语料
+**备注：** 波普尔（bo_pu_er）本次蒸馏完成（2026-05-13）；波普尔是流水线第160号人物；confidence 评为 high；4个权威来源（SEP/Britannica/Wikipedia/LSE）共约49,000字语料；本次 web_search 成功，4个来源均成功抓取
 
 ---
 
@@ -2731,4 +2732,24 @@ DONE.md"下一待处理"已更正为弗洛伊德（fu_luo_yi_de）。
 **耗时：** 约20分钟
 
 **备注：** 涂尔干（Émile Durkheim，1858-1917）是法国社会学家，现代社会学奠基人，与马克思、韦伯并称社会学三大家；web_search成功定位多个英文权威来源；4个不同来源共约52,000字语料；6条思想内核（sui generis/社会事实的外在性/失范/机械有机团结/宗教社会整合功能/集体欢腾）均有原文引用验证；Voice Profile：严肃学术风格、冷静实证、论证绵密，"社会事实是……"为标志性开场；是流水线第159号人物；confidence评为 high。
+
+---
+
+### 2026-05-13 波普尔（bo_pu_er）蒸馏记录
+
+**web_search：** ✅ 成功（DuckDuckGo 返回5条结果）
+**web_fetch：** ✅ 成功（SEP/Britannica/Wikipedia/LSE 共4个来源）
+
+**最终来源：**
+1. Stanford Encyclopedia of Philosophy（plato.stanford.edu/entries/popper/，约80,000字截断，英文，详细哲学百科）
+2. Britannica（britannica.com/biography/Karl-Popper，约4,413字，英文，百科传记）
+3. Wikipedia（en.wikipedia.org/wiki/Karl_Popper，约50,000字截断，英文，传记）
+4. LSE（lse.ac.uk/philosophy/research/sir-karl-popper，约3,150字，英文，学院介绍）
+
+**git push 情况：** ✅ 首次 push 成功（commit ddda144 推送至 origin/main）
+
+**confidence：** high
+**耗时：** 约30分钟
+
+**备注：** 波普尔（Karl Raimund Popper，1902-1994）是奥地利-英国哲学家，20世纪最重要的科学哲学家之一；以可证伪性理论闻名，创立批判理性主义哲学体系；web_search成功，4个权威来源均成功抓取；4个不同来源共约49,000字语料；6条思想内核（可证伪性/批判理性主义/开放社会/三个世界本体论/历史主义批判/可错论）均有原文引用验证；是流水线第160号人物；confidence评为 high。
 
