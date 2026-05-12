@@ -29,6 +29,7 @@
 | 151 | 欧几里得 | 古希腊 | 2026-05-11 | medium | 25 |
 | 152 | 阿基米德 | 古希腊 | 2026-05-12 | high | 45 |
 | 153 | 阿威罗伊 | 阿拉伯/12世纪 | 2026-05-12 | high | 20 |
+| 154 | 塞尔苏斯 | 古罗马 | 2026-05-12 | medium | 25 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -42,10 +43,10 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 塞尔苏斯（sai_er_su_si）
-**来源：** backlog.md（第六批，#146）
-**优先级：** low
-**备注：** 花拉子密（hua_la_zi_mi）已完成
+**下一待处理：** 斯宾诺莎（si_ben_nuo_sha）
+**来源：** backlog.md（第四批，#95）
+**优先级：** medium
+**备注：** 塞尔苏斯（sai_er_su_si）已完成
 
 ---
 
@@ -2567,11 +2568,28 @@
 
 ---
 
+### 2026-05-12 塞尔苏斯（sai_er_su_si）蒸馏记录
+
+**web_search：** ✅ 成功（DuckDuckGo，返回Wikipedia和Britannica摘要）
+**SerpAPI：** 未使用（web_search成功）
+**web_fetch：** ✅ 成功（Wikipedia + Britannica + LacusCurtius x3，共5个来源）
+
+**最终来源：**
+1. Wikipedia - Aulus Cornelius Celsus（en.wikipedia.org，约11,000字，英文，百科主源）
+2. Britannica - Aulus Cornelius Celsus（britannica.com，约3,000字，英文，百科主源）
+3. LacusCurtius - Celsus De Medicina Introduction（penelope.uchicago.edu，约15,000字，英文，文献权威）
+4. LacusCurtius - Celsus Prooemium（penelope.uchicago.edu，约20,000字，英文原文对照）
+5. LacusCurtius - Celsus Book I（penelope.uchicago.edu，约20,000字，英文原文对照）
+
+**百度百科：** 未使用
+
+**git push 情况：** ✅ 首次 push 成功（commit b1cf8db 推送至 origin/main）
+
+**confidence：** medium
+**耗时：** 约25分钟
+
+**备注：** 塞尔苏斯（Aulus Cornelius Celsus，约公元前25年-公元50年）是古罗马百科全书编纂者，以《论医学》(De Medicina) 唯一完整留存而闻名；web_search成功定位多个英文权威来源；5个来源共约70,000+字语料；塞尔苏斯为医学作家非诗人，无需诗词采集；6条思想内核（疗效高于雄辩/理性与经验结合/自然疗愈观/解剖学基础/预防为主/实践优于理论）均有至少2处原文引用验证；所有思想内核均从Celsus《论医学》原文（通过LacusCurtius网站的Loeb版英译）提取，包括其著名格言"It is not by eloquence but by remedies that diseases are treated"；Voice Profile核心是"理性折中派学者"——冷静、清晰、以实用疗效为导向，强调理论与经验的中道；最著名语录"It is not by eloquence but by remedies that diseases are treated"（治疗疾病的不是雄辩，而是药物）；是流水线第154号人物；confidence评为 medium（史料极度匮乏，且其是否为执业医师存在争议）；需与2世纪反基督教的哲学家Celsus区分。
+
 **更新于2026-05-12**
-
-## 二、下一待处理
-
-**下一待处理：** 塞尔苏斯（sai_er_su_si）
-**来源：** backlog.md（第六批，#146）
-**优先级：** low
-**备注：** 花拉子密（hua_la_zi_mi）已完成
+**优先级：** medium
+**备注：** 塞尔苏斯（sai_er_su_si）已完成
