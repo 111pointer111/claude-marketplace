@@ -1,0 +1,47 @@
+{
+  "persona_id": "wei_bo",
+  "name": "Max Weber",
+  "name_cn": "马克斯·韦伯",
+  "lifespan": "1864-1920",
+  "dynasty": "Prussia / German Empire",
+  "field": "Sociology, Political Economy, Law, Comparative Religion",
+  "confidence": "high",
+  "distilled_at": "2026-05-12T12:07:00Z",
+  "distiller": "openclaw-cron-distiller",
+  "sources_used": [
+    "https://plato.stanford.edu/entries/weber/",
+    "https://www.britannica.com/biography/Max-Weber-German-sociologist",
+    "https://en.wikipedia.org/wiki/Max_Weber",
+    "https://www.goodreads.com/author/quotes/42041.Max_Weber"
+  ],
+  "source_types": [
+    "historical_record",
+    "historical_record",
+    "historical_record",
+    "commentary"
+  ],
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "quality_checks": {
+    "citations_verified": true,
+    "idioms_verified": "N/A (Weber非诗人/文学家，无成语典故)",
+    "confidence_评级合规": true,
+    "all_fields_filled": true,
+    "sources_count": 4,
+    "min_sources_required": 3
+  },
+  "search_fallback_used": {
+    "web_search": "failed (bot detection)",
+    "serpapi": "succeeded",
+    "direct_baidu": "not_needed"
+  },
+  "persona_type": "western_philosopher",
+  "notes": "Weber是现代学者（19-20世纪），非古典诗人，语料以学术传记和引语为主，无诗词文集。主要来源为英文Stanford Encyclopedia和Britannica，无中文一手资料。"
+}
