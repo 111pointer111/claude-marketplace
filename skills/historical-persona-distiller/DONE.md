@@ -37,6 +37,7 @@
 | 160 | 波普尔 | 奥地利-英国/20世纪 | 2026-05-13 | high | ~30 |
 | 161 | 马尔萨斯 | 英国/18-19世纪 | 2026-05-13 | high | ~15 |
 | 162 | 李嘉图 | 英国/19世纪 | 2026-05-13 | high | ~25 |
+| 163 | 亚当·斯密 | 苏格兰/18世纪 | 2026-05-13 | high | ~45 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -50,12 +51,35 @@
 
 ## 二、下一待处理
 
-**下一待处理：** 亚当·斯密（ya_dang_smi）
-**来源：** backlog.md（#157）
-**优先级：** high
-**备注：** 英国古典经济学创始人，《国富论》作者；与李嘉图同为古典经济学代表人物，李嘉图的学术先驱；先完成李嘉图（本次）。
+**下一待处理：** 凯恩斯（kai_en_si）
+**来源：** backlog.md（#158）
+**优先级：** medium
+**备注：** 英国20世纪经济学家，《就业利息和货币通论》作者；宏观经济学奠基人；继斯密、李嘉图之后英国古典/新古典经济学传统的代表。
 
 ---
+
+### 2026-05-13 亚当·斯密（ya_dang_smi）蒸馏记录
+
+**执行状态：** ✅ 完成
+**置信度：** high
+**蒸馏用时：** ~45 分钟
+
+**搜索工具使用记录：**
+- `web_search（DuckDuckGo）`：❌ 失败（无结果返回）
+- `SerpAPI via web_fetch`：✅ 成功（用于quotes搜索）
+- `direct web_fetch（Britannica、Wikipedia等）`：✅ 成功（主要内容来源）
+
+**来源抓取：**
+- Britannica（Adam Smith Biography）：✅ 成功
+- Wikipedia（Adam Smith）：✅ 成功
+- World History Encyclopedia（Adam Smith）：✅ 成功
+- Britannica（The Wealth of Nations）：✅ 成功
+- University of Glasgow（Adam Smith 300th）：✅ 成功
+- SerpAPI（Adam Smith Quotes）：✅ 成功（通过web_fetch调用）
+
+**注意事项：**
+- Adam Smith 常被误读为纯粹的"自由放任"倡导者，需在 SKILL.md 和 VOICE.md 中明确澄清：他明确支持政府在教育和司法中的作用
+- 《道德情感论》与《国富论》的统一性是核心质量要求
 
 ### 2026-05-13 李嘉图（li_jia_tu）蒸馏记录
 
