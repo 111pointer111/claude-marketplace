@@ -1,0 +1,65 @@
+{
+  "persona_id": "ya_dang_smi",
+  "distilled_date": "2026-05-13",
+  "raw_stats": {
+    "total_corpus_bytes": 38896,
+    "source_breakdown": {
+      "百科_Britannica_Adam_Smith.txt": 7266,
+      "百科_Wikipedia_Adam_Smith.txt": 9551,
+      "百科_World_History_Adam_Smith.txt": 5924,
+      "百科_Britannica_Wealth_of_Nations.txt": 6546,
+      "资料_University_of_Glasgow.txt": 4531,
+      "引语.txt": 2884,
+      "后世评述.txt": 1979,
+      "全部语料.txt": 38896
+    },
+    "unique_sources": 5,
+    "source_types": {
+      "historical_record": 3,
+      "commentary": 1,
+      "quotes": 1,
+      "secondary_commentary": 1
+    }
+  },
+  "processed_stats": {
+    "life_stages": 5,
+    "core_beliefs": 6,
+    "key_concepts": 6,
+    "intellectual_relationships": 4,
+    "linguistic_features": {
+      "sentence_structure": "medium-long complex clauses",
+      "vocabulary_registers": ["philosophical", "economic", "historical"],
+      "rhetorical_devices": ["invisible_hand_metaphor", "daily_profession_analogy", "stoic_virtue"]
+    },
+    "stance_dimensions": {
+      "political_economy": "classical_liberal",
+      "moral_philosophy": "sentimentalist",
+      "historical_philosophy": "philosophical_historicist",
+      "social_stance": "gradualist_reformist"
+    }
+  },
+  "output_files": {
+    "SKILL.md": 3977,
+    "EVENTS.md": 1910,
+    "VOICE.md": 2872,
+    "README.md": 1385,
+    "METADATA.json": 1837,
+    "CITATIONS.md": 5074,
+    "raw_stats.json": 1095
+    "estimated_total_output_chars": 18150
+  },
+  "confidence": "high",
+  "confidence_factors": [
+    "Multiple independent authoritative sources (Britannica, Wikipedia, World History Encyclopedia, University of Glasgow)",
+    "All key quotations traced to primary sources",
+    "Internal consistency across all dimensions verified",
+    "Timeline of life events aligned with development of thought",
+    "Search tool fallback chain completed successfully"
+  ],
+  "search_tool_chain": {
+    "attempted": ["web_search", "serpapi_via_web_fetch", "direct_web_fetch"],
+    "successful": ["serpapi_via_web_fetch", "direct_web_fetch"],
+    "failed": ["web_search"]
+  },
+  "notes": "Adam Smith represents a high-complexity persona due to the breadth of his philosophical system (spanning moral philosophy and political economy). His commonly misunderstood 'laissez-faire' positioning required explicit clarification in multiple dimensions."
+}

@@ -1,0 +1,73 @@
+{
+  "persona_id": "ya_dang_smi",
+  "name_chinese": "亚当·斯密",
+  "name_english": "Adam Smith",
+  "birth_year": 1723,
+  "death_year": 1790,
+  "nationality": "Scottish",
+  "primary_works": [
+    "The Theory of Moral Sentiments (1759)",
+    "An Inquiry into the Nature and Causes of the Wealth of Nations (1776)"
+  ],
+  "philosophical_tradition": "Scottish Enlightenment / Classical Liberalism",
+  "confidence": "high",
+  "distilled_date": "2026-05-13",
+  "language": "English (Scottish English)",
+  "source_count": 5,
+  "sources": [
+    {
+      "name": "Britannica - Adam Smith Biography",
+      "type": "historical_record",
+      "status": "fetched"
+    },
+    {
+      "name": "Wikipedia - Adam Smith",
+      "type": "historical_record",
+      "status": "fetched"
+    },
+    {
+      "name": "World History Encyclopedia",
+      "type": "historical_record",
+      "status": "fetched"
+    },
+    {
+      "name": "Britannica - The Wealth of Nations",
+      "type": "commentary",
+      "status": "fetched"
+    },
+    {
+      "name": "University of Glasgow - Adam Smith",
+      "type": "historical_record",
+      "status": "fetched"
+    },
+    {
+      "name": "SerpAPI - Adam Smith Quotes",
+      "type": "quotes",
+      "status": "fetched"
+    }
+  ],
+  "raw_corpus_bytes": 38896,
+  "processed_files": [
+    "stages.md",
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "dimension_一致性校验.json"
+  ],
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "search_tools_used": {
+    "web_search": "failed",
+    "serpapi_via_web_fetch": "success",
+    "direct_web_fetch": "success"
+  },
+  "notes": "Adam Smith常被误读为纯粹的'自由放任'倡导者，实际上他明确支持政府在教育、司法和公共工程中的作用。《道德情感论》和《国富论》共同构成他完整的人性和社会哲学体系。"
+}
