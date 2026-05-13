@@ -1,0 +1,42 @@
+{
+  "persona_id": "li_jia_tu",
+  "人物": "大卫·李嘉图",
+  "distillation_date": "2026-05-13",
+  "sources": [
+    {
+      "source": "百度百科-大卫·李嘉图",
+      "url": "https://baike.baidu.com/item/大卫·李嘉图/2336225",
+      "type": "historical_record",
+      "size_bytes": 29229
+    },
+    {
+      "source": "维基百科-Davis Ricardo",
+      "url": "https://en.wikipedia.org/wiki/David_Ricardo",
+      "type": "historical_record",
+      "size_bytes": 29229
+    },
+    {
+      "source": "Britannica-Davis Ricardo",
+      "url": "https://www.britannica.com/biography/David-Ricardo",
+      "type": "historical_record",
+      "size_bytes": 9909
+    }
+  ],
+  "corpus_stats": {
+    "传记_txt_bytes": 7241,
+    "引语_txt_bytes": 2573,
+    "后世评述_txt_bytes": 2782,
+    "全部语料_txt_bytes": 12596
+  },
+  "output_files": [
+    "METADATA.json",
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "confidence": "high",
+  "version": "1.0"
+}
