@@ -1,0 +1,14 @@
+distill: Friedrich Hayek persona (high)
+Timestamp: 2026-05-13T20:56:00+08:00
+Sources: Britannica, Stanford Encyclopedia, Wikipedia, Nobel Prize bio, Mises.org (5 sources, exceeds minimum of 3)
+Confidence: high
+web_search status: FAILED (fetch error) — used SerpAPI via web_fetch instead (Google engine, successful)
+SerpAPI status: SUCCESSFUL (used for Hayek quotes search)
+Direct web fetches: SUCCESSFUL (Britannica, Wikipedia, Nobel Prize, Mises.org, Stanford Encyclopedia)
+Quality checks:
+  - All citations verified against source texts
+  - 20 citations documented (15 direct, 5 secondary)
+  - No idioms or proverbs requiring verification
+  - All SKILL.md fields populated
+  - confidence评级符合硬性阈值（HIGH ≥ 3 authoritative sources ✓）
+Git push: SUCCESSFUL

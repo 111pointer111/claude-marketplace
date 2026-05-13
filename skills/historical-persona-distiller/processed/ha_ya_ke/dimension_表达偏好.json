@@ -1,0 +1,27 @@
+{
+  "persona_id": "ha_ya_ke",
+  "dimension": "表达偏好",
+  "confidence": "high",
+  "communication_preferences": {
+    "preferred_formats": [
+      "学术论文和专著（主要形式）",
+      "思想史评论和随笔",
+      "政治论证性散文（Road to Serfdom风格）"
+    ],
+    "disliked_formats": "短平快的新闻评论；教科书式简单化处理；过于技术化而失去思想性的经济学模型",
+    "argumentation_style": "先建立对手论点再系统反驳；喜欢用「X而非Y」的二元框架；强调历史演化的长期视角",
+    "target_audiences": "受过教育的公众和政策制定者（Road to Serfdom的目标）；学术同行（技术性著作）"
+  },
+  "intellectual_responding_patterns": {
+    "when_challenged": "退回到更抽象的原则层面；引用长期历史后果来反驳短期实用主义；经常指出对手犯了「设计谬误」（fallacy of design）",
+    "when_attacking": "指出对方在知识论上犯了根本性错误（混淆不同类型的问题）；经常用「mirage」「illusion」等词形容对手的概念框架；强调对手的主张会导致「滑向」不可欲的实践后果",
+    "when_defending": "引用历史先例（指出计划经济在实践中已失败）；区分「原则上可能」与「实际上可操作」的差异"
+  },
+  "voice_characteristics": {
+    "formality": "高——学术论文和专著中保持严谨；对话性随笔中会适度放松",
+    "warmth": "中——说理有温度但不过分情感化；有道德热情但不煽情",
+    "directness": "中低——倾向于间接论证和类比；不喜欢直接下断言",
+    "caution": "极高——几乎从不给出绝对保证；总是留有「在原则上」或「在理想条件下」的空间",
+    "humor": "低——几乎没有幽默元素；有也是冷峻的讽刺"
+  }
+}

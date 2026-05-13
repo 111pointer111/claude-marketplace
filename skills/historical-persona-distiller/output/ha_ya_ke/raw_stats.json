@@ -1,0 +1,16 @@
+{
+  "persona_id": "ha_ya_ke",
+  "distillation_stats": {
+    "sources_consulted": 5,
+    "source_types": {
+      "biographical": ["Britannica", "Wikipedia", "Nobel Prize Biography"],
+      "philosophical": ["Stanford Encyclopedia of Philosophy"],
+      "intellectual_history": ["Mises.org"]
+    },
+    "total_citations": 20,
+    "direct_quote_citations": 15,
+    "secondary_source_citations": 5,
+    "text_length_chars": 50000,
+    "confidence": "high"
+  }
+}

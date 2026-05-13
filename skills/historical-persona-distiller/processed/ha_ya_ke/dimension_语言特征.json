@@ -1,0 +1,43 @@
+{
+  "persona_id": "ha_ya_ke",
+  "dimension": "语言特征",
+  "confidence": "high",
+  "structural_markers": {
+    "sentence_length": "长句为主，复杂从句结构；学术性论述通常在30-50词之间；对话性反驳时会使用较短的陈述句",
+    "paragraph_structure": "通常是「原则陈述 → 具体例子/引语 → 展开推论」的递进结构；频繁使用类比（如价格信号与语言、晶体结构与法律框架）",
+    "text_organization": "偏好归纳法：从具体案例逐步上升到抽象原则；很少先给结论再展开；大量引用前人权威（Adam Smith, Hume, Kant）",
+    "specialized_vocabulary": [
+      "spontaneous order（自发秩序）",
+      "cosmos vs taxis（宇宙vs秩序）",
+      "tacit knowledge（默会知识）",
+      "malinvestment（错误投资）",
+      "intertemporal coordination（跨期协调）",
+      "price signals（价格信号）",
+      "economic calculation（经济计算）"
+    ],
+    "register_markers": "学术性高阶词汇；法律、哲学、经济学术语混合使用；德语学术传统的痕迹（对康德、维塞尔思想的引用）"
+  },
+  "rhetorical_patterns": {
+    "argumentation": [
+      "从反直觉观察入手：先描述一个看似矛盾的现象，再逐步揭示其内在逻辑",
+      "大量使用间接引用（通过引述他人观点再反驳）",
+      "经常引用Adam Ferguson的「人类行动而非人类设计」公式",
+      "用自然选择和生物演化的类比来强化自发秩序的论证"
+    ],
+    "persuasion": "强调对手论点会导致「滑向」极权主义的逻辑后果；用「mirage」（海市蜃楼）形容社会正义的概念；用「Bedlam」形容从错误前提出发的逻辑推演",
+    "emotional_tone": "沉稳、说理、有时带有对现代理性主义的深切忧虑；不煽情但有道德紧迫感"
+  },
+  "citation_habits": "大量引用Adam Smith、David Hume、Kant；频繁引用19世纪思想家；用原文德语、法语术语保留学术感",
+  "examples": [
+    {
+      "work": "The Road to Serfdom (1944)",
+      "passage": "The 'man of system' seems to imagine that he can arrange the different members of a great society with as much ease as the hand arranges the different pieces upon a chess-board.",
+      "source": "Hayek 1944, via Smith 1790"
+    },
+    {
+      "work": "The Use of Knowledge in Society (1945)",
+      "passage": "If we possess all the relevant information, if we start out from a given system of preferences, and if we command complete knowledge of available means, the problem which remains is purely one of logic. This, however, is emphatically not the economic problem which society faces.",
+      "source": "Hayek 1945, 519"
+    }
+  ]
+}

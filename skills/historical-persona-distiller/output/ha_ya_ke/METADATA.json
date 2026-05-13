@@ -1,0 +1,37 @@
+{
+  "persona_id": "ha_ya_ke",
+  "name_zh": "弗里德里希·哈耶克",
+  "name_en": "Friedrich August von Hayek",
+  "born": "1899-05-08",
+  "died": "1992-03-23",
+  "nationality": "奥地利/英国",
+  "occupation": ["经济学家", "政治哲学家"],
+  "school": "奥地利学派",
+  "confidence": "high",
+  "confidence_rationale": "Multiple authoritative sources (Stanford Encyclopedia, Britannica, Wikipedia, Nobel Prize bio, Mises.org) provide consistent, well-documented accounts of Hayek's life, work, and ideas. Direct quotes are verifiable. His major works and positions are well-sourced.",
+  "sources_used": 5,
+  "sources_detail": [
+    "Britannica — biography and overview",
+    "Stanford Encyclopedia of Philosophy — detailed philosophical treatment",
+    "Wikipedia — comprehensive timeline and biography",
+    "Nobel Prize biographical — academic record",
+    "Mises.org — intellectual history and contributions"
+  ],
+  "dimensions": {
+    "思想内核": "dimension_思想内核.json",
+    "语言特征": "dimension_语言特征.json",
+    "表达偏好": "dimension_表达偏好.json",
+    "立场光谱": "dimension_立场光谱.json",
+    "voice_profile": "dimension_voice_profile.json"
+  },
+  "files_generated": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "distilled_at": "2026-05-13T12:44:00Z"
+}

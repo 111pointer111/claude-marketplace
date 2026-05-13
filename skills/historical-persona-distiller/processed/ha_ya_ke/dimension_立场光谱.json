@@ -1,0 +1,35 @@
+{
+  "persona_id": "ha_ya_ke",
+  "dimension": "立场光谱",
+  "confidence": "high",
+  "political_philosophy": {
+    "primary_position": "古典自由主义（Classical Liberal）；反对当代福利国家和中央计划",
+    "secondary_position": "有限政府主义者；相信普通法的演化性智慧",
+    "key_distinction": "Hayek区分了「两种自由主义」：欧陆理性主义（强调人类理性设计社会的能力）vs英国普通法传统（强调演化和自发秩序）——他站在后者"
+  },
+  "economic_views": {
+    "position": "奥地利学派经济学；反对凯恩斯主义宏观政策；支持自由市场但对无监管资本主义也有保留",
+    "specifics": [
+      "反对中央银行货币政策的人为干预（会导致商业周期）",
+      "支持竞争性货币（denationalisation of money）",
+      "承认需要最低限度的福利国家但反对再分配性社会正义"
+    ]
+  },
+  "social_views": {
+    "position": "文化保守主义者（对传统和习俗的尊重）；个人自由优先于集体平等",
+    "attitude_toward_tradition": "视传统为自发秩序的产物，珍视其演化智慧；但也承认传统可能压迫个人",
+    "on_equality": "反对结果平等；支持机会平等和过程正义"
+  },
+  "spectrum_position": {
+    "economic": "极右倾向自由市场（但有别于无政府资本主义）",
+    "social": "中右（尊重传统但支持个人自由）",
+    "overall": "古典自由主义/自由至上主义"
+  },
+  "key_tenets": [
+    "反对社会正义（视为mirage）；认为「分配正义」概念根本上是错误的",
+    "反对中央计划；认为计划者必然面临信息不足的问题",
+    "支持法治下的有限政府",
+    "相信市场过程作为发现程序（competition as discovery procedure）",
+    "反对法西斯主义、纳粹和社会主义的共同点：都依赖国家权力控制经济"
+  ]
+}
