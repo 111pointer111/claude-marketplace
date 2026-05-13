@@ -1,0 +1,96 @@
+{
+  "persona_id": "kai_en_si",
+  "dimension": "思想内核",
+  "version": "1.0",
+  "confidence": "high",
+  "confidence_rationale": "凯恩斯是20世纪最有影响力的经济学家之一，文献极其丰富。Wikipedia、Britannica、 Wikiquote、IMF等权威来源交叉验证，核心论点有多源引用支撑。",
+  "core_themes": [
+    {
+      "id": "KT-01",
+      "theme": "有效需求决定就业水平",
+      "summary": "就业水平不是由劳动力市场的供求均衡决定的，而是由"有效需求"（总需求）决定的。有效需求不足时，经济会陷入失业均衡，且市场无法自动恢复。",
+      "primary_sources": [
+        "《就业、利息和货币通论》(1936) — 核心论点，系统论证有效需求决定就业",
+        "《经济学杂志》编辑期间(1911-)，早期研究就业与货币关系",
+        "《繁荣之道》(1933) — 首次提出乘数效应的应用"
+      ],
+      "quote": "In a state of unemployment and unused production capacity, one can enhance employment and total income only by first increasing expenditures for either consumption or investment. Without government intervention to increase expenditure, an economy can remain trapped in a low-employment equilibrium."
+    },
+    {
+      "id": "KT-02",
+      "theme": "政府干预的必要性",
+      "summary": "自由市场无法自动实现充分就业，因为价格和工资具有向下刚性（粘性）。政府应通过财政政策和货币政策积极干预，以增加总需求、减少失业。",
+      "primary_sources": [
+        "《通论》(1936) — 系统论证政府干预的理论基础",
+        "《货币改革论》(1923) — 早期反对金本位，主张国内政策自主权",
+        "《繁荣之道》(1928) — 'Let us be up and doing, using our idle resources to increase our wealth.'"
+      ],
+      "quote": "The political problem of mankind is to combine three things: economic efficiency, social justice and individual liberty."
+    },
+    {
+      "id": "KT-03",
+      "theme": "货币与金融的非中性",
+      "summary": "货币不是中性的——货币供给的变化会影响实际经济活动（产出、就业）。流动性偏好理论说明了人们为什么持有货币，以及货币利率如何影响投资。",
+      "primary_sources": [
+        "《货币论》(1930) — 货币理论的核心贡献，批评金本位的货币管理方式",
+        "《货币改革论》(1923) — 分析货币贬值对政府、农民和债务人的影响"
+      ],
+      "quote": "By a continuing process of inflation, governments can confiscate, secretly and unobserved, an important part of the wealth of their citizens. There is no subtler, no surer means of overturning the existing basis of society than to debauch the currency."
+    },
+    {
+      "id": "KT-04",
+      "theme": "长期预期与"动物精神"",
+      "summary": "经济决策不仅基于理性计算，还受到"动物精神"——非理性的乐观或悲观——的强烈影响。这解释了为什么市场可能长期偏离均衡。",
+      "primary_sources": [
+        "《通论》(1936) — 第12章引入动物精神概念",
+        "投资行为分析 — 'The social object of skilled investment should be to defeat the dark forces of time and ignorance which envelope our future.'"
+      ],
+      "quote": "Markets can remain irrational longer than you can remain solvent. Successful investing is anticipating the anticipations of others."
+    },
+    {
+      "id": "KT-05",
+      "theme": "对资本主义矛盾性的洞察",
+      "summary": "资本主义制度在道德上是矛盾的——它能高效配置资源，但在不平等积累和周期性的崩溃之间挣扎。凯恩斯既批判资本主义的缺陷，又认为"明智管理的资本主义"可能优于任何已知的替代制度。",
+      "primary_sources": [
+        "《自由放任的终结》(1926) — 对资本主义缺点的系统批判",
+        "《国家自给自足》(1933) — 'The decadent international but individualistic capitalism in the hands of which we found ourselves after the war is not a success. It is not intelligent. It is not beautiful. It is not just. It is not virtuous. And it doesn't deliver the goods.'"
+      ],
+      "quote": "Capitalism, wisely managed, can probably be made more efficient for attaining economic ends than any alternative system yet in sight, but... in itself it is in many ways extremely objectionable."
+    },
+    {
+      "id": "KT-06",
+      "theme": "反对自由贸易与金本位",
+      "summary": "凯恩斯早年支持自由贸易，但大萧条后转向贸易保护主义，反对金本位，认为这些制度限制了国内政策自主权，使国家被迫实施通缩政策。",
+      "primary_sources": [
+        "《货币改革论》(1923) — 'In truth, the gold standard is already a barbarous relic.'",
+        "致拉姆齐·麦克唐纳的信(1930) — 'I am no longer a free trader... in the old sense of the term'",
+        "《国家自给自足》(1933) — 批评自由贸易的理论基础（比较优势）"
+      ],
+      "quote": "If we restore the gold standard, are we to return also to the pre-war conceptions of bank-rate... In truth, the gold standard is already a barbarous relic."
+    },
+    {
+      "id": "KT-07",
+      "theme": "对一战后秩序的批判",
+      "summary": "凡尔赛和约对德国的严厉赔款条款不仅在道德上应受谴责，在经济上也会引发灾难。凯恩斯的预言后来被证明是准确的——魏玛共和国的恶性通货膨胀和随后的极权主义崛起。",
+      "primary_sources": [
+        "《和平的经济后果》(1919) — 对赔款政策的尖锐批判",
+        "致父亲书信 — 描述对欧洲"毁灭"的忧虑"
+      ],
+      "quote": "If we aim deliberately at the impoverishment of Central Europe, vengeance, I dare predict, will not limp. Nothing can then delay for very long that final war between the forces of Reaction and the despairing convulsions of Revolution."
+    },
+    {
+      "id": "KT-08",
+      "theme": "概率与不确定性",
+      "summary": "凯恩斯的哲学概率论认为，概率是从确定到不确定之间的连续统一体，而非简单的二值分布。这一思想影响了后来的决策理论。",
+      "primary_sources": [
+        "《概率论专著》(1921) — 哲学和数学基础",
+        "《通论》中的不确定性处理"
+      ],
+      "quote": "No knowledge of probabilities, less in degree than certainty, helps us to know what conclusions are true."
+    }
+  ],
+  "key_insight": "凯恩斯的核心洞察是：资本主义市场在没有政府干预的情况下，无法自动实现充分就业。有效需求（消费+投资）决定就业水平，而有效需求不足时，经济会陷入长期失业均衡。这一发现奠定了现代宏观经济学的理论基础。",
+  "influence_legacy": "凯恩斯的影响是深远的：他是"宏观经济学之父"，其思想成为"凯恩斯主义"的理论基础，影响了二战后几乎所有西方政府的经济政策（从罗斯福新政到2008年金融危机后的奥巴马刺激计划）。",
+  "related_philosophers": ["Alfred Marshall", "Malthus", "G.E. Moore", "William Ernest Johnson"],
+  "related_economists": ["Karl Marx", "Milton Friedman", "Hyman Minsky", "Post-Keynesians"]
+}

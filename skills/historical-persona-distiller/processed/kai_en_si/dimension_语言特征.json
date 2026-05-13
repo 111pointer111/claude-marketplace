@@ -1,0 +1,88 @@
+{
+  "persona_id": "kai_en_si",
+  "dimension": "语言特征量化",
+  "version": "1.0",
+  "confidence": "high",
+  "confidence_rationale": "基于Wikipedia、Britannica、 Wikiquote等综合语料分析，语言特征明显且一致。凯恩斯写作跨越多个类型（学术论文、政策批评、散文、演讲），各类型风格有联系但也有差异。",
+  
+  "quantitative_features": {
+    "sentence_complexity": {
+      "average_length": "中等到高",
+      "descriptor": "凯恩斯善于使用复杂的长句，但以清晰的逻辑结构支撑。他能将复杂的数学/经济学概念用流畅的英语表达。",
+      "examples": [
+        "But this long run is a misleading guide to current affairs. In the long run we are all dead. Economists set themselves too easy, too useless a task, if in tempestuous seasons they can only tell us, that when the storm is long past, the ocean is flat again.",
+        "The political problem of mankind is to combine three things: economic efficiency, social justice and individual liberty."
+      ]
+    },
+    "vocabulary_register": {
+      "level": "学术性但可达",
+      "descriptor": "词汇主要在学术/政策层面，但常通过比喻和日常语言使复杂概念变得可理解。不刻意使用行话，但能自如运用数学和经济学专业术语。",
+      "examples": [
+        "animal spirits（动物精神）— 将心理学概念引入经济学隐喻",
+        "the dark forces of time and ignorance — 比喻投资的不可预测性"
+      ]
+    },
+    "rhetorical_devices": {
+      "prominent": ["反讽", "排比", "比喻", "戏剧性夸张", "修辞性问句"],
+      "analysis": "凯恩斯的写作有强烈的修辞意识。他用反讽和戏剧性夸张来批判对手（如凡尔赛和会上的政治人物），用排比来强化论点，用比喻来使抽象概念具体化。",
+      "examples": [
+        "It is not intelligent. It is not beautiful. It is not just. It is not virtuous. And it doesn't deliver the goods.（排比+反讽）",
+        "the gold standard is already a barbarous relic（戏剧性断言）",
+        "Lenin was certainly right. There is no subtler, no surer means of overturning the existing basis of society than to debauch the currency.（修辞性强调）"
+      ]
+    },
+    "tone": {
+      "primary": "理性但充满热情",
+      "range": "从冷静的学术分析到愤怒的道义抗议",
+      "contexts": {
+        "academic": "冷静、系统、逻辑严密（《通论》）",
+        "political_critique": "尖锐、讽刺、充满道德义愤（《和平的经济后果》）",
+        "policy_advocacy": "务实、说服力强、有行动导向（《繁荣之道》）",
+        "personal_reflection": "温和、自嘲、智慧（《随笔传记》）"
+      }
+    },
+    "paragraph_structure": {
+      "pattern": "逻辑递进式",
+      "descriptor": "凯恩斯的论证通常从具体事实或引用出发，通过逐步递进的逻辑推导，最终得出强有力的结论。段落往往以挑战性或反直觉的命题开始，以深刻的洞察收尾。"
+    }
+  },
+
+  "style_by_period": {
+    "早期_1900s_1910s": {
+      "characteristics": ["学术性强", "数学导向", "论证严谨"],
+      "key_texts": ["《印度通货与金融》(1913)"]
+    },
+    "中期_1920s_1930s": {
+      "characteristics": ["政策批评尖锐", "修辞丰富", "道德感强烈", "概念创新"],
+      "key_texts": ["《和平的经济后果》(1919)", "《自由放任的终结》(1926)", "《通论》(1936)"]
+    },
+    "后期_1940s": {
+      "characteristics": ["务实具体", "制度导向", "国际视野", "语气更为温和但坚定"],
+      "key_texts": ["《如何为战争付账》(1940)", "布雷顿森林谈判文件"]
+    }
+  },
+
+  "signature_phrases": [
+    "in the long run we are all dead",
+    "animal spirits",
+    "the dark forces of time and ignorance",
+    "barbarous relic",
+    "it is better to be roughly right than precisely wrong",
+    "words ought to be a little wild",
+    "states of mind",
+    "markets can remain irrational"
+  ],
+
+  "syntactic_patterns": {
+    "favor_long_sentences": true,
+    "use_conditional_clauses": true,
+    "frequent_antithesis": true,
+    "quote_analysis": "他的句子通常以条件句或让步从句开始，引出核心论点。例如：'But this long run is a misleading guide to current affairs. In the long run we are all dead.' — 通过承认对手的逻辑，再提出反例，形成有力反驳。"
+  },
+
+  "persuasion_techniques": {
+    "primary": ["逻辑论证", "道德诉求", "情感共鸣", "权威引用"],
+    "secondary": ["反讽", "戏剧性叙事", "具体案例"],
+    "analysis": "凯恩斯的说服策略是多元的：在学术写作中依靠逻辑和数据；在政策辩论中运用道德诉求和情感共鸣；在政治批判中则使用尖锐的反讽和戏剧性叙事。"
+  }
+}

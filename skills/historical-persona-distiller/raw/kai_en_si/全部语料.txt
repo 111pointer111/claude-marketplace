@@ -1,0 +1,144 @@
+# 约翰·梅纳德·凯恩斯 John Maynard Keynes
+# 全部语料合并文件
+# 来源: Britannica, Wikipedia, Wikiquote
+# 合并时间: 2026-05-13
+
+---
+
+## 传记核心 (Britannica)
+
+John Maynard Keynes (born June 5, 1883, Cambridge, Cambridgeshire, England—died April 21, 1946, Firle, Sussex) was an English economist, journalist, and financier best known for his economic theories (Keynesian economics) on the causes of prolonged unemployment. His most important work, The General Theory of Employment, Interest and Money (1935–36), advocated a remedy for economic recession based on a government-sponsored policy of full employment.
+
+Keynes was born into a moderately prosperous family. His father, John Neville Keynes, was an economist and later an academic administrator at King's College, Cambridge. His mother was one of the first female graduates of the same university.
+
+At Cambridge he was influenced by economist Alfred Marshall, who prompted Keynes to shift his academic interests from mathematics and the classics to politics and economics. Cambridge also introduced Keynes to the Bloomsbury group.
+
+After earning a B.A. in 1905 and an M.A. in 1909, Keynes became a civil servant, taking a job with the India Office in Whitehall. His experience there formed the basis of his first major work, Indian Currency and Finance (1913).
+
+With the onset of World War I, Keynes returned to government employment, this time in the Treasury. Accompanying Prime Minister David Lloyd George to France as an economic adviser at Versailles, Keynes was troubled by the political chicanery and burdensome policies to be imposed upon Germany. He resigned his post, depressed, by the impending "devastation of Europe" (letter to his father).
+
+In two summer months he composed The Economic Consequences of the Peace (1919). The book contained blistering sketches of Woodrow Wilson, Georges Clemenceau, and Lloyd George.
+
+In 1925 he opposed Britain's return to the gold standard at the prewar dollar-to-pound ratio of $4.86. He wrote The Economic Consequences of Mr. Churchill and continued to argue against the gold standard until Britain finally abandoned it in 1931.
+
+Keynes's magnum opus, The General Theory of Employment, Interest and Money, was published in 1936. It challenged the earlier neoclassical economic paradigm, which had held that provided it was unfettered by government interference, the market would naturally establish full employment equilibrium.
+
+Keynes argued that demand is what creates supply and not the other way around. Without government intervention to increase expenditure, an economy can remain trapped in a low-employment equilibrium.
+
+In 1937 he suffered a severe heart attack. In 1944 he played a prominent role at the Bretton Woods Conference. He died the following year.
+
+---
+
+## 生平节点 (Wikipedia)
+
+### 早年 1883-1904
+Born in Cambridge to John Neville Keynes (economist) and Florence Ada Keynes (social reformer). Educated at Eton, then King's College Cambridge (mathematics). Influenced by Alfred Marshall who persuaded him to shift to economics. Active in Cambridge Apostles society.
+
+### 职业生涯早期 1906-1914
+1906: Civil Service clerk at India Office. 1908: Resigned to return to Cambridge, working on probability theory. 1909: Became fellow of King's College. 1911: Made editor of The Economic Journal. 1913: Published "Indian Currency and Finance."
+
+### 一战时期 1914-1918
+1915: Took position at Treasury. 1917: Appointed Companion of the Order of the Bath for wartime work. 1919: Appointed financial representative at Versailles — resigned in protest.
+
+### 《和平的经济后果》1919
+Published The Economic Consequences of the Peace in December 1919.
+
+### 1920年代 1920-1929
+1921: Published "A Treatise on Probability." 1923: Published "A Tract on Monetary Reform" — argued against gold standard. 1925: Married Lydia Lopokova. 1926: Published "The End of Laissez-faire." 1928: Published "The Means to Prosperity."
+
+### 大萧条与《通论》1929-1936
+1930: Published "A Treatise on Money." 1933: Published "The Means to Prosperity" — early mention of multiplier effect. 1934: Met with Franklin D. Roosevelt. 1936: Published "The General Theory."
+
+### 晚年 1937-1946
+1937: Severe heart attack. 1940: Published "How to Pay for the War." 1942: Created Baron Keynes. 1944: Led British delegation at Bretton Woods. 1945: Negotiated loan from United States. 1946: Died April 21.
+
+---
+
+## 经典引语 (Wikiquote & 其他来源)
+
+"But this long run is a misleading guide to current affairs. In the long run we are all dead. Economists set themselves too easy, too useless a task, if in tempestuous seasons they can only tell us, that when the storm is long past, the ocean is flat again."
+— A Tract on Monetary Reform (1923), Ch. 3, p. 80
+
+"The political problem of mankind is to combine three things: economic efficiency, social justice and individual liberty."
+— 引自 Goodreads
+
+"In economics you cannot convict your opponent of error; you can only convince him of it."
+— General Theory drafts (1934), Collected Writings vol. XIII
+
+"It is better to be roughly right than precisely wrong."
+— 广泛引用
+
+"Words ought to be a little wild, for they are the assault of thoughts on the unthinking."
+— "National Self-Sufficiency", New Statesman and Nation (15 July 1933)
+
+"The social object of skilled investment should be to defeat the dark forces of time and ignorance which envelope our future."
+— 广泛引用
+
+"When the facts change, I change my mind. What do you do?"
+— 广泛引用
+
+"Markets can remain irrational longer than you can remain solvent."
+— 广泛引用
+
+"Successful investing is anticipating the anticipations of others."
+— 广泛引用
+
+"I cannot leave this subject as though its just treatment wholly depended either on our pledges or on economic facts. The policy of reducing Germany to servitude for a generation, of degrading the lives of millions of human beings, and of depriving a whole nation of happiness should be abhorrent and detestable, – abhorrent and detestable, even if it was possible, even if it enriched ourselves, even if it did not sow the decay of the whole civilized life of Europe."
+— The Economic Consequences of the Peace (1919)
+
+"If we aim deliberately at the impoverishment of Central Europe, vengeance, I dare predict, will not limp. Nothing can then delay for very long that final war between the forces of Reaction and the despairing convulsions of Revolution, before which the horrors of the late German war will fade into nothing."
+— The Economic Consequences of the Peace (1919)
+
+"It is not true that individuals possess a prescriptive 'natural liberty' in their economic activities. There is no 'compact' conferring perpetual rights on those who Have or on those who Acquire."
+— The End of Laissez-faire (1926)
+
+"It is not a correct deduction from the Principles of Economics that enlightened self-interest always operates in the public interest. Nor is it true that self-interest generally is enlightened."
+— The End of Laissez-faire (1926)
+
+"Capitalism, wisely managed, can probably be made more efficient for attaining economic ends than any alternative system yet in sight, but... in itself it is in many ways extremely objectionable."
+— The End of Laissez-faire (1926)
+
+"The decadent international but individualistic capitalism in the hands of which we found ourselves after the war is not a success. It is not intelligent. It is not beautiful. It is not just. It is not virtuous. And it doesn't deliver the goods. In short we dislike it, and we are beginning to despise it. But when we wonder what to put in its place, we are extremely perplexed."
+— "National Self-Sufficiency" (1933)
+
+"Lenin is said to have declared that the best way to destroy the capitalist system was to debauch the currency. By a continuing process of inflation, governments can confiscate, secretly and unobserved, an important part of the wealth of their citizens... There is no subtler, no surer means of overturning the existing basis of society than to debauch the currency."
+— The Economic Consequences of the Peace (1919)
+
+"Marxian Socialism must always remain a portent to the historians of Opinion—how a doctrine so illogical and so dull can have exercised so powerful and enduring an influence over the minds of men."
+— Laissez-faire and Communism (1926)
+
+"Communism is not a reaction against the failure of the nineteenth century to organize optimal economic output. It is a reaction against its comparative success."
+— "Stalin-Wells Talk" (1934)
+
+"For Government borrowing of one kind or another is nature's remedy, so to speak, for preventing business losses from being, in so severe as slump as the present one, so great as to bring production altogether to a standstill."
+— 引自 Cassidy 2011
+
+"Let us be up and doing, using our idle resources to increase our wealth. With men and plants unemployed, it is ridiculous to say that we cannot afford these new developments. It is precisely with these plants and these men that we shall afford them."
+— 1928, 引自 Cassidy 2011
+
+"I find myself more and more relying for a solution of our problems on the invisible hand which I tried to eject from economic thinking twenty years ago."
+— Just before his death in 1946, told to Henry Clay
+
+"I find Economics increasingly satisfactory, and I think I am rather good at it. I want to manage a railway or organise a Bank."
+— Letter to Lytton Strachey
+
+"Nothing mattered except states of mind, chiefly our own."
+— On the Cambridge Apostles, in Essays in Biography (1933)
+
+"The glory of the nation you love is a desirable end, — but generally to be obtained at your neighbor's expense."
+— The Economic Consequences of the Peace, Ch. III, p. 33
+
+"The immense accumulations of fixed capital which, to the great benefit of mankind, were built up during the half century before the war, could never have come about in a Society where wealth was divided equitably."
+— The Economic Consequences of the Peace, Ch. II, Section III, p. 19
+
+"Perhaps it is historically true that no order of society ever perishes save by its own hand."
+— The Economic Consequences of the Peace, Ch. VI, p. 238
+
+"Perhaps a day might come when there would be at last be enough to go round, and when posterity could enter into the enjoyment of our labors."
+— The Economic Consequences of the Peace, Ch. II
+
+"Men will not always die quietly."
+— The Economic Consequences of the Peace, Ch. VI, p. 228
+
+"The forces of the nineteenth century have run their course and are exhausted."
+— The Economic Consequences of the Peace, Ch. VII, p. 254

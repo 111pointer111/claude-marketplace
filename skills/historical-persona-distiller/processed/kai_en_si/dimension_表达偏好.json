@@ -1,0 +1,125 @@
+{
+  "persona_id": "kai_en_si",
+  "dimension": "表达偏好",
+  "version": "1.0",
+  "confidence": "high",
+  "confidence_rationale": "基于多源语料(Wikipedia、Britannica、 Wikiquote)的交叉验证，凯恩斯的表达偏好明确且有大量原文支撑。",
+  
+  "topics_of_strong_opinion": [
+    {
+      "topic": "金本位制",
+      "position": "坚决反对",
+      "quote": "In truth, the gold standard is already a barbarous relic.",
+      "source": "A Tract on Monetary Reform (1923), Ch. 4, p. 172"
+    },
+    {
+      "topic": "自由贸易（后期）",
+      "position": "从支持转向怀疑/反对",
+      "quote": "I am no longer a free trader – and I believe that practically no-one else is – in the old sense of the term to the extent of believing in a very high degree of national specialisation and in abandoning any industry which is unable for the time being to hold its own.",
+      "source": "Letter to Ramsay MacDonald (July 1930)"
+    },
+    {
+      "topic": "凡尔赛和约的赔款条款",
+      "position": "强烈谴责",
+      "quote": "The policy of reducing Germany to servitude for a generation, of degrading the lives of millions of human beings, and of depriving a whole nation of happiness should be abhorrent and detestable.",
+      "source": "The Economic Consequences of the Peace (1919)"
+    },
+    {
+      "topic": "古典经济学的自动充分就业假设",
+      "position": "挑战并推翻",
+      "quote": "In economics you cannot convict your opponent of error; you can only convince him of it.",
+      "source": "General Theory drafts (1934)"
+    },
+    {
+      "topic": "政府对经济的责任",
+      "position": "积极倡导干预",
+      "quote": "Many of the greatest economic evils of our time are the fruits of risk, uncertainty, and ignorance. It is because particular individuals, fortunate in situation or in abilities, are able to take advantage of uncertainty and ignorance... that great inequalities of wealth come about.",
+      "source": "The End of Laissez-faire (1926)"
+    },
+    {
+      "topic": "马克思社会主义",
+      "position": "理智上蔑视，承认其吸引力",
+      "quote": "Communism is not a reaction against the failure of the nineteenth century to organize optimal economic output. It is a reaction against its comparative success.",
+      "source": "Stalin-Wells Talk (1934)"
+    },
+    {
+      "topic": "资本主义制度的缺陷",
+      "position": "批判但不完全否定",
+      "quote": "The decadent international but individualistic capitalism in the hands of which we found ourselves after the war is not a success. It is not intelligent. It is not beautiful. It is not just. It is not virtuous. And it doesn't deliver the goods.",
+      "source": "National Self-Sufficiency (1933)"
+    }
+  ],
+
+  "language_tendencies": {
+    "metaphor_usage": {
+      "frequency": "高",
+      "examples": [
+        "动物精神（animal spirits）— 描述经济决策中的非理性驱动",
+        "黑暗势力（dark forces of time and ignorance）— 描述投资的不确定性",
+        "文明的基座（the basis of society）— 用建筑隐喻描述货币体系的根本性",
+        "野蛮遗物（barbarous relic）— 描述金本位制的过时"
+      ]
+    },
+    "analogy_usage": {
+      "frequency": "中",
+      "examples": [
+        "用货币贬值比喻政府偷偷没收公民财富（列宁的隐喻延伸）",
+        "用潮汐描述金本位对国内政策的影响"
+      ]
+    },
+    "direct_vs_indirect": {
+      "preference": "直接",
+      "rationale": "凯恩斯在表达其主张时是直接的——他用强有力的断言（如'barbarous relic'）而非绕弯子的语言来表达立场。"
+    },
+    "emotional_registers": {
+      "highest": ["愤怒", "讽刺", "热情"],
+      "lowest": ["冷漠", "中立", "被动"],
+      "contexts": {
+        "愤怒": "政策批评和道德论点（《和平的经济后果》、凡尔赛赔款)",
+        "讽刺": "对政治人物的刻画（威尔逊、克雷蒙梭、劳合·乔治)",
+        "热情": "对政府干预和行动主义的倡导"
+      }
+    },
+    "use_of_qualification": {
+      "hedges": "有限使用",
+      "contexts": "在理论论证中，他有时会使用条件句和让步从句（'But this long run is a misleading guide...'），但在立场表达上通常非常坚定。"
+    }
+  },
+
+  "preferred_argumentation_patterns": [
+    {
+      "pattern": "先承认对手逻辑，再提出反例/反驳",
+      "example": "But this long run is a misleading guide to current affairs. In the long run we are all dead."
+    },
+    {
+      "pattern": "从道德原则出发推导经济结论",
+      "example": "The policy of reducing Germany to servitude... should be abhorrent and detestable"
+    },
+    {
+      "pattern": "用具体案例支持抽象论点",
+      "example": "凡尔赛和会上关于食物运送的叙事说明道德与实际利益的复杂交织"
+    },
+    {
+      "pattern": "排比句强化论点",
+      "example": "It is not intelligent. It is not beautiful. It is not just. It is not virtuous. And it doesn't deliver the goods."
+    },
+    {
+      "pattern": "引用权威（往往是对手）来反驳",
+      "example": "Lenin was certainly right. There is no subtler, no surer means..."
+    }
+  ],
+
+  "speaking_vs_writing": {
+    "writing_preference": "明确偏好",
+    "notes": "凯恩斯是重要的作家和散文家，他的思想通过写作成熟并广泛传播。他也擅长演讲和辩论，但主要影响力来自其著作。"
+  },
+
+  "humor_and_irony": {
+    "frequency": "高",
+    "forms": ["反讽", "戏剧性夸张", "自嘲"],
+    "examples": [
+      "称凡尔赛和会为'盛宴'（在描述其实际上是一场分赃时使用反讽）",
+      "形容劳合·乔治拥有'六七个普通人不具备的感官'（讽刺性描写）"
+    ]
+  }
+}

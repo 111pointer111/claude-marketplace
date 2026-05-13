@@ -1,0 +1,41 @@
+# John Maynard Keynes - Wikipedia 传记摘要
+# 来源: https://en.wikipedia.org/wiki/John_Maynard_Keynes
+# 抓取时间: 2026-05-13
+
+John Maynard Keynes, 1st Baron Keynes (5 June 1883 – 21 April 1946), was an English economist whose writings are considered the basis for the school of thought known as Keynesian economics, as well as its various offshoots. Originally trained in mathematics, he built on and refined earlier work on the causes of business cycles. His ideas, further developed after his death as New Keynesianism, are seen as foundational to mainstream macroeconomics. He has been referred to as the "father of macroeconomics" and is considered one of the most influential economists of the 20th century.
+
+## 生平关键节点
+
+### 早年 (1883-1904)
+Born in Cambridge to John Neville Keynes (economist) and Florence Ada Keynes (social reformer). Educated at Eton, then King's College Cambridge (mathematics). Influenced by Alfred Marshall who persuaded him to shift to economics. Active in Cambridge Apostles society and University Pitt Club.
+
+### 职业生涯早期 (1906-1914)
+1906: Civil Service clerk at India Office. 1908: Resigned to return to Cambridge, working on probability theory. 1909: Became fellow of King's College. 1911: Made editor of The Economic Journal. 1913: Published first book "Indian Currency and Finance." Appointed to Royal Commission on Indian Currency and Finance.
+
+### 一战时期 (1914-1918)
+1915: Took position at Treasury. 1916: Applied for conscientious objector status (while continuing government work). 1917: Appointed Companion of the Order of the Bath for wartime work. 1919: Appointed financial representative for Treasury at Versailles peace conference — resigned in protest over the treaty terms.
+
+### 《和平的经济后果》(1919)
+Published The Economic Consequences of the Peace in December 1919. The book contained blistering sketches of Woodrow Wilson, Georges Clemenceau, and David Lloyd George. Analysis showed the stringent reparations would be unlikely to ever be paid.
+
+### 1920年代 (1920-1929)
+1921: Published "A Treatise on Probability." 1922: Advocated reduction of German reparations with "A Revision of the Treaty." 1923: Published "A Tract on Monetary Reform" — argued for stability of domestic prices, against deflation, criticized the gold standard. 1924: Wrote obituary for Alfred Marshall (called "the most brilliant life of a man of science I have ever read" by Schumpeter). 1925: Opposed Britain's return to gold standard; wrote "The Economic Consequences of Mr. Churchill." Married Lydia Lopokova (Russian ballerina). 1926: Published "The End of Laissez-faire." 1928: Published "The Means to Prosperity."
+
+### 大萧条与《通论》(1929-1936)
+1930: Published "A Treatise on Money" (two volumes). Deeply critical of British government's austerity during the Great Depression. 1933: Published "The Means to Prosperity" — contained early mention of multiplier effect. Turned definitively protectionist, criticized free trade and comparative advantage theory. 1934: Met with Franklin D. Roosevelt. 1936: Published "The General Theory of Employment, Interest and Money" — revolutionized macroeconomics, challenged neoclassical full employment equilibrium, introduced aggregate demand concept, advocated government spending for full employment.
+
+### 晚年与逝世 (1937-1946)
+1937: Suffered severe heart attack. 1939: Returned to teaching at Cambridge (not fully recovered). 1940: Published "How to Pay for the War" — advocated war finance through taxation and compulsory saving. 1942: Created Baron Keynes, of Tilton, took seat in House of Lords on Liberal Party benches. 1944: Led British delegation at Bretton Woods Conference (overshadowed by US on key points). 1945: Negotiated multibillion-dollar loan from United States. 1946: Died April 21 in Tilton, Sussex.
+
+## 重要理论贡献
+- 凯恩斯革命：挑战新古典经济学的充分就业均衡
+- 有效需求理论：总需求决定整体经济活动水平
+- 流动性偏好：货币需求理论
+- 乘数效应：政府支出对就业和收入的放大作用
+- 价格粘性：工资和价格不易下调导致市场无法自动出清
+- 国家干预：财政政策和货币政策以应对经济衰退
+
+## 历史评价
+Time杂志(1999)："他那认为政府应该花它们没有的钱的激进想法可能拯救了资本主义"
+《经济学人》："英国最著名的20世纪经济学家"
+被视为"宏观经济之父"
