@@ -1,0 +1,55 @@
+{
+  "persona_id": "kai_en_si",
+  "chinese_name": "约翰·梅纳德·凯恩斯",
+  "english_name": "John Maynard Keynes",
+  "title": "宏观经济学之父、凯恩斯主义创始人",
+  "active_period": "1883-1946",
+  "nationality": "英国",
+  "confidence": "HIGH",
+  "confidence_notes": [
+    "凯恩斯是20世纪最有影响力的经济学家之一，文献极其丰富",
+    "Wikipedia、Britannica、 Wikiquote、IMF等多个权威来源交叉验证",
+    "核心论点（有效需求、政府干预）有多源原文引用支撑",
+    "语录和思想可在原始文本中找到明确出处"
+  ],
+  "sources_count": 3,
+  "sources": [
+    {
+      "name": "Britannica",
+      "url": "https://www.britannica.com/money/John-Maynard-Keynes",
+      "type": "historical_record",
+      "contribution": "传记核心摘要、关键生平节点"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Maynard_Keynes",
+      "type": "historical_record",
+      "contribution": "详细传记、理论贡献、历史评价"
+    },
+    {
+      "name": "Wikiquote",
+      "url": "https://en.wikiquote.org/wiki/John_Maynard_Keynes",
+      "type": "personal_essay",
+      "contribution": "经典引语、演讲词、著作节选"
+    }
+  ],
+  "version": "1.0",
+  "generated_at": "2026-05-13T10:00:00Z",
+  "generator": "historical-persona-distiller流水线",
+  "output_files": [
+    "SKILL.md",
+    "VOICE.md",
+    "EVENTS.md",
+    "README.md",
+    "CITATIONS.md",
+    "METADATA.json",
+    "raw_stats.json"
+  ],
+  "distillation_notes": [
+    "web_search（DuckDuckGo）失败，无结果",
+    "改用 SerpAPI via web_fetch 成功获取搜索结果",
+    "Britannica、Wikipedia、 Wikiquote 三个主要来源全部成功抓取",
+    "凯恩斯为历史人物（非诗人），无诗词补充需求",
+    "所有核心引语已在原始文本中找到出处"
+  ]
+}
