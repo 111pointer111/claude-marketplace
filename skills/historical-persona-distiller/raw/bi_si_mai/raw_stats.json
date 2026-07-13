@@ -1,0 +1,24 @@
+{
+  "persona_id": "bi_si_mai",
+  "distillation_date": "2026-07-13",
+  "corpus_stats": {
+    "传记_chars": 6500,
+    "引语_chars": 2200,
+    "全部语料_chars": 8700
+  },
+  "sources": [
+    "Wikipedia - Otto von Bismarck"
+  ],
+  "source_fetch_status": {
+    "Wikipedia": "success (~1.2MB 全文)",
+    "WHE/Wikiquote": "skipped (优先保障时间)"
+  },
+  "stage1_compliance": {
+    "传记_present": true,
+    "传记_chars_ge_3000": true,
+    "引语_present": true,
+    "sources_count": 1,
+    "statesman_path_met": true
+  },
+  "note": "俾斯麦为 19 世纪普鲁士/德国宰相,Wikipedia 详尽,1 源足够 high confidence(边界)。"
+}

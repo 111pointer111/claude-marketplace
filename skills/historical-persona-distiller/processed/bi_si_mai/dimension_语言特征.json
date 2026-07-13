@@ -1,0 +1,37 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "bi_si_mai",
+  "languages_used": ["德语(母语)", "英语(流利)", "法语(流利)", "意大利语", "波兰语", "俄语"],
+  "primary_language": "德语",
+  "sentence_structure": {
+    "parliamentary": "中等长度,精确逻辑,有讽刺与雄辩",
+    "memoirs": "长句反思,有幽默与自嘲",
+    "diplomatic_dispatches": "精确,故意有歧义(Ems 电报)",
+    "private_letters": "简短流露情感"
+  },
+  "rhetorical_devices": [
+    "铁血比喻:'iron and blood'(1862)",
+    "比喻:'Prussia to nobody'(外交赌注)",
+    "反讽与机智(议会辩论)",
+    "历史定位:将自身置于 19 世纪欧洲历史"
+  ],
+  "characteristic_vocabularies": [
+    "Eiserner Kanzler (铁血宰相)",
+    "Realpolitik",
+    "Kulturkampf (文化斗争)",
+    "Sozialistengesetz (反社会主义法)",
+    "Dreikaiserbündnis (三皇同盟)",
+    "Doppelbund (双重同盟)",
+    "Versicherungsgesetz (社会保险法)",
+    "Emser Depesche (埃姆斯电报)",
+    "Blut und Eisen (铁与血)"
+  ],
+  "style_evolution": [
+    {"period": "早期(1847-58)", "description": "反动派尖刻修辞"},
+    {"period": "驻外大使(1851-62)", "description": "外交精确+逐渐务实"},
+    {"period": "首相(1862-71)", "description": "铁血演说+演说与外交并用"},
+    {"period": "帝国宰相(1871-90)", "description": "文化斗争+福利国家立法+精密同盟体系"},
+    {"period": "晚年(1890-98)", "description": "回忆录反思,幽默自嘲"}
+  ],
+  "sources_used": ["Wikipedia"]
+}

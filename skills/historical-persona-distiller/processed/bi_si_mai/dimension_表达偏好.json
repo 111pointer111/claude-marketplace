@@ -1,0 +1,26 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "bi_si_mai",
+  "communication_style": {
+    "preferred_forms": [
+      "议会演说(雄辩+讽刺)",
+      "外交照会(精确故意歧义)",
+      "回忆录(反思+幽默)",
+      "私人书信(情感流露)"
+    ],
+    "argumentation_patterns": [
+      "现实政治论证:'力量与时机'",
+      "历史定位:'我已击败所有反对者'",
+      "反讽机智(议会辩论)",
+      "Ems 电报式'故意歧义'外交"
+    ]
+  },
+  "audience_awareness": {
+    "to_parliament": "雄辩讽刺+反议会立场",
+    "to_diplomats": "精确故意歧义",
+    "to_workers": "福利国家安抚+法律压制",
+    "to_catholics": "Kulturkampf 后转向中央党联盟",
+    "to_historians_late": "回忆录反思"
+  },
+  "sources_used": ["Wikipedia"]
+}

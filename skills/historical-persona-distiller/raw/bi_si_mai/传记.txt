@@ -1,0 +1,166 @@
+# 俾斯麦 - 传记
+
+> 来源: Wikipedia (https://en.wikipedia.org/wiki/Otto_von_Bismarck)
+> 抓取日期: 2026-07-13
+
+---
+
+## 基本信息
+
+**全名:** Otto Eduard Leopold von Bismarck
+**生卒:** 1815 年 4 月 1 日 (Schönhausen) — 1898 年 7 月 30 日 (Friedrichsruh),享年 83 岁
+**称号:** "铁血宰相"(*Eiserner Kanzler*)
+**职务:** 普鲁士首相(1862-1890)、德意志帝国宰相(1871-1890)、外交大臣(1862-1890)
+
+## 一、家世与早年
+
+生于 Schönhausen(柏林以西的普鲁士萨克森容克庄园)。父亲 Karl Wilhelm Ferdinand von Bismarck 是士瓦本裔容克地主,曾任普鲁士军官。母亲 Wilhelmine Luise Mencken 是柏林高级政府官员之女,受过良好教育。
+
+1816 年全家迁往 Pomerania 的 Kniephof 庄园。Bismarck 在田园环境中长大。会英语、法语、意大利语、波兰语、俄语。
+
+## 二、教育
+
+- Plamann 小学 + 柏林 Friedrich-Wilhelm 与 Graues Kloster 中学
+- 1832-1833 哥廷根大学法律(Corps Hannovera)
+- 1833-1835 柏林大学
+- 1838 服役期间在 Greifswald 大学学农学
+- 哥廷根与美国学生 John Lothrop Motley 友谊深厚(后者在小说中形容 Bismarck "reckless and dashing eccentric")
+
+## 三、早年事业与婚姻
+
+立志成为外交官,但从律师起步。1838 短期服役任普鲁士陆军 Landwehr 预备役军官。母亲去世后回 Schönhausen 经营庄园。
+
+约 30 岁时与 Marie von Thadden-Trieglaff 深厚友谊。她去世一月后,Bismarck 求婚 Marie 的表妹 **Johanna von Puttkamer**。1847-07-28 在 Alt-Kolziglow 结婚,生 3 子:Marie(1847)、Herbert(1849)、Wilhelm(1852)。
+
+## 四、早年政治生涯 (1847-1862)
+
+### 1847 普鲁士青年政治家
+
+被选为新成立的普鲁士立法机构 *Vereinigter Landtag* 代表。获"保皇与反动政治家,以尖刻修辞著称"声誉,公开主张君主神权论。Gerlach 兄弟(克鲁采报派)安排其参选。
+
+1848 革命期间试图组织庄园农民军进军柏林(被劝阻);赴柏林穿便衣;试图说服 Augusta 王妃立其子 Frederick William 为普鲁士国王(Augusta 厌恶 Bismarck)。
+
+1849 当选 *Landtag*,反对德国统一,认为普鲁士会丧失独立。1850 Olmütz 协定后普鲁士受奥地利羞辱。
+
+### 1851-1858 法兰克福大使
+
+Frederick William IV 任命 Bismarck 为普鲁士驻德意志邦联议会大使。8 年间他从反动转向务实,开始接受德国统一(但保守派必须主导以"避免被超越")。
+
+### 1859-1862 俄、法大使
+
+1857 Frederick William IV 中风,其兄 Wilhelm 任摄政。摄政先后派 Bismarck 任驻俄、驻法大使。Bismarck 在圣彼得堡会见未来的对手俄国 Prince Gorchakov。
+
+1862 法国会见 Napoleon III,英国会见 Palmerston、Russell、Disraeli。
+
+摄政同时任命 **Helmuth von Moltke**(参谋总长)与 **Albrecht von Roon**(陆军大臣)。"未来 12 年,Bismarck、Moltke、Roon 改造了普鲁士。"
+
+## 五、首相与宪法危机 (1862)
+
+Frederick William IV 1861 去世,Prince Wilhelm 称 Wilhelm I。1862 议会拒绝批准陆军重组资金。**1862-09-23** Wilhelm 任 Bismarck 为首相兼外交大臣。
+
+Bismarck 主张因宪法未规定立法机关不批准预算的应对方案,存在"法律漏洞"可沿用上年预算。因此税收持续 4 年。冲突加剧,议会多次要求解职,但国王支持他。
+
+### 铁血演说 (1862-09-30)
+
+1862-09-30,Bismarck 在普鲁士众议院预算委员会发表著名演说:
+
+> "Prussia must concentrate and maintain its power for the favorable moment which has already slipped by several times. Prussia's boundaries according to the Vienna treaties are not favorable to a healthy state life. The great questions of the time will not be resolved by speeches and majority decisions – that was the great mistake of 1848 and 1849 – but by iron and blood."
+
+> 中文: "普鲁士必须聚集并保持力量,等待已经错过数次的良机。维也纳条约规定的普鲁士疆界不利于健康的国家生活。当代重大问题不能由演说和多数决议解决——那是 1848-49 年的重大错误——而要由铁与血解决。"
+
+## 六、德国统一的三场战争
+
+### 丹麦战争 (1864)
+1863-11 丹麦国王 Frederick VII 去世后,Bismarck 联合奥地利发出最后通牒。丹麦拒绝后爆发第二次 Schleswig 战争,丹麦放弃对 Schleswig 与 Holstein 的主张。**加斯坦因公约(1865-08-20)**:普鲁士获 Schleswig,奥地利获 Holstein。
+
+### 普奥战争 (1866)
+Bismarck 利用奥地利违反加斯坦因公约为开战借口。派普鲁士军队占领 Holstein,迫使奥地利求助,引发普奥战争。Bismarck 与意大利秘密结盟(意大利垂涎奥地利控制的 Veneto)。战争 7 周,以 Königgrätz 战役决定性胜利告终。
+
+Bismarck 坚持"软和平、无兼并、无胜利游行"。
+
+战争中,Ferdinand Cohen-Blind 在柏林暗杀 Bismarck(近距离 5 枪),但 Bismarck 仅受轻伤。
+
+### 普法战争 (1870-1871)
+普鲁士胜出加剧与法国的紧张。Napoleon III 失望未获土地,加上 Bismarck 公布 **埃姆斯电报**(1870)——"精心编辑的 Wilhelm I 与法国大使 Benedetti 的对话版本"——两国都感到大使被轻视。
+
+Bismarck 在回忆录中写道:
+
+> "I had no doubt that a Franco-German war must take place before the construction of a united Germany could be realised."
+
+> "If the French fight us alone they are lost... France, the victor, would be a danger to everybody – Prussia to nobody."
+
+1870-07-19 法国动员并宣战。主要战役在一个月内结束,法军两支主力在 Sedan 与 Metz 被俘。Napoleon III 在 Sedan 被俘。
+
+## 七、德意志帝国成立 (1871-01-18)
+
+**1871-01-18**,在凡尔赛宫镜厅,Wilhelm I 普鲁士国王被宣布为德意志皇帝。新帝国是 25 个成员邦的联邦,普鲁士国王作为皇帝任 *primus inter pares*。法国割让阿尔萨斯与部分洛林,支付赔款。
+
+历史学家 Jonathan Steinberg 评价:
+
+> "The scale of Bismarck's triumph cannot be exaggerated. He alone had brought about a complete transformation of the European international order."
+
+1866 年 8 月 Bismarck 曾"砸桌子喊'我击败了他们所有!所有!'"
+
+## 八、帝国宰相 (1871-1890)
+
+### 文化斗争 (Kulturkampf)
+
+1870 年代 Bismarck 与低关税、反天主教自由派结盟,反对天主教会(Kulturkampf)。失败——天主教徒组建强大的德意志中央党,利用普选赢得席位。Bismarck 终结文化斗争,与中央党结盟对抗社会民主党。
+
+### 福利国家与社会立法
+
+作为国内政治操作一部分,Bismarck 创建首个福利国家,目标是"削弱社会主义反对派"。里程碑式社会立法:
+
+- **1883 疾病保险法**
+- **1884 工伤保险法**
+- **1889 老年与残疾保险法**
+
+这些措施使他获得福利国家先驱的声誉。
+
+### 反社会主义法
+
+帝国议会受边缘化,无法控制政府政策。Bismarck 与中央党结盟对抗社会民主党,通过反社会主义法。
+
+### 外交与同盟体系
+
+Bismarck 外交以权力平衡方式维护德国地位:
+
+- **三皇同盟** 与奥匈、俄国
+- **1879 双重同盟** 与奥匈
+- **1882 三国同盟** 与奥匈、意大利
+- **再保险条约** 与俄国
+
+主持 1878 年柏林条约与柏林会议。Bismarck 受精英与民众压力同意获取殖民地,虽然个人反感海上殖民。
+
+## 九、罢免、退休与去世
+
+1890 年被 Kaiser Wilhelm II 罢免,退休写回忆录。
+
+1898-07-30 在 Friedrichsruh 去世,享年 83 岁。葬于俾斯麦陵墓。
+
+## 十、遗产
+
+德国统一核心功臣。德意志帝国时期成为德国民族主义英雄,众多纪念碑以其命名。"铁血宰相"称号体现其 *Realpolitik* 与铁腕治理。
+
+历史学家赞美其为通过外交维持欧洲和平的远见者。但批评其国内政策(迫害天主教徒)与专制统治。历史学家 Robert K. Massie 指出 Bismarck 公众形象"粗犷""军事化",但实际"Bismarck 的工具是激进而无情的外交"。
+
+---
+
+## 中文补充:俾斯麦的历史定位
+
+**三大王朝战争(1864-1871)是德国统一的"自上而下革命"**——通过铁血政策、现实政治、三场对外战争实现,与法国大革命(自下而上革命)形成对比。
+
+**福利国家先驱:**
+Bismarck 1883-1889 年的社会立法是现代福利国家起源,影响:
+- 英国 1942 年 Beveridge Report
+- 美国 1935 Social Security Act
+- 战后欧洲福利国家共识
+
+**欧洲权力平衡的破坏者与维护者:**
+Bismarck 通过精密同盟体系(五重交叉)维持欧洲和平,但其体系依赖威廉二世的延续——威廉二世罢免 Bismarck 后同盟体系崩溃,引发一战。
+
+**Kulturkampf 的双重性:**
+对天主教的压制反而强化了中央党,这一政治后果延续至魏玛共和国。其模式(自由派 vs 教权)成为 19 世纪后期德国政治主轴。
+
+**晚年反社会主义:**
+通过反社会主义法(1878-1890)压制社民党,反而强化了社会主义运动——这一悖论预示 20 世纪威权主义的困境。

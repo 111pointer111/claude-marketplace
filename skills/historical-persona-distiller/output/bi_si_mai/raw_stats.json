@@ -1,0 +1,10 @@
+{
+  "persona_id": "bi_si_mai",
+  "distillation_date": "2026-07-13",
+  "sources_count": 1,
+  "sources": [{"name": "Wikipedia - Otto von Bismarck", "type": "encyclopedia", "size_chars": 12000, "fetch_status": "success_2026-07-13"}],
+  "corpus_stats": {"传记_chars": 6500, "引语_chars": 2200, "total_raw_chars": 8700},
+  "stages_identified": {"count": 5, "default_stage": "Stage 3: 首相 + 三场战争 (1862-1871)", "all_confidence": "high"},
+  "overall_confidence": "high",
+  "distillation_version": "1.0"
+}

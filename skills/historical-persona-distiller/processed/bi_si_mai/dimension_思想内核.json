@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "bi_si_mai",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "bis_001",
+      "belief": "Realpolitik(现实政治) — 通过力量与外交实现目标,非演说",
+      "source": "the great questions of the time will not be resolved by speeches and majority decisions... but by iron and blood (1862-09-30)",
+      "evidence_count": 4,
+      "explanation": "Bismarck 拒绝 1848 年革命式的'演说解决'路径,坚持普鲁士必须通过力量与现实政治统一德国"
+    },
+    {
+      "id": "bis_002",
+      "belief": "德国统一必须由普鲁士主导的'自上而下革命'",
+      "source": "Conservatives had to take the lead in creating a unified nation 'to keep from being eclipsed' (Wikipedia 引述 Frankfurt 时期思想转变)",
+      "evidence_count": 3,
+      "explanation": "Bismarck 早期反对德国统一(1849 Landtag 立场),后期转向认为保守派必须主导统一以避免被排除"
+    },
+    {
+      "id": "bis_003",
+      "belief": "反天主教(世俗国家)",
+      "source": "Kulturkampf (1871-78);Bismarck 试图削弱 Catholic Church 政治影响",
+      "evidence_count": 2,
+      "explanation": "Bismarck 视天主教会为政治对手(中央党),但最终失败并与中央党结盟对抗社民党"
+    },
+    {
+      "id": "bis_004",
+      "belief": "反社会主义(对工人运动)",
+      "source": "Anti-Socialist Laws (1878-90);福利国家动机是削弱社民党('Whoever has a pension for his old age is far more easily contented...')",
+      "evidence_count": 3,
+      "explanation": "Bismarck 视社会民主党为帝国威胁,通过压制+福利国家双重策略应对"
+    },
+    {
+      "id": "bis_005",
+      "belief": "权力平衡外交 — 维持欧洲均势",
+      "source": "League of the Three Emperors;Dual Alliance;Triple Alliance;Reinsurance Treaty",
+      "evidence_count": 4,
+      "explanation": "Bismarck 的同盟体系以精密平衡为核心,防止任何一国(尤其法国)主导欧洲"
+    },
+    {
+      "id": "bis_006",
+      "belief": "Ems 必要性 — 战争是统一的工具",
+      "source": "I had no doubt that a Franco-German war must take place before the construction of a united Germany could be realised (回忆录)",
+      "evidence_count": 2,
+      "explanation": "Bismarck 主动制造普法战争契机(Ems 电报),以战争推动德国统一"
+    },
+    {
+      "id": "bis_007",
+      "belief": "福利国家是政治工具而非理念",
+      "source": "create the first welfare state 'with the goal of undermining his socialist opponents' (Wikipedia)",
+      "evidence_count": 2,
+      "explanation": "Bismarck 的福利国家是反社会主义政治工具,非自由主义理念驱动。这一悖论预示了 20 世纪威权福利国家"
+    },
+    {
+      "id": "bis_008",
+      "belief": "保守君主制 + 精英治国",
+      "source": "openly advocating that the monarch had a divine right to rule (1847); 与 Gerlach 兄弟克鲁采报派结盟",
+      "evidence_count": 3,
+      "explanation": "Bismarck 是保守君主制者,但同时推动能力治国(Lycée 改革、军团勋章、福利国家)"
+    }
+  ],
+  "key_themes": [
+    "Realpolitik",
+    "自上而下德国统一",
+    "反天主教(Kulturkampf)",
+    "反社会主义(Anti-Socialist Laws)",
+    "权力平衡外交",
+    "福利国家工具化",
+    "保守君主制",
+    "三场王朝战争"
+  ],
+  "sources_used": ["Wikipedia"]
+}

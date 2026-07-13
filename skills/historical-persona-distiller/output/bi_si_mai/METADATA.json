@@ -1,0 +1,32 @@
+{
+  "persona_id": "bi_si_mai",
+  "name_zh": "奥托·冯·俾斯麦",
+  "name_en": "Otto von Bismarck",
+  "birth_death": "1815-04-01 / 1898-07-30",
+  "dynasty": "普鲁士/德意志帝国/19世纪",
+  "confidence": "high",
+  "priority": "medium",
+  "persona_type": "statesman / chancellor",
+  "key_works": [
+    "1862-09-30 铁血演说",
+    "1870-07 Ems 电报",
+    "1871-01-18 凡尔赛镜厅宣言",
+    "1883 疾病保险法",
+    "1884 工伤保险法",
+    "1889 老年与残疾保险法",
+    "晚年回忆录"
+  ],
+  "core_concepts": [
+    "Realpolitik 现实政治",
+    "德国统一(普鲁士主导)",
+    "反天主教(Kulturkampf)",
+    "反社会主义(Anti-Socialist Laws)",
+    "权力平衡外交",
+    "Ems 电报主动开战",
+    "福利国家工具化",
+    "保守君主制"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Otto von Bismarck"],
+  "default_stage": "切片三:首相 + 三场战争 (1862-1871)"
+}

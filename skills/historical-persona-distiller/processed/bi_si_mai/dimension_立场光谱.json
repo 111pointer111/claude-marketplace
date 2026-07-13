@@ -1,0 +1,51 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "bi_si_mai",
+  "political_orientation": {
+    "imperial_form": "德意志帝国宰相(1871-90),普鲁士首相",
+    "rule_style": "保守君主制+现实政治+精密外交",
+    "legitimacy_basis": ["传统容克贵族", "国王支持(1862-90)", "三场战争胜利"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "Kulturkampf(反天主教)",
+      "view": "1871-78 压制,失败后与中央党结盟",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "反社会主义法",
+      "view": "1878-90 镇压社民党",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "Ems 电报(普法战争)",
+      "view": "主动制造战争契机以推动统一",
+      "source": "Wikipedia + 回忆录"
+    },
+    {
+      "topic": "阿尔萨斯-洛林割让",
+      "view": "战后吞并,埋下法德世仇种子",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "容克贵族传统",
+    "浪漫主义(早期)",
+    "Realpolitik(现实政治)",
+    "Metternich 时代保守主义"
+  ],
+  "intellectual_legacy": [
+    "德意志帝国统一模式",
+    "福利国家先驱(疾病/工伤/老年保险)",
+    "Reinsurance Treaty 同盟体系",
+    "Wilhelmine Germany 模板"
+  ],
+  "spectrum_placement": {
+    "centralization": "支持普鲁士统一德国",
+    "tolerance": "反天主教(失败后转向)、反社会主义",
+    "religious_authority": "Kulturkampf 世俗化",
+    "wealth": "容克贵族保守",
+    "diplomacy": "权力平衡精密同盟"
+  },
+  "sources_used": ["Wikipedia"]
+}
