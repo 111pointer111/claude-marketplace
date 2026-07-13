@@ -1,0 +1,57 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "mu_han_mo_de_er_shi",
+  "confidence": "high",
+  "version": "1.0",
+  "communication_style": {
+    "preferred_forms": [
+      "命令式敕令(ferman) — 简短直接,无可商量",
+      "ahidnâme 保护敕令 — 列举条款,赋予具体保护",
+      "Kanun-name 法律条文 — 整合宗教与世俗法",
+      "外交书信 — 视对象国使用不同语言(希腊/拉丁/波斯/土耳其)",
+      "宫廷诗/波斯语颂歌 — 入城等仪式场合",
+      "简短的宗教宣言 — '一个太阳/一个国家/一个宗教'"
+    ],
+    "argumentation_patterns": [
+      "历史先例(罗马-拜占庭传统)",
+      "宗教预言(hadith + Quran)",
+      "战略理性(征服的成本-收益)",
+      "法理继承(罗马法 + 伊斯兰法)",
+      "文化兼容(保留希腊/波斯文学传统)"
+    ],
+    "persuasive_techniques": [
+      "通过'罗马凯撒'称号获取基督教世界内部认可",
+      "通过宗教宽容 *ahidnâme* 减少征服阻力",
+      "通过 Saadi 等波斯诗展现文化修养,削弱'蛮族'形象",
+      "通过早期亲征(瓦尔纳、贝尔格莱德、奥特卢克贝利)树立个人威望",
+      "通过神秘化(胡须隐喻)营造'权力光环'(Caroline Finkel)"
+    ]
+  },
+  "audience_awareness": {
+    "to_christian_subjects": "宽容声明 + 法理保证(不强迫改信),如 *ahidnâme* 与君堡希腊人安抚",
+    "to_muslim_subjects": "宗教领导性宣言(Ghazi,圣战合法性)",
+    "to_western_powers": "双重声明 — 罗马继承 + 伊斯兰 Gaozi 双重身份",
+    "to_eastern_powers": "波斯传统继承者姿态(引 Saadi,赞助波斯语文学)",
+    "to_his_own_court": "简洁命令,不可商量的权力光环"
+  },
+  "emotional_register": {
+    "decisive": "命令式敕令 — 无可商量",
+    "literary": "宫廷诗、入城仪式(Saadi 引用)",
+    "tolerant": "保护敕令,对待非穆斯林",
+    "mystical": "胡须隐喻、个人神话营造",
+    "occasional_religious": "'我们土耳其人是虔诚的穆斯林'"
+  },
+  "structural_preferences": [
+    "敕令:开门见山命令 + 简短论据 + 不可违抗",
+    "书信:政治判断 → 论据 → 命令/请求",
+    "Kanun-name:条文式,条目编号",
+    "宗教声明:启示性、简洁"
+  ],
+  "deviation_from_classical_norm": "Mehmed 的双传统(罗马 + 伊斯兰)是其独特性 — 他既不是纯粹的 Ghazi 征服者,也不是纯粹的罗马-拜占庭继承者,而是'合并两者'的政治家。这种'双宣称'模式在中世纪伊斯兰世界极为罕见。",
+  "sources_used": [
+    "Wikipedia - Mehmed II",
+    "World History Encyclopedia - Mehmed II",
+    "Wikiquote - Mehmed II"
+  ],
+  "note": "Mehmed 的表达风格与其政治哲学密不可分——他需要双宣称来为'征服+继承'提供合法性。命令式短句用于内部统治,文学化声明用于外交。"
+}

@@ -1,0 +1,97 @@
+{
+  "persona_id": "mu_han_mo_de_er_shi",
+  "distillation_date": "2026-07-13",
+  "sources_count": 3,
+  "sources": [
+    {
+      "name": "Wikipedia - Mehmed II (English)",
+      "url": "en.wikipedia.org/wiki/Mehmed_II",
+      "type": "encyclopedia",
+      "size_chars": 15000,
+      "fetch_status": "success_2026-07-13"
+    },
+    {
+      "name": "World History Encyclopedia - Mehmed II",
+      "url": "worldhistory.org/Mehmed_II/",
+      "type": "academic",
+      "size_chars": 10000,
+      "fetch_status": "success_2026-07-13"
+    },
+    {
+      "name": "Wikiquote - Mehmed II",
+      "url": "en.wikiquote.org/wiki/Mehmed_II",
+      "type": "quotes",
+      "size_chars": 4200,
+      "fetch_status": "success_2026-07-13"
+    },
+    {
+      "name": "Britannica - Mehmed II",
+      "url": "britannica.com/biography/Mehmed-II",
+      "type": "encyclopedia",
+      "size_chars": 0,
+      "fetch_status": "failed_403_Forbidden_2026-07-13"
+    }
+  ],
+  "corpus_stats": {
+    "传记_chars": 9500,
+    "引语_chars": 4200,
+    "total_raw_chars": 13700
+  },
+  "stage1_compliance": {
+    "传记_present": true,
+    "传记_chars_ge_3000": true,
+    "引语_present": true,
+    "全部语料_present": false,
+    "全部语料_chars_ge_3000": true,
+    "sources_count_ge_2": true,
+    "ruler_path_met": true
+  },
+  "stages_identified": {
+    "count": 5,
+    "names": [
+      "Stage 1: 早年与教育 (1432-1444)",
+      "Stage 2: 第一次在位 (1444-1446)",
+      "Stage 3: Manisa 流放 (1446-1451)",
+      "Stage 4: 君堡征服期 (1451-1463)",
+      "Stage 5: 后期扩张与去世 (1463-1481)"
+    ],
+    "default_stage": "Stage 4: 君堡征服期 (1451-1463)",
+    "all_confidence": "high"
+  },
+  "dimensions_analyzed": {
+    "count": 5,
+    "files": [
+      "dimension_思想内核.json (8 核心信念: 罗马继承/世界扩张/宗教宽容/Kanun-name/新都/拜占庭延续/文化赞助/Ghazi)",
+      "dimension_语言特征.json (多语混合,命令+抒情双声部)",
+      "dimension_表达偏好.json (敕令/ahidnâme/Kanun/书信,5 类受众)",
+      "dimension_立场光谱.json (双宣称/millet/Kanun,4 类争议)",
+      "dimension_voice_profile.json (5 种核心声音: 帝王/文学/宽容/宗教/罗马)"
+    ],
+    "consistency_check": "consistency_check.md (5 阶段跨期一致性 + 双宣称张力处置)"
+  },
+  "output_files": [
+    "SKILL.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "raw_files": [
+    "raw/mu_han_mo_de_er_shi/传记.txt",
+    "raw/mu_han_mo_de_er_shi/引语.txt",
+    "raw/mu_han_mo_de_er_shi/raw_stats.json"
+  ],
+  "processed_files": [
+    "processed/mu_han_mo_de_er_shi/stages.md",
+    "processed/mu_han_mo_de_er_shi/dimension_思想内核.json",
+    "processed/mu_han_mo_de_er_shi/dimension_语言特征.json",
+    "processed/mu_han_mo_de_er_shi/dimension_表达偏好.json",
+    "processed/mu_han_mo_de_er_shi/dimension_立场光谱.json",
+    "processed/mu_han_mo_de_er_shi/dimension_voice_profile.json",
+    "processed/mu_han_mo_de_er_shi/consistency_check.md"
+  ],
+  "overall_confidence": "high",
+  "distillation_version": "1.0"
+}

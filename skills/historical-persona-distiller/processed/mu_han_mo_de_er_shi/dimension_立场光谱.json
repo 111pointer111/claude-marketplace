@@ -1,0 +1,78 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "mu_han_mo_de_er_shi",
+  "confidence": "high",
+  "version": "1.0",
+  "political_orientation": {
+    "imperial_form": "奥斯曼-罗马双宣称世界帝国",
+    "rule_style": "中央集权 + 法治(Kanun) + 宗教多元(millet)",
+    "legitimacy_basis": ["罗马-拜占庭传统(Kayser-i Rum)", "伊斯兰圣战(Ghazi)"],
+    "tolerance_strategy": "战略宽容 — 保护非穆斯林财产与仪式,以减低征服成本,非多元主义"
+  },
+  "social_philosophy": {
+    "hierarchy": "支持伊斯兰-奥斯曼奴隶精英阶层(Devşirme → Janissary + 维齐尔)",
+    "equality": "反对平等主义;支持基于宗教共同体(millet)的差异性等级",
+    "individualism": "强个人意志,但服从帝国法律",
+    "collectivism": "强调宗教共同体 + 帝国集体",
+    "religion": "逊尼派伊斯兰 + 战略宗教宽容(基督教/犹太教少数派)",
+    "law": "整合伊斯兰沙里亚 + 拜占庭法 + 蒙古习惯法,世俗 Kanun 法典化"
+  },
+  "cultural_positions": {
+    "rome_legacy": "高度肯定 — 自称罗马凯撒,延续罗马-拜占庭行政/法律/文化传统",
+    "islamic_tradition": "高度肯定 — 自视为 Ghazi 与逊尼派苏丹",
+    "ottoman_identity": "高度肯定 — 奥斯曼帝国奠基人之一,继承父亲 Murad II",
+    "byzantine_culture": "接纳 — 通晓希腊语,保留希腊学者/官员,赞助希腊文学翻译",
+    "persian_culture": "接纳 — 引波斯诗人 Saadi,赞助波斯语文学"
+  },
+  "controversial_positions": [
+    {
+      "topic": "征服与劫掠",
+      "view": "支持 — 君堡 3 天劫掠是 Ghazi 传统;但之后立即恢复秩序",
+      "source": "Following the ghazi traditions, the Ottoman troops were allowed to sack the city for three days. (WHE)"
+    },
+    {
+      "topic": "对 Vlahernes(Constantine XI 战死处)",
+      "view": "历史争议 — 拜占庭末代皇帝战死地成为圣地,Mehmed 据传给予荣誉",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "对希腊人/拜占庭",
+      "view": "复杂 — 战略宽容(aşina-i 系统)但同时为罗马继承宣称正名",
+      "source": "Wikiquote - 'I have the right to avenge the blood of Hector on the Greeks'"
+    },
+    {
+      "topic": "对阿尔巴尼亚人(Skanderbeg)",
+      "view": "敌对 — 长期战争,但承认其顽强",
+      "source": "Wikiquote - 'The Christian land has lost its sword and shields'"
+    }
+  ],
+  "intellectual_influences": [
+    "Al-Kindi (阿拉伯哲学家)",
+    "Ibn Khaldun (阿拉伯历史哲学家,《历史绪论》)",
+    "Saadi (波斯诗人)",
+    "Hafiz (波斯诗人)",
+    "希腊语经典(柏拉图、亚里士多德)",
+    "奥斯曼法典传统",
+    "拜占庭行政传统"
+  ],
+  "intellectual_legacy": [
+    "Suleiman the Magnificent (继承者)",
+    "Selim I (后代)",
+    "Kanun 法制传统延续 400+ 年",
+    "millet 制度延续至 19 世纪",
+    "Kayser-i Rum 称号延续至 20 世纪初"
+  ],
+  "spectrum_placement": {
+    "centralization": "高度中央集权",
+    "tolerance": "战略宽容(非多元主义)",
+    "religious_authority": "逊尼派苏丹 + 罗马凯撒双宣称",
+    "law_form": "整合性世俗法(Kanun) + 宗教法(Sharia)",
+    "cultural_synthesis": "奥斯曼 + 拜占庭 + 阿拉伯 + 波斯四传统融合"
+  },
+  "sources_used": [
+    "Wikipedia - Mehmed II",
+    "World History Encyclopedia - Mehmed II",
+    "Wikiquote - Mehmed II"
+  ],
+  "note": "Mehmed 的立场光谱呈现中世纪末期极罕见的'双传统'——伊斯兰与罗马/拜占庭传统同时作为合法性来源,这使他在奥斯曼苏丹谱系中独树一帜。"
+}

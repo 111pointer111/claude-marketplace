@@ -1,0 +1,83 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "mu_han_mo_de_er_shi",
+  "confidence": "high",
+  "version": "1.0",
+  "core_beliefs": [
+    {
+      "id": "mhmd_001",
+      "belief": "罗马继承宣称 — Mehmed 自称 Kayser-i Rum,君士坦丁堡自公元 330 年起即为罗马首都",
+      "source_snippet": "Mehmed claimed the title \"Caesar of Rome\" (Qayser-i Rūm / Kayser-i Rum), asserting Constantinople had been the Roman capital since 330 AD",
+      "evidence_refs": ["Wikipedia - Mehmed II", "Wikiquote - 'I have the right to avenge the blood of Hector on the Greeks'"],
+      "explanation": "Mehmed 不只是穆斯林征服者,他通过 Kayser-i Rum 称号将奥斯曼帝国与罗马-拜占庭传统接续。这既是政治宣称也是文化继承。"
+    },
+    {
+      "id": "mhmd_002",
+      "belief": "世界帝国/扩张使命 — 君士坦丁堡为'两个大陆和两海之间的桥梁',必须征服",
+      "source_snippet": "His ambition to take Constantinople was 'inspired by the writings of Arab writers Al-Kindi, Ibn Khaldun,' and 'a hadith... attributed to the Prophet Muhammad'",
+      "evidence_refs": ["Wikipedia/WHE", "Wikiquote - 'One night, I shall add your kingdom to my empire'"],
+      "explanation": "Mehmed 的扩张不只是军事,也是伊斯兰传统(*ghazi*)+ 拜占庭传统(罗马继承)双重合法性下的'世界帝国'使命。"
+    },
+    {
+      "id": "mhmd_003",
+      "belief": "宗教宽容 — 保护非穆斯林财产与仪式,但坚持伊斯兰为统治宗教",
+      "source_snippet": "I declare to the whole world, the Bosnians are under protection. No one can disturb these people nor their churches, nor harm them. (1463 ahidnâme)",
+      "evidence_refs": ["Wikiquote", "Wikipedia - Religious Tolerance section"],
+      "evidence_count": 5,
+      "explanation": "Mehmed 颁布多个 *ahidnâme*(保护敕令)给波斯尼亚天主教徒、加拉塔热那亚人、君士坦丁堡希腊人。任命 Gennadius Scholarius 为大公宗主教保留东正教建制。但他的名言'一个太阳/一个国家/一个宗教'显示宗教宽容是统治策略而非多元主义。"
+    },
+    {
+      "id": "mhmd_004",
+      "belief": "法律改革 — 编纂 Kanun-name(世俗法典),整合伊斯兰法与拜占庭传统",
+      "source_snippet": "He convened the imperial Divan and compiled kanun (secular law codes). Religious policy was tolerant: non-Muslims paid the cizye tax",
+      "evidence_refs": ["WHE", "Wikipedia"],
+      "explanation": "Kanun-name 是奥斯曼世俗法律传统的奠基,Mehmed 是其集大成者。它整合了伊斯兰沙里亚、蒙古习惯法、拜占庭法律,成为奥斯曼国家治理的法律基础。"
+    },
+    {
+      "id": "mhmd_005",
+      "belief": "君士坦丁堡为新都 — 迁都君堡并重建其为帝国首都",
+      "source_snippet": "Mehmed moved the Ottoman capital from Edirne to Constantinople",
+      "evidence_refs": ["Wikipedia", "Wikiquote - 'True art is to create a magnificent city'"],
+      "explanation": "Mehmed 将君堡从废墟之城重建为奥斯曼帝国新都。从安纳托利亚与巴尔干迁徙各族人民入住,不分民族宗教。Fatih 清真寺、Topkapı 宫、大巴扎皆此时期所建。"
+    },
+    {
+      "id": "mhmd_006",
+      "belief": "继承拜占庭行政传统 — 保留希腊/拜占庭官员,延续罗马双中心格局",
+      "source_snippet": "He appointed Gennadious Scholarios as Patriarch of Constantinople",
+      "evidence_refs": ["WHE", "Wikipedia"],
+      "explanation": "Mehmed 不摧毁拜占庭建制,而是纳入奥斯曼体系。这与早期伊斯兰征服(如 7 世纪中东)不同——他在新都保留了基督教-希腊-拜占庭文明的活态。"
+    },
+    {
+      "id": "mhmd_007",
+      "belief": "文化赞助者 — 通晓多语,赞助艺术、科学与翻译",
+      "source_snippet": "Both the sultan and the greatest of his grand vezirs were men of culture and patrons of the arts, and the Conqueror's court in Istanbul rivalled in its brilliance that of Western princes of the European Renaissance. (John Freely)",
+      "evidence_refs": ["WHE", "Wikipedia"],
+      "explanation": "Mehmed 通晓突厥语、阿拉伯语、波斯语、希腊语、拉丁语(可能还有塞尔维亚语)。他在宫廷赞助画家、学者、翻译家,使君士坦丁堡成为 15 世纪文艺复兴的重要节点。"
+    },
+    {
+      "id": "mhmd_008",
+      "belief": "伊斯兰传统继承者 — 作为 Ghazi(信仰战士),征服扩张是宗教义务",
+      "source_snippet": "These troubles are paved in the way of Allah. As we have the sword of Islam in our hands, if we were to not endure such hardship, it would not be worthy to call ourselves ghazis.",
+      "evidence_refs": ["Wikiquote", "Wikipedia - 'We, the Turks, are faithful Muslims'"],
+      "explanation": "Mehmed 自视为 *ghazi*,其扩张有伊斯兰圣战色彩。但这一身份与'罗马凯撒'身份共存,形成独特的'双传统继承'模式。"
+    }
+  ],
+  "key_themes": [
+    "罗马继承 (Kayser-i Rum)",
+    "世界帝国/扩张",
+    "宗教宽容(战略层面)",
+    "Kanun-name 法律改革",
+    "君士坦丁堡作为新都",
+    "拜占庭行政传统延续",
+    "文化赞助与多语能力",
+    "Ghazi 圣战身份",
+    "奥斯曼-拜占庭文化融合"
+  ],
+  "related_thinkers_or_figures": ["苏莱曼一世(继承者)", "塞利姆一世(后代)", "穆拉德二世(父亲)", "苏丹穆罕默德二世之前的奥斯曼苏丹"],
+  "sources_used": [
+    "Wikipedia - Mehmed II",
+    "World History Encyclopedia - Mehmed II",
+    "Wikiquote - Mehmed II"
+  ],
+  "note": "穆罕默德二世的核心信念是'双传统继承'——同时作为伊斯兰 Ghazi 和罗马凯撒,这一双重身份是他思想的核心张力也是其历史影响的来源。"
+}

@@ -1,0 +1,51 @@
+{
+  "persona_id": "mu_han_mo_de_er_shi",
+  "name_zh": "穆罕默德二世",
+  "name_en": "Mehmed II / Mehmed the Conqueror / Fatih Sultan Mehmed",
+  "birth_death": "1432-03-30 / 1481-05-03",
+  "dynasty": "奥斯曼/15世纪",
+  "nationality": "奥斯曼",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "emperor / conqueror / lawgiver",
+  "key_works": [
+    "Rumelihisarı 建造敕令 (1451-52)",
+    "圣索菲亚转换命令 (1453)",
+    "Fatih 清真寺基金会宪章 (1463-70)",
+    "ahidnâme 波斯尼亚敕令 (1463)",
+    "Kanun-name 奥斯曼法典 (多部)",
+    "致 Murad II 的信 (12 岁,1444)"
+  ],
+  "core_concepts": [
+    "罗马继承宣称 (Kayser-i Rum)",
+    "世界帝国 / 扩张使命",
+    "宗教宽容(战略层面)",
+    "Kanun-name 法律改革",
+    "君士坦丁堡作为新都",
+    "拜占庭行政传统延续",
+    "文化赞助与多语能力",
+    "伊斯兰 Ghazi 圣战身份"
+  ],
+  "philosophical_school": "奥斯曼-罗马双宣称世界帝国",
+  "distillation_date": "2026-07-13",
+  "distillation_version": "1.0",
+  "source_corpus_size": 13700,
+  "sources_used": [
+    "Wikipedia - Mehmed II (en.wikipedia.org)",
+    "World History Encyclopedia - Mehmed II",
+    "Wikiquote - Mehmed II"
+  ],
+  "source_status": {
+    "Wikipedia": "success (2026-07-13)",
+    "WHE": "success (2026-07-13)",
+    "Wikiquote": "success (2026-07-13)",
+    "Britannica": "failed 403 Forbidden (2026-07-13)"
+  },
+  "default_stage": "切片四:君堡征服期 (1451-1463)",
+  "notes": [
+    "穆罕默德二世为奥斯曼苏丹,非中国/西方哲学家/文学家,直接进入 western_ruler/conqueror 路径",
+    "Britannica 当日 403,3 源(Wikipedia + WHE + Wikiquote)足够支撑 high confidence",
+    "Wikiquote 部分引语未注明具体出处,可能为后世追述或合成句;CITATIONS.md 已标注",
+    "双宣称(Ghazi + Kayser-i Rum)是其独特性,与其他奥斯曼苏丹区分"
+  ]
+}

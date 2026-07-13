@@ -1,0 +1,102 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "mu_han_mo_de_er_shi",
+  "confidence": "high",
+  "version": "1.0",
+  "linguistic_profile": {
+    "languages_used": [
+      "奥斯曼土耳其语(母语)",
+      "阿拉伯语(宗教/学术)",
+      "波斯语(文学/诗歌)",
+      "希腊语(外交/拜占庭继承)",
+      "拉丁语(罗马继承宣称)",
+      "可能:塞尔维亚语、希腊语方言"
+    ],
+    "primary_language": "奥斯曼土耳其语",
+    "register_split": {
+      "命令/敕令": "奥斯曼土耳其语 + 阿拉伯语词汇",
+      "诗歌/文学": "波斯语 + 阿拉伯语",
+      "外交信函": "希腊语/拉丁语/波斯语 (视对象而定)",
+      "法典(Kanun-name)": "奥斯曼土耳其语 + 阿拉伯语法律术语"
+    }
+  },
+  "sentence_structure": {
+    "command_decrees": "短句命令式,无主语直接动词,如 'Cover the Christian mosaics with plaster' / 'I declare to the whole world'",
+    "letters": "中等长度,段落分明,有明确论点-论据-命令结构,如 12 岁致 Murad II 信",
+    "court_speech": "华丽、引用波斯/阿拉伯诗句(如 Saadi),配合奥斯曼土耳其语诠释",
+    "religious_statements": "阿拉伯语式长句,引《古兰经》/hadith"
+  },
+  "rhetorical_devices": [
+    {
+      "device": "宗教-政治双宣称",
+      "example": "Kayser-i Rum + Ghazi — 同时引《古兰经》/hadith 和罗马传统"
+    },
+    {
+      "device": "诗歌引用",
+      "example": "入 Boukoleon 宫殿吟诵 Saadi 波斯诗句"
+    },
+    {
+      "device": "命令式短句",
+      "example": "'Cover the Christian mosaics with plaster... do not destroy this masterpiece.' / 'I declare to the whole world, the Bosnians are under protection.'"
+    },
+    {
+      "device": "反问/质问",
+      "example": "'If you are the sultan... if I am the sultan...'"
+    },
+    {
+      "device": "隐喻",
+      "example": "'蜘蛛是科斯洛伊斯宫殿的帷幕侍者,猫头鹰在 Afrasiyab 城堡中奏响更声'(帝国兴衰无常)"
+    },
+    {
+      "device": "对比",
+      "example": "'我们征服人心,不征服土地' / '我们土耳其人是虔诚的穆斯林'"
+    },
+    {
+      "device": "自我神圣化",
+      "example": "'If even a single strand of hair in my beard were to learn a secret of mine, I would cut it from the root'(神秘与权力的光环)"
+    }
+  ],
+  "characteristic_vocabulary": [
+    "Kayser-i Rum (罗马凯撒)",
+    "Ghazi (信仰战士)",
+    "Kanun (世俗法)",
+    "Sharia (伊斯兰法)",
+    "ahidnâme (保护敕令)",
+    "Divan (帝国议事会)",
+    "Janissary (禁卫军)",
+    "Sipahi (骑兵)",
+    "Cizye (人头税)",
+    "Devşirme (少年征召)",
+    "Millet (宗教共同体)",
+    "Padişah (皇帝)",
+    "Konstantiniyye (君士坦丁堡奥斯曼名)"
+  ],
+  "style_evolution": [
+    {
+      "period": "早年与教育(1432-1444)",
+      "description": "受训期,师承古典阿拉伯-波斯-奥斯曼土耳其语,语言规训"
+    },
+    {
+      "period": "第一次在位(1444-1446)",
+      "description": "命令式短句,政治判断早熟(12 岁致 Murad II 信)"
+    },
+    {
+      "period": "Manisa 流放(1446-1451)",
+      "description": "多语并行学习,深化罗马继承观"
+    },
+    {
+      "period": "君堡征服期(1451-1463)",
+      "description": "命令式 + 文学化宣示(引 Saadi)+ 多语外交;战略宽容敕令(ahidnâme)"
+    },
+    {
+      "period": "后期扩张(1463-1481)",
+      "description": "法典体 + 远征命令 + 宗教语气加深 + 神秘权力光环"
+    }
+  ],
+  "sources_used": [
+    "Wikipedia - Mehmed II",
+    "World History Encyclopedia - Mehmed II",
+    "Wikiquote - Mehmed II"
+  ],
+  "note": "穆罕默德二世是多语政治家,其语言风格体现'双传统继承':奥斯曼土耳其语为命令,波斯语为文学,阿拉伯语为宗教,希腊语/拉丁语为外交/继承宣称。"
+}

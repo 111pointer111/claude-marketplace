@@ -1,0 +1,28 @@
+{
+  "persona_id": "mu_han_mo_de_er_shi",
+  "distillation_date": "2026-07-13",
+  "corpus_stats": {
+    "传记_chars": 9500,
+    "引语_chars": 4200,
+    "全部语料_chars": 13700
+  },
+  "sources": [
+    "Wikipedia - Mehmed II (en.wikipedia.org)",
+    "World History Encyclopedia - Mehmed II",
+    "Wikiquote - Mehmed II"
+  ],
+  "source_fetch_status": {
+    "Wikipedia": "success",
+    "WHE": "success",
+    "Wikiquote": "success",
+    "Britannica": "failed (403 Forbidden, 2026-07-13)"
+  },
+  "stage1_compliance": {
+    "传记_present": true,
+    "传记_chars_ge_3000": true,
+    "引语_present": true,
+    "sources_count": 3,
+    "stage1_path_met": true
+  },
+  "note": "穆罕默德二世为奥斯曼/15世纪帝王,Britannica 当日 403,3 源(Wikipedia + WHE + Wikiquote)足够支撑 high confidence"
+}
