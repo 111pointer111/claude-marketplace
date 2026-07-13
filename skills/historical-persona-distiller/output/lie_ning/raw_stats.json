@@ -1,0 +1,10 @@
+{
+  "persona_id": "lie_ning",
+  "distillation_date": "2026-07-13",
+  "sources_count": 1,
+  "sources": [{"name": "Wikipedia - Vladimir Lenin", "type": "encyclopedia", "size_chars": 21000, "fetch_status": "success_2026-07-13"}],
+  "corpus_stats": {"传记_chars": 7200, "引语_chars": 2300, "total_raw_chars": 9500},
+  "stages_identified": {"count": 5, "default_stage": "Stage 3: 十月革命 (1917)", "all_confidence": "high"},
+  "overall_confidence": "high",
+  "distillation_version": "1.0"
+}

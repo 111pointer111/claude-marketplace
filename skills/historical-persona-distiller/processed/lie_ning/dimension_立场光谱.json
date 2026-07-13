@@ -1,0 +1,53 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "lie_ning",
+  "political_orientation": {
+    "regime_form": "苏维埃社会主义共和国联盟(Soviet)",
+    "rule_style": "无产阶级专政+先锋党民主集中制",
+    "legitimacy_basis": ["马克思主义理论", "十月革命", "苏维埃代表", "国际革命使命"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "派系活动",
+      "view": "第十次代表大会(1921)禁止党内派系",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "红色恐怖",
+      "view": "数万人被杀或监禁",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "Kronstadt 起义",
+      "view": "镇压(1921)",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "议会制",
+      "view": "反对;解散立宪会议(1918)",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "Karl Marx",
+    "Friedrich Engels",
+    "Georgi Plekhanov",
+    "Chernyshevsky《怎么办?》",
+    "黑格尔辩证法"
+  ],
+  "intellectual_legacy": [
+    "马克思列宁主义",
+    "列宁主义(先锋党+民主集中制)",
+    "十月革命模式",
+    "苏维埃国家范式",
+    "Comintern(共产国际)"
+  ],
+  "spectrum_placement": {
+    "centralization": "高度中央集权",
+    "tolerance": "对党内不同意见零容忍(后期)",
+    "religious_authority": "无神论国家",
+    "wealth": "公有制",
+    "international": "国际革命使命"
+  },
+  "sources_used": ["Wikipedia"]
+}

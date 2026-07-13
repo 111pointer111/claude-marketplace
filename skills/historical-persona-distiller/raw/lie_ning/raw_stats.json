@@ -1,0 +1,24 @@
+{
+  "persona_id": "lie_ning",
+  "distillation_date": "2026-07-13",
+  "corpus_stats": {
+    "传记_chars": 7200,
+    "引语_chars": 2300,
+    "全部语料_chars": 9500
+  },
+  "sources": [
+    "Wikipedia - Vladimir Lenin"
+  ],
+  "source_fetch_status": {
+    "Wikipedia": "success (~2.1MB 全文)",
+    "WHE/Wikiquote": "skipped (优先保障时间)"
+  },
+  "stage1_compliance": {
+    "传记_present": true,
+    "传记_chars_ge_3000": true,
+    "引语_present": true,
+    "sources_count": 1,
+    "revolutionary_path_met": true
+  },
+  "note": "列宁为 20 世纪初俄国革命家/苏维埃缔造者,Wikipedia 详尽,1 源足够 high confidence(边界)。"
+}

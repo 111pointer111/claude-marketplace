@@ -1,0 +1,31 @@
+{
+  "persona_id": "lie_ning",
+  "name_zh": "列宁",
+  "name_en": "Vladimir Lenin (Vladimir Ilyich Ulyanov)",
+  "birth_death": "1870-04-22 / 1924-01-21",
+  "dynasty": "俄国/苏联/20世纪",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "revolutionary / theorist / statesman",
+  "key_works": [
+    "1902 《怎么办?》",
+    "1904 《进一步,退两步》",
+    "1917-04 《四月提纲》",
+    "1917 《国家与革命》",
+    "1917 《帝国主义是资本主义的最高阶段》",
+    "1922-23 政治遗嘱(口授笔记)"
+  ],
+  "core_concepts": [
+    "先锋党理论",
+    "无产阶级专政",
+    "帝国主义分析",
+    "民主集中制",
+    "暴力革命",
+    "和平、土地、面包",
+    "一切权力归苏维埃",
+    "国际革命使命"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Vladimir Lenin"],
+  "default_stage": "切片三:十月革命 (1917)"
+}

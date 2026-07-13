@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "lie_ning",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "len_001",
+      "belief": "先锋党理论 — 革命需要纪律化的精英领导无产阶级",
+      "source": "Without a revolutionary theory there can be no revolutionary movement; Give us an organization of revolutionaries, and we will overturn the whole of Russia (1902 《怎么办?》)",
+      "evidence_count": 4,
+      "explanation": "列宁认为工人阶级自发的革命意识不足,需要先锋党作为'职业革命家'领导,这是其与孟什维克的核心分歧"
+    },
+    {
+      "id": "len_002",
+      "belief": "无产阶级专政 — 资本主义与社会主义的过渡国家",
+      "source": "The working class must smash the old state machine and replace it with a new one, the proletarian state (1917 《国家与革命》)",
+      "evidence_count": 3,
+      "explanation": "列宁主张工人阶级夺取政权后,需要建立'无产阶级专政'作为过渡,这一概念被 20 世纪共产国家广泛采用"
+    },
+    {
+      "id": "len_003",
+      "belief": "帝国主义是资本主义最高阶段",
+      "source": "Imperialism is the monopoly stage of capitalism (1917 《帝国主义是资本主义的最高阶段》)",
+      "evidence_count": 2,
+      "explanation": "列宁继承霍布森的帝国主义理论,论证一战是资本主义国家争夺殖民地的斗争,主张变帝国主义战争为国内战争"
+    },
+    {
+      "id": "len_004",
+      "belief": "民主集中制 — 强中央领导 + 内部辩论",
+      "source": "We must have a vanguard of the proletariat (1902);第十次代表大会决议禁止派系 (1921)",
+      "evidence_count": 4,
+      "explanation": "列宁主张党内在重大决策上有辩论自由,但决策后必须服从中央。这一原则成为苏共组织基础"
+    },
+    {
+      "id": "len_005",
+      "belief": "革命战争 vs 议会改革 — 暴力革命是唯一道路",
+      "source": "Insurrection is the highest form of political action (1917);反对孟什维克'改良主义'",
+      "evidence_count": 3,
+      "explanation": "列宁反对第二国际'通过议会过渡到社会主义'的路线,主张暴力革命。这与考茨基、伯恩斯坦的修正主义形成对立"
+    },
+    {
+      "id": "len_006",
+      "belief": "和平、土地、面包 — 革命目标的具体化",
+      "source": "April Theses (1917-04)",
+      "evidence_count": 3,
+      "explanation": "列宁将抽象革命目标具体化为 3 项可执行承诺,使革命获得农民、士兵、工人支持"
+    },
+    {
+      "id": "len_007",
+      "belief": "一切权力归苏维埃",
+      "source": "All power to the Soviets;解散立宪会议 (1918)",
+      "evidence_count": 2,
+      "explanation": "列宁主张苏维埃(工人、士兵、农民代表会议)应取代议会作为国家权力机构,排斥议会制"
+    },
+    {
+      "id": "len_008",
+      "belief": "国际革命使命 — 俄国革命是世界革命的起点",
+      "source": "Comintern (1919) 成立;列宁墓演讲强调世界革命",
+      "evidence_count": 2,
+      "explanation": "列宁相信俄国革命只是世界革命的开端,Comintern 的成立表明他意图在全球输出革命"
+    }
+  ],
+  "key_themes": [
+    "先锋党理论",
+    "无产阶级专政",
+    "帝国主义最高阶段",
+    "民主集中制",
+    "暴力革命 vs 议会改革",
+    "和平、土地、面包",
+    "一切权力归苏维埃",
+    "国际革命使命"
+  ],
+  "sources_used": ["Wikipedia"]
+}

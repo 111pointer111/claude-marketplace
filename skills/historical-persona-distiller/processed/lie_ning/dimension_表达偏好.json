@@ -1,0 +1,26 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "lie_ning",
+  "communication_style": {
+    "preferred_forms": [
+      "政治论文(《怎么办?》《国家与革命》等)",
+      "战斗性口号('和平、土地、面包')",
+      "党内决议(民主集中制)",
+      "致党代会政治遗嘱"
+    ],
+    "argumentation_patterns": [
+      "马克思主义正统论证",
+      "对孟什维克/机会主义者的蔑视",
+      "对立式:布尔什维克 vs 反对派",
+      "历史定位:革命是世界进程的一部分"
+    ]
+  },
+  "audience_awareness": {
+    "to_workers": "直接口号+清晰目标",
+    "to_party_members": "论证式理论论战",
+    "to_intellectuals": "学术性论证",
+    "to_international_movement": "国际革命使命",
+    "to_dissenters": "强硬镇压宣言"
+  },
+  "sources_used": ["Wikipedia"]
+}

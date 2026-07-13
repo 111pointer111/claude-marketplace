@@ -1,0 +1,37 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "lie_ning",
+  "languages_used": ["俄语(母语)", "德语(流利)", "法语(流利)", "英语(阅读)", "拉丁语(基础)"],
+  "primary_language": "俄语",
+  "sentence_structure": {
+    "political_works": "长句论证,精确逻辑",
+    "pamphlets": "中等长度,战斗性",
+    "speeches": "短句口号式('Peace, Land, Bread')",
+    "letters": "简短实务",
+    "political_testament": "口授简短警示"
+  },
+  "rhetorical_devices": [
+    "战斗性口号:'和平、土地、面包'",
+    "对立式论证:布尔什维克 vs 孟什维克",
+    "历史定位:将自身置于马克思主义正统",
+    "反讽:对'机会主义者'的蔑视"
+  ],
+  "characteristic_vocabularies": [
+    "Proletarian (无产阶级)",
+    "Bourgeoisie (资产阶级)",
+    "Dictatorship of the Proletariat (无产阶级专政)",
+    "Vanguard Party (先锋党)",
+    "Democratic Centralism (民主集中制)",
+    "Imperialism (帝国主义)",
+    "Soviets (苏维埃)",
+    "Comintern (共产国际)",
+    "Bolsheviks vs Mensheviks"
+  ],
+  "style_evolution": [
+    {"period": "早期(1900-1903)", "description": "学术性马克思主义研究"},
+    {"period": "先锋党形成(1903-1917)", "description": "战斗性党内斗争+理论论战"},
+    {"period": "革命时期(1917)", "description": "口号式+论证式并用"},
+    {"period": "执政时期(1918-1924)", "description": "国家政策+党内治理+国际革命"}
+  ],
+  "sources_used": ["Wikipedia"]
+}
