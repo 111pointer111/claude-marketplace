@@ -89,5 +89,5 @@
 
 ---
 
-*本文件最后更新：2026-04-30*
+*本文件最后更新：2026-07-13（在 2026-04-30 基础上续做，Britannica 当日 403 不可达已记录）*
 *Distilled by: Historical Persona Distiller Pipeline*

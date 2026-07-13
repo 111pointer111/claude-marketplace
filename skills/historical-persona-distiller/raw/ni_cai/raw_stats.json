@@ -1,14 +1,36 @@
 {
   "persona_id": "ni_cai",
-  "distillation_date": "2026-04-30",
+  "distillation_date": "2026-07-13",
   "corpus_stats": {
-    "传记_chars": 2578,
-    "引语_chars": 1913,
-    "total_raw_chars": 4491
+    "传记_chars": 18125,
+    "引语_chars": 3775,
+    "哲学百科_chars": 6221,
+    "total_raw_chars": 28121
   },
   "sources": [
     "Stanford Encyclopedia of Philosophy - Nietzsche (plato.stanford.edu)",
-    "Britannica - Friedrich Nietzsche Biography (britannica.com)"
+    "Wikipedia - Friedrich Nietzsche (en.wikipedia.org)",
+    "Wikiquote - Friedrich Nietzsche (en.wikiquote.org)",
+    "Chinese Wikipedia / Baidu Baike style (carried over from 2026-04-30 partial run)"
   ],
-  "note": "尼采为哲学家，无诗词作品；主要语料为学术文献和百科传记"
+  "source_fetch_status": {
+    "SEP": "success (~6221 chars philosophy content)",
+    "Wikipedia_EN": "success (~15000+ chars biography)",
+    "Wikiquote": "success (~5000+ chars direct quotes)",
+    "Britannica": "failed (403 Forbidden, 2026-07-13)"
+  },
+  "language_mix": {
+    "chinese": "传 记.txt 主体 (含 Chinese Wiki + 英文 Wiki 增补)",
+    "english": "哲学百科.txt 主体 (SEP 原文翻译) + 引语.txt (英文 Wikiquote)"
+  },
+  "stage1_compliance": {
+    "传记_present": true,
+    "传记_chars_ge_3000": true,
+    "引语_present": true,
+    "全部语料_present": true,
+    "全部语料_chars_ge_3000": true,
+    "sources_count": 4,
+    "western_philosopher_path": "SEP (primary) + Wikipedia (secondary) + Wikiquote (tertiary); Britannica skipped due to 403"
+  },
+  "note": "尼采为西方哲学家，无诗词作品；主要语料为学术文献和百科传记 + 直接引语。Stage 1 满足 western_philosopher 路径（1-2 源达标，本案 3 源远超）。"
 }

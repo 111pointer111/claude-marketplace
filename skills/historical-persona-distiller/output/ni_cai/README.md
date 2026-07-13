@@ -113,12 +113,13 @@
 
 | 项目 | 内容 |
 |------|------|
-| **蒸馏日期** | 2026-04-30 |
+| **蒸馏日期** | 2026-07-13（基于 2026-04-30 partial run 续做） |
 | **confidence** | high |
-| **语料规模** | 约25000字 |
-| **主要来源** | Stanford Encyclopedia of Philosophy, Britannica |
+| **语料规模** | 28,121 字（传记 18,125 + 哲学百科 6,221 + 引语 3,775） |
+| **主要来源** | Stanford Encyclopedia of Philosophy (SEP), Wikipedia (English), Wikiquote, Chinese Wikipedia/Baidu Baike style |
+| **Britannica 状态** | 2026-07-13 抓取返回 403 Forbidden,降级使用 SEP+Wikipedia 替代 |
 
 ---
 
-*本文件最后更新：2026-04-30*
-*Distilled by: Historical Persona Distiller Pipeline*
+*本文件最后更新：2026-07-13*
+*Distilled by: Historical Persona Distiller Pipeline (resumed Stage 4-5 from 4月 30 partial run)*

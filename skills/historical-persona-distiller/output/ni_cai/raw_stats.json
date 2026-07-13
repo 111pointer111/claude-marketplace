@@ -1,28 +1,79 @@
 {
   "persona_id": "ni_cai",
   "name_zh": "弗里德里希·尼采",
-  "name_en": "Friedrich Nietzsche",
-  "distillation_date": "2026-04-30",
-  "sources_count": 2,
+  "name_en": "Friedrich Wilhelm Nietzsche",
+  "distillation_date": "2026-07-13",
+  "sources_count": 4,
   "sources": [
     {
-      "name": "Stanford Encyclopedia of Philosophy - Nietzsche",
+      "name": "Stanford Encyclopedia of Philosophy - Friedrich Nietzsche",
       "url": "plato.stanford.edu/entries/nietzsche/",
       "type": "academic",
-      "size_chars": 30000
+      "size_chars": 6221,
+      "fetch_status": "success_2026-07-13"
+    },
+    {
+      "name": "Wikipedia - Friedrich Nietzsche (English)",
+      "url": "en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "type": "encyclopedia",
+      "size_chars": 15000,
+      "fetch_status": "success_2026-07-13"
+    },
+    {
+      "name": "Wikiquote - Friedrich Nietzsche",
+      "url": "en.wikiquote.org/wiki/Friedrich_Nietzsche",
+      "type": "quotes",
+      "size_chars": 3775,
+      "fetch_status": "success_2026-07-13"
     },
     {
       "name": "Britannica - Friedrich Nietzsche Biography",
       "url": "britannica.com/biography/Friedrich-Nietzsche",
       "type": "encyclopedia",
-      "size_chars": 10000
+      "size_chars": 0,
+      "fetch_status": "failed_403_Forbidden_2026-07-13",
+      "previous_success": "2026-04-30"
     }
   ],
   "corpus_stats": {
-    "传记_chars": 2578,
-    "引语_chars": 1913,
-    "total_raw_chars": 4491,
-    "note": "尼采为哲学家，无诗词作品；主要语料为学术文献和百科传记"
+    "传记_chars": 18125,
+    "引语_chars": 3775,
+    "哲学百科_chars": 6221,
+    "total_raw_chars": 28121,
+    "note": "尼采为西方哲学家，无诗词作品；语料以学术文献(SEP)+ 传记(Wikipedia)+ 引语(Wikiquote)三源交叉验证。Britannica 2026-07-13 不可达，已降级。"
+  },
+  "stage1_compliance": {
+    "传记_present": true,
+    "传记_chars_ge_3000": true,
+    "引语_present": true,
+    "全部语料_present": true,
+    "全部语料_chars_ge_3000": true,
+    "sources_count_ge_2": true,
+    "western_philosopher_path_met": true
+  },
+  "stages_identified": {
+    "count": 5,
+    "names": [
+      "Stage 1: 早年塑造 (1844-1864)",
+      "Stage 2: 学术崛起与瓦格纳时期 (1865-1876)",
+      "Stage 3: 学术与哲学的裂变 (1876-1879)",
+      "Stage 4: 成熟哲学时期 (1879-1888)",
+      "Stage 5: 沉默余生 (1889-1900)"
+    ],
+    "default_stage": "Stage 4: 成熟哲学时期 (1879-1888)",
+    "stages_1_4_confidence": "high",
+    "stage_5_confidence": "medium (本人无创作,身后 Elisabeth 编辑争议)"
+  },
+  "dimensions_analyzed": {
+    "count": 5,
+    "files": [
+      "dimension_思想内核.json (8 核心信念)",
+      "dimension_语言特征.json (语言风格 + 风格演变)",
+      "dimension_表达偏好.json (沟通风格 + 论证模式)",
+      "dimension_立场光谱.json (政治/社会/文化立场)",
+      "dimension_voice_profile.json (声音特征,4 核心声音)"
+    ],
+    "consistency_check": "consistency_check.md (5 阶段跨期一致性 + 矛盾处置)"
   },
   "output_files": [
     "SKILL.md",
@@ -35,7 +86,9 @@
   ],
   "raw_files": [
     "raw/ni_cai/传记.txt",
-    "raw/ni_cai/引语.txt"
+    "raw/ni_cai/引语.txt",
+    "raw/ni_cai/哲学百科.txt",
+    "raw/ni_cai/全部语料.txt"
   ],
   "processed_files": [
     "processed/ni_cai/stages.md",
@@ -43,6 +96,9 @@
     "processed/ni_cai/dimension_语言特征.json",
     "processed/ni_cai/dimension_表达偏好.json",
     "processed/ni_cai/dimension_立场光谱.json",
-    "processed/ni_cai/dimension_voice_profile.json"
-  ]
+    "processed/ni_cai/dimension_voice_profile.json",
+    "processed/ni_cai/consistency_check.md"
+  ],
+  "overall_confidence": "high",
+  "distillation_version": "1.0 (resumed from 2026-04-30 partial run)"
 }

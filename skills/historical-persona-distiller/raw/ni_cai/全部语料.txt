@@ -1,0 +1,260 @@
+# 尼采全部语料 (合并)
+
+> 不含引语.txt (按 RULES.md §二 1.5 单独保留)
+> 抓取/合并日期: 2026-07-13
+
+---
+
+【来源 1: Stanford Encyclopedia of Philosophy】
+
+# 尼采哲学百科 - SEP
+
+> 来源: https://plato.stanford.edu/entries/nietzsche/
+> 抓取日期: 2026-07-13
+> 人物: Friedrich Nietzsche (1844–1900), 德国哲学家与文化批评家
+> 核心定位: 对传统欧洲道德与宗教的不妥协批判,与马克思、弗洛伊德并列为"怀疑诠释学"代表
+
+---
+
+## 1. 生平与著作
+
+尼采 1844 年 10 月 15 日生于 Röcken。24 岁即被聘为巴塞尔大学古典语文学教授,是该校史上最年轻的讲座教授。其师 Friedrich Wilhelm Ritschl 评价他"几乎能随心所欲做任何事"(Kaufmann 1954: 8)。
+
+**第一本书《悲剧的诞生》(1872)** 是争议性檄文,摒弃了古典语文学方法。
+**《不合时宜的考察》** 紧随其后。
+**《人性的,太过人性的》(1878)** 引入箴言体风格,基本终结了他与瓦格纳的友谊。
+
+成熟期著作:
+- 《朝霞》(1881)
+- 《快乐的科学》(1882)
+- 《查拉图斯特拉如是说》(1883–1885)
+- 《论道德的谱系》(1887)
+- 《善恶的彼岸》(1886)
+- 《偶像的黄昏》(1888)
+- 《瓦格纳事件》(1888)
+- 《反基督》(1888)
+- 《瞧,这个人》(1888)
+
+尼采的妹妹 Elisabeth 编辑出版了《权力意志》,但"编辑工作并未建立在尼采现存的规划之上"。
+
+---
+
+## 2. 宗教与道德批判
+
+> "上帝已死" (*GS* 108, 125, 343)
+
+尼采"最系统的发展"见于《论道德的谱系》,由三篇论文组成。
+
+**第一篇论文** 区分两种道德模式:好/坏(源于社会阶层特权,表达"距离的悲情")与善/恶(聚焦利他关切)。这一转变是"道德中的奴隶叛乱"(*GM* I, 10),驱动力量是 *ressentiment*(一种"持续、腐蚀性的怨恨情感模式")。
+
+**第二篇论文** 探讨罪责,将其与债务相连。道德化的罪责"将人负面地绑定于错误的行为"。
+
+**第三篇论文** 审视禁欲主义。禁欲主义祭司对受苦者说:"你自己就是这个人,你独自该为此负责——你独自该为自己负责!"(*GM* III, 15)
+
+> "禁欲祭司让自己在人类灵魂中奏响各种撕心裂肺、销魂夺魄音乐的主要弓法——众人皆知——是通过利用罪责感来完成的。" (*GM* III, 20)
+
+尼采也攻击同情,认为它涉及"一种'小优越感'对他人"(*GM* III, 18)。
+
+---
+
+## 3. 价值创造
+
+> "我们世界中现今有价值之物,其价值并非依其本性而有——自然总是无价值的——而是曾被赋予价值,作为一份赠礼——是我们给予并赠予的。" (*GS* 301)
+
+### 3.2.1 力量与生命
+
+> "什么是善?一切提升人之力量感、权力意志、人之力量本身的事物。什么是恶?一切源于软弱的事物。" (*A* 2)
+
+Reginster 强调力量为"克服阻力"(*BGE* 259, 230)。
+
+### 3.2.2 肯定
+
+> "我要学会越来越把必然之物视为美;然后我将成为那些美化事物者之一。*Amor fati*:愿这从今往后成为我的爱!" (*GS* 276)
+
+### 3.2.3 真诚/诚实
+
+> "一个精神能承受多少真理,它敢承受多少真理?这越来越多地成为我衡量价值的真正尺度。" (*EH* Pref., 3)
+
+### 3.2.4 艺术与艺术性
+
+> "我们拥有艺术,免得我们因真理而毁灭" (*KSA* 16[40] 13: 500)
+
+> "诚实会导向恶心与自杀。但现在有一股反制力量帮助我们避免这种后果:艺术作为对表象的善意意志。" (*GS* 107)
+
+### 3.2.5 个体性、自主、"精神自由"
+
+> "自利价值与持有它的人价值相当" (*TI* IX, 33)
+
+### 3.2.6 多元论
+
+> "只有视角性的看,只有视角性的'知';我们越允许更多情感对一事发言,越能用越多不同的眼睛去看同一件事,我们关于此事的'概念'、我们的'客观性',就越完整。" (*GM* III, 12)
+
+> "唯这适合于一个哲学家。我们在一切事上都没有权利是单一的" (*GM* Pref., 2)
+
+---
+
+## 4. 自我与自我塑造
+
+> "心理学应再次被承认为诸科学之后" (*BGE* 23)
+
+> "沉溺于'统一'、'灵魂'、'人格'的寓言,这是我们已禁止的" (*KSA* 37[4] 11: 577)
+
+尼采提出"会死的灵魂"、"作为主观多重性的灵魂"、"作为驱力与情感社会结构的灵魂"(*BGE* 12)。
+
+---
+
+## 5. 尼采哲学写作的难点
+
+尼采的书由"短小、编号的段落"构成。他"像对待冷水浴般对待深层问题:快速进入,快速退出"(*GS* 381)。
+
+> "一个人写作时,不仅希望被理解;也同样确定地希望不被理解" (*GS* 381)
+
+> "我有许多风格的可能性——一人所能支配的最为多姿多彩的风格艺术" (*EH* III, 4)
+
+箴言举例:
+- "利己主义是应用于情感之上的视角法则" (*GS* 162)
+- "每一种习惯都让我们的手更灵巧,但让我们的灵巧变得笨拙" (*GS* 247)
+
+第三篇论文的高峰箴言:"禁欲理想对人类意味着如此之多,然而,它乃人类意志之基本事实的表达,其 *horror vacui*:它需要一个目标——它宁愿意愿虚无也不愿不意愿。" (*GM* III, 1)
+
+---
+
+## 6. 关键学说
+
+### 6.1 权力意志
+
+四种主要解读:(a) 所有存在者皆求权力增强;(b) 权力为克服阻力(Reginster);(c) 构成能动性的本质(Katsafanas);(d) 成长/力量/扩张(Hussain, Richardson)。
+
+### 6.2 视角主义
+
+> "只有视角性的看,只有视角性的'知'" (*GM* III, 12)
+
+### 6.3 永恒轮回
+
+在《快乐的科学》§341("最大的重负")首次提出,作为思想实验:测试人是否能如其所是地肯定自己的人生。
+
+---
+
+## 引用体例说明
+
+- *GS* = 《快乐的科学》(*The Gay Science*)
+- *GM* = 《论道德的谱系》(*On the Genealogy of Morality*)
+- *BGE* = 《善恶的彼岸》(*Beyond Good and Evil*)
+- *TI* = 《偶像的黄昏》(*Twilight of the Idols*)
+- *EH* = 《瞧,这个人》(*Ecce Homo*)
+- *A* = 《反基督》(*The Antichrist*)
+- *KSA* = 尼采著作集(Colli/Montinari 编)
+- *WEN* / *WLN* = 英文译本系列
+
+## 关键二手文献
+
+Kaufmann (1950), Nehamas (1985), Schacht (1983), Reginster (2006, 2021), Leiter (2015), Richardson (2020), Katsafanas (2013, 2016), Janaway (2007), Anderson (2005, 2009), Williams (1993a, b), Ridley (1998, 2007a, b, 2018), May (1999), Pippin (2010), Hussain (2011), Berry (2024), Huddleston (2014-2024)。
+
+## 传记
+
+Hayman 1980, Cate 2002, Safranski 2003, Young 2010, Prideaux 2018。
+
+---
+
+【来源 2: 中文维基/百科式传记 + 英文 Wikipedia 增补】
+
+# 尼采传记 (中文+英文)
+
+> 中文部分来源: 原 4月 30 日遗留 (Chinese Wikipedia / Baidu Baike 风格)
+> 英文补充来源: https://en.wikipedia.org/wiki/Friedrich_Nietzsche (2026-07-13 抓取)
+
+---
+
+弗里德里希·威廉·尼采（Friedrich Wilhelm Nietzsche，1844年10月15日—1900年8月25日），德国古典学者、哲学家、文化评论家、诗人、作曲家、思想家，是现代最有影响力的思想家之一。他试图揭示传统西方宗教、道德和哲学背后动机，其"上帝已死"的宣言深刻影响了20世纪的神学家、哲学家、心理学家、诗人、小说家和剧作家。虽然他坚决反对民族主义、反犹主义和强权政治，但他的名字后来被法西斯分子利用来推进他深恶痛绝的事情。
+
+## 早年生活
+
+尼采出生于一个路德宗虔诚主义的家庭。祖父曾出版书籍为新教辩护，担任过基督教会的监督；外祖父是一个乡村牧师；父亲卡尔·路德维希·尼采受普鲁士国王腓特烈·威廉四世之命被任命为 Röcken 的牧师，弗里德里希即以国王之名命名。1849年父亲去世，当时尼采不到五岁，他在一个由五个女人组成的环境中长大：母亲、妹妹伊丽莎白、外祖母和两个姨母。
+
+1850年全家迁居到萨勒河畔的瑙姆堡，在那里他进入一所私立预科学校 Domgymnasium 就读。1858年进入德国领先的清教徒寄宿学校舒尔普福特纳学院。他学业出色，接受了出色的古典教育。1864年毕业后进入波恩大学学习神学和古典文献学。在波恩的两个学期因两位古典文学教授之间的激烈争吵而失败，尼采在音乐中寻找慰藉，创作了一些受罗伯特·舒曼影响的音乐作品。1865年转入莱比锡大学，师从里奇尔教授。在莱比锡期间，尼采发现了阿图尔·叔本华的哲学，遇到了伟大的歌剧作曲家理查德·瓦格纳，并开始了与古典学家埃尔温·洛德（Psyche 的作者）的终身友谊。
+
+## 巴塞尔岁月（1869-1879）
+
+1869年巴塞尔大学古典文献学教授席位出缺，里奇尔向巴塞尔大学推荐尼采，评价极高。他既未完成博士论文也未完成德国学位所需的论文，但里奇尔向巴塞尔大学保证，他四十年来从未见过像尼采这样的人，他的才能是无限的。1869年莱比锡大学根据他已发表的著作授予他博士学位，巴塞尔大学任命他为古典文献学副教授。第二年升为正教授。
+
+1870年普法战争爆发后，尼采申请做志愿医护人员。一个月内，在护送伤员时感染了痢疾和白喉，严重损害了他的健康。1876年他与妹妹和彼得·加斯特同住，1878年出版了格言式著作《人性的，太人性的》。由于健康状况持续恶化，他于1879年6月14日辞去教授席位，获得每年3000瑞士法郎的养老金，为期六年。
+
+## 主要著作
+
+《悲剧的诞生》（1872）标志着尼采从古典学术的束缚中解放出来。该书认为希腊悲剧源于阿波罗式（理性、克制、和谐）与狄俄尼索斯式（激情、狂喜）元素的融合，声称苏格拉底理性主义导致了希腊悲剧的死亡，最后十节是关于从瓦格纳音乐精神中重生的悲剧的颂歌。
+
+《查拉图斯特拉如是说》（1883-1885）是尼采最著名的作品，以先知查拉图斯特拉下山向人们传授"超人"和"权力意志"教义的形式写成，包含了尼采哲学的核心思想。
+
+《善恶的彼岸》（1886）提出了对传统价值观的系统批判。
+
+《论道德的谱系》（1887）深入探讨了道德心理学的起源。
+
+《偶像的黄昏》（1888）宣布了"上帝之死"，并批判了所有现存价值观。
+
+《反基督》（未出版）是尼采对基督教及其道德基础的系统批判。
+
+《瞧！这个人》（未出版）是他的自传，写于精神崩溃前夕。
+
+1889年1月在都灵街头崩溃后，尼采失去了理智。他的妹妹伊丽莎白接管了他的文学遗产，出版了《反基督》和《瞧！这个人》，以及从未完成的《权力意志》——但这些编辑工作并非基于尼采的写作计划，且受到伊丽莎白强烈的反犹主义立场的影响。尼采于1900年8月25日去世，死于中风并发症肺炎。
+
+## 主要哲学思想
+
+- "上帝已死"：尼采最著名的宣言并非宣告无神论为真，而是指出基督教上帝的信仰已变得不可信，欧洲道德和文化失去了根基，需要"重估一切价值"。
+- 权力意志：尼采认为生命的本质是不断追求扩张和自我超越的"权力意志"，这是所有生物的基本驱动力。
+- 超人（Übermensch）：尼采设想了一种新的价值体系，以"超人"为理想——一种能够创造自己价值观、不被传统道德束缚的人。
+- 永恒轮回：尼采提出了一种假说，即宇宙中的一切都按无限循环的方式永恒重复。
+- 道德谱系：尼采分析了"主人道德"（高贵、强大）与"奴隶道德"（怜悯、谦卑）的区别，认为现代道德源于"怨恨的起义"。
+- 虚无主义：尼采认识到现代西方文化正在走向虚无主义——对一切意义的否定，但他认为这是可以克服的危机。
+
+## 尼采的语言风格
+
+尼采以其独特的格言体、短段落、挑衅性和反讽性写作闻名，他善于使用心理分析和修辞技巧来挑战传统观念。他的散文风格尖锐、诗意、充满悖论和挑衅。
+
+## 尼采年表（关键事件）
+
+1844年——出生于德国 Röcken
+1849年——父亲去世，搬家至 Naumburg
+1858年——进入 Schulpforta 学院
+1864年——波恩大学学习神学与古典文献学
+1865年——发现叔本华哲学
+1866年——转入莱比锡大学
+1869年——任巴塞尔大学副教授（24岁）
+1870年——作为志愿医护人员参战，感染痢疾
+1872年——出版《悲剧的诞生》
+1876年——与瓦格纳友谊破裂
+1878年——出版《人性的，太人性的》
+1879年——因病辞去教授席位
+1881年——出版《快乐的科学》
+1882年——结识 Lou Salomé
+1883-1885年——出版《查拉图斯特拉如是说》
+1886年——出版《善恶的彼岸》
+1887年——出版《论道德的谱系》
+1888年——精神崩溃
+1897年——母亲去世
+1900年——去世于魏玛
+
+---
+
+## 英文 Wikipedia 增补细节
+
+(详见 raw/ni_cai/传记.txt 末尾部分)
+
+Friedrich Wilhelm Nietzsche (15 October 1844 – 25 August 1900). Born in Röcken, near Leipzig, Prussian Province of Saxony. Renounced Prussian citizenship 1869 (remained stateless for life).
+
+Basel years 1869–1879: youngest tenured Classics professor on record. Honorary doctorate from Leipzig. Medical orderly during Franco-Prussian War, contracted diphtheria and dysentery. Inaugural lecture "Homer and Classical Philology." Befriended Overbeck, Spir, Burckhardt.
+
+Disappointed by Bayreuth Festival 1876. Resigned 1879 due to health.
+
+Independent philosopher 1879–1888: traveled among Sils Maria, Genoa, Rapallo, Turin, Nice. Peter Gast (Heinrich Köselitz) as private secretary.
+
+Key relationships: Wagner (alienated by German-culture politics); Paul Rée; Lou Salomé (met 1882, three proposals rejected); Elisabeth Förster-Nietzsche (married antisemitic Bernhard Förster 1886, Paraguay, husband suicide, returned 1893 to control Nietzsche's works).
+
+Mental collapse 3 January 1889 in Turin. "I have had Caiaphas put in fetters. Also, last year I was crucified by the German doctors." (to Burckhardt)
+
+Diagnoses: tertiary syphilis (original); manic-depressive + vascular dementia (Cybulska/Schain); retro-orbital meningioma (Sax); frontotemporal dementia (Orth/Trimble); CADASIL; mercury poisoning.
+
+Concepts: Apollonian/Dionysian; Death of God; Nihilism; Eternal recurrence; Perspectivism; Master–slave morality; Will to power; Übermensch; Transvaluation. Plus: Amor fati, ressentiment, herd instinct, last man.
+
+Reception: Elisabeth's editions twisted his anti-nationalism into nationalism; associated with fascism. Kaufmann, Hollingdale, Bataille defended. Renewed popularity 1960s. Impact: existentialism, postmodernism, post-structuralism, art, literature, music.
+
+Influences on Nietzsche: Greek tragedy, Schopenhauer, Emerson, Wagner, Afrikan Spir, Dostoevsky, Kant, Darwin, Feuerbach.

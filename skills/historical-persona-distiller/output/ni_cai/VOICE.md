@@ -167,5 +167,5 @@
 
 ---
 
-*本文件最后更新：2026-04-30*
+*本文件最后更新：2026-07-13（基于 2026-04-30 partial run 续做）*
 *Distilled by: Historical Persona Distiller Pipeline*

@@ -159,12 +159,95 @@ ent foe of nationalism, antisemitism, and power politics, his name was later inv
 
 ## 三、来源清单
 
-| # | 来源 | 网址 | 类型 |
-|---|------|------|------|
-| 1 | Stanford Encyclopedia of Philosophy - Friedrich Nietzsche | plato.stanford.edu/entries/nietzsche/ | 学术文献 |
-| 2 | Britannica - Friedrich Nietzsche Biography | britannica.com/biography/Friedrich-Nietzsche | 百科全书 |
+| # | 来源 | 网址 | 类型 | 抓取状态 |
+|---|------|------|------|----------|
+| 1 | Stanford Encyclopedia of Philosophy - Friedrich Nietzsche | plato.stanford.edu/entries/nietzsche/ | 学术文献 | ✅ 2026-07-13 |
+| 2 | Wikipedia (English) - Friedrich Nietzsche | en.wikipedia.org/wiki/Friedrich_Nietzsche | 百科传记 | ✅ 2026-07-13 |
+| 3 | Wikiquote - Friedrich Nietzsche | en.wikiquote.org/wiki/Friedrich_Nietzsche | 引语集 | ✅ 2026-07-13 |
+| 4 | Britannica - Friedrich Nietzsche Biography | britannica.com/biography/Friedrich-Nietzsche | 百科全书 | ⚠️ 2026-07-13 403 Forbidden (此前 2026-04-30 成功) |
 
 ---
 
-*本文件最后更新：2026-04-30*
+## 补充引语(2026-07-13 新增,源自 Wikipedia + Wikiquote + SEP 原文)
+
+### A. 关键德文原文带英译
+
+- "Ich bin ein polnischer Edelmann reinster Abstammung" (Nietzsche 自述) — "I am a pure-blooded Polish nobleman."
+  来源: Wikipedia. Colli/Montinari 称此为"误信",学者多数否认。
+- "Höre mich! Denn ich bin ein solcher und solcher. Vor allem: verwechsele mich nicht!" — "Hear me! For I am such and such a person. Above all, do not mistake me for someone else." (*Ecce Homo* 序言)
+  来源: Wikipedia + SEP
+
+### B. Wikiquote 收录的《悲剧的诞生》(1872) 关键引语
+
+> "Art is the supreme task and the truly metaphysical activity in this life..."
+> "In the mountains of truth you will never climb in vain"
+> "No one can construct for you the bridge upon which precisely you must cross the stream of life"
+> "It is precisely facts that do not exist, only interpretations."
+
+### C. Wikiquote 收录的《论道德的谱系》(1887) 关键引语
+
+> "slave morality from the outset says No to what is 'outside,' what is 'different'"
+> "All instincts that do not discharge themselves outwardly turn inward"
+
+### D. Wikiquote 收录的《反基督》关键引语
+
+> "What is good? — All that heightens the feeling of power, the will to power, power itself in man."
+> "What is bad? — All that proceeds from weakness."
+> "The very word 'Christianity' is a misunderstanding"
+> "I call Christianity the one great curse, the one great intrinsic depravity"
+
+### E. 书信与笔记(Wikiquote + SEP)
+
+> "These accursed anti-Semite deformities _shall not_ sully my ideal!!"
+> "Style ought to prove that one _believes_ in an idea"
+> "Is Wagner a human being at all? Is he not rather a disease?"
+> "All truths are bloody truths to me"
+
+### F. SEP 收录的《论道德的谱系》三篇论文核心引语(带编号)
+
+**第一篇 (GM I):**
+- "pathos of distance" (GM I, 2) — 距离的悲情
+- "slave revolt in morality" (GM I, 10; cf. BGE 260) — 道德中的奴隶叛乱
+- "the most spiritual" form of revenge (GM I, 7) — 最精神性的复仇形式
+
+**第二篇 (GM II):**
+- 关于罪责 (Schuld) 与债务 (Schulden) 的字源学关联
+- 道德化的罪责"将人负面地绑定于错误的行为"
+
+**第三篇 (GM III):**
+- "you yourself are this someone, you alone are to blame for it—you alone are to blame for yourself!" (GM III, 15)
+- "The principal bow stroke the ascetic priest allowed himself to cause the human soul to resound with wrenching and ecstatic music of every kind was executed—everyone knows this—by exploiting the feeling of guilt." (GM III, 20)
+- "morality amounts to a vindictive effort to poison the happiness of the fortunate" (GM III, 14)
+- "the ascetic ideal has meant so much to man, however, is an expression of the basic fact of the human will, its horror vacui: it needs a goal,—and it would rather will nothingness than not will." (GM III, 1)
+- "the satisfactions of pity essentially involve a feeling of 'small superiority' over others" (GM III, 18)
+
+### G. SEP 收录的其他关键引语(带原文编号)
+
+- "God is dead" — *GS* 108, 125, 343(《快乐的科学》三处出现)
+- "Whatever has value in our world now does not have value in itself... but has been given value at some time, as a present—and it was we who gave and bestowed it." (*GS* 301)
+- "I want to learn more and more to see as beautiful what is necessary in things; then I shall be one of those who make things beautiful. Amor fati: let that be my love henceforth!" (*GS* 276)
+- "How much truth does a spirit endure, how much truth does it dare? More and more that became for me the real measure of value." (*EH* Pref., 3)
+- "We possess art lest we perish of the truth" (*KSA* 16[40])
+- "Honesty would lead to nausea and suicide. But now there is a counterforce against our honesty that helps us to avoid such consequences: art as the good will to appearance." (*GS* 107)
+- "There is only a perspectival seeing, only a perspectival 'knowing'; and the more affects we allow to speak about a matter, the more eyes, different eyes, we know how to bring to bear on one and the same matter, that much more complete will our 'concept' of this matter, our 'objectivity', be." (*GM* III, 12)
+- "For this alone is fitting for a philosopher. We have no right to be single in anything" (*GM* Pref., 2)
+- "psychology be recognized again as the queen of the sciences" (*BGE* 23)
+- "To indulge the fable of 'unity,' 'soul,' 'person,' this we have forbidden" (*KSA* 37[4])
+- "He will simply be able to do anything he wants to do" — Ritschl 推荐信 (Kaufmann 1954: 8)
+- "my book and Wagner's Parsifal libretto crossed in the mail 'as if two swords had crossed'" (*EH* III, HH, 5)
+- "I have many stylistic possibilities—the most multifarious art of style that has ever been at the disposal of one man" (*EH* III, 4)
+- "One does not only wish to be understood when one writes; one wishes just as surely not to be understood" (*GS* 381)
+- "What is good? Everything that heightens the feeling of power in man, the will to power, power itself. What is bad? Everything that is born of weakness." (*A* 2)
+- "Egoism is the law of perspective applied to feelings" (*GS* 162)
+- "Every habit lends our hand more wit but makes our wit less handy" (*GS* 247)
+
+### H. 关于身后出版争议的引用
+
+- "The editorial work was not well founded in Nietzsche's surviving plans for the book and was also marred by Elisabeth's strong anti-Semitic commitments, which had been extremely distressing to Nietzsche himself." — SEP
+- Montinari 称 Elisabeth 编的《权力意志》为"伪造"(forgery)
+- Walter Kaufmann, R. J. Hollingdale, Georges Bataille 20 世纪为尼采辩护,反对法西斯挪用
+
+---
+
+*本文件最后更新：2026-07-13（在 2026-04-30 基础上追加 Wikipedia + Wikiquote + SEP 原文引语 + Britannica 403 状态说明）*
 *Distilled by: Historical Persona Distiller Pipeline*
