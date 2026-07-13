@@ -39,6 +39,7 @@
 | 162 | 李嘉图 | 英国/19世纪 | 2026-05-13 | high | ~25 |
 | 163 | 亚当·斯密 | 苏格兰/18世纪 | 2026-05-13 | high | ~45 |
 | 164 | 凯恩斯 | 英国/20世纪 | 2026-05-13 | high | ~45 |
+| 165 | 尼采 | 德国/19世纪 | 2026-07-13 | high | ~35 |
 
 **字段说明：**
 - `#` — 序号，按完成顺序自动递增
@@ -52,10 +53,10 @@
 
 ## 二、下一待处理
 
-**下一待处理：** （所有人物已蒸馏完成）
-**来源：** backlog.md
-**优先级：** —
-**备注：** 流水线完成。下一人物待队列补充。
+**下一待处理：** #160 穆罕默德二世（mu_han_mo_de_er_shi）
+**来源：** backlog.md（第八批：《人类群星闪耀时》人物）
+**优先级：** high
+**备注：** 奥斯曼苏丹，1453 年攻陷拜占庭（君士坦丁堡），终结东罗马帝国，改变世界格局；茨威格《人类群星闪耀时》开篇人物；1432-1481
 
 ---
 
@@ -2839,3 +2840,43 @@ DONE.md"下一待处理"已更正为弗洛伊德（fu_luo_yi_de）。
 **耗时：** 约15分钟
 
 **备注：** 马尔萨斯（Thomas Robert Malthus，1766-1834）是英国经济学家和人口学家，《人口原理》（1798）作者；web_search失败后通过 SerpAPI + web_fetch 成功抓取3个权威英文来源；3个不同来源共约54,891字语料；马尔萨斯为经济学家非诗人，无需诗词采集；核心概念：Malthusian trap（人口陷阱）/几何级数vs算术级数/有效需求/道德约束；5条思想内核（人口法则不可逃避/贫困是人口法则必然结果非制度之罪/道德约束优于罪恶苦难/经验主义方法论/有效需求与平衡消费）均有原文引用验证；Voice Profile为19世纪英国学术英语风格——冷峻、理性、数据驱动、逻辑严密，medium confidence（无历史录音）；凯恩斯称其为"剑桥经济学家的第一人"；影响了达尔文和华莱士的进化论思想；是流水线第161号人物；confidence评为 high。
+
+---
+
+### 2026-07-13 尼采（ni_cai）蒸馏记录
+
+**执行状态：** ✅ 完成
+**置信度：** high
+**persona_id：** ni_cai
+
+**蒸馏用时：** ~35 分钟（基于 2026-04-30 partial run 续做）
+
+**搜索工具使用记录：**
+- `web_search（DuckDuckGo）`：未使用（已知路径优先,直 fetch）
+- `direct web_fetch（SEP）`：✅ 成功（plato.stanford.edu/entries/nietzsche/）
+- `direct web_fetch（Wikipedia EN）`：✅ 成功（en.wikipedia.org/wiki/Friedrich_Nietzsche,完整传记）
+- `direct web_fetch（Wikiquote）`：✅ 成功（en.wikiquote.org/wiki/Friedrich_Nietzsche,按著作分类的直接引语）
+- `direct web_fetch（Britannica）`：❌ 失败（403 Forbidden, 2026-07-13）
+
+**最终来源：**
+1. Stanford Encyclopedia of Philosophy - Nietzsche（plato.stanford.edu）：✅ 成功,哲学百科 ~6,221 字
+2. Wikipedia - Friedrich Nietzsche（en.wikipedia.org）：✅ 成功,完整传记 ~18,000 字
+3. Wikiquote - Friedrich Nietzsche（en.wikiquote.org）：✅ 成功,直接引语 ~3,775 字
+4. Britannica - Friedrich Nietzsche Biography（britannica.com）：❌ 403 Forbidden(2026-07-13;2026-04-30 此前已成功)
+
+**百度百科：** 未使用(SEP+Wikipedia 替代)
+
+**git push 情况：** ✅ 成功
+- commit 69f99e9: distill: 尼采 Nietzsche persona (HIGH) - raw & processed
+- commit 2da74a2: backlog: extend to 300 candidates
+
+**confidence：** high
+**耗时：** ~35 分钟(resume from partial run)
+
+**备注：** 尼采（Friedrich Wilhelm Nietzsche，1844-10-15 至 1900-08-25）是德国哲学家、文化批评家、古典学者、诗人，对欧洲传统道德与宗教做最不妥协的批判；3 个不同来源共约 28,000 字语料（远超 3,000 字门槛）；尼采为西方哲学家非诗人，无需诗词采集；5 阶段切分（1844-1864 / 1865-1876 / 1876-1879 / 1879-1888 / 1889-1900），Stage 1-4 confidence: high, Stage 5 confidence: medium；5 维度分析（思想内核 8 信念/语言特征/表达偏好/立场光谱/voice_profile）+ consistency_check.md 跨期一致性报告；核心概念：上帝已死/权力意志/主-奴道德/永恒轮回/超人/Amor fati/视角主义/虚无主义诊断；身后出版争议（Elisabeth 编《权力意志》被 Montinari 称为"伪造"）已隔离；是流水线第 165 号人物；confidence 评为 high。
+
+**引用验证（RULES.md §七 规则4）：** "Was mich nicht umbringt, macht mich stärker"（凡是不能杀死我的...）→ 《偶像的黄昏》(*Twilight of the Idols*)「Sprüche und Pfeile」§8 — 2026-07-13 WebSearch 验证通过。
+
+**自我矛盾处置（§七 规则5）：** 详见 processed/ni_cai/consistency_check.md（5 项矛盾识别 + 处置）。
+
+**下一待处理更正：** 此前临时标注 #135 特斯拉为下一待处理，但 DONE.md 顶部已完成表已显示 特斯拉 2026-05-08 完成(#138)。已更正为 backlog 中实际下一个 high priority pending: #160 穆罕默德二世(第八批)。
