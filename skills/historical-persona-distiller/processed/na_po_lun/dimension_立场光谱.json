@@ -1,0 +1,53 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "na_po_lun",
+  "political_orientation": {
+    "imperial_form": "法国第一帝国(1804-1814, 1815)",
+    "rule_style": "皇帝集权 + 革命继承 + 法典统治",
+    "legitimacy_basis": ["革命继承(1789)", "军事胜利", "人民公投(1804 复辟帝制)"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "奴隶制",
+      "view": "1802 恢复法国殖民地奴隶制(背离 1794 废除)",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "称帝",
+      "view": "1804 称帝(自戴皇冠,不从教皇手)",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "西班牙入侵",
+      "view": "1808 入侵西班牙,引发半岛战争泥潭",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "欧洲征服",
+      "view": "600 万欧洲人死亡于拿破仑战争",
+      "source": "Wikipedia + 历史学家共识"
+    }
+  ],
+  "intellectual_influences": [
+    "法国大革命(1789)",
+    "启蒙运动(Rousseau, Voltaire)",
+    "Corsican 民族主义(Pasquale Paoli)",
+    "罗马帝国(他自己认同 Caesar)",
+    "Julien 中的 Corsican 出身(双世界边界)"
+  ],
+  "intellectual_legacy": [
+    "拿破仑法典(全球 100+ 国家民法)",
+    "Lycée 与 grandes écoles(法国精英教育)",
+    "省长制(中央集权行政)",
+    "军团勋章(基于功勋的荣誉)",
+    "现代民法体系基础"
+  ],
+  "spectrum_placement": {
+    "centralization": "高度中央集权(省长制)",
+    "tolerance": "解放犹太人 + 宗教和解,但恢复殖民地奴隶制",
+    "religious_authority": "Concordat 世俗和解",
+    "wealth": "贵族血统论 → 能力论",
+    "military": "军事天才但最终败于俄国/西班牙/英国"
+  },
+  "sources_used": ["Wikipedia", "Wikiquote"]
+}

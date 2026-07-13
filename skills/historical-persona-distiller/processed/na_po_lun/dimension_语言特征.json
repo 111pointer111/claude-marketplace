@@ -1,0 +1,37 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "na_po_lun",
+  "languages_used": ["法语(主)", "意大利语(母语)", "科西嘉语(童年)", "拉丁语(教育)"],
+  "primary_language": "法语(法国化发音)",
+  "sentence_structure": {
+    "military_orders": "短句命令式,无冗余修饰,直接命令",
+    "proclamations": "中等长度,煽动性,号召士兵",
+    "letters_to_josephine": "极短,情感流露,与军事语调反差巨大",
+    "code_napoleon": "法典文体,清晰精确,无歧义",
+    "sainte_helene_memoirs": "回忆性长句,反思性强"
+  },
+  "rhetorical_devices": [
+    "军事命令:'From the summit of yonder pyramids forty centuries look down upon you'",
+    "历史定位:自我放置于历史长河(40 个世纪)",
+    "简短箴言:'The word impossible is not French'",
+    "Power assertion:'I am the Revolution, I myself!'",
+    "对 Josephine 的浪漫反差"
+  ],
+  "characteristic_vocabularies": [
+    "La Grande Armée (大军团)",
+    "Code Civil (拿破仑法典)",
+    "Empire (帝国)",
+    "Légion d'honneur (军团勋章)",
+    "Continental System (大陆封锁)",
+    "Brumaire (雾月)",
+    "Belle Alliance (滑铁卢联军)",
+    "Austerlitz / Jena / Wagram / Friedland / Leipzig / Waterloo"
+  ],
+  "style_evolution": [
+    {"period": "早期(1793-1799)", "description": "革命军事命令式"},
+    {"period": "意大利战役(1796-97)", "description": "军事命令 + 致 Josephine 浪漫反差"},
+    {"period": "执政与帝国(1799-1812)", "description": "政治改革文告 + 法典 + 军事命令"},
+    {"period": "覆亡与流放(1813-1821)", "description": "圣赫勒拿回忆录 + 临终反思"}
+  ],
+  "sources_used": ["Wikipedia", "Wikiquote"]
+}

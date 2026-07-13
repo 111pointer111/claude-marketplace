@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "na_po_lun",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "nap_001",
+      "belief": "革命继承者 — 我是革命本身",
+      "source": "I am the Revolution, I myself! (《执政府与帝国》1834)",
+      "evidence_count": 3,
+      "explanation": "拿破仑认为自己是法国大革命的延续者与维护者,反对保皇派与教权复辟"
+    },
+    {
+      "id": "nap_002",
+      "belief": "军事天才 — 法军战无不胜的核心",
+      "source": "I have fought sixty battles and I have learned nothing which I did not know at the beginning (圣赫勒拿);Forty centuries look down upon you (金字塔宣言)",
+      "evidence_count": 4,
+      "explanation": "Napoleon 的军事思想以速度、集中、内线作战为核心,自视为军事艺术的代表"
+    },
+    {
+      "id": "nap_003",
+      "belief": "法典编纂者 — 法律面前人人平等",
+      "source": "Waterloo will wipe out the memory of my forty victories; but my Civil Code will live forever (归属存疑)",
+      "evidence_count": 2,
+      "explanation": "Napoleon 法典是其最重要的非军事遗产,影响全球 100+ 国家的法律体系"
+    },
+    {
+      "id": "nap_004",
+      "belief": "天才治国论 — 能力优于出身",
+      "source": "Legion d'honneur (1802), 基于功勋的荣誉;Lycée 考试制度",
+      "evidence_count": 3,
+      "explanation": "Napoleon 推翻了贵族血统论,推举平民出身的元帅(出身低微者如 Ney、Lannes)"
+    },
+    {
+      "id": "nap_005",
+      "belief": "实力政治 — 国家利益至上",
+      "source": "Treaty of Tilsit (1807) 与沙俄瓜分欧洲;Continental System (1806) 对英贸易战",
+      "evidence_count": 3,
+      "explanation": "Napoleon 视国家为理性行为体,以战略利益为准绳处理外交"
+    },
+    {
+      "id": "nap_006",
+      "belief": "世俗国家 + 宗教和解",
+      "source": "Concordat of 1801 与教皇和解;同时解放犹太人(1808);废除西班牙宗教裁判所",
+      "evidence_count": 2,
+      "explanation": "Napoleon 结束了法国大革命的反教权极端,与天主教会和解,但保持国家世俗性"
+    },
+    {
+      "id": "nap_007",
+      "belief": "个人意志 + 命运驱动",
+      "source": "Destiny urges me to a goal of which I am ignorant; Imagination governs the world",
+      "evidence_count": 3,
+      "explanation": "Napoleon 自视为命运的工具,这种使命感驱动其征服欧洲"
+    },
+    {
+      "id": "nap_008",
+      "belief": "对英国的敌视 + 大陆封锁",
+      "source": "England will repent of bringing the Russians so far; Continental System (1806-1814)",
+      "evidence_count": 2,
+      "explanation": "Napoleon 视英国为欧洲大陆的主要对手,大陆封锁是其经济战核心,但最终失败"
+    }
+  ],
+  "key_themes": [
+    "革命继承者",
+    "军事天才",
+    "法典编纂者",
+    "天才治国",
+    "实力政治",
+    "世俗国家",
+    "命运驱动",
+    "反英"
+  ],
+  "sources_used": ["Wikipedia", "Wikiquote"]
+}

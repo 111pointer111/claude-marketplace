@@ -1,0 +1,30 @@
+{
+  "persona_id": "na_po_lun",
+  "name_zh": "拿破仑·波拿巴",
+  "name_en": "Napoleon Bonaparte",
+  "birth_death": "1769-08-15 / 1821-05-05",
+  "dynasty": "法国第一帝国/19世纪",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "emperor / general / lawgiver",
+  "key_works": [
+    "1804 Code Civil (拿破仑法典)",
+    "1801 Concordat",
+    "1805 Austerlitz 宣言",
+    "1808 解放犹太人敕令",
+    "1815-1821 Mémorial de Sainte-Hélène"
+  ],
+  "core_concepts": [
+    "革命继承者",
+    "军事天才",
+    "法典编纂者",
+    "天才治国",
+    "实力政治",
+    "世俗国家",
+    "命运驱动",
+    "反英"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Napoleon", "Wikiquote - Napoleon I of France"],
+  "default_stage": "切片四:第一帝国军事霸权 (1804-1812)"
+}

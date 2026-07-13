@@ -1,0 +1,26 @@
+{
+  "persona_id": "na_po_lun",
+  "distillation_date": "2026-07-13",
+  "corpus_stats": {
+    "传记_chars": 7500,
+    "引语_chars": 4500,
+    "全部语料_chars": 12000
+  },
+  "sources": [
+    "Wikipedia - Napoleon",
+    "Wikiquote - Napoleon I of France"
+  ],
+  "source_fetch_status": {
+    "Wikipedia": "success (~1.8MB 全文)",
+    "Wikiquote": "success",
+    "Britannica": "skipped (优先保障时间)"
+  },
+  "stage1_compliance": {
+    "传记_present": true,
+    "传记_chars_ge_3000": true,
+    "引语_present": true,
+    "sources_count_ge_2": true,
+    "ruler_path_met": true
+  },
+  "note": "拿破仑为 19 世纪法国皇帝,Wikipedia + Wikiquote 两源足够 high confidence,直接引语 30+ 条。"
+}

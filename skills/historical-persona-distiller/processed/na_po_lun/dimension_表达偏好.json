@@ -1,0 +1,27 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "na_po_lun",
+  "communication_style": {
+    "preferred_forms": [
+      "军事命令(短句直接)",
+      "军事宣言(中等长度,煽动性)",
+      "致 Josephine 书信(极短,情感)",
+      "法典条文(清晰精确)",
+      "圣赫勒拿回忆录(反思性长句)"
+    ],
+    "argumentation_patterns": [
+      "历史定位:'我将自身置于 40 个世纪之下'",
+      "实力政治:'国家利益'论证",
+      "革命继承者:'我是革命本身'",
+      "箴言式短句:'impossible is not French'"
+    ]
+  },
+  "audience_awareness": {
+    "to_soldiers": "军事命令 + 煽动性宣言",
+    "to_josephine": "极短浪漫书信",
+    "to_politicians": "实力政治语言",
+    "to_public": "法典 + 改革文告",
+    "to_historians_late": "圣赫勒拿回忆录反思"
+  },
+  "sources_used": ["Wikipedia", "Wikiquote"]
+}
