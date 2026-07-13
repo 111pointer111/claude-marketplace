@@ -1,0 +1,64 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "ge_lun_bu",
+  "linguistic_profile": {
+    "languages_used": [
+      "利古里亚方言(母语,极少书写)",
+      "西班牙语(正式书写)",
+      "葡萄牙语(早期通信)",
+      "拉丁语(可能)",
+      "希腊语(阅读,不书写)"
+    ],
+    "primary_language": "西班牙语",
+    "register_split": {
+      "diary": "混合语: 西班牙语 + 利古里亚方言 + 意大利语",
+      "official_letters": "西班牙语(标准卡斯蒂利亚语)",
+      "religious": "西班牙语 + 拉丁语《圣经》引语"
+    }
+  },
+  "sentence_structure": {
+    "diary": "短句观察 + 重复;少量修辞;多为陈述性观察",
+    "letters_to_sovereigns": "中等长度,有商业报告体 + 宗教虔诚 + 战略论证",
+    "religious_book": "长句,《圣经》引语与个人反思交织",
+    "late_letters_1503": "短句爆发,情感激烈,宗教语言密集"
+  },
+  "rhetorical_devices": [
+    "宗教语言商业化:'as much gold can be supplied... to go conquer the Holy Sepulchre'",
+    "土著工具化:温和皈依 + 武力征服 50 人即可 + 适合驱使工作",
+    "自我神圣化:晚年'28 年服务' + '头发全白' + '被神召唤'",
+    "请求型修辞:对君主使用,请赐予资助与认可",
+    "末世论框架:援引《以赛亚书》《启示录》预言"
+  ],
+  "characteristic_vocabularies": [
+    "Almirante (Admiral of the Ocean Sea)",
+    "Indies (西印度群岛,他认为的亚洲)",
+    "Hispaniola (今海地/多米尼加)",
+    "Canary Islands (加那利,出发前最后补给)",
+    "Tierra firme (大陆,他认为的亚洲大陆)",
+    "encomienda (托管劳动制度)",
+    "diezmo (1/10 税收)",
+    "ochavo (1/8 商业利润)",
+    "Gold (黄金,寻找的核心)",
+    "Gospel (福音,扩张理由)",
+    "Holy Sepulchre (圣墓,耶路撒冷)"
+  ],
+  "style_evolution": [
+    {
+      "period": "早期日记 (1492-93)",
+      "description": "观察性陈述,夹杂宗教与商业语言"
+    },
+    {
+      "period": "致 Santángel 信 (1493)",
+      "description": "商业-宗教双轨,高度自信,夸耀发现"
+    },
+    {
+      "period": "第三次航行 (1498)",
+      "description": "面对现实(殖民地崩溃),开始辩护"
+    },
+    {
+      "period": "第四次航行 (1502-04)",
+      "description": "晚期幻灭,宗教忏悔 + 自我辩护 + 痛苦"
+    }
+  ],
+  "sources_used": ["Wikipedia", "Wikiquote"]
+}

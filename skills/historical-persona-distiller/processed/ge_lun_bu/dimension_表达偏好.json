@@ -1,0 +1,31 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "ge_lun_bu",
+  "communication_style": {
+    "preferred_forms": [
+      "航海日志 — 短句观察 + 偶发宗教评论",
+      "致君主信 — 商业报告 + 宗教论证 + 战略请求",
+      "《预言书》— 圣经引语 + 个人末世论反思",
+      "晚年辩护信 — 痛苦语气 + 自我辩护"
+    ],
+    "argumentation_patterns": [
+      "《圣经》预言 → 商业理由",
+      "商业回报 → 宗教救赎",
+      "土著'温和' → 可皈依 + 可驱使",
+      "晚期幻灭 → 服务被背叛的悲剧叙事"
+    ],
+    "persuasive_techniques": [
+      "对君主:商业利益(黄金/奴隶)+ 宗教救赎(资助十字军)",
+      "对土著:温和礼物(帽子/珠子)+ 武力威慑(50 人征服)",
+      "对王室:夸大发现('无数可获利之物')",
+      "对自我辩护:痛苦语调 + 神圣使命感"
+    ]
+  },
+  "audience_awareness": {
+    "to_christian_sovereigns": "商业-宗教双轨 — 黄金 + 资助圣墓恢复",
+    "to_indigenous_peoples": "温和皈依 + 工具化使用(可命令工作)",
+    "to_other_christians": "排他性 — 仅 Christian Catholics 可前往",
+    "to_himself_later": "幻灭叙事 — 28 年服务被背叛"
+  },
+  "sources_used": ["Wikipedia", "Wikiquote"]
+}

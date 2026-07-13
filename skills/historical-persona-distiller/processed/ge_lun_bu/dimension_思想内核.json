@@ -1,0 +1,73 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "ge_lun_bu",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "cmb_001",
+      "belief": "西路抵达亚洲 — 地球小且欧亚大陆宽,故西路更短",
+      "source": "I should not proceed by land to the East, as is custom, but by a Westerly route (1492-08-03 日记);我估算加那利到日本只有 2,400 海里(实际 10,600)",
+      "evidence_count": 3,
+      "explanation": "Columbus 的核心地理信念基于 Ptolemy + 短里换算,系统性低估地球约 25%。这是信仰驱动的计算(他需要数字支持理论)。"
+    },
+    {
+      "id": "cmb_002",
+      "belief": "基督教扩张使命 — 新土地用于'为基督收复圣地'",
+      "source": "I propose to give them of all that I have... so that they may be of much more service to Your Highnesses (1493 致 Santángel 信);except Christian Catholics (1492-11-27 限制)",
+      "evidence_count": 4,
+      "explanation": "Columbus 是基督教千禧年论者(Carol Delaney 等学者论证),新世界在他眼中是'为基督收复圣地'的财政来源。寻找黄金的目的是资助十字军。"
+    },
+    {
+      "id": "cmb_003",
+      "belief": "土著易于通过温和手段皈依 + 可奴役",
+      "source": "they could be much more easily converted to our holy faith by gentle means than by force (1492-10-12);they have no arms... So that they are good to be ordered about, to work and sow (1492-12-16);With fifty men I could subjugate them all (1492-10-14)",
+      "evidence_count": 5,
+      "explanation": "Columbus 对土著的工具化态度:'温和皈依' + '武力征服 50 人即可' + '没有武器适合驱使工作' + 索求奴隶。这一混杂态度是他最大的历史争议。"
+    },
+    {
+      "id": "cmb_004",
+      "belief": "财富渴求 — 黄金、香料、奴隶",
+      "source": "as much gold can be supplied as they will need (1493);as many slaves for the navy, as their Majesties will wish to demand (1493-03-14);When there are such lands there should be profitable things without number (1492-11-27)",
+      "evidence_count": 4,
+      "explanation": "Columbus 强烈追求经济回报,主要动机之一是'让西班牙君主足以准备征服圣墓'(具体指耶路撒冷)。这一宗教+商业双驱动力是其行为模式的核心。"
+    },
+    {
+      "id": "cmb_005",
+      "belief": "自己是受神启的航海家",
+      "source": "I came to serve you at the age of 28 and now I have not a hair on me that is not white (1503);Weep for me, whoever has charity, truth and justice (1503)",
+      "evidence_count": 3,
+      "explanation": "Columbus 晚年越来越将自身使命神圣化,认为自己是神的工具。'Book of Prophecies' 收集他解读的圣经预言。"
+    },
+    {
+      "id": "cmb_006",
+      "belief": "新世界是'另一个世界'而非'新世界'",
+      "source": "Your Highnesses have an Other World here (1498)",
+      "evidence_count": 2,
+      "explanation": "Columbus 至死认为他到达的是亚洲边缘(西印度群岛),否认'新世界'概念。这一认知错误导致美洲最终以 Vespucci 而非 Columbus 命名。"
+    },
+    {
+      "id": "cmb_007",
+      "belief": "天主教等级世界观 — 基督教徒才可前往新世界",
+      "source": "your Highnesses ought not to consent that any foreigner does business or sets foot here, except Christian Catholics (1492-11-27)",
+      "evidence_count": 2,
+      "explanation": "Columbus 将新世界视为天主教独占的领土,排他性极强。这一立场后来发展为 'Requerimiento'(西班牙对土著的'要求'承认天主教主权)。"
+    },
+    {
+      "id": "cmb_008",
+      "belief": "晚年幻灭 — 服务被背叛,理想被剥夺",
+      "source": "All that was left to me and my brothers has been taken away and sold, even to the cloak that I wore, without hearing or trial, to my great dishonor. Weep for me, whoever has charity, truth and justice! I did not come on this voyage for gain, honor or wealth (1503)",
+      "evidence_count": 2,
+      "explanation": "1503 年第四次航行信件展现哥伦布的'幻灭'语调——服务 28 年后,被铐押回西班牙、财产没收、诉讼缠身。这是他与王室关系破裂的核心文本。"
+    }
+  ],
+  "key_themes": [
+    "西路抵达亚洲(地理错误)",
+    "基督教扩张/末世论",
+    "土著的工具化态度",
+    "财富渴求 + 宗教动机",
+    "神圣使命感",
+    "新世界排他性",
+    "晚年幻灭"
+  ],
+  "sources_used": ["Wikipedia", "Wikiquote"]
+}

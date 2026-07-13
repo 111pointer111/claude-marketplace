@@ -1,0 +1,57 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "ge_lun_bu",
+  "political_orientation": {
+    "imperial_form": "西班牙帝国扩张先锋,海军上将+副王+总督",
+    "rule_style": "个人英雄 + 委托制 (encomienda)",
+    "legitimacy_basis": ["天主教王室授权", "个人使命感(末世论)"],
+    "tolerance_strategy": "对土著以'温和皈依'为由,实际工具化;对非基督教徒排他"
+  },
+  "controversial_positions": [
+    {
+      "topic": "对土著人权",
+      "view": "工具化 — '50 人征服' + 索求奴隶 + encomienda",
+      "source": "Wikiquote 1492-10-14, 12-16"
+    },
+    {
+      "topic": "对奴隶制",
+      "view": "积极 — 索求'海军所需任意数量的奴隶'",
+      "source": "Wikiquote 1493-03-14"
+    },
+    {
+      "topic": "对非基督教徒",
+      "view": "排他 — 仅 Christian Catholics 可前往新世界",
+      "source": "Wikiquote 1492-11-27"
+    },
+    {
+      "topic": "对地理错误",
+      "view": "至死不承认 — '这是亚洲边缘'",
+      "source": "Wikipedia + Wikiquote 1498 信"
+    }
+  ],
+  "intellectual_influences": [
+    "Ptolemy《地理学》",
+    "Pierre d'Ailly《世界图景》",
+    "Marco Polo 游记",
+    "John Mandeville 游记",
+    "Pliny《自然史》",
+    "Pius II《Historia rerum ubique gestarum》",
+    "《圣经》(以赛亚书、启示录)",
+    "葡萄牙航海技术(volta do mar)"
+  ],
+  "intellectual_legacy": [
+    "Amerigo Vespucci (命名美洲)",
+    "Vasco da Gama (绕过好望角到印度)",
+    "Ferdinand Magellan (环球航行)",
+    "Bartolomé de las Casas (辩护土著)",
+    "Black Legend (黑色传说)"
+  ],
+  "spectrum_placement": {
+    "centralization": "支持西班牙王室绝对权威",
+    "tolerance": "对土著工具化 + 排他非基督教徒",
+    "religious_authority": "天主教扩张主义 + 千禧年论",
+    "wealth": "强烈追求黄金/香料/奴隶",
+    "discovery": "否认新世界,坚持'亚洲'框架"
+  },
+  "sources_used": ["Wikipedia", "Wikiquote"]
+}

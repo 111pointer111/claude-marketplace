@@ -1,0 +1,26 @@
+{
+  "persona_id": "ge_lun_bu",
+  "distillation_date": "2026-07-13",
+  "corpus_stats": {
+    "传记_chars": 8200,
+    "引语_chars": 4200,
+    "全部语料_chars": 12400
+  },
+  "sources": [
+    "Wikipedia - Christopher Columbus",
+    "Wikiquote - Christopher Columbus"
+  ],
+  "source_fetch_status": {
+    "Wikipedia": "success (~1.5MB 全文)",
+    "Wikiquote": "success",
+    "Britannica": "skipped (likely 403, 优先保障时间)"
+  },
+  "stage1_compliance": {
+    "传记_present": true,
+    "传记_chars_ge_3000": true,
+    "引语_present": true,
+    "sources_count_ge_2": true,
+    "explorer_path_met": true
+  },
+  "note": "哥伦布为 15 世纪航海家,Wikipedia 提供最完整传记,Wikiquote 提供直接引语整理。Britannica 暂未抓取(已知历史问题),2 源足够 high confidence。"
+}

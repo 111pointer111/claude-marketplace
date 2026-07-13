@@ -1,0 +1,36 @@
+{
+  "persona_id": "ge_lun_bu",
+  "name_zh": "克里斯托弗·哥伦布",
+  "name_en": "Christopher Columbus / Cristoforo Colombo / Cristóbal Colón",
+  "birth_death": "1451 / 1506-05-20",
+  "dynasty": "西班牙/15世纪",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "explorer / admiral / governor",
+  "key_works": [
+    "1492-08-03 航行日记",
+    "1492-10-12 登陆 San Salvador 日记",
+    "1493-02-15 致 Luis de Santángel 信",
+    "1498 第三次航行日记(首登南美大陆)",
+    "1503 致君主信(晚年辩护)",
+    "Book of Prophecies(晚年)"
+  ],
+  "core_concepts": [
+    "西路抵达亚洲(地理错误)",
+    "基督教扩张/末世论",
+    "土著工具化态度",
+    "财富渴求 + 宗教动机",
+    "自我神圣化",
+    "新世界排他性",
+    "晚年幻灭"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Christopher Columbus", "Wikiquote - Christopher Columbus"],
+  "default_stage": "切片三:第一与第二次航行 (1492-1496)",
+  "notes": [
+    "Britannica 暂未抓取(可能 403),2 源(Wikipedia + Wikiquote)足以支撑 high confidence",
+    "Wikipedia 全文 1.5MB,提供最完整传记",
+    "原哥伦布日记已失,现存多为 Las Casas 摘要",
+    "误传引语(André Gide 等)已在 CITATIONS.md 标注"
+  ]
+}
