@@ -1,0 +1,26 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "ba_er_bo_ya",
+  "communication_style": {
+    "preferred_forms": [
+      "主权宣告命令",
+      "地理命名公告",
+      "政治联盟文书(与酋长联姻协议)",
+      "商业-军事混合报告",
+      "处决辩护呼喊"
+    ],
+    "argumentation_patterns": [
+      "对王室:忠诚 + 战功证明",
+      "对土著酋长:礼物 + 联姻 + 军事威慑组合",
+      "对殖民者对手:政治谋略 + 公开羞辱(Nicuesa 事件)",
+      "对自己:处决辩护呼喊"
+    ]
+  },
+  "audience_awareness": {
+    "to_spanish_crown": "忠诚宣言 + 战功报告 + 探险请求",
+    "to_indigenous_chiefs": "礼物 + 联姻提议 + 军事威胁",
+    "to_spanish_colonists": "政治谋略 + 公开羞辱对手",
+    "to_himself_at_death": "Lies, lies!"
+  },
+  "sources_used": ["Wikipedia"]
+}

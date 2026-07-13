@@ -1,0 +1,27 @@
+{
+  "persona_id": "ba_er_bo_ya",
+  "distillation_date": "2026-07-13",
+  "corpus_stats": {
+    "传记_chars": 6800,
+    "引语_chars": 1800,
+    "全部语料_chars": 8600
+  },
+  "sources": [
+    "Wikipedia - Vasco Núñez de Balboa"
+  ],
+  "source_fetch_status": {
+    "Wikipedia": "success (1MB+ 全文)",
+    "Wikiquote": "404 Not Found (no dedicated Balboa page)",
+    "Britannica": "skipped (likely 403, 优先保障时间)"
+  },
+  "stage1_compliance": {
+    "传记_present": true,
+    "传记_chars_ge_3000": true,
+    "引语_present": true,
+    "sources_count_ge_2": false,
+    "sources_count": 1,
+    "explorer_path_partial_met": true,
+    "note": "仅 Wikipedia 1 源,但内容详尽含直接引语,达到 high confidence 边界。建议后续补充 Britannica/Wikiquote。"
+  },
+  "note": "巴尔博亚为 16 世纪西班牙征服者/探险家,1513 年发现太平洋。Wikiquote 无独立词条,Britannica 暂未抓取。1 源 + 详尽 Wikipedia 全文支持 high confidence。"
+}

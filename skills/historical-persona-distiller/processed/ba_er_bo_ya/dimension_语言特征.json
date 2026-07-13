@@ -1,0 +1,35 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "ba_er_bo_ya",
+  "languages_used": ["西班牙语(母语)", "可能:葡萄牙语、加勒比土著语"],
+  "primary_language": "西班牙语",
+  "sentence_structure": {
+    "letters": "中等长度,商业报告体 + 政治辩论",
+    "proclamations": "命令式短句,主权宣告风格",
+    "deathbed_cry": "爆发性短句 + 重复 + 情感激烈"
+  },
+  "rhetorical_devices": [
+    "主权宣告式:'以西班牙王室名义宣称...'",
+    "地理命名:San Miguel / Isla Rica / Pearl Islands / Mar del Sur",
+    "末日论/宗教感恩:1513 看到太平洋后神父唱 Te Deum",
+    "处决辩护:'Lies, lies!'(重复 + 爆发)"
+  ],
+  "characteristic_vocabularies": [
+    "Mar del Sur (南方之海,太平洋旧名)",
+    "Adelantado (海军上将)",
+    "alcalde (市政官)",
+    "Darién",
+    "Santa María la Antigua del Darién",
+    "Perla (珍珠)",
+    "Hispaniola",
+    "Leoncico (爱犬名)"
+  ],
+  "style_evolution": [
+    {"period": "早期(1510 前)", "description": "随从/种植园主,无显著文学风格"},
+    {"period": "Darién 起义(1510-11)", "description": "命令式政治文书"},
+    {"period": "横穿地峡(1513)", "description": "主权宣告 + 地理命名 + 宗教感恩"},
+    {"period": "Pedrarias 时期(1514-18)", "description": "防御性外交文书 + 商业报告"},
+    {"period": "处决(1519-01)", "description": "爆发性辩护 + 痛苦呼喊"}
+  ],
+  "sources_used": ["Wikipedia"]
+}

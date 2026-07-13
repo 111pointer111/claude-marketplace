@@ -1,0 +1,33 @@
+{
+  "persona_id": "ba_er_bo_ya",
+  "name_zh": "巴尔博亚",
+  "name_en": "Vasco Núñez de Balboa",
+  "birth_death": "约 1475 / 1519-01-15",
+  "dynasty": "西班牙/16世纪",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "conquistador / explorer / governor",
+  "key_works": [
+    "1510 建 Santa María la Antigua del Darién 公告",
+    "1513-09-25 涉水宣告 Mar del Sur 主权",
+    "1519-01-15 处决辩护呼喊",
+    "1513 Pearl Islands 命名"
+  ],
+  "core_concepts": [
+    "探险家使命",
+    "对王室忠诚",
+    "务实政治/谋略",
+    "对土著混杂态度",
+    "珍珠 > 黄金",
+    "Pacific 发现者"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Vasco Núñez de Balboa"],
+  "source_status": {"Wikipedia": "success (1MB+ 全文)", "Wikiquote": "404 Not Found", "Britannica": "skipped"},
+  "default_stage": "切片四:横穿地峡 + 发现太平洋 (1513)",
+  "notes": [
+    "仅 1 源(Wikipedia 详尽)+ 同时代编年史引用,达到 high confidence 边界",
+    "Wikiquote 无独立 Balboa 词条",
+    "Balboa 历史地位被 Cortés/Pizarro 成就掩盖,需在 persona 中明确其地理意义"
+  ]
+}

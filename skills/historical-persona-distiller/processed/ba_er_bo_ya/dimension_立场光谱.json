@@ -1,0 +1,36 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "ba_er_bo_ya",
+  "political_orientation": {
+    "imperial_form": "西班牙帝国探险先锋,后为 Pedrarias 排挤",
+    "rule_style": "个人英雄 + 政治谋略 + 军事联盟",
+    "legitimacy_basis": ["西班牙王室授权", "地理发现成就", "与当地酋长联姻"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "对土著人权",
+      "view": "混杂 — 用狗处决 + 政治联姻",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "对同僚(Nicuesa)",
+      "view": "政治谋略清除 — 后被同样方式对待",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "对 Pedrarias 冲突",
+      "view": "被动 — 接受和解,但最终被处决",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": ["西班牙王室扩张主义", "同时代征服者传统(Cortés, Pizarro)", "Oviedo, Las Casas 编年史"],
+  "intellectual_legacy": ["巴拿马货币 balboa 命名", "Panama-Pacific 博览会 1913 纪念邮票", "月球巴尔博亚陨石坑"],
+  "spectrum_placement": {
+    "centralization": "支持西班牙王室",
+    "tolerance": "对土著混杂态度",
+    "religious_authority": "天主教 + 感恩 Te Deum",
+    "wealth": "珍珠 > 黄金",
+    "discovery": "太平洋发现者"
+  },
+  "sources_used": ["Wikipedia"]
+}

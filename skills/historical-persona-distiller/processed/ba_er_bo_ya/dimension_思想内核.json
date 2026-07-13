@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "ba_er_bo_ya",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "bal_001",
+      "belief": "探险家使命 — 发现新海域,扩展西班牙主权",
+      "source": "1513-09 涉水宣告对 Mar del Sur 的主权",
+      "evidence_count": 3,
+      "explanation": "Balboa 的核心信念是地理发现与西班牙帝国扩展,他愿意冒险横穿地峡,亲自涉水入海宣告主权"
+    },
+    {
+      "id": "bal_002",
+      "belief": "与土著的外交婚姻 — 政治联盟工具",
+      "source": "娶 Careta 酋长的女儿",
+      "evidence_count": 2,
+      "explanation": "Balboa 通过与当地酋长联姻建立政治联盟,这是早期征服者的标准策略。不同于完全军事征服者"
+    },
+    {
+      "id": "bal_003",
+      "belief": "对王室的忠诚 (即使被诬告)",
+      "source": "Lies, lies! ... I have loyally served the King (1519-01-15 处决时)",
+      "evidence_count": 2,
+      "explanation": "Balboa 至死坚称自己忠诚于西班牙王室,反对 Pedrarias 的诬告"
+    },
+    {
+      "id": "bal_004",
+      "belief": "务实政治 — 罢免 Enciso + 阻挠 Nicuesa",
+      "source": "罢免 Enciso 为 alcalde;Nicuesa 被赶上漏船",
+      "evidence_count": 2,
+      "explanation": "Balboa 通过政治谋略清除权力对手,但这种谋略也是他被 Pedrarias 同样谋略处决的原因"
+    },
+    {
+      "id": "bal_005",
+      "belief": "对土著的混杂态度 — 既残忍也务实",
+      "source": "用狗对土著处决;同时娶酋长之女",
+      "evidence_count": 2,
+      "explanation": "Balboa 对土著的态度同时包含残忍(用狗)与务实(政治联姻)。这是 16 世纪征服者的典型复杂性"
+    },
+    {
+      "id": "bal_006",
+      "belief": "对财富的渴求(尽管不如 Cortés/Pizarro 突出)",
+      "source": "注重珍珠(Pearl Islands)而非黄金",
+      "evidence_count": 2,
+      "explanation": "Balboa 的发现主要强调珍珠群岛而非黄金,这部分解释了他在历史叙事中相对 Cortés/Pizarro 的次要地位"
+    },
+    {
+      "id": "bal_007",
+      "belief": "对未知海域的执念",
+      "source": "1519 仍在 Balsas 河造船探索太平洋",
+      "evidence_count": 2,
+      "explanation": "即使在被 Pedrarias 排挤期间,Balboa 仍在建造船只探索太平洋,显示其探索动力至死不渝"
+    },
+    {
+      "id": "bal_008",
+      "belief": "对早期土著的'驯服'假设(后期破灭)",
+      "source": "the Indians who had been like sheep had become like lions",
+      "evidence_count": 2,
+      "explanation": "Balboa 早期认为土著驯服,后期发现他们反抗——这种认知变化反映 16 世纪征服者的典型轨迹"
+    }
+  ],
+  "key_themes": [
+    "探险家使命",
+    "政治联姻",
+    "对王室忠诚",
+    "务实政治",
+    "对土著混杂态度",
+    "财富渴求(珍珠 > 黄金)",
+    "对未知海域执念",
+    "早期'驯服'假设破灭"
+  ],
+  "sources_used": ["Wikipedia"]
+}
