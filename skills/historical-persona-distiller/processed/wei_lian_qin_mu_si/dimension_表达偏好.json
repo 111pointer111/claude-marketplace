@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "wei_lian_qin_mu_si",
+  "communication_style": {
+    "preferred_forms": [
+      "哲学论文(实用主义)",
+      "心理学巨著(意识流)",
+      "演讲(信仰意志)",
+      "随笔"
+    ],
+    "argumentation_patterns": [
+      "实用主义真理观",
+      "现金价值隐喻",
+      "经验主义方法",
+      "信仰意志论证"
+    ]
+  },
+  "audience_awareness": {
+    "to_philosophers": "实用主义真理",
+    "to_psychologists": "意识流+情绪理论",
+    "to_religious_thinkers": "信仰意志",
+    "to_general_readers": "现金价值隐喻"
+  },
+  "sources_used": ["Wikipedia"]
+}

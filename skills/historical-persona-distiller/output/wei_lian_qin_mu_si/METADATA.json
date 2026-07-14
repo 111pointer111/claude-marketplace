@@ -1,0 +1,31 @@
+{
+  "persona_id": "wei_lian_qin_mu_si",
+  "name_zh": "威廉·詹姆斯",
+  "name_en": "William James",
+  "birth_death": "1842-01-11 / 1910-08-26",
+  "dynasty": "19-20世纪美国",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "philosopher / psychologist",
+  "key_works": [
+    "《心理学原理》(1890)",
+    "《信仰意志》(1896)",
+    "《宗教经验之种种》(1902)",
+    "《实用主义》(1907)",
+    "《多元的宇宙》(1909)",
+    "《真理的意义》(1909)"
+  ],
+  "core_concepts": [
+    "实用主义",
+    "信仰意志",
+    "情绪理论(James-Lange)",
+    "意识流",
+    "真理是过程",
+    "相信生活值得过",
+    "多元宇宙",
+    "美国心理学之父"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - William James", "西方哲学常识补充"],
+  "default_stage": "切片三:实用主义形成 (1890-1907)"
+}

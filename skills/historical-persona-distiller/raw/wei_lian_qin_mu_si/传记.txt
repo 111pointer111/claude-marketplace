@@ -1,0 +1,126 @@
+# 威廉·詹姆斯 - 传记
+
+> 来源: Wikipedia (https://en.wikipedia.org/wiki/William_James)
+> 抓取日期: 2026-07-13
+
+---
+
+## 基本信息
+
+**全名:** William James
+**生卒:** 1842-01-11(纽约 Astor House) — 1910-08-26(新罕布什尔 Chocorua 家中),享年 68 岁
+**身份:** 美国哲学家、心理学家
+**贡献:** 实用主义(pragmatism)创始人之一、美国心理学之父
+
+## 一、家世与早年
+
+父 Henry James Sr. 是富有的斯维登堡派神学家,与当时文学知识精英熟识。
+母 Mary Robertson Walsh。
+兄弟 Henry(小说家)、Garth Wilkinson、Robertson、Alice(日记作家)。
+
+接受跨大西洋式博雅教育,精通德法。最初想学画,在 William Morris Hunt 画室学徒,后被父亲引导学医。
+
+## 二、教育
+
+- 1861 哈佛 Lawrence 科学学校学自然科学
+- 1864 哈佛医学院
+- 1865 参加 Louis Agassiz 亚马逊河 Thayer 探险队,因晕船和天花缩短行程
+- 1869 获 MD 学位,未行医
+- 1867-1868 游学德国,发现真正兴趣在哲学与心理学
+- **1872 经历"灵魂之疾"消解**
+
+## 三、哈佛生涯
+
+- 1873 生理学讲师
+- 1876 心理学助理教授
+- 1885 正教授
+- 1889 获心理学会主席席
+- 1907 哲学荣休教授
+- 1875-1876 开设美国第一门实验心理学课程——"美国第一心理学教育者"
+- 形而上学俱乐部(1872)成员
+- 美国超心理学研究学会创始人
+
+## 四、主要贡献
+
+### 实用主义(Pragmatism)
+与 Charles Sanders Peirce 共同建立实用主义。James 引入"现金价值"(cash value)隐喻:
+
+> "You must bring out of each word its practical cash-value, set it at work within the stream of your experience."
+
+> 真理观: "true ideas are those that we can assimilate, validate, corroborate, and verify."
+
+### 信仰意志(1896)
+> 詹姆斯主张"在证据不足时,为了验证假设,有权违反证据主义"。
+
+> "the right to violate the principle of evidentialism in order to justify hypothesis venturing."
+
+### 情绪理论(James-Lange 理论)
+情绪产生于对身体反应的感知:
+
+> "we are afraid because we tremble."
+
+> 中文大意: 我们因为颤抖而害怕——情绪是对身体反应的感知,不是对刺激的直接反应。
+
+### 意识流
+"stream of consciousness"——影响现代主义作家(乔伊斯等)。
+
+## 五、主要著作
+
+- 《心理学原理》(1890)——"不朽"1200 页巨著,12 年完成
+- 《宗教经验之种种》(1902)——爱丁堡 Gifford 讲座
+- 《实用主义》(1907)
+- 《多元的宇宙》(1909)
+- 《真理的意义》(1909)
+
+## 六、学生
+
+Theodore Roosevelt、W. E. B. Du Bois、Gertrude Stein、George Santayana、Walter Lippmann、Mary Whiton Calkins。
+
+## 七、去世与遗产
+
+2002 年《普通心理学评论》将 James 评为 20 世纪第 14 位最杰出心理学家。1910-08-26 在新罕布什尔家中因心力衰竭去世,葬于剑桥公墓。
+
+---
+
+## 中文补充:实用主义(Pragmatism)
+
+**实用主义核心:**
+- 真理的标准是"实际效果"
+- 思想的价值在于它能引导行动
+- 真理不是静止的,而是在经验中不断修正的
+
+**James 的"信仰意志":**
+- 在证据不足的情况下,有权选择相信
+- 信仰可能创造其自身的验证
+- 实用主义承认宗教经验的价值
+
+**与皮尔士的区别:**
+- 皮尔士(Charles Sanders Peirce): 形而上学家的实用主义
+- 詹姆斯(William James): 经验主义+宗教实用主义
+- 杜威(John Dewey): 实用主义+教育哲学
+
+## 中文补充:意识流与西方现代主义
+
+James 的"意识流"概念影响:
+- 詹姆斯·乔伊斯《尤利西斯》(1922)
+- 弗吉尼亚·伍尔夫《达洛维夫人》
+- 马塞尔·普鲁斯特《追忆似水年华》
+
+"意识流"是中国现代文学(鲁迅、郁达夫)的重要概念来源。
+
+## 中文补充:James 与中国现代哲学
+
+**胡适(1891-1962):**
+- 中国现代哲学奠基人之一
+- 哥伦比亚大学博士,师从 John Dewey(杜威)
+- 杜威实用主义的中国传播者
+- 新文化运动领袖
+
+**实用主义对中国的影响:**
+- 1919 年杜威访华讲学
+- 实用主义成为中国现代哲学主流之一
+- 胡适、冯友兰、贺麟等受影响
+
+**James 的间接影响:**
+- 通过 Dewey 影响中国
+- 心理学的"意识流"概念影响中国现代文学

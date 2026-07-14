@@ -1,0 +1,47 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "wei_lian_qin_mu_si",
+  "political_orientation": {
+    "regime_form": "19世纪末美国学者",
+    "rule_style": "实用主义+多元论",
+    "legitimacy_basis": ["实用主义", "经验主义", "意识流心理学"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "信仰意志",
+      "view": "支持宗教信仰与非证据主义",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "情绪理论",
+      "view": "反直觉的 James-Lange 理论",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "意识流",
+      "view": "影响现代主义文学",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "Charles Sanders Peirce(共同建立实用主义)",
+    "法国哲学家柏格森",
+    "休谟的经验主义",
+    "斯宾塞的进化论",
+    "斯维登堡派神学(家世)"
+  ],
+  "intellectual_legacy": [
+    "实用主义(经杜威→中国等)",
+    "美国心理学之父",
+    "意识流(影响现代主义文学)",
+    "宗教经验研究"
+  ],
+  "spectrum_placement": {
+    "centralization": "实用主义",
+    "tolerance": "多元宇宙",
+    "religious_authority": "支持宗教信仰意志",
+    "wealth": "波士顿富裕家庭",
+    "international": "全球哲学+心理学影响"
+  },
+  "sources_used": ["Wikipedia"]
+}

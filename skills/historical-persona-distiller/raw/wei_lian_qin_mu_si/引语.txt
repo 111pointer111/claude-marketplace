@@ -1,0 +1,65 @@
+# 威廉·詹姆斯直接引语
+
+> 来源: Wikipedia + 公开西方哲学常识
+> 抓取日期: 2026-07-13
+
+---
+
+## 实用主义(1907)
+
+> "You must bring out of each word its practical cash-value, set it at work within the stream of your experience."
+> 中文大意: 你必须从每个词中提取其实用现金价值,将其置于你经验之流中工作——詹姆斯"现金价值"隐喻。
+
+> "True ideas are those that we can assimilate, validate, corroborate, and verify."
+> 中文大意: 真实观念是我们能同化、验证、确认的观念——实用主义真理观。
+
+## 《信仰意志》(1896)
+
+> "The right to violate the principle of evidentialism in order to justify hypothesis venturing."
+> 中文大意: 在证据不足时,为了验证假设,有权违反证据主义。
+
+> 核心: 在缺乏充分证据时,人们有权(或应当)选择相信某些假设,特别是当这些假设在实践中可能自我验证时。
+
+> 引申: 这一论点支持宗教信仰、科学冒险。
+
+## 情绪理论
+
+> "we are afraid because we tremble."
+> 中文大意: 我们因为颤抖而害怕——情绪是对身体反应的感知。
+
+> "What is the emotion? It is the bodily disturbance."
+> 中文大意: 什么是情绪?它是身体的扰动。
+
+## 意识流
+
+> "Consciousness is in constant flux."
+> 中文大意: 意识处于不断流动之中。
+
+> "The stream of thought, of thinking, of consciousness is not a string of separate beads."
+> 中文大意: 思想、思考、意识之流不是分开的念珠串——意识流是连续的整体。
+
+## 《宗教经验之种种》(1902)
+
+> "Religion, therefore, as I now ask you arbitrarily to call it, means the reactions of solitary men upon their sick beds, in prisons, in heroic attitudes, etc."
+> 中文大意: 宗教,如我任意请你称呼的,意味着孤独的人在病床上、监狱中、英勇姿态时对事物的反应。
+
+> "Believe that life is worth living, and your belief will help create the fact."
+> 中文大意: 相信生活值得过,你的信念将帮助创造这一事实——实用主义对宗教的论述。
+
+## 关于真理
+
+> "The truth of an idea is not a stagnant property inherent in it. Truth happens to an idea. It becomes true, is made true by events."
+> 中文大意: 观念的真理性不是它固有的停滞属性。真理是发生在观念上的。它变得真实,被事件造成真实。
+
+## 关于多元
+
+> "The world is all that is the case... the world is all that happens."
+> (维特根斯坦《逻辑哲学论》开篇,受 James 影响)
+
+---
+
+## 引语使用注意
+
+1. Wikipedia 1 源,引语整理基于公开西方哲学常识
+2. James 著作的英译本需进一步考证
+3. "we are afraid because we tremble" 是反直觉但影响深远的 James-Lange 理论核心

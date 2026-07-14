@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "wei_lian_qin_mu_si",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "wj_001",
+      "belief": "实用主义——真理是实用价值",
+      "source": "You must bring out of each word its practical cash-value(《实用主义》1907)",
+      "evidence_count": 4,
+      "explanation": "詹姆斯的实用主义核心:真理的现金价值,真理在我们经验中工作"
+    },
+    {
+      "id": "wj_002",
+      "belief": "信仰意志——证据不足时有权选择相信",
+      "source": "the right to violate the principle of evidentialism in order to justify hypothesis venturing(《信仰意志》1896)",
+      "evidence_count": 3,
+      "explanation": "詹姆斯的信仰意志论支持宗教与科学冒险"
+    },
+    {
+      "id": "wj_003",
+      "belief": "情绪是对身体反应的感知",
+      "source": "we are afraid because we tremble",
+      "evidence_count": 3,
+      "explanation": "James-Lange 情绪理论,反直觉但影响深远"
+    },
+    {
+      "id": "wj_004",
+      "belief": "意识流——连续的整体",
+      "source": "Consciousness is in constant flux; The stream of thought is not a string of separate beads",
+      "evidence_count": 2,
+      "explanation": "James 的意识流概念影响现代主义文学(乔伊斯、伍尔夫等)"
+    },
+    {
+      "id": "wj_005",
+      "belief": "真理不是固定的——是事件造成的",
+      "source": "The truth of an idea is not a stagnant property inherent in it. Truth happens to an idea.",
+      "evidence_count": 2,
+      "explanation": "James 的实用主义真理观:真理是被事件造成真实"
+    },
+    {
+      "id": "wj_006",
+      "belief": "相信生活值得过会创造这一事实",
+      "source": "Believe that life is worth living, and your belief will help create the fact",
+      "evidence_count": 2,
+      "explanation": "实用主义对宗教的论述:信仰可以创造事实"
+    },
+    {
+      "id": "wj_007",
+      "belief": "多元宇宙——非一元论",
+      "source": "《多元的宇宙》(1909)",
+      "evidence_count": 2,
+      "explanation": "James 的多元宇宙论反对黑格尔式一元论"
+    },
+    {
+      "id": "wj_008",
+      "belief": "美国心理学之父",
+      "source": "美国第一门实验心理学课程(1875-1876);1890《心理学原理》1200页",
+      "evidence_count": 3,
+      "explanation": "James 创立美国心理学,被评 20 世纪第 14 位最杰出心理学家"
+    }
+  ],
+  "key_themes": [
+    "实用主义",
+    "信仰意志",
+    "情绪理论",
+    "意识流",
+    "真理是过程",
+    "相信生活值得过",
+    "多元宇宙",
+    "美国心理学之父"
+  ],
+  "sources_used": ["Wikipedia", "西方哲学常识补充"]
+}

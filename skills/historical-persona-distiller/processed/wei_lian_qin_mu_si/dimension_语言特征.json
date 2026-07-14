@@ -1,0 +1,33 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "wei_lian_qin_mu_si",
+  "languages_used": ["英语(母语)", "德语(流利)", "法语(流利)"],
+  "primary_language": "英语",
+  "sentence_structure": {
+    "哲学论文": "中等长句,实用论证",
+    "心理学巨著": "1200 页鸿篇",
+    "演讲": "中等长度,启迪性"
+  },
+  "rhetorical_devices": [
+    "现金价值隐喻",
+    "实用主义真理观",
+    "经验主义方法",
+    "信仰意志论"
+  ],
+  "characteristic_vocabularies": [
+    "Pragmatism(实用主义)",
+    "Cash value(现金价值)",
+    "Stream of consciousness(意识流)",
+    "Will to believe(信仰意志)",
+    "Pure experience(纯粹经验)",
+    "Radical empiricism(彻底经验主义)",
+    "Pluralism(多元论)",
+    "Varieties(种种)"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "心理学巨著(1890)"},
+    {"period": "中期", "description": "实用主义形成(1907)"},
+    {"period": "晚期", "description": "多元宇宙与宗教(1909)"}
+  ],
+  "sources_used": ["Wikipedia", "西方哲学常识补充"]
+}
