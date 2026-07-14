@@ -1,0 +1,32 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "yuan_mei",
+  "languages_used": ["中文(清代)"],
+  "primary_language": "中文古白话",
+  "sentence_structure": {
+    "诗": "短句,自然抒情",
+    "诗话评论": "中等长度,议论性",
+    "食单": "短句,实用指导",
+    "志怪": "短句故事"
+  },
+  "rhetorical_devices": [
+    "性灵说:个人情感",
+    "反讽:反对模拟古人",
+    "美食意象:物性+烹艺",
+    "志怪笔法"
+  ],
+  "characteristic_vocabularies": [
+    "性灵",
+    "随园",
+    "真性情",
+    "诗写性情",
+    "易牙",
+    "物性"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "科举仕途"},
+    {"period": "中期", "description": "辞官随园创作"},
+    {"period": "晚期", "description": "随园食单+子不语"}
+  ],
+  "sources_used": ["Wikipedia", "中文文学常识补充"]
+}

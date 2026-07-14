@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "yuan_mei",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "ym_001",
+      "belief": "性灵说——诗写性情,贵在自然",
+      "source": "诗写性情,贵在自然;诗者,人之心声也(《随园诗话》)",
+      "evidence_count": 4,
+      "explanation": "袁枚的性灵说是其诗论核心,反对模拟古人,强调个人情感"
+    },
+    {
+      "id": "ym_002",
+      "belief": "反对格律派形式主义",
+      "source": "诗之最可笑者,莫如以'工部''少陵'自命,以为学杜者",
+      "evidence_count": 3,
+      "explanation": "袁枚反对模拟古人,主张诗歌应自然表达"
+    },
+    {
+      "id": "ym_003",
+      "belief": "支持女性文学",
+      "source": "随园女弟子诗社;出版《随园女弟子诗选》",
+      "evidence_count": 4,
+      "explanation": "袁枚招收数十名女弟子,推动清代女性文学,挑战'女子无才'传统"
+    },
+    {
+      "id": "ym_004",
+      "belief": "美食家哲学",
+      "source": "物性不良,虽易牙烹之亦无味(《随园食单》)",
+      "evidence_count": 3,
+      "explanation": "袁枚的美食哲学强调'物性'为根本,反对炫技"
+    },
+    {
+      "id": "ym_005",
+      "belief": "辞官归隐——自由高于仕途",
+      "source": "予之乞归也,非矫情也,盖有鉴于前事,而深自策励焉",
+      "evidence_count": 2,
+      "explanation": "袁枚辞官归隐,体现自由高于仕途的价值选择"
+    },
+    {
+      "id": "ym_006",
+      "belief": "禅宗佛教倾向",
+      "source": "Wikipedia 引述:对禅宗与超自然感兴趣,胜过道教与制度佛教",
+      "evidence_count": 2,
+      "explanation": "袁枚的禅宗倾向影响其对自然与超自然的态度"
+    },
+    {
+      "id": "ym_007",
+      "belief": "志怪小说价值",
+      "source": "《子不语》747 则故事,与蒲松龄、纪昀并称三大志怪",
+      "evidence_count": 3,
+      "explanation": "袁枚通过志怪小说表达自由主义讽刺"
+    },
+    {
+      "id": "ym_008",
+      "belief": "诗人即心声——个人化表达",
+      "source": "诗者,人之心声也",
+      "evidence_count": 2,
+      "explanation": "袁枚认为诗是个人心声的直接表达,与模拟古人的格律派对立"
+    }
+  ],
+  "key_themes": [
+    "性灵说",
+    "反格律派",
+    "支持女性文学",
+    "美食家哲学",
+    "辞官归隐",
+    "禅宗倾向",
+    "志怪小说",
+    "个人化表达"
+  ],
+  "sources_used": ["Wikipedia", "中文文学常识补充"]
+}

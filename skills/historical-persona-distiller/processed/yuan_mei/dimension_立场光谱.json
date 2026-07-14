@@ -1,0 +1,46 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "yuan_mei",
+  "political_orientation": {
+    "regime_form": "清代(辞官归隐)",
+    "rule_style": "性灵派诗论+美食家",
+    "legitimacy_basis": ["个人情感", "真性情", "美食哲学"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "辞官归隐",
+      "view": "自由高于仕途",
+      "source": "Wikipedia + 中文文学常识"
+    },
+    {
+      "topic": "支持女性文学",
+      "view": "挑战'女子无才'传统",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "反对格律派",
+      "view": "性灵说革命",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "禅宗佛教",
+    "明代晚明思想解放运动",
+    "李贽、汤显祖一脉",
+    "清代性灵派传统"
+  ],
+  "intellectual_legacy": [
+    "性灵派代表",
+    "清代女性文学推动",
+    "中国布里亚-萨瓦兰(美食家)",
+    "现代中国美食学基础"
+  ],
+  "spectrum_placement": {
+    "centralization": "辞官归隐(反仕途)",
+    "tolerance": "支持女性+支持个人表达",
+    "religious_authority": "禅宗倾向(非制度佛教)",
+    "wealth": "辞官后享美食",
+    "international": "东亚美食+文学传统"
+  },
+  "sources_used": ["Wikipedia"]
+}

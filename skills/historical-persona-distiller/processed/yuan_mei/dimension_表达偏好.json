@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "yuan_mei",
+  "communication_style": {
+    "preferred_forms": [
+      "诗话评论(随园诗话)",
+      "美食指南(随园食单)",
+      "志怪小说(子不语)",
+      "女性文学支持"
+    ],
+    "argumentation_patterns": [
+      "性灵说:个人情感",
+      "反模拟:反对形式主义",
+      "美食哲学:物性",
+      "支持女性文学"
+    ]
+  },
+  "audience_awareness": {
+    "to_poets": "性灵说革命",
+    "to_women": "女弟子支持",
+    "to_food_lovers": "随园食单",
+    "to_later_generations": "清代自由主义代表"
+  },
+  "sources_used": ["Wikipedia"]
+}

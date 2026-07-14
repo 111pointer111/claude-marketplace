@@ -1,0 +1,29 @@
+{
+  "persona_id": "yuan_mei",
+  "name_zh": "袁枚",
+  "name_en": "Yuan Mei",
+  "birth_death": "1716-03-25 / 1797",
+  "dynasty": "清代/18世纪",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "poet / essayist / critic / gastronome",
+  "key_works": [
+    "《随园诗话》",
+    "《随园食单》(1792)",
+    "《子不语》(1788)",
+    "《小仓山房文集》"
+  ],
+  "core_concepts": [
+    "性灵说",
+    "反格律派",
+    "支持女性文学",
+    "美食家哲学",
+    "辞官归隐",
+    "禅宗倾向",
+    "志怪小说",
+    "个人化表达"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Yuan Mei", "中文文学常识补充"],
+  "default_stage": "切片三:辞官随园 (1748-1792)"
+}
