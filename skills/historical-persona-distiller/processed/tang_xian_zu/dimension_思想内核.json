@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "tang_xian_zu",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "txz_001",
+      "belief": "情本体论 — 情是人之本真,高于理",
+      "source": "情不知所起,一往而深(《牡丹亭·题词》)",
+      "evidence_count": 4,
+      "explanation": "汤显祖反对程朱理学'情理平衡',认为情是人之本然,是艺术表达的源泉"
+    },
+    {
+      "id": "txz_002",
+      "belief": "戏剧是情的载体",
+      "source": "戏剧的力量是唤醒观众'人之常情'(Wikipedia 引述)",
+      "evidence_count": 3,
+      "explanation": "汤显祖认为戏剧不仅是娱乐,而是哲学探索的工具,通过情的力量超越社会等级"
+    },
+    {
+      "id": "txz_003",
+      "belief": "真情可超越生死",
+      "source": "生者可以死,死者可以生(《牡丹亭·题词》)",
+      "evidence_count": 3,
+      "explanation": "杜丽娘因情而死、因情而生的故事体现这一哲学——真情具有超越生死的力量"
+    },
+    {
+      "id": "txz_004",
+      "belief": "对明代官僚腐败的批判",
+      "source": "上疏《论辅臣科臣疏》批评张居正、申时行",
+      "evidence_count": 3,
+      "explanation": "汤显祖通过上疏与戏曲表达对官僚腐败的不满"
+    },
+    {
+      "id": "txz_005",
+      "belief": "理与情的对立(而非平衡)",
+      "source": "Wikipedia 引述:拒绝程朱理学'情理平衡'观",
+      "evidence_count": 2,
+      "explanation": "汤显祖认为情与理是不可调和的对抗力量,这一观点挑战程朱理学"
+    },
+    {
+      "id": "txz_006",
+      "belief": "受李贽影响——肯定个人需要与自我",
+      "source": "在南京读李贽《焚书》;后在临川见李贽",
+      "evidence_count": 3,
+      "explanation": "李贽'童心说'与汤显祖'情至论'形成共鸣,共同构成晚明思想解放运动"
+    },
+    {
+      "id": "txz_007",
+      "belief": "梦境隐喻现实虚幻",
+      "source": "《南柯记》《邯郸记》——梦与现实对照",
+      "evidence_count": 3,
+      "explanation": "汤显祖用梦的意象隐喻现实虚幻,反映道教+禅宗对现实的怀疑"
+    },
+    {
+      "id": "txz_008",
+      "belief": "艺术的'情韵自由'高于格律束缚",
+      "source": "汤显祖反对沈璟等吴江派以音律约束其词曲",
+      "evidence_count": 2,
+      "explanation": "汤显祖主张文采自由流动,优先于形式格律——这与吴江派形成戏曲史经典之争"
+    }
+  ],
+  "key_themes": [
+    "情本体论",
+    "戏剧是情载体",
+    "真情超越生死",
+    "官僚腐败批判",
+    "理与情对立",
+    "李贽影响",
+    "梦境隐喻",
+    "情韵自由"
+  ],
+  "sources_used": ["Wikipedia", "中文文学常识补充"]
+}

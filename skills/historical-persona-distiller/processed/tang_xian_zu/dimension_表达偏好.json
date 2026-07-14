@@ -1,0 +1,24 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "tang_xian_zu",
+  "communication_style": {
+    "preferred_forms": [
+      "戏曲唱词(昆曲)",
+      "序跋论辩",
+      "政治上疏"
+    ],
+    "argumentation_patterns": [
+      "情本体论",
+      "梦境隐喻",
+      "情理对立",
+      "官场讽刺"
+    ]
+  },
+  "audience_awareness": {
+    "to_chinese_playgoers": "情感共鸣+哲学探索",
+    "to_intellectuals": "反理学+个人解放",
+    "to_officials": "上疏直言",
+    "to_critics": "临川派 vs 吴江派"
+  },
+  "sources_used": ["Wikipedia"]
+}

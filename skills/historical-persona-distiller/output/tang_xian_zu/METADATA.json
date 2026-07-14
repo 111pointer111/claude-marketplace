@@ -1,0 +1,30 @@
+{
+  "persona_id": "tang_xian_zu",
+  "name_zh": "汤显祖",
+  "name_en": "Tang Xianzu",
+  "birth_death": "1550-09-24 / 1616-07-29",
+  "dynasty": "明代/16世纪",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "dramatist / poet / official",
+  "key_works": [
+    "《牡丹亭》(1598)",
+    "《紫钗记》",
+    "《南柯记》",
+    "《邯郸记》",
+    "《论辅臣科臣疏》"
+  ],
+  "core_concepts": [
+    "情本体论",
+    "戏剧是情载体",
+    "真情超越生死",
+    "反官僚腐败",
+    "情理对立",
+    "李贽影响",
+    "梦境隐喻",
+    "情韵自由"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Tang Xianzu", "中文文学常识补充"],
+  "default_stage": "切片四:临川四梦 (1598-1616)"
+}

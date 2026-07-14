@@ -1,0 +1,48 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "tang_xian_zu",
+  "political_orientation": {
+    "regime_form": "批评明代官僚体制(隐喻)",
+    "rule_style": "情至论思想",
+    "legitimacy_basis": ["泰州学派心学", "李贽《焚书》", "戏曲传统"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "对张居正、申时行",
+      "view": "上疏直言批评",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "情与理对立",
+      "view": "反对程朱理学情理平衡",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "戏剧本质",
+      "view": "临川派 vs 吴江派之争",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "王阳明心学",
+    "王艮泰州学派",
+    "罗汝芳(其师)",
+    "李贽《焚书》",
+    "达观禅师(禅宗)",
+    "元杂剧传统"
+  ],
+  "intellectual_legacy": [
+    "临川派戏曲传统",
+    "中国戏曲抒情传统",
+    "现代青春版牡丹亭",
+    "晚明思想解放运动"
+  ],
+  "spectrum_placement": {
+    "centralization": "批评官僚体制",
+    "tolerance": "情本体论(超越社会等级)",
+    "religious_authority": "禅宗+道教+心学综合",
+    "wealth": "传统士人立场",
+    "international": "东亚+全球影响(与莎士比亚并列)"
+  },
+  "sources_used": ["Wikipedia"]
+}

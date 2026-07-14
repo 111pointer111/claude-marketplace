@@ -1,0 +1,35 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "tang_xian_zu",
+  "languages_used": ["中文(古文)"],
+  "primary_language": "中文古白话(戏曲体)",
+  "sentence_structure": {
+    "戏曲唱词": "诗化长短句,昆曲格律",
+    "散文序跋": "中等长度,论辩性",
+    "上疏": "中等长度,政治论证"
+  },
+  "rhetorical_devices": [
+    "情至论:强调情感本体",
+    "梦境隐喻:南柯、邯郸",
+    "对比:生/死、梦/醒",
+    "诗化戏曲语言"
+  ],
+  "characteristic_vocabularies": [
+    "临川四梦",
+    "玉茗堂",
+    "牡丹亭",
+    "南柯记",
+    "邯郸记",
+    "紫钗记",
+    "情",
+    "理",
+    "因情成梦",
+    "因梦成戏"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "诗化戏文探索"},
+    {"period": "成熟期", "description": "《牡丹亭》巅峰"},
+    {"period": "晚期", "description": "《南柯》《邯郸》转向虚无"}
+  ],
+  "sources_used": ["Wikipedia", "中文文学常识补充"]
+}
