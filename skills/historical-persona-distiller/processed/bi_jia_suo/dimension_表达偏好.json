@@ -1,0 +1,26 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "bi_jia_suo",
+  "communication_style": {
+    "preferred_forms": [
+      "立体派绘画",
+      "雕塑",
+      "陶艺",
+      "版画(《佛朗哥的梦幻与谎言》)",
+      "诗歌(300+ 首)"
+    ],
+    "argumentation_patterns": [
+      "立体派碎片",
+      "蓝色单色调",
+      "反法西斯绘画",
+      "原始主义影响"
+    ]
+  },
+  "audience_awareness": {
+    "to_women_lovers": "7+ 主要情人,画她们为缪斯",
+    "to_art_world": "立体派革命",
+    "to_spanish_civil_war": "反法西斯艺术",
+    "to_general_public": "作品是文化标志"
+  },
+  "sources_used": ["Wikipedia"]
+}

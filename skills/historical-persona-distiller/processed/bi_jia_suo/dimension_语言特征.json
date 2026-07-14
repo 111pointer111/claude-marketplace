@@ -1,0 +1,35 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "bi_jia_suo",
+  "languages_used": ["西班牙语(母语)", "法语(流利)"],
+  "primary_language": "西班牙语(法国时期用法语)",
+  "sentence_structure": {
+    "格言": "极短,深刻",
+    "格言": "中等长度,自传性",
+    "画论": "短句,实验性"
+  },
+  "rhetorical_devices": [
+    "立体派碎片",
+    "蓝色单色调",
+    "反法西斯绘画",
+    "原始主义影响"
+  ],
+  "characteristic_vocabularies": [
+    "Cubism(立体派)",
+    "Blue Period(蓝色时期)",
+    "Rose Period(玫瑰时期)",
+    "Les Demoiselles d'Avignon(亚维农少女)",
+    "Guernica(格尔尼卡)",
+    "Three Musicians(三个音乐家)",
+    "Les Femmes d'Alger(阿尔及尔妇女)",
+    "Picasso's Blue(毕加索蓝)"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "蓝色时期(1901-04)"},
+    {"period": "中期", "description": "玫瑰时期(1904-06)"},
+    {"period": "过渡", "description": "原始主义(1907-08)"},
+    {"period": "后期", "description": "立体派(1909-19)"},
+    {"period": "晚期", "description": "新古典主义+超现实主义+晚期(1920-73)"}
+  ],
+  "sources_used": ["Wikipedia", "西方艺术常识补充"]
+}

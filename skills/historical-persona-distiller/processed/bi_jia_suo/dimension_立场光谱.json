@@ -1,0 +1,48 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "bi_jia_suo",
+  "political_orientation": {
+    "regime_form": "20世纪西班牙立体派画家",
+    "rule_style": "立体派革命+反法西斯",
+    "legitimacy_basis": ["立体派革命", "蓝色时期+格尔尼卡", "艺术+政治"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "虐待女性关系",
+      "view": "7+ 主要情人,部分受虐关系争议",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "共产主义成员",
+      "view": "1944 加入法国共产党",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "性别歧视争议",
+      "view": "1973 'Filles d'Alger' 性别画像争议",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "Georges Braque(立体派合作)",
+    "Henri Matisse(野兽派对立)",
+    "André Breton(超现实主义)",
+    "非洲艺术(原始主义)",
+    "西班牙内战(反法西斯)"
+  ],
+  "intellectual_legacy": [
+    "立体派共同创始人",
+    "立体派革命",
+    "超现实主义核心",
+    "反法西斯艺术",
+    "76 年艺术生涯"
+  ],
+  "spectrum_placement": {
+    "centralization": "立体派革命",
+    "tolerance": "反法西斯艺术",
+    "religious_authority": "无神论+共产党",
+    "wealth": "世界最富艺术家之一",
+    "international": "全球现代艺术影响"
+  },
+  "sources_used": ["Wikipedia"]
+}

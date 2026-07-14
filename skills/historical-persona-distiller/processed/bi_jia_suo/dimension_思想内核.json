@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "bi_jia_suo",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "pic_001",
+      "belief": "每个孩子都是艺术家",
+      "source": "Every child is an artist. The problem is how to remain an artist once he grows up.",
+      "evidence_count": 4,
+      "explanation": "毕加索核心哲学:创造力的本源"
+    },
+    {
+      "id": "pic_002",
+      "belief": "我做我尚不能做的事",
+      "source": "I am always doing that which I cannot do, in order that I may learn how to do it.",
+      "evidence_count": 4,
+      "explanation": "毕加索学习方法:做不能的事以学"
+    },
+    {
+      "id": "pic_003",
+      "belief": "我看可能是什么并问为什么不",
+      "source": "Others have seen what is and asked why. I have seen what could be and asked why not.",
+      "evidence_count": 3,
+      "explanation": "毕加索的核心创新观"
+    },
+    {
+      "id": "pic_004",
+      "belief": "灵感必须找到你正在工作",
+      "source": "Inspiration exists, but it has to find you working.",
+      "evidence_count": 3,
+      "explanation": "毕加索的工作观:灵感在工作中"
+    },
+    {
+      "id": "pic_005",
+      "belief": "画家不是政治人物",
+      "source": "It isn't up to the painter to define the symbols.",
+      "evidence_count": 2,
+      "explanation": "毕加索论《格尔尼卡》符号意义"
+    },
+    {
+      "id": "pic_006",
+      "belief": "伟大的艺术家偷",
+      "source": "Good artists copy. Great artists steal.",
+      "evidence_count": 3,
+      "explanation": "毕加索的创新观:改造他人作品"
+    },
+    {
+      "id": "pic_007",
+      "belief": "立体派——多视角",
+      "source": "与 Braque 共同创立立体派(1909-14)",
+      "evidence_count": 3,
+      "explanation": "毕加索最重要的艺术革命"
+    },
+    {
+      "id": "pic_008",
+      "belief": "对反法西斯艺术责任",
+      "source": "创作《格尔尼卡》1937,拒绝 MoMA 之前在西班牙展出",
+      "evidence_count": 2,
+      "explanation": "毕加索的反法西斯艺术责任"
+    }
+  ],
+  "key_themes": [
+    "每个孩子都是艺术家",
+    "做不能的事以学",
+    "我看可能是什么并问为什么不",
+    "灵感必须找到你正在工作",
+    "画家不是政治人物",
+    "伟大的艺术家偷",
+    "立体派多视角",
+    "反法西斯艺术责任"
+  ],
+  "sources_used": ["Wikipedia", "西方艺术常识补充"]
+}
