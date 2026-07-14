@@ -1,0 +1,30 @@
+{
+  "persona_id": "bo_ge_sen",
+  "name_zh": "柏格森",
+  "name_en": "Henri Bergson",
+  "birth_death": "1859-10-18 / 1941-01-04",
+  "dynasty": "19-20世纪法国",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "philosopher",
+  "key_works": [
+    "《时间与自由意志》(1889)",
+    "《物质与记忆》(1896)",
+    "《笑》(1900)",
+    "《创造进化论》(1907)",
+    "《道德与宗教的两个来源》(1932)"
+  ],
+  "core_concepts": [
+    "绵延(durée)",
+    "直觉(intuition)",
+    "生命冲动(Élan vital)",
+    "反机械论",
+    "笑是生命纠正",
+    "道德宗教两源",
+    "天主教+犹太教互补",
+    "尊严面对迫害"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Henri Bergson", "西方哲学常识补充"],
+  "default_stage": "切片三:创造进化论 (1907-1914)"
+}

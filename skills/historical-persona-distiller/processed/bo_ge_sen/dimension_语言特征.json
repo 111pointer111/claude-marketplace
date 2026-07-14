@@ -1,0 +1,33 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "bo_ge_sen",
+  "languages_used": ["法语(母语)", "英语(幼年)", "西班牙语(外交)"],
+  "primary_language": "法语",
+  "sentence_structure": {
+    "哲学论文": "中等长句,精密论证",
+    "演讲": "中等长度,启迪性",
+    "论文答辩": "严密逻辑"
+  },
+  "rhetorical_devices": [
+    "绵延/直觉概念",
+    "生命冲动隐喻",
+    "笑的纠正论",
+    "反机械论批判"
+  ],
+  "characteristic_vocabularies": [
+    "Durée(绵延)",
+    "Élan vital(生命冲动)",
+    "Intuition(直觉)",
+    "Mémoire(记忆)",
+    "Évolution créatrice(创造进化)",
+    "Sourire(笑)",
+    "Closed morality(封闭道德)",
+    "Open morality(开放道德)"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "博士论文(时间与自由意志)"},
+    {"period": "中期", "description": "创造进化论高峰"},
+    {"period": "晚期", "description": "道德宗教两源+天主教皈依"}
+  ],
+  "sources_used": ["Wikipedia", "西方哲学常识补充"]
+}

@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "bo_ge_sen",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "bs_001",
+      "belief": "绵延——非广延的、异质的时间",
+      "source": "duration is 'unextended yet heterogeneous,' making determinism impossible(《时间与自由意志》)",
+      "evidence_count": 4,
+      "explanation": "柏格森的绵延是其哲学核心,反对决定论,主张真正的时间是异质的、不可分割的"
+    },
+    {
+      "id": "bs_002",
+      "belief": "直觉——接近绝对与真实生命",
+      "source": "intuition alone approaches a knowledge of the absolute",
+      "evidence_count": 3,
+      "explanation": "柏格森主张直觉是哲学的根本方法,超越分析"
+    },
+    {
+      "id": "bs_003",
+      "belief": "生命冲动——创造进化",
+      "source": "Élan vital is a kind of vital impetus(《创造进化论》)",
+      "evidence_count": 4,
+      "explanation": "柏格森的生命冲动概念解释进化为创造的、非机械的过程"
+    },
+    {
+      "id": "bs_004",
+      "belief": "反对机械论——反决定论",
+      "source": "There is neither purely internal finality nor clearly cut individuality in nature",
+      "evidence_count": 3,
+      "explanation": "柏格森反对机械论进化论,主张生命有自由创造性"
+    },
+    {
+      "id": "bs_005",
+      "belief": "笑是生命的纠正",
+      "source": "Laughter is a corrective aimed at something mechanical encrusted on the living(《笑》)",
+      "evidence_count": 2,
+      "explanation": "柏格森的'笑'是生命哲学的精彩表述"
+    },
+    {
+      "id": "bs_006",
+      "belief": "道德与宗教的两源——封闭与开放",
+      "source": "《道德与宗教的两个来源》(1932)",
+      "evidence_count": 2,
+      "explanation": "柏格森区分封闭道德(部落/社会/习惯)与开放道德(普世/神秘/英雄主义)"
+    },
+    {
+      "id": "bs_007",
+      "belief": "天主教与犹太教的互补",
+      "source": "我的思想一直让我更接近天主教,在其中我看到对犹太教的完美补充(1937 遗嘱)",
+      "evidence_count": 2,
+      "explanation": "柏格森晚年皈依天主教,但视之为对犹太教的补充而非取代"
+    },
+    {
+      "id": "bs_008",
+      "belief": "以尊严面对迫害",
+      "source": "警察登记表:'学者,哲学家,诺贝尔奖得主,犹太人'",
+      "evidence_count": 2,
+      "explanation": "柏格森拒绝维希反犹法律的豁免,以尊严姿态面对迫害"
+    }
+  ],
+  "key_themes": [
+    "绵延(非广延、异质)",
+    "直觉",
+    "生命冲动(创造进化)",
+    "反机械论",
+    "笑是生命纠正",
+    "道德宗教两源",
+    "天主教与犹太教互补",
+    "尊严面对迫害"
+  ],
+  "sources_used": ["Wikipedia", "西方哲学常识补充"]
+}

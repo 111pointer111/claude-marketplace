@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "bo_ge_sen",
+  "communication_style": {
+    "preferred_forms": [
+      "哲学论文",
+      "演讲(法兰西公学院)",
+      "评论(反机械论)",
+      "反思(晚年)"
+    ],
+    "argumentation_patterns": [
+      "绵延/直觉论证",
+      "生命冲动隐喻",
+      "反机械论批判",
+      "道德宗教两源分析"
+    ]
+  },
+  "audience_awareness": {
+    "to_philosophers": "绵延/直觉",
+    "to_scientists": "反机械论",
+    "to_christians": "开放道德+天主教皈依",
+    "to_jewish_community": "犹太教补充"
+  },
+  "sources_used": ["Wikipedia"]
+}

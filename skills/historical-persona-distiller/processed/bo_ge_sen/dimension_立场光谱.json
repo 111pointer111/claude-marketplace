@@ -1,0 +1,48 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "bo_ge_sen",
+  "political_orientation": {
+    "regime_form": "法兰西第三共和国学者",
+    "rule_style": "学术+反机械论+道德宗教两源",
+    "legitimacy_basis": ["绵延哲学", "创造进化论", "天主教皈依(晚年)"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "反机械论",
+      "view": "反对达尔文机械进化论",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "天主教皈依",
+      "view": "1937 遗嘱视天主教为犹太教补充",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "维希政权",
+      "view": "拒绝反犹豁免,以尊严姿态面对",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "柏拉图主义",
+    "达尔文进化论(对立面)",
+    "黑格尔(对立面)",
+    "新教神学",
+    "天主教神秘主义"
+  ],
+  "intellectual_legacy": [
+    "生命哲学",
+    "现代物理(玻尔、海森堡)",
+    "过程哲学(怀特海)",
+    "现象学(梅洛-庞蒂)",
+    "新儒家(梁漱溟)"
+  ],
+  "spectrum_placement": {
+    "centralization": "法兰西学术院",
+    "tolerance": "天主教+犹太教互补",
+    "religious_authority": "晚年皈依天主教",
+    "wealth": "学者生活",
+    "international": "20 世纪全球哲学影响"
+  },
+  "sources_used": ["Wikipedia"]
+}
