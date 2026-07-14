@@ -1,0 +1,33 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "pu_lang_ke",
+  "languages_used": ["德语(母语)"],
+  "primary_language": "德语",
+  "sentence_structure": {
+    "物理学论文": "中等长句,数学论证",
+    "哲学反思": "中等长度,概念辨析",
+    "晚年回忆": "短句,历史性"
+  },
+  "rhetorical_devices": [
+    "科学代际更替论",
+    "绝望之举隐喻",
+    "原子世界硬币类比",
+    "宗教与科学统一"
+  ],
+  "characteristic_vocabularies": [
+    "Quantum(量子)",
+    "Action constant(作用常数) h",
+    "Black-body radiation(黑体辐射)",
+    "Quantum hypothesis(量子假设)",
+    "Oscillator(振子)",
+    "Quanta(量子复数)",
+    "Discrete energy(不连续能量)",
+    "Thermal radiation(热辐射)"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "热力学第二定律研究"},
+    {"period": "中期", "description": "黑体辐射+量子论"},
+    {"period": "晚期", "description": "哲学反思+宗教+纳粹经历"}
+  ],
+  "sources_used": ["Wikipedia", "西方科学常识补充"]
+}

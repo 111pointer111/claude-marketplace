@@ -1,0 +1,46 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "pu_lang_ke",
+  "political_orientation": {
+    "regime_form": "魏玛共和国/纳粹时期德国物理学家",
+    "rule_style": "物理学研究+社会保守",
+    "legitimacy_basis": ["量子论", "热力学", "科学共同体"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "纳粹时期",
+      "view": "试图坚守德国科学但儿子 Erwin 被处死",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "自然神论",
+      "view": "晚年持自然神论,与路德宗有距离",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "科学革命代际更替",
+      "view": "反对者通过死去而非被说服来'承认'新真理",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "Rudolf Clausius(热力学)",
+    "Hermann von Helmholtz(柏林大学)",
+    "Gustav Kirchhoff(热辐射)",
+    "Ludwig Boltzmann(统计力学)"
+  ],
+  "intellectual_legacy": [
+    "量子论奠基",
+    "20 世纪物理学革命",
+    "Max Planck Society 命名",
+    "代际更替论"
+  ],
+  "spectrum_placement": {
+    "centralization": "物理学保守",
+    "tolerance": "科学共同体开放",
+    "religious_authority": "自然神论(晚年)",
+    "wealth": "学者生活",
+    "international": "20 世纪全球物理学影响"
+  },
+  "sources_used": ["Wikipedia"]
+}

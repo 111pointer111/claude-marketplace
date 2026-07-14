@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "pu_lang_ke",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "pl_001",
+      "belief": "量子假设——E=hν——微观世界不连续性",
+      "source": "E = hν (1900-12-14 DPG 会议)",
+      "evidence_count": 4,
+      "explanation": "普朗克的量子假设是 20 世纪物理学最革命性的发现之一"
+    },
+    {
+      "id": "pl_002",
+      "belief": "科学进步是代际更替",
+      "source": "新的科学真理不是通过说服反对者而是通过反对者死去而获胜",
+      "evidence_count": 3,
+      "explanation": "普朗克关于科学革命'代际更替'的核心观点"
+    },
+    {
+      "id": "pl_003",
+      "belief": "科学家的革命性——即使保守者也能推动",
+      "source": "He was, by nature, a conservative mind... he did not flinch from announcing the most revolutionary idea which ever has shaken physics (Max Born)",
+      "evidence_count": 2,
+      "explanation": "普朗克本人保守但推动量子论革命,显示思想的独立性"
+    },
+    {
+      "id": "pl_004",
+      "belief": "科学突破是'绝望之举'",
+      "source": "act of despair... I was ready to sacrifice any of my previous convictions about physics",
+      "evidence_count": 2,
+      "explanation": "量子假设是普朗克自认的'绝望之举',保留旧信念的反讽"
+    },
+    {
+      "id": "pl_005",
+      "belief": "原子世界的'硬币'——量子",
+      "source": "He called quanta 'the pennies of the atomic world'",
+      "evidence_count": 2,
+      "explanation": "量子是微观世界的基本单位,类比货币"
+    },
+    {
+      "id": "pl_006",
+      "belief": "与爱因斯坦的友谊——科学+音乐",
+      "source": "Planck appointed Einstein to a professorship at Berlin (1914), and the two became close friends who met frequently to play music together",
+      "evidence_count": 3,
+      "explanation": "普朗克与爱因斯坦的友谊体现 20 世纪物理学家共同体的精神"
+    },
+    {
+      "id": "pl_007",
+      "belief": "宗教与科学的统一——自然神论",
+      "source": "Both religion and science require a belief in God (1944)",
+      "evidence_count": 2,
+      "explanation": "普朗克晚年自然神论:神在科学终点"
+    },
+    {
+      "id": "pl_008",
+      "belief": "纳粹时期坚守德国科学",
+      "source": "Planck met Hitler (1933) trying to save German science, but failed",
+      "evidence_count": 3,
+      "explanation": "普朗克在纳粹时期坚守德国科学,但儿子 Erwin 仍被处死"
+    }
+  ],
+  "key_themes": [
+    "量子假设 E=hν",
+    "科学革命代际更替",
+    "保守科学家的革命性",
+    "绝望之举的量子假设",
+    "原子世界的硬币",
+    "与爱因斯坦的友谊",
+    "自然神论",
+    "纳粹时期坚守"
+  ],
+  "sources_used": ["Wikipedia", "西方科学常识补充"]
+}

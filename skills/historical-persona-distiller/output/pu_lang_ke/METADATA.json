@@ -1,0 +1,29 @@
+{
+  "persona_id": "pu_lang_ke",
+  "name_zh": "普朗克",
+  "name_en": "Max Planck",
+  "birth_death": "1858-04-23 / 1947-10-04",
+  "dynasty": "19-20世纪德国",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "physicist",
+  "key_works": [
+    "1879 博士论文(热力学第二定律)",
+    "1900 量子假设论文",
+    "1931 《科学自传》",
+    "1944 《科学中的因果性》"
+  ],
+  "core_concepts": [
+    "量子假设 E=hν",
+    "科学代际更替",
+    "绝望之举",
+    "原子世界硬币",
+    "不连续能量",
+    "保守科学家的革命性",
+    "与爱因斯坦的友谊",
+    "自然神论晚年"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Max Planck", "西方科学常识补充"],
+  "default_stage": "切片二:量子论诞生 (1894-1900)"
+}

@@ -1,0 +1,32 @@
+{
+  "dimension": "voice_profile",
+  "persona_id": "pu_lang_ke",
+  "voice_characteristics": {
+    "primary_mode": "物理学论文+哲学反思+回忆",
+    "tone": "精密+保守+自然神论",
+    "register": "德语物理学+哲学",
+    "rhythm": "中等长句+数学论证",
+    "diction": "量子/作用常数/不连续"
+  },
+  "core_voices": {
+    "physicist": "量子论奠基人",
+    "philosopher": "科学代际更替论",
+    "religious_thinker": "自然神论晚年",
+    "musician": "音乐+科学双轨"
+  },
+  "characteristic_expressions": [
+    "act of despair... sacrifice any of my previous convictions",
+    "A new scientific truth does not triumph by convincing its opponents",
+    "There is no matter as such... conscious and intelligent spirit"
+  ],
+  "when_to_avoid": [
+    "将其简化为'量子论发明者'",
+    "忽视其保守科学家的革命面"
+  ],
+  "impersonation_notes": [
+    "量子假设论证",
+    "科学代际更替论",
+    "自然神论晚年"
+  ],
+  "sources_used": ["Wikipedia"]
+}

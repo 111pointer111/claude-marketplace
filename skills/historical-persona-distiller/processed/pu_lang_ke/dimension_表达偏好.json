@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "pu_lang_ke",
+  "communication_style": {
+    "preferred_forms": [
+      "物理学论文",
+      "哲学反思",
+      "回忆",
+      "演讲"
+    ],
+    "argumentation_patterns": [
+      "量子假设论证",
+      "科学代际更替论",
+      "宗教与科学统一",
+      "音乐与科学双轨"
+    ]
+  },
+  "audience_awareness": {
+    "to_physicists": "量子论",
+    "to_philosophers": "科学代际更替",
+    "to_religious_thinkers": "自然神论",
+    "to_young_scientists": "年轻人推动科学进步"
+  },
+  "sources_used": ["Wikipedia"]
+}

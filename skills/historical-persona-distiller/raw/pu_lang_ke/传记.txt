@@ -1,0 +1,168 @@
+# 普朗克 - 传记
+
+> 来源: Wikipedia (https://en.wikipedia.org/wiki/Max_Planck)
+> 抓取日期: 2026-07-13
+
+---
+
+## 基本信息
+
+**全名:** Max Karl Ernst Ludwig Planck
+**生卒:** 1858-04-23(基尔) — 1947-10-04(哥廷根),享年 89 岁
+**身份:** 德国理论物理学家
+**主要成就:** 量子论奠基人、1918 年诺贝尔物理学奖
+
+## 一、家世与早年
+
+- 生于荷尔斯泰因公国基尔
+- 父 Johann Julius Wilhelm von Planck 是基尔大学法学教授
+- 母 Emma Patzig(继室)
+- 家族学术传统:曾祖父、祖父均为哥廷根大学神学教授
+- 慕尼黑 Maximiliansgymnasium 读书,17 岁提前毕业
+- 慕尼黑大学师从 Philipp von Jolly(劝他别学理论物理,因"几乎已完整")
+
+## 二、学术生涯
+
+- 1877 柏林大学师从 Helmholtz、Kirchhoff、Weierstrass
+- 自学 Rudolf Clausius 热力学著作
+- 1878 资格考试通过
+- 1879 博士论文《论机械热理论第二定律》(*Über den zweiten Hauptsatz der mechanischen Wärmetheorie*)
+- 1880 慕尼黑 Privatdozent
+- 1885 基尔大学副教授
+- 1889 柏林大学 Kirchhoff 继任,1892 正教授
+- 1905-1909 德国物理学会会长
+- **1926-01-10 退休,Erwin Schrödinger 继任**
+
+## 三、黑体辐射与量子论(1900)
+
+1894 转向黑体辐射研究。1899 第一种解答(Wien-Planck 定律)被实验推翻。
+
+**1900-10-19** DPG 会议提出新的辐射定律。
+**1900-12-14** 提出**普朗克假设**——电磁能只能以量子化形式发射:
+
+> **E = hν**(能量 = 普朗克常数 × 频率)
+
+普朗克自述:
+
+> "act of despair... I was ready to sacrifice any of my previous convictions about physics."
+
+> 中文大意: "绝望之举...我准备牺牲我之前关于物理的所有信念。"
+
+> "Radiant heat is not a continuous flow and indefinitely divisible... It must be defined as a discontinuous mass, made up of units all of which are similar to one another."
+
+> 中文大意: "辐射热不是连续的流,不能无限分割...必须被定义为不连续的质量,由彼此相似的单位组成。"
+
+他称量子为"原子世界的硬币"。
+
+这一假设在 1900-12-14 标志着量子物理学的诞生。
+
+## 四、爱因斯坦与索尔维会议
+
+普朗克是少数立即认识到爱因斯坦狭义相对论重要性的人之一。
+
+- 1910 爱因斯坦指出低温下比热异常
+- 普朗克与 Walther Nernst 组织第一届索尔维会议(布鲁塞尔 1911),会上爱因斯坦说服普朗克接受光量子
+- 1914 普朗克任命爱因斯坦为柏林大学教授,二人成为密友,经常一起演奏音乐
+
+## 五、个人悲剧
+
+- 1887 娶 Marie Merck(1861-1909)
+- 1887-1909 育 4 子女:Karl(1888)、双胞胎 Emma+Grete(1889)、Erwin(1893)
+- 1909 Marie 死(可能肺结核)
+- 1911 娶 Marga von Hoesslin(1882-1948),生 Hermann(1911)
+
+**悲剧清单:**
+- 1916 儿子 Karl 在凡尔登战死
+- 1917 双胞胎 Grete 难产而死
+- 1919 Emma 同样难产而死(嫁给 Grete 鳏夫后)
+- **1945-01 Erwin 被盖世太保逮捕(涉 7-20 暗杀希特勒未遂事件),经人民法庭审判,柏林 Plötzensee 监狱被绞死**
+
+## 六、纳粹时期
+
+- 1933 纳粹掌权,普朗克 74 岁
+- 试图说服科学家留下
+- 帮助侄子 Hermann Kranold 移民伦敦
+- Otto Hahn 让他组织教授抗议犹太教授待遇,他答:"你今天能召集 30 人,明天会有 150 人反对"
+- **1933-05 见希特勒,称"强制犹太人移民将杀死德国科学"**,希特勒答"我们不是反对犹太人,只反对共产党","夺去了他进一步谈判的基础"
+- 1938 庆祝 80 寿
+- **1944-02 柏林住宅被盟军空袭炸毁,所有科学记录与通信毁灭**
+
+## 七、去世与名言
+
+1945 后被带到哥廷根,1947-10-04 去世。葬于哥廷根 Stadtfriedhof。
+
+**普朗克名言:**
+
+> "A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it."
+
+> 中文大意: 新的科学真理不是通过说服反对者并让他们看到光明而获胜,而是因为反对者最终死去,新的一代成长起来并熟悉它。
+
+**爱因斯坦评普朗克:**
+
+> "One of those few worshipers in the Temple of Science who would still remain should an angel of God descend and drive out of the temple all those lesser scientists, who under different circumstances might become politicians or captains of industry."
+
+> 中文大意: 那些在科学神殿中的少数崇拜者之一——即使上帝的天使降临将所有较次要的科学家(可能成为政客或工业领袖)赶出神殿,他们仍会留下。
+
+**Max Born 评普朗克:**
+
+> "He was, by nature, a conservative mind... Yet his belief in the compelling force of logical reasoning from facts was so strong that he did not flinch from announcing the most revolutionary idea which ever has shaken physics."
+
+## 八、宗教观
+
+普朗克是路德宗教徒,但 Heilbron 描述其信仰为"自然神论"。他自称不信"人格神,更非基督教神"。
+
+**1944 普朗克论物质与神:**
+
+> "As a man who has devoted his whole life to the most clear headed science... I can tell you as a result of my research about atoms this much: There is no matter as such. All matter originates and exists only by virtue of a force... We must assume behind this force the existence of a conscious and intelligent spirit. This spirit is the matrix of all matter."
+
+> 中文大意: 作为一个献身最清晰科学的人...我可以从原子研究中告诉你:没有物质这样的东西。所有物质起源于并只存在于一种力...我们必须假设这种力背后存在一个有意识有智慧的精神。这种精神是所有物质的母体。
+
+> "Both religion and science require a belief in God. For believers, God is in the beginning, and for physicists He is at the end of all considerations."
+
+> 中文大意: 宗教与科学都需要信仰神。对信徒,神在开始;对物理学家,神在所有思考的终点。
+
+## 九、荣誉
+
+- 1918 诺贝尔物理学奖"因发现能量量子而对物理学进步的服务"
+- 1915 Pour le Mérite
+- 1927 Franklin Medal、Lorentz Medal
+- 1929 Copley Medal、Max Planck Medal
+- 1945 Goethe Prize
+- 1926 Foreign Member of the Royal Society
+- 1948 凯撒·威廉协会改名为**马克斯·普朗克协会**以纪念他
+
+---
+
+## 中文补充:普朗克的量子论革命
+
+**普朗克的"绝望之举":**
+- 1900-12-14 普朗克在 DPG 会议提出黑体辐射新公式
+- 引入 h(普朗克常数)= 6.626×10⁻³⁴ J·s
+- 这一常数是量子论的标志性发现
+- 普朗克自述这是"绝望之举",因为他想保住经典热力学
+- 反而颠覆了经典物理
+
+**量子论的诞生:**
+- 1900 普朗克(能量量子)
+- 1905 爱因斯坦(光量子解释光电效应)
+- 1913 玻尔(原子结构量子化)
+- 1925-26 海森堡、薛定谔(量子力学矩阵与波动力学形式)
+
+**普朗克常数 h:**
+- 微观世界与宏观世界的分界
+- 决定所有量子行为
+- 量子力学的核心常数
+
+## 中文补充:普朗克与爱因斯坦的友谊
+
+- 二人在柏林共事 20 多年
+- 经常一起演奏音乐(普朗克钢琴,爱因斯坦小提琴)
+- 爱因斯坦纪念普朗克的话:"他属于那种少数科学神殿中的崇拜者——即使上帝的天使降临将所有较次要的科学家赶出神殿,他们仍会留下"
+- 普朗克支持爱因斯坦相对论,使其在德国学界被接受
+
+## 中文补充:普朗克的中国影响
+
+- 普朗克常数 h 在中国物理教科书标准介绍
+- 马克斯·普朗克学会与中国科学院有合作
+- 普朗克的科学哲学(科学革命"代际更替")影响中国科学史观
+- 2024 年是普朗克逝世 77 周年
