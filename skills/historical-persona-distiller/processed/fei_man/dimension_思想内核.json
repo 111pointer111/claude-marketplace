@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "fei_man",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "fy_001",
+      "belief": "路径积分——所有可能路径的贡献之和",
+      "source": "1942 博士论文;1948 Pocono 会议",
+      "evidence_count": 4,
+      "explanation": "费曼的路径积分是量子力学的第三种形式(矩阵、波动力学之外)"
+    },
+    {
+      "id": "fy_002",
+      "belief": "费曼图——粒子相互作用可视化",
+      "source": "1948 提出",
+      "evidence_count": 3,
+      "explanation": "费曼图简化 QED 计算,成为粒子物理标准工具"
+    },
+    {
+      "id": "fy_003",
+      "belief": "QED 重正化(消除无穷大)",
+      "source": "1949 与 Schwinger、Tomonaga 共得 1965 诺奖",
+      "evidence_count": 3,
+      "explanation": "QED 重正化解决发散困难,是 20 世纪物理学成就"
+    },
+    {
+      "id": "fy_004",
+      "belief": "我不能创造的东西,我不理解",
+      "source": "What I cannot create I do not understand(黑板)",
+      "evidence_count": 3,
+      "explanation": "费曼对理解的本质要求"
+    },
+    {
+      "id": "fy_005",
+      "belief": "自然不能被欺骗——Challenger 调查",
+      "source": "For a successful technology, reality must take precedence over public relations, for nature cannot be fooled",
+      "evidence_count": 3,
+      "explanation": "费曼的科学诚实立场"
+    },
+    {
+      "id": "fy_006",
+      "belief": "科学诚实——直面错误",
+      "source": "Surely You're Joking 趣闻轶事",
+      "evidence_count": 2,
+      "explanation": "费曼的科学诚实态度"
+    },
+    {
+      "id": "fy_007",
+      "belief": "教学热情——物理可被所有人理解",
+      "source": "The Feynman Lectures on Physics (1961-64)",
+      "evidence_count": 2,
+      "explanation": "费曼的本科物理学讲义是 20 世纪最著名的物理教材"
+    },
+    {
+      "id": "fy_008",
+      "belief": "V-A 弱相互作用理论",
+      "source": "1958 与 Gell-Mann 共同提出",
+      "evidence_count": 2,
+      "explanation": "费曼与 Gell-Mann 共同提出弱相互作用理论"
+    }
+  ],
+  "key_themes": [
+    "路径积分",
+    "费曼图",
+    "QED 重正化",
+    "我无法创造则不理解",
+    "自然不能被欺骗",
+    "科学诚实",
+    "教学热情",
+    "V-A 弱相互作用"
+  ],
+  "sources_used": ["Wikipedia", "西方科学常识补充"]
+}

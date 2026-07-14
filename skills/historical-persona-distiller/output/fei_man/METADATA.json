@@ -1,0 +1,33 @@
+{
+  "persona_id": "fei_man",
+  "name_zh": "费曼",
+  "name_en": "Richard Feynman",
+  "birth_death": "1918-05-11 / 1988-02-15",
+  "dynasty": "20世纪美国",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "physicist / teacher",
+  "key_works": [
+    "1942 博士论文《量子力学中的最小作用原理》",
+    "1948 路径积分+费曼图",
+    "1959 纳米技术演讲",
+    "1961-64 《费曼物理学讲义》",
+    "1965 《物理定律的本性》",
+    "1985 《别闹了,费曼先生》",
+    "1985 《QED:光与物质的奇妙理论》",
+    "1988 《你干吗在乎别人怎么想?》"
+  ],
+  "core_concepts": [
+    "路径积分",
+    "费曼图",
+    "QED 重正化",
+    "我无法创造则不理解",
+    "自然不能被欺骗",
+    "科学诚实",
+    "教学热情",
+    "V-A 弱相互作用"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Richard Feynman", "西方科学常识补充"],
+  "default_stage": "切片二:QED 路径积分 (1945-1952)"
+}

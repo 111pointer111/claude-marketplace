@@ -1,0 +1,180 @@
+# 费曼 - 传记
+
+> 来源: Wikipedia (https://en.wikipedia.org/wiki/Richard_Feynman)
+> 抓取日期: 2026-07-13
+
+---
+
+## 基本信息
+
+**全名:** Richard Phillips Feynman
+**生卒:** 1918-05-11(纽约皇后区) — 1988-02-15(洛杉矶),享年 69 岁
+**身份:** 美国理论物理学家
+**主要成就:** 路径积分、费曼图,1965 年诺贝尔物理学奖
+
+## 一、家世与早年
+
+- 父 Melville Arthur Feynman 犹太移民(白俄罗斯明斯克,5 岁移美)
+- 母 Lucille Phillips 波兰移民家庭
+- 晚说话(3 岁后)
+- 重纽约口音,Pauli 与 Bethe 说他像"bum"讲话
+- 童年家中设实验室,擅长修收音机
+- 姐 Joan Feynman 后成天体物理学家
+
+## 二、教育
+
+- Far Rockaway High School(同校有 Burton Richter、Baruch Blumberg 等诺奖得主)
+- **MIT (1935-1939)**: 起初数学 → 电气工程 → 物理
+- **Princeton 1942 博士**,导师 John Archibald Wheeler
+- 博士论文《量子力学中的最小作用原理》为路径积分与费曼图奠基
+- **关键洞见**: 正电子是电子时间反演
+- **Princeton 研究生入学考试物理完美分数**——前所未有
+
+## 三、曼哈顿计划(1943-1945)
+
+- Robert R. Wilson 招募
+- 普林斯顿 + Los Alamos(Bethe 理论部)
+- 与 Bethe 发展裂变弹当量公式
+- 闲时破解同事柜锁(发现 e=2.71828...)
+
+**首妻 Arline Greenbaum 1945-06-16 死于结核病**
+- 见证 Trinity 试爆("唯一未戴防护眼镜就看见爆炸的人")
+
+## 四、Cornell(1945-1949)
+
+- QED 路径积分发展
+- 1948 Pocono 会议(反响不佳)
+- Freeman Dyson 加重正化规则(1949 论文)
+
+## 五、巴西(1949-1952)
+
+- 巴西物理研究中心 sabbatical
+- 学桑巴与 frigideira 打击乐
+
+## 六、Caltech(1952-1988)
+
+- Richard C. Tolman 理论物理学教授席位
+
+**主要贡献:**
+- **超流**: 超冷液氦量子力学解释
+- **V-A 理论**: 与 Gell-Mann 弱相互作用模型
+- **部分子模型**: 强相互作用解释
+- **量子引力**: 通过无质量 spin 2 场推导爱因斯坦场方程
+
+## 七、荣誉
+
+- 1954 Albert Einstein Award
+- 1962 E. O. Lawrence Award
+- **1965 诺贝尔物理学奖**(与 Schwinger、Tomonaga 共得) "for their fundamental work in quantum electrodynamics"
+- 1965 Foreign Member of Royal Society
+- 1972 Oersted Medal
+- 1979 National Medal of Science
+
+1999 Physics World 评其第 7 伟大物理学家(130 位物理学家投票)
+
+## 八、个人生活
+
+3 次婚姻:
+1. **Arline Greenbaum**(1942 婚,1945 死)
+2. **Mary Louise Bell**(1952 婚,1958 离)
+3. **Gweneth Howarth**(1960 婚)
+
+子 Carl(1962),养女 Michelle。
+
+## 九、性别歧视争议
+
+1968-72 Caltech 抗议,反对他在讲座中讲"女司机"等性别歧视段子。回忆录中提到在脱衣舞俱乐部开会、雇用裸体模特。
+
+## 十、Challenger 灾难(1986)
+
+费曼加入 Rogers Commission 调查,通过冰水实验演示 O 环失效:
+
+> "For a successful technology, reality must take precedence over public relations, for nature cannot be fooled."
+
+> 中文大意: 成功的技术,现实必须先于公共关系,因为自然不能被欺骗。
+
+## 十一、去世
+
+1988-02-15 在洛杉矶因腹癌(伴随肾衰)去世,享年 69。葬于加州 Altadena Mountain View Cemetery。
+
+## 十二、著名著作
+
+- 1959《底部还有大量空间》(*There's Plenty of Room at the Bottom*,纳米技术预言)
+- 1961-64《费曼物理学讲义》(*The Feynman Lectures on Physics*)
+- 1965《物理定律的本性》(*The Character of Physical Law*)
+- 1985《QED:光与物质的奇妙理论》
+- 1985《别闹了,费曼先生》(*Surely You're Joking, Mr. Feynman!*)
+- 1988《你干吗在乎别人怎么想?》
+
+## 十三、名言
+
+- "What I cannot create I do not understand" (黑板)
+- "For a successful technology, reality must take precedence over public relations, for nature cannot be fooled."
+- "It's great to be back at the only university that ever had the good sense to fire me." (对 Cornell)
+- "at thirteen I was not only converted to other religious views, but I also stopped believing that the Jewish people are in any way 'the chosen people'"
+
+---
+
+## 中文补充:费曼图与路径积分
+
+**费曼图(Feynman Diagrams):**
+- 1948 提出
+- 粒子相互作用的可视化
+- 简化 QED 计算
+
+**路径积分(路径积分公式化):**
+- 粒子从 A 到 B 的概率 = 所有可能路径的贡献之和
+- "每个可能路径都有贡献"
+- Lagrangian: ∫ e^(iS/ℏ) D[path]
+
+**物理意义:**
+- 经典力学是路径积分的经典极限(ℏ→0)
+- 量子干涉从多路径贡献解释
+- 与变分原理的关系
+
+**对QED的贡献:**
+- 重正化(消除无穷大)
+- 解决发散困难
+- 与 Schwinger(分析)、Tomonaga(超场论)并列 1965 诺奖
+
+---
+
+## 中文补充:费曼的风格与文化影响
+
+**教学风格:**
+- 《费曼物理学讲义》是 20 世纪最著名的物理教材
+- 费曼技巧:用最简单的语言解释复杂概念
+- "如果你不能简单地解释,你理解得不够"
+
+**趣闻轶事:**
+- 玻利维亚打击乐手
+- 裸体酒吧会议
+- 安全柜破解
+- 醉心于康加鼓
+- "难以捉摸的费曼图"
+- "加州的浪荡子"
+
+**Challenger 调查(1986):**
+- 公开听证会上用冰水实验展示 O 环失效
+- 著名论断:"自然不能被欺骗"
+- 体现科学家诚实面对自然的态度
+
+**对当代科学家的影响:**
+- 1988 至今每年 Feynman 纪念讲座
+- "What I cannot create I do not understand" 在 2021 宇宙学海报中
+- Feynman 物理学奖
+- 纳米技术灵感来源(1959 讲演)
+
+**对流行文化的影响:**
+- 《别闹了,费曼先生》《你干吗在乎别人怎么想?》畅销书
+- 改编电影《无限》(1996)
+- 1999 Physics World 第 7 伟大物理学家
+
+---
+
+## 中文补充:费曼与中国
+
+**费曼未直接访华**,但通过以下方式影响中国:
+- 《费曼物理学讲义》翻译为中文,广泛使用
+- 中国科学院院士引用费曼的工作
+- 费曼的"反叛"风格影响中国改革开放后的科学文化

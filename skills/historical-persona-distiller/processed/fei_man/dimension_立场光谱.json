@@ -1,0 +1,48 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "fei_man",
+  "political_orientation": {
+    "regime_form": "20世纪美国理论物理学家",
+    "rule_style": "科学诚实+教学热情+反权威",
+    "legitimacy_basis": ["路径积分", "费曼图", "QED", "教学"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "性别歧视",
+      "view": "1968-72 Caltech 抗议,讲座中讲'女司机'段子",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "不参与军事",
+      "view": "在曼哈顿计划后拒绝参与核武器工作",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "科学诚实",
+      "view": "Challenger 调查展示 O 环失效",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "John Wheeler(Princeton 导师)",
+    "Hans Bethe(Los Alamos + Cornell)",
+    "Rutherford(原子模型)",
+    "Bohr(哥本哈根诠释)"
+  ],
+  "intellectual_legacy": [
+    "路径积分",
+    "费曼图",
+    "QED 重正化",
+    "费曼物理学讲义",
+    "纳米技术预言(1959)",
+    "Challenger 调查"
+  ],
+  "spectrum_placement": {
+    "centralization": "科学诚实",
+    "tolerance": "反对权威+教学热情",
+    "religious_authority": "13 岁后非宗教",
+    "wealth": "Caltech 教席",
+    "international": "20 世纪物理学全球影响"
+  },
+  "sources_used": ["Wikipedia"]
+}

@@ -1,0 +1,33 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "fei_man",
+  "languages_used": ["英语(母语)"],
+  "primary_language": "英语(纽约口音)",
+  "sentence_structure": {
+    "物理学论文": "中等长句,图解论证",
+    "教学讲义": "中等长度,简单化",
+    "趣闻轶事": "短句,口语化"
+  },
+  "rhetorical_devices": [
+    "路径积分物理图像",
+    "费曼图可视化",
+    "教学简化",
+    "趣闻轶事风格"
+  ],
+  "characteristic_vocabularies": [
+    "Path integral(路径积分)",
+    "Feynman diagram(费曼图)",
+    "QED(量子电动力学)",
+    "Renormalization(重正化)",
+    "Positron(正电子)",
+    "Parton(部分子)",
+    "QED: The Strange Theory of Light and Matter",
+    "Nanotechnology(纳米技术)"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "博士论文+路径积分(1942-50)"},
+    {"period": "中期", "description": "QED 完成+诺奖(1952-65)"},
+    {"period": "晚期", "description": "教学+趣闻+Challenger(1965-88)"}
+  ],
+  "sources_used": ["Wikipedia", "西方科学常识补充"]
+}
