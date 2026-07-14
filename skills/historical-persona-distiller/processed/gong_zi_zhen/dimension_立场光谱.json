@@ -1,0 +1,46 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "gong_zi_zhen",
+  "political_orientation": {
+    "regime_form": "晚清改革派",
+    "rule_style": "公羊学激进+诗化预言",
+    "legitimacy_basis": ["公羊学", "林则徐支持", "人才超越论资排辈"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "晚清衰败预言",
+      "view": "30 多年后鸦片战争验证",
+      "source": "Wikipedia + 中文文学常识"
+    },
+    {
+      "topic": "公羊学批判",
+      "view": "挑战清代政治实践",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "禁烟主张",
+      "view": "支持林则徐,预见西方侵略",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "公羊学(常州学派)",
+    "段玉裁(外公)经学",
+    "刘逢禄公羊学",
+    "林则徐禁烟实践"
+  ],
+  "intellectual_legacy": [
+    "晚清启蒙思想家先驱",
+    "影响康有为、梁启超",
+    "近代人才观念先驱",
+    "中国语文教材常选篇目"
+  ],
+  "spectrum_placement": {
+    "centralization": "晚清改革派",
+    "tolerance": "不拘一格降人才",
+    "religious_authority": "佛教寄托",
+    "wealth": "忧国忧民(批判赋税)",
+    "international": "预见西方侵略"
+  },
+  "sources_used": ["Wikipedia"]
+}

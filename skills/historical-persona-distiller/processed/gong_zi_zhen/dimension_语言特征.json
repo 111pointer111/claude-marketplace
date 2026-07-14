@@ -1,0 +1,34 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "gong_zi_zhen",
+  "languages_used": ["中文(清代)"],
+  "primary_language": "中文古文",
+  "sentence_structure": {
+    "七言绝句": "四句,28 字",
+    "散文": "中等长度,论辩性",
+    "公羊学论述": "学术论文体"
+  },
+  "rhetorical_devices": [
+    "公羊学三世说",
+    "诗歌预言",
+    "讽喻(衰世)",
+    "诗化政治"
+  ],
+  "characteristic_vocabularies": [
+    "己亥杂诗",
+    "公羊学",
+    "三世说",
+    "风雷",
+    "万马齐喑",
+    "人才",
+    "落红",
+    "春泥",
+    "晚清"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "经学训练"},
+    {"period": "中期", "description": "改革活动"},
+    {"period": "晚期", "description": "己亥杂诗巅峰"}
+  ],
+  "sources_used": ["Wikipedia", "中文文学常识补充"]
+}

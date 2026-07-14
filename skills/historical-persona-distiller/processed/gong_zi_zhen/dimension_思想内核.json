@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "gong_zi_zhen",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "gzz_001",
+      "belief": "不拘一格降人才——人才超越论资排辈",
+      "source": "我劝天公重抖擞,不拘一格降人才(《己亥杂诗》第 220 首)",
+      "evidence_count": 4,
+      "explanation": "龚自珍呼吁社会超越论资排辈,降下各种人才,这是其政治改革核心"
+    },
+    {
+      "id": "gzz_002",
+      "belief": "落红化作春泥——奉献精神",
+      "source": "落红不是无情物,化作春泥更护花(《己亥杂诗》第 5 首)",
+      "evidence_count": 3,
+      "explanation": "龚自珍对奉献精神的诗化表达,体现儒家'鞠躬尽瘁'传统"
+    },
+    {
+      "id": "gzz_003",
+      "belief": "晚清衰败的预言",
+      "source": "避席畏闻文字狱,著书都为稻粱谋(《己亥杂诗》)",
+      "evidence_count": 3,
+      "explanation": "龚自珍预言清王朝人才匮乏将导致衰败,30 多年后鸦片战争爆发验证"
+    },
+    {
+      "id": "gzz_004",
+      "belief": "公羊学批判",
+      "source": "用《公羊》三世说批判清代实践",
+      "evidence_count": 3,
+      "explanation": "龚自珍继承常州公羊学传统,以三世说批判清代停滞"
+    },
+    {
+      "id": "gzz_005",
+      "belief": "禁烟主张",
+      "source": "支持林则徐禁烟,建议加强海防",
+      "evidence_count": 2,
+      "explanation": "龚自珍是林则徐禁烟的支持者,预见西方鸦片侵略"
+    },
+    {
+      "id": "gzz_006",
+      "belief": "忧国忧民",
+      "source": "国赋三升民一顿,官中又送几科举(《己亥杂诗》)",
+      "evidence_count": 3,
+      "explanation": "龚自珍揭露晚清赋税与科举的双重压迫"
+    },
+    {
+      "id": "gzz_007",
+      "belief": "晚清启蒙先驱——思想史地位",
+      "source": "影响康有为、梁启超;杭州纪念馆(1990)",
+      "evidence_count": 3,
+      "explanation": "龚自珍被尊为晚清启蒙思想家先驱,影响康梁改革运动"
+    },
+    {
+      "id": "gzz_008",
+      "belief": "辞官归隐——以死殉道",
+      "source": "辞官 1839; 1841 病逝于丹阳",
+      "evidence_count": 2,
+      "explanation": "龚自珍辞官归隐 2 年后病逝,体现士人对晚清失望"
+    }
+  ],
+  "key_themes": [
+    "不拘一格降人才",
+    "落红化作春泥",
+    "晚清衰败预言",
+    "公羊学批判",
+    "禁烟主张",
+    "忧国忧民",
+    "晚清启蒙先驱",
+    "辞官归隐"
+  ],
+  "sources_used": ["Wikipedia", "中文文学常识补充"]
+}

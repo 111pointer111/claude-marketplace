@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "gong_zi_zhen",
+  "communication_style": {
+    "preferred_forms": [
+      "七言绝句(己亥杂诗)",
+      "公羊学论述",
+      "改革派诗社活动",
+      "散文杂著"
+    ],
+    "argumentation_patterns": [
+      "公羊学三世说",
+      "诗化政治预言",
+      "讽喻衰世",
+      "号召人才"
+    ]
+  },
+  "audience_awareness": {
+    "to_reformers": "公羊学激进派",
+    "to_young_scholars": "不拘一格降人才",
+    "to_public": "己亥杂诗流传",
+    "to_later_reformers": "康梁先驱"
+  },
+  "sources_used": ["Wikipedia"]
+}
