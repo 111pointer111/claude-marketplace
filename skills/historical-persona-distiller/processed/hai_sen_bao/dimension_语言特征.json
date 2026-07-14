@@ -1,0 +1,33 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "hai_sen_bao",
+  "languages_used": ["德语(母语)", "英语(科学)"],
+  "primary_language": "德语",
+  "sentence_structure": {
+    "物理论文": "中等长句,精密数学论证",
+    "哲学著作": "中等长句,概念辩证",
+    "回忆": "短句,叙事"
+  },
+  "rhetorical_devices": [
+    "矩阵代数论证",
+    "不确定性辩证",
+    "柏拉图主义引用",
+    "哲学与物理学融合"
+  ],
+  "characteristic_vocabularies": [
+    "Ungenauigkeit(不精确)",
+    "Unschärfe(不确定性)",
+    "Matrix(矩阵)",
+    "Observable(可观察量)",
+    "Complementarity(互补性)",
+    "Platonism(柏拉图主义)",
+    "Quantum mechanics(量子力学)",
+    "Copenhagen interpretation(哥本哈根诠释)"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "矩阵力学(1925)"},
+    {"period": "中期", "description": "不确定性原理+论战(1927)"},
+    {"period": "晚期", "description": "哲学著作(1958-1969)"}
+  ],
+  "sources_used": ["Wikipedia", "西方科学常识补充"]
+}

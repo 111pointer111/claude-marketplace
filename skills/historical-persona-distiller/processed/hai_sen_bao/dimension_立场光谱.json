@@ -1,0 +1,47 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "hai_sen_bao",
+  "political_orientation": {
+    "regime_form": "20世纪德国理论物理学家",
+    "rule_style": "量子物理学+反实在论",
+    "legitimacy_basis": ["矩阵力学", "不确定性原理", "哥本哈根诠释"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "德国核项目",
+      "view": "Uranverein 成员,1942 称造不出",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "Farm Hall 录音",
+      "view": "1945-08 得知广岛后不熟悉原子弹设计",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "1941 哥本哈根会面",
+      "view": "与玻尔争议性会面,Frayn 戏剧主题",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "柏拉图(《蒂迈欧》)",
+    "Arnold Sommerfeld(慕尼黑)",
+    "Niels Bohr(哥本哈根)",
+    "Max Born(哥廷根矩阵力学)"
+  ],
+  "intellectual_legacy": [
+    "量子力学创始人之一",
+    "不确定性原理",
+    "哥本哈根诠释",
+    "Max Planck 研究所所长",
+    "CERN 推动者"
+  ],
+  "spectrum_placement": {
+    "centralization": "量子力学中心",
+    "tolerance": "反实在论",
+    "religious_authority": "柏拉图主义(非宗教)",
+    "wealth": "学者生活",
+    "international": "20 世纪物理学全球影响"
+  },
+  "sources_used": ["Wikipedia"]
+}

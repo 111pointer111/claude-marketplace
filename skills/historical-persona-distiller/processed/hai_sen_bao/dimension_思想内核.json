@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "hai_sen_bao",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "hs_001",
+      "belief": "矩阵力学——量子力学的第一种完整形式",
+      "source": "1925-06 黑尔戈兰岛 Umdeutung 论文",
+      "evidence_count": 4,
+      "explanation": "海森堡的矩阵力学是量子力学的第一次完整数学形式"
+    },
+    {
+      "id": "hs_002",
+      "belief": "不确定性原理——Δx·Δp ≥ ℏ/2",
+      "source": "1927 不确定性论文(原文用 Ungenauigkeit)",
+      "evidence_count": 4,
+      "explanation": "海森堡不确定性原理是 20 世纪物理学最基本原理之一"
+    },
+    {
+      "id": "hs_003",
+      "belief": "反实在论——粒子行为依赖观察",
+      "source": "We can no longer speak of the behaviour of the particle independently of the process of observation",
+      "evidence_count": 3,
+      "explanation": "海森堡的反实在论立场挑战经典物理学客观性"
+    },
+    {
+      "id": "hs_004",
+      "belief": "柏拉图主义——现代物理支持柏拉图",
+      "source": "Modern physics has definitely decided in favor of Plato",
+      "evidence_count": 3,
+      "explanation": "海森堡的柏拉图主义解读:数学形式/理念的本体论"
+    },
+    {
+      "id": "hs_005",
+      "belief": "与玻尔的哥本哈根诠释",
+      "source": "1927-1955 玻尔-海森堡论战 vs 爱因斯坦",
+      "evidence_count": 3,
+      "explanation": "海森堡是哥本哈根诠释的核心人物"
+    },
+    {
+      "id": "hs_006",
+      "belief": "反对核武器扩张",
+      "source": "The more we multiply the means of destruction, the more we are in danger of being destroyed by our own power",
+      "evidence_count": 2,
+      "explanation": "海森堡的核武器扩张批判"
+    },
+    {
+      "id": "hs_007",
+      "belief": "对玻尔的友谊与尊敬",
+      "source": "Bohr was 'primarily a philosopher, not a physicist'",
+      "evidence_count": 2,
+      "explanation": "海森堡称玻尔为'父亲般的朋友',对玻尔哲学高度尊敬"
+    },
+    {
+      "id": "hs_008",
+      "belief": "哲学与物理学融合",
+      "source": "Physics and Philosophy (1958); The Part and the Whole (1969)",
+      "evidence_count": 2,
+      "explanation": "海森堡的哲学著作是其物理学与哲学融合的体现"
+    }
+  ],
+  "key_themes": [
+    "矩阵力学",
+    "不确定性原理",
+    "反实在论",
+    "柏拉图主义",
+    "哥本哈根诠释",
+    "反对核武器",
+    "对玻尔的友谊",
+    "哲学与物理学融合"
+  ],
+  "sources_used": ["Wikipedia", "西方科学常识补充"]
+}

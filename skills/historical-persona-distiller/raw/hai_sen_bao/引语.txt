@@ -1,0 +1,79 @@
+# 海森堡直接引语
+
+> 来源: Wikipedia + 公开西方科学常识
+> 抓取日期: 2026-07-13
+
+---
+
+## 不确定性原理(1927)
+
+> **Δx·Δp ≥ ℏ/2** (位置-动量不确定性)
+> **ΔE·Δt ≥ ℏ/2** (能量-时间不确定性)
+
+> 原论文使用 "Ungenauigkeit"(不精确)而非 "Unschärfe"(不确定性)
+
+## 哲学观点
+
+> "We can no longer speak of the behaviour of the particle independently of the process of observation... the natural laws formulated mathematically in quantum theory no longer deal with the elementary particles themselves but with our knowledge of them."
+
+> 中文大意: 我们不再能说粒子的行为独立于观察过程...量子理论用数学表述的自然法则不再处理基本粒子本身,而是处理我们对它们的知识。
+
+## 关于柏拉图
+
+> "My mind was formed by studying philosophy, Plato and that sort of thing."
+
+> 中文大意: 我的心智是学习哲学、柏拉图等形成的。
+
+> "Modern physics has definitely decided in favor of Plato."
+
+> 中文大意: 现代物理学明确支持柏拉图。
+
+## 关于物理与哲学
+
+> "Modern physics has definitely decided in favor of Plato. In fact the smallest units of matter are not physical objects in the ordinary sense; they are forms, ideas which can be expressed unambiguously only in mathematical language."
+
+> 中文大意: 现代物理学明确支持柏拉图。事实上,物质的最小单位不是通常意义上的物理对象;它们是形式、观念,只能用数学语言明确表达。
+
+## 关于科学进步
+
+> "The history of physics is not only a succession of experimental discoveries and their theoretical explanations; it is also a history of the changing ideas of what physics is about."
+
+> 中文大意: 物理学史不仅是实验发现及其理论解释的连续;它也是关于物理学是什么的观念变化史。
+
+## Farm Hall 录音(1945-08)
+
+> "We wouldn't have had the moral courage to recommend to the government in the spring of 1942 that they should employ 120,000 men just for building the thing up."
+
+> 中文大意: 我们不会有道德勇气,于 1942 年春建议政府雇用 120,000 人只是为了建造这东西。
+
+## 关于量子力学革命
+
+> "I remember discussions with Niels Bohr which went through many hours till very late at night and ended almost in despair; and when at the end of the discussion I went alone for a walk in the neighbouring park I repeated to myself again and again the question: Can nature possibly be as absurd as it seemed to us in those atomic experiments?"
+
+> 中文大意: 我记得与玻尔的讨论常常持续到深夜,几乎以绝望结束;讨论结束我独自在邻近公园散步时,反复问自己:大自然真可能像我们在原子实验中看到的那样荒诞吗?
+
+## 关于物理学家
+
+> "The physicist may be satisfied when he has the mathematical scheme and knows how to use it for the prediction of the results of experiments."
+
+> 中文大意: 当物理学家有了数学方案并知道如何用其预测实验结果时,他就满足了。
+
+## 关于和平
+
+> "The more we multiply the means of destruction, the more we are in danger of being destroyed by our own power."
+
+> 中文大意: 我们制造越多毁灭手段,我们就越处于被自己力量毁灭的危险中。
+
+## 关于技术与精神
+
+> "The first gulp from the glass of natural sciences will turn you into an atheist, but at the bottom of the glass God is waiting for you."
+
+> 中文大意: 自然科学的第一口将使你成为无神论者,但在杯底神在等你——海森堡(德文原话)。
+
+---
+
+## 引语使用注意
+
+1. Wikipedia 1 源,引语整理基于公开西方科学常识
+2. 不确定性原理原文(德文)需进一步考证
+3. Farm Hall 录音引语有争议,引用时需谨慎

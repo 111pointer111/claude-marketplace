@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "hai_sen_bao",
+  "communication_style": {
+    "preferred_forms": [
+      "物理论文",
+      "哲学著作",
+      "回忆",
+      "演讲"
+    ],
+    "argumentation_patterns": [
+      "矩阵代数论证",
+      "不确定性辩证",
+      "柏拉图主义引用",
+      "哲学与物理学融合"
+    ]
+  },
+  "audience_awareness": {
+    "to_physicists": "矩阵力学+不确定性",
+    "to_philosophers": "反实在论+柏拉图主义",
+    "to_quantum_mechanics": "哥本哈根诠释",
+    "to_anti_war": "反对核武器扩张"
+  },
+  "sources_used": ["Wikipedia"]
+}

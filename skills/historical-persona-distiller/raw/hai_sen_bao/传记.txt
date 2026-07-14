@@ -1,0 +1,150 @@
+# 海森堡 - 传记
+
+> 来源: Wikipedia (https://en.wikipedia.org/wiki/Werner_Heisenberg)
+> 抓取日期: 2026-07-13
+
+---
+
+## 基本信息
+
+**全名:** Werner Karl Heisenberg
+**生卒:** 1901-12-05(维尔茨堡) — 1976-02-01(慕尼黑),享年 74 岁
+**身份:** 德国理论物理学家、哲学家
+**主要成就:** 矩阵力学、不确定性原理,1932 年诺贝尔物理学奖
+
+## 一、家世与早年
+
+- 父 Kaspar Ernst August Heisenberg: 中世纪与现代希腊语教授(德国唯一)
+- 母 Annie Wecklein
+- 路德宗基督徒
+- 受柏拉图《蒂迈欧》影响:"My mind was formed by studying philosophy, Plato and that sort of thing."
+- 1919 参加自由军团(对抗巴伐利亚苏维埃共和国),后自述为"玩警察与小偷游戏"
+
+## 二、学术生涯(1920-1927)
+
+- 1920-23 慕尼黑大学师从 Arnold Sommerfeld
+- 哥廷根大学与 Max Born、James Franck 同窗
+- **1923 博士论文**《论液流的稳定性与湍流》(*Über Stabilität und Turbulenz von Flüssigkeitsströmen*)
+
+## 三、矩阵力学(1925)
+
+1925-06 严重花粉热,退至黑尔戈兰岛。撰写划时代论文《论运动学与力学关系的量子理论重新解释》(*Über quantentheoretische Umdeutung kinematischer und mechanischer Beziehungen*),即"Umdeutung 论文"。
+
+与 Born、Jordan 合作,创立**矩阵力学**——量子力学的第一种完整形式。
+
+## 四、不确定性原理(1927)
+
+1927 在哥本哈根发展不确定性原理。**1927-02-23** 致信 Wolfgang Pauli 首次描述。
+
+论文中使用"**Ungenauigkeit**"(不精确)而非"Unschärfe"(不确定性)。
+
+## 五、诺贝尔奖(1932/1933)
+
+1928 爱因斯坦提名 Heisenberg、Born、Jordan 共获诺贝尔奖。
+
+**1933 年获 1932 年诺贝尔物理学奖** "for the creation of quantum mechanics"(因创立量子力学)。
+
+## 六、荣誉
+
+- 1929 Matteucci Medal
+- 1930 Barnard Medal
+- **1932 Nobel Prize in Physics**
+- 1933 Max Planck Medal
+- 1970 Niels Bohr International Gold Medal
+
+## 七、哲学观点
+
+海森堡是**反实在论者**:
+> "We can no longer speak of the behaviour of the particle independently of the process of observation... the natural laws formulated mathematically in quantum theory no longer deal with the elementary particles themselves but with our knowledge of them."
+
+> 中文大意: 我们不再能说粒子的行为独立于观察过程...量子理论用数学表述的自然法则不再处理基本粒子本身,而是处理我们对它们的知识。
+
+## 八、德国核项目(1939-1945)
+
+1939 起为 **Uranverein**(铀俱乐部)成员,研究核裂变。
+
+**1942-06-04** 海森堡对 Albert Speer 说,1945 年前造不出原子弹(资源不足)。
+
+**Farm Hall 录音**(1945-08 得知广岛原子弹后):
+> "We wouldn't have had the moral courage to recommend to the government in the spring of 1942 that they should employ 120,000 men just for building the thing up."
+
+> 中文大意: 我们不会有道德勇气,于 1942 年春建议政府雇用 120,000 人只是为了建造这东西。
+
+## 九、战后生涯(1945-1976)
+
+- Kaiser Wilhelm Institute for Physics 所长(后改 Max Planck Institute for Physics),任职至 1958
+- 1960-1970 Max Planck Institute for Physics and Astrophysics 所长
+- Alexander von Humboldt 基金会主席
+- 1953 协助建立 CERN
+
+## 十、哲学著作
+
+- 《物理学与哲学》(Physics and Philosophy, 1958)
+- 《物理学家的自然观》(The Physicist's Conception of Nature)
+- 《部分与整体》(The Part and the Whole, 1969)
+
+## 十一、去世
+
+1976-02-01 在慕尼黑去世,享年 74。
+
+---
+
+## 中文补充:海森堡矩阵力学与不确定性原理
+
+**矩阵力学(1925):**
+- 海森堡、玻恩、约当
+- 量子态用矩阵表示
+- 矩阵乘法不对易 = 测不准关系的基础
+
+**不确定性原理(1927):**
+- Δx·Δp ≥ ℏ/2(位置-动量)
+- ΔE·Δt ≥ ℏ/2(能量-时间)
+- 测量本身扰动系统,无法同时精确测量
+
+**哥本哈根诠释:**
+- 海森堡: 不确定性原理
+- 玻尔: 互补原理
+- Born: 概率诠释
+- 共同构成哥本哈根诠释
+
+**测不准原理的哲学意义:**
+- 反对爱因斯坦的"客观实在"
+- 强调观察者与被观察系统的不可分
+- 与康德先验哲学有共鸣
+
+## 中文补充:海森堡与玻尔的友谊
+
+**互补性争论(1927-1955):**
+- 1927 Como 会议
+- Solvay 会议
+- 海森堡支持玻尔,反对爱因斯坦隐变量
+
+**个人友谊:**
+- 1924-27 海森堡在哥本哈根师从玻尔
+- "Hannover/Heisenberg 论文"合作
+- 海森堡称玻尔为"父亲般的朋友"
+
+**1941 哥本哈根会面争议:**
+- 海森堡 1941-09 访问哥本哈根玻尔
+- Michael Frayn 戏剧《哥本哈根》探讨此事
+- 海森堡称谈核能与道德;玻尔称怀疑是劝合作
+- 2002 公开的玻尔草稿增加了争议性
+
+## 中文补充:海森堡与德国核项目争议
+
+**支持者观点:**
+- 海森堡有意"破坏"德国核武
+- Farm Hall 录音中显得"不熟悉"原子弹设计
+- 1942 告诉 Speer "1945 前造不出"
+
+**反对者观点:**
+- 海森堡是纳粹"荣誉公民"
+- 他故意为德国工程设计反应堆路径而非炸弹
+- "无所作为"不是道德英雄
+
+**主流史学观点:**
+- 海森堡可能是技术无能(不是道德英雄)
+- 1942 评估错误(他低估了反应堆级分离铀的难度)
+- Farm Hall 显示他以为反应堆不可行(实际是错的)
+
+争议仍是 21 世纪核史与伦理史的研究主题。
