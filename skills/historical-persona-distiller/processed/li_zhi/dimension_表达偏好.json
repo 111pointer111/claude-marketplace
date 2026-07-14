@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "li_zhi",
+  "communication_style": {
+    "preferred_forms": [
+      "书信论辩(答友人)",
+      "哲学论文(童心说)",
+      "历史评论(藏书)",
+      "以死殉道"
+    ],
+    "argumentation_patterns": [
+      "概念辨析:童心 vs 真心",
+      "历史对照:古今善恶",
+      "讽刺:道学虚伪",
+      "三教合一"
+    ]
+  },
+  "audience_awareness": {
+    "to_friends": "真诚书信论辩",
+    "to_intellectuals": "哲学论文",
+    "to_historians": "古今对照",
+    "to_authority": "以死殉道"
+  },
+  "sources_used": ["Wikipedia"]
+}

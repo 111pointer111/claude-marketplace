@@ -1,0 +1,29 @@
+{
+  "persona_id": "li_zhi",
+  "name_zh": "李贽",
+  "name_en": "Li Zhi (Li Zhi)",
+  "birth_death": "1527 / 1602",
+  "dynasty": "明代/16世纪",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "philosopher / historian / critic",
+  "key_works": [
+    "《焚书》",
+    "《藏书》",
+    "《续焚书》",
+    "《心经说》"
+  ],
+  "core_concepts": [
+    "童心说",
+    "反程朱理学虚伪",
+    "三教合一",
+    "肯定女性智慧",
+    "反儒家教条",
+    "反传统性别习俗",
+    "阳明学继承",
+    "以死殉道"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Li Zhi (philosopher)", "中文文学常识补充"],
+  "default_stage": "切片四:麻城芝佛院隐居与写作 (1580-1600)"
+}

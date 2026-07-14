@@ -1,0 +1,52 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "li_zhi",
+  "political_orientation": {
+    "regime_form": "明遗民激进异端",
+    "rule_style": "哲学异端+以死殉道",
+    "legitimacy_basis": ["童心说", "反程朱理学", "阳明学继承"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "反程朱理学",
+      "view": "虚伪批判+三教合一",
+      "source": "Wikipedia + 中文文学常识"
+    },
+    {
+      "topic": "女性观",
+      "view": "肯定女性智慧,但矛盾地赞颂守寡",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "童心说",
+      "view": "挑战孟子'养心莫善于寡欲'传统",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "晚明异端",
+      "view": "被官方逮捕,以死殉道",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "王阳明心学",
+    "王艮泰州学派",
+    "佛教禅宗",
+    "伊斯兰家世(思想宽容?)",
+    "陆王心学传统"
+  ],
+  "intellectual_legacy": [
+    "晚明思想解放运动核心",
+    "五四反传统思想先驱",
+    "鲁迅、胡适高度评价",
+    "童心说 → 个性解放"
+  ],
+  "spectrum_placement": {
+    "centralization": "批判明朝专制",
+    "tolerance": "三教合一+肯定女性",
+    "religious_authority": "禅宗+三教合一",
+    "wealth": "传统士人立场",
+    "international": "东亚共同思想遗产"
+  },
+  "sources_used": ["Wikipedia"]
+}

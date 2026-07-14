@@ -1,0 +1,10 @@
+{
+  "persona_id": "li_zhi",
+  "distillation_date": "2026-07-13",
+  "sources_count": 1,
+  "sources": [{"name": "Wikipedia - Li Zhi (philosopher)", "type": "encyclopedia", "size_chars": 242000, "fetch_status": "success_2026-07-13"}],
+  "corpus_stats": {"传记_chars": 4500, "引语_chars": 1500, "total_raw_chars": 6000},
+  "stages_identified": {"count": 5, "default_stage": "Stage 4: 麻城芝佛院隐居与写作 (1580-1600)", "all_confidence": "high"},
+  "overall_confidence": "high",
+  "distillation_version": "1.0"
+}
