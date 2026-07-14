@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "feng_no_yi_man",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "vn_001",
+      "belief": "冯·诺依曼体系——存储程序计算机架构",
+      "source": "EDVAC 报告 (1945)",
+      "evidence_count": 4,
+      "explanation": "冯·诺依曼的存储程序计算机架构是现代计算机基础"
+    },
+    {
+      "id": "vn_002",
+      "belief": "量子力学的数学基础——量子逻辑",
+      "source": "Mathematische Grundlagen der Quantenmechanik (1932)",
+      "evidence_count": 3,
+      "explanation": "冯·诺依曼量子逻辑是量子力学的严格数学基础"
+    },
+    {
+      "id": "vn_003",
+      "belief": "博弈论——minimax 定理",
+      "source": "Theory of Games and Economic Behavior (1944, 与 Morgenstern)",
+      "evidence_count": 3,
+      "explanation": "冯·诺依曼的博弈论与现代经济学基础"
+    },
+    {
+      "id": "vn_004",
+      "belief": "技术奇点——人类事务不能再继续",
+      "source": "Can We Survive Technology? (1958)",
+      "evidence_count": 3,
+      "explanation": "冯·诺依曼 1958 年的'奇点'预言"
+    },
+    {
+      "id": "vn_005",
+      "belief": "反对伪随机算法",
+      "source": "Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin",
+      "evidence_count": 2,
+      "explanation": "冯·诺依曼的'伪随机'批判"
+    },
+    {
+      "id": "vn_006",
+      "belief": "数学洞见常来自直觉",
+      "source": "go to sleep with a problem unsolved and know the answer upon waking up",
+      "evidence_count": 2,
+      "explanation": "冯·诺依曼的数学直觉"
+    },
+    {
+      "id": "vn_007",
+      "belief": "格论与冯·诺依曼代数",
+      "source": "lattice theory (1935-37)",
+      "evidence_count": 2,
+      "explanation": "格论是现代代数学基础"
+    },
+    {
+      "id": "vn_008",
+      "belief": "自复制自动机",
+      "source": "Theory of Self-Reproducing Automata (1966, 死后发表)",
+      "evidence_count": 2,
+      "explanation": "自复制自动机理论启发 von Neumann 探测器与生命起源研究"
+    }
+  ],
+  "key_themes": [
+    "冯·诺依曼体系",
+    "量子逻辑",
+    "博弈论",
+    "技术奇点",
+    "反对伪随机",
+    "数学洞见来自直觉",
+    "格论与冯·诺依曼代数",
+    "自复制自动机"
+  ],
+  "sources_used": ["Wikipedia", "西方科学常识补充"]
+}

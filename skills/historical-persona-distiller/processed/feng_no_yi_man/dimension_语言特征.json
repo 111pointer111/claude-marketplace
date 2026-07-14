@@ -1,0 +1,33 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "feng_no_yi_man",
+  "languages_used": ["匈牙利语(母语)", "德语(学术)", "英语(美国)", "法语(母语)", "意大利语(流利)", "意第绪语"],
+  "primary_language": "英语(晚期)+ 匈牙利语/德语(早期)",
+  "sentence_structure": {
+    "数学论文": "中等长句,精密论证",
+    "计算机论文": "中等长度,工程性",
+    "科普随笔": "中等长度,简单化"
+  },
+  "rhetorical_devices": [
+    "数学严格性",
+    "数学直觉",
+    "技术预言",
+    "反伪随机"
+  ],
+  "characteristic_vocabularies": [
+    "Stored-program computer(存储程序计算机)",
+    "Quantum logic(量子逻辑)",
+    "Game theory(博弈论)",
+    "Minimax theorem(minimax 定理)",
+    "von Neumann algebra(冯·诺依曼代数)",
+    "Lattice theory(格论)",
+    "Self-reproducing automata(自复制自动机)",
+    "Singularity(奇点)"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "数学(集合论+量子逻辑)"},
+    {"period": "中期", "description": "博弈论+计算机"},
+    {"period": "晚期", "description": "技术预言+自复制自动机"}
+  ],
+  "sources_used": ["Wikipedia", "西方科学常识补充"]
+}

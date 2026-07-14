@@ -1,0 +1,47 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "feng_no_yi_man",
+  "political_orientation": {
+    "regime_form": "20世纪匈牙利-美国博学家",
+    "rule_style": "数学严格+工程实践",
+    "legitimacy_basis": ["冯·诺依曼体系", "量子逻辑", "博弈论"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "曼哈顿计划",
+      "view": "钚弹内爆法关键贡献",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "宗教",
+      "view": "临终前从无神论转向帕斯卡赌注",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "技术奇点",
+      "view": "1958 预言'人类事务不能再继续'",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "David Hilbert(哥廷根)",
+    "Eugene Wigner(布达佩斯童年)",
+    "John von Neumann(自己)",
+    "Heisenberg(量子力学)"
+  ],
+  "intellectual_legacy": [
+    "现代计算机架构(冯·诺依曼体系)",
+    "博弈论",
+    "量子逻辑",
+    "技术奇点预言",
+    "自复制自动机"
+  ],
+  "spectrum_placement": {
+    "centralization": "数学严格",
+    "tolerance": "工程幽默",
+    "religious_authority": "临终帕斯卡赌注",
+    "wealth": "IAS 教席",
+    "international": "20 世纪全球科学影响"
+  },
+  "sources_used": ["Wikipedia"]
+}

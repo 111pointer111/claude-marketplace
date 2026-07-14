@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "feng_no_yi_man",
+  "communication_style": {
+    "preferred_forms": [
+      "数学论文(精密)",
+      "计算机论文(工程性)",
+      "会议讲演",
+      "下流幽默(私人)"
+    ],
+    "argumentation_patterns": [
+      "数学严格性",
+      "数学直觉",
+      "技术预言",
+      "反伪随机"
+    ]
+  },
+  "audience_awareness": {
+    "to_mathematicians": "格论+量子逻辑",
+    "to_computer_scientists": "冯·诺依曼体系",
+    "to_economists": "博弈论",
+    "to_general_public": "技术奇点"
+  },
+  "sources_used": ["Wikipedia"]
+}

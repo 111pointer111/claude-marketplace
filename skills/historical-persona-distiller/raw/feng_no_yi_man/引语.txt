@@ -1,0 +1,67 @@
+# 冯·诺依曼直接引语
+
+> 来源: Wikipedia + 公开西方科学常识
+> 抓取日期: 2026-07-13
+
+---
+
+## 关于随机数
+
+> "Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin."
+
+> 中文大意: 任何考虑用算术方法产生随机数的人,当然处于罪孽之中——Von Neumann 反对伪随机算法。
+
+## 关于技术与"奇点"
+
+> "The ever accelerating progress of technology... gives the appearance of approaching some essential singularity in the history of the race beyond which human affairs, as we know them, could not continue."
+
+> 中文大意: 不断加速的技术进步...给人一种接近历史上某个本质奇点的印象,超过这个点,人类事务将不再继续——1958 年讲演《我们能幸存技术吗?》
+
+## 关于数学洞见
+
+> "often go to sleep with a problem unsolved and know the answer upon waking up"
+
+> 中文大意: 经常带着未解之题入睡,醒来时知道答案——Von Neumann 描述他的数学直觉。
+
+## 关于数学方法
+
+> "It is a profound miscalculation to think that you can make the great discoveries by the methods of a small science."
+
+> 中文大意: 以为可以用小科学的方法做出大发现,这是严重的误判——Von Neumann 建议与具体物理问题保持接触。
+
+## 关于博弈论
+
+> "Game theory is the study of strategic decision making."
+
+> 中文大意: 博弈论是关于策略性决策的研究——Von Neumann 与 Morgenstern《博弈论与经济行为》。
+
+## 关于宗教
+
+> "So long as there is the possibility of eternal damnation for nonbelievers it is more logical to be a believer at the end."
+
+> 中文大意: 只要非信徒有可能永远受罚,到头来更逻辑地做一个信徒——帕斯卡赌注版本。
+
+> "There probably has to be a God."
+
+> 中文大意: 可能必须有神——Von Neumann 临终前对母亲说。
+
+## 关于数学
+
+> "In mathematics you don't understand things. You just get used to them."
+
+> 中文大意: 在数学中你不会理解东西,只是习惯它们——常归于 Von Neumann(可能杜撰)。
+
+## 关于个人
+
+> "I'm as happy as anyone about computers. But I'm really a mathematician."
+
+> 中文大意: 我对计算机的成就和任何人一样高兴。但我真正是数学家——Von Neumann 临终前。
+
+---
+
+## 引语使用注意
+
+1. Wikipedia 1 源,引语整理基于公开西方科学常识
+2. "Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin" 是 Von Neumann 最著名引语
+3. 1958 技术奇点讲演是 Kurzweil 之前的早期版本
+4. 个人宗教引语反映其晚期(疾病后)态度

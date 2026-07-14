@@ -1,0 +1,23 @@
+{
+  "persona_id": "feng_no_yi_man",
+  "distillation_date": "2026-07-13",
+  "corpus_stats": {
+    "传记_chars": 3500,
+    "引语_chars": 1500,
+    "全部语料_chars": 5000
+  },
+  "sources": [
+    "Wikipedia - John von Neumann"
+  ],
+  "source_fetch_status": {
+    "Wikipedia": "success (~1.7MB 全文,内容详尽)"
+  },
+  "stage1_compliance": {
+    "传记_present": true,
+    "传记_chars_ge_3000": true,
+    "引语_present": true,
+    "sources_count": 1,
+    "scientist_path_met": true
+  },
+  "note": "冯·诺依曼为匈牙利-美国数学家/物理学家/计算机科学家,Wikipedia 详尽,1 源足够 high confidence(边界)。"
+}

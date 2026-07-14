@@ -1,0 +1,30 @@
+{
+  "persona_id": "feng_no_yi_man",
+  "name_zh": "冯·诺依曼",
+  "name_en": "John von Neumann",
+  "birth_death": "1903-12-28 / 1957-02-08",
+  "dynasty": "20世纪匈牙利-美国",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "mathematician / physicist / computer scientist",
+  "key_works": [
+    "1932 《量子力学的数学基础》",
+    "1944 《博弈论与经济行为》(与 Morgenstern)",
+    "1945 EDVAC 报告(存储程序计算机)",
+    "1958 讲演《我们能幸存技术吗?》",
+    "1966 《自复制自动机理论》(死后发表)"
+  ],
+  "core_concepts": [
+    "冯·诺依曼体系",
+    "量子逻辑",
+    "博弈论",
+    "技术奇点",
+    "反对伪随机",
+    "数学直觉",
+    "格论与冯·诺依曼代数",
+    "自复制自动机"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - John von Neumann", "西方科学常识补充"],
+  "default_stage": "切片三:普林斯顿 + 博弈论 (1930-1944)"
+}
