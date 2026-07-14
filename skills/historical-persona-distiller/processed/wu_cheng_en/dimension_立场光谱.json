@@ -1,0 +1,47 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "wu_cheng_en",
+  "political_orientation": {
+    "regime_form": "批判明代官僚体制(隐喻)",
+    "rule_style": "三教合一思想",
+    "legitimacy_basis": ["佛道儒综合", "民间传说", "个人天才"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "作者归属",
+      "view": "现代学术多归吴承恩,但有持续争议",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "孙悟空反权威",
+      "view": "大闹天宫隐喻明代腐败官僚",
+      "source": "Wikipedia + 中文文学常识"
+    },
+    {
+      "topic": "科举体制",
+      "view": "吴承恩本人多次失败,《西游记》隐喻求取真经之路",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "玄奘取经故事(唐代史实)",
+    "佛道儒三教",
+    "民间传说与元杂剧",
+    "李卓吾(晚明思想家)",
+    "宋代禅宗"
+  ],
+  "intellectual_legacy": [
+    "中国四大奇书之一",
+    "孙悟空文化原型",
+    "现代改编:动画/电影/游戏",
+    "东亚共同文化记忆"
+  ],
+  "spectrum_placement": {
+    "centralization": "批判官僚体制",
+    "tolerance": "三教合一",
+    "religious_authority": "融合佛道儒",
+    "wealth": "传统士人立场",
+    "international": "东亚+全球影响"
+  },
+  "sources_used": ["Wikipedia", "中文文学常识补充"]
+}

@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "wu_cheng_en",
+  "communication_style": {
+    "preferred_forms": [
+      "神魔小说叙事",
+      "三教合一文体",
+      "诗歌穿插",
+      "戏仿官方文书"
+    ],
+    "argumentation_patterns": [
+      "三教合一论证",
+      "官僚讽刺(隐喻妖怪)",
+      "修行渐进",
+      "团队合作象征"
+    ]
+  },
+  "audience_awareness": {
+    "to_chinese_readers": "三教合一传统+民间传说",
+    "to_intellectuals": "政治隐喻+文学审美",
+    "to_common_readers": "戏剧化故事+宗教教化",
+    "to_critics": "作者归属争议"
+  },
+  "sources_used": ["Wikipedia"]
+}

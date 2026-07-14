@@ -1,0 +1,34 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "wu_cheng_en",
+  "languages_used": ["中文(古白话,半文半白)"],
+  "primary_language": "中文古白话",
+  "sentence_structure": {
+    "narration": "中等长句,叙事节奏",
+    "dialogue": "短句戏剧化",
+    "scenes": "诗化短句",
+    "bureaucratic_scenes": "讽刺模仿官方文体"
+  },
+  "rhetorical_devices": [
+    "反讽:妖怪多与天庭/佛界有牵连",
+    "隐喻:官僚=妖怪",
+    "讽刺:紧箍咒象征控制",
+    "戏仿:模仿官方文书"
+  ],
+  "characteristic_vocabularies": [
+    "西游记",
+    "孙悟空/齐天大圣",
+    "紧箍咒",
+    "取经",
+    "81 难",
+    "妖怪",
+    "五行山",
+    "火焰山"
+  ],
+  "style_evolution": [
+    {"period": "明代神魔小说传统", "description": "融合西游记故事+道教佛教元素"},
+    {"period": "百回繁本", "description": "嘉靖/万历间成书"},
+    {"period": "现代改编", "description": "动画、电影、游戏"}
+  ],
+  "sources_used": ["Wikipedia", "中文文学常识补充"]
+}
