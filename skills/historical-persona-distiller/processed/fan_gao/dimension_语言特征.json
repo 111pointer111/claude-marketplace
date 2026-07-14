@@ -1,0 +1,33 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "fan_gao",
+  "languages_used": ["荷兰语(母语)", "法语(流利)", "英语(基本)"],
+  "primary_language": "荷兰语(书信)+ 法语(法国时期)",
+  "sentence_structure": {
+    "书信": "中等长句,感性",
+    "格言": "短句,深刻",
+    "画论": "短句,直观"
+  },
+  "rhetorical_devices": [
+    "印象派色彩",
+    "后印象派表现",
+    "书信体",
+    "强烈情感"
+  ],
+  "characteristic_vocabularies": [
+    "Starry Night(星夜)",
+    "Sunflowers(向日葵)",
+    "Bedroom in Arles(阿尔勒卧室)",
+    "Café Terrace at Night(咖啡馆露台)",
+    "The Potato Eaters(吃土豆的人)",
+    "Wheatfield with Crows(麦田群鸦)",
+    "Self-Portrait(自画像)",
+    "Post-Impressionism(后印象派)"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "荷兰时期(土色调)"},
+    {"period": "中期", "description": "巴黎时期(印象派+点彩派)"},
+    {"period": "晚期", "description": "阿尔勒(黄色爆发)+圣雷米+奥维尔"}
+  ],
+  "sources_used": ["Wikipedia", "西方艺术常识补充"]
+}

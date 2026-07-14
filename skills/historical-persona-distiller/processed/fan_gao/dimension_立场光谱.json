@@ -1,0 +1,48 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "fan_gao",
+  "political_orientation": {
+    "regime_form": "19世纪荷兰后印象派画家",
+    "rule_style": "印象派+后印象派+书信",
+    "legitimacy_basis": ["后印象派革命", "色彩+情感", "书信+作品"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "精神疾病诊断",
+      "view": "癫痫/精神分裂/双相等争议",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "割耳事件",
+      "view": "1888-12 与 Gauguin 紧张后割下左耳部分",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "自杀",
+      "view": "1890-07-27 射击胸部,两天后死",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "Theo 兄弟(经济+情感支持)",
+    "Milliet(法国画家影响)",
+    "Gauguin(阿尔勒共画)",
+    "Bernard, Signac(点彩派)",
+    "日本浮世绘"
+  ],
+  "intellectual_legacy": [
+    "后印象派革命",
+    "野兽派",
+    "德国表现主义",
+    "现代艺术先驱",
+    "梵高博物馆(全球最热门)"
+  ],
+  "spectrum_placement": {
+    "centralization": "后印象派革命",
+    "tolerance": "色彩+情感",
+    "religious_authority": "前期传教士,后期世俗",
+    "wealth": "贫困画家(在世时)",
+    "international": "全球艺术影响"
+  },
+  "sources_used": ["Wikipedia"]
+}

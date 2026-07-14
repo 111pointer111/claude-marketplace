@@ -1,0 +1,33 @@
+{
+  "persona_id": "fan_gao",
+  "name_zh": "梵高",
+  "name_en": "Vincent van Gogh",
+  "birth_death": "1853-03-30 / 1890-07-29",
+  "dynasty": "19世纪荷兰",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "painter / post-impressionist",
+  "key_works": [
+    "《吃土豆的人》(1885)",
+    "《向日葵》(1888-89)",
+    "《星夜》(1889)",
+    "《阿尔勒卧室》(1888)",
+    "《咖啡馆露台之夜》(1888)",
+    "《罗讷河星夜》(1888)",
+    "《加歇医生肖像》(1890)",
+    "《麦田群鸦》(1890)"
+  ],
+  "core_concepts": [
+    "全心投入追求",
+    "做不能的事以学",
+    "孤独本性",
+    "对农民的同情",
+    "色彩与情感",
+    "日本艺术影响",
+    "悲伤将永远持续",
+    "阿尔勒是另一个世界"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Vincent van Gogh", "西方艺术常识补充"],
+  "default_stage": "切片四:阿尔勒时期 (1888-1889)"
+}

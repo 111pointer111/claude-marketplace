@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "fan_gao",
+  "communication_style": {
+    "preferred_forms": [
+      "后印象派绘画",
+      "书信(给 Theo)",
+      "画论(关于色彩)",
+      "格言"
+    ],
+    "argumentation_patterns": [
+      "印象派色彩",
+      "后印象派表现",
+      "书信体",
+      "强烈情感"
+    ]
+  },
+  "audience_awareness": {
+    "to_brother_theo": "书信(情感+艺术)",
+    "to_fellow_artists": "印象派+后印象派",
+    "to_general_public": "色彩+情感",
+    "to_Japanese_art": "浮世绘影响"
+  },
+  "sources_used": ["Wikipedia"]
+}

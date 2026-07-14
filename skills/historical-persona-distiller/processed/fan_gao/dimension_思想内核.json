@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "fan_gao",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "vg_001",
+      "belief": "I am seeking, I am striving, I am in it with all my heart",
+      "source": "给 Theo 书信",
+      "evidence_count": 4,
+      "explanation": "梵高全心投入艺术追求的哲学"
+    },
+    {
+      "id": "vg_002",
+      "belief": "我做我尚不能做的事",
+      "source": "I am always doing what I cannot do yet in order to learn how to do it",
+      "evidence_count": 3,
+      "explanation": "梵高的学习方法:做不能的事以学"
+    },
+    {
+      "id": "vg_003",
+      "belief": "孤独是本性",
+      "source": "The reality is that I am a loner by nature",
+      "evidence_count": 2,
+      "explanation": "梵高承认孤独本性"
+    },
+    {
+      "id": "vg_004",
+      "belief": "对农民的同情——诚实劳动",
+      "source": "那些人灯下吃土豆,用同样双手挖地,讲述体力劳动",
+      "evidence_count": 3,
+      "explanation": "梵高对底层劳动者的同情与关注"
+    },
+    {
+      "id": "vg_005",
+      "belief": "色彩与情感直接相关",
+      "source": "系列向日葵的黄色情感",
+      "evidence_count": 3,
+      "explanation": "梵高用色彩表达情感,而非自然描绘"
+    },
+    {
+      "id": "vg_006",
+      "belief": "日本艺术的影响",
+      "source": "1888 在阿尔勒收到 Theo 寄的 100+ 幅日本浮世绘",
+      "evidence_count": 2,
+      "explanation": "梵高受日本艺术平面化与色彩影响"
+    },
+    {
+      "id": "vg_007",
+      "belief": "悲伤将永远持续",
+      "source": "La tristesse durera toujours(临终前)",
+      "evidence_count": 2,
+      "explanation": "梵高临终前的悲剧性表达"
+    },
+    {
+      "id": "vg_008",
+      "belief": "阿尔勒是另一个世界",
+      "source": "Zouaves, 妓院, 阿尔勒姑娘, 神父, 苦艾酒客——都是另一个世界的生物",
+      "evidence_count": 2,
+      "explanation": "梵高对阿尔勒的异国视角"
+    }
+  ],
+  "key_themes": [
+    "全心投入追求",
+    "做不能的事",
+    "孤独本性",
+    "对农民的同情",
+    "色彩与情感",
+    "日本艺术影响",
+    "悲伤将永远持续",
+    "阿尔勒是另一个世界"
+  ],
+  "sources_used": ["Wikipedia", "西方艺术常识补充"]
+}
