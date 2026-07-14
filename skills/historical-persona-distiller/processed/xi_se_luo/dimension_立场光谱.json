@@ -1,0 +1,48 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "xi_se_luo",
+  "political_orientation": {
+    "regime_form": "罗马共和国(支持)",
+    "rule_style": "贵族共和+元老院主导",
+    "legitimacy_basis": ["共和国传统", "公民德性", "法律治理"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "喀提林同谋处决(未经审判)",
+      "view": "公元前 63 西塞罗支持处决,争议大",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "凯撒独裁",
+      "view": "妥协退让(转哲学)",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "反安东尼",
+      "view": "激烈攻击,导致被处决",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "Plato (中期柏拉图主义)",
+    "Carneades (学园派怀疑论)",
+    "Chrysippus (斯多葛学派)",
+    "Posidonius (斯多葛+科学)",
+    "Panaetius (罗马斯多葛)"
+  ],
+  "intellectual_legacy": [
+    "拉丁语散文典范(Ciceronian Latin)",
+    "自然法理论(经院哲学→启蒙运动)",
+    "哲学翻译家(希腊→拉丁)",
+    "共和国理念(美国制宪)",
+    "雄辩术(西方修辞学基础)"
+  ],
+  "spectrum_placement": {
+    "centralization": "支持贵族共和,反对独裁",
+    "tolerance": "罗马式有限容忍",
+    "religious_authority": "斯多葛式自然神论",
+    "wealth": "贵族立场但关心平民",
+    "international": "罗马公民身份核心"
+  },
+  "sources_used": ["Wikipedia"]
+}

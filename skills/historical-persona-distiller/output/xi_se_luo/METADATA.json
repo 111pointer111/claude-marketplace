@@ -1,0 +1,32 @@
+{
+  "persona_id": "xi_se_luo",
+  "name_zh": "西塞罗",
+  "name_en": "Marcus Tullius Cicero",
+  "birth_death": "前 106-01-03 / 前 43-12-07",
+  "dynasty": "罗马共和国/公元前 1 世纪",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "orator / statesman / philosopher",
+  "key_works": [
+    "前 70 《控告维勒斯》(*In Verrem*)",
+    "前 63 《反喀提林演说四篇》(*In Catilinam I-IV*)",
+    "前 55 《论演说术》(*De Oratore*)",
+    "前 54 《论共和国》(*De re publica*)",
+    "前 51 《论义务》(*De Officiis*)",
+    "前 45 《图斯库兰讨论》(*Tusculanae Quaestiones*)",
+    "前 44-43 《反腓力演说 14 篇》(*Philippicae*)"
+  ],
+  "core_concepts": [
+    "共和国理想(Res Publica)",
+    "演说术",
+    "学园派怀疑论",
+    "自然法",
+    "理性义务",
+    "反独裁",
+    "友谊",
+    "文化传承"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Cicero"],
+  "default_stage": "切片四:凯撒遇刺后 + 反安东尼 (前 44-43)"
+}

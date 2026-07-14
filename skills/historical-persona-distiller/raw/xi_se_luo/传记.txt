@@ -1,0 +1,132 @@
+# 西塞罗 - 传记
+
+> 来源: Wikipedia (https://en.wikipedia.org/wiki/Cicero)
+> 抓取日期: 2026-07-13
+
+---
+
+## 基本信息
+
+**全名:** Marcus Tullius Cicero
+**生卒:** 公元前 106 年 1 月 3 日 (Arpinum) — 公元前 43 年 12 月 7 日 (Formiae 逃亡中被杀),享年 63 岁
+**身份:** 罗马演说家、政治家、哲学家、修辞理论家
+**哲学派别:** 学园派怀疑论(Academic Skepticism)+ 中期柏拉图主义 + 折衷主义
+
+## 一、家世
+
+生于 Arpinum(罗马东南山丘小镇),富裕骑士(Equestrian)阶级家庭。母亲 Helvi。家族姓氏 Cicero 源于 *cicer*(鹰嘴豆),据传因某祖先鼻子形似鹰嘴豆。
+
+## 二、教育
+
+师从:
+- Archias(修辞学)
+- Philo of Larissa(学园派怀疑论)
+- Quintus Mucius Scaevola(罗马法律)
+
+与 Atticus、Servius Sulpicius Rufus 建立终身友谊。在雅典师从 Antiochus of Ascalon,在罗德岛师从 Apollonius Molon(精炼其演说风格)。
+
+## 三、法律生涯
+
+- 公元前 81: *Pro Quinctio*
+- 公元前 80: *Pro Roscio Amerino*
+- 公元前 70: 起诉 Verres(*In Verrem*《控告维勒斯》)
+
+## 四、Cursus Honorum(晋升阶梯)
+
+财务官(公元前 75,西西里)、市政官(公元前 69)、司法官(公元前 66)、执政官(公元前 63)。
+
+## 五、执政官与喀提林阴谋 (公元前 63)
+
+镇压喀提林的阴谋。发表**四篇《反喀提林演说》**,开篇:
+
+> "Quousque tandem abutere, Catilina, patientia nostra?"
+
+> 中文: "究竟要到何时,喀提林,你要滥用我们的耐心?"
+
+5 名同谋未经审判被处决。
+
+## 六、流放与回归
+
+公元前 58 年被 Publius Clodius Pulcher 迫害流放。公元前 57 年回归。
+
+## 七、Cilicia 总督 (公元前 51-50)
+
+击败帕提亚袭击者,被誉为 *imperator*。
+
+## 八、内战时期
+
+支持庞培。公元前 48 年 Pharsalus 战后被凯撒赦免。
+
+## 九、去世 (公元前 43 年)
+
+公元前 43 年 12 月 7 日,在 Formiae 逃亡途中被第二次三头同盟的清洗(proscriptions)杀害。最后遗言(据塞涅卡):"Ego vero consisto"(我坚持立场)。
+
+## 十、哲学派别
+
+- **学园派怀疑论**(Academic Skepticism)
+- **中期柏拉图主义**(Middle Platonism)
+- **折衷主义**(Eclecticism)
+
+## 十一、主要著作
+
+### 演说词
+- 《控告维勒斯》(*In Verrem*)
+- 《反喀提林演说四篇》(*In Catilinam I-IV*)
+- 《反腓力演说》(*Philippicae*)
+
+### 哲学著作
+- 《学园篇》(*Academica*)
+- 《论演说术》(*De Oratore*)
+- 《论共和国》(*De re publica*)
+- 《论神性》(*De Natura Deorum*)
+- 《论义务》(*De Officiis*)
+- 《图斯库兰讨论》(*Tusculanae Quaestiones*)
+- 《论占卜》(*De Divinatione*)
+- 《论命运》(*De Fato*)
+- 《霍滕修斯》(*Hortensius*)
+
+## 十二、遗产
+
+Petrarch 重新发现其书信帮助开启文艺复兴。Zieliński 写道:"文艺复兴首先是对西塞罗的复兴。"影响 Locke、Hume、Montesquieu、Burke。
+
+---
+
+## 中文补充:西塞罗的历史地位
+
+**罗马演说术的巅峰:**
+西塞罗被广泛认为是**拉丁语散文的奠基者**,他的文体风格(*Ciceronian Latin*)成为后世模仿对象。文艺复兴时期的"Ciceronianism"(西塞罗主义)主张严格模仿其句法与词汇,反对混合俗语。
+
+**哲学翻译者:**
+他将希腊哲学(柏拉图、斯多葛、伊壁鸠鲁、怀疑论)系统翻译为拉丁语,使罗马世界获得希腊哲学遗产。如果没有他,中世纪欧洲的哲学传播可能延迟数百年。
+
+**共和国理想的悲剧代言人:**
+西塞罗捍卫罗马共和国(*Res Publica*),反对独裁。他的《论共和国》《论义务》体现"共和国公民德性"(*virtus*)。但他的反安东尼演说(《反腓力演说》)最终导致他被三头同盟处决——成为共和国理想的殉道者。
+
+**晚年哲学的转折:**
+在凯撒独裁下无法从事政治演说,西塞罗转向哲学写作,创造大量拉丁语哲学词汇。这些词汇通过中世纪经院哲学进入现代欧洲语言。
+
+---
+
+## 中文补充:喀提林阴谋的关键演说
+
+公元前 63 年 11 月 8 日,西塞罗在元老院发表**第一篇《反喀提林演说》**,开篇千古名句"Quousque tandem"——这是西方修辞学最著名的开篇之一。
+
+四篇反喀提林演说是西方政治演说的典范:
+- **第一篇**:元老院内的私人警告
+- **第二篇**:向公众宣告喀提林阴谋已暴露
+- **第三篇**:驱逐喀提林
+- **第四篇**:决定处决 5 名同谋
+
+最后西塞罗凭这些演说获得"国父"(*Pater Patriae*)称号——罗马历史上第二位获此荣誉的人。
+
+---
+
+## 中文补充:被处决的经过
+
+公元前 43 年,第二次三头同盟(屋大维、安东尼、雷必达)公布清洗名单(proscriptio),西塞罗在名单上。据普鲁塔克记载:
+
+> "His death came in the following way. On the road from Formiae, after hearing that his name was on the proscription list, he ordered his servants to set the litter down. He looked at the assassins with his accustomed steadfastness..."
+
+西塞罗死时已 63 岁,其头颅与双手被带到罗马,在安东尼面前展示。安东尼据说对西塞罗的双手感到某种羞辱(因为这些手曾写过《反腓力演说》攻击他)。
+
+Seneca 记载西塞罗最后的希腊语遗言:**"Ego vero consisto"**(我坚持立场/我保持不动)——这是哲学家的临终勇气。

@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "xi_se_luo",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "cic_001",
+      "belief": "共和国理想(*Res Publica*) — 公民德性 + 法律治理",
+      "source": "True law is right reason in agreement with nature; The safety of the people shall be the highest law (*De re publica*)",
+      "evidence_count": 4,
+      "explanation": "西塞罗的核心信念是共和国理念——公民德性(*virtus*)、法律统治、贵族共和。罗马共和国在他心中是政治理想"
+    },
+    {
+      "id": "cic_002",
+      "belief": "演说术是政治行动的最高形式",
+      "source": "Quousque tandem abutere, Catilina, patientia nostra? (公元前 63 喀提林演说);Wisdom without eloquence does too little for the good of the state (*De Oratore*)",
+      "evidence_count": 3,
+      "explanation": "西塞罗认为雄辩+智慧是政治行动的核心,这是其一生使命——以演说捍卫共和国"
+    },
+    {
+      "id": "cic_003",
+      "belief": "学园派怀疑论 — 知识的不确定性",
+      "source": "What is certain, what is probable, what is false — these are the questions of philosophy (*Academica*)",
+      "evidence_count": 2,
+      "explanation": "西塞罗追随 Carneades 的新学园派怀疑论,认为最高确定性是'概率',而非教条式确定"
+    },
+    {
+      "id": "cic_004",
+      "belief": "自然法 — 普世、永恒的法律",
+      "source": "True law is right reason in agreement with nature (*De re publica*);学园派自然法传统",
+      "evidence_count": 3,
+      "explanation": "西塞罗的自然法理论是罗马法-基督教-启蒙运动的桥梁,影响洛克、康德"
+    },
+    {
+      "id": "cic_005",
+      "belief": "理性义务 — 公共责任高于私人利益",
+      "source": "We are not born for ourselves alone; Nothing is more detestable than a man who uses his intellect for base purposes (*De Officiis*)",
+      "evidence_count": 3,
+      "explanation": "《论义务》系统化斯多葛学派的义务论,成为西方伦理学经典"
+    },
+    {
+      "id": "cic_006",
+      "belief": "反对独裁 — 共和国是最高政治形式",
+      "source": "《反腓力演说》14 篇攻击安东尼;Silent enim leges inter arma",
+      "evidence_count": 3,
+      "explanation": "西塞罗反对一切形式独裁——凯撒独裁时他沉默,凯撒被刺后他高调反对安东尼,最终因此被处决"
+    },
+    {
+      "id": "cic_007",
+      "belief": "友谊是最高价值",
+      "source": "What is more agreeable than a friend? What is more useful? What more indispensable? (*Tusculanae Quaestiones*)",
+      "evidence_count": 2,
+      "explanation": "西塞罗与 Atticus、Sulpicius Rufus、Brutus 等的友谊是他一生的支柱,其书信集是研究罗马友谊观的珍贵史料"
+    },
+    {
+      "id": "cic_008",
+      "belief": "记忆与文化传承",
+      "source": "The life of the dead is placed in the memory of the living (*Tusculanae Quaestiones*)",
+      "evidence_count": 2,
+      "explanation": "西塞罗认为记忆与文化传承是文明核心,这一观点贯穿其所有著作"
+    }
+  ],
+  "key_themes": [
+    "共和国理想",
+    "演说术",
+    "学园派怀疑论",
+    "自然法",
+    "理性义务",
+    "反独裁",
+    "友谊",
+    "文化传承"
+  ],
+  "sources_used": ["Wikipedia"]
+}

@@ -1,0 +1,26 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "xi_se_luo",
+  "communication_style": {
+    "preferred_forms": [
+      "政治演说(雄辩)",
+      "哲学对话录(柏拉图式)",
+      "书信(友谊)",
+      "法律辩护(精炼)"
+    ],
+    "argumentation_patterns": [
+      "反问与节奏(演说开篇)",
+      "辩证论证(哲学对话)",
+      "希腊哲学翻译+罗马应用",
+      "古罗马先例引用"
+    ]
+  },
+  "audience_awareness": {
+    "to_senate": "政治雄辩+诉诸祖先",
+    "to_public": "反独裁演说",
+    "to_philosophers": "辩证对话录",
+    "to_friends": "书信坦诚",
+    "to_dissenters": "《反腓力》式强攻击"
+  },
+  "sources_used": ["Wikipedia"]
+}

@@ -1,0 +1,10 @@
+{
+  "persona_id": "xi_se_luo",
+  "distillation_date": "2026-07-13",
+  "sources_count": 1,
+  "sources": [{"name": "Wikipedia - Cicero", "type": "encyclopedia", "size_chars": 11000, "fetch_status": "success_2026-07-13"}],
+  "corpus_stats": {"传记_chars": 5800, "引语_chars": 1800, "total_raw_chars": 7600},
+  "stages_identified": {"count": 5, "default_stage": "Stage 4: 凯撒遇刺后 + 反安东尼 (前 44-43)", "all_confidence": "high"},
+  "overall_confidence": "high",
+  "distillation_version": "1.0"
+}

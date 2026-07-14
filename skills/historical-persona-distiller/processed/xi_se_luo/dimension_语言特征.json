@@ -1,0 +1,36 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "xi_se_luo",
+  "languages_used": ["拉丁语(母语/写作)", "希腊语(流利,哲学翻译)"],
+  "primary_language": "拉丁语",
+  "sentence_structure": {
+    "orations": "长句 + 修辞问句 + 节奏强烈",
+    "philosophical": "中等长句 + 辩证逻辑",
+    "letters": "中等长度 + 个人情感流露"
+  },
+  "rhetorical_devices": [
+    "千古名句开篇:'Quousque tandem abutere, Catilina, patientia nostra?'",
+    "反问与节奏:西方修辞学典范",
+    "辩证论证:斯多葛-学园派综合",
+    "引古希腊罗马先例:为共和国辩护"
+  ],
+  "characteristic_vocabularies": [
+    "Res Publica (共和国)",
+    "Virtus (德性)",
+    "Concordia (和谐)",
+    "Senatus (元老院)",
+    "Consul (执政官)",
+    "Orator (演说家)",
+    "Philosophorum (哲学)",
+    "Lex Naturalis (自然法)",
+    "Otium (闲适)"
+  ],
+  "style_evolution": [
+    {"period": "早期(前 80-70)", "description": "罗马法律演说训练"},
+    {"period": "成熟期(前 70-50)", "description": "古典拉丁语散文风格确立"},
+    {"period": "执政官期(前 63)", "description": "政治雄辩巅峰(反喀提林)"},
+    {"period": "晚年哲学(前 46-43)", "description": "大量哲学著作翻译希腊哲学"},
+    {"period": "最后时期(前 44-43)", "description": "反腓力演说(政治雄辩再生)"}
+  ],
+  "sources_used": ["Wikipedia"]
+}
