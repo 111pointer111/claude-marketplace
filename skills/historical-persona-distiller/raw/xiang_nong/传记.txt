@@ -1,0 +1,192 @@
+# 香农 - 传记
+
+> 来源: Wikipedia (https://en.wikipedia.org/wiki/Claude_Shannon)
+> 抓取日期: 2026-07-13
+
+---
+
+## 基本信息
+
+**全名:** Claude Elwood Shannon
+**生卒:** 1916-04-30(密歇根 Petoskey) — 2001-02-24(马萨诸塞 Medford),享年 84 岁
+**身份:** 美国数学家、电气工程师、密码学家
+**主要成就:** 信息论创始人
+
+## 一、家世与早年
+
+- 父 Claude Sr.(1862-1934) 商人和遗嘱法官
+- 母 Mabel Wolf Shannon(1880-1945) 语言教师、Gaylord 中学校长
+- 祖先是殖民地新泽西定居者
+- 童年英雄 Thomas Edison(远亲)
+- 童年造模型飞机、无线电控制船、0.5 英里铁丝电报
+- 1932 毕业于 Gaylord High School
+
+## 二、教育
+
+- 1936 密歇根大学双学士(电气工程+数学)
+- **1937 硕士论文**《继电器与开关电路的符号分析》(*A Symbolic Analysis of Relay and Switching Circuits*)
+
+> 证明布尔代数可在电气中构造任何逻辑数值关系
+> Howard Gardner(1987): "本世纪可能最重要且最著名的硕士论文"
+> 1939 获 Alfred Noble 奖
+
+- **1940 博士论文**《理论遗传学的代数》(*An Algebra for Theoretical Genetics*),导师 Frank Lauren Hitchcock,受 Bush 启发
+- 应用代数框架于群体遗传学,但未发表
+
+## 三、Bell Labs 与战时研究(1941-1945)
+
+- 二战期间在 Bell Labs 开发反高射炮系统
+- 1942 发明**信号流图**
+- 1943 初与 Alan Turing 茶叙,Turing 出示 1936 通用图灵机论文——"许多思想与香农互补"
+- 1945 机密备忘录《密码学数学理论》证明:
+
+> "the cryptographic one-time pad is unbreakable"
+
+> 中文大意: 密码学的一次性密码本不可破译
+
+任何不可破译系统必须具备:真随机密钥、与明文等长、永不复用、严格保密。
+
+## 四、信息论(1948)
+
+**1948 论文《通讯的数学理论》**(*A Mathematical Theory of Communication*)发表于《贝尔系统技术杂志》。
+
+- 正式引入**"bit"** (binary digit) 概念
+- 发展**信息熵**作为不确定性度量
+- 《科学美国人》称"信息时代的 Magna Carta"
+
+**贡献:**
+- Nyquist-Shannon 采样定理
+- 与 Bernard M. Oliver、John R. Pierce 共同发展**脉码调制**
+- 1956《The Bandwagon》警告信息论成为"科学潮流"
+- **Shannon 最大化原则**(Kerckhoffs 原则):"敌人知道系统。"
+
+## 五、人工智能与棋类(1950)
+
+1950 建造**忒修斯(Theseus)**,电动迷宫学习鼠——第一个通过试错学习的电器:
+
+> "This random trial and error is the foundation of artificial intelligence." —Mazin Gilbert
+
+1956 与 John McCarthy、Marvin Minsky、Nathaniel Rochester 共同组织**达特茅斯会议**——人工智能的奠基事件。
+
+1949 论文估算国际象棋博弈树复杂度为 **10¹²⁰** (香农数),提出基于 minimax 的计算机棋类评估函数。
+
+## 六、晚年与遗产
+
+- 1956 入 MIT 教席,Donner 科学教授(1958-79)直至 1978 退休
+- 1949 娶 **Betty (Mary Elizabeth) Moore**,助其建造发明
+
+**爱好:** 杂耍、独轮车、国际象棋
+**发明:** 喷火小号、火箭动力飞盘、水上行走泡沫鞋、Minivac 601 数字计算机训练器(1961)
+**与 Edward O. Thorp 共同发明**第一个可穿戴计算机**(用于轮盘赌)
+
+晚年患阿尔茨海默病,2001-02-24 去世,享年 84。Robert Gallager 评:
+
+> "He had this amazing clarity of vision... this ability to take on a complicated problem and find the right way to look at it, so that things become very simple."
+
+六座香农雕像(Eugene Daub 雕塑)分别矗立于密歇根大学、MIT、Gaylord、UC San Diego、Bell Labs、AT&T Shannon Labs。加密货币单位 **shannon**(gwei 同义词)以他命名,Anthropic 语言模型 **Claude** 也以他命名。
+
+---
+
+## 中文补充:香农信息论革命
+
+**1948 论文的核心思想:**
+
+1. **信息熵** H(X) = -Σ p(x) log p(x)
+   - 信息的不确定性度量
+   - 单位:bit
+
+2. **信道容量** C = max I(X;Y)
+   - 信道可靠传输的最大速率
+   - Shannon-Hartley 定理
+
+3. **噪声信道编码定理**
+   - R < C: 信息可以任意可靠传输
+   - R > C: 必然有错误
+   - 这是香农第二定理
+
+4. **信源编码定理**
+   - 可以接近熵压缩信源
+   - 哈夫曼编码、香农-范诺编码
+
+**对现代世界的影响:**
+- 数字通信基础
+- 互联网协议
+- 数据压缩(MP3, JPEG, ZIP)
+- 加密技术
+- 机器学习(信息论相关)
+
+**"bit"概念:**
+- 1948 香农创造"bit"一词
+- 信息时代的最小单位
+- 与计算机"位"概念融合
+
+---
+
+## 中文补充:香农的杂耍式发明
+
+**忒修斯(Theseus, 1950):**
+- 迷宫学习鼠
+- 第一个电学习机器
+- 启发 AI 与机器学习
+- 1980s 复制版在 MIT 博物馆
+
+**Minivac 601(1961):**
+- 数字计算机教学设备
+- 1961 出货
+- 启发计算机普及教育
+
+**可穿戴计算机(1961-62):**
+- 与 Edward O. Thorp 共同发明
+- 用于轮盘赌预测
+- 现代可穿戴设备先驱
+
+**香农的玩具癖:**
+- 杂耍与独轮车
+- 喷火小号
+- 火箭动力飞盘
+- 泡沫水上鞋
+- 各种奇思妙想的发明
+
+这种"玩具癖"反映香农的工程师精神——把技术问题变为游戏。
+
+---
+
+## 中文补充:香农的中国影响
+
+**直接联系:**
+- 1948 信息论论文中文译本广为流传
+- 通信工程、计算机科学专业必读
+
+**中国信息论研究:**
+- 多所大学开设信息论课程
+- 中国通信与互联网产业的基础
+
+**间接影响:**
+- Claude(Anthropic AI 模型)以香农命名
+- 反映 21 世纪 AI 时代对香农的致敬
+- 香农的 bit 概念是数字时代基石
+
+---
+
+## 中文补充:香农与现代 AI 的关联
+
+**香农 1950 在《美国数学月刊》提出问题:**
+"计算机能下国际象棋吗?"
+
+**他预测:**
+- 10¹²⁰ 博弈树复杂度
+- 需要"评估函数"修剪
+- minimax 搜索
+
+**70 年后:**
+- 2017 AlphaZero 击败 Stockfish
+- 用神经网络+蒙特卡洛树搜索
+- 实现了香农的预测
+
+**信息论与机器学习:**
+- 交叉熵(机器学习的损失函数)
+- KL 散度(信息论概念)
+- 互信息(特征选择)
+- 香农熵(决策树)
+
+信息论是现代 AI 的数学基础之一。

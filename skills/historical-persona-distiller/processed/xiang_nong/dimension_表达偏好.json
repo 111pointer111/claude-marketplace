@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "xiang_nong",
+  "communication_style": {
+    "preferred_forms": [
+      "学术论文(数学)",
+      "评论随笔",
+      "个人趣闻(杂耍+独轮车)",
+      "发明创造(玩笑式)"
+    ],
+    "argumentation_patterns": [
+      "信息熵数学论证",
+      "香农最大化原则",
+      "工程师式类比",
+      "杂耍式幽默"
+    ]
+  },
+  "audience_awareness": {
+    "to_engineers": "bit+信息论",
+    "to_mathematicians": "信息熵",
+    "to_cryptographers": "Shannon 最大化原则",
+    "to_general_public": "杂耍与独轮车"
+  },
+  "sources_used": ["Wikipedia"]
+}

@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "xiang_nong",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "sh_001",
+      "belief": "通信根本问题——复制消息",
+      "source": "The fundamental problem of communication is that of reproducing at one point either exactly or approximately a message selected at another point",
+      "evidence_count": 4,
+      "explanation": "香农对通信问题的精确定义,信息论的开篇"
+    },
+    {
+      "id": "sh_002",
+      "belief": "bit 概念——信息的最小单位",
+      "source": "1948 论文定义 bit(binary digit)",
+      "evidence_count": 4,
+      "explanation": "bit 是数字时代的基石,信息熵的载体"
+    },
+    {
+      "id": "sh_003",
+      "belief": "信息熵——不确定性度量",
+      "source": "1948 论文 H(X) = -Σ p(x) log p(x)",
+      "evidence_count": 3,
+      "explanation": "信息熵是香农的核心数学工具"
+    },
+    {
+      "id": "sh_004",
+      "belief": "Shannon 最大化原则(Kerckhoffs)",
+      "source": "The enemy knows the system",
+      "evidence_count": 2,
+      "explanation": "密码学中"敌人知道系统"是香农的最大化原则"
+    },
+    {
+      "id": "sh_005",
+      "belief": "一次性密码本不可破译",
+      "source": "the cryptographic one-time pad is unbreakable (1945)",
+      "evidence_count": 3,
+      "explanation": "1945 香农证明一次性密码本的理论不可破"
+    },
+    {
+      "id": "sh_006",
+      "belief": "布尔代数与开关电路",
+      "source": "1937 硕士论文(继电器与开关电路的符号分析)",
+      "evidence_count": 3,
+      "explanation": "1937 硕士论文将布尔代数应用于电气工程,数字电路基础"
+    },
+    {
+      "id": "sh_007",
+      "belief": "AI 奠基——这些斯鼠与达特茅斯",
+      "source": "Theseus 迷宫鼠(1950);达特茅斯会议(1956)",
+      "evidence_count": 2,
+      "explanation": "香农是 AI 奠基人之一,忒修斯鼠与达特茅斯会议"
+    },
+    {
+      "id": "sh_008",
+      "belief": "对"如何组合"的好奇",
+      "source": "I just wondered how things were put together",
+      "evidence_count": 2,
+      "explanation": "香农的核心性格——对"事物如何组合"的好奇"
+    }
+  ],
+  "key_themes": [
+    "通信根本问题",
+    "bit 概念",
+    "信息熵",
+    "Shannon 最大化原则",
+    "一次性密码本",
+    "布尔代数+开关电路",
+    "AI 奠基",
+    "对'如何组合'的好奇"
+  ],
+  "sources_used": ["Wikipedia", "西方科学常识补充"]
+}

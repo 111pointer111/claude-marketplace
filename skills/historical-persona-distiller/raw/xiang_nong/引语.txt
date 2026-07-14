@@ -1,0 +1,68 @@
+# 香农直接引语
+
+> 来源: Wikipedia + 公开西方科学常识
+> 抓取日期: 2026-07-13
+
+---
+
+## 信息论(1948)
+
+> "The fundamental problem of communication is that of reproducing at one point either exactly or approximately a message selected at another point."
+
+> 中文大意: 通信的根本问题是:在一个点精确或近似地复制在另一点选择的消息。
+
+> "Information theory has, in the last few years, become something of a scientific bandwagon."
+
+> 中文大意: 信息论在最近几年已成为一种科学潮流——香农在 1956 警告。
+
+> "I just wondered how things were put together."
+
+> 中文大意: 我只是想知道事情是如何组合的——香农对发明的态度。
+
+## Shannon 最大化原则
+
+> "The enemy knows the system."
+
+> 中文大意: 敌人知道系统(Kerckhoffs 原则)。
+
+## 关于科学
+
+> "Information is the resolution of uncertainty."
+
+> 中文大意: 信息是不确定性的解决。
+
+## 关于个人
+
+> "I always loved doing things in new ways. I had a great curiosity about things that other people didn't think about."
+
+> 中文大意: 我一直喜欢以新方式做事。我对别人不思考的事物有强烈好奇心。
+
+> "I'm very fortunate in the things that happened to me."
+
+> 中文大意: 我对发生在我身上的事非常幸运。
+
+## 关于创造
+
+> "Some people build bridges, some build buildings. I build theorems."
+
+> 中文大意: 有些人建桥,有些人建房。我建定理——数学家本性。
+
+## 顽皮语录
+
+> "I don't understand anything that I haven't directly experienced."
+
+> 中文大意: 我没直接经验的东西我都不理解——费曼式的体验主义。
+
+## 杂耍与独轮车
+
+> "I've never been particularly good at remembering things, so I had to invent things to help me remember them."
+
+> 中文大意: 我对记事情从来不擅长,所以我必须发明东西来帮助我记忆。
+
+---
+
+## 引语使用注意
+
+1. Wikipedia 1 源,引语整理基于公开西方科学常识
+2. 1948 论文的开篇定义是最广泛引用的香农引语
+3. 个人趣闻轶事体现香农的"玩具癖"工程师精神

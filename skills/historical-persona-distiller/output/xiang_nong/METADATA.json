@@ -1,0 +1,30 @@
+{
+  "persona_id": "xiang_nong",
+  "name_zh": "香农",
+  "name_en": "Claude Shannon",
+  "birth_death": "1916-04-30 / 2001-02-24",
+  "dynasty": "20世纪美国",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "mathematician / electrical engineer / cryptographer",
+  "key_works": [
+    "1937 硕士论文《继电器与开关电路的符号分析》",
+    "1945 《密码学数学理论》",
+    "1948 《通讯的数学理论》(信息论创始)",
+    "1949 计算机棋类论文",
+    "1956 达特茅斯会议(AI 奠基)"
+  ],
+  "core_concepts": [
+    "通信根本问题",
+    "bit 概念",
+    "信息熵",
+    "Shannon 最大化原则",
+    "一次性密码本",
+    "布尔代数+开关电路",
+    "AI 奠基",
+    "对'如何组合'的好奇"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Claude Shannon", "西方科学常识补充"],
+  "default_stage": "切片三:信息论革命 (1948-1956)"
+}

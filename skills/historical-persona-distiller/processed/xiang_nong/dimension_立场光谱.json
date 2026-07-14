@@ -1,0 +1,42 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "xiang_nong",
+  "political_orientation": {
+    "regime_form": "20世纪美国数学家+电气工程师",
+    "rule_style": "信息论+工程师式幽默",
+    "legitimacy_basis": ["信息论", "数字电路", "AI 奠基"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "晚年",
+      "view": "1990s 患阿尔茨海默病,影响后期工作",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "AI 风险",
+      "view": "未涉及 AI 风险辩论(过世于 AI 早期)",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "Vannevar Bush(MIT 导师)",
+    "Alan Turing(1943 茶叙)",
+    "John von Neumann(通信与计算)",
+    "Boole(布尔代数)"
+  ],
+  "intellectual_legacy": [
+    "信息论创始人",
+    "bit 概念",
+    "数字电路基础",
+    "AI 奠基人之一",
+    "Claude(Anthropic)命名"
+  ],
+  "spectrum_placement": {
+    "centralization": "信息论中心",
+    "tolerance": "杂耍与玩笑",
+    "religious_authority": "无神论者",
+    "wealth": "MIT 教席",
+    "international": "20-21 世纪数字时代基础"
+  },
+  "sources_used": ["Wikipedia"]
+}

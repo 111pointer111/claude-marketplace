@@ -1,0 +1,33 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "xiang_nong",
+  "languages_used": ["英语(母语)"],
+  "primary_language": "英语",
+  "sentence_structure": {
+    "学术论文": "中等长句,数学论证",
+    "评论随笔": "中等长度,简单化",
+    "个人趣闻": "短句,口语化"
+  },
+  "rhetorical_devices": [
+    "信息熵数学论证",
+    "香农最大化原则",
+    "工程师式类比",
+    "杂耍与独轮车隐喻"
+  ],
+  "characteristic_vocabularies": [
+    "Bit(位)",
+    "Information entropy(信息熵)",
+    "Shannon's maxim(香农最大化原则)",
+    "Channel capacity(信道容量)",
+    "Noise channel coding theorem(噪声信道编码定理)",
+    "Source coding theorem(信源编码定理)",
+    "Sampling theorem(采样定理)",
+    "One-time pad(一次性密码本)"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "硕士论文(继电器+布尔代数)"},
+    {"period": "中期", "description": "信息论革命(1948)"},
+    {"period": "晚期", "description": "AI 奠基+杂耍发明"}
+  ],
+  "sources_used": ["Wikipedia", "西方科学常识补充"]
+}
