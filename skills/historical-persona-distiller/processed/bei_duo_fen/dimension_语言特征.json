@@ -1,0 +1,33 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "bei_duo_fen",
+  "languages_used": ["德语(母语)"],
+  "primary_language": "德语",
+  "sentence_structure": {
+    "信件": "中等长句,感性",
+    "海利根斯塔特遗书": "长句,深刻",
+    "格言": "短句,爆发性"
+  },
+  "rhetorical_devices": [
+    "命运反抗",
+    "艺术救赎",
+    "音乐是更高的启示",
+    "公开耳聋"
+  ],
+  "characteristic_vocabularies": [
+    "Eroica(英雄)",
+    "Fate(命运)",
+    "Pastoral(田园)",
+    "Choral(合唱)",
+    "Heiligenstadt Testament(海利根斯塔特遗书)",
+    "Appassionata(热情)",
+    "Moonlight(月光)",
+    "Missa solemnis(庄严弥撒)"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "海顿-莫扎特影响(1792-1802)"},
+    {"period": "中期", "description": "英雄时期(1802-12)"},
+    {"period": "晚期", "description": "深奥抽象(1812-27)"}
+  ],
+  "sources_used": ["Wikipedia", "西方音乐常识补充"]
+}

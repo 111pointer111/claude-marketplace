@@ -1,0 +1,47 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "bei_duo_fen",
+  "political_orientation": {
+    "regime_form": "18-19世纪德国作曲家",
+    "rule_style": "古典-浪漫主义过渡",
+    "legitimacy_basis": ["海顿-莫扎特传统", "音乐创新", "9 交响曲+32 奏鸣曲"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "耳聋与海利根斯塔特遗书",
+      "view": "1802 曾想自杀,后决定为艺术而生",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "与歌德的关系",
+      "view": "1812 相遇后贝多芬对歌德"过度宫廷化"失望",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "对侄子 Karl 的过度保护",
+      "view": "Karl 感到窒息与压力",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "约瑟夫·海顿(维也纳时期老师)",
+    "沃尔夫冈·阿马德乌斯·莫扎特(从未直接受教,但影响深)",
+    "歌德(歌德《欢乐颂》用于第九交响曲)",
+    "席勒(《欢乐颂》诗)"
+  ],
+  "intellectual_legacy": [
+    "古典-浪漫主义过渡",
+    "9 交响曲(尤其第 3、5、6、9)",
+    "32 钢琴奏鸣曲",
+    "欧盟盟歌(第 9 合唱)",
+    "海利根斯塔特遗书"
+  ],
+  "spectrum_placement": {
+    "centralization": "音乐创新",
+    "tolerance": "命运反抗",
+    "religious_authority": "自由信仰者",
+    "wealth": "维也纳上层社会",
+    "international": "全球音乐影响"
+  },
+  "sources_used": ["Wikipedia"]
+}

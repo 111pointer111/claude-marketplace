@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "bei_duo_fen",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "bd_001",
+      "belief": "我扼住命运的咽喉",
+      "source": "I shall seize Fate by the throat; it shall not bend me completely",
+      "evidence_count": 4,
+      "explanation": "贝多芬对命运的反抗宣言"
+    },
+    {
+      "id": "bd_002",
+      "belief": "为艺术而生",
+      "source": "海利根斯塔特遗书(1802)",
+      "evidence_count": 3,
+      "explanation": "贝多芬因耳聋曾想自杀,后决定为艺术而活"
+    },
+    {
+      "id": "bd_003",
+      "belief": "音乐是更高的启示",
+      "source": "Music is a higher revelation than all wisdom and philosophy",
+      "evidence_count": 3,
+      "explanation": "贝多芬音乐哲学的核心"
+    },
+    {
+      "id": "bd_004",
+      "belief": "我要走新路",
+      "source": "I am not satisfied with the work I have done so far. From now on I intend to take a new way.",
+      "evidence_count": 2,
+      "explanation": "贝多芬中期英雄风格的诞生"
+    },
+    {
+      "id": "bd_005",
+      "belief": "耳聋不再是秘密",
+      "source": "Let your deafness no longer be a secret — even in art",
+      "evidence_count": 2,
+      "explanation": "贝多芬对耳聋的公开态度"
+    },
+    {
+      "id": "bd_006",
+      "belief": "为后世而非当下",
+      "source": "they are not for you, but for a later age",
+      "evidence_count": 2,
+      "explanation": "贝多芬对创作超越时代的认识"
+    },
+    {
+      "id": "bd_007",
+      "belief": "友谊的歌德是唯一的",
+      "source": "the one and only immortal Goethe",
+      "evidence_count": 2,
+      "explanation": "贝多芬对歌德的友谊与钦佩"
+    },
+    {
+      "id": "bd_008",
+      "belief": "贵族气质歌德过度",
+      "source": "Goethe delights far too much in the court atmosphere",
+      "evidence_count": 2,
+      "explanation": "贝多芬对歌德"贵族化"的批评"
+    }
+  ],
+  "key_themes": [
+    "扼住命运咽喉",
+    "为艺术而生",
+    "音乐是更高的启示",
+    "我要走新路",
+    "耳聋不再是秘密",
+    "为后世而非当下",
+    "友谊的歌德是唯一的",
+    "歌德贵族化"
+  ],
+  "sources_used": ["Wikipedia", "西方音乐常识补充"]
+}

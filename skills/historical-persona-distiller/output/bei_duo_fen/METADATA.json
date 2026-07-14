@@ -1,0 +1,33 @@
+{
+  "persona_id": "bei_duo_fen",
+  "name_zh": "贝多芬",
+  "name_en": "Ludwig van Beethoven",
+  "birth_death": "1770-12-16 / 1827-03-26",
+  "dynasty": "18-19世纪德国",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "composer / musician",
+  "key_works": [
+    "《第 3 交响曲》(英雄,1803-04)",
+    "《第 5 交响曲》(命运,1808)",
+    "《第 6 交响曲》(田园,1808)",
+    "《第 9 交响曲》(合唱,1824)",
+    "《热情奏鸣曲》(1804-05)",
+    "《庄严弥撒》(1823)",
+    "海利根斯塔特遗书(1802)",
+    "《不朽的恋人》信(1812)"
+  ],
+  "core_concepts": [
+    "扼住命运咽喉",
+    "为艺术而生",
+    "音乐是更高的启示",
+    "我要走新路",
+    "耳聋不再是秘密",
+    "为后世而非当下",
+    "歌德是唯一的",
+    "歌德贵族化"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Ludwig van Beethoven", "西方音乐常识补充"],
+  "default_stage": "切片三:英雄时期 (1802-1812)"
+}
