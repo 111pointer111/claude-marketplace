@@ -1,0 +1,33 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "cao_xue_qin",
+  "languages_used": ["中文(清代白话)"],
+  "primary_language": "中文白话(清代)",
+  "sentence_structure": {
+    "叙事": "中等长度,细腻白描",
+    "诗词": "诗化短句(黛玉葬花吟等)",
+    "对话": "个性化短句(各人语言风格不同)"
+  },
+  "rhetorical_devices": [
+    "石头神话象征",
+    "诗词与叙事融合",
+    "白描细腻",
+    "判词(人物命运隐喻)"
+  ],
+  "characteristic_vocabularies": [
+    "通灵宝玉",
+    "金陵十二钗",
+    "葬花",
+    "好了歌",
+    "大观园",
+    "怡红院",
+    "潇湘馆",
+    "贾府"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "曹家鼎盛生活回忆"},
+    {"period": "中期", "description": "家道中落写作"},
+    {"period": "晚期", "description": "红楼梦定稿"}
+  ],
+  "sources_used": ["Wikipedia", "中文文学常识补充"]
+}

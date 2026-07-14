@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "cao_xue_qin",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "cxq_001",
+      "belief": "白茫茫大地真干净——盛衰无常",
+      "source": "满纸荒唐言,一把辛酸泪;古今将相在何方?荒冢一堆草没了(《好了歌》)",
+      "evidence_count": 4,
+      "explanation": "曹雪芹通过贾家衰亡展现盛衰无常的悲剧性"
+    },
+    {
+      "id": "cxq_002",
+      "belief": "女性命运深刻同情",
+      "source": "女儿是水做的骨肉,男人是泥做的骨肉;葬花吟",
+      "evidence_count": 3,
+      "explanation": "曹雪芹对女性的同情超越时代,黛玉葬花是中国文学最著名的女性悲剧场景"
+    },
+    {
+      "id": "cxq_003",
+      "belief": "佛道解脱哲学",
+      "source": "甄士隐、柳湘莲等出家;好了歌警世",
+      "evidence_count": 3,
+      "explanation": "小说融合佛道哲学,出家是解脱红尘的方式"
+    },
+    {
+      "id": "cxq_004",
+      "belief": "反科举——贾宝玉厌学",
+      "source": "贾宝玉厌学,与传统士大夫路径对立",
+      "evidence_count": 2,
+      "explanation": "通过贾宝玉表达对科举功名的厌恶"
+    },
+    {
+      "id": "cxq_005",
+      "belief": "真情 vs 仕途经济",
+      "source": "宝黛钗三角爱情中的真情",
+      "evidence_count": 3,
+      "explanation": "宝黛追求真情,与'仕途经济'(宝钗代表的世俗路径)对立"
+    },
+    {
+      "id": "cxq_006",
+      "belief": "石头神话——通灵宝玉",
+      "source": "主角为天上通灵石头,被娲皇氏弃在青埂峰下",
+      "evidence_count": 2,
+      "explanation": "石头神话隐喻人的灵性来源与世俗旅程"
+    },
+    {
+      "id": "cxq_007",
+      "belief": "家族挽歌——传统社会脆弱",
+      "source": "贾家映射曹家,家道中落经历",
+      "evidence_count": 3,
+      "explanation": "曹雪芹亲历家道中落,小说成为传统社会脆弱性的挽歌"
+    },
+    {
+      "id": "cxq_008",
+      "belief": "红颜薄命——女性悲剧",
+      "source": "一朝春尽红颜老,花落人亡两不知(葬花吟)",
+      "evidence_count": 3,
+      "explanation": "对女性命运悲剧性的深刻理解,体现诗人的自我投射"
+    }
+  ],
+  "key_themes": [
+    "盛衰无常",
+    "女性命运同情",
+    "佛道解脱",
+    "反科举",
+    "真情 vs 仕途经济",
+    "石头神话",
+    "家族挽歌",
+    "红颜薄命"
+  ],
+  "sources_used": ["Wikipedia", "中文文学常识补充"]
+}

@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "cao_xue_qin",
+  "communication_style": {
+    "preferred_forms": [
+      "白话小说叙事",
+      "诗词嵌入(葬花吟等)",
+      "判词(人物命运)",
+      "石头神话"
+    ],
+    "argumentation_patterns": [
+      "白描细腻",
+      "诗词象征",
+      "佛道哲学",
+      "盛衰无常"
+    ]
+  },
+  "audience_awareness": {
+    "to_chinese_readers": "白话+诗词融合",
+    "to_women": "对女性命运的深刻同情",
+    "to_intellectuals": "哲学深度",
+    "to_later_generations": "红学研究"
+  },
+  "sources_used": ["Wikipedia"]
+}

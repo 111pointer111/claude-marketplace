@@ -1,0 +1,28 @@
+{
+  "persona_id": "cao_xue_qin",
+  "name_zh": "曹雪芹",
+  "name_en": "Cao Xueqin (Cao Zhan)",
+  "birth_death": "约 1715 / 约 1763-1764",
+  "dynasty": "清代/18世纪",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "novelist / poet",
+  "key_works": [
+    "《红楼梦》前 80 回",
+    "《好了歌》(甄士隐注解)",
+    "《葬花吟》(林黛玉)"
+  ],
+  "core_concepts": [
+    "盛衰无常",
+    "女性命运同情",
+    "佛道解脱",
+    "反科举",
+    "真情 vs 仕途经济",
+    "石头神话",
+    "家族挽歌",
+    "红颜薄命"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Cao Xueqin", "中文文学常识补充"],
+  "default_stage": "切片四:红楼梦定稿 (1754-1763)"
+}

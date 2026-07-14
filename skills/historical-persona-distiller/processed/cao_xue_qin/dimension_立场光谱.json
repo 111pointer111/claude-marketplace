@@ -1,0 +1,46 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "cao_xue_qin",
+  "political_orientation": {
+    "regime_form": "包衣世家(清朝正白旗)",
+    "rule_style": "白话小说+诗词",
+    "legitimacy_basis": ["家族经历", "白话文学传统", "佛道哲学"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "家族衰败",
+      "view": "传统社会脆弱性的挽歌",
+      "source": "Wikipedia + 中文文学常识"
+    },
+    {
+      "topic": "女性命运",
+      "view": "对女性的深刻同情(超越时代)",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "后 40 回",
+      "view": "是否曹雪芹原作存争议",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "家族鼎盛生活记忆",
+    "佛道哲学",
+    "白话小说传统",
+    "脂砚斋评注"
+  ],
+  "intellectual_legacy": [
+    "中国四大奇书之一",
+    "红学(Redology)研究传统",
+    "20 世纪中国文学批评起点",
+    "现代白话文学高峰"
+  ],
+  "spectrum_placement": {
+    "centralization": "反传统社会等级",
+    "tolerance": "对女性的同情+佛道宽容",
+    "religious_authority": "佛道+儒(混合)",
+    "wealth": "家族衰败经历",
+    "international": "东亚+全球影响"
+  },
+  "sources_used": ["Wikipedia"]
+}
