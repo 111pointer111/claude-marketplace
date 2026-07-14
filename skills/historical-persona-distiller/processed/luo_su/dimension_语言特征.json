@@ -1,0 +1,33 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "luo_su",
+  "languages_used": ["英语(母语)"],
+  "primary_language": "英语",
+  "sentence_structure": {
+    "哲学论文": "中等长句,精密论证",
+    "政治随笔": "中等长度,论辩性",
+    "回忆录": "短句,叙事"
+  },
+  "rhetorical_devices": [
+    "分析哲学论证",
+    "怀疑论反讽",
+    "逻辑主义",
+    "智慧与激情"
+  ],
+  "characteristic_vocabularies": [
+    "Analytic philosophy",
+    "Logicism",
+    "Principia Mathematica",
+    "Denoting(指称)",
+    "Will to believe(信仰意志)",
+    "Logical atomism",
+    "On denoting",
+    "Types/Russell's paradox"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "数学逻辑(《数学原理》1903)"},
+    {"period": "中期", "description": "分析哲学成熟(《数学原理》1910-13)"},
+    {"period": "晚期", "description": "政治哲学(反战/反核)"}
+  ],
+  "sources_used": ["Wikipedia", "西方哲学常识补充"]
+}

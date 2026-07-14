@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "luo_su",
+  "communication_style": {
+    "preferred_forms": [
+      "哲学论文(分析)",
+      "政治随笔(反战/反核)",
+      "回忆录",
+      "通俗哲学(幸福之路等)"
+    ],
+    "argumentation_patterns": [
+      "分析哲学论证",
+      "怀疑论反讽",
+      "逻辑主义",
+      "智慧与激情"
+    ]
+  },
+  "audience_awareness": {
+    "to_philosophers": "分析哲学",
+    "to_anti_war_activists": "反战和平主义",
+    "to_nuclear_disarmament": "反核武器",
+    "to_chinese_readers": "中国问题"
+  },
+  "sources_used": ["Wikipedia"]
+}

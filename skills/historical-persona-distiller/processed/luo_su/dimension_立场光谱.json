@@ -1,0 +1,47 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "luo_su",
+  "political_orientation": {
+    "regime_form": "20世纪英国贵族学者",
+    "rule_style": "分析哲学+行动主义",
+    "legitimacy_basis": ["分析哲学", "逻辑主义", "反战与反核"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "婚姻观",
+      "view": "对传统婚姻的批判(争议)",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "反基督教",
+      "view": "Why I Am Not a Christian (1927)",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "越战罗素法庭",
+      "view": "1967 年审判美国战争罪行(争议)",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "数学家 Gottlob Frege",
+    "Alfred North Whitehead",
+    "Ludwig Wittgenstein",
+    "G.E. Moore",
+    "古希腊哲学(苏格拉底)"
+  ],
+  "intellectual_legacy": [
+    "分析哲学创始人",
+    "20 世纪数理逻辑奠基",
+    "反战和平主义代表",
+    "中国问题(1922)分析"
+  ],
+  "spectrum_placement": {
+    "centralization": "分析哲学",
+    "tolerance": "开放态度",
+    "religious_authority": "反基督教(无神论者)",
+    "wealth": "英国贵族(第三代伯爵)",
+    "international": "20 世纪全球思想影响"
+  },
+  "sources_used": ["Wikipedia"]
+}

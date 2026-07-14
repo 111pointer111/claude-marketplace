@@ -1,0 +1,32 @@
+{
+  "persona_id": "luo_su",
+  "name_zh": "罗素",
+  "name_en": "Bertrand Russell (3rd Earl Russell)",
+  "birth_death": "1872-05-18 / 1970-02-02",
+  "dynasty": "19-20世纪英国",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "philosopher / logician / activist",
+  "key_works": [
+    "《数学原理》(1903)",
+    "《论指称》(1905)",
+    "《数学原理》3 卷(1910-1913, 与怀特海)",
+    "《为什么我不是基督徒》(1927)",
+    "《中国问题》(1922)",
+    "《幸福之路》(1930)",
+    "《西方哲学史》(1945)"
+  ],
+  "core_concepts": [
+    "逻辑主义",
+    "怀疑论",
+    "反战与和平主义",
+    "反核武器",
+    "怀疑基督教",
+    "开放态度",
+    "幸福在于自我接受",
+    "印度独立支持"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Bertrand Russell", "西方哲学常识补充"],
+  "default_stage": "切片二:哲学成熟 (1903-1914)"
+}

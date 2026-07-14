@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "luo_su",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "rb_001",
+      "belief": "逻辑主义——数学可化归为逻辑",
+      "source": "The Principles of Mathematics (1903) + Principia Mathematica (1910-1913)",
+      "evidence_count": 3,
+      "explanation": "罗素与怀特海共同建立逻辑主义,数学基础是逻辑"
+    },
+    {
+      "id": "rb_002",
+      "belief": "怀疑论——我可能错,所以不为信仰死",
+      "source": "I would never die for my beliefs because I might be wrong",
+      "evidence_count": 4,
+      "explanation": "罗素的怀疑论是其哲学与方法论核心"
+    },
+    {
+      "id": "rb_003",
+      "belief": "反战与和平主义",
+      "source": "Why I Am Not a Christian (1927);Brixton 监禁 (1918)",
+      "evidence_count": 3,
+      "explanation": "罗素一生的反战与和平主义立场"
+    },
+    {
+      "id": "rb_004",
+      "belief": "反核武器",
+      "source": "Campaign for Nuclear Disarmament (CND) 创立",
+      "evidence_count": 3,
+      "explanation": "罗素 1950s 创立 CND,反对核武器"
+    },
+    {
+      "id": "rb_005",
+      "belief": "怀疑上帝与基督教",
+      "source": "Why I Am Not a Christian (1927)",
+      "evidence_count": 2,
+      "explanation": "罗素反对基督教与上帝存在,基于理性与科学"
+    },
+    {
+      "id": "rb_006",
+      "belief": "对知识的开放态度",
+      "source": "Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric",
+      "evidence_count": 2,
+      "explanation": "罗素鼓励独立思考,不要害怕异端"
+    },
+    {
+      "id": "rb_007",
+      "belief": "幸福在于自我接受",
+      "source": "The only thing that will make you happy is being happy with who you are",
+      "evidence_count": 2,
+      "explanation": "罗素《幸福之路》核心:幸福不靠比较,靠自我接受"
+    },
+    {
+      "id": "rb_008",
+      "belief": "印度独立支持",
+      "source": "印度联盟主席 (1932-1939)",
+      "evidence_count": 2,
+      "explanation": "罗素长期支持印度民族独立运动"
+    }
+  ],
+  "key_themes": [
+    "逻辑主义",
+    "怀疑论",
+    "反战与和平主义",
+    "反核武器",
+    "怀疑基督教",
+    "开放态度",
+    "幸福在于自我接受",
+    "印度独立支持"
+  ],
+  "sources_used": ["Wikipedia", "西方哲学常识补充"]
+}
