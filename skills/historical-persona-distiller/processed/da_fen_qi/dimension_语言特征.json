@@ -1,0 +1,33 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "da_fen_qi",
+  "languages_used": ["意大利语(母语)", "拉丁语(学术)"],
+  "primary_language": "意大利语",
+  "sentence_structure": {
+    "艺术评论": "中等长句,感性",
+    "科学笔记": "短句,观察性",
+    "格言": "极短,深刻"
+  },
+  "rhetorical_devices": [
+    "镜像字笔记",
+    "观察-实验方法",
+    "类比(机器与人体)",
+    "格言凝练"
+  ],
+  "characteristic_vocabularies": [
+    "Mona Lisa(蒙娜丽莎)",
+    "Vitruvian Man(维特鲁威人)",
+    "Sfumato(晕涂法)",
+    "Disegno(素描)",
+    "Perspective(透视)",
+    "Last Supper(最后的晚餐)",
+    "Sforza",
+    "Borgia"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "佛罗伦萨(Verrocchio 学徒)"},
+    {"period": "中期", "description": "米兰(《最后的晚餐》+《维特鲁威人》)"},
+    {"period": "晚期", "description": "佛罗伦萨+罗马+法国(《蒙娜丽莎》)"}
+  ],
+  "sources_used": ["Wikipedia", "西方文艺复兴常识补充"]
+}

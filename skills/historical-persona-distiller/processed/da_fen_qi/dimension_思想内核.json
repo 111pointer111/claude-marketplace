@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "da_fen_qi",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "lv_001",
+      "belief": "艺术与科学统一——人作为世界之尺度",
+      "source": "Art is the queen of the sciences and the world is its laboratory",
+      "evidence_count": 3,
+      "explanation": "达芬奇的核心哲学:艺术与科学密不可分"
+    },
+    {
+      "id": "lv_002",
+      "belief": "学习永不耗尽心灵",
+      "source": "Learning never exhausts the mind",
+      "evidence_count": 3,
+      "explanation": "达芬奇终身学习的哲学"
+    },
+    {
+      "id": "lv_003",
+      "belief": "经验+实验——观察自然",
+      "source": "I have offended God and mankind because my work didn't reach the quality it should have",
+      "evidence_count": 3,
+      "explanation": "达芬奇通过实验观察自然,遗憾未达到完美"
+    },
+    {
+      "id": "lv_004",
+      "belief": "维特鲁威人——人体作为比例范本",
+      "source": "维特鲁威人 (1490)",
+      "evidence_count": 3,
+      "explanation": "达芬奇的维特鲁威人是人文主义理想的视觉化"
+    },
+    {
+      "id": "lv_005",
+      "belief": "科学与艺术的整合——博学家",
+      "source": "在 Verrocchio 工作室训练 7 年",
+      "evidence_count": 3,
+      "explanation": "达芬奇是文艺复兴博学家的代表"
+    },
+    {
+      "id": "lv_006",
+      "belief": "自然界是统一的——飞鸟+解剖+水流都是同一类",
+      "source": "关于流体动力学的笔记",
+      "evidence_count": 2,
+      "explanation": "达芬奇视自然为相互联系的整体"
+    },
+    {
+      "id": "lv_007",
+      "belief": "用双手做——知道不够,必须做",
+      "source": "Knowing is not enough; we must apply",
+      "evidence_count": 2,
+      "explanation": "达芬奇的实践哲学"
+    },
+    {
+      "id": "lv_008",
+      "belief": "延迟发表——想法要成熟",
+      "source": "他在笔记本中工作而非发表",
+      "evidence_count": 2,
+      "explanation": "达芬奇的'未发表发现'反映其严谨性"
+    }
+  ],
+  "key_themes": [
+    "艺术与科学统一",
+    "学习永不耗尽",
+    "经验+实验",
+    "维特鲁威人",
+    "博学家",
+    "自然界统一",
+    "实践哲学",
+    "延迟发表"
+  ],
+  "sources_used": ["Wikipedia", "西方文艺复兴常识补充"]
+}

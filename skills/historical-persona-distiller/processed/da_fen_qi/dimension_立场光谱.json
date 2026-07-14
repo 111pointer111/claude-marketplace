@@ -1,0 +1,47 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "da_fen_qi",
+  "political_orientation": {
+    "regime_form": "15-16世纪意大利艺术家+博学家",
+    "rule_style": "艺术+科学统一",
+    "legitimacy_basis": ["艺术作品", "科学笔记", "工程发明"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "未发表发现",
+      "view": "达芬奇在笔记本中工作但未发表,影响后世",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "性取向",
+      "view": "Freud 等分析其性取向,可能同性倾向",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "Salaì 与达芬奇关系",
+      "view": "助手 30 年,关系性质有争议",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "Verrocchio(工作室训练)",
+    "Lorenzo de' Medici(佛罗伦萨赞助)",
+    "Vitruvius(古代建筑)",
+    "古罗马文艺复兴传统"
+  ],
+  "intellectual_legacy": [
+    "《蒙娜丽莎》",
+    "《最后的晚餐》",
+    "《维特鲁威人》",
+    "博学家典范",
+    "Salvator Mundi (4.5 亿美元)"
+  ],
+  "spectrum_placement": {
+    "centralization": "艺术+科学",
+    "tolerance": "兼收并蓄",
+    "religious_authority": "无神论(动物爱护)",
+    "wealth": "赞助人制度",
+    "international": "全球艺术与科学影响"
+  },
+  "sources_used": ["Wikipedia"]
+}

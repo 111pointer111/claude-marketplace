@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "da_fen_qi",
+  "communication_style": {
+    "preferred_forms": [
+      "艺术作品",
+      "科学笔记(镜像字)",
+      "工程图纸",
+      "格言"
+    ],
+    "argumentation_patterns": [
+      "观察-实验",
+      "类比自然",
+      "格言凝练",
+      "实践-思考结合"
+    ]
+  },
+  "audience_awareness": {
+    "to_artists": "艺术+科学",
+    "to_engineers": "工程实践",
+    "to_philosophers": "观察自然",
+    "to_patrons": "实用+美"
+  },
+  "sources_used": ["Wikipedia"]
+}
