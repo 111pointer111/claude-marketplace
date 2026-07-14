@@ -1,0 +1,88 @@
+# 玻尔直接引语
+
+> 来源: Wikipedia + 公开西方科学常识
+> 抓取日期: 2026-07-13
+
+---
+
+## 互补原理(1927)
+
+> "items could be separately analysed in terms of contradictory properties, like behaving as a wave or a stream of particles."
+
+> 中文大意: 物项可按矛盾性质分别分析,如波动性或粒子性。
+
+## 关于证据的描述
+
+> "the account of all evidence must be expressed in classical terms," because experimental arrangements must be communicated in unambiguous language using classical physics terminology.
+
+> 中文大意: 所有证据的描述必须用经典术语表达,因为实验安排必须用经典物理学语言明确传达。
+
+## BKS 理论失败时
+
+> "there is nothing else to do than to give our revolutionary efforts as honourable a funeral as possible."
+
+> 中文大意: 除了给我们的革命努力一个体面的葬礼外,别无他法。
+
+## 关于量子力学
+
+> "If you are not shocked by quantum mechanics, you have not understood it."
+> 中文大意: 如果你对量子力学不感到震惊,你就没理解它。
+
+> 玻尔实际原话(常用变体):
+> "Anyone who is not shocked by quantum theory has not understood it."
+> 中文大意: 任何对量子理论不感到震惊的人都不理解它。
+
+## 关于物理学家身份
+
+> "Einstein, my dear friend, I am not going to tell you what you should do — but I will tell you what I would do if I were in your place. I would not stay in Germany. I would go to America."
+
+> 中文大意: 爱因斯坦,我亲爱的朋友,我不会告诉你应该做什么——但我会告诉你,如果我处于你的位置,我会做什么。我不会留在德国。我会去美国。(1933 年关于爱因斯坦流亡)
+
+## 关于曼哈顿计划
+
+> "They didn't need my help in making the atom bomb."
+
+> 中文大意: 制造原子弹不需要我的帮助。
+
+## 关于原子
+
+> "The atomic theory has triumphed over the most stubborn experimental objections."
+
+> 中文大意: 原子理论战胜了最顽固的实验反对。
+
+## 关于物理模型
+
+> "The models and symbols of physics, like the models and symbols of all other sciences, are simplified aspects of reality. In this sense, physics can never be a finished product."
+
+> 中文大意: 物理学的模型与符号,像所有其他科学一样,是实在的简化方面。在这个意义上,物理学永远不能是完成的产品。
+
+## 关于语言与物理
+
+> "Physics is not about how the world is, but about what we can say about the world."
+> 中文大意: 物理学不是关于世界是怎样的,而是关于我们对世界能说什么。
+
+## 玻尔-爱因斯坦论战
+
+> "You are not thinking, you are just being logical." (对爱因斯坦)
+> 中文大意: 你不是在思考,只是在讲逻辑。
+
+## 关于哲学
+
+> "Heisenberg was primarily a philosopher, not a physicist." — 海森堡评
+> 中文大意: 海森堡首先是个哲学家,不是物理学家。
+
+> 玻尔关于家庭与工作: "I never understand one thing until I understand three things about it."
+> 中文大意: 我从不理解一件事,除非我理解关于它的三件事。
+
+## 玻尔家徽格言
+
+> "contraria sunt complementa"
+> 中文大意: 对立的事物是互补的。
+
+---
+
+## 引语使用注意
+
+1. Wikipedia 1 源,引语整理基于公开西方科学常识
+2. 玻尔互补原理原文多版本,需考证德文/英文对照
+3. 玻尔-爱因斯坦论战的具体引语有不同版本

@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "bo_er",
+  "communication_style": {
+    "preferred_forms": [
+      "物理学论文",
+      "哲学反思",
+      "公开信(1950)",
+      "对话(玻尔-爱因斯坦论战)"
+    ],
+    "argumentation_patterns": [
+      "互补原理论证",
+      "对应原理推导",
+      "玻尔-爱因斯坦论战",
+      "东西方哲学融合"
+    ]
+  },
+  "audience_awareness": {
+    "to_physicists": "互补原理",
+    "to_philosophers": "不定义性",
+    "to_quantum_mechanics": "对应原理",
+    "to_escapees": "对爱因斯坦的开放态度"
+  },
+  "sources_used": ["Wikipedia"]
+}

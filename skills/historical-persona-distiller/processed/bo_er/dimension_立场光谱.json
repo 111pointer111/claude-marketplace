@@ -1,0 +1,48 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "bo_er",
+  "political_orientation": {
+    "regime_form": "20世纪丹麦理论物理学家",
+    "rule_style": "互补哲学+原子物理",
+    "legitimacy_basis": ["互补原理", "对应原理", "哥本哈根诠释"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "哥本哈根诠释",
+      "view": "与爱因斯坦论战的核心",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "海森堡会面",
+      "view": "1941 与海森堡争议性会面",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "对爱因斯坦的态度",
+      "view": "互补但反对,劝其流亡",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "Rutherford 核模型",
+    "Planck 量子论",
+    "Einstein 光量子",
+    "Heisenberg 不确定性原理",
+    "Søren Kierkegaard 哲学"
+  ],
+  "intellectual_legacy": [
+    "原子结构理论",
+    "互补原理",
+    "哥本哈根诠释",
+    "理论物理研究所",
+    "玻尔家徽"
+  ],
+  "spectrum_placement": {
+    "centralization": "原子结构中心",
+    "tolerance": "互补多元",
+    "religious_authority": "无神论者",
+    "wealth": "学者生活(获 Order of the Elephant)",
+    "international": "20 世纪物理学全球影响"
+  },
+  "sources_used": ["Wikipedia"]
+}

@@ -1,0 +1,29 @@
+{
+  "persona_id": "bo_er",
+  "name_zh": "玻尔",
+  "name_en": "Niels Bohr",
+  "birth_death": "1885-10-07 / 1962-11-18",
+  "dynasty": "20世纪丹麦",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "physicist / philosopher",
+  "key_works": [
+    "1913 三部曲",
+    "1922 诺奖演讲",
+    "1927 互补原理论文",
+    "1950 联合国公开信"
+  ],
+  "core_concepts": [
+    "原子结构(定态轨道)",
+    "互补原理(波动/粒子)",
+    "对应原理(量子→经典)",
+    "玻尔-爱因斯坦论战",
+    "不定义性(实在论)",
+    "哲学高于物理学",
+    "对立互补(家徽)",
+    "反法西斯开放态度"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Niels Bohr", "西方科学常识补充"],
+  "default_stage": "切片二:玻尔模型与三部曲 (1913-1922)"
+}

@@ -1,0 +1,177 @@
+# 玻尔 - 传记
+
+> 来源: Wikipedia (https://en.wikipedia.org/wiki/Niels_Bohr)
+> 抓取日期: 2026-07-13
+
+---
+
+## 基本信息
+
+**全名:** Niels Henrik David Bohr
+**生卒:** 1885-10-07(哥本哈根) — 1962-11-18(哥本哈根),享年 77 岁
+**身份:** 丹麦物理学家
+**主要成就:** 玻尔原子模型、互补原理、哥本哈根诠释,1922 年诺贝尔物理学奖
+
+## 一、家世与早年
+
+- 1885-10-07 生于哥本哈根
+- 父 Christian Bohr 为哥本哈根大学生理学教授
+- 母 Ellen Adler,父亲是丹麦犹太银行家 David Baruch Adler
+- 姐 Jenny(教师),弟 Harald(数学家+1908 奥运足球丹麦国脚)
+- 兄弟俩都是足球爱好者,效力 Akademisk Boldklub,Niels 是守门员
+
+## 二、教育
+
+- 1903 入哥本哈根大学
+- 师从 Christian Christiansen(物理)、Thorvald Thiele(天文数学)、Harald Høffding(哲学)
+- 1905 因研究 Rayleigh 表面张力测定法获丹麦皇家科学院金奖
+- 硕士论文:电子金属理论
+- 1911-04 博士论文答辩:金属电子论
+- 1911-05-13 正式获博士学位
+
+## 三、英国时期(1911-1912)
+
+- 嘉士伯基金会资助赴英
+- 1911-09 在 Cavendish 实验室见 J.J. Thomson,未给 Thomson 留下印象
+- 转赴曼彻斯特大学与 Rutherford 合作(Rutherford 1911 提出核模型)
+- 结识 George de Hevesy、Charles Galton Darwin
+
+## 四、玻尔模型与"三部曲"(1913)
+
+1912-07 回丹麦结婚,任哥本哈根大学 Privatdozent。
+
+**三部曲**: 1913 年 7、9、11 月发表于 *Philosophical Magazine*。将 Rutherford 核结构与 Planck 量子论结合,创立**玻尔原子模型**:
+- 电子在"定态"轨道运行,不辐射能量
+- 化学性质由外层电子决定
+- 第一篇推导 Balmer 系公式
+
+> 爱因斯坦评: "the highest form of musicality in the sphere of thought."
+> 中文大意: 玻尔模型是"思想领域最崇高的音乐性"
+
+> 玻尔自述不是好讲师,需在 "Klarheit und Wahrheit"(清晰与真理)之间平衡
+
+## 五、理论物理研究所(1921)
+
+1917-04 开始筹建,1918-11 立法通过,**1921-03-03** 开所,玻尔任所长。
+
+成为 1920-30 年代量子力学研究中心,培养 Hans Kramers、Oskar Klein、George de Hevesy、Werner Heisenberg 等。
+
+玻尔预测 72 号元素性质类似锆,非稀土,Dirk Coster 与 George de Hevesy 1923 年发现**铪**(hafnium,哥本哈根的拉丁名)。
+
+1922 年 6 月 12-22 日在哥廷根举办"玻尔音乐节"(Bohrfestspiele),7 场 Wolfskehl 讲座。
+
+## 六、诺贝尔奖(1922)
+
+> "for his services in the investigation of the structure of atoms and of the radiation emanating from them."
+
+> 中文大意: 因其在原子结构与原子辐射研究方面的贡献。
+
+在诺奖演讲中提出**对应原理**: 量子理论在大量子数极限下重现经典物理学。
+
+## 七、量子力学与互补原理(1925-1927)
+
+### BKS 理论(1924)
+与 Kramers、Slater 提出 Bohr-Kramers-Slater 理论,是旧量子论理解物质-辐射相互作用的最后尝试。Bothe 与 Geiger 的实验反驳后,玻尔告知 Darwin:
+
+> "there is nothing else to do than to give our revolutionary efforts as honourable a funeral as possible."
+
+> 中文大意: 除了给我们的革命努力一个体面的葬礼外,别无他法。
+
+### 互补原理(1927)
+电子自旋引入(1925-11)后,de Broglie 假设 1927 年实验证实。
+
+玻尔提出**互补原理**:
+
+> "items could be separately analysed in terms of contradictory properties, like behaving as a wave or a stream of particles."
+
+> 中文大意: 物项可按矛盾性质分别分析,如波动性或粒子性。
+
+玻尔认为:
+
+> "the account of all evidence must be expressed in classical terms," because experimental arrangements must be communicated in unambiguous language using classical physics terminology.
+
+> 中文大意: 所有证据的描述必须用经典术语表达,因为实验安排必须用经典物理学语言明确传达。
+
+### 哥本哈根诠释
+Heisenberg 1927-02 提出不确定性原理,玻尔 1927-09 Como 会议强调不确定性关系可从经典光学仪器分辨率推导。
+
+**玻尔-爱因斯坦论战**是 20 世纪物理哲学最著名的辩论。
+
+## 八、哲学
+
+Heisenberg 说玻尔"首先是个哲学家,不是物理学家"。玻尔读克尔凯郭尔,1909 弟弟 Harald 送《人生道路的诸阶段》。玻尔写"这是我读过的最愉快的东西之一",但不同意其哲学,部分因为克尔凯郭尔倡导基督教而玻尔是无神论者。
+
+**玻尔的本体论立场**有争议:
+- Jan Faye 称玻尔认为原子是实在,不是启发性构造
+- 量子力学形式只提供"量子世界的符号表征"
+- 接受 Born 统计诠释(ψ 函数只有符号意义)
+- **不可定义性论点**："the truth conditions of sentences ascribing a certain kinematic or dynamic value to an atomic object are dependent on the apparatus involved."
+
+## 九、二战时期(1939-1945)
+
+### 难民救助
+1933-05 与 Rockefeller 基金会 Max Mason 讨论,提供临时工作与奖学金。帮助 Guido Beck、Felix Bloch、James Franck、George de Hevesy、Otto Frisch、Hilde Levi、Lise Meitner、George Placzek、Eugene Rabinowitch、Stefan Rozental、Edward Teller、Victor Weisskopf。
+
+1940-04 德国入侵丹麦。为避免发现 Max von Laue 与 James Franck 的金质诺贝尔奖牌,玻尔让 de Hevesy 用王水溶解它们,藏在架子上到战后。
+
+### 与海森堡会面
+**1941-09** 海森堡(德国核能项目负责人)访问玻尔。私人谈话仍有争议——海森堡称谈核能与道德,玻尔草稿回应认为是劝与纳粹合作。Michael Frayn 1998 戏剧《哥本哈根》探讨此事。
+
+### 逃亡与曼哈顿计划
+**1943-09** 纳粹视玻尔为犹太人(通过母亲)并准备逮捕。丹麦抵抗运动助他经海路 09-29 逃往瑞典。翌日玻尔说服国王 Gustaf V 宣布瑞典愿意为犹太人提供庇护,挽救 7000+ 丹麦犹太人。
+
+**1943-10-06** 玻尔乘一架 de Havilland Mosquito 改装轰炸机飞往苏格兰,躺在炸弹舱床垫上,因未戴好飞行头盔在挪威上空缺氧昏迷,到北海降落后才恢复。加入英国 Tube Alloys 项目,**1943-12-08** 化名 "Nicholas Baker"(儿子 Aage 化名 "James Baker")赴华盛顿。访问 Los Alamos,Oppenheimer 称玻尔为"年轻科学家的科学父亲"。玻尔说"They didn't need my help in making the atom bomb."1945-02 协助调制中子起爆器。
+
+**1944-05-16** 玻尔见 Churchill 但"我们说不同的语言"。Churchill 写"玻尔应被关押或至少让他知道他已接近致死罪行的边缘",因其对俄罗斯的开放。
+
+## 十、晚年(1945-1962)
+
+1945-08-25 玻尔回哥本哈根。1950-06 在《公开信》中呼吁联合国合作核能。国际原子能机构(IAEA)后按其精神建立,1957 玻尔获首届 Atoms for Peace 奖。
+
+**1957** 任 Nordic Institute for Theoretical Physics 首任主席。支持 CERN(日内瓦欧洲核子中心)。
+
+**1947** 国王 Frederik IX 授其 Order of the Elephant(通常仅授王室成员)。**玻尔自设计家徽**: 太极图(阴阳)+拉丁文格言 *contraria sunt complementa*(对立互补)。
+
+子 Aage 二战时任个人助手,1975 也获诺贝尔物理学奖。**1999** 玻尔被评为历史上第四大物理学家。
+
+## 十一、去世
+
+1962-11-18 玻尔在哥本哈根去世,享年 77。葬于 Assistens Cemetery。
+
+---
+
+## 中文补充:玻尔与爱因斯坦论战
+
+**5 月 15 日爱因斯坦 65 岁生日:**
+1935 年 Einstein-Podolsky-Rosen(EPR)论文,提出量子力学完备性悖论。玻尔同月发表回应,主张 EPR 悖论不显示量子力学不完备,只是对"实在"概念的不同理解。
+
+**核心分歧:**
+- 爱因斯坦: 量子力学不完备,应存在"隐变量"
+- 玻尔: 量子力学已完备,所谓"实在"取决于测量安排
+
+**经典名句(玻尔):**
+> "If you are not confused about quantum mechanics, you do not understand it."
+> 中文大意: 如果你对量子力学不感到困惑,你就不理解它。
+
+**这一论战持续至 1955 年爱因斯坦去世,未分胜负。**
+
+## 中文补充:玻尔与中国
+
+**中国物理学家与玻尔:**
+- 张宗燧: 玻尔学生,统计力学
+- 周培源: 物理学家
+- 玻尔研究所是中国量子物理学家留学重要目的地
+
+**哥本哈根诠释对 20 世纪中国哲学的影响:**
+- 通过贺麟、金岳霖等传播
+- 辩证唯物主义与量子力学的关系讨论
+
+## 中文补充:玻尔的家徽
+
+**互补原理(Contraria sunt complementa):**
+- 拉丁文: 对立的事物是互补的
+- 反映玻尔的哲学核心: 互补性
+- 借鉴东方哲学(老子、佛教)的阴阳概念
+- 玻尔可能受其父(生理学家 Christian Bohr)与海森堡的东方哲学讨论影响
+
+这一家徽体现了玻尔对东西方哲学的融合。

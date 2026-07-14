@@ -1,0 +1,33 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "bo_er",
+  "languages_used": ["丹麦语(母语)", "英语(科学)", "德语(物理)"],
+  "primary_language": "丹麦语",
+  "sentence_structure": {
+    "物理论文": "中等长句,精密论证",
+    "哲学反思": "中等长度,概念辨析",
+    "公开信": "中等长度,论辩性"
+  },
+  "rhetorical_devices": [
+    "互补原理辩证",
+    "玻尔-爱因斯坦论战",
+    "家徽格言",
+    "东西方哲学融合(阴阳+拉丁文)"
+  ],
+  "characteristic_vocabularies": [
+    "Complementarity(互补性)",
+    "Correspondence principle(对应原理)",
+    "Stationary state(定态)",
+    "Quantization(量子化)",
+    "Wave-particle duality(波粒二象性)",
+    "Uncertainty principle(不确定性)",
+    "Bohr radius(玻尔半径)",
+    "Hafnium(铪)"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "原子模型(1913)"},
+    {"period": "中期", "description": "互补原理+论战(1927)"},
+    {"period": "晚期", "description": "哲学反思+公开信(1950)"}
+  ],
+  "sources_used": ["Wikipedia", "西方科学常识补充"]
+}

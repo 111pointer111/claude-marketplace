@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "bo_er",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "bo_001",
+      "belief": "原子结构——电子在定态轨道运行",
+      "source": "Bohr model (1913) 三部曲",
+      "evidence_count": 4,
+      "explanation": "玻尔原子模型是 20 世纪物理学最重要的进展之一"
+    },
+    {
+      "id": "bo_002",
+      "belief": "互补原理——波动与粒子互补",
+      "source": "items could be separately analysed in terms of contradictory properties(1927)",
+      "evidence_count": 4,
+      "explanation": "玻尔的互补原理是量子力学哥本哈根诠释的核心"
+    },
+    {
+      "id": "bo_003",
+      "belief": "对应原理——量子→经典",
+      "source": "In his Nobel lecture, he outlined the correspondence principle",
+      "evidence_count": 3,
+      "explanation": "玻尔的对应原理:大量子数极限下量子→经典"
+    },
+    {
+      "id": "bo_004",
+      "belief": "对爱因斯坦的质疑——完备 vs 隐变量",
+      "source": "Bohr-Einstein debates(1927-1955)",
+      "evidence_count": 3,
+      "explanation": "玻尔-爱因斯坦论战是 20 世纪物理哲学最著名的辩论"
+    },
+    {
+      "id": "bo_005",
+      "belief": "不定义性——实在取决于实验安排",
+      "source": "the truth conditions of sentences ascribing a certain kinematic or dynamic value to an atomic object are dependent on the apparatus involved",
+      "evidence_count": 3,
+      "explanation": "玻尔主张原子对象的真值条件依赖于实验安排"
+    },
+    {
+      "id": "bo_006",
+      "belief": "哲学高于物理学",
+      "source": "Heisenberg said Bohr was 'primarily a philosopher, not a physicist'",
+      "evidence_count": 2,
+      "explanation": "玻尔的物理学有深刻的哲学背景,受克尔凯郭尔影响"
+    },
+    {
+      "id": "bo_007",
+      "belief": "互补为家徽——对立为互补",
+      "source": "contraria sunt complementa(玻尔家徽)",
+      "evidence_count": 3,
+      "explanation": "玻尔的互补原理浓缩为家徽格言,体现其哲学核心"
+    },
+    {
+      "id": "bo_008",
+      "belief": "对爱因斯坦的开放态度——劝其流亡",
+      "source": "玻尔 1933 建议爱因斯坦离开德国去美国",
+      "evidence_count": 2,
+      "explanation": "玻尔对反犹主义的关切,建议爱因斯坦流亡"
+    }
+  ],
+  "key_themes": [
+    "原子结构",
+    "互补原理",
+    "对应原理",
+    "完备 vs 隐变量",
+    "不定义性",
+    "哲学高于物理学",
+    "互补为家徽",
+    "对爱因斯坦的开放态度"
+  ],
+  "sources_used": ["Wikipedia", "西方科学常识补充"]
+}
