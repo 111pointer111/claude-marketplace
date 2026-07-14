@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "ke_er_kai_guo_er",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "kk_001",
+      "belief": "人生三阶段——审美/伦理/宗教",
+      "source": "Stages on Life's Way(1845)",
+      "evidence_count": 3,
+      "explanation": "克尔凯郭尔提出人生三阶段,宗教阶段为最高,信仰之跃是核心"
+    },
+    {
+      "id": "kk_002",
+      "belief": "信仰之跃——单一者高于普遍者",
+      "source": "The paradox of faith is this: the single individual is higher than the universal(《恐惧与颤栗》)",
+      "evidence_count": 4,
+      "explanation": "克尔凯郭尔的信仰之跃挑战黑格尔的普遍性,主张个人面对上帝的绝对关系"
+    },
+    {
+      "id": "kk_003",
+      "belief": "主观真理——变得主观",
+      "source": "Christianity teaches that the way is to become subjective, to become a subject",
+      "evidence_count": 3,
+      "explanation": "克尔凯郭尔主张真理通过主观获得,不是客观系统"
+    },
+    {
+      "id": "kk_004",
+      "belief": "那个单一者——为个人写作",
+      "source": "that single individual whom I with joy and gratitude call my reader",
+      "evidence_count": 3,
+      "explanation": "克尔凯郭尔不为群众写作,而为单一读者写作"
+    },
+    {
+      "id": "kk_005",
+      "belief": "绝望是致死的疾病",
+      "source": "Despair is the sickness unto death(《致死的疾病》)",
+      "evidence_count": 3,
+      "explanation": "克尔凯郭尔将绝望视为存在性危机,不是心理问题"
+    },
+    {
+      "id": "kk_006",
+      "belief": "焦虑是自由的眩晕",
+      "source": "Anxiety is the dizziness of freedom(《焦虑的概念》)",
+      "evidence_count": 3,
+      "explanation": "克尔凯郭尔将焦虑视为自由的眩晕,不是恐惧"
+    },
+    {
+      "id": "kk_007",
+      "belief": "基督教非国教化——个人直面上帝",
+      "source": "Christianity is the individual, here, the single individual",
+      "evidence_count": 3,
+      "explanation": "克尔凯郭尔晚年攻击丹麦国教会,主张个人直面上帝"
+    },
+    {
+      "id": "kk_008",
+      "belief": "间接沟通——假名笔法",
+      "source": "使用大量假名 Victor Eremita、Climacus 等",
+      "evidence_count": 3,
+      "explanation": "克尔凯郭尔的'间接沟通'——通过假名让读者自己思考"
+    }
+  ],
+  "key_themes": [
+    "人生三阶段",
+    "信仰之跃",
+    "主观真理",
+    "那个单一者",
+    "绝望是致死疾病",
+    "焦虑是自由眩晕",
+    "基督教非国教化",
+    "间接沟通"
+  ],
+  "sources_used": ["Wikipedia", "西方哲学常识补充"]
+}

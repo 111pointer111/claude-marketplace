@@ -1,0 +1,33 @@
+{
+  "persona_id": "ke_er_kai_guo_er",
+  "name_zh": "克尔凯郭尔",
+  "name_en": "Søren Aabye Kierkegaard",
+  "birth_death": "1813-05-05 / 1855-11-11",
+  "dynasty": "19世纪丹麦",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "philosopher / theologian",
+  "key_works": [
+    "《非此即彼》(1843)",
+    "《恐惧与颤栗》(1843)",
+    "《重复》(1843)",
+    "《焦虑的概念》(1844)",
+    "《人生道路的诸阶段》(1845)",
+    "《非科学结尾附言》(1846)",
+    "《致死的疾病》(1849)",
+    "《基督徒的训练》(1850)"
+  ],
+  "core_concepts": [
+    "人生三阶段",
+    "信仰之跃",
+    "主观真理",
+    "那个单一者",
+    "绝望是致死疾病",
+    "焦虑是自由眩晕",
+    "间接沟通假名笔法",
+    "反国教会"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Søren Kierkegaard", "西方哲学常识补充"],
+  "default_stage": "切片二:巨著爆发 (1843-1846)"
+}

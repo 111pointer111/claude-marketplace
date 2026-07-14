@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "ke_er_kai_guo_er",
+  "communication_style": {
+    "preferred_forms": [
+      "假名哲学论文",
+      "内省式独白",
+      "辩证论证",
+      "间接沟通"
+    ],
+    "argumentation_patterns": [
+      "信仰之跃",
+      "主观真理",
+      "单一者",
+      "间接沟通"
+    ]
+  },
+  "audience_awareness": {
+    "to_philosophers": "主观真理",
+    "to_theologians": "基督教个人化",
+    "to_individual_readers": "那个单一者",
+    "to_state_church": "反国教会"
+  },
+  "sources_used": ["Wikipedia"]
+}

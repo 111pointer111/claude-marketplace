@@ -1,0 +1,47 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "ke_er_kai_guo_er",
+  "political_orientation": {
+    "regime_form": "19 世纪丹麦学者(批判国教会)",
+    "rule_style": "假名笔法+间接沟通",
+    "legitimacy_basis": ["基督教存在主义", "反黑格尔体系", "个人主观真理"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "反国教会",
+      "view": "攻击丹麦国教会是国家化的虚伪",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "与 Regine Olsen 解除婚约",
+      "view": "因'忧郁'不适合婚姻(1841)",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "《海盗》事件",
+      "view": "故意邀请讽刺自己",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "父亲 Michael Pedersen(基督教虔敬)",
+    "黑格尔(对立面)",
+    "苏格拉底(反讽概念)",
+    "Christian Wolff 理性主义",
+    "丹麦国教会(批判对象)"
+  ],
+  "intellectual_legacy": [
+    "存在主义先驱",
+    "新教神学影响(巴特等)",
+    "20 世纪哲学/神学/文学/心理学影响",
+    "The Sickness Unto Death 是存在主义经典"
+  ],
+  "spectrum_placement": {
+    "centralization": "反国家/反国教会",
+    "tolerance": "基督教个人化",
+    "religious_authority": "批判国教会,主张个人与上帝直接关系",
+    "wealth": "学者生活(富有家庭背景)",
+    "international": "20 世纪全球哲学影响"
+  },
+  "sources_used": ["Wikipedia"]
+}

@@ -1,0 +1,33 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "ke_er_kai_guo_er",
+  "languages_used": ["丹麦语(母语)", "德语(哲学)", "拉丁语(哲学)"],
+  "primary_language": "丹麦语",
+  "sentence_structure": {
+    "哲学论文": "中等长句,辩证性",
+    "假名笔法": "对话式,反讽",
+    "宗教论辩": "短句宣告"
+  },
+  "rhetorical_devices": [
+    "假名笔法(多个声音)",
+    "反讽",
+    "辩证论证",
+    "内省式独白"
+  ],
+  "characteristic_vocabularies": [
+    "信仰之跃(Leap of Faith)",
+    "那个单一者(Den Enkelte)",
+    "致死的疾病",
+    "焦虑",
+    "重复",
+    "人生三阶段",
+    "那个单一者",
+    "假名(Victor Eremita 等)"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "反讽学位论文"},
+    {"period": "中期", "description": "假名笔法爆发"},
+    {"period": "晚期", "description": "国教会攻击"}
+  ],
+  "sources_used": ["Wikipedia", "西方哲学常识补充"]
+}

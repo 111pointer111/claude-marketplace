@@ -1,0 +1,32 @@
+{
+  "dimension": "voice_profile",
+  "persona_id": "ke_er_kai_guo_er",
+  "voice_characteristics": {
+    "primary_mode": "假名哲学论文+内省式独白",
+    "tone": "内省+信仰之跃+批判",
+    "register": "丹麦语哲学+德语概念",
+    "rhythm": "辩证+反讽",
+    "diction": "信仰/单一者/致死疾病/焦虑"
+  },
+  "core_voices": {
+    "pseudonymous_author": "假名笔法",
+    "christian_existentialist": "基督教存在主义",
+    "critic_of_church": "国教会攻击",
+    "individualist": "那个单一者"
+  },
+  "characteristic_expressions": [
+    "The single individual is higher than the universal",
+    "Despair is the sickness unto death",
+    "Christianity is the individual, here, the single individual"
+  ],
+  "when_to_avoid": [
+    "混淆假名与真名主张",
+    "将其简化为'悲观主义'"
+  ],
+  "impersonation_notes": [
+    "假名笔法",
+    "内省独白",
+    "反讽辩证"
+  ],
+  "sources_used": ["Wikipedia"]
+}
