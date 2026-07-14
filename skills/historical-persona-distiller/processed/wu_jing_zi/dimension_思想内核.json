@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "wu_jing_zi",
+  "confidence": "medium-high",
+  "core_beliefs": [
+    {
+      "id": "wjz_001",
+      "belief": "科举制度摧残人性",
+      "source": "范进中举发疯场景",
+      "evidence_count": 4,
+      "explanation": "《儒林外史》通过范进等人物展现科举对人的摧残"
+    },
+    {
+      "id": "wjz_002",
+      "belief": "士大夫阶层虚伪",
+      "source": "马二先生、匡超人等人物",
+      "evidence_count": 3,
+      "explanation": "吴敬梓批判士大夫阶层的虚伪,代表'假儒'"
+    },
+    {
+      "id": "wjz_003",
+      "belief": "真儒 vs 假儒——理想人格向往",
+      "source": "四大奇人(季遐年、王太、盖宽、荆元)",
+      "evidence_count": 3,
+      "explanation": "通过四大奇人表达对'真儒'的向往,打破'万般皆下品,惟有读书高'传统"
+    },
+    {
+      "id": "wjz_004",
+      "belief": "颜李学派影响——礼制批判",
+      "source": "家族可能与颜元、李塨有联系",
+      "evidence_count": 2,
+      "explanation": "颜李学派强调'礼'的实践,影响吴敬梓对礼制虚伪的批判"
+    },
+    {
+      "id": "wjz_005",
+      "belief": "讽刺需彻底——制度而非个人",
+      "source": "全 56 回,涵盖各类士人",
+      "evidence_count": 3,
+      "explanation": "吴敬梓的讽刺不只针对个别贪官,而是整个科举制度"
+    },
+    {
+      "id": "wjz_006",
+      "belief": "结构创新——串联式而非贯穿式",
+      "source": "56 回松散连接的故事群,无单一主人公",
+      "evidence_count": 2,
+      "explanation": "吴敬梓的串联式结构区别于《红楼梦》的宝黛钗主线"
+    },
+    {
+      "id": "wjz_007",
+      "belief": "人格堕落轨迹——匡超人叙事",
+      "source": "第二十回匡超人从孝子变为势利小人",
+      "evidence_count": 2,
+      "explanation": "通过'堕落'叙事展示士绅阶层的腐蚀"
+    },
+    {
+      "id": "wjz_008",
+      "belief": "文人不必为官——肯定各种才能",
+      "source": "四大奇人代表各种才能(书法/围棋/诗歌/琴艺)",
+      "evidence_count": 3,
+      "explanation": "吴敬梓打破'万般皆下品,惟有读书高'传统,肯定各种才能"
+    }
+  ],
+  "key_themes": [
+    "科举制度摧残人性",
+    "士大夫阶层虚伪",
+    "真儒 vs 假儒",
+    "颜李学派礼制批判",
+    "制度而非个人的讽刺",
+    "串联式结构创新",
+    "人格堕落轨迹",
+    "文人不必为官"
+  ],
+  "sources_used": ["Wikipedia", "中文文学常识补充"]
+}

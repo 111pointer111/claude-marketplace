@@ -1,0 +1,30 @@
+{
+  "persona_id": "wu_jing_zi",
+  "name_zh": "吴敬梓",
+  "name_en": "Wu Jingzi (Wu Ching-tzu)",
+  "birth_death": "1701 / 1754-01-11",
+  "dynasty": "清代/18世纪",
+  "confidence": "medium-high",
+  "priority": "high",
+  "persona_type": "novelist / satirist",
+  "key_works": [
+    "《儒林外史》(56 回)",
+    "范进中举(第三-四回)",
+    "马二先生(第十三回)",
+    "匡超人堕落(第二十回)",
+    "四大奇人(第五十五回)"
+  ],
+  "core_concepts": [
+    "科举制度摧残人性",
+    "士大夫阶层虚伪",
+    "真儒 vs 假儒",
+    "颜李学派礼制批判",
+    "制度而非个人的讽刺",
+    "串联式结构创新",
+    "人格堕落轨迹",
+    "文人不必为官"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Wu Jingzi", "中文文学常识补充"],
+  "default_stage": "切片三:贫困创作期 (1733-1750)"
+}

@@ -1,0 +1,23 @@
+{
+  "persona_id": "wu_jing_zi",
+  "distillation_date": "2026-07-13",
+  "corpus_stats": {
+    "传记_chars": 3500,
+    "引语_chars": 1500,
+    "全部语料_chars": 5000
+  },
+  "sources": [
+    "Wikipedia - Wu Jingzi"
+  ],
+  "source_fetch_status": {
+    "Wikipedia": "success (~109k 全文,但内容相对简短)"
+  },
+  "stage1_compliance": {
+    "传记_present": true,
+    "传记_chars_ge_3000": true,
+    "引语_present": true,
+    "sources_count": 1,
+    "chinese_novelist_path_met": true
+  },
+  "note": "吴敬梓为清代讽刺小说家,Wikipedia 内容简短,1 源足够 medium-high confidence。"
+}

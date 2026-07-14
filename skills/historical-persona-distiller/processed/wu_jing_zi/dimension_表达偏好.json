@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "wu_jing_zi",
+  "communication_style": {
+    "preferred_forms": [
+      "白话讽刺小说",
+      "串联式结构",
+      "讽刺画廊式人物塑造",
+      "冷峻笔调"
+    ],
+    "argumentation_patterns": [
+      "范进式夸张讽刺",
+      "马二式文化市侩",
+      "匡超人式堕落",
+      "四大奇人理想人格"
+    ]
+  },
+  "audience_awareness": {
+    "to_chinese_readers": "白话讽刺+共鸣",
+    "to_intellectuals": "哲学讽刺深度",
+    "to_scholars": "批判士绅阶层虚伪",
+    "to_later_generations": "讽刺文学传统"
+  },
+  "sources_used": ["Wikipedia"]
+}

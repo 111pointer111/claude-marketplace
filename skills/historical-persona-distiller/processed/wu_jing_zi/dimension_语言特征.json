@@ -1,0 +1,34 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "wu_jing_zi",
+  "languages_used": ["中文(清代白话)"],
+  "primary_language": "中文白话(清代)",
+  "sentence_structure": {
+    "叙事": "中等长度,白描讽刺",
+    "对话": "个性化短句(各人语言风格不同)",
+    "内心描写": "白描含蓄"
+  },
+  "rhetorical_devices": [
+    "白描讽刺",
+    "夸张(如范进发疯)",
+    "对比(假儒 vs 真儒)",
+    "荒诞与悲怆结合"
+  ],
+  "characteristic_vocabularies": [
+    "儒林外史",
+    "举业",
+    "秀才",
+    "举人",
+    "进士",
+    "范进",
+    "马二先生",
+    "匡超人",
+    "四大奇人"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "家道中落经历"},
+    {"period": "中期", "description": "暖足贫困创作"},
+    {"period": "晚期", "description": "儒林外史定稿"}
+  ],
+  "sources_used": ["Wikipedia", "中文文学常识补充"]
+}

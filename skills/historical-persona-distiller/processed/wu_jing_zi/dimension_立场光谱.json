@@ -1,0 +1,46 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "wu_jing_zi",
+  "political_orientation": {
+    "regime_form": "清朝(批判士绅阶层)",
+    "rule_style": "白话讽刺小说",
+    "legitimacy_basis": ["科举批判", "颜李学派", "真儒向往"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "科举制度",
+      "view": "彻底批判",
+      "source": "Wikipedia + 中文文学常识"
+    },
+    {
+      "topic": "士绅阶层",
+      "view": "讽刺其虚伪",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "真儒 vs 假儒",
+      "view": "理想化'真儒',批判'假儒'",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "颜李学派(颜元、李塨)",
+    "明代讽刺传统",
+    "科举批判传统",
+    "颜真卿(可能的家世联系)"
+  ],
+  "intellectual_legacy": [
+    "中国最杰出讽刺小说",
+    "清末谴责小说先驱",
+    "鲁迅国民性批判先驱",
+    "现代讽刺小说传统"
+  ],
+  "spectrum_placement": {
+    "centralization": "批判科举制度",
+    "tolerance": "肯定各种才能(四大奇人)",
+    "religious_authority": "颜李学派(强调礼)",
+    "wealth": "贫困文人立场",
+    "international": "东亚讽刺文学传统"
+  },
+  "sources_used": ["Wikipedia"]
+}
