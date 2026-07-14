@@ -1,0 +1,29 @@
+{
+  "persona_id": "xue_ding_e",
+  "name_zh": "薛定谔",
+  "name_en": "Erwin Schrödinger",
+  "birth_death": "1887-08-12 / 1961-01-04",
+  "dynasty": "20世纪奥地利/爱尔兰",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "physicist / philosopher",
+  "key_works": [
+    "1926 四篇《Quantisierung als Eigenwertproblem》",
+    "1935 薛定谔的猫论文",
+    "1944 《生命是什么?》",
+    "1956 《心与物》"
+  ],
+  "core_concepts": [
+    "波动力学",
+    "意识一元论",
+    "反对哥本哈根诠释",
+    "薛定谔的猫",
+    "非周期性晶体",
+    "意识是绝对基础",
+    "印度哲学(奥义书)影响",
+    "叔本华哲学"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Erwin Schrödinger", "西方科学常识补充"],
+  "default_stage": "切片二:波动力学 (1926)"
+}

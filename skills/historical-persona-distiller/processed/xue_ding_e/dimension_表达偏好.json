@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "xue_ding_e",
+  "communication_style": {
+    "preferred_forms": [
+      "物理学论文",
+      "哲学著作(《生命是什么?》《心与物》)",
+      "回忆",
+      "演讲(印度讲学)"
+    ],
+    "argumentation_patterns": [
+      "波动方程数学论证",
+      "薛定谔的猫反讽",
+      "奥义书引用",
+      "意识一元论辩证"
+    ]
+  },
+  "audience_awareness": {
+    "to_physicists": "波动力学+讽刺",
+    "to_philosophers": "意识一元论",
+    "to_biologists": "《生命是什么?》",
+    "to_indian_philosophy": "奥义书"
+  },
+  "sources_used": ["Wikipedia"]
+}

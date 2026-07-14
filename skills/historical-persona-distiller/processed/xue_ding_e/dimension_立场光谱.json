@@ -1,0 +1,48 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "xue_ding_e",
+  "political_orientation": {
+    "regime_form": "20世纪奥地利/爱尔兰理论物理学家",
+    "rule_style": "波动力学+反唯物主义",
+    "legitimacy_basis": ["薛定谔方程", "意识一元论", "《生命是什么?》"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "薛定谔的猫",
+      "view": "讽刺哥本哈根诠释,实际是反讽",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "意识一元论",
+      "view": "意识是绝对基础,反对唯物主义",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "个人生活",
+      "view": "恋少女倾向争议(Walter Moore 1989 传记)",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "叔本华(Arthur Schopenhauer)",
+    "斯宾诺莎(Baruch Spinoza)",
+    "奥义书(Upanishads)",
+    "吠檀多不二论(Advaita Vedanta)",
+    "爱因斯坦(论战)"
+  ],
+  "intellectual_legacy": [
+    "波动力学创始人",
+    "薛定谔的猫思想实验",
+    "《生命是什么?》启发分子生物学",
+    "意识一元论哲学",
+    "印度哲学在欧洲传播"
+  ],
+  "spectrum_placement": {
+    "centralization": "波动力学中心",
+    "tolerance": "反哥本哈根诠释",
+    "religious_authority": "无神论+奥义书影响",
+    "wealth": "学者生活(但个人争议)",
+    "international": "20 世纪物理学全球影响"
+  },
+  "sources_used": ["Wikipedia"]
+}

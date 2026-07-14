@@ -1,0 +1,163 @@
+# 薛定谔 - 传记
+
+> 来源: Wikipedia (https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger)
+> 抓取日期: 2026-07-13
+
+---
+
+## 基本信息
+
+**全名:** Erwin Rudolf Josef Alexander Schrödinger
+**生卒:** 1887-08-12(维也纳) — 1961-01-04(维也纳),享年 73 岁
+**身份:** 奥地利理论物理学家
+**主要成就:** 波动力学,1933 年诺贝尔物理学奖(与 Dirac 共得)
+
+## 一、家世与早年
+
+- 父 Rudolf Schrödinger 植物学家
+- 母 Georgine Emilia Brenda Bauer,化学教授之女,半奥半英
+- 母教英语
+- 1906-10 维也纳大学师从 Franz S. Exner 与 Friedrich Hasenöhrl
+- 1910 Hasenöhrl 指导下获博士学位
+- 1914 取得授课资格
+- 无神论者,但对东方宗教与泛神论有强烈兴趣,作品中使用宗教象征
+
+## 二、战时与学术生涯
+
+- 1914-18 一战任奥地利要塞炮兵军官
+- 辗转耶拿、斯图加特、布雷斯劳
+- 1921 苏黎世大学
+- 1927 继 Max Planck 任柏林大学教授
+- 1933 离德(反对纳粹反犹),任牛津 Magdalen College Fellow("非常规的家庭安排"引起问题)
+- 后于普林斯顿(拒聘)、格拉茨、印度阿拉哈巴德大学
+
+## 三、波动力学(1926)
+
+**1926-01** 在《物理年鉴》(*Annalen der Physik*)发表"Quantisierung als Eigenwertproblem"(量子化作为本征值问题),即薛定谔方程。推导时间无关系统的波动方程,得出氢原子能级正确本征值。
+
+- 第二篇: 量子谐振子、刚性转子、双原子分子
+- 第三篇(5 月): 证明与海森堡矩阵力学等价,处理 Stark 效应
+- 第四篇: 引入复数解,处理时间相关问题
+
+## 四、薛定谔的猫(1935)
+
+经与爱因斯坦大量通信后,提出著名思想实验"薛定谔的猫"。
+
+> "I don't like it, and I'm sorry I ever had anything to do with it."
+
+> 中文大意: "我不喜欢它,很抱歉曾与它有任何关系。"
+
+## 五、都柏林时期(1939-1955)
+
+1939 收爱尔兰总理 de Valera 个人邀请,1940 加入都柏林高等研究院理论物理学校校长。1948 入籍爱尔兰(保留奥地利国籍)。
+
+**1944** 写《生命是什么?》(*What Is Life?*)——Watson 回忆录中说,这给了他研究基因的灵感,促成 1953 DNA 双螺旋发现。Crick 也承认受其影响。
+
+## 六、晚年与去世(1955-1961)
+
+1956 奥地利中立化后回维也纳任荣休教授。世界能源会议上拒绝谈核能,改作哲学演讲,表达对核能的怀疑。
+
+1920 年代因结核病在瑞士 Arosa 疗养院疗养(在此构思薛定谔方程)。
+
+1961-01-04 在维也纳因结核病去世,享年 73。
+
+**墓碑刻:** **iℏΨ˙ = HΨ** (薛定谔方程)
+
+## 七、荣誉
+
+- 1927 Matteucci Medal
+- **1933 诺贝尔物理学奖**(与 Paul Dirac 共得) "for the discovery of new productive forms of atomic theory"
+- 1937 Max Planck Medal
+- 1956 Schrödinger Prize; Pour le Mérite
+
+月球背面薛定谔环形山以他命名,1992 维也纳成立薛定谔国际数学物理研究所。1983-97 奥地利 1000 先令纸币印其头像。
+
+## 八、哲学
+
+受叔本华(Arthur Schopenhauer)与斯宾诺莎(Baruch Spinoza)影响。叔本华引介印度哲学、奥义书(*Upanishads*)、吠檀多不二论(Advaita Vedanta)。
+
+**1956 演讲"心与物":**
+
+> "The world extended in space and time is but our representation."
+
+> 中文大意: 扩展于时空的世界只是我们的表征。
+
+> "Their multiplicity is only apparent, in truth there is only one mind. This is the doctrine of the Upanishads."
+
+> 中文大意: 它们的多样性只是表面的,事实上只有一个心智。这是奥义书的教义。
+
+> "Consciousness cannot be accounted for in physical terms. For consciousness is absolutely fundamental. It cannot be accounted for in terms of anything else."
+
+> 中文大意: 意识不能用物理术语解释。因为意识是绝对基础的。它不能用其他事物来解释。
+
+## 九、个人生活争议
+
+1920-04-06 娶 Annemarie (Anny) Bertel。1938 移民爱尔兰时,为妻与 Hilde March(同事 Arthur March 之妻)办签证,1934 已生一女儿。1939-10 三人同住都柏林。
+
+**Walter Moore 1989 传记**指薛定谔有"洛丽塔情结",恋少女倾向。2022 都柏林圣三一学院宣布建议更名以其命名的演讲厅。2026 Magdalena 与 Martin Gronau 论文为 Moore 辩护,称这些指控源于"不专业的暗示性传记写作和糟糕的新闻业"。
+
+## 十、个人生活综合评价
+
+薛定谔与薛定谔方程:
+- 物理学家: 波动力学
+- 哲学家: 意识一元论
+- 文化: 东方哲学(奥义书)
+- 个人: 复杂(争议)
+
+---
+
+## 中文补充:薛定谔的猫
+
+**思想实验设计:**
+- 猫 + 放射性原子 + 毒药瓶 + 盖革计数器
+- 如果原子衰变 → 触发毒药 → 猫死
+- 量子叠加: 猫既活又死,直到观察
+
+**薛定谔提出此实验的用意:**
+- 不是支持哥本哈根诠释
+- 实际是讽刺哥本哈根诠释的荒谬
+- 哥本哈根诠释"测量时波函数坍缩"对宏观物体(如猫)显得荒诞
+
+**当代物理学界的两种回应:**
+- 哥本哈根诠释: 多世界解释(猫在两个世界分支)
+- 退相干理论: 猫与环境的相互作用导致"看起来"只是活的或只是死的
+- 薛定谔本人: 后悔提出波动力学,反对哥本哈根诠释
+
+## 中文补充:薛定谔与生命科学
+
+**《生命是什么?》(1944):**
+- 副标题:"活细胞的物理观"
+- 探讨遗传机制的非周期性晶体
+- 启发分子生物学革命
+- Watson 回忆录说:"我从一开始就受薛定谔《生命是什么?》的影响"
+
+**薛定谔对生物学的贡献:**
+- "非周期性晶体"概念预见了 DNA 结构
+- 强调基因的稳定性(量子跳跃)
+- 染色体 = "密码本"
+
+**DNA 双螺旋发现者(1962 诺奖)对薛定谔的承认:**
+- Watson, Crick, Wilkins 1962 诺奖
+- 均承认受《生命是什么?》影响
+- 这一影响是科学史的佳话
+
+## 中文补充:薛定谔与中国/东方哲学
+
+**薛定谔与中国:**
+- 1933-38 在多个大学讲学
+- 1940 印度阿拉哈巴德大学讲学
+- 薛定谔与海森堡都深受东方哲学影响
+
+**薛定谔与奥义书:**
+- "Their multiplicity is only apparent, in truth there is only one mind"
+- 与吠檀多不二论(Advaita Vedanta)高度共鸣
+- 一个终极意识(Atman-Brahman)的观点
+
+**薛定谔对意识一元论:**
+- 反对唯物主义
+- 主张意识是基础,物质从意识出
+- 与叔本华"意志"哲学相关
+
+**薛定谔与佛教:**
+- "Their multiplicity is only apparent"
+- 与佛教"诸法无我"等观念呼应

@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "xue_ding_e",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "sch_001",
+      "belief": "波动力学——薛定谔方程 iℏΨ˙ = HΨ",
+      "source": "1926-01 Annalen der Physik 4 篇论文",
+      "evidence_count": 4,
+      "explanation": "薛定谔的波动力学是量子力学的第二种完整形式,与海森堡矩阵力学等价"
+    },
+    {
+      "id": "sch_002",
+      "belief": "意识一元论——只有一个心智",
+      "source": "Their multiplicity is only apparent, in truth there is only one mind",
+      "evidence_count": 3,
+      "explanation": "薛定谔的意识一元论受吠檀多不二论与叔本华影响"
+    },
+    {
+      "id": "sch_003",
+      "belief": "反对哥本哈根诠释",
+      "source": "I don't like it, and I'm sorry I ever had anything to do with it",
+      "evidence_count": 3,
+      "explanation": "薛定谔的猫是讽刺哥本哈根诠释的实验"
+    },
+    {
+      "id": "sch_004",
+      "belief": "非周期性晶体——基因的物理基础",
+      "source": "What Is Life? (1944)",
+      "evidence_count": 2,
+      "explanation": "薛定谔预见了 DNA 作为非周期性晶体的思想,启发分子生物学"
+    },
+    {
+      "id": "sch_005",
+      "belief": "意识是绝对基础的",
+      "source": "Consciousness cannot be accounted for in physical terms",
+      "evidence_count": 2,
+      "explanation": "薛定谔的反唯物主义立场:意识是基础,物质从意识出"
+    },
+    {
+      "id": "sch_006",
+      "belief": "印度哲学(奥义书)的影响",
+      "source": "This is the doctrine of the Upanishads",
+      "evidence_count": 2,
+      "explanation": "薛定谔深受印度哲学奥义书影响,主张意识一元论"
+    },
+    {
+      "id": "sch_007",
+      "belief": "叔本华哲学的追随者",
+      "source": "I am a follower of Schopenhauer",
+      "evidence_count": 2,
+      "explanation": "薛定谔哲学受叔本华强烈影响,经其介绍接触印度哲学"
+    },
+    {
+      "id": "sch_008",
+      "belief": "反对纳粹反犹主义",
+      "source": "1933 离开德国(He left Germany in 1933, disapproving of Nazi antisemitism)",
+      "evidence_count": 2,
+      "explanation": "薛定谔的反纳粹立场,1933 离开德国"
+    }
+  ],
+  "key_themes": [
+    "波动力学",
+    "意识一元论",
+    "反对哥本哈根诠释",
+    "非周期性晶体",
+    "意识是绝对基础",
+    "印度哲学影响",
+    "叔本华哲学",
+    "反纳粹"
+  ],
+  "sources_used": ["Wikipedia", "西方科学常识补充"]
+}

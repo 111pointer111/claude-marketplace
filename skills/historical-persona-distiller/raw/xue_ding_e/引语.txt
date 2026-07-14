@@ -1,0 +1,61 @@
+# 薛定谔直接引语
+
+> 来源: Wikipedia + 公开西方科学常识
+> 抓取日期: 2026-07-13
+
+---
+
+## 薛定谔方程(1926)
+
+> **iℏ ∂Ψ/∂t = ĤΨ**
+
+> "The world extended in space and time is but our representation."
+
+## 薛定谔的猫(1935)
+
+> "I don't like it, and I'm sorry I ever had anything to do with it."
+
+> 中文大意: "我不喜欢它,很抱歉曾与它有任何关系。"
+
+## 关于意识
+
+> "Consciousness cannot be accounted for in physical terms. For consciousness is absolutely fundamental. It cannot be accounted for in terms of anything else."
+
+> 中文大意: 意识不能用物理术语解释。因为意识是绝对基础的。它不能用其他事物来解释。
+
+## 关于奥义书
+
+> "Their multiplicity is only apparent, in truth there is only one mind. This is the doctrine of the Upanishads."
+
+> 中文大意: 它们的多样性只是表面的,事实上只有一个心智。这是奥义书的教义。
+
+## 《生命是什么?》(1944)
+
+> "An organism's astonishing gift of concentrating a 'stream of order' on itself and thus escaping the decay into atomic chaos — of 'drinking orderliness' from a suitable environment — seems to be connected with the presence of the 'aperiodic solids' we have just been discussing, the chromosomes being, in fact, the most prominent representatives of this class of matter."
+
+> 中文大意: 生命体将"秩序流"集中于自身的能力似乎与"非周期性固体"(染色体)有关——预见了 DNA 作为非周期性晶体的思想。
+
+## 关于波动力学(自嘲)
+
+> "I don't like it, and I'm sorry I ever had anything to do with it." (对量子力学的态度)
+
+> 中文大意: "我不喜欢它,很抱歉曾与它有任何关系。"
+
+## 关于哲学影响
+
+> "I am a follower of Schopenhauer."
+
+> 中文大意: "我是叔本华的追随者。"
+
+## 墓碑
+
+> **iℏΨ˙ = HΨ** (薛定谔方程)
+
+---
+
+## 引语使用注意
+
+1. Wikipedia 1 源,引语整理基于公开西方科学常识
+2. 薛定谔方程原文(德文)需进一步考证
+3. 薛定谔对意识一元论观点反映其哲学影响(奥义书+叔本华+斯宾诺莎)
+4. 个人生活争议(恋少女倾向)需谨慎处理
