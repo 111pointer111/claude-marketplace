@@ -1,0 +1,26 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "jia_li_bo_di",
+  "communication_style": {
+    "preferred_forms": [
+      "军事命令(短句)",
+      "民族主义宣言",
+      "政治演说(煽动性)",
+      "个人书信(简短情感)"
+    ],
+    "argumentation_patterns": [
+      "民族命运:意大利统一是人民使命",
+      "个人牺牲:革命者无私奉献",
+      "国际团结:全人类解放",
+      "行动优先:武力是解放工具"
+    ]
+  },
+  "audience_awareness": {
+    "to_volunteers": "军事命令+煽动性",
+    "to_italian_public": "民族主义宣言",
+    "to_international_allies": "国际革命团结",
+    "to_king": "合作但保持独立",
+    "to_pope": "反神权但尊重宗教"
+  },
+  "sources_used": ["Wikipedia"]
+}

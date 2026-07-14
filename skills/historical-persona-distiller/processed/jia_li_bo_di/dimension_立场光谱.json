@@ -1,0 +1,48 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "jia_li_bo_di",
+  "political_orientation": {
+    "regime_form": "支持意大利共和国(实际让位于君主立宪)",
+    "rule_style": "志愿军+共和主义+国际团结",
+    "legitimacy_basis": ["人民志愿军", "民族自决", "共和主义传统"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "罗马共和国与教皇",
+      "view": "反对教皇世俗权力,1849 保卫罗马共和国",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "Nice 割让",
+      "view": "反对 Cavour 牺牲 Nice 给法国",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "Pius IX 个人",
+      "view": "1846 主动献剑,但 1848 后因教皇拒绝共和而反对其世俗权力",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "Giuseppe Mazzini (青年意大利党)",
+    "烧炭党",
+    "共济会",
+    "法国大革命精神",
+    "Anita 高乔文化"
+  ],
+  "intellectual_legacy": [
+    "意大利复兴运动",
+    "国际革命浪漫主义象征",
+    "千名志愿军模式",
+    "共济会进步网络",
+    "19 世纪反殖民反压迫传统"
+  ],
+  "spectrum_placement": {
+    "centralization": "人民志愿军 > 君主中央集权",
+    "tolerance": "全人类解放+反奴隶制",
+    "religious_authority": "反神权世俗,不反宗教",
+    "wealth": "革命者无私奉献",
+    "international": "国际革命团结"
+  },
+  "sources_used": ["Wikipedia"]
+}

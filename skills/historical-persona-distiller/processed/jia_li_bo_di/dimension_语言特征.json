@@ -1,0 +1,35 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "jia_li_bo_di",
+  "languages_used": ["意大利语(母语)", "法语(Nice 出生)", "西班牙语(南美)", "葡萄牙语(巴西)", "英语(基本)"],
+  "primary_language": "意大利语",
+  "sentence_structure": {
+    "military_orders": "短句命令式",
+    "political_speeches": "中等长度,煽动性",
+    "personal_letters": "简短流露情感",
+    "manifestos": "宣言式,英雄气概"
+  },
+  "rhetorical_devices": [
+    "决断性短句:'Make Italy or die'",
+    "民族主义隐喻:'从阿尔卑斯山到亚得里亚海'",
+    "历史定位:将自身置于意大利统一史诗",
+    "国际革命团结:'后世将称你为伟大的解放者'"
+  ],
+  "characteristic_vocabularies": [
+    "I Mille (千人团)",
+    "Garibaldini (红衫军)",
+    "Partito d'Azione (行动党)",
+    "Risorgimento (意大利复兴运动)",
+    "Caprera (退居地)",
+    "Roma o morte (罗马或死亡)",
+    "Alpi al Mare Adriatico (阿尔卑斯山到亚得里亚海)"
+  ],
+  "style_evolution": [
+    {"period": "早年(1807-34)", "description": "航海+革命启蒙"},
+    {"period": "南美(1835-48)", "description": "军事命令+简短"},
+    {"period": "罗马共和国(1848-49)", "description": "政治雄辩"},
+    {"period": "千人远征(1860)", "description": "英雄式宣言"},
+    {"period": "晚年(1861-82)", "description": "国际革命+共和主义反思"}
+  ],
+  "sources_used": ["Wikipedia"]
+}

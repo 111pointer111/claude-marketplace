@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "jia_li_bo_di",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "gar_001",
+      "belief": "意大利统一必须由人民志愿军完成",
+      "source": "Here we either make Italy, or we die (Calatafimi 1860)",
+      "evidence_count": 4,
+      "explanation": "加里波第相信意大利统一应由人民而非王朝完成,这是其共和主义与志愿军路线的核心"
+    },
+    {
+      "id": "gar_002",
+      "belief": "共和主义理想",
+      "source": "Ovunque noi saremo, sarà Roma (罗马议会 1849);Mazzini 共和主义继承",
+      "evidence_count": 3,
+      "explanation": "加里波第坚持共和主义,但实际将征服领土交给撒丁国王——共和理想与现实妥协"
+    },
+    {
+      "id": "gar_003",
+      "belief": "国际革命团结 — 全人类解放",
+      "source": "Free from the Alps to the Adriatic (国际军团口号 1860);致林肯信(1863)",
+      "evidence_count": 3,
+      "explanation": "加里波第支持世界范围的革命运动——意大利、加里波第卫队、美国废奴等"
+    },
+    {
+      "id": "gar_004",
+      "belief": "反神权但反无神论",
+      "source": "If these hands... would be acceptable to His Holiness (1846 致教皇)",
+      "evidence_count": 2,
+      "explanation": "加里波第反对教皇世俗权力(罗马共和国)但不反对宗教本身,试图与教廷和解"
+    },
+    {
+      "id": "gar_005",
+      "belief": "无私奉献 — 不受奖励",
+      "source": "Teano 拒绝所有奖励退居 Caprera (1860)",
+      "evidence_count": 3,
+      "explanation": "加里波第相信革命者不应接受世俗奖励,只接受为意大利牺牲的荣誉"
+    },
+    {
+      "id": "gar_006",
+      "belief": "武力是解放工具",
+      "source": "I offer only hunger, thirst, forced marches, battles, and death (致罗马志愿兵)",
+      "evidence_count": 3,
+      "explanation": "加里波第认为武力是民族解放的唯一有效工具,这是其与 Mazzini 共和革命的共同立场"
+    },
+    {
+      "id": "gar_007",
+      "belief": "共济会进步网络",
+      "source": "Freemasonry initiated 1844 Montevideo;Grand Master of Italian Grand Orient",
+      "evidence_count": 2,
+      "explanation": "加里波第视共济会为全球进步人士网络,这一身份跨越民族与宗教"
+    },
+    {
+      "id": "gar_008",
+      "belief": "反奴隶制 + 反阶级压迫",
+      "source": "Posterosity will call you the great emancipator (致林肯 1863);拒绝联邦少将除非有权废除奴隶制",
+      "evidence_count": 2,
+      "explanation": "加里波第坚决反奴隶制,这是其国际革命立场的一部分"
+    }
+  ],
+  "key_themes": [
+    "意大利人民统一",
+    "共和主义",
+    "国际革命团结",
+    "反神权世俗但不反宗教",
+    "无私奉献",
+    "武力解放",
+    "共济会进步网络",
+    "反奴隶制"
+  ],
+  "sources_used": ["Wikipedia"]
+}
