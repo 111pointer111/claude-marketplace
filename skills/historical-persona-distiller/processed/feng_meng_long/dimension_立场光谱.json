@@ -1,0 +1,47 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "feng_meng_long",
+  "political_orientation": {
+    "regime_form": "明遗民(忠于明朝)",
+    "rule_style": "白话短篇小说编纂",
+    "legitimacy_basis": ["白话文学传统", "女性视角", "明遗民立场"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "女性观",
+      "view": "反对溺女,同情妓女",
+      "source": "Wikipedia + 中文文学常识"
+    },
+    {
+      "topic": "白话文学",
+      "view": "推动白话短篇小说集大成",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "明清易代",
+      "view": "明遗民立场,反清",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "宋元话本",
+    "吴中(苏州)商业文化",
+    "李贽《焚书》",
+    "汤显祖(同时代戏剧家)",
+    "王阳明心学"
+  ],
+  "intellectual_legacy": [
+    "三言二拍白话短篇小说双壁",
+    "白话小说从民间走向主流",
+    "女性文学传统",
+    "明遗民文学"
+  ],
+  "spectrum_placement": {
+    "centralization": "批判明代官场腐败",
+    "tolerance": "同情女性+市井小民",
+    "religious_authority": "无明确宗教倾向",
+    "wealth": "同情底层,批判权贵",
+    "international": "东亚共同白话文学传统"
+  },
+  "sources_used": ["Wikipedia"]
+}

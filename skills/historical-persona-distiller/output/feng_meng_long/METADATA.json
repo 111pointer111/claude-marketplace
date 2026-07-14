@@ -1,0 +1,32 @@
+{
+  "persona_id": "feng_meng_long",
+  "name_zh": "冯梦龙",
+  "name_en": "Feng Menglong",
+  "birth_death": "1574 / 1646",
+  "dynasty": "明末清初/16-17世纪",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "writer / editor / official",
+  "key_works": [
+    "《喻世明言》(古今小说)",
+    "《警世通言》",
+    "《醒世恒言》",
+    "《情史》",
+    "《山歌》",
+    "《禁溺女告示》",
+    "《中兴伟略》"
+  ],
+  "core_concepts": [
+    "小说本旨(劝善惩恶)",
+    "白话小说可动人",
+    "同情女性",
+    "批判官场腐败",
+    "忠厚之心",
+    "小人物大爱情",
+    "明遗民立场",
+    "市井文化"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Feng Menglong", "中文文学常识补充"],
+  "default_stage": "切片二:文学创作期 (1620-1630)"
+}

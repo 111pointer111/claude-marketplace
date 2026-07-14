@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "feng_meng_long",
+  "communication_style": {
+    "preferred_forms": [
+      "白话短篇小说",
+      "序跋论辩",
+      "告示(知县任上)",
+      "戏曲改编"
+    ],
+    "argumentation_patterns": [
+      "劝善惩恶",
+      "市井叙事",
+      "女性同情",
+      "官场讽刺"
+    ]
+  },
+  "audience_awareness": {
+    "to_chinese_readers": "市井生活共鸣+道德教化",
+    "to_women": "同情与反抗叙事",
+    "to_officials": "《禁溺女告示》",
+    "to_late_ming_society": "批判腐败+挽救明朝"
+  },
+  "sources_used": ["Wikipedia"]
+}

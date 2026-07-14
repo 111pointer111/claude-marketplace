@@ -1,0 +1,33 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "feng_meng_long",
+  "languages_used": ["中文(古白话)"],
+  "primary_language": "中文白话",
+  "sentence_structure": {
+    "短篇小说": "中等长度,叙事流畅",
+    "序跋": "中等长度,论辩性",
+    "告示": "短句命令式"
+  },
+  "rhetorical_devices": [
+    "劝善惩恶:道德评判",
+    "对比:真情 vs 薄幸",
+    "市井气息:白话叙事",
+    "女性视角:同情与反抗"
+  ],
+  "characteristic_vocabularies": [
+    "三言(喻世明言/警世通言/醒世恒言)",
+    "白话短篇小说",
+    "市井生活",
+    "青楼女子",
+    "小人物",
+    "劝善惩恶",
+    "寿宁知县",
+    "禁溺女"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "科举挫折后转向通俗文学"},
+    {"period": "成熟期", "description": "三言编纂,白话短篇小说集大成"},
+    {"period": "晚期", "description": "明清易代,明遗民立场"}
+  ],
+  "sources_used": ["Wikipedia", "中文文学常识补充"]
+}
