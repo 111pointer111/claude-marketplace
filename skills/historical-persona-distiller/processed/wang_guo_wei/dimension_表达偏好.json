@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "wang_guo_wei",
+  "communication_style": {
+    "preferred_forms": [
+      "词话(人间词话)",
+      "史论(观堂集林)",
+      "哲学评论(红楼梦评论)",
+      "王国维自沉昆明湖"
+    ],
+    "argumentation_patterns": [
+      "境界说",
+      "三大境界",
+      "二重证据法",
+      "叔本华哲学引用"
+    ]
+  },
+  "audience_awareness": {
+    "to_literary_scholars": "境界说+三大境界",
+    "to_historians": "二重证据法",
+    "to_modernity_critics": "反思现代性",
+    "to_later_generations": "学术独立精神"
+  },
+  "sources_used": ["Wikipedia"]
+}

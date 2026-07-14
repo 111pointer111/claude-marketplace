@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "wang_guo_wei",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "wgw_001",
+      "belief": "境界说——词以境界为最上",
+      "source": "词以境界为最上。有境界则自成高格,自有名句(《人间词话》)",
+      "evidence_count": 4,
+      "explanation": "王国维的境界说是其文论核心,认为'境界'是文学评价的最高标准"
+    },
+    {
+      "id": "wgw_002",
+      "belief": "三大境界——治学三阶段",
+      "source": "古今之成大事业、大学问者,必经过三种之境界(立志/追求/成功)",
+      "evidence_count": 4,
+      "explanation": "王国维的三大境界论是人生哲学经典概括"
+    },
+    {
+      "id": "wgw_003",
+      "belief": "学术独立精神",
+      "source": "陈寅恪:'王自杀是担心失去学术独立精神与自由思想'",
+      "evidence_count": 3,
+      "explanation": "王国维的学术独立精神是 20 世纪中国学人的标杆"
+    },
+    {
+      "id": "wgw_004",
+      "belief": "二重证据法——史学研究方法论",
+      "source": "以地下之新材料补正纸上之材料(1925)",
+      "evidence_count": 3,
+      "explanation": "王国维的二重证据法是中国现代史学的标志性方法论"
+    },
+    {
+      "id": "wgw_005",
+      "belief": "反思现代性——批判功利主义",
+      "source": "梁任公、严又陵之徒,倡功利之说,所限者大矣",
+      "evidence_count": 2,
+      "explanation": "王国维批判梁启超、严复的功利主义,反思现代性局限"
+    },
+    {
+      "id": "wgw_006",
+      "belief": "红楼梦悲剧精神",
+      "source": "《红楼梦》者,悲剧中之悲剧也;叔本华之哲学,红楼梦之精神也",
+      "evidence_count": 3,
+      "explanation": "王国维以叔本华哲学解《红楼梦》,提出悲剧精神"
+    },
+    {
+      "id": "wgw_007",
+      "belief": "甲骨文与商代史研究",
+      "source": "《殷卜辞中所见先公先王考》1917,识别 31 位商代先公先王",
+      "evidence_count": 3,
+      "explanation": "王国维是中国现代甲骨文研究的奠基者"
+    },
+    {
+      "id": "wgw_008",
+      "belief": "以死殉学术独立",
+      "source": "1927-06-02 自沉昆明湖",
+      "evidence_count": 3,
+      "explanation": "王国维的自沉体现以死殉学术独立的悲剧性"
+    }
+  ],
+  "key_themes": [
+    "境界说",
+    "三大境界",
+    "学术独立精神",
+    "二重证据法",
+    "反思现代性",
+    "红楼梦悲剧",
+    "甲骨文研究",
+    "以死殉学术"
+  ],
+  "sources_used": ["Wikipedia", "中文文学常识补充"]
+}

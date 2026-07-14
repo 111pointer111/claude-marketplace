@@ -1,0 +1,47 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "wang_guo_wei",
+  "political_orientation": {
+    "regime_form": "民国学者(效忠清室)",
+    "rule_style": "学术独立+现代性批判",
+    "legitimacy_basis": ["德国唯心主义", "叔本华哲学", "二重证据法", "甲骨文研究"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "效忠清室",
+      "view": "民国时期仍效忠被推翻的清帝",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "王国维自沉昆明湖",
+      "view": "殉清说/学术独立说/文化衰落说/个人悲剧说",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "批判梁启超、严复",
+      "view": "功利主义限制哲学思维",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "德国唯心主义(叔本华、康德)",
+    "日本学术(罗振玉)",
+    "甲骨文研究(王懿荣等)",
+    "中国古典文学"
+  ],
+  "intellectual_legacy": [
+    "《人间词话》境界说",
+    "二重证据法",
+    "甲骨文研究奠基",
+    "现代红学奠基",
+    "清华四大导师"
+  ],
+  "spectrum_placement": {
+    "centralization": "学术独立(无政治倾向)",
+    "tolerance": "境界说+哲学批评",
+    "religious_authority": "无明确宗教倾向",
+    "wealth": "学者生活",
+    "international": "20 世纪中国学术标杆"
+  },
+  "sources_used": ["Wikipedia"]
+}

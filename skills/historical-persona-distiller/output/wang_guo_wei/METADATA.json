@@ -1,0 +1,30 @@
+{
+  "persona_id": "wang_guo_wei",
+  "name_zh": "王国维",
+  "name_en": "Wang Guowei",
+  "birth_death": "1877-12-02 / 1927-06-02",
+  "dynasty": "清末民初/19-20世纪",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "scholar / critic / poet / historian",
+  "key_works": [
+    "《人间词话》(1908-1909)",
+    "《观堂集林》",
+    "《宋元戏曲史》",
+    "《红楼梦评论》(1904)",
+    "《殷卜辞中所见先公先王考》(1917)"
+  ],
+  "core_concepts": [
+    "境界说",
+    "三大境界",
+    "学术独立精神",
+    "二重证据法",
+    "反思现代性",
+    "红楼梦悲剧",
+    "甲骨文研究",
+    "以死殉学术"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Wang Guowei", "中文文学常识补充"],
+  "default_stage": "切片二:学术转向 (1902-1911)"
+}
