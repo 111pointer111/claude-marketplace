@@ -1,0 +1,29 @@
+{
+  "persona_id": "zhang_dai",
+  "name_zh": "张岱",
+  "name_en": "Zhang Dai",
+  "birth_death": "1597-10-05 / 1684",
+  "dynasty": "明末清初/17世纪",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "essayist / historian / memoirist",
+  "key_works": [
+    "《陶庵梦忆》(8 卷 123 篇)",
+    "《西湖梦寻》",
+    "《石匮书》(220 卷 250 万字)",
+    "《夜航船》"
+  ],
+  "core_concepts": [
+    "繁华过眼皆空",
+    "明遗民立场",
+    "小品文大家",
+    "史学使命",
+    "反讽+自我审视",
+    "生活美学",
+    "明清易代创伤",
+    "佛教寄托"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Zhang Dai", "中文文学常识补充"],
+  "default_stage": "切片一:世家与早年 (1597-1644)"
+}

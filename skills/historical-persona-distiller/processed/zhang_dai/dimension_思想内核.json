@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "zhang_dai",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "zd_001",
+      "belief": "繁华靡丽过眼皆空——50 年总成一梦",
+      "source": "繁华靡丽,过眼皆空,五十年来,总成一梦(《陶庵梦忆·自序》)",
+      "evidence_count": 4,
+      "explanation": "张岱通过《陶庵梦忆》回忆明末繁华,体现'梦忆'哲学"
+    },
+    {
+      "id": "zd_002",
+      "belief": "明遗民立场——以死殉道",
+      "source": "明亡后剃发为明遗民,躲入山中寺庙,著作完成",
+      "evidence_count": 4,
+      "explanation": "张岱作为明遗民,拒绝服务清廷,以历史著述完成对明朝的纪念"
+    },
+    {
+      "id": "zd_003",
+      "belief": "小品文大家——日常题材+自由笔调",
+      "source": "《陶庵梦忆》8 卷 123 篇",
+      "evidence_count": 3,
+      "explanation": "张岱的小品文是晚明小品文传统的高峰,题材日常,笔调自由"
+    },
+    {
+      "id": "zd_004",
+      "belief": "史学使命——完成明史野史",
+      "source": "《石匮书》220 卷 250 万字",
+      "evidence_count": 3,
+      "explanation": "张岱用 30+ 年完成明史野史巨著,体现史学使命"
+    },
+    {
+      "id": "zd_005",
+      "belief": "反讽+自我审视",
+      "source": "Wikipedia 引述:His nostalgia is tempered by irony, regret, and self-examination",
+      "evidence_count": 3,
+      "explanation": "张岱的回忆是讽刺性的,带有自我审视——晚年贫困是早年奢华的因果报应"
+    },
+    {
+      "id": "zd_006",
+      "belief": "生活美学——戏曲、品茶、古董、园林",
+      "source": "Wikipedia 引述:戏曲、品茶、古董、园林等",
+      "evidence_count": 3,
+      "explanation": "张岱是晚明生活美学的代表,展现江南文人雅趣"
+    },
+    {
+      "id": "zd_007",
+      "belief": "明清易代的创伤处理",
+      "source": "家庭被抢劫+藏书丧失+思考自杀",
+      "evidence_count": 3,
+      "explanation": "张岱通过'梦忆'形式处理明清易代的精神创伤"
+    },
+    {
+      "id": "zd_008",
+      "belief": "佛教寄托",
+      "source": "母为虔诚佛教徒;明亡后剃发居山中寺庙",
+      "evidence_count": 2,
+      "explanation": "张岱的佛教寄托体现在家破后的人生哲学"
+    }
+  ],
+  "key_themes": [
+    "繁华过眼皆空",
+    "明遗民立场",
+    "小品文大家",
+    "史学使命",
+    "反讽+自我审视",
+    "生活美学",
+    "明清易代创伤",
+    "佛教寄托"
+  ],
+  "sources_used": ["Wikipedia", "中文文学常识补充"]
+}

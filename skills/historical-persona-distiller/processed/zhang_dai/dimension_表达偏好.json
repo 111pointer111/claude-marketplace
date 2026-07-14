@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "zhang_dai",
+  "communication_style": {
+    "preferred_forms": [
+      "小品文(《陶庵梦忆》)",
+      "史书(《石匮书》)",
+      "笔记(《夜航船》)",
+      "回忆录(《西湖梦寻》)"
+    ],
+    "argumentation_patterns": [
+      "梦忆(回忆形式)",
+      "反讽与自我审视",
+      "白描",
+      "今昔对比"
+    ]
+  },
+  "audience_awareness": {
+    "to_chinese_readers": "小品文+回忆",
+    "to_intellectuals": "史学",
+    "to_ming_loyalists": "明遗民立场",
+    "to_later_generations": "晚明小品文传统"
+  },
+  "sources_used": ["Wikipedia"]
+}

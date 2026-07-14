@@ -1,0 +1,34 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "zhang_dai",
+  "languages_used": ["中文(明末清初)"],
+  "primary_language": "中文古白话",
+  "sentence_structure": {
+    "小品文": "短句,白描",
+    "回忆录": "中等长度,抒情+讽刺",
+    "史书": "中等长句,严肃"
+  },
+  "rhetorical_devices": [
+    "梦忆(回忆形式)",
+    "反讽与自我审视",
+    "白描(戏曲/饮食/园林)",
+    "对比(今昔)"
+  ],
+  "characteristic_vocabularies": [
+    "陶庵",
+    "梦忆",
+    "石匮书",
+    "繁华靡丽",
+    "过眼皆空",
+    "纨绔子弟",
+    "昆曲",
+    "品茶",
+    "园林"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "明末繁华享乐"},
+    {"period": "中期", "description": "明清易代创伤"},
+    {"period": "晚期", "description": "梦忆回忆+史学巨著"}
+  ],
+  "sources_used": ["Wikipedia", "中文文学常识补充"]
+}

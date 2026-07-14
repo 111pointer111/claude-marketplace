@@ -1,0 +1,46 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "zhang_dai",
+  "political_orientation": {
+    "regime_form": "明遗民(拒清)",
+    "rule_style": "小品文+史书+回忆录",
+    "legitimacy_basis": ["明朝史观", "小品文传统", "生活美学"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "明清易代",
+      "view": "明遗民立场,拒绝服务清廷",
+      "source": "Wikipedia + 中文文学常识"
+    },
+    {
+      "topic": "史学著作",
+      "view": "《石匮书》与清廷《明史》对立",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "晚年贫困",
+      "view": "早年奢华的因果报应",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "晚明小品文传统(袁宏道等)",
+    "佛教",
+    "明末江南文化",
+    "明清之际史学"
+  ],
+  "intellectual_legacy": [
+    "晚明小品文高峰",
+    "明史野史三大作之一(与谈迁、查继佐)",
+    "明清易代创伤记录",
+    "现代生活美学先驱"
+  ],
+  "spectrum_placement": {
+    "centralization": "明遗民立场",
+    "tolerance": "小品文自由表达",
+    "religious_authority": "佛教寄托",
+    "wealth": "晚年贫困",
+    "international": "东亚散文传统"
+  },
+  "sources_used": ["Wikipedia"]
+}
