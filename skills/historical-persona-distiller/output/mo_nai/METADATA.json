@@ -1,0 +1,32 @@
+{
+  "persona_id": "mo_nai",
+  "name_zh": "莫奈",
+  "name_en": "Claude Monet",
+  "birth_death": "1840-11-14 / 1926-12-05",
+  "dynasty": "19-20世纪法国",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "painter / impressionist",
+  "key_works": [
+    "《印象·日出》(1872)",
+    "《睡莲》系列(1899-1926,250+ 幅)",
+    "《草垛》系列(1890-91,25+ 幅)",
+    "《鲁昂大教堂》系列(1892-94,30+ 幅)",
+    "《查令十字桥》系列(1899-1901,34 幅)",
+    "《滑铁卢桥》系列(41 幅)",
+    "《议会大厦》系列(19 幅)"
+  ],
+  "core_concepts": [
+    "印象派光影捕捉",
+    "系列画方法",
+    "户外画法(en plein air)",
+    "我的花园是我最美的杰作",
+    "追随自然但无法抓住",
+    "自动反射观察",
+    "我爱伦敦的雾",
+    "印象派革命"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Claude Monet", "西方艺术常识补充"],
+  "default_stage": "切片四:睡莲 (1899-1926)"
+}

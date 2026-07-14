@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "mo_nai",
+  "communication_style": {
+    "preferred_forms": [
+      "印象派绘画",
+      "系列画(草垛+鲁昂+睡莲)",
+      "信件",
+      "简短画论"
+    ],
+    "argumentation_patterns": [
+      "印象派光影捕捉",
+      "系列画方法",
+      "颜色词汇丰富",
+      "自动反射观察"
+    ]
+  },
+  "audience_awareness": {
+    "to_art_critics": "印象派革命",
+    "to_dealers": "印象派市场",
+    "to_other_artists": "印象派合作",
+    "to_public": "印象派大众化"
+  },
+  "sources_used": ["Wikipedia"]
+}

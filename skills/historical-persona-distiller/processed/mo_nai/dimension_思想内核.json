@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "mo_nai",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "mon_001",
+      "belief": "印象派光影捕捉——瞬间的真实",
+      "source": "I want to paint the air in which the bridge, the house, the boat stand",
+      "evidence_count": 4,
+      "explanation": "莫奈的印象派核心:捕捉空气与光线"
+    },
+    {
+      "id": "mon_002",
+      "belief": "系列画方法——同一对象的多面性",
+      "source": "草垛+鲁昂+睡莲系列",
+      "evidence_count": 3,
+      "explanation": "莫奈的系列画方法是印象派"瞬间性"的极致"
+    },
+    {
+      "id": "mon_003",
+      "belief": "户外画法——en plein air",
+      "source": "师从 Boudin 学习户外画法",
+      "evidence_count": 3,
+      "explanation": "莫奈的印象派技法核心"
+    },
+    {
+      "id": "mon_004",
+      "belief": "我的花园是我最美的杰作",
+      "source": "My garden is my most beautiful masterpiece",
+      "evidence_count": 2,
+      "explanation": "莫奈的花园哲学:Giverny 是 27 年艺术实验"
+    },
+    {
+      "id": "mon_005",
+      "belief": "追随自然但无法抓住",
+      "source": "I am following nature without quite being able to grasp it",
+      "evidence_count": 2,
+      "explanation": "莫奈对自然谦卑"
+    },
+    {
+      "id": "mon_006",
+      "belief": "自动反射观察颜色",
+      "source": "I one day found myself looking at my beloved wife's dead face and just systematically noting the colours",
+      "evidence_count": 2,
+      "explanation": "莫奈对妻子死亡的反应——艺术家 vs 人的张力"
+    },
+    {
+      "id": "mon_007",
+      "belief": "我爱伦敦的雾",
+      "source": "I so love London! But I love it only in winter, for without the fog London wouldn't be a beautiful city",
+      "evidence_count": 2,
+      "explanation": "莫奈对伦敦雾的欣赏"
+    },
+    {
+      "id": "mon_008",
+      "belief": "印象派革命",
+      "source": "1874 首届印象派展览命名画派",
+      "evidence_count": 3,
+      "explanation": "莫奈的《印象·日出》命名印象派"
+    }
+  ],
+  "key_themes": [
+    "印象派光影捕捉",
+    "系列画方法",
+    "户外画法(en plein air)",
+    "我的花园是我最美的杰作",
+    "追随自然",
+    "自动反射观察",
+    "我爱伦敦的雾",
+    "印象派革命"
+  ],
+  "sources_used": ["Wikipedia", "西方艺术常识补充"]
+}

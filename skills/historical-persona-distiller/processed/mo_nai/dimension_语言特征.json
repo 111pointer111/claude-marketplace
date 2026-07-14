@@ -1,0 +1,33 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "mo_nai",
+  "languages_used": ["法语(母语)"],
+  "primary_language": "法语",
+  "sentence_structure": {
+    "信件": "中等长度,简洁",
+    "画论": "短句,观察性",
+    "格言": "极短,感性"
+  },
+  "rhetorical_devices": [
+    "印象派光影捕捉",
+    "系列画方法",
+    "颜色词汇丰富",
+    "自动反射观察"
+  ],
+  "characteristic_vocabularies": [
+    "Impressionism(印象派)",
+    "Impression Sunrise(印象日出)",
+    "Water Lilies(睡莲)",
+    "Haystacks(草垛)",
+    "Rouen Cathedral(鲁昂大教堂)",
+    "En plein air(户外画)",
+    "Giverny(吉维尼)",
+    "Series painting(系列画)"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "印象·日出(1872)+ 1874 展览"},
+    {"period": "中期", "description": "系列画(草垛+鲁昂大教堂)"},
+    {"period": "晚期", "description": "睡莲+抽象化"}
+  ],
+  "sources_used": ["Wikipedia", "西方艺术常识补充"]
+}

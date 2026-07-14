@@ -1,0 +1,48 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "mo_nai",
+  "political_orientation": {
+    "regime_form": "19-20世纪法国印象派画家",
+    "rule_style": "印象派+系列画+户外",
+    "legitimacy_basis": ["印象派革命", "系列画方法", "Giverny 花园"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "印象派的市场",
+      "view": "早期印象派不受市场认可,后期成功",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "Camille 死亡反应",
+      "view": "画家对妻子死亡'自动反射'记录颜色",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "晚年失明",
+      "view": "1912 几乎双目失明仍坚持作画",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "Eugène Boudin(户外画法)",
+    "Charles Gleyre(巴黎画室)",
+    "Pierre-Auguste Renoir(印象派同伴)",
+    "Alfred Sisley(印象派同伴)",
+    "Frédéric Bazille(印象派同伴)"
+  ],
+  "intellectual_legacy": [
+    "印象派革命",
+    "《印象·日出》",
+    "睡莲系列",
+    "现代艺术先驱",
+    "Giverny 花园"
+  ],
+  "spectrum_placement": {
+    "centralization": "印象派革命",
+    "tolerance": "光影捕捉",
+    "religious_authority": "无明确宗教倾向",
+    "wealth": "晚年富有(《睡莲》市场成功)",
+    "international": "全球艺术影响"
+  },
+  "sources_used": ["Wikipedia"]
+}
