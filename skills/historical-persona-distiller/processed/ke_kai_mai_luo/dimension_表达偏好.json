@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "ke_kai_mai_luo",
+  "communication_style": {
+    "preferred_forms": [
+      "十四行诗(诗作)",
+      "雕塑/绘画(艺术)",
+      "建筑(圣彼得穹顶)",
+      "客户书信(简短)"
+    ],
+    "argumentation_patterns": [
+      "terribilità 风格",
+      "信仰+艺术融合",
+      "终身学习",
+      "每块大理石里有一座雕像"
+    ]
+  },
+  "audience_awareness": {
+    "to_popes": "艺术委托",
+    "to_citizens_of_florence": "佛罗伦萨自由(大卫)",
+    "to_lovers": "十四行诗",
+    "to_post_humous_world": "我仍在学习"
+  },
+  "sources_used": ["Wikipedia"]
+}

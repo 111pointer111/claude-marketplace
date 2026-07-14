@@ -1,0 +1,32 @@
+{
+  "persona_id": "ke_kai_mai_luo",
+  "name_zh": "米开朗基罗",
+  "name_en": "Michelangelo Buonarroti",
+  "birth_death": "1475-03-06 / 1564-02-18",
+  "dynasty": "15-16世纪意大利文艺复兴",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "sculptor / painter / architect / poet",
+  "key_works": [
+    "《圣母怜子》(1498-99)",
+    "《大卫》(1501-04)",
+    "《摩西》(1513-15)",
+    "西斯廷天顶画(1508-12)",
+    "《最后的审判》(1534-41)",
+    "圣彼得大教堂穹顶(1547-64)",
+    "300+ 首十四行诗与抒情诗"
+  ],
+  "core_concepts": [
+    "Ancora imparo(我仍在学习)",
+    "大理石里有雕像",
+    "信仰与艺术结合(晚年)",
+    "Terribilità 力量",
+    "人体的神圣性",
+    "严谨与延期",
+    "诗与雕塑同等",
+    "晚年天主教信仰"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Michelangelo", "西方文艺复兴常识补充"],
+  "default_stage": "切片四:罗马晚期 (1534-1546)"
+}

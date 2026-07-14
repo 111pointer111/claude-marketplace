@@ -1,0 +1,47 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "ke_kai_mai_luo",
+  "political_orientation": {
+    "regime_form": "15-16世纪意大利艺术家",
+    "rule_style": "terribilità+终身学习",
+    "legitimacy_basis": ["艺术作品", "教皇委托", "建筑成就"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "为教皇服务",
+      "view": "接受多个教皇委托,包括争议性委托",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "同性恋倾向",
+      "view": "60+ 首致男性爱情诗",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "佛罗伦萨反叛",
+      "view": "1527-30 反抗美第奇与教皇,1530 被判处死刑",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "Lorenzo de' Medici 学院",
+    "Marsilio Ficino(新柏拉图)",
+    "Pico della Mirandola(人本主义)",
+    "Savonarola(1497 火焰虚荣)"
+  ],
+  "intellectual_legacy": [
+    "文艺复兴雕塑巅峰",
+    "西斯廷天顶画",
+    "圣彼得大教堂穹顶",
+    "300+ 首十四行诗",
+    "现代艺术影响"
+  ],
+  "spectrum_placement": {
+    "centralization": "terribilità 力量",
+    "tolerance": "晚年信仰",
+    "religious_authority": "Secular 方济各会",
+    "wealth": "5 万金杜卡特(财富但简朴生活)",
+    "international": "全球艺术影响"
+  },
+  "sources_used": ["Wikipedia"]
+}

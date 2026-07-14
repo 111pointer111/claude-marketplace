@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "ke_kai_mai_luo",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "mc_001",
+      "belief": "I am still learning — Ancora imparo",
+      "source": "Reportedly said at age 87",
+      "evidence_count": 4,
+      "explanation": "米开朗基罗终身学习的核心哲学"
+    },
+    {
+      "id": "mc_002",
+      "belief": "大理石里有雕像,雕塑家任务是去发现",
+      "source": "Every block of marble has a statue inside it",
+      "evidence_count": 4,
+      "explanation": "米开朗基罗的雕塑哲学"
+    },
+    {
+      "id": "mc_003",
+      "belief": "信仰与艺术结合",
+      "source": "Neither painting nor sculpture will be able any longer to calm my soul (第 285 首诗)",
+      "evidence_count": 3,
+      "explanation": "米开朗基罗晚年艺术转向信仰"
+    },
+    {
+      "id": "mc_004",
+      "belief": "Terribilità — 令人敬畏的力量",
+      "source": "Moses、Last Judgment 等的雄浑力量",
+      "evidence_count": 3,
+      "explanation": "米开朗基罗风格的可怕力量"
+    },
+    {
+      "id": "mc_005",
+      "belief": "人体的神圣性——维特鲁威人式理想",
+      "source": "terribilità + 裸体西斯廷",
+      "evidence_count": 3,
+      "explanation": "米开朗基罗的人体艺术哲学"
+    },
+    {
+      "id": "mc_006",
+      "belief": "严谨与延期",
+      "source": "1505-45 儒略二世墓 40 年才完成",
+      "evidence_count": 2,
+      "explanation": "米开朗基罗艺术严谨但延期"
+    },
+    {
+      "id": "mc_007",
+      "belief": "诗与雕塑同等重要",
+      "source": "300+ 首十四行诗与抒情诗",
+      "evidence_count": 2,
+      "explanation": "米开朗基罗也是诗人,艺术三足鼎立"
+    },
+    {
+      "id": "mc_008",
+      "belief": "晚年转向天主教信仰",
+      "source": "Secular 方济各会,作品转向信仰",
+      "evidence_count": 2,
+      "explanation": "米开朗基罗晚年艺术与信仰融合"
+    }
+  ],
+  "key_themes": [
+    "我仍在学习(Ancora imparo)",
+    "大理石里有雕像",
+    "信仰与艺术结合",
+    "Terribilità",
+    "人体的神圣性",
+    "严谨与延期",
+    "诗与雕塑同等",
+    "晚年天主教信仰"
+  ],
+  "sources_used": ["Wikipedia", "西方文艺复兴常识补充"]
+}

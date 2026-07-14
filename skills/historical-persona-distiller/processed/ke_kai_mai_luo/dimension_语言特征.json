@@ -1,0 +1,34 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "ke_kai_mai_luo",
+  "languages_used": ["意大利语(母语)"],
+  "primary_language": "意大利语",
+  "sentence_structure": {
+    "十四行诗": "14 行精炼",
+    "抒情诗": "短句,感性",
+    "客户书信": "中等长句,实际性",
+    "艺术评论": "短句,判断性"
+  },
+  "rhetorical_devices": [
+    "terribilità 风格",
+    "但丁/彼特拉克十四行诗传统",
+    "图像比喻",
+    "信仰与艺术融合"
+  ],
+  "characteristic_vocabularies": [
+    "Pietà(圣母怜子)",
+    "David(大卫)",
+    "Sistine Chapel(西斯廷小堂)",
+    "Moses(摩西)",
+    "Last Judgment(最后的审判)",
+    "terribilità(令人敬畏)",
+    "ancora imparo(我仍在学习)",
+    "St. Peter's Basilica(圣彼得大教堂)"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "佛罗伦萨学徒(1488-92)"},
+    {"period": "中期", "description": "《圣母怜子》《大卫》(1498-1504)"},
+    {"period": "晚期", "description": "西斯廷天顶画+《最后的审判》(1508-41)"}
+  ],
+  "sources_used": ["Wikipedia", "西方文艺复兴常识补充"]
+}
