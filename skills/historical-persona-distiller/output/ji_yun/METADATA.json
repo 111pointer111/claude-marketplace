@@ -1,0 +1,28 @@
+{
+  "persona_id": "ji_yun",
+  "name_zh": "纪昀(纪晓岚)",
+  "name_en": "Ji Yun (Ji Xiaolan)",
+  "birth_death": "1724-07-26 / 1805-03-14",
+  "dynasty": "清代/18世纪",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "scholar-official / editor / writer",
+  "key_works": [
+    "《阅微草堂笔记》(24 卷,1800)",
+    "《四库全书》总纂",
+    "《乌鲁木齐杂诗》"
+  ],
+  "core_concepts": [
+    "反程朱理学",
+    "鬼神存而不论",
+    "怀疑精神",
+    "文化保存",
+    "学者隐逸",
+    "清代三大志怪",
+    "学术与政治张力",
+    "志怪讽刺"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Ji Yun", "中文文学常识补充"],
+  "default_stage": "切片三:四库全书总纂 (1773-1782)"
+}

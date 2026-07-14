@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "ji_yun",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "jyun_001",
+      "belief": "对程朱理学的批判",
+      "source": "宋儒讥汉儒讲学,流于释老;宋儒讲学,亦未尝不流入释老",
+      "evidence_count": 3,
+      "explanation": "纪昀《阅微草堂笔记》多处讽刺程朱理学虚伪,与李贽、汤显祖一脉相承"
+    },
+    {
+      "id": "jyun_002",
+      "belief": "鬼神存而不论",
+      "source": "神鬼之说,圣人言之;然其理不可穷",
+      "evidence_count": 2,
+      "explanation": "纪昀笔记含大量鬼神故事,但他本人持'存而不论'立场"
+    },
+    {
+      "id": "jyun_003",
+      "belief": "怀疑精神",
+      "source": "今人引述古事说'某某当时所见,不足为据',但当时所见,他不之信,今人怎么反而信之?",
+      "evidence_count": 2,
+      "explanation": "纪昀的怀疑精神挑战盲目信古"
+    },
+    {
+      "id": "jyun_004",
+      "belief": "文化保存使命",
+      "source": "《四库全书》总纂 10 年",
+      "evidence_count": 3,
+      "explanation": "纪昀在文字狱背景下,主持中国最大文化工程"
+    },
+    {
+      "id": "jyun_005",
+      "belief": "学者隐逸",
+      "source": "流放新疆+阅微草堂笔记隐喻",
+      "evidence_count": 2,
+      "explanation": "纪昀在乾隆朝文字狱压抑下,选择学者笔记体隐喻"
+    },
+    {
+      "id": "jyun_006",
+      "belief": "与蒲松龄、袁枚齐名",
+      "source": "清代三大志怪小说家",
+      "evidence_count": 2,
+      "explanation": "纪昀与蒲松龄、袁枚并列清代三大志怪小说家"
+    },
+    {
+      "id": "jyun_007",
+      "belief": "学术与政治的张力",
+      "source": "流放新疆后回京+四库全书工作",
+      "evidence_count": 2,
+      "explanation": "纪昀经历学术与政治的张力,流放后仍主持文化工程"
+    },
+    {
+      "id": "jyun_008",
+      "belief": "志怪笔法讽刺现实",
+      "source": "《阅微草堂笔记》含讽刺士大夫虚伪段落",
+      "evidence_count": 3,
+      "explanation": "纪昀的志怪笔法隐喻现实批判"
+    }
+  ],
+  "key_themes": [
+    "反程朱理学",
+    "鬼神存而不论",
+    "怀疑精神",
+    "文化保存使命",
+    "学者隐逸",
+    "清代三大志怪",
+    "学术与政治张力",
+    "志怪笔法"
+  ],
+  "sources_used": ["Wikipedia", "中文文学常识补充"]
+}

@@ -1,0 +1,33 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "ji_yun",
+  "languages_used": ["中文(清代古文)"],
+  "primary_language": "中文古文",
+  "sentence_structure": {
+    "笔记": "短句叙事+议论",
+    "诗作": "七律等格律",
+    "四库提要": "中等长度,学术性"
+  },
+  "rhetorical_devices": [
+    "志怪笔法",
+    "反讽(对程朱理学)",
+    "怀疑论",
+    "议论嵌入叙事"
+  ],
+  "characteristic_vocabularies": [
+    "阅微草堂笔记",
+    "四库全书",
+    "解元",
+    "翰林院",
+    "志怪",
+    "狐仙",
+    "鬼神",
+    "理学"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "翰林院学术"},
+    {"period": "中期", "description": "四库全书总纂"},
+    {"period": "晚期", "description": "阅微草堂笔记创作"}
+  ],
+  "sources_used": ["Wikipedia", "中文文学常识补充"]
+}

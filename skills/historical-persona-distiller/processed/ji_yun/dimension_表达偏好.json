@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "ji_yun",
+  "communication_style": {
+    "preferred_forms": [
+      "笔记体短篇",
+      "诗作",
+      "四库全书提要",
+      "志怪笔法"
+    ],
+    "argumentation_patterns": [
+      "反讽(对程朱理学)",
+      "怀疑论",
+      "学者隐逸",
+      "志怪隐喻现实"
+    ]
+  },
+  "audience_awareness": {
+    "to_chinese_readers": "笔记体+志怪笔法",
+    "to_intellectuals": "学者隐逸",
+    "to_scholars": "怀疑论",
+    "to_later_generations": "清代三大志怪"
+  },
+  "sources_used": ["Wikipedia"]
+}

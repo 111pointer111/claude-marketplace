@@ -1,0 +1,46 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "ji_yun",
+  "political_orientation": {
+    "regime_form": "乾隆朝高级官员",
+    "rule_style": "学者笔记+四库总纂",
+    "legitimacy_basis": ["科举功名", "四库全书", "学术传统"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "程朱理学",
+      "view": "批判其虚伪,讽刺表面理学家",
+      "source": "Wikipedia + 中文文学常识"
+    },
+    {
+      "topic": "文字狱",
+      "view": "纪昀流放后仍参与四库全书工作,这一悖论",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "流放新疆",
+      "view": "因向姻亲通风报信被流放",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "乾嘉学派",
+    "纪昀本人的怀疑论",
+    "《四库全书》总纂",
+    "笔记体传统"
+  ],
+  "intellectual_legacy": [
+    "清代三大志怪之一",
+    "《四库全书》总纂",
+    "《阅微草堂笔记》",
+    "乾嘉学派代表"
+  ],
+  "spectrum_placement": {
+    "centralization": "支持乾隆朝",
+    "tolerance": "鬼神存而不论+志怪宽容",
+    "religious_authority": "批判程朱理学",
+    "wealth": "高官",
+    "international": "东亚文学传统"
+  },
+  "sources_used": ["Wikipedia"]
+}
