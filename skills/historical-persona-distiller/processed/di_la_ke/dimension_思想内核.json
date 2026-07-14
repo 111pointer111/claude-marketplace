@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "di_la_ke",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "dr_001",
+      "belief": "狄拉克方程——相对论+量子力学+反物质",
+      "source": "1928 狄拉克方程",
+      "evidence_count": 4,
+      "explanation": "狄拉克方程是 20 世纪物理学最重要的结果之一,预言反物质"
+    },
+    {
+      "id": "dr_002",
+      "belief": "物理定律应具有数学美",
+      "source": "Physical laws should have mathematical beauty (1956 莫斯科)",
+      "evidence_count": 4,
+      "explanation": "狄拉克的数学美论是其物理学方法论核心"
+    },
+    {
+      "id": "dr_003",
+      "belief": "反物质——方程的负能解",
+      "source": "1930 狄拉克方程的反物质预言",
+      "evidence_count": 3,
+      "explanation": "狄拉克方程预言反物质,1932 实验证实"
+    },
+    {
+      "id": "dr_004",
+      "belief": "反对重正化——数学美的坚持",
+      "source": "Sensible mathematics involves neglecting a quantity when it is small – not neglecting it just because it is infinitely great",
+      "evidence_count": 3,
+      "explanation": "狄拉克的数学美立场使其反对重正化"
+    },
+    {
+      "id": "dr_005",
+      "belief": "沉默寡言——1 字/小时",
+      "source": "I was taught at school never to start a sentence without knowing the end of it",
+      "evidence_count": 2,
+      "explanation": "狄拉克的沉默是家庭影响 + 数学精确性"
+    },
+    {
+      "id": "dr_006",
+      "belief": "费米-狄拉克统计",
+      "source": "1926 与费米共同提出",
+      "evidence_count": 2,
+      "explanation": "费米-狄拉克统计描述费米子"
+    },
+    {
+      "id": "dr_007",
+      "belief": "量子电动力学——创造该领域",
+      "source": "coined the term and founded the field",
+      "evidence_count": 2,
+      "explanation": "狄拉克创造 QED 与术语"
+    },
+    {
+      "id": "dr_008",
+      "belief": "创造"费米子"与"玻色子"术语",
+      "source": "Coined the terms 'fermion' and 'boson'",
+      "evidence_count": 2,
+      "explanation": "狄拉克的术语创造影响粒子物理"
+    }
+  ],
+  "key_themes": [
+    "狄拉克方程(反物质)",
+    "物理定律的数学美",
+    "反物质预言",
+    "反对重正化",
+    "沉默寡言",
+    "费米-狄拉克统计",
+    "量子电动力学",
+    "费米子/玻色子术语"
+  ],
+  "sources_used": ["Wikipedia", "西方科学常识补充"]
+}

@@ -1,0 +1,68 @@
+# 狄拉克直接引语
+
+> 来源: Wikipedia + 公开西方科学常识
+> 抓取日期: 2026-07-13
+
+---
+
+## 狄拉克方程(1928)
+
+> $$(i\hbar\gamma^\mu\partial_\mu - mc)\psi = 0$$
+
+> 方程刻于威斯敏斯特教堂纪念牌
+
+## 物理定律的数学美
+
+> "Physical laws should have mathematical beauty."
+> 中文大意: 物理定律应具有数学美。
+> 1956 写于莫斯科大学黑板,至今未被擦除
+
+## 关于方程
+
+> "I was taught at school never to start a sentence without knowing the end of it."
+
+> 中文大意: 我在学校学到的:永远不要在不知道结尾时开始一句话——狄拉克沉默寡言的著名自评。
+
+## 关于重正化
+
+> "Sensible mathematics involves neglecting a quantity when it is small – not neglecting it just because it is infinitely great."
+
+> 中文大意: 健全的数学包括在量小时忽略它——而不是因为它无限大就忽略它。
+
+## 与费曼的对话
+
+> "I have an equation. Do you have one too?"
+
+> 中文大意: 我有一个方程,你也有吗?
+
+## 泡利的玩笑
+
+> "There is no God, and Paul Dirac is His prophet."
+
+> 中文大意: 没有上帝,Paul Dirac 是他的先知——泡利评。
+
+## 关于反物质预测
+
+> "It is more important to have beauty in one's equations than to have them fit experiment."
+
+> 中文大意: 方程的美比符合实验更重要——狄拉克论数学美。
+
+## 最后的论文(1984)
+
+> "I shall continue to work on it as long as I can and other people, I hope, will follow along such lines."
+
+> 中文大意: 我会继续工作,只要我还能,而我希望其他人会沿着这些方向继续。
+
+## 关于量子力学
+
+> "I think the picture of physical reality that quantum theory gives us is quite incompatible with that of classical physics... we have to give up the idea of a continuous path for the electron."
+
+> 中文大意: 我认为量子理论给出的物理实在图景与经典物理学完全不相容...我们必须放弃电子具有连续路径的观念。
+
+---
+
+## 引语使用注意
+
+1. Wikipedia 1 源,引语整理基于公开西方科学常识
+2. "Physical laws should have mathematical beauty" 是狄拉克最著名名言
+3. 沉默寡言是狄拉克核心特征(影响其引语风格)

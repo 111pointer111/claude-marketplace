@@ -1,0 +1,33 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "di_la_ke",
+  "languages_used": ["英语(学术)", "法语(童年)"],
+  "primary_language": "英语",
+  "sentence_structure": {
+    "物理学论文": "中等长句,数学论证",
+    "黑板板书": "极短(数学美)",
+    "日常": "极短(沉默寡言)"
+  },
+  "rhetorical_devices": [
+    "数学美论证",
+    "沉默寡言(1 字/小时)",
+    "陈述句精确",
+    "不参与辩论"
+  ],
+  "characteristic_vocabularies": [
+    "Dirac equation(狄拉克方程)",
+    "Antimatter(反物质)",
+    "Positron(正电子)",
+    "Spinor(旋量)",
+    "Bra-ket notation(左矢右矢)",
+    "Mathematical beauty(数学美)",
+    "Renormalisation(重正化)",
+    "Magnetic monopole(磁单极子)"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "博士论文+狄拉克方程(1926-28)"},
+    {"period": "中期", "description": "量子电动力学(1933-39)"},
+    {"period": "晚期", "description": "哲学反思+数学美(1956+)"}
+  ],
+  "sources_used": ["Wikipedia", "西方科学常识补充"]
+}

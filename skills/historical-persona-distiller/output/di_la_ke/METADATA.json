@@ -1,0 +1,29 @@
+{
+  "persona_id": "di_la_ke",
+  "name_zh": "狄拉克",
+  "name_en": "Paul Dirac",
+  "birth_death": "1902-08-08 / 1984-10-20",
+  "dynasty": "20世纪英国",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "physicist / mathematician",
+  "key_works": [
+    "1928 狄拉克方程论文",
+    "1930 《量子力学原理》",
+    "1931 磁单极子论文",
+    "1984 《量子场论的不足》"
+  ],
+  "core_concepts": [
+    "狄拉克方程(反物质)",
+    "物理定律的数学美",
+    "反物质预言",
+    "反对重正化",
+    "沉默寡言",
+    "费米-狄拉克统计",
+    "量子电动力学",
+    "费米子/玻色子术语"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Paul Dirac", "西方科学常识补充"],
+  "default_stage": "切片二:狄拉克方程 (1928-1933)"
+}

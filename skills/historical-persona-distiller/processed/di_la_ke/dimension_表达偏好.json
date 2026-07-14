@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "di_la_ke",
+  "communication_style": {
+    "preferred_forms": [
+      "物理学论文(精确陈述句)",
+      "黑板板书(极短)",
+      "专著《量子力学原理》",
+      "沉默(不参与辩论)"
+    ],
+    "argumentation_patterns": [
+      "数学美论证",
+      "反物质方程预测",
+      "数学反对重正化",
+      "沉默寡言"
+    ]
+  },
+  "audience_awareness": {
+    "to_physicists": "方程+数学美",
+    "to_philosophers": "数学美论",
+    "to_anti_renormalisation": "反重正化",
+    "to_silence": "沉默是金"
+  },
+  "sources_used": ["Wikipedia"]
+}

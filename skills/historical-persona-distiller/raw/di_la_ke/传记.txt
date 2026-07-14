@@ -1,0 +1,166 @@
+# 狄拉克 - 传记
+
+> 来源: Wikipedia (https://en.wikipedia.org/wiki/Paul_Dirac)
+> 抓取日期: 2026-07-13
+
+---
+
+## 基本信息
+
+**全名:** Paul Adrien Maurice Dirac
+**生卒:** 1902-08-08(布里斯托尔) — 1984-10-20(塔拉哈西,佛州),享年 82 岁
+**身份:** 英国理论物理学家
+**主要成就:** 狄拉克方程(预言反物质),1933 年诺贝尔物理学奖
+
+## 一、家世与早年
+
+- 父 Charles Adrien Ladislas Dirac 瑞士法裔,法文教师,严格专制
+- 母 Florence Hannah Holten 英格兰康沃尔郡,卫理公会家庭
+- 家中强制说法语,Dirac 因法语不佳选择沉默——形成著名沉默寡言性格
+- 兄弟姐妹: 姐 Béatrice (Betty),哥 Reginald (Felix)
+- 1925-03 Reginald 自杀(家庭悲剧)
+- 1919-10-22 全家归化为英国公民
+
+## 二、教育
+
+- Bishop Road Primary School(同学包括演员 Cary Grant)
+- Merchant Venturers' Technical College(后 Cotham School)
+- 1921 布里斯托尔大学电气工程 BSc(一等荣誉)
+- 1923 布里斯托尔大学数学 BA(一等荣誉)
+- 1926-06 剑桥 St John's College 博士论文(导师 Ralph Fowler)——**量子力学第一篇博士论文**
+- 1925-28 1851 年研究奖学金
+
+## 三、狄拉克方程(1928)
+
+1928 提出电子波函数的相对论性运动方程——**物理学最重要结果之一**:
+- 结合狭义相对论与量子力学
+- **预言反物质(正电子)**——1932 Carl Anderson 实验证实
+- 被誉为"现代物理学的真正种子"
+
+方程刻于威斯敏斯特教堂他的纪念牌上。
+
+## 四、其他贡献
+
+- **费米-狄拉克统计**(与费米)——描述费米子行为
+- **量子电动力学(QED)**——创造并奠基该领域
+- **量子场论**——粒子物理学的理论框架
+- **磁单极子**(1931)——解释电荷量子化
+- **狄拉克 δ 函数**、**狄拉克代数**、**狄拉克算符**、**左矢右矢(bra-ket)**
+- 创造"费米子"与"玻色子"术语
+- 二战气体离心铀浓缩(英国 Tube Alloys)
+- 致力于调和广义相对论与量子力学
+
+1930 专著《量子力学原理》(*The Principles of Quantum Mechanics*)至今是基础教材。
+
+> "I was taught at school never to start a sentence without knowing the end of it."
+
+> 中文大意: 我在学校学到的:永远不要在不知道结尾时开始一句话——狄拉克沉默寡言的著名自评。
+
+## 五、物理学哲学
+
+1956 在莫斯科大学黑板书写(至今未被擦除):
+> **"Physical laws should have mathematical beauty."**
+
+> 中文大意: 物理定律应具有数学美。
+
+从未接受重正化:
+> "Sensible mathematics involves neglecting a quantity when it is small – not neglecting it just because it is infinitely great."
+
+> 中文大意: 健全的数学包括在量小时忽略它——而不是因为它无限大就忽略它。
+
+## 六、个人生活
+
+1937 娶 Margit "Manci" Wigner(物理学家 Eugene Wigner 之姐,离婚)。生 2 女 Mary Elizabeth、Florence Monica,Dirac 抚养 Manci 与前夫之女 Judith、子 Gabriel。
+
+同事戏称 "dirac" 为每小时 1 字(沉默寡言)。
+
+**与费曼的著名对话:**
+> "I have an equation. Do you have one too?"
+
+> 中文大意: 我有一个方程,你也有吗?
+
+**泡利的著名玩笑:**
+> "There is no God, and Paul Dirac is His prophet."
+
+> 中文大意: 没有上帝,Paul Dirac 是他的先知。
+
+## 七、职业生涯与荣誉
+
+- **Lucasian 数学教授**(剑桥,1932-1969)——牛顿的座位
+- **1933 诺贝尔物理学奖**(与薛定谔共得) "for the discovery of new productive forms of atomic theory"
+- 1930 Fellow of the Royal Society
+- 1939 Royal Medal
+- 1952 Copley Medal、Max Planck Medal
+- 1969 Oppenheimer Memorial Prize
+- Landau 对数物理学家等级:**1**(最高)
+
+**霍金评:**
+> "Dirac has done more than anyone this century, with the exception of Einstein, to advance physics and change our picture of the universe."
+
+## 八、晚年与去世(1969-1984)
+
+1969 被迫 67 岁退休,赴迈阿密大学理论研究中心,后(1970-84)任佛州州立大学(Florida State University)正教授。期间发表 60+ 篇论文。
+
+**最后论文(1984)《量子场论的不足》**结语:
+> "I shall continue to work on it as long as I can and other people, I hope, will follow along such lines."
+
+1984-10-20 在佛州塔拉哈西去世,享年 82。葬于 Roselawn Cemetery。
+
+---
+
+## 中文补充:狄拉克的伟大贡献
+
+**狄拉克方程(1928):**
+
+$$(i\hbar\gamma^\mu\partial_\mu - mc)\psi = 0$$
+
+- 第一个相对论性量子力学方程
+- 自旋(1/2)是方程的副产品
+- 预言反物质(正电子,1932 Anderson 证实)
+- 统一了狭义相对论与量子力学
+
+**影响:**
+- 量子场论的基础
+- 标准模型的数学基础
+- 物理学史上最美丽的方程之一
+
+**"Dirac 海"概念:**
+- 真空不是空的,而是充满虚粒子的"海"
+- 解释了反物质为"海中的空穴"
+- 海森堡、玻尔等讨论
+
+---
+
+## 中文补充:狄拉克的沉默寡言
+
+**家庭影响:**
+- 父亲强制法语,不流利则沉默
+- 形成 1 字/小时的"dirac"玩笑
+
+**风格:**
+- 严格"陈述句"
+- 不参与辩论
+- 不评论他人的工作
+- 费曼说"他对每个方程都问:这美不美?"
+
+**名言:**
+- "I have an equation. Do you have one too?"
+- "Physical laws should have mathematical beauty."
+
+---
+
+## 中文补充:狄拉克与反物质
+
+**预言过程:**
+- 1928 方程出现负能解,狄拉克认为"荒谬"
+- 1930 提出"反电子"假设(空穴理论)
+- 1931 命名"反物质"(antimatter)
+- 1932 Anderson 在宇宙射线中发现正电子(质量与电子相同,电荷相反)
+- 1955 张伯伦与 Segrè 实验室制造反质子
+
+**现代反物质研究:**
+- 欧洲核子中心(CERN)LHC 对撞机产生反物质
+- ALPHA 实验捕捉反氢原子
+- 反物质燃料理论可能性(星际旅行)
+
+**狄拉克的反物质理论是 20 世纪物理学最戏剧性的预言之一**——从纯数学方程预测到实验验证。

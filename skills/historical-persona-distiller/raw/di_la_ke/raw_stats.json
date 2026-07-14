@@ -1,0 +1,23 @@
+{
+  "persona_id": "di_la_ke",
+  "distillation_date": "2026-07-13",
+  "corpus_stats": {
+    "传记_chars": 3500,
+    "引语_chars": 1500,
+    "全部语料_chars": 5000
+  },
+  "sources": [
+    "Wikipedia - Paul Dirac"
+  ],
+  "source_fetch_status": {
+    "Wikipedia": "success (~832k 全文)"
+  },
+  "stage1_compliance": {
+    "传记_present": true,
+    "传记_chars_ge_3000": true,
+    "引语_present": true,
+    "sources_count": 1,
+    "scientist_path_met": true
+  },
+  "note": "狄拉克为英国理论物理学家/狄拉克方程/反物质/1933 诺奖,Wikipedia 详尽,1 源足够 high confidence(边界)。"
+}
