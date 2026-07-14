@@ -1,0 +1,10 @@
+{
+  "persona_id": "luo_guan_zhong",
+  "distillation_date": "2026-07-13",
+  "sources_count": 1,
+  "sources": [{"name": "Wikipedia - Luo Guanzhong", "type": "encyclopedia", "size_chars": 189000, "fetch_status": "success_2026-07-13 (内容简略)"}],
+  "corpus_stats": {"传记_chars": 5200, "引语_chars": 1800, "total_raw_chars": 7000},
+  "stages_identified": {"count": 5, "default_stage": "Stage 3: 明朝建立与著书 (1368-1400)", "all_confidence": "medium-high"},
+  "overall_confidence": "medium-high",
+  "distillation_version": "1.0"
+}

@@ -1,0 +1,30 @@
+{
+  "persona_id": "luo_guan_zhong",
+  "name_zh": "罗贯中",
+  "name_en": "Luo Guanzhong (Luo Ben)",
+  "birth_death": "约 1330 / 约 1400",
+  "dynasty": "元末明初/14世纪",
+  "confidence": "medium-high",
+  "priority": "high",
+  "persona_type": "novelist / dramatist",
+  "key_works": [
+    "《三国演义》(120 回)",
+    "《水浒传》(编辑/整理)",
+    "《三遂平妖传》",
+    "《残唐五代史演义传》",
+    "《隋唐志传》"
+  ],
+  "core_concepts": [
+    "历史演义传统",
+    "蜀汉正统观",
+    "道德评判",
+    "智慧崇拜",
+    "义气与忠诚",
+    "天命正统",
+    "战略谋略",
+    "乱世个人英雄"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Luo Guanzhong", "中文文学常识补充"],
+  "default_stage": "切片三:明朝建立与著书 (1368-1400)"
+}

@@ -1,0 +1,34 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "luo_guan_zhong",
+  "languages_used": ["中文(古白话,半文半白)"],
+  "primary_language": "中文古白话",
+  "sentence_structure": {
+    "narration": "中等长句,叙事节奏",
+    "dialogue": "短句,戏剧化(元杂剧传统)",
+    "battle_scenes": "短句排比,营造紧张",
+    "strategic_scenes": "长句论证,逻辑严密"
+  },
+  "rhetorical_devices": [
+    "桃园结义誓词:'不求同年同月同日生'",
+    "隆中对战略论证",
+    "三顾茅庐场景重复",
+    "历史演义综合文体"
+  ],
+  "characteristic_vocabularies": [
+    "三国演义",
+    "章回体",
+    "天下大势",
+    "乱世英雄",
+    "忠义",
+    "智谋",
+    "正统",
+    "天命"
+  ],
+  "style_evolution": [
+    {"period": "早期创作", "description": "元杂剧+说书人传统融合"},
+    {"period": "罗贯中原本", "description": "嘉靖壬午本 1522"},
+    {"period": "毛宗岗修订", "description": "清初 毛本,加'滚滚长江'开篇"}
+  ],
+  "sources_used": ["Wikipedia", "中文文学常识补充"]
+}

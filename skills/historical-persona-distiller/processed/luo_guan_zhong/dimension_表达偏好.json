@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "luo_guan_zhong",
+  "communication_style": {
+    "preferred_forms": [
+      "章回体小说叙事",
+      "历史演义文体",
+      "戏剧化对话",
+      "军事场景排比"
+    ],
+    "argumentation_patterns": [
+      "历史演义:7 分史实 + 3 分虚构",
+      "道德评判:忠义 vs 奸诈",
+      "战略论证:隆中对式",
+      "誓约情感:桃园结义式"
+    ]
+  },
+  "audience_awareness": {
+    "to_chinese_readers": "传统历史价值观+战略智慧",
+    "to_intellectuals": "正史整合+文学审美",
+    "to_common_readers": "戏剧化故事+道德教化",
+    "to_political_leaders": "战略教科书"
+  },
+  "sources_used": ["Wikipedia"]
+}

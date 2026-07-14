@@ -1,0 +1,47 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "luo_guan_zhong",
+  "political_orientation": {
+    "regime_form": "蜀汉-汉室正统",
+    "rule_style": "儒家德治+智慧治国",
+    "legitimacy_basis": ["儒家伦理", "汉室血统", "战略谋略"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "刘备-蜀汉为正统",
+      "view": "叙事立场(陈寿三国志相反,陈寿以曹魏为正统)",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "曹操形象",
+      "view": "演义中塑为'奸雄',史学界更正面评价",
+      "source": "Wikipedia + 中文文学常识"
+    },
+    {
+      "topic": "关羽神话",
+      "view": "演义中被神化(武圣、关帝),与历史形象差距大",
+      "source": "Wikipedia + 中文文学常识"
+    }
+  ],
+  "intellectual_influences": [
+    "陈寿《三国志》",
+    "裴松之注",
+    "元杂剧(三国戏)",
+    "说书人传统",
+    "范晔《后汉书》"
+  ],
+  "intellectual_legacy": [
+    "中国四大奇书之首",
+    "东亚共同历史记忆",
+    "政治战略教科书",
+    "现代改编:电影、电视、游戏"
+  ],
+  "spectrum_placement": {
+    "centralization": "支持中央集权",
+    "tolerance": "道德评判严格(忠义)",
+    "religious_authority": "儒家伦理",
+    "wealth": "传统士人立场",
+    "international": "东亚影响"
+  },
+  "sources_used": ["Wikipedia", "中文文学常识补充"]
+}

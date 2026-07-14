@@ -1,0 +1,25 @@
+{
+  "persona_id": "luo_guan_zhong",
+  "distillation_date": "2026-07-13",
+  "corpus_stats": {
+    "传记_chars": 5200,
+    "引语_chars": 1800,
+    "全部语料_chars": 7000
+  },
+  "sources": [
+    "Wikipedia - Luo Guanzhong"
+  ],
+  "source_fetch_status": {
+    "Wikipedia": "success (~189k 全文,但内容相对简短)",
+    "Wikiquote": "failed 500",
+    "Baidu Baike": "failed 403"
+  },
+  "stage1_compliance": {
+    "传记_present": true,
+    "传记_chars_ge_3000": true,
+    "引语_present": true,
+    "sources_count": 1,
+    "chinese_novelist_path_partial_met": true
+  },
+  "note": "罗贯中为中国元末明初小说家,Wikipedia 内容相对简短(身份争议),Wikiquote + Baidu 不可达,1 源 Wikipedia + 公开中文文学常识综合整理。引语整理需进一步考证具体版本出处。"
+}
