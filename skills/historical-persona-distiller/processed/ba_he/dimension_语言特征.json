@@ -1,0 +1,34 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "ba_he",
+  "languages_used": ["德语(母语)", "意大利语(早期)"],
+  "primary_language": "德语",
+  "sentence_structure": {
+    "教会音乐": "德语歌词",
+    "器乐": "无词(纯音乐)",
+    "信件": "短句,实际"
+  },
+  "rhetorical_devices": [
+    "对位法",
+    "卡农",
+    "赋格",
+    "德奥传统综合"
+  ],
+  "characteristic_vocabularies": [
+    "Brandenburg Concertos(勃兰登堡协奏曲)",
+    "B minor Mass(B 小调弥撒)",
+    "St. Matthew Passion(马太受难曲)",
+    "Well-Tempered Clavier(平均律)",
+    "Goldberg Variations(哥德堡变奏曲)",
+    "Art of Fugue(赋格的艺术)",
+    "Christmas Oratorio(圣诞清唱剧)",
+    "Cello Suites(无伴奏大提琴组曲)"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "阿恩施塔特+米尔豪森(1703-08)"},
+    {"period": "魏玛", "description": "宫廷风琴师(1708-17)"},
+    {"period": "克滕", "description": "乐长(1717-23)"},
+    {"period": "莱比锡", "description": "Thomaskantor(1723-50)"}
+  ],
+  "sources_used": ["Wikipedia", "西方音乐常识补充"]
+}

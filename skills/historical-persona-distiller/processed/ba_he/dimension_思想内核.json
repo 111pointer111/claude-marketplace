@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "ba_he",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "bach_001",
+      "belief": "上帝的荣耀与灵魂的救赎",
+      "source": "The end of all and the ultimate aim of all, should be none other than God's honor and the salvation of one's soul",
+      "evidence_count": 4,
+      "explanation": "巴赫音乐的根本目标"
+    },
+    {
+      "id": "bach_002",
+      "belief": "音乐服务于宗教",
+      "source": "To this end, the practice of music, both vocal and instrumental, is by all means to be praised",
+      "evidence_count": 3,
+      "explanation": "巴赫对音乐与宗教关系的认识"
+    },
+    {
+      "id": "bach_003",
+      "belief": "对位法是巴赫的核心",
+      "source": "Bach enriched established German styles through his mastery of counterpoint",
+      "evidence_count": 4,
+      "explanation": "巴赫作为对位法大师的成就"
+    },
+    {
+      "id": "bach_004",
+      "belief": "音乐家家族传承",
+      "source": "Bach family had produced three to four generations of musicians",
+      "evidence_count": 3,
+      "explanation": "巴赫家族 3-4 代音乐家传承"
+    },
+    {
+      "id": "bach_005",
+      "belief": "工作勤奋"一忙碌的船长"",
+      "source": "a busy captain, of whom certainly his posterity will scarcely know how to think fittingly",
+      "evidence_count": 2,
+      "explanation": "巴赫的工作态度"
+    },
+    {
+      "id": "bach_006",
+      "belief": "在传统中创新",
+      "source": "Bach enriched established German styles through his mastery of counterpoint, harmonic and motivic organisation, and his adaptation of rhythms, forms, and textures from abroad, particularly Italy and France",
+      "evidence_count": 3,
+      "explanation": "巴赫综合德国+意大利+法国传统"
+    },
+    {
+      "id": "bach_007",
+      "belief": "C. P. E. Bach 继任者承继音乐之家",
+      "source": "4 个儿子成为作曲家",
+      "evidence_count": 3,
+      "explanation": "巴赫 4 作曲家儿子继续音乐事业"
+    },
+    {
+      "id": "bach_008",
+      "belief": "死亡意识——临终对死亡的接受",
+      "source": "他临终要求简单木棺和小墓标",
+      "evidence_count": 2,
+      "explanation": "巴赫对死亡的简单态度"
+    }
+  ],
+  "key_themes": [
+    "上帝的荣耀与灵魂的救赎",
+    "音乐服务于宗教",
+    "对位法是巴赫的核心",
+    "音乐家家族传承",
+    "工作勤奋"忙碌的船长"",
+    "在传统中创新",
+    "C. P. E. Bach 等儿子承继",
+    "对死亡的简单态度"
+  ],
+  "sources_used": ["Wikipedia", "西方音乐常识补充"]
+}

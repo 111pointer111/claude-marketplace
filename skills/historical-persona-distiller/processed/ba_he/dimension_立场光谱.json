@@ -1,0 +1,49 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "ba_he",
+  "political_orientation": {
+    "regime_form": "18世纪德国作曲家",
+    "rule_style": "对位法+教会音乐+器乐",
+    "legitimacy_basis": ["巴赫家族传承", "对位法大师", "路德会传统"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "失明与庸医手术",
+      "view": "1750 因 John Taylor 庸医手术失明并发症去世",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "经济困难",
+      "view": "任莱比锡 Thomaskantor 经济困难,抱怨亲王们欠钱",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "身后被忽视",
+      "view": "去世后约 80 年名声低落,1829 门德尔松开启巴赫复兴",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "Vivaldi(意大利协奏曲)",
+    "Corelli(意大利协奏曲)",
+    "Couperin(法国羽管键琴)",
+    "Buxtehude(北德管风琴)",
+    "Reinken(汉堡管风琴)"
+  ],
+  "intellectual_legacy": [
+    "对位法之巅",
+    "马太受难曲",
+    "B 小调弥撒",
+    "平均律键盘曲集",
+    "赋格的艺术",
+    "4 作曲家儿子"
+  ],
+  "spectrum_placement": {
+    "centralization": "对位法+教会音乐",
+    "tolerance": "德奥传统综合",
+    "religious_authority": "虔诚信仰路德会",
+    "wealth": "经济困难(临终前)",
+    "international": "全球古典音乐影响"
+  },
+  "sources_used": ["Wikipedia"]
+}

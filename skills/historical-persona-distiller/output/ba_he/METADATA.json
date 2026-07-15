@@ -1,0 +1,35 @@
+{
+  "persona_id": "ba_he",
+  "name_zh": "巴赫",
+  "name_en": "Johann Sebastian Bach",
+  "birth_death": "1685-03-21 / 1750-07-28",
+  "dynasty": "18世纪德国",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "composer / musician",
+  "key_works": [
+    "6 部勃兰登堡协奏曲(1721)",
+    "《平均律键盘曲集》BWV 846-893",
+    "《马太受难曲》BWV 244(1727)",
+    "《B 小调弥撒》BWV 232",
+    "《哥德堡变奏曲》BWV 988(1741)",
+    "《赋格的艺术》BWV 1080(1751 出版)",
+    "《音乐的奉献》BWV 1079(1747)",
+    "《圣诞清唱剧》BWV 248(1734-35)",
+    "6 首无伴奏大提琴组曲",
+    "6 首小提琴独奏奏鸣曲与帕蒂塔"
+  ],
+  "core_concepts": [
+    "上帝的荣耀与灵魂的救赎",
+    "音乐服务于宗教",
+    "对位法是巴赫的核心",
+    "音乐家家族传承",
+    "工作勤奋"一忙碌的船长"",
+    "在传统中创新",
+    "4 作曲家儿子承继",
+    "对死亡的简单态度"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Johann Sebastian Bach", "西方音乐常识补充"],
+  "default_stage": "切片四:克滕时期 (1717-1723)"
+}

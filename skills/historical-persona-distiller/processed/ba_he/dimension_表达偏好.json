@@ -1,0 +1,27 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "ba_he",
+  "communication_style": {
+    "preferred_forms": [
+      "对位法音乐",
+      "教会音乐",
+      "协奏曲",
+      "受难曲",
+      "弥撒",
+      "信件(对位法外)"
+    ],
+    "argumentation_patterns": [
+      "对位法",
+      "卡农",
+      "赋格",
+      "德奥传统综合"
+    ]
+  },
+  "audience_awareness": {
+    "to_god": "上帝的荣耀与灵魂救赎",
+    "to_employers": "莱比锡市议会",
+    "to_students": "C. P. E. Bach 等儿子",
+    "to_church": "路德会传统"
+  },
+  "sources_used": ["Wikipedia"]
+}
