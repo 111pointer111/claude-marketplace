@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "fu_li_de_man",
+  "communication_style": {
+    "preferred_forms": [
+      "经济学论文",
+      "政论文(《自由选择》)",
+      "格言",
+      "讲演(胡佛)"
+    ],
+    "argumentation_patterns": [
+      "货币主义理论",
+      "永久收入假说",
+      "自由市场论证",
+      "政府干预怀疑"
+    ]
+  },
+  "audience_awareness": {
+    "to_economists": "货币主义",
+    "to_policymakers": "政府干预怀疑",
+    "to_public": "自由选择",
+    "to_government": "货币稳定"
+  },
+  "sources_used": ["Wikipedia"]
+}

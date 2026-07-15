@@ -1,0 +1,33 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "fu_li_de_man",
+  "languages_used": ["英语(母语)"],
+  "primary_language": "英语",
+  "sentence_structure": {
+    "经济学论文": "中等长句,精密论证",
+    "政论文": "中等长度,启发性",
+    "格言": "极短,深刻"
+  },
+  "rhetorical_devices": [
+    "货币主义理论",
+    "永久收入假说",
+    "自由市场论证",
+    "政府干预怀疑"
+  ],
+  "characteristic_vocabularies": [
+    "Monetarism(货币主义)",
+    "Quantity theory(数量论)",
+    "Permanent income(永久收入)",
+    "Consumption function(消费函数)",
+    "Natural rate(自然率)",
+    "Helicopter money(直升机撒钱)",
+    "Friedman rule(弗里德曼规则)",
+    "Capitalism and Freedom(资本主义与自由)"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "芝加哥大学时期(1946-77)"},
+    {"period": "中期", "description": "诺贝尔奖后(1976-80)"},
+    {"period": "晚期", "description": "胡佛与公共政策(1977-2006)"}
+  ],
+  "sources_used": ["Wikipedia", "西方经济学常识补充"]
+}

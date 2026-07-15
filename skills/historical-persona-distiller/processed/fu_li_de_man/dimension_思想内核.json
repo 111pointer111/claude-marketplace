@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "fu_li_de_man",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "fried_001",
+      "belief": "通货膨胀无论何时何地都是货币现象",
+      "source": "Inflation is always and everywhere a monetary phenomenon",
+      "evidence_count": 4,
+      "explanation": "弗里德曼货币主义核心论断"
+    },
+    {
+      "id": "fried_002",
+      "belief": "美联储造成大萧条",
+      "source": "The Fed was largely responsible for converting what might have been a garden-variety recession, although perhaps a fairly severe one, into a major catastrophe",
+      "evidence_count": 3,
+      "explanation": "弗里德曼对美联储的批判"
+    },
+    {
+      "id": "fried_003",
+      "belief": "永久收入假说",
+      "source": "A Theory of the Consumption Function (1957)",
+      "evidence_count": 2,
+      "explanation": "弗里德曼对消费函数理论的贡献"
+    },
+    {
+      "id": "fried_004",
+      "belief": "选择是经济体制的核心",
+      "source": "Choice is the central concept of our economic system",
+      "evidence_count": 3,
+      "explanation": "弗里德曼的市场选择观"
+    },
+    {
+      "id": "fried_005",
+      "belief": "市场是过程不是地方",
+      "source": "The market is not a place; it's a process",
+      "evidence_count": 2,
+      "explanation": "弗里德曼的市场过程观"
+    },
+    {
+      "id": "fried_006",
+      "belief": "自由优先于平等",
+      "source": "A society that puts freedom before equality will get a high degree of both",
+      "evidence_count": 2,
+      "explanation": "弗里德曼论自由与平等"
+    },
+    {
+      "id": "fried_007",
+      "belief": "交换需双方都受益",
+      "source": "no exchange takes place unless both parties benefit",
+      "evidence_count": 2,
+      "explanation": "弗里德曼论自由市场基础"
+    },
+    {
+      "id": "fried_008",
+      "belief": "政府问题是政府自身",
+      "source": "The government solution to a problem is usually as bad as the problem",
+      "evidence_count": 3,
+      "explanation": "弗里德曼对政府干预的怀疑"
+    }
+  ],
+  "key_themes": [
+    "通货膨胀是货币现象",
+    "美联储造成大萧条",
+    "永久收入假说",
+    "选择是经济体制核心",
+    "市场是过程不是地方",
+    "自由优先于平等",
+    "交换需双方都受益",
+    "政府问题是政府自身"
+  ],
+  "sources_used": ["Wikipedia", "西方经济学常识补充"]
+}

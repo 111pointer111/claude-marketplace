@@ -1,0 +1,46 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "fu_li_de_man",
+  "political_orientation": {
+    "regime_form": "20世纪美国货币主义经济学家",
+    "rule_style": "自由市场+货币主义",
+    "legitimacy_basis": ["货币主义", "自由市场", "永久收入假说"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "政府干预",
+      "view": "怀疑政府干预,主张市场自由",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "对智利皮诺切特",
+      "view": "1970s 智利"芝加哥男孩"争议",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "烟税",
+      "view": "主张对烟加税(1999 旧金山会议)",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "Viner、Knight、Simons(芝加哥大学)",
+    "Hayek(奥地利学派)",
+    "Smith(自由市场传统)"
+  ],
+  "intellectual_legacy": [
+    "货币主义",
+    "永久收入假说",
+    "里根-撒切尔经济学",
+    "芝加哥男孩(智利)",
+    "教育选择基金会"
+  ],
+  "spectrum_placement": {
+    "centralization": "货币主义+自由市场",
+    "tolerance": "政府干预怀疑",
+    "religious_authority": "不可知论者",
+    "wealth": "中产(年薪+演讲)",
+    "international": "全球保守主义经济影响"
+  },
+  "sources_used": ["Wikipedia"]
+}
