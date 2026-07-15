@@ -1,0 +1,10 @@
+{
+  "persona_id": "xiong_bi_te",
+  "distillation_date": "2026-07-13",
+  "sources_count": 1,
+  "sources": [{"name": "Wikipedia - Joseph Schumpeter", "type": "encyclopedia", "size_chars": 711000, "fetch_status": "success_2026-07-13"}],
+  "corpus_stats": {"传记_chars": 3500, "引语_chars": 1500, "total_raw_chars": 5000},
+  "stages_identified": {"count": 5, "default_stage": "Stage 5: 哈佛时期 (1932-1950)", "all_confidence": "high"},
+  "overall_confidence": "high",
+  "distillation_version": "1.0"
+}

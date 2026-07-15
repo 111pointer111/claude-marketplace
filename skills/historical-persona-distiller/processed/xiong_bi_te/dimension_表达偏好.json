@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "xiong_bi_te",
+  "communication_style": {
+    "preferred_forms": [
+      "经济学论文",
+      "讲演",
+      "格言",
+      "比较分析(马克思+凯恩斯)"
+    ],
+    "argumentation_patterns": [
+      "创造性破坏理论",
+      "企业家精神",
+      "商业周期综合",
+      "马克思对比"
+    ]
+  },
+  "audience_awareness": {
+    "to_economists": "经济演化",
+    "to_capitalists": "创新是经济活力",
+    "to_policymakers": "民主是竞争",
+    "to_entrepreneurs": "创造性破坏的机遇"
+  },
+  "sources_used": ["Wikipedia"]
+}

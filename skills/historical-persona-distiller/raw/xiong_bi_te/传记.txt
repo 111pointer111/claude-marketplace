@@ -1,0 +1,169 @@
+# 熊彼特 - 传记
+
+> 来源: Wikipedia (https://en.wikipedia.org/wiki/Joseph_Schumpeter)
+> 抓取日期: 2026-07-13
+
+---
+
+## 基本信息
+
+**全名:** Joseph Alois Schumpeter
+**生卒:** 1883-02-08(Třešť, 摩拉维亚) — 1950-01-08(Taconic, 康涅狄格),享年 66 岁
+**身份:** 奥地利裔美国经济学家、政治学家
+**主要成就:** "创造性破坏"理论、企业家理论、资本主义必然消亡论
+
+## 一、早年与教育(1883-1906)
+
+- 1883-02-08 生于摩拉维亚 Třešť(奥匈帝国)
+- 德语天主教家庭
+- 双祖母为捷克人——但熊彼特不承认
+- 父 1887 早逝(熊彼特 4 岁)
+- 1893 母携子移居维也纳
+- Theresianum 学校
+- 维也纳大学法学(师从奥地利学派 Böhm-Bawerk)
+- 1906 博士论文,专业经济学
+
+## 二、职业生涯
+
+- 1909-11 Czernowitz 大学
+- 1911-14 Graz 大学
+- 1913-14 哥伦比亚大学访问
+- 1918 德国社会化委员会成员
+- 1919 德意志-奥地利共和国财政部长(短暂)
+- 1921-24 Biedermann 银行行长
+- 1925-32 Bonn 大学教席
+- 1927-28, 1930 哈佛大学讲学
+- 1931 东京商科大学访问
+- **1932-50 哈佛大学教席(18 年)**
+- 1939 入籍美国
+
+## 三、理论贡献
+
+### 创造性破坏(Creative Destruction)
+
+> "popularized creative destruction, a term coined by Werner Sombart."
+
+> "capitalism can only be understood as an evolutionary process of continuous innovation and 'creative destruction'."
+
+### 企业家理论(Mark I + Mark II)
+
+**Mark I(古典):**
+> "the innovation and technological change of a nation come from entrepreneurs or wild spirits."
+
+> *Unternehmergeist*("企业家精神")——"the doing of new things or the doing of things that are already being done in a new way."
+
+**Mark II(现代):**
+> "the trail leads not to the doors of those firms that work under conditions of comparatively free competition but precisely to the door of the large concerns… a shocking suspicion dawns upon us that big business may have had more to do with creating that standard of life than with keeping it down."
+
+### 商业周期
+
+- 4 种周期综合:
+  - **康德拉季耶夫**周期(54 年)
+  - **库兹涅茨**周期(18 年)
+  - **朱格拉**周期(9 年)
+  - **基钦**周期(4 年)
+- 创新驱动"邻接均衡"为长期周期原因
+
+### 资本主义的命运
+
+- 同意马克思认为资本主义会崩溃
+- 但熊彼特认为原因不同:
+  - 大公司(corporatism)
+  - 知识分子的敌视
+  - 民主对企业的限制
+- 终将取代为"劳工主义"
+- 削弱"资本主义结构"
+
+### 民主理论
+- 韦伯影响下最小化模型
+- 民主是领导人之间竞争的机制(类似市场结构)
+- 民主是"通过竞争性选举选举代表实现人民意志的方法"
+
+## 四、主要作品
+
+1. **《经济发展理论》** (1911, 英译 1934)
+2. **《商业周期》** (1939) 两卷巨著
+3. **《资本主义、社会主义与民主》** (1942) "他最受欢迎的作品"
+4. **《经济分析史》** (1954 遗作, Elizabeth Boody 编辑)
+5. **《十位伟大的经济学家:从马克思到凯恩斯》** (1951)
+- 视 Léon Walras 为"所有经济学家中最伟大的"
+
+## 五、个人生活
+
+3 次婚姻:
+- **Gladys Ricarde Seaver** (1907, 英女大 12 岁, 1925 离婚)
+- **Anna Reisinger** (1925, 难产死 1926)
+- **Elizabeth Boody** (1937, 美国经济史学家, 帮他推广工作, 编辑《经济分析史》)
+
+**著名自述:**
+> "three goals in life: to be the greatest economist in the world, the best horseman in all of Austria, and the greatest lover in all of Vienna. He claimed to have reached two of these goals, though he never specified which two."
+
+> 中文大意: 人生三个目标:成为世界最伟大的经济学家,奥地利最好的骑手,维也纳最伟大的情人。他声称达到两个,但从未指明哪两个。
+
+## 六、去世
+
+- 1950-01-08 在 Taconic(康涅狄格)家中去世,享年 66
+
+## 七、遗产
+
+**学生:**
+- Paul Samuelson
+- James Tobin
+- Paul Sweezy
+- Nicholas Georgescu-Roegen
+- Hyman Minsky
+- John Kenneth Galbraith
+- Alan Greenspan
+- Robert Solow
+
+**应用:**
+- 欧盟"里斯本战略"基于其创新理论
+- 国际熊彼特学会颁发熊彼特奖
+- 《经济学人》2009 开设"熊彼特"商业专栏
+- **2025 诺贝尔经济学奖** Aghion 与 Howitt 基于"创造性破坏"
+
+---
+
+## 中文补充:熊彼特经济学
+
+**核心贡献:**
+- 《经济发展理论》(1911)——创新与企业家的"创造性破坏"
+- 《商业周期》(1939)——4 种周期综合
+- 《资本主义、社会主义与民主》(1942)——资本主义命运
+
+**创造性破坏的本质:**
+- 旧产业不断被新产业取代
+- 创新是经济进步的动力
+- 不是"均衡"而是"动态不平衡"
+- 突破静态分析,引入演化视角
+
+**与马克思的对比:**
+- 都认为资本主义会消亡
+- 马克思:内部矛盾(剥削、危机)
+- 熊彼特:成功(大公司发展+民主限制)
+- 马克思:革命推翻
+- 熊彼特:渐进入"劳工主义"
+
+**对现代中国的影响:**
+- "大众创业、万众创新"——创新驱动
+- 数字经济时代的"创造性破坏"加速
+- 中国经济学界对熊彼特的研究持续升温
+
+---
+
+## 中文补充:熊彼特与现代创新理论
+
+**熊彼特派 vs 凯恩斯派:**
+- 凯恩斯:政府干预,管理需求
+- 熊彼特:创新驱动,长期增长
+- 现代宏观经济学:融合两者
+
+**熊彼特对乔布斯、马斯克等的影响:**
+- 创造性破坏理论
+- "颠覆式创新"是熊彼特"创造性破坏"的应用
+- Clayton Christensen 的"颠覆式创新"理论直接源于熊彼特
+
+**熊彼特与中国改革:**
+- 1980s 中国改革开放后引入
+- "创新是引领发展的第一动力"——中国领导层多次引用
+- "大众创业、万众创新"政策体现熊彼特思想

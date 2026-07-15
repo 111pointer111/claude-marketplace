@@ -1,0 +1,33 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "xiong_bi_te",
+  "languages_used": ["德语(母语)", "英语(后期)"],
+  "primary_language": "德语(早期)+ 英语(美国)",
+  "sentence_structure": {
+    "经济学论文": "中等长句,精密论证",
+    "讲演": "中等长度,启发性",
+    "格言": "极短,深刻"
+  },
+  "rhetorical_devices": [
+    "创造性破坏理论",
+    "企业家精神",
+    "商业周期综合",
+    "马克思对比"
+  ],
+  "characteristic_vocabularies": [
+    "Creative destruction(创造性破坏)",
+    "Unternehmergeist(企业家精神)",
+    "Kondratiev/Kuznets/Juglar/Kitchin(4 种周期)",
+    "Capitalism, Socialism and Democracy(资本主义、社会主义与民主)",
+    "Big business(大公司)",
+    "Innovation(创新)",
+    "Bourgeoisie(资产阶级)",
+    "Imperialism(帝国主义)"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "奥地利学派(1906-14)"},
+    {"period": "中期", "description": "从政+银行(1918-24)"},
+    {"period": "晚期", "description": "德国+美国(1925-50)"}
+  ],
+  "sources_used": ["Wikipedia", "西方经济学常识补充"]
+}

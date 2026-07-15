@@ -1,0 +1,47 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "xiong_bi_te",
+  "political_orientation": {
+    "regime_form": "20世纪奥地利-美国经济学家",
+    "rule_style": "演化经济学+创新理论",
+    "legitimacy_basis": ["创造性破坏", "企业家精神", "商业周期理论"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "与马克思的对比",
+      "view": "同意马克思的'资本主义会消亡',但原因不同",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "大公司的态度",
+      "view": "颠覆传统——大公司创造标准生活",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "短暂从政",
+      "view": "1919 财政部长,任期短暂",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "奥地利学派(Böhm-Bawerk)",
+    "马克思(对比对象)",
+    "Walras(熊彼特最推崇的)",
+    "凯恩斯(同时代)"
+  ],
+  "intellectual_legacy": [
+    "创造性破坏理论",
+    "企业家精神",
+    "商业周期综合",
+    "演化经济学",
+    "创新驱动增长"
+  ],
+  "spectrum_placement": {
+    "centralization": "演化经济学",
+    "tolerance": "民主竞争",
+    "religious_authority": "无神论者(可能)",
+    "wealth": "银行行长+教授",
+    "international": "全球创新理论影响"
+  },
+  "sources_used": ["Wikipedia"]
+}

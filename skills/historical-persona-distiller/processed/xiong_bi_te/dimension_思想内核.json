@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "xiong_bi_te",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "sch_001",
+      "belief": "创造性破坏是资本主义的根本事实",
+      "source": "creative destruction is the essential fact about capitalism",
+      "evidence_count": 4,
+      "explanation": "熊彼特经济学的核心"
+    },
+    {
+      "id": "sch_002",
+      "belief": "创新来自企业家或'野性精神'",
+      "source": "the innovation and technological change of a nation come from entrepreneurs or wild spirits",
+      "evidence_count": 3,
+      "explanation": "熊彼特的企业家理论"
+    },
+    {
+      "id": "sch_003",
+      "belief": "大公司创造标准生活",
+      "source": "big business may have had more to do with creating that standard of life than with keeping it down",
+      "evidence_count": 3,
+      "explanation": "熊彼特颠覆传统对大公司的看法"
+    },
+    {
+      "id": "sch_004",
+      "belief": "民主是领导人之间竞争的机制",
+      "source": "the theory of democracy is simply that the equipment for arriving at political decisions is supplied to the population",
+      "evidence_count": 2,
+      "explanation": "熊彼特的民主理论"
+    },
+    {
+      "id": "sch_005",
+      "belief": "企业家的职能是革新生产模式",
+      "source": "the function of entrepreneurs is to reform or revolutionize the pattern of production",
+      "evidence_count": 3,
+      "explanation": "熊彼特定义企业家的核心职能"
+    },
+    {
+      "id": "sch_006",
+      "belief": "资本主义会自我消亡",
+      "source": "capitalism would gradually weaken itself and eventually collapse",
+      "evidence_count": 2,
+      "explanation": "熊彼特与马克思相同的预言"
+    },
+    {
+      "id": "sch_007",
+      "belief": "商业周期是创新驱动",
+      "source": "innovation-driven clusters as the cause of long cycles",
+      "evidence_count": 3,
+      "explanation": "熊彼特的商业周期理论"
+    },
+    {
+      "id": "sch_008",
+      "belief": "追求伟大",
+      "source": "three goals in life: greatest economist, best horseman, greatest lover",
+      "evidence_count": 2,
+      "explanation": "熊彼特的人生态度"
+    }
+  ],
+  "key_themes": [
+    "创造性破坏",
+    "创新来自企业家",
+    "大公司创造标准生活",
+    "民主是领导人之间竞争",
+    "企业家的革新职能",
+    "资本主义自我消亡",
+    "商业周期是创新驱动",
+    "追求伟大"
+  ],
+  "sources_used": ["Wikipedia", "西方经济学常识补充"]
+}
