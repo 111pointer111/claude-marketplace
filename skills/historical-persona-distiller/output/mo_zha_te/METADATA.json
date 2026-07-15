@@ -1,0 +1,33 @@
+{
+  "persona_id": "mo_zha_te",
+  "name_zh": "莫扎特",
+  "name_en": "Wolfgang Amadeus Mozart",
+  "birth_death": "1756-01-27 / 1791-12-05",
+  "dynasty": "18世纪奥地利",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "composer / musician",
+  "key_works": [
+    "《费加罗的婚礼》(1786)",
+    "《唐璜》(1787)",
+    "《女人心》(1790)",
+    "《魔笛》(1791)",
+    "《安魂曲》K. 626(未完成)",
+    "《后宫诱逃》(1782)",
+    "《伊多梅纽》(1781)",
+    "41 交响曲+27 钢琴协奏曲+23 弦乐四重奏"
+  ],
+  "core_concepts": [
+    "音乐激情但不厌恶",
+    "会见皇帝的目标",
+    "通过作品赚足够",
+    "母亲去世痛苦",
+    "巴赫崇拜",
+    "成功与运气",
+    "歌剧是音乐+戏剧综合",
+    "海顿承认莫扎特"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Wolfgang Amadeus Mozart", "西方音乐常识补充"],
+  "default_stage": "切片二:萨尔茨堡时期 (1773-1781)"
+}

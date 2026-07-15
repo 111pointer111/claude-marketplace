@@ -1,0 +1,26 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "mo_zha_te",
+  "communication_style": {
+    "preferred_forms": [
+      "歌剧(意大利)",
+      "交响曲",
+      "协奏曲",
+      "弦乐四重奏",
+      "信件(德文)"
+    ],
+    "argumentation_patterns": [
+      "音乐与戏剧综合",
+      "海顿式发展",
+      "意大利歌剧风格",
+      "共济会象征"
+    ]
+  },
+  "audience_awareness": {
+    "to_viennese_society": "宫廷与公众",
+    "to_patrons": "皇帝约瑟夫二世",
+    "to_fellow_composers": "海顿",
+    "to_emperor": "见面为目标"
+  },
+  "sources_used": ["Wikipedia"]
+}

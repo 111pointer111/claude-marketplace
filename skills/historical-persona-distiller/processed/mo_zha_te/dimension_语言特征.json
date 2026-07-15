@@ -1,0 +1,33 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "mo_zha_te",
+  "languages_used": ["德语(母语)", "意大利语(歌剧)", "法语(巴黎)", "拉丁语(共济会)"],
+  "primary_language": "德语(信件)+ 意大利语(歌剧歌词)",
+  "sentence_structure": {
+    "信件": "中等长句,感性",
+    "歌剧台词": "短句,歌唱性",
+    "乐谱说明": "短句,精确"
+  },
+  "rhetorical_devices": [
+    "音乐与戏剧综合",
+    "海顿式发展",
+    "意大利歌剧风格",
+    "共济会象征"
+  ],
+  "characteristic_vocabularies": [
+    "Marriage of Figaro(费加罗的婚礼)",
+    "Don Giovanni(唐璜)",
+    "Magic Flute(魔笛)",
+    "Requiem(安魂曲)",
+    "Piano Concerto(钢琴协奏曲)",
+    "Symphony No. 41(第 41 交响曲)",
+    "Da Ponte(达·蓬特)",
+    "Freemason(共济会)"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "萨尔茨堡时期(1773-81)"},
+    {"period": "中期", "description": "Da Ponte 歌剧(1786-90)"},
+    {"period": "晚期", "description": "最后 3 交响曲+安魂曲(1788-91)"}
+  ],
+  "sources_used": ["Wikipedia", "西方音乐常识补充"]
+}

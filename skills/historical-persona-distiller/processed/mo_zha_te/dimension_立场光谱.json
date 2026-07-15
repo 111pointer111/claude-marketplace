@@ -1,0 +1,47 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "mo_zha_te",
+  "political_orientation": {
+    "regime_form": "18世纪奥地利作曲家",
+    "rule_style": "古典主义+歌剧+协奏曲",
+    "legitimacy_basis": ["音乐神童", "歌剧+协奏曲+交响曲", "维也纳经典时期"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "死因争议",
+      "view": "粟粒热/梅毒/中毒/慢性肾病等争议",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "萨列里中毒传说",
+      "view": "1979 戏剧《阿马德乌斯》虚构",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "贫困与威望",
+      "view": "虽然名扬但经济困难",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "父 Leopold 莫扎特",
+    "海顿(维也纳)",
+    "J. C. Bach(伦敦)",
+    "达·蓬特(Lorenzo Da Ponte)",
+    "巴赫、韩德尔(传统)"
+  ],
+  "intellectual_legacy": [
+    "古典主义歌剧巅峰",
+    "41 交响曲+27 钢琴协奏曲",
+    "800+ 部作品",
+    "维也纳古典时期代表"
+  ],
+  "spectrum_placement": {
+    "centralization": "音乐神童+维也纳古典",
+    "tolerance": "辞职萨尔茨堡",
+    "religious_authority": "共济会+虔诚天主教",
+    "wealth": "经济困难(临终前)",
+    "international": "欧洲巡演"
+  },
+  "sources_used": ["Wikipedia"]
+}
