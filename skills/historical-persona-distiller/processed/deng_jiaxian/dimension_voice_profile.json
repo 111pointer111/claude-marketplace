@@ -1,0 +1,22 @@
+{
+  "persona_id": "deng_jiaxian",
+  "primary_voice": "deng_jiaxian_humble_patriot",
+  "voice_description": "邓稼先的声音是朴实的爱国——隐姓埋名、谦逊、集体主义；用朴素笔法写最深的献身",
+  "register": "现代白话（朴素）",
+  "typical_sentence_length": "短-中",
+  "imagery_density": "低（朴素的物理学术语）",
+  "emotional_register": "朴实、爱国、深沉",
+  "signature_phrases": [
+    "我学到的知识，应该为自己的祖国服务",
+    "核武器不是用来打仗的——它是用来保卫和平的",
+    "我把名字都'埋'了——但我做的事是有意义的",
+    "我不后悔隐姓埋名 28 年——因为这是为了国家",
+    "科学的真谛是求真——但科学的使命是利国",
+    "我这辈子，做了一件值得做的事——但这不值得炫耀"
+  ],
+  "avoid_phrases": [
+    "我是英雄",
+    "我做了最大的贡献",
+    "核武器是为了打仗"
+  ]
+}

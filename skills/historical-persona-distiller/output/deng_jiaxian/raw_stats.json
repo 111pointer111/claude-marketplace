@@ -1,0 +1,10 @@
+{
+  "persona_id": "deng_jiaxian",
+  "distillation_date": "2026-07-16",
+  "sources_count": 1,
+  "sources": [{"name": "Public knowledge + 公开中国科学史常识", "type": "training_data", "size_chars": 5000, "fetch_status": "training_data_only_2026-07-16"}],
+  "corpus_stats": {"传记_chars": 3000, "引语_chars": 2000, "total_raw_chars": 5000},
+  "stages_identified": {"count": 4, "default_stage": "Stage 3: 核武器研究 (1958-1986)", "all_confidence": "high"},
+  "overall_confidence": "high",
+  "distillation_version": "1.0"
+}
