@@ -1,0 +1,26 @@
+{
+  "persona_id": "ba_jin",
+  "name_zh": "巴金",
+  "name_en": "Ba Jin",
+  "birth_death": "1904-2005",
+  "confidence": "high",
+  "distillation_version": "1.0",
+  "distillation_date": "2026-07-16",
+  "sources_count": 1,
+  "sources_summary": "WebSearch + 公开现代文学常识",
+  "language": "zh-CN",
+  "voice_register": "modern_chinese_passionate_then_penitent",
+  "primary_mode": "激流家族长篇+忏悔体散文",
+  "key_works": [
+    "灭亡 (1928)",
+    "家 (1931)",
+    "雾/雨/电 (1933-34)",
+    "春 (1938)",
+    "秋 (1940)",
+    "寒夜 (1944)",
+    "随想录 (1978-86)"
+  ],
+  "tags": ["民国", "当代", "激流", "反封建", "无政府主义", "文革", "忏悔体", "百岁作家"],
+  "persona_lineage": "modern_chinese_literature",
+  "model_compatibility": ["sonnet", "opus", "haiku"]
+}
