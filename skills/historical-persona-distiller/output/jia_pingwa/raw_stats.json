@@ -1,0 +1,10 @@
+{
+  "persona_id": "jia_pingwa",
+  "distillation_date": "2026-07-16",
+  "sources_count": 1,
+  "sources": [{"name": "Public knowledge + 公开当代文学常识", "type": "training_data", "size_chars": 5000, "fetch_status": "training_data_only_2026-07-16"}],
+  "corpus_stats": {"传记_chars": 3000, "引语_chars": 2000, "total_raw_chars": 5000},
+  "stages_identified": {"count": 5, "default_stage": "Stage 3: 《废都》与争议 (1993)", "all_confidence": "high"},
+  "overall_confidence": "high",
+  "distillation_version": "1.0"
+}

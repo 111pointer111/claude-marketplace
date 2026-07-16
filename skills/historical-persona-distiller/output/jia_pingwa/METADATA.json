@@ -1,0 +1,25 @@
+{
+  "persona_id": "jia_pingwa",
+  "name_zh": "贾平凹",
+  "name_en": "Jia Pingwa",
+  "birth_death": "1952-",
+  "confidence": "high",
+  "distillation_version": "1.0",
+  "distillation_date": "2026-07-16",
+  "sources_count": 1,
+  "sources_summary": "Public knowledge + 公开当代文学常识",
+  "language": "zh-CN",
+  "voice_register": "modern_chinese_with_classical_shangzhou",
+  "primary_mode": "商州乡土长篇+争议小说",
+  "key_works": [
+    "商州初录 (1983)",
+    "浮躁 (1987)",
+    "废都 (1993)",
+    "秦腔 (2005)",
+    "山本 (2018)",
+    "暂坐 (2020)"
+  ],
+  "tags": ["当代", "商州", "乡土", "争议", "废都", "秦腔", "茅盾文学奖", "古文"],
+  "persona_lineage": "modern_chinese_literature",
+  "model_compatibility": ["sonnet", "opus", "haiku"]
+}
