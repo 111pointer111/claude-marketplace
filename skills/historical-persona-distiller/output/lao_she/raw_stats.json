@@ -1,0 +1,10 @@
+{
+  "persona_id": "lao_she",
+  "distillation_date": "2026-07-16",
+  "sources_count": 1,
+  "sources": [{"name": "WebSearch fallback + 公开现代文学常识", "type": "training_data + public_knowledge", "size_chars": 6700, "fetch_status": "fallback_websearch_2026-07-16"}],
+  "corpus_stats": {"传记_chars": 4500, "引语_chars": 2200, "total_raw_chars": 6700},
+  "stages_identified": {"count": 5, "default_stage": "Stage 4: 抗战流亡与茶馆 (1937-1949)", "all_confidence": "high"},
+  "overall_confidence": "high",
+  "distillation_version": "1.0"
+}

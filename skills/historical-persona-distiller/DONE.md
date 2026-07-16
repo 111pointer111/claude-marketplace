@@ -28,3 +28,5 @@
 - 全局总览：[INDEX.md](INDEX.md)
 - 批次拆分：[queue/_overview.md](queue/_overview.md)
 - 单人详情：`output/<persona_id>/`
+
+| 2026-07 | 19 | 171 |
