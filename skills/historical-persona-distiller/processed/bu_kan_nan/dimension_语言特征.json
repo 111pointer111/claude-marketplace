@@ -1,0 +1,33 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "bu_kan_nan",
+  "languages_used": ["英语(母语)"],
+  "primary_language": "英语",
+  "sentence_structure": {
+    "经济学论文": "中等长句,精密论证",
+    "公共选择分析": "中等长度,案例分析",
+    "晚年回忆": "短句,简单化"
+  },
+  "rhetorical_devices": [
+    "政治无浪漫",
+    "公共选择分析",
+    "宪法经济学",
+    "反政府干预"
+  ],
+  "characteristic_vocabularies": [
+    "Public choice(公共选择)",
+    "Constitutional economics(宪法经济学)",
+    "Calculus of consent(同意的计算)",
+    "Rent-seeking(寻租)",
+    "Logrolling(互投)",
+    "Median voter theorem(中位选民定理)",
+    "Anarchy(无政府)",
+    "Government failure(政府失灵)"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "田纳西大学(1948-56)"},
+    {"period": "中期", "description": "弗吉尼亚大学(1956-69)"},
+    {"period": "晚期", "description": "弗吉尼亚理工+乔治梅森(1969-2013)"}
+  ],
+  "sources_used": ["Wikipedia", "西方经济学常识补充"]
+}

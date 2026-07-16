@@ -1,0 +1,129 @@
+# 布坎南 - 传记
+
+> 来源: Wikipedia (https://en.wikipedia.org/wiki/James_M._Buchanan)
+> 抓取日期: 2026-07-13
+
+---
+
+## 基本信息
+
+**全名:** James McGill Buchanan Jr.
+**生卒:** 1919-10-03(Murfreesboro,田纳西) — 2013-01-09(弗吉尼亚 Blacksburg 农场),享年 93 岁
+**身份:** 美国经济学家、公共选择理论创始人
+**主要成就:** 1986 年诺贝尔经济学奖
+
+## 一、早年与教育(1919-1948)
+
+- 1919-10-03 田纳西 Murfreesboro 出生
+- 父 James(邮政局长)
+- 祖父 John P. Buchanan 田纳西州长(1891-93)
+- 自称童年"genteel poverty"(无室内水管与电)
+- 农场 1920s 萧条,无电无水
+- 母坚持他"绝不能缺一天学"
+- 1940 Middle Tennessee State Teachers College BS
+- 1941 田纳西大学 MS
+- 二战:Naval Reserve,Honolulu 服役
+- 1945 进入芝加哥大学读研究生
+- 受 Frank Knight 课程影响,六周内从"本质上是社会主义者"转为"市场秩序的热情倡导者"
+- 1948 博士论文《联邦国家的财政公平》
+
+## 二、学术生涯(1948-)
+
+- 1948-51 田纳西大学
+- 1951-56 佛罗里达州立大学
+- 1955-56 Fulbright 学者,意大利
+- 1956-68 弗吉尼亚大学(与 G. Warren Nutter 创立 Thomas Jefferson 政治经济中心)
+- 1969-83 弗吉尼亚理工大学(创立公共选择研究中心)
+- 1983-2013 乔治梅森大学(将整个中心搬迁)
+- 1984-86 蒙 Pelerin 学社主席
+
+## 三、主要贡献
+
+### 《同意的计算》(1962, 与 Gordon Tullock)
+- 公共选择理论的开端
+- 投票规则、互投、宪法选择
+
+### 公共选择理论
+- "politics without romance"
+- 政治决策"rarely made with the intention of helping anyone but the one making the decision"
+
+### 宪法经济学
+- 区分**政治**(游戏规则)与**政策**(规则内的策略)
+- "Questions about what are good rules of the game are in the domain of social philosophy, whereas questions about the strategies that players will adopt given those rules is the domain of economics."
+
+### 关于无政府
+- "The ideal society is anarchy, in which no man or group of men coerces any other."
+- "Anarchy is the ideal for ideal men; for ordinary men, some government is necessary."
+
+### 《民主赤字》(1977, 与 Richard Wagner)
+- "in the absence of moral or constitutional constraints democracies will finance some share of public consumption from debt issue rather than from taxation."
+
+### 最低工资争议
+- 1996 WSJ 回复 Card and Krueger:
+- "Just as no physicist would claim that 'water runs uphill,' no self-respecting economist would claim that increases in the minimum wage increase employment."
+
+## 四、奥地利学派影响
+
+- 承认有亲和:"I certainly have a great deal of affinity with Austrian economics and I have no objections to being called an Austrian."
+- 1944 第一次读 Wicksell
+- 1954 读 Mises 后发现自己接近 Mises 立场
+
+## 五、个人生活
+
+- 1945-10-05 娶 Ann Bakke(挪威裔)
+- 二战时他在海军,她任 Hickam Field 秘书时相遇
+- Ann 2005 去世,无子女
+- 400 英亩农场(Blacksburg 附近)种菜养牛
+- 描述为"forbidding"
+- "I want a private sphere in which I am protected... I don't feel the need to be a part of a community or a team."
+- 无神论者,反宗教
+
+## 六、去世与遗产
+
+- 2013-01-09 在弗吉尼亚农场去世,享年 93
+- NYT 称他"影响一代人对赤字、税收和政府规模的保守思考"
+- 巴登州报称他"新政治经济学创始人"
+- George Mason 大学 Buchanan 政治经济中心(1998-2002)
+- Virginia Tech 布坎南年度讲座
+- MTSU 布坎南研究员项目
+
+---
+
+## 中文补充:布坎南公共选择
+
+**核心思想:**
+- 政治家也是"经济人"
+- 政治决策追求私利
+- 公共选择理论"经济学方法在政治领域的应用"
+- 多数票决可能产生多数人暴政
+
+**与熊彼特对比:**
+- 熊彼特:创造性破坏+大公司
+- 布坎南:政治过程的竞争+民主赤字
+- 共同"反对政府扩张"
+
+**与凯恩斯对比:**
+- 凯恩斯:政府干预+财政赤字刺激经济
+- 布坎南:民主赤字有害+财政约束
+- 1980s 里根-撒切尔时期布坎南影响大
+
+**对自由意志主义的贡献:**
+- 创立"公共选择"理论
+- 诺斯、福格尔等人发展
+- 影响了茶党、奥地利学派
+- 反政府扩张的智库理论基础
+
+---
+
+## 中文补充:布坎南与哈耶克
+
+- 同为奥地利学派成员
+- 都强调"自发秩序"和"规则"
+- 哈耶克:知识、规则、自发秩序
+- 布坎南:宪法、规则、政治秩序
+- 共同反对凯恩斯国家干预
+
+**对话与分歧:**
+- 布坎南:与哈耶克在蒙 Pelerin 学社共事
+- 布坎南:政治经济+立宪经济学
+- 哈耶克:更广泛的哲学+认识论

@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "bu_kan_nan",
+  "communication_style": {
+    "preferred_forms": [
+      "经济学论文",
+      "公共选择分析",
+      "宪法经济学",
+      "晚年回忆"
+    ],
+    "argumentation_patterns": [
+      "政治无浪漫",
+      "公共选择分析",
+      "宪法经济学",
+      "反政府干预"
+    ]
+  },
+  "audience_awareness": {
+    "to_economists": "公共选择",
+    "to_policymakers": "反政府干预",
+    "to_constitution_designers": "宪法经济学",
+    "to_general_public": "民主赤字"
+  },
+  "sources_used": ["Wikipedia"]
+}

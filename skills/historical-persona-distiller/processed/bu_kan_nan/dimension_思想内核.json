@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "bu_kan_nan",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "buch_001",
+      "belief": "政治没有浪漫",
+      "source": "politics without romance",
+      "evidence_count": 4,
+      "explanation": "公共选择理论核心立场"
+    },
+    {
+      "id": "buch_002",
+      "belief": "政治决策是自利的",
+      "source": "Political decisions are rarely made with the intention of helping anyone but the one making the decision",
+      "evidence_count": 3,
+      "explanation": "公共选择理论对政治家的分析"
+    },
+    {
+      "id": "buch_003",
+      "belief": "无政府是理想但政府对普通人必要",
+      "source": "Anarchy is the ideal for ideal men; for ordinary men, some government is necessary",
+      "evidence_count": 3,
+      "explanation": "布坎南对无政府的平衡观点"
+    },
+    {
+      "id": "buch_004",
+      "belief": "民主赤字有害",
+      "source": "in the absence of moral or constitutional constraints democracies will finance some share of public consumption from debt issue",
+      "evidence_count": 3,
+      "explanation": "布坎南对民主赤字的批判"
+    },
+    {
+      "id": "buch_005",
+      "belief": "规则与策略区分",
+      "source": "Questions about what are good rules of the game are in the domain of social philosophy",
+      "evidence_count": 3,
+      "explanation": "布坎南的宪法经济学"
+    },
+    {
+      "id": "buch_006",
+      "belief": "政治是交换过程",
+      "source": "politics as exchange (公共选择理论框架)",
+      "evidence_count": 3,
+      "explanation": "布坎南的方法论个人主义"
+    },
+    {
+      "id": "buch_007",
+      "belief": "最低工资不增加就业",
+      "source": "no self-respecting economist would claim that increases in the minimum wage increase employment",
+      "evidence_count": 2,
+      "explanation": "布坎南对最低工资的批判"
+    },
+    {
+      "id": "buch_008",
+      "belief": "奥地利学派认同",
+      "source": "I certainly have a great deal of affinity with Austrian economics",
+      "evidence_count": 2,
+      "explanation": "布坎南自认与奥地利学派亲和"
+    }
+  ],
+  "key_themes": [
+    "政治没有浪漫",
+    "政治决策是自利的",
+    "无政府是理想但政府必要",
+    "民主赤字有害",
+    "规则与策略区分",
+    "政治是交换过程",
+    "最低工资不增加就业",
+    "奥地利学派认同"
+  ],
+  "sources_used": ["Wikipedia", "西方经济学常识补充"]
+}

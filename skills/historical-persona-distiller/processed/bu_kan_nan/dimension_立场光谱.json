@@ -1,0 +1,48 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "bu_kan_nan",
+  "political_orientation": {
+    "regime_form": "20-21世纪美国公共选择经济学家",
+    "rule_style": "公共选择+宪法经济学+反政府干预",
+    "legitimacy_basis": ["公共选择理论", "宪法经济学", "奥地利学派"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "民主赤字",
+      "view": "民主政体有内在赤字倾向",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "无政府理想",
+      "view": "无政府是理想但政府必要(平衡立场)",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "最低工资",
+      "view": "不增加就业(与 Card 和 Krueger 争议)",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "Frank Knight(芝加哥)",
+    "Knut Wicksell(瑞典)",
+    "Ludwig von Mises(奥地利)",
+    "Italian school of public finance(意大利)",
+    "Friedrich Hayek(奥地利)"
+  ],
+  "intellectual_legacy": [
+    "公共选择理论创始人",
+    "宪法经济学",
+    "诺贝尔经济学奖(1986)",
+    "蒙 Pelerin 学社主席",
+    "Cato Institute 高级研究员"
+  ],
+  "spectrum_placement": {
+    "centralization": "公共选择+宪法经济学",
+    "tolerance": "自由意志主义",
+    "religious_authority": "无神论者,反宗教",
+    "wealth": "学术教席(年薪$100K+)",
+    "international": "全球公共选择影响"
+  },
+  "sources_used": ["Wikipedia"]
+}
