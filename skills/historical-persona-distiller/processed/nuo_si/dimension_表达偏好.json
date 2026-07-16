@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "nuo_si",
+  "communication_style": {
+    "preferred_forms": [
+      "经济学论文",
+      "制度分析",
+      "量化历史",
+      "晚年回忆"
+    ],
+    "argumentation_patterns": [
+      "制度是游戏规则",
+      "路径依赖分析",
+      "制度变迁理论",
+      "量化历史"
+    ]
+  },
+  "audience_awareness": {
+    "to_economists": "新制度经济学",
+    "to_historians": "计量经济史",
+    "to_policymakers": "产权与制度",
+    "to_china": "中国改革"
+  },
+  "sources_used": ["Wikipedia"]
+}
