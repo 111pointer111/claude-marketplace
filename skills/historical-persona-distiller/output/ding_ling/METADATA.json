@@ -1,0 +1,25 @@
+{
+  "persona_id": "ding_ling",
+  "name_zh": "丁玲",
+  "name_en": "Ding Ling",
+  "birth_death": "1904-1986",
+  "confidence": "high",
+  "distillation_version": "1.0",
+  "distillation_date": "2026-07-16",
+  "sources_count": 1,
+  "sources_summary": "WebSearch + 公开现代文学常识",
+  "language": "zh-CN",
+  "voice_register": "modern_chinese_dialectic",
+  "primary_mode": "心理现实主义+革命现实主义",
+  "key_works": [
+    "莎菲女士的日记 (1928)",
+    "梦珂 (1927)",
+    "水 (1931)",
+    "我在霞村的时候 (1941)",
+    "太阳照在桑干河上 (1948)",
+    "风雪人间 (1981)"
+  ],
+  "tags": ["民国", "女作家", "左联", "延安", "土改", "女性主义", "湖南", "蒙冤平反"],
+  "persona_lineage": "modern_chinese_literature",
+  "model_compatibility": ["sonnet", "opus", "haiku"]
+}
