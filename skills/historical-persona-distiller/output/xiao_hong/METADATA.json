@@ -1,0 +1,24 @@
+{
+  "persona_id": "xiao_hong",
+  "name_zh": "萧红",
+  "name_en": "Xiao Hong",
+  "birth_death": "1911-1942",
+  "confidence": "high",
+  "distillation_version": "1.0",
+  "distillation_date": "2026-07-16",
+  "sources_count": 1,
+  "sources_summary": "WebSearch fallback + 公开现代文学常识",
+  "language": "zh-CN",
+  "voice_register": "modern_chinese_with_northeast_dialect",
+  "primary_mode": "散文体小说",
+  "key_works": [
+    "生死场 (1935)",
+    "呼兰河传 (1941)",
+    "商市街",
+    "马伯乐",
+    "回忆鲁迅先生"
+  ],
+  "tags": ["民国", "女作家", "东北流亡文学", "散文体小说", "鲁迅门下", "童年回忆"],
+  "persona_lineage": "modern_chinese_literature",
+  "model_compatibility": ["sonnet", "opus", "haiku"]
+}
