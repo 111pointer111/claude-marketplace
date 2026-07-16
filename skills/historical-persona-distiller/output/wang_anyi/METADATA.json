@@ -1,0 +1,25 @@
+{
+  "persona_id": "wang_anyi",
+  "name_zh": "王安忆",
+  "name_en": "Wang Anyi",
+  "birth_death": "1954-",
+  "confidence": "high",
+  "distillation_version": "1.0",
+  "distillation_date": "2026-07-16",
+  "sources_count": 1,
+  "sources_summary": "Public knowledge + 公开当代文学常识",
+  "language": "zh-CN",
+  "voice_register": "modern_chinese_shanghai_nostalgic",
+  "primary_mode": "上海叙事长篇+女性视角短篇",
+  "key_works": [
+    "小城之恋 (1986)",
+    "荒山之恋 (1986)",
+    "长恨歌 (1995)",
+    "富萍 (2000)",
+    "上种红菱下种藕 (2002)",
+    "天香 (2011)"
+  ],
+  "tags": ["当代", "上海", "女性", "怀旧", "长恨歌", "茅盾文学奖", "弄堂"],
+  "persona_lineage": "modern_chinese_literature",
+  "model_compatibility": ["sonnet", "opus", "haiku"]
+}
