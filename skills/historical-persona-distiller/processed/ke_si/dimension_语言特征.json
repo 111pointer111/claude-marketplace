@@ -1,0 +1,33 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "ke_si",
+  "languages_used": ["英语(成年后)"],
+  "primary_language": "英语(成年后)",
+  "sentence_structure": {
+    "经济学论文": "中等长句,精密论证",
+    "自传(晚年)": "中等长度,简单化",
+    "格言": "极短,深刻"
+  },
+  "rhetorical_devices": [
+    "科斯定理(交易成本)",
+    "外部性分析",
+    "企业理论",
+    "新制度经济学"
+  ],
+  "characteristic_vocabularies": [
+    "Transaction costs(交易成本)",
+    "Property rights(产权)",
+    "Coase theorem(科斯定理)",
+    "Firm(企业)",
+    "Externality(外部性)",
+    "Social cost(社会成本)",
+    "Property rights(产权)",
+    "Law and economics(法律与经济学)"
+  ],
+  "style_evolution": [
+    {"period": "早期", "description": "LSE 时期(1935-51)"},
+    {"period": "中期", "description": "芝加哥大学(1964-82)"},
+    {"period": "晚期", "description": "胡佛与晚年中国(1982-2013)"}
+  ],
+  "sources_used": ["Wikipedia", "西方经济学常识补充"]
+}

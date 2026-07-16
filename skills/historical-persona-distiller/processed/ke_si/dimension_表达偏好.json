@@ -1,0 +1,25 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "ke_si",
+  "communication_style": {
+    "preferred_forms": [
+      "经济学论文",
+      "案例分析(农场主-牧场主)",
+      "晚年自传",
+      "格言"
+    ],
+    "argumentation_patterns": [
+      "科斯定理(交易成本)",
+      "案例分析",
+      "经济学应研究真实世界",
+      "新制度经济学"
+    ]
+  },
+  "audience_awareness": {
+    "to_economists": "新制度经济学",
+    "to_lawyers": "法和经济学",
+    "to_policymakers": "产权与交易成本",
+    "to_china": "中国改革"
+  },
+  "sources_used": ["Wikipedia"]
+}

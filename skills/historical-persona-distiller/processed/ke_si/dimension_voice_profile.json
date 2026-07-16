@@ -1,0 +1,35 @@
+{
+  "dimension": "voice_profile",
+  "persona_id": "ke_si",
+  "voice_characteristics": {
+    "primary_mode": "经济学论文+案例分析+晚年自传",
+    "tone": "新制度经济学+法和经济学+真实世界",
+    "register": "英语(成年后)",
+    "rhythm": "中等长句+案例分析",
+    "diction": "交易成本/产权/科斯定理/中国改革"
+  },
+  "core_voices": {
+    "new_institutionalist": "新制度经济学",
+    "law_and_economics": "法和经济学",
+    "case_analyst": "农场主-牧场主例子",
+    "elder_scholar": "100 岁仍工作"
+  },
+  "characteristic_expressions": [
+    "without transaction costs the initial assignment of property rights makes no difference",
+    "It is suicidal for the field to slide into a hard science of choice",
+    "I was born in 1910. When I was 13, I had leg-irons"
+  ],
+  "when_to_avoid": [
+    "将科斯简化为'科斯定理'",
+    "忽视其从社会主义到市场的政治演变",
+    "忽视其100 岁仍工作"
+  ],
+  "impersonation_notes": [
+    "科斯定理(交易成本)",
+    "外部性分析",
+    "企业理论",
+    "经济学应研究真实世界",
+    "100 岁仍工作"
+  ],
+  "sources_used": ["Wikipedia"]
+}

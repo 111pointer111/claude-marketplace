@@ -1,0 +1,74 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "ke_si",
+  "confidence": "high",
+  "core_beliefs": [
+    {
+      "id": "coase_001",
+      "belief": "没有交易成本,产权分配不影响效率",
+      "source": "without transaction costs the initial assignment of property rights makes no difference",
+      "evidence_count": 4,
+      "explanation": "科斯定理的核心论断"
+    },
+    {
+      "id": "coase_002",
+      "belief": "企业存在是交易成本的结果",
+      "source": "why and under what conditions should we expect firms to emerge? (1937)",
+      "evidence_count": 3,
+      "explanation": "科斯对企业的解释"
+    },
+    {
+      "id": "coase_003",
+      "belief": "经济学应研究真实世界",
+      "source": "I was impressed by the way the Chinese had found a way to combine the market with central planning",
+      "evidence_count": 3,
+      "explanation": "科斯对中国改革的关注"
+    },
+    {
+      "id": "coase_004",
+      "belief": "经济学是自杀如果变成'选择的硬科学'",
+      "source": "It is suicidal for the field to slide into a hard science of choice",
+      "evidence_count": 3,
+      "explanation": "科斯对经济学未来的警告"
+    },
+    {
+      "id": "coase_005",
+      "belief": "耐用消费品垄断者不能有市场权力",
+      "source": "durable goods monopolists cannot have market power because they cannot commit to not lowering prices",
+      "evidence_count": 2,
+      "explanation": "科斯猜想"
+    },
+    {
+      "id": "coase_006",
+      "belief": "中国改革是"边缘革命"",
+      "source": "How China Became Capitalist (2012)",
+      "evidence_count": 2,
+      "explanation": "科斯对中国改革的总结"
+    },
+    {
+      "id": "coase_007",
+      "belief": "从社会主义者转向市场支持者",
+      "source": "As a young man I was a Socialist... My socialist sympathies gradually fell away",
+      "evidence_count": 2,
+      "explanation": "科斯的政治演变"
+    },
+    {
+      "id": "coase_008",
+      "belief": "财产权利与法律基础",
+      "source": "Coase Theorem + law and economics",
+      "evidence_count": 3,
+      "explanation": "科斯作为法和经济学创始人"
+    }
+  ],
+  "key_themes": [
+    "没有交易成本,产权分配不影响效率",
+    "企业存在是交易成本的结果",
+    "经济学应研究真实世界",
+    "经济学是自杀如果变成'选择的硬科学'",
+    "耐用消费品垄断者不能有市场权力",
+    "中国改革是"边缘革命"",
+    "从社会主义者转向市场支持者",
+    "财产权利与法律基础"
+  ],
+  "sources_used": ["Wikipedia", "西方经济学常识补充"]
+}

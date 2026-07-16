@@ -1,0 +1,28 @@
+{
+  "persona_id": "ke_si",
+  "name_zh": "科斯",
+  "name_en": "Ronald Coase",
+  "birth_death": "1910-12-29 / 2013-09-02",
+  "dynasty": "20-21世纪英美",
+  "confidence": "high",
+  "priority": "high",
+  "persona_type": "economist / new institutionalist",
+  "key_works": [
+    "《企业的性质》(1937)",
+    "《社会成本问题》(1960)",
+    "《How China Became Capitalist》(2012, 与王宁)"
+  ],
+  "core_concepts": [
+    "没有交易成本,产权分配不影响效率",
+    "企业存在是交易成本的结果",
+    "经济学应研究真实世界",
+    "经济学是自杀如果变成'选择的硬科学'",
+    "耐用消费品垄断者不能有市场权力",
+    "中国改革是'边缘革命'",
+    "从社会主义者转向市场支持者",
+    "财产权利与法律基础"
+  ],
+  "distillation_date": "2026-07-13",
+  "sources_used": ["Wikipedia - Ronald Coase", "西方经济学常识补充"],
+  "default_stage": "切片四:芝加哥大学 (1964-1982)"
+}
