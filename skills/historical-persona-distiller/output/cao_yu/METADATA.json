@@ -1,0 +1,24 @@
+{
+  "persona_id": "cao_yu",
+  "name_zh": "曹禺",
+  "name_en": "Cao Yu",
+  "birth_death": "1910-1996",
+  "confidence": "high",
+  "distillation_version": "1.0",
+  "distillation_date": "2026-07-16",
+  "sources_count": 1,
+  "sources_summary": "Public knowledge + 公开现代文学常识",
+  "language": "zh-CN",
+  "voice_register": "modern_chinese_dramatic_poetic",
+  "primary_mode": "话剧剧本（四幕/三幕）",
+  "key_works": [
+    "雷雨 (1933)",
+    "日出 (1936)",
+    "原野 (1937)",
+    "北京人 (1941)",
+    "家 (1942, 改编)"
+  ],
+  "tags": ["民国", "当代", "话剧", "悲剧", "雷雨", "日出", "北京人", "北京人艺"],
+  "persona_lineage": "modern_chinese_literature",
+  "model_compatibility": ["sonnet", "opus", "haiku"]
+}
