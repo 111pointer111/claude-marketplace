@@ -1,0 +1,88 @@
+# Source 2: MacTutor History of Mathematics - Isaac Newton Biography
+## Overview
+Isaac Newton's life can be divided into three quite distinct periods. The first is his boyhood days from 1643 up to his appointment to a chair in 1669. The second period from 1669 to 1687 was the highly productive period in which he was Lucasian professor at Cambridge. The third period (nearly as long as the other two combined) saw Newton as a highly paid government official in London with little further interest in mathematical research.
+
+## Birth and Family
+Isaac Newton was born in the manor house of Woolsthorpe, near Grantham in Lincolnshire. Although by the calendar in use at the time of his birth he was born on Christmas Day 1642, we give the date of 4 January 1643 in this biography which is the "corrected" Gregorian calendar date bringing it into line with our present calendar. (The Gregorian calendar was not adopted in England until 1752.) Isaac Newton came from a family of farmers but never knew his father, also named Isaac Newton, who died in October 1642, three months before his son was born.
+
+Isaac's mother Hannah Ayscough remarried Barnabas Smith the minister of the church at North Witham, a nearby village, when Isaac was two years old. The young child was then left in the care of his grandmother Margery Ayscough at Woolsthorpe. Basically treated as an orphan, Isaac did not have a happy childhood. There is no doubt that Isaac felt very bitter towards his mother and his step-father Barnabas Smith. When examining his sins at age nineteen, Isaac listed:-
+
+Threatening my father and mother Smith to burn them and the house over them.
+
+Upon the death of his stepfather in 1653, Newton lived in an extended family consisting of his mother, his grandmother, one half-brother, and two half-sisters. From shortly after this time Isaac began attending the Free Grammar School in Grantham. His school reports described him as 'idle' and 'inattentive'. His mother, by now a lady of reasonable wealth and property, thought that her eldest son was the right person to manage her affairs and her estate. Isaac was taken away from school but soon showed that he had no talent, or interest, in managing an estate.
+
+An uncle, William Ayscough, decided that Isaac should prepare for entering university and, having persuaded his mother that this was the right thing to do, Isaac was allowed to return to the Free Grammar School in Grantham in 1660 to complete his school education. Another piece of evidence comes from Isaac's list of sins referred to above. He lists one of his sins as:-
+
+... setting my heart on money, learning, and pleasure more than Thee ...
+
+which tells us that Isaac must have had a passion for learning.
+
+## Cambridge Years
+Newton entered his uncle's old College, Trinity College Cambridge, on 5 June 1661. He was older than most of his fellow students but, despite the fact that his mother was financially well off, he entered as a sizar. A sizar at Cambridge was a student who received an allowance toward college expenses in exchange for acting as a servant to other students.
+
+Newton's aim at Cambridge was a law degree. Instruction at Cambridge was dominated by the philosophy of Aristotle but some freedom of study was allowed in the third year of the course. Newton studied the philosophy of Descartes, Gassendi, Hobbes, and in particular Boyle. The mechanics of the Copernican astronomy of Galileo attracted him and he also studied Kepler's Optics. He recorded his thoughts in a book which he entitled Quaestiones Quaedam Philosophicae. It is a fascinating account of how Newton's ideas were already forming around 1664. He headed the text with a Latin statement meaning "Plato is my friend, Aristotle is my friend, but my best friend is truth" showing himself a free thinker from an early stage.
+
+How Newton was introduced to the most advanced mathematical texts of his day is slightly less clear. According to de Moivre, Newton's interest in mathematics began in the autumn of 1663 when he bought an astrology book at a fair in Cambridge and found that he could not understand the mathematics in it. Attempting to read a trigonometry book, he found that he lacked knowledge of geometry so decided to read Barrow's edition of Euclid's Elements. The first few results were so easy that he almost gave up but he:-
+
+... changed his mind when he read that parallelograms upon the same base and between the same parallels are equal.
+
+Returning to the beginning, Newton read the whole book with a new respect. He then turned to Oughtred's Clavis Mathematica and Descartes' La Géométrie. It appears that his first original mathematical work came from his study of Wallis's method for finding a square of equal area to a parabola and a hyperbola which used indivisibles. Newton made notes on Wallis's treatment of series but also devised his own proofs of the theorems writing:-
+
+Thus Wallis doth it, but it may be done thus ...
+
+Despite some evidence that his progress had not been particularly good, Newton was elected a scholar on 28 April 1664 and received his bachelor's degree in April 1665.
+
+## Plague Years and Revolutionary Discoveries
+It would appear that his scientific genius had still not emerged, but it did so suddenly when the plague closed the University in the summer of 1665 and he had to return to Lincolnshire. There, in a period of less than two years, while Newton was still under 25 years old, he began revolutionary advances in mathematics, optics, physics, and astronomy.
+
+While Newton remained at home he laid the foundations for differential and integral calculus, several years before its independent discovery by Leibniz. The 'method of fluxions', as he termed it, was based on his crucial insight that the integration of a function is merely the inverse procedure to differentiating it.
+
+While Newton remained at home he laid the foundations for differential and integral calculus, several years before its independent discovery by Leibniz. The 'method of fluxions', as he termed it, was based on his crucial insight that the integration of a function is merely the inverse procedure to differentiating it. Taking differentiation as the basic operation, Newton produced simple analytical methods that unified many separate techniques previously developed to solve apparently unrelated problems such as finding areas, tangents, the lengths of curves and the maxima and minima of functions.
+
+When the University of Cambridge reopened after the plague in 1667, Newton put himself forward as a candidate for a fellowship. In October he was elected to a minor fellowship at Trinity College but, after being awarded his Master's Degree, he was elected to a major fellowship in July 1668 which allowed him to dine at the Fellows' Table. In July 1669 Barrow tried to ensure that Newton's mathematical achievements became known to the world. He sent Newton's text De Analysi to Collins in London writing:-
+
+[[Newton ./)] brought me the other day some papers, wherein he set down methods of calculating the dimensions of magnitudes like that of Mr Mercator concerning the hyperbola, but very general; as also of resolving equations; which I suppose will please you; and I shall send you them by the next.
+
+Barrow resigned the Lucasian chair in 1669 to devote himself to divinity, recommending that Newton (still only 27 years old) be appointed in his place.
+
+## Optics
+Newton's first work as Lucasian Professor was on optics and this was the topic of his first lecture course begun in January 1670. He had reached the conclusion during the two plague years that white light is not a simple entity. Every scientist since Aristotle had believed that white light was a basic single entity, but the chromatic aberration in a telescope lens convinced Newton otherwise. When he passed a thin beam of sunlight through a glass prism Newton noted the spectrum of colours that was formed.
+
+He argued that white light is really a mixture of many different types of rays which are refracted at slightly different angles, and that each different type of ray produces a different spectral colour. Newton was led by this reasoning to the erroneous conclusion that telescopes using refracting lenses would always suffer chromatic aberration. He therefore proposed and constructed a reflecting telescope.
+
+In 1672 Newton was elected a fellow of the Royal Society after donating a reflecting telescope. Also in 1672 Newton published his first scientific paper on light and colour in the Philosophical Transactions of the Royal Society. The paper was generally well received but Hooke and Huygens objected to Newton's attempt to prove, by experiment alone, that light consists of the motion of small particles rather than waves.
+
+Newton's relations with Hooke deteriorated further when, in 1675, Hooke claimed that Newton had stolen some of his optical results. Although the two men made their peace with an exchange of polite letters, Newton turned in on himself and away from the Royal Society which he associated with Hooke as one of its leaders. He delayed the publication of a full account of his optical researches until after the death of Hooke in 1703. Newton's Opticks appeared in 1704.
+
+In 1678 Newton appears to have suffered a nervous breakdown. His mother died in the following year and he withdrew further into his shell, mixing as little as possible with people for a number of years.
+
+## Universal Gravitation
+Newton's greatest achievement was his work in physics and celestial mechanics, which culminated in the theory of universal gravitation. By 1666 Newton had early versions of his three laws of motion. He had also discovered the law giving the centrifugal force on a body moving uniformly in a circular path. However he did not have a correct understanding of the mechanics of circular motion.
+
+Newton's novel idea of 1666 was to imagine that the Earth's gravity influences the Moon, counter-balancing its centrifugal force. From his law of centrifugal force and Kepler's third law of planetary motion, Newton deduced the inverse-square law.
+
+In 1679 Newton corresponded with Hooke who had written to Newton claiming:-
+
+... that the Attraction always is in a duplicate proportion to the Distance from the Center Reciprocall ...
+
+In 1684 Halley, tired of Hooke's boasting, asked Newton what orbit a body followed under an inverse square force, and Newton replied immediately that it would be an ellipse. Halley persuaded Newton to write a full treatment of his new physics and its application to astronomy. Over a year later (1687) Newton published the Philosophiae naturalis principia mathematica or Principia as it is always known.
+
+The Principia is recognised as the greatest scientific book ever written. Newton analysed the motion of bodies in resisting and non-resisting media under the action of centripetal forces. The results were applied to orbiting bodies, projectiles, pendulums, and free-fall near the Earth. He further demonstrated that the planets were attracted toward the Sun by a force varying as the inverse square of the distance and generalised that all heavenly bodies mutually attract one another.
+
+Further generalisation led Newton to the law of universal gravitation:-
+
+... all matter attracts all other matter with a force proportional to the product of their masses and inversely proportional to the square of the distance between them.
+
+## Government Service
+After suffering a second nervous breakdown in 1693, Newton retired from research. The reasons for this breakdown have been discussed by his biographers and many theories have been proposed: chemical poisoning as a result of his alchemy experiments; frustration with his researches; the ending of a personal friendship with Fatio de Duillier; and problems resulting from his religious beliefs.
+
+Newton decided to leave Cambridge to take up a government position in London becoming Warden of the Royal Mint in 1696 and Master in 1699. However, he did not resign his positions at Cambridge until 1701. As Master of the Mint, adding the income from his estates, we see that Newton became a very rich man. He led it through the difficult period of recoinage and he was particularly active in measures to prevent counterfeiting of the coinage.
+
+Newton's assistant Whiston had seen his rage at first hand. He wrote:-
+
+Newton was of the most fearful, cautious and suspicious temper that I ever knew.
+
+## Royal Society and Later Life
+In 1703 he was elected president of the Royal Society and was re-elected each year until his death. He was knighted in 1705 by Queen Anne, the first scientist to be so honoured for his work. However the last portion of his life was not an easy one, dominated in many ways with the controversy with Leibniz over which of them had invented the calculus.
+
+Given the rage that Newton had shown throughout his life when criticised, it is not surprising that he flew into an irrational temper directed against Leibniz.

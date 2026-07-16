@@ -1,0 +1,48 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "nuo_si",
+  "political_orientation": {
+    "regime_form": "20-21世纪美国新制度经济学家",
+    "rule_style": "新制度经济学+制度变迁理论",
+    "legitimacy_basis": ["制度变迁理论", "路径依赖", "有限进入 vs 开放进入"]
+  },
+  "controversial_positions": [
+    {
+      "topic": "意识形态与制度",
+      "view": "制度比意识形态更重要",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "中国改革评价",
+      "view": "边缘革命,值得赞扬",
+      "source": "Wikipedia"
+    },
+    {
+      "topic": "经济学方法论",
+      "view": "应用历史方法研究制度",
+      "source": "Wikipedia"
+    }
+  ],
+  "intellectual_influences": [
+    "Robert Fogel(共同诺奖)",
+    "Ronald Coase(新制度经济学)",
+    "Oliver Williamson(ISNIE 共同创始人)",
+    "Douglass Davis 等计量经济史学家"
+  ],
+  "intellectual_legacy": [
+    "新制度经济学(共同)",
+    "路径依赖理论",
+    "制度变迁理论",
+    "有限进入 vs 开放进入",
+    "中国改革研究",
+    "1993 诺奖"
+  ],
+  "spectrum_placement": {
+    "centralization": "新制度经济学",
+    "tolerance": "对各种政治体制的制度分析",
+    "religious_authority": "无明确宗教倾向",
+    "wealth": "学术教席(华盛顿大学等)",
+    "international": "全球制度经济学影响"
+  },
+  "sources_used": ["Wikipedia"]
+}

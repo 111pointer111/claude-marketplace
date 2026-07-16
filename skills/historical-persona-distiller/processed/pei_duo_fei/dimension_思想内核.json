@@ -1,0 +1,59 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "pei_duo_fei",
+  "人物": "裴多菲·山陀尔（Sándor Petőfi）",
+  "confidence": "medium",
+  "总结": "裴多菲是匈牙利浪漫主义诗歌巅峰诗人，也是1848年匈牙利革命的象征性人物。他以自由为核心信仰，将民歌形式提升为严肃文学，以直接、不矫揉造作的风格揭示微妙情感与政治理想，在短短26年的生命中点燃了匈牙利民族自由的火炬。",
+
+  "核心理念": [
+    {
+      "理念": "自由高于一切",
+      "原文引用": "Politically, he was an extreme radical and an inspired agitator, but he was lacking in experience and failed to obtain a seat in the Diet. His poems glowed with political passion.",
+      "原文引用2": "A fervent partisan of the French Revolution, he castigated the social conditions of his country, attacking the privileges of the nobles and the monarchy.",
+      "说明": "裴多菲将自由视为最高价值，是法国大革命的狂热支持者，猛烈抨击贵族和君主的特权，以诗歌为武器激发民族革命热情。"
+    },
+    {
+      "理念": "民族觉醒与人民力量",
+      "原文引用": "One of them, 'Talpra magyar' ('Rise, Hungarian'), written on the eve of the revolution, became its anthem.",
+      "原文引用2": "Sándor Petőfi... was one of the greatest Hungarian poets and a revolutionary who symbolized the Hungarian desire for freedom.",
+      "说明": "裴多菲的诗作《站起来，匈牙利人》成为1848年匈牙利革命的颂歌，象征着匈牙利民族对自由的渴望，激发了无数人民的革命斗志。"
+    },
+    {
+      "理念": "爱情作为诗歌灵感",
+      "原文引用": "In 1847 he married Julia Szendrey, who inspired his best love poems.",
+      "原文引用2": "His poetry is characterized by realism, humour, and descriptive power and imbued with a peculiar vigour.",
+      "说明": "裴多菲的爱情诗受妻子朱莉娅·森德雷的启发，他的情诗以现实主义为基础，充满幽默感和独特活力。"
+    },
+    {
+      "理念": "民歌形式的文学升华",
+      "原文引用": "He introduced a direct, unpretentious style and a clear, unornamented construction adapted from national folk songs.",
+      "原文引用2": "This simplicity was the more arresting as it was used to reveal subtle emotions and political or philosophical ideas.",
+      "说明": "裴多菲将匈牙利民歌的直接性和清晰性引入严肃文学，使简洁的形式承载深刻的思想内容，开创了匈牙利诗歌的新范式。"
+    },
+    {
+      "理念": "革命的献身精神",
+      "原文引用": "Petőfi disappeared during the Battle of Segesvár, July 31, 1849, and was assumed to have died in the fighting, though his body was never discovered.",
+      "原文引用2": "Petőfi's popularity has never diminished in Hungary.",
+      "说明": "裴多菲在1849年塞盖什瓦尔战役中失踪牺牲，年仅26岁，但他的人气在匈牙利从未减弱，他被视为民族自由的永恒象征。"
+    }
+  ],
+
+  "价值观": [
+    "自由至上：自由是人生最宝贵的价值，甚至高于生命和爱情",
+    "民族主义：热爱匈牙利民族，渴望民族独立与自由",
+    "现实主义：诗歌描写现实，而非沉溺于空洞的浪漫幻想",
+    "直接表达：反对矫揉造作，追求清晰、不加修饰的表达"
+  ],
+
+  "思维特征": [
+    "政治敏感：密切关注社会问题，敢于批判权贵",
+    "情感丰富：能细腻捕捉微妙情感，特别是爱情与爱国情感",
+    "务实倾向：诗歌面向大众，语言通俗易懂"
+  ],
+
+  "历史定位": {
+    "国内": "匈牙利最伟大的诗人之一，1848年革命的象征",
+    "国际": "欧洲浪漫主义诗歌的重要代表人物",
+    "文学史": "将民歌形式提升为严肃文学的先驱，匈牙利浪漫主义诗歌巅峰"
+  }
+}

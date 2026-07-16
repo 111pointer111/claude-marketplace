@@ -1,0 +1,65 @@
+# Aulus Cornelius Celsus 引语摘录
+
+## 论医学的本质（Prooemium）
+
+"Just as agriculture promises nourishment to healthy bodies, so does the Art of Medicine promise health to the sick."
+（正如农业为健康的身体提供营养一样，医学艺术为患病者带来健康。）
+
+" Nowhere is this Art wanting, for the most uncivilized nations have had knowledge of herbs, and other things to hand for the aiding of wounds and diseases."
+（这一艺术无处不在，因为最不开化的民族也懂得使用草药和其他随手可得的材料来治疗创伤和疾病。）
+
+" This Art, however, has been cultivated among the Greeks much more than in other nations — not, however, even among them from their first beginnings, but only for a few generations before ours."
+（然而，这一艺术在希腊人中的发展远超其他民族——但即便在希腊人中，它也不是从最初就开始的，而只是在我们之前的几代人才开始发展。）
+
+"Hence Aesculapius is celebrated as the most ancient authority, and because he cultivated this science, as yet rude and vulgar, with a little more than common refinement, he was numbered among the gods."
+（因此，阿斯克勒庇俄斯被尊为最古老的权威，他以略高于常人的素养培育了这门当时尚粗糙、简陋的科学，因此被列入诸神之列。）
+
+"After him his two sons, Podalirius and Machaon, who followed Agamemnon as leader to the Trojan War, gave no inconsiderable help to their comrades. Homer stated, however, not that they gave any aid in the pestilence or in the various sorts of diseases, but only that they relieved wounds by the knife and by medicaments."
+（在他之后，他的两个儿子波达利里乌斯和马卡昂，随阿伽门农参加了特洛伊战争，给战友提供了相当大的帮助。然而荷马说，他们并非帮助治疗瘟疫或各种疾病，而只是用刀和药物治疗创伤。）
+
+"Since of the divisions of the Art of Medicine, the one which heals diseases, as it is the most difficult, is also the most famous, we must speak about it first."
+（由于医学艺术的各个分支中，以治疗疾病这一分支最为困难，也最为著名，我们必须首先讨论它。）
+
+## 论经验与理论
+
+"They, then, who profess a reasoned theory of medicine propound as requisites, first, a knowledge of hidden causes involving diseases, next, of evident causes, after these of natural actions also, and lastly of the internal parts."
+（那些主张医学理性理论的人提出必需条件是：首先了解疾病所涉及的隐性原因，其次是明显原因，再次是自然作用，最后是内部器官。）
+
+"Those who are called 'Empirici' because they have experience, do indeed accept evident causes as necessary; but they contend that inquiry about obscure causes and natural actions is superfluous, because nature is not to be comprehended."
+（那些被称为"经验派"的人因为有经验，确实承认明显原因是必需的；但他们认为对隐秘原因和自然作用的探究是多余的，因为自然是不可理解的。）
+
+"It is not by eloquence but by remedies that diseases are treated."
+（治疗疾病的不是雄辩，而是药物。）
+
+"A man of few words who learns by practice to discern well, would make an altogether better practitioner than he who, unpractised, over-cultivates his tongue."
+（一个少言寡语但从实践中学会正确判断的人，比一个缺乏实践却善于言辞的人更能成为优秀的执业者。）
+
+"For even a farmer, or a pilot, is made not by disputation but by practice."
+（因为即使是农夫或飞行员，也不是通过争辩而是靠实践养成的。）
+
+## 论解剖学
+
+"Moreover, as pains, and also various kinds of diseases, arise in the more internal parts, they hold that no one can apply remedies for these who is ignorant about the parts themselves; hence it becomes necessary to lay open the bodies of the dead and to scrutinize their viscera and intestines."
+（而且，由于疼痛和各种疾病都发生在内部器官，那些对器官本身一无所知的人被认为无法为其.apply remedies；因此，有必要打开死者的身体，仔细检查其内脏和肠道。）
+
+"Nor is it, as most people say, cruel that in the execution of criminals, and but a few of them, we should seek remedies for innocent people of all future ages."
+（正如大多数人所说，利用罪犯（尽管只是少数）来为未来所有时代无辜的人寻求治疗，这并非残酷。）
+
+## 论健康法则（Book I）
+
+"A man in health, who is both vigorous and his own master, should be under no obligatory rules, and have no need, either for a medical attendant, or for a rubber and anointer."
+（一个健康、精力充沛且自主的人不应受到任何强制性的规则约束，也不需要医生、按摩师或涂油师。）
+
+"His kind of life should afford him variety; he should be now in the country, now in town, and more often about the farm; he should sail, hunt, rest sometimes, but more often take exercise; for whilst inaction weakens the body, work strengthens it; the former brings on premature old age, the latter prolongs youth."
+（他的生活方式应该多样化；他应该时而居于乡村，时而居于城市，更经常在农庄；他应该航行、狩猎、时而休息，但更经常锻炼；因为静止不动会使身体衰弱，工作则增强它；前者导致早衰，后者延长青春。）
+
+"It is well also at times to go to the bath, at times to make use of cold waters; to undergo sometimes inunction, sometimes to neglect that same; to avoid no kind of food in common use; to attend at times a banquet, at times to hold aloof; to eat more than sufficient at one time, at another no more."
+（有时洗个澡是有益的，有时使用冷水也有益；有时涂油，有时则不必；不回避任何常见食物；有时赴宴，有时则回避；有时吃得过饱，有时吃得很少。）
+
+## 论文体评价
+
+"The whole book is remarkable for its symmetry and completeness, and the language is strong, lucid and elegant. It has been said with justice that the writer did for science what Cicero did for philosophy."
+（整部书以其对称性和完整性著称，语言有力、明晰、优雅。公正地说，这位作家为科学所做的，正如西塞罗为哲学所做的那样。）
+
+"The first printed edition of Celsus' work was published in 1478. His style has been much admired as being equal in purity and elegance to that of the best writers of the Augustan age."
+（Celsus著作的第一个印刷版本于1478年出版。他的文风被高度赞赏，认为其纯正和优雅可与奥古斯都时代最优秀作家相媲美。）

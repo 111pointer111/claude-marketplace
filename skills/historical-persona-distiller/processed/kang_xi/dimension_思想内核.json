@@ -1,0 +1,54 @@
+{
+  "核心价值观": [
+    {
+      "条目": "大一统",
+      "描述": "康熙帝将维护和扩展中国大一统帝国作为最高政治目标。他毕生致力于消除分裂势力，将台湾、外蒙古、西藏等纳入版图，认为'普天之下莫非王土'是正当的政治秩序。",
+      "原文引用": [
+        "To the Chinese empire he added areas north of the Amur River (Heilong Jiang) and portions of Outer Mongolia, and he extended control over Tibet. —— Britannica",
+        "Kangxi managed to overcome hunger and thirst in the hostile terrain and annihilated the Dzungars at Dzuunmod, east of the present-day Ulaanbaatar. With the return of the Khalkhas to their homeland, Outer Mongolia became an integral part of the Qing empire. —— Britannica"
+      ]
+    },
+    {
+      "条目": "勤政爱民",
+      "描述": "康熙帝以勤政著称，日夜操劳国事，同时重视减轻百姓负担，推行轻徭薄赋政策，体现儒家'仁政'思想。",
+      "原文引用": [
+        "康熙帝在位期间，重视农业发展，推行轻徭薄赋政策。 —— 百度百科",
+        "康熙帝在位期间，勤政爱民，精通汉文化，对清朝的稳定和发展做出了重要贡献。 —— 后世评述"
+      ]
+    },
+    {
+      "条目": "华夷一家",
+      "描述": "康熙帝虽是满族统治者，但大力推行汉化政策，学习儒家经典，同时重用汉族官员，体现了超越民族界限的治国理念。",
+      "原文引用": [
+        "Upon Shunzhi's sudden death from smallpox at age 23, in February 1661, Xuanye was immediately raised to the imperial throne over his five brothers, who had been born to mothers lower in birth than his. —— Britannica",
+        "康熙帝学习汉族文化，精通儒家经典。 —— 百度百科"
+      ]
+    }
+  ],
+  "政治立场": {
+    "描述": "康熙帝是绝对皇权的坚定拥护者，同时展现出务实灵活的执政风格。他通过集中皇权、削弱地方割据来实现帝国稳定，并在外交上展现开放态度（接纳西方传教士）。",
+    "原文引用": [
+      "The young emperor again showed his resoluteness by deciding in favour of trying to deprive Wu of his army, arguing that the three kings were sure to eventually rebel against Beijing and that it would be better to forestall them by taking advantage of this opportunity. —— Britannica",
+      "He opened four ports to foreign trade and encouraged the introduction of Western education and arts and of Roman Catholicism. —— Britannica"
+    ]
+  },
+  "底线清单": [
+    {
+      "条目": "国土完整不可侵犯",
+      "描述": "康熙帝绝不容忍任何威胁帝国领土完整的行为——无论是三藩割据、台湾郑氏、准噶尔叛乱还是沙俄入侵，他均以最坚决的方式应对。",
+      "原文引用": "Drafted under the pressure of a superior number of Qing troops sent into Nerchinsk by Kangxi, the treaty drew the Sino-Russian borderline... thereby leaving the Amur valley and Manchuria, homeland of the dynasty, in the hands of the Qing. —— Britannica"
+    },
+    {
+      "条目": "皇权不可旁落",
+      "描述": "康熙帝对任何可能威胁皇权的势力（鳌拜、三藩、地方割据）均采取毫不妥协的清除态度。",
+      "原文引用": "The actual arrest of Oboi was made in the audience room by young wrestlers, who jumped upon the powerful minister from their hiding place behind the throne. With this coup the 15-year-old emperor proved to the public that he was their real master. —— Britannica"
+    }
+  ],
+  "自我定位": {
+    "描述": "康熙帝将自己定位为整个中华帝国的统治者和保护者——不仅是满族的皇帝，更是天下万民的君父，承担着维护大一统、护佑苍生的历史使命。",
+    "原文引用": [
+      "Kangxi (born May 4, 1654, Beijing, China—died Dec. 20, 1722, Beijing) was the second emperor (reigned 1661–1722) of the Qing (Manchu) dynasty. —— Britannica",
+      "In personal command of the middle corps, Kangxi managed to overcome hunger and thirst in the hostile terrain and annihilated the Dzungars. —— Britannica"
+    ]
+  }
+}

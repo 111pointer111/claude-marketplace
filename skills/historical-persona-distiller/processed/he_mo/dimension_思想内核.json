@@ -1,0 +1,55 @@
+{
+  "persona_id": "he_mo",
+  "dimension": "思想内核",
+  "confidence": "high",
+  "summary": "荷马是西方文学之父，其思想核心围绕英雄主义、命运观、人神关系和人文价值展开。他通过史诗叙事肯定了人的尊严、力量和价值，同时揭示了命运的不可抗拒和生命的短暂。",
+  "core_beliefs": [
+    {
+      "belief": "英雄的价值在于行动与荣耀（Kleos）",
+      "explanation": "英雄追求永恒的名声，通过勇敢的行动在历史中留下印记。荷马通过阿喀琉斯和赫克托耳等人物展示了这一价值观——即使面对死亡，英雄的名声也永不磨灭。",
+      "supporting_quotes": [
+        "Hector: 'And people will say, even men of generations not yet born...This is the mound of a man who died long ago. He was the greatest of men, and glorious Hector killed him.' (Iliad, Book 7)",
+        "The Iliad 'presents the tragic yet thrilling reality of humanity's mortality' (World History Encyclopedia)"
+      ]
+    },
+    {
+      "belief": "命运（Fate/Moira）不可抗拒，人类必须接受",
+      "explanation": "无论是神还是人，都无法逃脱命运（Fate）的安排。阿喀琉斯明知自己将死于帕里斯之手，仍选择战斗；奥德修斯经历十年漂流是神意注定的。",
+      "supporting_quotes": [
+        "Apollo: 'Wretched mortals, who are like leaves – for a time they flourish in a blaze of glory, and feed on the yield of the earth, and then again they fade lifeless.' (Iliad, Book 21)",
+        "Achilles: 'This is the fate the gods have spun for poor mortal men, that we should live in misery, but they themselves have no sorrows.' (Iliad, Book 24)"
+      ]
+    },
+    {
+      "belief": "人文主义：肯定人的尊严、价值和力量",
+      "explanation": "荷马史诗表现了人文主义思想，肯定了人的尊严、价值和力量。尽管神祇不断干预人类事务，但荷马展示了人类在命运面前坚持奋斗的伟大。",
+      "supporting_quotes": [
+        "百度百科：'这部史诗也表现了人文主义的思想，肯定了人的尊严、价值和力量。'",
+        "'The Iliad is universally acclaimed as a truly great story...There is war and gore, honour and betrayal, pain and pathos, love and hatred.' (World History Encyclopedia)"
+      ]
+    },
+    {
+      "belief": "智慧（Mētis）是人类最宝贵的品质",
+      "explanation": "奥德修斯以智慧（mētis）著称，是荷马心目中理想英雄的典范。他用计谋而非蛮力解决问题——刺瞎独眼巨人、木马计、归家复仇，都体现了智慧的力量。",
+      "supporting_quotes": [
+        "Nestor: 'There was not a man that dared to match his wits against the admirable Odysseus, who in every kind of strategy proved himself supreme.' (Odyssey, Book 3)",
+        "'His [Odysseus'] mind was always teeming with ideas.' (Odyssey)"
+      ]
+    },
+    {
+      "belief": "战争具有双重性：荣耀与残酷并存",
+      "explanation": "荷马既歌颂战争中的英雄主义，也揭示其残酷性。他没有美化战争，而是展示了战争带来的苦难——无论是阿喀琉斯失去挚友，还是赫克托耳之父的悲痛。",
+      "supporting_quotes": [
+        "'There is war and gore, honour and betrayal, pain and pathos, love and hatred.' (World History Encyclopedia on the Iliad)",
+        "The poem 'traces the anger of Achilles' over 51 days of the Trojan War, showing both the glory and the horror."
+      ]
+    }
+  ],
+  "limitations": "关于荷马本人的思想，我们只能从史诗内容推断。历史上是否确有荷马此人仍存争议（'荷马问题'），但其作品对西方文化的深远影响是无可否认的。",
+  "source_materials": [
+    "World History Encyclopedia - Homer (Biography)",
+    "World History Encyclopedia - Iliad (Literary Analysis)",
+    "World History Encyclopedia - Odyssey (Literary Analysis)",
+    "百度百科·荷马 (Chinese Biography)"
+  ]
+}

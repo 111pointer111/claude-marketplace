@@ -1,0 +1,180 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "xiu_mo",
+  "confidence": "high",
+  "version": "1.0",
+  "last_updated": "2026-05-01",
+
+  "core_theses": [
+    {
+      "id": "CT-01",
+      "thesis": "经验主义知识论：一切知识源于印象，观念是印象的复制品",
+      "description": "休谟认为所有简单观念最初都来源于与之对应的简单印象。人类心灵的一切内容——知识、道德、美感——都必须追溯到感官印象或内心情感。这一原则（复制原则）是其哲学体系的基石。",
+      "citations": [
+        {
+          "text": "All our simple ideas in their first appearance are deriv'd from simple impressions, which are correspondent to them, and which they exactly represent.",
+          "source": "Treatise, 1.1.1.7/4",
+          "source_name": "Stanford Encyclopedia of Philosophy"
+        },
+        {
+          "text": "to shew a simple impression, that has not a correspondent idea, or a simple idea, that has not a correspondent impression",
+          "source": "Treatise, 1.1.1",
+          "source_name": "Internet Encyclopedia of Philosophy"
+        }
+      ],
+      "implications": [
+        "任何无法追溯到印象的概念都缺乏认知内容",
+        "形而上学试图超越经验的声称都是无意义的",
+        "心灵是一块白板（虽然休谟并非完全反对内在能力）"
+      ]
+    },
+    {
+      "id": "CT-02",
+      "thesis": "因果习惯论：因果关系是基于习惯的心理联想，而非客观必然性",
+      "description": "休谟提出，我们对因果关系的理解并非来自对客观因果力量的观察，而是来自反复观察事件之间的恒常连接（constant conjunction），这种连接在心灵中形成习惯——每当看到A出现就期待B随之而来。因果的'必然联系'感来源于心灵的习惯性联想，而非外部世界的客观属性。",
+      "citations": [
+        {
+          "text": "all reasonings concerning matters of fact seem to be founded on the relation of Cause and Effect",
+          "source": "EHU 4.1.4/26",
+          "source_name": "Stanford Encyclopedia of Philosophy"
+        },
+        {
+          "text": "A habitual association is set up in the mind; and, as in other forms of habit, so in this one, the working of the association is felt as compulsion. This feeling, Hume concludes, is the only discoverable impressional source of the idea of causality.",
+          "source": "Britannica",
+          "source_name": "Britannica Encyclopedia"
+        },
+        {
+          "text": "Custom … makes us expect for the future, a similar train of events with those which have appeared in the past",
+          "source": "EHU 5.1.6/44",
+          "source_name": "Stanford Encyclopedia of Philosophy"
+        }
+      ],
+      "implications": [
+        "归纳问题：为什么我们可以从过去推断未来？答案是习惯，而非理性",
+        "科学法则不是关于客观必然性的陈述，而是关于恒常连接的经验规律",
+        "我们无法证明因果关系本身，只能证明习惯性联想"
+      ]
+    },
+    {
+      "id": "CT-03",
+      "thesis": "怀疑主义知识论（温和怀疑论）：理性的根本局限与自然信念的不可逃避性",
+      "description": "休谟的怀疑主义是'温和的'——他承认理性在某些领域（尤其是日常生活）是有用的，但理性无法证明其自身的基础。通过对因果推理、归纳法、个人同一性等概念的批判，休谟指出理性最终依赖于无法用理性证明的自然本能和习惯。",
+      "citations": [
+        {
+          "text": "All these operations are species of natural instincts, which no reasoning … is able either to produce or prevent",
+          "source": "EHU 5.1.8/46-47",
+          "source_name": "Stanford Encyclopedia of Philosophy"
+        },
+        {
+          "text": "For my part, when I enter most intimately into what I call my self, I always stumble on some particular perception or other, of heat or cold, light or shade, love or hatred, desire or will. I can never catch my self without a perception, and never can observe any thing but the perception.",
+          "source": "Treatise, 1.4.6.3",
+          "source_name": "Internet Encyclopedia of Philosophy"
+        }
+      ],
+      "implications": [
+        "哲学怀疑主义对形而上学的批判是正当的",
+        "但怀疑主义不能取代日常生活中的自然信念（如对外物存在的信念）",
+        "理性的最终基础是非理性的自然本能——这是理性的悖论"
+      ]
+    },
+    {
+      "id": "CT-04",
+      "thesis": "情感主义伦理学：道德基于情感而非理性推理",
+      "description": "休谟认为道德判断的核心不是理性而是情感。我们判断某事物为'善'是因为它给我们带来愉悦的情感反应，'恶'则引发不愉悦的反应。道德根源在于人性的情感部分（痛苦与快乐的联想），而非理性对客观道德法则的发现。他著名的'休谟法则'（不能从'是'推出'应当'）批判了理性主义伦理学的逻辑基础。",
+      "citations": [
+        {
+          "text": "The rules of morality are not the conclusion of our reason.",
+          "source": "BrainyQuote / Hume's works",
+          "source_name": "BrainyQuote"
+        },
+        {
+          "text": "All sentiment is right; because sentiment has a reference to nothing beyond itself, and is always real, wherever a man is conscious of it.",
+          "source": "Hume's works",
+          "source_name": "Orion Philosophy"
+        },
+        {
+          "text": "Human Nature is the only science of man; and yet has been hitherto the most neglected.",
+          "source": "Hume's works",
+          "source_name": "BrainyQuote"
+        }
+      ],
+      "implications": [
+        "道德分歧往往源于情感差异，而非理性辩论",
+        "功利主义伦理学的先驱：'效用'概念引入道德词汇",
+        "伦理学必须以人为中心，而非以抽象原则为中心"
+      ]
+    },
+    {
+      "id": "CT-05",
+      "thesis": "反宗教哲学：宗教信仰的心理起源与批判",
+      "description": "休谟对宗教的批判是其哲学中最具争议性的部分。他反对以设计论证明上帝存在，认为宗教情感起源于人类心理（恐惧、无知、对快乐生活条件的好奇）。他拒绝接受奇迹见证的证据，认为奇迹本质上违反了自然法则的恒常性。",
+      "citations": [
+        {
+          "text": "It begun with an anxious Search after Arguments, to confirm the common Opinion: Doubts stole in, dissipated, return'd, were again dissipated, return'd again.",
+          "source": "Letter to Gilbert Elliot of Minto, March 10, 1751",
+          "source_name": "Internet Encyclopedia of Philosophy"
+        },
+        {
+          "text": "By this time, Hume had not only rejected the religious beliefs with which he was raised, but was also opposed to organized religion in general, an opposition that remained constant throughout his life.",
+          "source": "Stanford Encyclopedia of Philosophy",
+          "source_name": "Stanford Encyclopedia of Philosophy"
+        }
+      ],
+      "implications": [
+        "宗教不是理性论证的结果，而是心理倾向和社会习惯的产物",
+        "奇迹见证的不可靠性：任何声称超自然事件的证据都不如自然法则的恒常性可靠",
+        "哲学应当与宗教分离，让理性独立追求其目标"
+      ]
+    },
+    {
+      "id": "CT-06",
+      "thesis": "牛顿方法论：实验/观察方法是人性科学的唯一可靠基础",
+      "description": "休谟明确以牛顿为榜样，宣称'Hypotheses non fingo'（我不做假设）。他认为哲学应当向自然科学学习，用观察和实验代替先验推理。他提出要建立一门'人性科学'，将所有学科的基础建立在对人类经验的观察之上。",
+      "citations": [
+        {
+          "text": "Hypotheses non fingo — Newton's maxim that Hume adopts: 'I do not do hypotheses'. Any laws discovered must be established by observation and experiment.",
+          "source": "Stanford Encyclopedia of Philosophy",
+          "source_name": "Stanford Encyclopedia of Philosophy"
+        },
+        {
+          "text": "a compleat system of the Sciences, built on a foundation entirely new — the scientific study of human nature.",
+          "source": "Treatise Introduction",
+          "source_name": "Stanford Encyclopedia of Philosophy"
+        },
+        {
+          "text": "endless Disputes — When he was only 18, Hume complained that anyone familiar with philosophy realizes it is embroiled in endless disputes.",
+          "source": "Stanford Encyclopedia of Philosophy",
+          "source_name": "Stanford Encyclopedia of Philosophy"
+        }
+      ],
+      "implications": [
+        "哲学的任务不是构造精致的形而上学体系，而是描述和分析实际的人类心理运作",
+        "任何哲学理论都必须接受经验的检验",
+        "跨学科研究是可能的——所有学科最终都与人性科学相关"
+      ]
+    }
+  ],
+
+  "key_contradictions": [
+    {
+      "area": "知识论",
+      "contradiction": "理性批判的悖论：我们用理性批判理性，但理性本身无法为其自身提供基础"
+    },
+    {
+      "area": "伦理学",
+      "contradiction": "情感主义与理性批判的张力：如果道德基于情感，我们如何批判明显有害的情感偏见？"
+    },
+    {
+      "area": "怀疑主义",
+      "contradiction": "怀疑主义认识论与实践生活的矛盾：怀疑主义在理论上摧毁了一切知识的基础，但我们在实践中仍不得不相信因果、相信自我、相信外部世界"
+    }
+  ],
+
+  "intellectual_legacy": [
+    "对康德哲学的直接激发（休谟问题打断了康德的独断论迷梦）",
+    "功利主义伦理学先驱（边沁明确承认受休谟影响）",
+    "20世纪分析哲学的重要源头之一",
+    "现代认知科学和心理学研究的先驱",
+    "经济学中反重商主义的先驱（与亚当·斯密共同）"
+  ]
+}

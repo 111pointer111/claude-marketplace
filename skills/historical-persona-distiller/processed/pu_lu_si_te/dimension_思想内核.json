@@ -1,0 +1,73 @@
+{
+  "核心价值观": [
+    {
+      "条目": "非自愿记忆的真实性",
+      "描述": "真正的记忆不是有意识的回忆，而是通过感官触发（味觉、嗅觉、听觉）不经意间唤醒的过去。"过去"不是时间中流逝的东西，而是在无意识记忆中永恒存在的东西。习惯使我们对这些深层真实视而不见。",
+      "原文引用": [
+        "One day in winter, as I came home, my mother, seeing that I was cold, offered me some tea, a thing I did not ordinarily take... No sooner had the warm liquid, and the crumbs with it, touched my palate than a shudder ran through my whole body, and I stopped, intent upon the extraordinary changes that were taking place.",
+        "I realized that the materials of my work consisted of my own past."
+      ],
+      "同时代对比": "与柏格森的生命哲学同期，但普鲁斯特将其转化为小说叙事技法；与弗洛伊德无意识理论平行，但早了20年提出文学版本",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "艺术作为救赎",
+      "描述": "艺术是超越时间、死亡和虚无的唯一途径。通过创作《追忆似水年华》，叙述者实现了'时间被重新获得'——过去的美好不是消逝，而是在艺术中永恒存在。伟大艺术家通过艺术愿景得到救赎。",
+      "原文引用": [
+        "Time is regained, and he sets to work, racing against death, to write the very novel the reader has just experienced.",
+        "The narrator's parents are saved by their natural goodness, great artists (the novelist Bergotte, the painter Elstir, the composer Vinteuil) through the vision of their art, Swann through suffering in love, and Charlus through the Lear-like grandeur of his fall."
+      ],
+      "同时代对比": "与尼采'艺术是生命的最高使命'相呼应，但普鲁斯特将其具体化为记忆救赎的叙事结构",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "对贵族社会的幻灭与批判",
+      "描述": "通过德雷福斯事件的参与，亲眼见证了法国上层社会的虚伪、反犹主义和社会偏见。这些经历使普鲁斯特对贵族沙龙和艺术界产生深刻幻灭，并将这种批判融入《追忆似水年华》中对Guermantes家族的讽刺。",
+      "原文引用": [
+        "Proust helped to organize petitions and assisted Dreyfus's lawyer Fernand-Gustave-Gaston Labori, courageously defying the risk of social ostracism. The experience helped to crystallize his disillusionment with aristocratic society, which became visible in his novel.",
+        "As he travels through the Guermantes' world, its apparent poetry and intelligence is dispersed and its real vanity and sterility revealed."
+      ],
+      "同时代对比": "与福楼拜的批判现实主义一脉相承，但普鲁斯特的批判更为内敛，通过叙事而非直接评判来实现",
+      "贯穿程度": "始终如一（晚期更明显）",
+      "实践一致性": "一致"
+    }
+  ],
+  "政治立场": {
+    "描述": "普鲁斯特对绝对皇权无直接立场，但对社会不公（尤其是反犹主义）持明确反对态度。他积极参与德雷福斯事件，展现了对正义的坚定立场，尽管这可能使他被社交圈排斥。",
+    "原文引用": [
+      "Proust helped to organize petitions and assisted Dreyfus's lawyer... courageously defying the risk of social ostracism."
+    ],
+    "时代坐标": "在法国第三共和国晚期， Belle Époque的巴黎社交界中，普鲁斯特是少数公开支持德雷福斯的知识型社交人物之一",
+    "内在张力": "他自己来自犹太家庭，却深度融入反犹的贵族社交圈；这种张力最终通过小说中的批判得到释放",
+    "confidence": "medium"
+  },
+  "底线清单": [
+    {
+      "条目": "艺术真实性",
+      "描述": "艺术创作必须基于真实的无意识记忆，不能是刻意为之的有意识回忆。他强烈反对 Sainte-Beuve 的批评方法——将艺术家的生平与其作品分开的做法对他而言是不可接受的。",
+      "原文引用": "in which the artist's task is to release from the buried world of unconscious memory the ever-living reality to which habit makes us blind.",
+      "是否有例外": "无"
+    },
+    {
+      "条目": "社会正义",
+      "描述": "面对德雷福斯事件这样的社会不公，不选择沉默或回避，而是公开站出来支持正义，即使面临社交排斥的风险。",
+      "原文引用": "courageously defying the risk of social ostracism",
+      "是否有例外": "无"
+    }
+  ],
+  "自我定位": {
+    "描述": "普鲁斯特自视为一个通过艺术实现对时间的超越的叙述者。他不是传统意义上的'作者'，而是其自身经历的'再创造者'——将生活经历转化为艺术作品，从而实现时间的救赎。",
+    "原文引用": [
+      "In his quest for time lost, he invented nothing but altered everything, selecting, fusing, and transmuting the facts so that their underlying unity and universal significance should be revealed, working inward to himself and outward to every aspect of the human condition.",
+      "the story of Proust's own life, told as an allegorical search for truth"
+    ],
+    "与时代关系": "他既是时代的观察者，也是时代的超越者——通过艺术将特定时代的经历转化为普遍的人类处境"
+  },
+  "思想内部张力": {
+    "主要矛盾": "一方面深陷贵族社交的精致与虚荣，另一方面又渴望通过对这种虚伪的批判实现精神超越；一方面哮喘和健康问题使他极度敏感和自我封闭，另一方面他又通过小说中对人类处境的普遍关怀实现了最大程度的向外开放",
+    "深层原因": "他来自一个天主教父亲和犹太母亲的混合家庭，在反犹环境中长大，这使他天然地处于社会的边缘位置；他的哮喘使他无法正常社交，转而向内探索；这两点共同塑造了他的独特视角",
+    "对人格的影响": "这种张力使他成为了一个无与伦比的社会观察者和记忆炼金术士——将个人的痛苦经历转化为普遍的艺术真实"
+  }
+}

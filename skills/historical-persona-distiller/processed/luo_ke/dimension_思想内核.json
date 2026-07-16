@@ -1,0 +1,67 @@
+{
+  "核心价值观": [
+    {
+      "条目": "自然法与自然权利",
+      "描述": "洛克认为存在一种自然法，它根植于人类理性和社会本性之中，保障每个人的生命、自由和财产权。这种自然法先于任何社会和政府存在，政府存在的目的是保护这些自然权利，而非赐予它们。",
+      "原文引用": [
+        "no one ought to harm another in his life, health, liberty or possessions —— Two Treatises of Government",
+        "The state should not interfere here since Locke considered property to be actually a part of that individual since they had laboured for it. —— World History Encyclopedia"
+      ]
+    },
+    {
+      "条目": "经验主义知识论",
+      "描述": "洛克是英国经验主义的奠基人。他认为人类心灵在出生时是一块白板（tabula rasa），所有知识都来自后天的感觉经验和反思。没有任何天赋观念，知识是经验积累的产物。",
+      "原文引用": [
+        "For Locke, there are no innate ideas since the human brain of an infant is a blank slate or white paper, everything we know is learnt through using our senses, experience, and reflection. —— World History Encyclopedia",
+        "Experience: In that, all our Knowledge is founded; and from that it ultimately derives itself. Our Observation employ'd either about external, sensible Objects; or about the internal Operations of our Minds, perceived and reflected on by ourselves, is that, which supplies our Understandings with all the material of thinking. These two are the Fountains of Knowledge, from whence all the Ideas we have, or can naturally have, do spring. —— Essay Concerning Human Understanding"
+      ]
+    },
+    {
+      "条目": "有限政府与人民主权",
+      "描述": "洛克主张政府的权力来源于被统治者的同意，政府的主要职责是保护公民的自然权利。当政府违背这一职责、成为专制政体时，人民有权反抗并建立新政府。这是其社会契约论的核心观点。",
+      "原文引用": [
+        "Locke presents the idea of a separation of powers for the various parts of government (monarch, upper and lower houses of the legislature, and judiciary). —— World History Encyclopedia",
+        "If that political apparatus steps beyond this function of protecting individual liberty and the common good... then the people are perfectly correct if they collectively decide to try and overthrow that monarch since he or she has broken the social contract. —— World History Encyclopedia"
+      ]
+    },
+    {
+      "条目": "宗教宽容",
+      "描述": "洛克是宗教宽容的积极倡导者。他认为宗教信仰不应影响公民的政治权利，政府不应干预宗教事务。洛克不将宽容扩展到天主教徒，因为他认为后者效忠外国势力（教皇）。",
+      "原文引用": [
+        "Locke's experiences in England, France, and the Netherlands convinced him that governments should be much more tolerant of religious diversity than was common at the time. —— Internet Encyclopedia of Philosophy",
+        "In 1697, Locke's recommendations for dealing with the poor and unemployed were harsh indeed since he believed poverty was principally caused by what he called 'debauchery'. —— World History Encyclopedia"
+      ]
+    }
+  ],
+  "政治立场": {
+    "描述": "洛克是现代自由主义的重要先驱。他主张限制王权，主张立法权与行政权分立，强调私有财产神圣不可侵犯。他明确反对君权神授，支持光荣革命，主张人民有权反抗暴政。洛克对美国建国产生深远影响，《独立宣言》和《宪法》中的核心词汇几乎直接来自其《政府二论》。",
+    "原文引用": [
+      "In politics, Locke is best known as a proponent of limited government. He uses a theory of natural rights to argue that governments have obligations to their citizens, have only limited powers over their citizens, and can ultimately be overthrown by citizens under certain circumstances. —— Internet Encyclopedia of Philosophy",
+      "A careful study of the Declaration of Independence and the American Constitution reveals both documents to be replete with phrases such as 'All men are created equal', 'Life, liberty, and the pursuit of happiness', 'We hold these truths to be self-evident', and so forth, which are culled almost literally from the Second Treatise. —— World History Encyclopedia"
+    ]
+  },
+  "底线清单": [
+    {
+      "条目": "生命、自由、财产不可侵犯",
+      "描述": "洛克的底线是：任何政治权力都不得侵犯个人的自然权利——生命、自由和财产。当政府以专制方式践踏这些权利时，社会契约即告破裂，人民有权起义。",
+      "原文引用": "no one ought to harm another in his life, health, liberty or possessions. A state or political apparatus is required in those cases where these rights have been infringed upon. —— World History Encyclopedia"
+    },
+    {
+      "条目": "知识必须来自经验",
+      "描述": "洛克坚持知识必须来自经验，而非任何形式的先天植入。他对理性主义（尤其是天赋观念论）的反对是其哲学的底线。他将这一立场扩展到道德领域——道德律同样来自经验，而非理性直观。",
+      "原文引用": "his commitment to a law of nature... and, second, his subscription to the empiricist principle that all knowledge, including moral knowledge, is derived from experience and therefore not innate. —— Britannica"
+    },
+    {
+      "条目": "宗教事务不得政治干预",
+      "描述": "洛克坚持宗教信仰是私人事务，国家不得以宗教名义强制公民。但他对天主教有特殊保留，这源于其政治判断而非纯粹的宗教偏见。",
+      "原文引用": "Locke called for the toleration of religious views since these had nothing to do with one's role as a citizen. Curiously, Locke does not extend this tolerance to Catholics because he believes they cannot swear allegiance to a particular state because their greatest authority on earth is the Pope. —— World History Encyclopedia"
+    }
+  ],
+  "自我定位": {
+    "描述": "洛克将自己定位为哲学领域的\"基础劳工\"（under-labourer），为牛顿、波义耳等伟大科学家清理地基、搬走绊脚石。他不是原创性的形而上学家，而是扎实的分析哲学家，用清晰的经验主义方法为人类理解力划定边界。",
+    "原文引用": [
+      "It was necessary to examine our own Abilities, and see, what Objects our Understandings were, or were not fitted to deal with. —— Essay Concerning Human Understanding, Epistle",
+      "The commonwealth of learning is not at this time without master-builders, whose mighty designs, in advancing the sciences, will leave lasting monuments to the admiration of posterity: but everyone must not hope to be a Boyle or a Sydenham... it is ambition enough to be employed as an under-labourer in clearing the ground a little, and removing some of the rubbish that lies in the way to knowledge. —— Essay Concerning Human Understanding"
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "zhang_heng",
+  "persona_name": "张衡",
+  "confidence": "medium",
+  "overall_summary": "张衡的表达偏好体现为'形式服务于内容，科学与诗意并重'的特色：散文以铺陈极致为尚，诗作重意境营造，科学记载尚精炼准确，总体偏好典雅、内敛、理性的表达风格。",
+
+  "genre_preferences": [
+    {
+      "genre": "汉大赋",
+      "preference_level": "high",
+      "description": "张衡倾注十年心血创作《二京赋》，以大为尚，以铺陈为能，是汉大赋的巅峰作品之一。其偏好铺陈繁华、借古讽今的表达方式，与班固并称'两都'。"
+    },
+    {
+      "genre": "骚体赋",
+      "preference_level": "high",
+      "description": "《思玄赋》采用楚辞体，句式参差，情感幽深，篇幅长达七千余字，是汉代最长骚体赋之一。骚体句式有利于表达幽微细腻的情感与哲理思考。"
+    },
+    {
+      "genre": "七言诗",
+      "preference_level": "medium",
+      "description": "《四愁诗》四首，采用骚体句式，是中国早期七言诗的重要代表。其七言形式已接近成熟七言诗格局，在诗体发展史上具有重要地位。"
+    },
+    {
+      "genre": "奏议",
+      "preference_level": "medium",
+      "description": "奏议文字刚健朴实，直指时弊，体现张衡经世致用的价值取向。其奏议虽非文学创作主体，但在内容上最能体现其政治主张与淑世情怀。"
+    },
+    {
+      "genre": "科学记载",
+      "preference_level": "high",
+      "description": "地动仪记载精确凝练，是科学语体的典范。其'精铜铸之，圆径八尺'等文字，无一废词，将工程技术与文学描述完美结合。"
+    }
+  ],
+
+  "emotional_expression": {
+    "primary_mode": "幽婉内敛",
+    "description": "张衡情感表达多取幽婉路径，较少直接抒情，而借山水、美人、游仙等意象婉转出之。《四愁诗》以相思寓不得志之情，《思玄赋》以游仙写内心之矛盾与追求。",
+    "examples": [
+      "我所思兮在太山，欲往从之梁父艰。侧身东望涕沾翰。",
+      "玄默、无为，而天下自正。"
+    ]
+  },
+
+  "rhetorical_preferences": [
+    {
+      "preference": "铺陈渲染",
+      "context": "大赋创作与都城描写",
+      "description": "倾向用极度铺陈的手法渲染场景，《二京赋》铺陈东西两京繁华，极尽能事"
+    },
+    {
+      "preference": "借古讽今",
+      "context": "社会批评",
+      "description": "借西京长安与东京洛阳的繁华对比，寓讽谏于铺陈，是其大赋的常见主题"
+    },
+    {
+      "preference": "以物喻理",
+      "context": "哲理表达",
+      "description": "以游仙比喻人生求索，以自然意象比喻内心情感，避免直接说理"
+    },
+    {
+      "preference": "精确描述",
+      "context": "科学记载",
+      "description": "记载科学发明时，偏好精确的数字与描述，不用夸张渲染"
+    }
+  ],
+
+  "communicative_intentions": [
+    {
+      "intention": "讽谏时政",
+      "description": "《二京赋》等大赋的深层目的在于借古讽今，批评东汉社会的奢靡之风"
+    },
+    {
+      "intention": "表达心志",
+      "description": "《应闲》《思玄赋》等作品是张衡表白心志、表明人生态度的重要载体"
+    },
+    {
+      "intention": "记录科学",
+      "description": "地动仪等发明的记载，其目的在于留存技术，以利于后世"
+    },
+    {
+      "intention": "抒发幽情",
+      "description": "《四愁诗》等诗作，以相思离别为题，寓个人不得志之幽情"
+    }
+  ],
+
+  "silences_and_omissions": {
+    "topics_rarely_discussed": [
+      "个人得失的牢骚",
+      "对具体政敌的指名攻击",
+      "个人生活细节"
+    ],
+    "topics_frequently_avoided": "直接表达愤怒或怨恨情绪，而以幽婉出之",
+    "implied_meanings": "张衡的多首《四愁诗》，表面写相思离别，实则寄托政治失意不得志之幽情"
+  }
+}

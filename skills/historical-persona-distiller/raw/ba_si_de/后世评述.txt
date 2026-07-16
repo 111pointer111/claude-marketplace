@@ -1,0 +1,16 @@
+# Germ Theory and Louis Pasteur
+# Source: Britannica (britannica.com/science/germ-theory)
+
+French chemist and microbiologist Louis Pasteur, English surgeon Joseph Lister, and German physician Robert Koch are given much of the credit for development and acceptance of the germ theory. In the mid-19th century Pasteur showed that fermentation and putrefaction are caused by organisms in the air; his experiments disproved the idea of spontaneous generation and provided evidence that microorganisms arise from other microorganisms.
+
+In the 1860s Lister revolutionized surgical practice by utilizing carbolic acid (phenol) to exclude atmospheric germs and thus prevent putrefaction in compound fractures of bones; this work demonstrated that controlling microbial exposure reduces infection rates. In the 1880s Koch identified the organisms that cause tuberculosis and cholera. He also formulated Koch's postulates, a set of criteria used to establish a causal relationship between a specific microorganism and a specific disease.
+
+# Vaccine History
+# Source: Britannica (britannica.com/science/vaccine)
+
+In 1881 French microbiologist Louis Pasteur demonstrated immunization against anthrax by injecting sheep with a preparation containing attenuated forms of the bacillus that causes the disease. Four years later he developed a protective suspension against rabies.
+
+# Pasteurization
+# Source: Britannica (britannica.com/topic/pasteurization)
+
+pasteurization, heat-treatment process that destroys pathogenic microorganisms in certain foods and beverages. It is named for the French scientist Louis Pasteur, who in the 1860s demonstrated that abnormal fermentation of wine and beer could be prevented by heating the beverages to about 57 °C (135 °F) for a few minutes.

@@ -1,0 +1,31 @@
+# World History Encyclopedia - Adam Smith
+# Source: https://www.worldhistory.org/Adam_Smith/
+
+Adam Smith (1723-1790) was a Scottish philosopher, economist, and leading Enlightenment figure. In The Wealth of Nations, he advocates free trade and limited interference in markets by governments, for which he is seen as the founder of liberal economics. Regarded incorrectly as a champion of laissez-faire economics, Smith supported state intervention in important areas like the education of workers.
+
+## Early Life
+
+Adam Smith was born into a landowning family living in Kirkcaldy, located to the north of Edinburgh across the Firth of Forth in Scotland, c. 5 June 1723. Smith's father, also called Adam, worked as a customs official while his mother, Margaret Douglas, did not need to work thanks to a significant land inheritance. Smith studied literature at both the University of Glasgow and, thanks to winning a scholarship, at Balliol College, Oxford, from 1740. He left Oxford in 1746, and from 1748, he gave public lectures in Edinburgh with great success. In 1751, Smith was appointed the Professor of Logic at the University of Glasgow, and the next year, he became the Professor of Moral Philosophy, a position he held until 1764. Smith cultivated friendships with other Scottish philosophers, most notably David Hume (1711-1776), and men of business like the merchant Andrew Cochrane (1693-1777).
+
+## Moral Philosophy
+
+Smith's first major work was The Theory of Moral Sentiments, published in 1759. Here, Smith presents his views on moral philosophy, which emphasise:
+
+Stoic virtues, and in particular that of self command. Smith's man of perfect virtue "joins to the most perfect command of his own original and selfish feelings, the most exquisite sensibility both to the original and sympathetic feelings of others."
+(Blackburn, 446)
+
+Smith systematically investigated the best political system that could provide a nation with the greatest economic success.
+
+This positive view of an individual's use of reason, restraint, and sympathy and empathy for others was encouraged by what Smith called an "inner person" or "impartial spectator" (what we might alternatively call the voice of one's conscience). This view greatly influenced how Smith saw the best political system working for the greater good of the state's economy.
+
+## The Wealth of Nations
+
+Adam Smith's political philosophy is presented in his book Inquiry into the Nature and Causes of the Wealth of Nations (often simply called The Wealth of Nations), which was first published in 1776. As the full title suggests, Smith's intention was to systematically and objectively investigate the best political system that could provide a nation with the greatest economic success, much like contemporary scientists were trying to do in the fields of physics, astronomy, medicine, and mathematics during the Scientific Revolution. Smith is realistic, unsentimental, and optimistic in his determination to improve the human condition. He believes in progress and that humanity is currently in a fourth stage of existence, what he calls the age of commerce (the previous three, in order, were the age of hunters, shepherds, and agriculture). These stages were based on Smith's extensive studies in history and contemporary trade. Commerce, for Smith, is the inevitable concluding stage since humans are social and trade is a social activity. Further, a thriving economy is based on a complex web of interdependence between people of all kinds.
+
+Smith proposed the labour theory of value based on this interconnectedness between humans in the world of trade. That is, he highlighted the difference between the use value and the exchange value of something. For example, an old record player might be very useful to its owner to listen to their vinyl collection, but if few other people want such an item, then it has little value in terms of exchanging it for something else (most obviously cash). The exchange value of an item is related to how many people want to own such a thing, how difficult it is to obtain, how much labour it will save the buyer if they own it, and how much labour and what kind of labour is required to produce it. Smith elaborates on his theory by stating that the value of a person's labour is based on several factors, such as scarcity of skills, difficulty and danger of the work, and the length of education required to do the work, amongst many other factors.
+
+Smith was also determined to show in his book that the Christian dislike of wealth, based on such biblical passages as "it is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God" (Matthew 19:24), had no foundation in nature and no place in modern economics. Indeed, Smith argued that helping the rich get rich generally helped everyone in society since those who were not rich would strive to improve themselves in imitation of those whom they saw as successful.
+
+## A Free(ish) Market
+
+Smith believed that the state should interfere in economic markets only when it is necessary to prevent a situation of unfair competition. Essentially, then, the state should leave the economy to itself since it would be guided by what he called the 'Invisible Hand' of the market, a system of perfect liberty where the economy is self-adjusting as it adapts to continuous changes in production and consumption based on people's self-interest (much like gravity dictates how planets move in space). This idea later developed into laissez-faire economics (literally "leave things alone"), where any and all barriers and interference that might impede trade and commerce are eliminated. This was something beyond what Smith himself proposed. Smith believed in free international trade and was against such common policies as protecting domestic industries using import duties in the face of cheap imports (mercantilism).

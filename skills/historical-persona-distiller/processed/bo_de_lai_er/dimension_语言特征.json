@@ -1,0 +1,58 @@
+{
+  "persona_id": "bo_de_lai_er",
+  "dimension": "语言特征",
+  "confidence": "medium-high",
+  "version": "1.0",
+  "quantitative_features": {
+    "syntax_complexity": "high",
+    "description": "波德莱尔的句法以复合句和插入语为特征，常在主句中嵌入多个从句，形成语义上的多重层次。他的诗歌虽然有规则的韵律结构（如十四行诗），但语义层面往往超越简单的线性叙事。",
+    "evidence": "Britannica描述《恶之花》'Shifting in style from the rhetorical to the impressionistic, from the abstract to the intensely physical'，这种风格转换本身就要求复杂的句法结构支撑。"
+  },
+  "phonological_features": {
+    "sonnet_structure": "波德莱尔是十四行诗（sonnet）的大师，《恶之花》中的大部分诗歌都采用这一传统形式，但他往往在结尾的对句（couplet）中引入突然的转折或悖论，形成语义与形式的张力。",
+    "rhyme_scheme": "采用标准的亚历山大体（French alexandrine，12音节）和传统押韵格式，但通过不和谐音（dissonance）和复合韵丰富传统押韵系统。",
+    "sound_patterns": "使用头韵、辅音重复等音韵手段强化情感效果，如《信天翁》中的元音重复模拟海风与鸟鸣。"
+  },
+  "lexical_features": {
+    "dominant_fields": [
+      "感官体验词汇（香水、黑发、丝绸）",
+      "都市意象（街道、咖啡馆、股票经纪人）",
+      "自然意象（天鹅、秃鹰、蛇）",
+      "航海意象（航行、风暴、指南针）"
+    ],
+    "archival_words": [
+      "spleen（忧郁）——自创或专属化",
+      "modernity（现代性）——理论术语",
+      "heroism（英雄主义）——概念重构"
+    ],
+    "foreign_influence": "法语句法中融合了英语借词和东方意象（来自印度之旅的词汇）"
+  },
+  "rhetorical_devices": {
+    "primary": [
+      "矛盾修辞法（oxymoron）：恶中之美、堕落中的崇高",
+      "隐喻（metaphor）：将忧郁比作天气、疾病、监狱",
+      "提喻（synecdoche）：以部分代表整体，如'黑发'代表情人"
+    ],
+    "secondary": [
+      "反讽（irony）：对资产阶级道德的冷嘲",
+      "夸张（hyperbole）：对感官体验的极端描绘",
+      "拟人（personification）：将抽象概念（忧郁、死亡）人格化"
+    ]
+  },
+  "textual_statistics": {
+    "estimated_total_poems": "约160首（《恶之花》初版102首 + 第二版149首 + 散文诗约50首）",
+    "main_collections": [
+      "Les Fleurs du mal (1857/1861) — 主要诗集",
+      "Petits poèmes en prose (1868) — 散文诗集",
+      "Les Épaves (1866) — 残片集，含被禁六首"
+    ],
+    "translations": "翻译坡作品集（1856），另翻译托马斯·德·昆西、查尔斯·布洛克、维克多·雨果作品"
+  },
+  "style_evolution": {
+    "early": "浪漫主义倾向，感伤色彩浓厚，代表作为早期诗歌和《芳法洛》",
+    "middle": "象征主义成熟，《恶之花》确立个人美学体系，十四行诗形式的完美驾驭",
+    "late": "散文诗实验，'即兴创作、快速的意象和转瞬即逝的情感'，语言更趋破碎和神秘",
+    "trajectory": "从浪漫主义的感伤到象征主义的悖论，再到后期散文诗的碎片化，波德莱尔的语言风格始终在寻找新的表达可能性。"
+  },
+  "notes": "由于网络限制，无法直接抓取《恶之花》原文进行量化分析。以上语言特征描述基于Britannica、百度百科等来源的概述性描述。"
+}

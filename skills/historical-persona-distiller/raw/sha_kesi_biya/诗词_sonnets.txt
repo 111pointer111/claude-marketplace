@@ -1,0 +1,92 @@
+# Shakespeare Sonnets - Selected Collection
+# Source: Britannica, World History Encyclopedia
+
+## 关于十四行诗
+In 1609, 154 of Shakespeare's sonnets were published in a quarto by Thomas Thorpe. He had likely been working on these sonnets on and off for decades and may have only intended them for private readership amongst his friends, as Thorpe had a reputation for publishing works that did not belong to him.
+
+Dealing with themes such as time, lust, and homoeroticism, the sonnets are generally divided into three sections. The first 126 are addressed to a nameless 'Fair Youth', a beautiful yet self-centered young man who is viewed by the narrator in a friendly, admiring, and at times, homoerotic way. Sonnets 127-152 are addressed to a 'Dark Lady' and consist of a more overtly erotic tone. The last two sonnets, in the words of scholar Catherine Bates, involve "racy mythological fables about Cupid" (Kinney, 426).
+
+## 十四行诗主题
+The sonnets deal with themes such as:
+- Time (the ravaging effects of time on beauty and love)
+- Lust (especially in the Dark Lady sequence)
+- Homoeroticism (in the Fair Youth sequence)
+- The power of poetry to immortalize the beloved
+- The conflict between art and nature
+- Mortality and the prospect of death
+
+## Known Sonnet Titles/Numbers
+- Sonnet 18: "Shall I compare thee to a summer's day?" (关于不朽)
+- Sonnet 116: "Let me not to the marriage of true minds" (关于真爱)
+- Sonnet 130: "My mistress' eyes are nothing like the sun" (反讽传统)
+- Sonnet 29: "When, in disgrace with Fortune and men's eyes" (关于逆境与希望)
+
+## 戏剧独白经典段落
+
+### Hamlet, Act 3, Scene 1 (著名的"To be, or not to be"独白)
+"To be, or not to be, that is the question:
+Whether 'tis nobler in the mind to suffer
+The slings and arrows of outrageous fortune,
+Or to take arms against a sea of troubles
+And by opposing end them."
+
+### Hamlet, Act 3, Scene 1 (Ironic observation about the player)
+"O, what may man within him hide, what may man within him hide,
+Though man he be, and only as a human hide
+Could cover what he is."
+
+(Iago in Othello uses the phrase "I am not what I am")
+
+### The Merchant of Venice, Act 4, Scene 1 (Shylock's "Hath not a Jew eyes")
+"Hath not a Jew eyes? hath not a Jew hands, organs,
+dimensions, senses, affections, passions? fed with
+the same food, hurt with the same weapons, subject
+to the same diseases, healed by the same means,
+warmed and cooled by the same winter and summer, as
+a Christian is?"
+
+### Julius Caesar, Act 3, Scene 2 (Antony's "Friends, Romans, countrymen" speech)
+"Friends, Romans, countrymen, lend me your ears;
+I come to bury Caesar, not to praise him;
+The evil that men do lives after them,
+The good is oft interred with their bones."
+
+### Macbeth, Act 5, Scene 5 (Tomorrow, and tomorrow, and tomorrow)
+"Tomorrow, and tomorrow, and tomorrow,
+Creeps in this petty pace from day to day,
+To the last syllable of recorded time;
+And all our yesterdays have lighted fools
+The way to dusty death."
+
+### The Tempest, Act 4, Scene 1 (We are such stuff as dreams are made on)
+"We are such stuff as dreams are made on, and our little life
+Is rounded with a sleep."
+
+### King Lear, Act 3, Scene 2 (泯灭人性的哀叹)
+"I have taken too little care of this. Poor naked wretches,
+Whithersoever you are, that bide the pelting of this pitiless storm,
+How shall your houseless heads and unfed sides,
+Your looped and windowed raggedness, defend you
+From seasons such as these?"
+
+### Hamlet, Act 2, Scene 2 (对丹麦的讽刺)
+Denmark's a prison.
+
+### Richard II, Act 2, Scene 1 (无地之王)
+"A sorry king... More sorrow than that his alone"
+
+## 莎士比亚的特征性表达手法
+- 戏剧独白（soliloquy）：哈姆雷特的内心独白成为戏剧史上的经典
+- 十四行诗：154首，主题涵盖爱情、时间、不朽、艺术
+- 五音步无韵诗（iambic pentameter）：莎士比亚戏剧的标准韵律
+- 双关语（puns）：莎士比亚是双关语大师
+- 意象（imagery）：丰富的自然、颜色、医学、法律意象
+
+## 莎士比亚语录摘录
+- "To thine own self be true" — Polonius in Hamlet
+- "The play's the thing" — Hamlet
+- "All that glitters is not gold" — Merchant of Venice (though this is actually a proverb Shakespeare used)
+- "Love all, trust a few, do wrong to none" — All's Well That Ends Well
+- "There is nothing either good or bad, but thinking makes it so" — Hamlet
+- "This above all: to thine own self be true" — Hamlet
+- "The course of true love never did run smooth" — A Midsummer Night's Dream

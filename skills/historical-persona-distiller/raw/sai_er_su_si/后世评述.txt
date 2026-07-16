@@ -1,0 +1,28 @@
+# Aulus Cornelius Celsus 后世评述
+
+## 文体评价
+"The whole book is remarkable for its symmetry and completeness, and the language is strong, lucid and elegant. It has been said with justice that the writer did for science what Cicero did for philosophy."
+整部书以其对称性和完整性著称，语言有力、明晰、优雅。公正地说，这位作家为科学所做的，正如西塞罗为哲学所做的那样。
+
+"The first printed edition of Celsus' work was published in 1478. His style has been much admired as being equal in purity and elegance to that of the best writers of the Augustan age."
+（Celsus著作的第一个印刷版本于1478年出版。他的文风被高度赞赏，认为其纯正和优雅可与奥古斯都时代最优秀作家相媲美。）
+
+## 医学史地位
+"The De Medicina is a primary source on diet, pharmacy, surgery and related fields, and it is one of the best sources concerning medical knowledge in the Roman world."
+（《论医学》是饮食、药学、外科及相关领域的主要来源，也是罗马世界医学知识的最佳来源之一。）
+
+"The work's encyclopedic arrangement follows the tripartite division of medicine at the time as established by Hippocrates and Asclepiades — diet, pharmacology, and surgery."
+（这部著作的百科全书式编排遵循了当时由希波克拉底和阿斯克勒庇俄斯建立的医学三部分类法——饮食、药理学和外科。）
+
+## 争议问题
+关于Celsus本人是否是执业医师存在争议：
+- 老普林尼将他列为"作者"(auctores)而非"医师"(medici)
+- 部分段落显得不够专业
+- 他提到自己照顾病人的方式表明他有实践经验
+- Quintilian称他为"才能平庸"，但这可能指他在修辞学上的观点
+
+## 对后世的贡献
+- 他命名了"choroid"（脉络膜）
+- 他将希腊"karkinos"译为拉丁"cancer"
+- 他记录的炎症四征（发热、疼痛、发红、肿胀）至今仍是诊断基础
+- 他在1478年成为最早被印刷的医学著作之一

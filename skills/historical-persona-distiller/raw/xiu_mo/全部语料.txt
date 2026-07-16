@@ -1,0 +1,120 @@
+# 休谟 David Hume 全部语料
+
+## 传记文本
+
+### 来源1: Stanford Encyclopedia of Philosophy
+
+David Hume (1711–1776), Scottish philosopher, historian, economist, and essayist known especially for his philosophical empiricism and skepticism.
+
+Born in Edinburgh, Hume spent his childhood at Ninewells, his family's modest estate in the border lowlands. He came from a "good family" — socially well connected but not wealthy. His father died just after David's second birthday, leaving him and his elder brother and sister in the care of their mother, a woman of singular Merit, who, though young and handsome, devoted herself entirely to the rearing and educating of her Children. Katherine Falconer Hume realized that David was uncommonly precocious, so when his older brother went up to Edinburgh University, Hume went with him, although he was only 10 or 11.
+
+There he studied Latin and Greek, read widely in history and literature, ancient and modern philosophy, and also did some mathematics and natural philosophy. The education David received, both at home and at the university, aimed at training pupils to a life of virtue regulated by stern Scottish Calvinist strictures. Prayers and sermons were prominent aspects of his home and university life.
+
+Hume's family thought him suited for a legal career, but he found the law "nauseous", preferring to read classical texts, especially Cicero. He decided to become a "Scholar and Philosopher", and followed a rigorous program of reading and reflection for three years until "there seem'd to be open'd up to me a new Scene of Thought". The intensity of developing his philosophical vision precipitated a psychological crisis in the isolated scholar.
+
+By this time, Hume had not only rejected the religious beliefs with which he was raised, but was also opposed to organized religion in general, an opposition that remained constant throughout his life. In 1734, when he was only 23, he began writing A Treatise of Human Nature.
+
+Hume returned to England in 1737 to ready the Treatise for the press. He "castrated" his manuscript, deleting his controversial discussion of miracles. Book I, "Of the Understanding", and Book II, "Of the Passions", appeared anonymously in 1739. The next year saw the publication of Book III, "Of Morals".
+
+Despite his surgical deletions, the Treatise attracted enough of "a Murmur among the Zealots" to fuel his lifelong reputation as an atheist and a sceptic. When he applied for the Chair of Ethics and Pneumatical Philosophy at Edinburgh in 1745, his reputation provoked vocal and ultimately successful opposition. Six years later, he stood for the Chair of Logic at Glasgow, only to be turned down again. Hume never held an academic post.
+
+In 1745, he accepted a position as a young nobleman's tutor, only to discover that his charge was insane. A year later he became secretary to his cousin, Lieutenant General James St Clair, eventually accompanying him on an extended diplomatic mission in Austria and Italy.
+
+In 1748, An Enquiry concerning Human Understanding appeared. In 1751, he published An Enquiry concerning the Principles of Morals, which he described as "incomparably the best" of all his work. More essays, the Political Discourses, appeared in 1752.
+
+An offer to serve as Librarian to the Edinburgh Faculty of Advocates gave Hume the opportunity to begin another project, a History of England. Published in six volumes between 1754 and 1762, his History was a bestseller well into the next century.
+
+In 1763, Hume accepted a position as private secretary to the British Ambassador to France. During his three-year stay in Paris, he became Secretary to the Embassy, and eventually its chargé d'affaires. He became the rage of the Parisian salons. He was known for his love of good food and wine, as well as his enjoyment of the attentions and affections of women.
+
+Hume returned to Edinburgh in 1769. He spent his autumnal years quietly and comfortably, dining and conversing with friends, not all of whom were "studious and literary", for he also found that his "company was not unacceptable to the young and careless". He spent considerable time revising his works for new editions.
+
+In 1775, Hume was diagnosed with intestinal cancer. Before his death in 1776, he arranged for the posthumous publication of his most controversial work, the Dialogues concerning Natural Religion, and composed a brief autobiography, "My Own Life". Although there was much curiosity about how "the great infidel" would face his death, his friends agreed that he prepared himself with the same peaceful cheer that characterized his life.
+
+### 来源2: Britannica
+
+David Hume (born May 7 [April 26, Old Style], 1711, Edinburgh, Scotland—died August 25, 1776, Edinburgh) was a Scottish philosopher, historian, economist, and essayist known especially for his philosophical empiricism and skepticism. Hume conceived of philosophy as the inductive, experimental science of human nature. Taking the scientific method of Sir Isaac Newton as his model and building on the epistemology of John Locke, Hume tried to describe how the mind works in acquiring what is called knowledge. He concluded that no theory of reality is possible; there can be no knowledge of anything beyond experience. Despite the enduring impact of his theory of knowledge, Hume seems to have considered himself chiefly as a moralist.
+
+In 1734, after trying his hand in a merchant's office in Bristol, he came to the turning point of his life and retired to France for three years. Most of this time he spent at La Flèche on the Loire, studying and writing A Treatise of Human Nature.
+
+Books I and II were published in two volumes in 1739; Book III appeared the following year. The poor reception of this, his first and very ambitious work, depressed him; he later said that "it fell dead-born from the press, without reaching such distinction, as even to excite a murmur among the zealots."
+
+The Enquiry Concerning the Principles of Morals (1751) was a rewriting of Book III of the Treatise. It was in those later works that Hume expressed his mature thought.
+
+An Enquiry Concerning Human Understanding is an attempt to define the principles of human knowledge. It poses in logical form significant questions about the nature of reasoning in regard to matters of fact and experience, and it answers them by recourse to the principle of association. All such objects are either "impressions," data of sensation or of internal consciousness, or "ideas," derived from such data. That is to say, the mind does not create any ideas but derives them from impressions.
+
+Hume develops his doctrine about causality. The idea of causality is alleged to assert a "necessary connexion" among matters of fact. From what impression, then, is it derived? Hume states that no causal relation among the data of the senses can be observed, for, when people regard any events as causally connected, all that they do and can observe is that they frequently and uniformly go together. A habitual association is set up in the mind; and, as in other forms of habit, so in this one, the working of the association is felt as compulsion. This feeling, Hume concludes, is the only discoverable impressional source of the idea of causality.
+
+### 来源3: Internet Encyclopedia of Philosophy
+
+David Hume was born in 1711 to a moderately wealthy family from Berwickshire Scotland, near Edinburgh. His background was politically Whiggish and religiously Calvinistic. As a child he faithfully attended the local Church of Scotland, pastored by his uncle. Hume was educated by his widowed mother until he left for the University of Edinburgh at the age of eleven. His letters describe how as a young student he took religion seriously and obediently followed a list of moral guidelines taken from The Whole Duty of Man, a popular Calvinistic devotional.
+
+Leaving the University of Edinburgh around the age of fifteen to pursue his education privately, he was encouraged to consider a career in law, but his interests soon turned to philosophy. During these years of private study he began raising serious questions about religion, as he recounts in the following letter:
+
+"Tis not long ago that I burn'd an old Manuscript Book, wrote before he was twenty; which contain'd, Page after Page, the gradual Progress of my Thoughts on that head [i.e. religious belief]. It begun with an anxious Search after Arguments, to confirm the common Opinion: Doubts stole in, dissipated, return'd, were again dissipated, return'd again" [To Gilbert Elliot of Minto, March 10, 1751].
+
+In 1741 and 1742 Hume published his two-volume Essays, Moral and Political, which were written in a popular style and were more successful than the Treatise. In 1744-1745 he was a candidate for the Chair of Moral Philosophy at the University of Edinburgh. The Edinburgh Town Council was responsible for electing a replacement, and critics opposed Hume by condemning his anti-religious writings. Chief among the critics was clergyman William Wishart. The clergy were not swayed, 12 of the 15 ministers voted against Hume, and he quickly withdrew his candidacy.
+
+In 1752 his new employment as librarian of the Advocate's Library in Edinburgh provided him with the resources to pursue his interest in history. There, he wrote much of his highly successful six-volume History of England (published from 1754 to 1762).
+
+In 1763, at age 50, he was invited to accompany the Earl of Hertford to the embassy in Paris. He eventually accepted, and remarks at the reception he received in Paris "from men and women of all ranks and stations." He returned to Edinburgh in 1766. Among these was Jean Jacques Rousseau who in 1766 was ordered out of Switzerland by the government in Berne. Hume offered Rousseau refuge in England and secured him a government pension.
+
+In 1776, at age sixty-five, Hume died from an internal disorder which had plagued him for many months. After his death, his name took on new significance as several of his previously unpublished works appeared.
+
+Drawing heavily on John Locke's empiricism, the opening sections of both the Treatise and Enquiry discuss the origins of mental perceptions: Perceptions are divided into Ideas (from memory; from imagination) and Impressions (of sensation external; of reflection internal).
+
+Hume advances what is commonly called Hume's copy thesis: all ideas are ultimately copied from impressions. As proof of the copy thesis, Hume challenges anyone who denies it "to shew a simple impression, that has not a correspondent idea, or a simple idea, that has not a correspondent impression" (Treatise, 1.1.1). Second, advancing what we may call Hume's liveliness thesis, he argues that ideas and impressions differ only in terms of liveliness.
+
+The memory is a faculty that conjures up ideas based on experiences as they happened. The imagination, by contrast, is a faculty that breaks apart and combines ideas, thus forming new ones. As our imagination takes our most basic ideas and leads us to form new ones, it is directed by three principles of association, namely, resemblance, contiguity, and cause and effect.
+
+This split between relations of ideas and matters of fact is commonly called "Hume's Fork", and Hume himself uses it as a radical tool for distinguishing between well-founded ideas of the understanding, and unfounded ideas of the fancy. He dramatically makes this point at the conclusion of his Enquiry:
+
+"When we run over libraries, persuaded of these principles, what havoc must we make? If we take in our hand any volume; of divinity or school metaphysics, for instance; let us ask, Does it contain any abstract reasoning concerning quantity or number? No. Does it contain any experimental reasoning concerning matter of fact and existence? No. Commit it then to the flames: For it can contain nothing but sophistry and illusion" (Enquiry, Section 12).
+
+## 引语与核心论述
+
+### 哲学项目
+- "the science of human nature" — Hume defines moral philosophy as the science of human nature. His aim is to bring the scientific method to bear on the study of human nature.
+- "a compleat system of the Sciences, built on a foundation entirely new" — In the Introduction to the Treatise, Hume proposes a complete system of the sciences built on a foundation entirely new — the scientific study of human nature.
+- "Hypotheses non fingo" — Newton's maxim that Hume adopts: "I do not do hypotheses". Any laws discovered must be established by observation and experiment.
+
+### 古代哲学的批判
+- "endless Disputes" — When he was only 18, Hume complained that anyone familiar with philosophy realizes it is embroiled in endless disputes.
+- "entirely Hypothetical" — He found that ancient philosophers advanced theories that were entirely Hypothetical, depending more upon Invention than Experience.
+- "without regarding human Nature, upon which every moral Conclusion must depend" — He objected that they consulted their imagination without regarding human Nature.
+- "the common prejudice against metaphysical reasonings of all kinds" — every kind of argument which is in any way abstruse and requires some attention to be comprehended.
+
+### 复制原则
+- "All our simple ideas in their first appearance are deriv'd from simple impressions, which are correspondent to them, and which they exactly represent." — Treatise 1.1.1.7/4 — Hume's first principle in the science of human nature.
+- "to shew a simple impression, that has not a correspondent idea, or a simple idea, that has not a correspondent impression" — Treatise 1.1.1 (Hume challenges anyone who denies the copy thesis)
+
+### 因果关系
+- "all reasonings concerning matters of fact seem to be founded on the relation of Cause and Effect" — EHU 4.1.4/26
+- No causal relation among the data of the senses can be observed. All that we do and can observe is that events frequently and uniformly go together. A habitual association is set up in the mind; the working of the association is felt as compulsion. This feeling is the only discoverable impressional source of the idea of causality.
+
+### 习惯与因果
+- "Custom or Habit" — "whenever the repetition of any particular act or operation produces a propensity to renew the same act or operation … we always say, that this propensity is the effect of Custom." — EHU 5.1.5/43
+- "Custom … makes us expect for the future, a similar train of events with those which have appeared in the past" — EHU 5.1.6/44
+
+### 信念
+- "All these operations are species of natural instincts, which no reasoning … is able either to produce or prevent" — EHU 5.1.8/46–47
+
+### 道德哲学
+- "The rules of morality are not the conclusion of our reason." — BrainyQuote
+- "Human Nature is the only science of man; and yet has been hitherto the most neglected." — Hume
+- "All sentiment is right; because sentiment has a reference to nothing beyond itself, and is always real, wherever a man is conscious of it." — Hume on sentiment
+- Hume's moral theory is the immediate forerunner to the classic utilitarian views of Jeremy Bentham and John Stuart Mill. He introduced the term "utility" into our moral vocabulary.
+
+### 休谟叉子 (Hume's Fork)
+- "When we run over libraries, persuaded of these principles, what havoc must we make? If we take in our hand any volume; of divinity or school metaphysics, for instance; let us ask, Does it contain any abstract reasoning concerning quantity or number? No. Does it contain any experimental reasoning concerning matter of fact and existence? No. Commit it then to the flames: For it can contain nothing but sophistry and illusion" — Enquiry, Section 12
+
+### 个人的反思
+- "there seem'd to be open'd up to me a new Scene of Thought" — Hume on discovering his philosophical calling
+- "a Murmur among the Zealots" — On the reaction to the Treatise
+- "incomparably the best" — Hume on his Enquiry concerning the Principles of Morals
+- "the great infidel" — How contemporaries labeled Hume
+- "company was not unacceptable to the young and careless" — On his social life in old age
+- "peaceful cheer that characterized his life" — On facing his death from cancer
+- "it fell dead-born from the press, without reaching such distinction, as even to excite a murmur among the zealots." — From Hume's Autobiography on the Treatise
+
+### 后世评价
+- "Hume is our Politics, Hume is our Trade, Hume is our Philosophy, Hume is our Religion, — it wants little but that Hume is even our Taste." — James Hutchison Stirling, 19th century philosopher

@@ -1,0 +1,227 @@
+# 欧拉 Leonhard Euler 原始语料
+
+## 来源1：MacTutor History of Mathematics - Euler Biography
+# https://mathshistory.st-andrews.ac.uk/Biographies/Euler/
+# 长度：约35,000字符
+
+### Quick Info
+
+ Born
+
+ 15 April 1707
+ Basel, Switzerland
+
+ Died
+
+ 18 September 1783
+ St Petersburg, Russia
+
+ Summary
+ Leonhard Euler was a Swiss mathematician who made enormous contributions to a wide range of mathematics and physics including analytic geometry, trigonometry, geometry, calculus and number theory.
+
+### Biography
+
+ Leonhard Euler's father was Paul Euler. Paul Euler had studied theology at the University of Basel and had attended Jacob Bernoulli's lectures there. In fact Paul Euler and Johann Bernoulli had both lived in Jacob Bernoulli's house while undergraduates at Basel. Paul Euler became a Protestant minister and married Margaret Brucker, the daughter of another Protestant minister. Their son Leonhard Euler was born in Basel, but the family moved to Riehen when he was one year old and it was in Riehen, not far from Basel, that Leonard was brought up. Paul Euler had, as we have mentioned, some mathematical training and he was able to teach his son elementary mathematics along with other subjects.
+
+ Leonhard was sent to school in Basel and during this time he lived with his grandmother on his mother's side. This school was a rather poor one, by all accounts, and Euler learnt no mathematics at all from the school. However his interest in mathematics had certainly been sparked by his father's teaching, and he read mathematics texts on his own and took some private lessons. Euler's father wanted his son to follow him into the church and sent him to the University of Basel to prepare for the ministry. He entered the University in 1720, at the age of 14, first to obtain a general education before going on to more advanced studies. Johann Bernoulli soon discovered Euler's great potential for mathematics in private tuition that Euler himself engineered. Euler's own account given in his unpublished autobiographical writings, is as follows:-
+
+ ... I soon found an opportunity to be introduced to a famous professor [Johann Bernoulli]. ... True, he was very busy and so refused flatly to give me private lessons; but he gave me much more valuable advice to start reading more difficult mathematical books on my own and to study them as diligently as I could; if I came across some obstacle or difficulty, I was given permission to visit him freely every Sunday afternoon and he kindly explained to me everything I could not understand ...
+
+ In 1723 Euler completed his Master's degree in philosophy having compared and contrasted the philosophical ideas of Descartes and Newton. He began his study of theology in the autumn of 1723, following his father's wishes, but, although he was to be a devout Christian all his life, he could not find the enthusiasm for the study of theology, Greek and Hebrew that he found in mathematics. Euler obtained his father's consent to change to mathematics after Johann Bernoulli had used his persuasion.
+
+ Euler completed his studies at the University of Basel in 1726. He had studied many mathematical works during his time in Basel. By 1726 Euler had already a paper in print, a short article on isochronous curves in a resisting medium. In 1727 he published another article on reciprocal trajectories and submitted an entry for the 1727 Grand Prize of the Paris Academy on the best arrangement of masts on a ship.
+
+ The Prize of 1727 went to Bouguer, but Euler's essay won him second place which was a fine achievement for the young graduate. However, Euler now had to find himself an academic appointment and when Nicolaus(II) Bernoulli died in St Petersburg in July 1726 creating a vacancy there, Euler was offered the post which would involve him in teaching applications of mathematics and mechanics to physiology. He accepted the post in November 1726 but stated that he did not want to travel to Russia until the spring of the following year.
+
+ As soon as he knew he would not be appointed to the chair of physics, Euler left Basel on 5 April 1727. He travelled down the Rhine by boat, crossed the German states by post wagon, then by boat from Lübeck arriving in St Petersburg on 17 May 1727. He had joined the St Petersburg Academy of Sciences two years after it had been founded by Catherine I the wife of Peter the Great. Through the requests of Daniel Bernoulli and Jakob Hermann, Euler was appointed to the mathematical-physical division of the Academy rather than to the physiology post he had originally been offered.
+
+ Nowhere else could he have been surrounded by such a group of eminent scientists, including the analyst, geometer Jakob Hermann, a relative; Daniel Bernoulli, with whom Euler was connected not only by personal friendship but also by common interests in the field of applied mathematics; the versatile scholar Christian Goldbach, with whom Euler discussed numerous problems of analysis and the theory of numbers; F Maier, working in trigonometry; and the astronomer and geographer J-N Delisle.
+
+ Euler served as a medical lieutenant in the Russian navy from 1727 to 1730. In St Petersburg he lived with Daniel Bernoulli who, already unhappy in Russia, had requested that Euler bring him tea, coffee, brandy and other delicacies from Switzerland. Euler became professor of physics at the Academy in 1730 and, since this allowed him to become a full member of the Academy, he was able to give up his Russian navy post.
+
+ Daniel Bernoulli held the senior chair in mathematics at the Academy but when he left St Petersburg to return to Basel in 1733 it was Euler who was appointed to this senior chair of mathematics. The financial improvement which came from this appointment allowed Euler to marry which he did on 7 January 1734, marrying Katharina Gsell, the daughter of a painter from the St Petersburg Gymnasium. Katharina, like Euler, was from a Swiss family. They had 13 children altogether although only five survived their infancy. Euler claimed that he made some of his greatest mathematical discoveries while holding a baby in his arms with other children playing round his feet.
+
+ ... after 1730 he carried out state projects dealing with cartography, science education, magnetism, fire engines, machines, and ship building. ... The core of his research program was now set in place: number theory; infinitary analysis including its emerging branches, differential equations and the calculus of variations; and rational mechanics. He viewed these three fields as intimately interconnected.
+
+ The publication of many articles and his book Mechanica (1736-37), which extensively presented Newtonian dynamics in the form of mathematical analysis for the first time, started Euler on the way to major mathematical work.
+
+ Euler's health problems began in 1735 when he had a severe fever and almost lost his life. However, he kept this news from his parents and members of the Bernoulli family back in Basel until he had recovered. In his autobiographical writings Euler says that his eyesight problems began in 1738 with overstrain due to his cartographic work and that by 1740 he had:
+
+ ... lost an eye and [the other] currently may be in the same danger.
+
+ By 1740 Euler had a very high reputation, having won the Grand Prize of the Paris Academy in 1738 and 1740. On both occasions he shared the first prize with others. Euler's reputation was to bring an offer to go to Berlin, but at first he preferred to remain in St Petersburg. However political turmoil in Russia made the position of foreigners particularly difficult and contributed to Euler changing his mind. Accepting an improved offer Euler, at the invitation of Frederick the Great, went to Berlin where an Academy of Science was planned to replace the Society of Sciences. He left St Petersburg on 19 June 1741, arriving in Berlin on 25 July. In a letter to a friend Euler wrote:-
+
+ I can do just what I wish [in my research] ... The king calls me his professor, and I think I am the happiest man in the world.
+
+ Even while in Berlin Euler continued to receive part of his salary from Russia. For this remuneration he bought books and instruments for the St Petersburg Academy, he continued to write scientific reports for them, and he educated young Russians.
+
+ Maupertuis was the president of the Berlin Academy when it was founded in 1744 with Euler as director of mathematics. He deputised for Maupertuis in his absence and the two became great friends. Euler undertook an unbelievable amount of work for the Academy:
+
+ ... he supervised the observatory and the botanical gardens; selected the personnel; oversaw various financial matters; and, in particular, managed the publication of various calendars and geographical maps, the sale of which was a source of income for the Academy. The king also charged Euler with practical problems, such as the project in 1749 of correcting the level of the Finow Canal ... At that time he also supervised the work on pumps and pipes of the hydraulic system at Sans Souci, the royal summer residence.
+
+ This was not the limit of his duties by any means. He served on the committee of the Academy dealing with library and of scientific publications. He served as an advisor to the government on state lotteries, insurance, annuities and pensions and artillery. On top of this his scientific output during this period was phenomenal.
+
+ During the twenty-five years spent in Berlin, Euler wrote around 380 articles. He wrote books on the calculus of variations; on the calculation of planetary orbits; on artillery and ballistics; on analysis; on shipbuilding and navigation; on the motion of the moon; lectures on the differential calculus; and a popular scientific publication Letters to a Princess of Germany (3 vols., 1768-72).
+
+ In 1759 Maupertuis died and Euler assumed the leadership of the Berlin Academy, although not the title of President. The king was in overall charge and Euler was not now on good terms with Frederick despite the early good favour. Euler, who had argued with d'Alembert on scientific matters, was disturbed when Frederick offered d'Alembert the presidency of the Academy in 1763. However d'Alembert refused to move to Berlin but Frederick's continued interference with the running of the Academy made Euler decide that the time had come to leave.
+
+ In 1766 Euler returned to St Petersburg and Frederick was greatly angered at his departure. Soon after his return to Russia, Euler became almost entirely blind after an illness. In 1771 his home was destroyed by fire and he was able to save only himself and his mathematical manuscripts. A cataract operation shortly after the fire, still in 1771, restored his sight for a few days but Euler seems to have failed to take the necessary care of himself and he became totally blind. Because of his remarkable memory he was able to continue with his work on optics, algebra, and lunar motion. Amazingly after his return to St Petersburg (when Euler was 59) he produced almost half his total works despite the total blindness.
+
+ Euler was helped by his sons, Johann Albrecht Euler who was appointed to the chair of physics at the Academy in St Petersburg in 1766 (becoming its secretary in 1769) and Christoph Euler who had a military career. Euler was also helped by two other members of the Academy, W L Krafft and A J Lexell, and the young mathematician N Fuss who was invited to the Academy from Switzerland in 1772. Fuss, who was Euler's grandson-in-law, became his assistant in 1776.
+
+ ... the scientists assisting Euler were not mere secretaries; he discussed the general scheme of the works with them, and they developed his ideas, calculating tables, and sometimes compiled examples.
+
+ For example Euler credits Albrecht, Krafft and Lexell for their help with his 775 page work on the motion of the moon, published in 1772. Fuss helped Euler prepare over 250 articles for publication over a period on about seven years in which he acted as Euler's assistant, including an important work on insurance which was published in 1776.
+
+ Yushkevich describes the day of Euler's death in:
+
+ On 18 September 1783 Euler spent the first half of the day as usual. He gave a mathematics lesson to one of his grandchildren, did some calculations with chalk on two boards on the motion of balloons; then discussed with Lexell and Fuss the recently discovered planet Uranus. About five o'clock in the afternoon he suffered a brain haemorrhage and uttered only "I am dying" before he lost consciousness. He died about eleven o'clock in the evening.
+
+ After his death in 1783 the St Petersburg Academy continued to publish Euler's unpublished work for nearly 50 more years.
+
+ Euler's work in mathematics is so vast that an article of this nature cannot but give a very superficial account of it. He was the most prolific writer of mathematics of all time. He made large bounds forward in the study of modern analytic geometry and trigonometry where he was the first to consider sin, cos etc. as functions rather than as chords as Ptolemy had done.
+
+ He made decisive and formative contributions to geometry, calculus and number theory. He integrated Leibniz's differential calculus and Newton's method of fluxions into mathematical analysis. He introduced beta and gamma functions, and integrating factors for differential equations. He studied continuum mechanics, lunar theory with Clairaut, the three body problem, elasticity, acoustics, the wave theory of light, hydraulics, and music. He laid the foundation of analytical mechanics, especially in his Theory of the Motions of Rigid Bodies (1765).
+
+ We owe to Euler the notation f(x) for a function (1734), e for the base of natural logs (1727), i for the square root of -1 (1777), π for pi, Σ for summation (1755), the notation for finite differences Δy and Δ²y and many others.
+
+ Perhaps the result that brought Euler the most fame in his young days was his solution of what had become known as the Basel problem. This was to find a closed form for the sum of the infinite series ζ(2)=∑1/n². Euler showed in 1735 that ζ(2)=π²/6 but he went on to prove much more. In 1737 he proved the connection of the zeta function with the series of prime numbers giving the famous relation:
+
+ ζ(s)=∑1/n^s=∏1/(1-p^-s)
+
+ Here the sum is over all natural numbers n while the product is over all prime numbers.
+
+ Other work done by Euler on infinite series included the introduction of his famous Euler's constant γ, in 1735, which he showed to be the limit of:
+
+ 1/1 + 1/2 + 1/3 + ... + 1/n - log_e n
+
+ as n tends to infinity. He calculated the constant γ to 16 decimal places.
+
+ One could claim that mathematical analysis began with Euler. In 1748 in Introductio in analysin infinitorum Euler made ideas of Johann Bernoulli more precise in defining a function, and he stated that mathematical analysis was the study of functions. This work bases the calculus on the theory of elementary functions rather than on geometric curves, as had been done previously. Also in this work Euler gave the formula:
+
+ e^ix = cos x + i sin x.
+
+ In 1755 Euler published Institutiones calculi differentialis which begins with a study of the calculus of finite differences.
+
+ In Institutiones calculi integralis (1768-70) Euler made a thorough investigation of integrals which can be expressed in terms of elementary functions. He also studied beta and gamma functions.
+
+ The calculus of variations is another area in which Euler made fundamental discoveries. His work Methodus inveniendi lineas curvas published in 1740 began the proper study of the calculus of variations. Carathéodory considered this as:
+
+ ... one of the most beautiful mathematical works ever written.
+
+ Euler made substantial contributions to differential geometry, investigating the theory of surfaces and curvature of surfaces. Many unpublished results by Euler in this area were rediscovered by Gauss. Other geometric investigations led him to fundamental ideas in topology such as the Euler characteristic of a polyhedron.
+
+ In 1736 Euler published Mechanica which provided a major advance in mechanics. As Yushkevich writes:
+
+ The distinguishing feature of Euler's investigations in mechanics as compared to those of his predecessors is the systematic and successful application of analysis. Previously the methods of mechanics had been mostly synthetic and geometrical; they demanded too individual an approach to separate problems. Euler was the first to appreciate the importance of introducing uniform analytic methods into mechanics, thus enabling its problems to be solved in a clear and direct way.
+
+ Mechanica was followed by another important work in rational mechanics, this time Euler's two volume work on naval science. It is described as:
+
+ Outstanding in both theoretical and applied mechanics, it addresses Euler's intense occupation with the problem of ship propulsion. It applies variational principles to determine the optimal ship design and first established the principles of hydrostatics ... Euler here also begins developing the kinematics and dynamics of rigid bodies, introducing in part the differential equations for their motion.
+
+ Euler's work on fluid mechanics is also quite remarkable. He published a number of major pieces of work through the 1750s setting up the main formulae for the topic, the continuity equation, the Laplace velocity potential equation, and the Euler equations for the motion of an inviscid incompressible fluid. In 1752 he wrote:-
+
+ However sublime are the researches on fluids which we owe to Messrs Bernoulli, Clairaut and d'Alembert, they flow so naturally from my two general formulae that one cannot sufficiently admire this accord of their profound meditations with the simplicity of the principles from which I have drawn my two equations ...
+
+ Euler contributed to knowledge in many other areas. ... determination of the orbits of comets and planets by a few observations, methods of calculation of the parallax of the sun, the theory of refraction, consideration of the physical nature of comets, .... His most outstanding works, for which he won many prizes from the Paris Académie des Sciences, are concerned with celestial mechanics.
+
+ Euler's lunar theory was used by Tobias Mayer in constructing his tables of the moon. In 1765 Mayer's widow received £3000 from Britain for the contribution the tables made to the problem of the determination of the longitude, while Euler received £300 from the British government for his theoretical contribution to the work.
+
+ Euler also published on the theory of music, in particular he published Tentamen novae theoriae musicae in 1739 in which he tried to make music:
+
+ ... part of mathematics and deduce in an orderly manner, from correct principles, everything which can make a fitting together and mingling of tones pleasing.
+
+ However, according to G du Pasquier:
+
+ ... for musicians too advanced in its mathematics and for mathematicians too musical.
+
+ Cartography was another area that Euler became involved in when he was appointed director of the St Petersburg Academy's geography section in 1735. He had the specific task of helping Delisle prepare a map of the whole of the Russian Empire. The Russian Atlas was the result of this collaboration and it appeared in 1745, consisting of 20 maps.
+# 欧拉 Leonhard Euler 原始语料
+
+## 来源2：Britannica Encyclopedia - Leonhard Euler
+# https://www.britannica.com/biography/Leonhard-Euler
+# 长度：约10,000字符
+
+Leonhard Euler (born April 15, 1707, Basel, Switzerland—died September 18, 1783, St. Petersburg, Russia) was a Swiss mathematician and physicist, one of the founders of pure mathematics. He not only made decisive and formative contributions to the subjects of geometry, calculus, mechanics, and number theory but also developed methods for solving problems in observational astronomy and demonstrated useful applications of mathematics in technology and public affairs.
+
+## From St. Petersburg to Berlin
+ Euler's mathematical ability earned him the esteem of Johann Bernoulli, one of the first mathematicians in Europe at that time, and of his sons Daniel and Nicolas. In 1727 he moved to St. Petersburg, where he became an associate of the St. Petersburg Academy of Sciences and in 1733 succeeded Daniel Bernoulli to the chair of mathematics. By means of his numerous books and memoirs that he submitted to the academy, Euler carried integral calculus to a higher degree of perfection, developed the theory of trigonometric and logarithmic functions, reduced analytical operations to a greater simplicity, and threw new light on nearly all parts of pure mathematics. Overtaxing himself, Euler in 1735 lost the sight of one eye. Then, invited by Frederick the Great in 1741, he became a member of the Berlin Academy, where for 25 years he produced a steady stream of publications, many of which he contributed to the St. Petersburg Academy, which granted him a pension.
+
+## Foundational works and new concepts
+ In 1748, in his Introductio in analysin infinitorum, he developed the concept of function in mathematical analysis, through which variables are related to each other and in which he advanced the use of infinitesimals and infinite quantities. He did for modern analytic geometry and trigonometry what the Elements of Euclid had done for ancient geometry, and the resulting tendency to render mathematics and physics in arithmetical terms has continued ever since. He is known for familiar results in elementary geometry—for example, the Euler line through the orthocentre, the circumcentre, and the barycentre of a triangle. He was responsible for treating trigonometric functions as numerical ratios rather than as lengths of geometric lines and for relating them, through the so-called Euler identity (e^iθ = cos θ + i sin θ), with complex numbers. He discovered the imaginary logarithms of negative numbers and showed that each complex number has an infinite number of logarithms.
+
+ Euler's textbooks in calculus, Institutiones calculi differentialis in 1755 and Institutiones calculi integralis in 1768–70, have served as prototypes to the present because they contain formulas of differentiation and numerous methods of indefinite integration, many of which he invented himself, for determining the work done by a force and for solving geometric problems, and he made advances in the theory of linear differential equations. Thus, he enriched mathematics with substantial new concepts and techniques. He introduced many current notations, such as Σ for the sum; the symbol e for the base of natural logarithms; a, b and c for the sides of a triangle and A, B, and C for the opposite angles; the letter f and parentheses for a function; and i for √−1. He also popularized the use of the symbol π for pi.
+
+## Later years
+ After Frederick the Great became less cordial toward him, Euler in 1766 accepted the invitation of Catherine II to return to Russia. Soon after his arrival at St. Petersburg, a cataract formed in his remaining good eye, and he spent the last years of his life in total blindness. Despite this tragedy, his productivity continued undiminished, sustained by an uncommon memory and a remarkable facility in mental computations. His interests were broad, and his Lettres à une princesse d'Allemagne in 1768–72 were an admirably clear exposition of the basic principles of mechanics, optics, acoustics, and physical astronomy. Not a classroom teacher, Euler nevertheless had a more pervasive pedagogical influence than any modern mathematician. He had few disciples, but he helped to establish mathematical education in Russia.
+
+ Euler devoted considerable attention to developing a more perfect theory of lunar motion, which was particularly troublesome, since it involved the so-called three-body problem—the interactions of Sun, Moon, and Earth. His partial solution, published in 1753, assisted the British Admiralty in calculating lunar tables, of importance then in attempting to determine longitude at sea. One of the feats of his blind years was to perform all the elaborate calculations in his head for his second theory of lunar motion in 1772. Throughout his life Euler was much absorbed by problems dealing with the theory of numbers; in this, his greatest discovery, in 1783, was the law of quadratic reciprocity, which has become an essential part of modern number theory.
+
+## Legacy
+ In his effort to replace synthetic methods by analytic ones, Euler was succeeded by Joseph-Louis Lagrange. But, where Euler had delighted in special concrete cases, Lagrange sought for abstract generality, and, while Euler incautiously manipulated divergent series, Lagrange attempted to establish infinite processes upon a sound basis. Thus it is that Euler and Lagrange together are regarded as the greatest mathematicians of the 18th century, but Euler has never been excelled either in productivity or in the skillful and imaginative use of algorithmic devices for solving problems.
+# 欧拉 Leonhard Euler 原始语料
+
+## 来源3：Nicolas Fuss 悼词 (Eulogy of Leonhard Euler)
+# MacTutor History of Mathematics - https://mathshistory.st-andrews.ac.uk/Extras/Euler_Fuss_Eulogy/
+# 在圣彼得堡帝国科学院1783年10月23日宣读
+# Nicolas Fuss 是欧拉的助手（1776-1783），娶了欧拉外孙女
+
+To understand the life of a great man, who has exemplified his century by enlightening the world, is to eulogize the human spirit.
+
+Leonhard Euler, Professor of Mathematics, member of the Imperial Academy of Sciences of Saint Petersburg, former Director of the Royal Academy of Arts and Sciences of Prussia, Foreign associate of the Royal Academy of Science of Paris, of the Royal Society of London, etc, was born in Basel on 4/15 April 1707 of Paul Euler, then the pastor of Reihen and of Marguerite Brucker, who was of a distinguished family whose name was well recognized in the republic of letters of which there were several scientists who shared the same name.
+
+He passed the first years of his life in Reijen, and it is within this country setting where progress and life's temptations come slowly, and was marked by his parents' lifestyle for which he became accustomed. His untrammeled character and the purity of his spirit, marked the very first moments which distinguished him for the rest of his life.
+
+At the first moment that his father provided him with instructions, he added mathematics, which he loved and that he had studied with the great Jakob Bernoulli. Pointing his son in the direction of an ecclesiastical vocation, he did not realize the fact that mathematics, which he taught only as an entertaining subject but that it would become in time, the object of the most serious and opinionated applications. However, the seed which he had planted in the soul of this young Geometer did not wait to grow deep roots.
+
+He was sent to Basel to follow philosophy courses, and while he was there he regularly attended his professor's courses at the university and his prodigious memory allowed him to access with ease everything that was not geometry so that he might dedicate the rest of the time to his favorite subject. He possessed a predilection for mathematics and of a spirit that made the great progress and curiosity necessary so to remain avid for the ensuing classes. It did not take long before he was noticed by Johann Bernoulli the greatest of the living geometers. He soon distinguished himself from his fellow students and since Bernoulli was not able to provide all that his young mathematician asked of him, he was told him to bring all the problems that he encountered when studying and every Saturday he would help him work through them.
+
+In 1723 Euler received his Master of Arts degree with a thesis based on a comparative analysis of Newtonian and Cartesian philosophies; and so to conform to his father's request, Leonhard Euler went on to the study of theology and oriental languages. Since his father granted him permission to continue in his mathematical pursuits, nothing now would divert his attention. He threw himself into these studies and redoubled his efforts. He continued to consult with Mr. Johann Bernoulli and struck up a strong friendship with his two sons Nikolaus and Daniel.
+
+In Russia, Catherine I had finished the project that her husband Peter the Great had started; which was to erect an academy of sciences in his capital. The two young Bernoulli were called in 1725 and when they left Basel they promised Mr. Euler, who passionately wished to follow them, that they would find a situation for him. When they wrote to Euler in the following year they had found a position and they advised him to apply his mathematical talents to learning physiology.
+
+A great talent never fails. To become a physiologist, Euler needed only to apply himself. He signed up for medical studies and sat through classes with an impatience to enter into a brilliant career.
+
+These studies far from tightening all the springs of his active yet vast mind, left him sufficiently free to compose a dissertation concerning the nature and propagation of sound as well the most efficient way in which to mast ships which the Paris Academy judged worthy of an accessit in 1727.
+
+Happily for our Academy, fate which had as much to do in deciding municipal seats in Basel as at the university was not favorable to him and a few days after the rejection he left his country for Saint Petersburg where he found a stage more suited to the important role that he was to play in the republic of letters.
+
+He was appointed as an adjunct professor in mathematics without there being any further discussion concerning physiology.
+
+At the time when Mr. Euler entered into mathematics, nothing could be more discouraging. A mediocre talent simply could not expect to make a name for it and it was best to choose another career or to distinguish one brilliantly. The memory of the recently deceased great men that had been part of the past century and the beginning of ours was still particularly fresh in our minds. Hardly had Newton and Leibniz altered the face of geometry when they died and we had not yet forgotten the important services that the discoveries of Huyghens, Bernoulli, Moivre, Tschirnhausen, Taylor, Fermat and so many other mathematicians had provided to all the branches of mathematics.
+
+After such a brilliant period what could Mr. Euler expect? Could he hope that Nature which is not generous with her gifts might provide him with a miracle after having placed so many mathematical heads together at one time? He felt especially inspired by Nature and what she had done for him; so much so that he entered into this career with the absolute assurance that only the knowledge of a decided inspiration can provide, and he showed to all that his predecessors had not exhausted all the riches of geometry and analysis.
+
+Effectively, infinitary analysis was too close to its infancy and insufficiently far from the arms of its creators, that it should so much as attained any sort of perfection. Mechanics, dynamics and especially hydrodynamics and the science of the motion of heavenly bodies all experienced improvements from this new form of calculation; but all was difficulty especially when it was necessary to know perfectly what concerned the knowledge of nature and the properties of numbers, Fermat's works which he had so successfully produced were lost and all the profound research that went with it. Artillery and navigation were reduced to vague principles created from a heap of observations, often contradictory rather than a well founded theory. The irregularities that existed in the motion of the heavenly bodies and especially the complications in the forces that influence the moon never ceased to bring despair to the geometers. Practical astronomy struggled against the imperfections of telescopes and it can be said that hardly any rules existed for their construction. At one time or another Mr. Euler turned his attention to these different subjects, he perfected integral calculus; was the inventor of a new type of calculus of sines; he simplified analytical operations; with the help of these powerful tools and the astonishing facility with which he knew to manipulate the most intractable expressions, he found a new way to spread light onto all the parts of the mathematical sciences.
+
+Shortly after his reception at the Academy, Mr. Euler was on the verge of embracing a different position than that to which his disposition was most inclined. The death of Empress Catherine I threatened the dissolution of an institution whose newness made it vulnerable. A focused direction had not yet been established. One must envision an intellectual society whose purpose was to collect all useful discoveries, perfect them and disperse the findings. The academicians felt the necessity to accept the consequences of this reality and Mr. Euler decided to enter into the Navy. Admiral de Sievers, found that a man of Euler's qualities was a treasure for the fledgling navy and offered him a lieutenancy on the spot with the promise of quick advancement through the ranks.
+
+Happily the circumstances changed in favor of the academy in 1730 when Messrs Hermann and Bulffinger left their positions to return to their respective countries, at which time Mr. Euler received the position of professor of Physics which he filled until the departure of his friend Daniel Bernoulli to whose position he was named in 1733.
+
+The large number of mémoires that Mr. Euler had presented to the Academy point to his extraordinary fertility and underscores his abilities to deal with very difficult question as well as his ability to apply them. There is an example of this doggedness which is most striking. In 1735 when given a deadline to produce the calculations to some problems, to which other mathematicians had dragged out endlessly over months, Mr. Euler focused himself and in three days the work was done much to the surprise of the Academy. But this work was costly as it provoked a very high fever which placed him on death's doorstep. He was nursed back to health but not without having lost the sight in his right eye which was caused by an abscess during his illness. The loss of such a precious organ would have been a strong motivator to better manage ones health in order to maintain the eyesight in the remaining eye; however he was not inclined to slow down. He would give up his food before work, and now work became a perpetual habit.
+
+The great revolution that the discovery of differential and integral calculus had provided for in all of the branches of the mathematical sciences, did not neglect to change Mechanics entirely. Newton, Bernoulli, Hermann and Euler himself had successively enriched this sublime and essential part of mixed mathematics with an infinity of new discoveries. However at this time there were no complete works on the science of motion, with the exception of two or three that Mr. Euler felt were insufficient. He saw, as through a veil, that the philosophical principles of Newton and Hermann's Phoronomia which was the very best that had appeared on the subject, hid through synthesis, the methods by which these great men were able to enrich Mechanics with so many important discoveries. In order to unearth these discoveries he used all of the analytical resources that were within his grasp and which allowed him to answer question that those before him had dared not attempt.
+
+The clarity of his ideas, the precision of their exposure, and they are in abundance in the Mechanics of Mr. Euler; the order of the arrangements are the qualities that any author who aspires to be a classic must attain. Obscurity and disorder are not faults for which we will label Mr. Euler, he who has found to enlighten and clarify in his deepest research. This work determined his reputation and fixed his position among the greatest of the living mathematicians. That is to say a great deal since Johann Bernoulli was still alive.
+
+One of the principal relaxations that Mr. Euler permitted himself was music and even then he did not abandon his geometric spirit. While delivering himself to the pleasurable sensations provided by harmony, he deepened the direction and in the middle of the chords he calculated the proportions. It can be forwarded that Euler did this for his relaxation and that during the moments when his spirit best searched for that seclusion, he composed his essay of the new theory of music which was published in 1739. A profound work filled with new ideas of those presented from a new point of view however it was not have popular success due to the reason that there was too much geometry for the musician and too much music for the geometer.
+
+While seeking out the fountainhead of pleasurable harmonies, Mr. Euler proceeded from the principle that the perception of any perfection brings forth the feeling of pleasure, and since order is one of the perfections which provides the soul with pleasant feelings, then all the pleasure that a beautiful music allows us to enjoy consists of the perception of the relationships that sounds have between themselves and relative to the length of time between the notes as in relation to the frequency of the vibrations in the air which produces them.
+
+Mr. Euler had a new occasion to deploy all of the force of his genius, when the academy of Paris which had already crowned his 1738 mémoire in physics on the nature and the properties of fire; in 1740 he proposed the question of sea tides which was an extremely important question but one which demanded frightening calculations and an understanding of the entire system of the world. His piece on this subject, crowned in 1740 is a chef-d'oeuvre of analysis and geometry. He was not awarded, it is true, the whole prize, but rather shared it with Daniel Bernoulli and Colin Maclaurin who were not exactly unworthy rivals.
+
+If there is anything which can contribute to increase the confidence that we should experience due to the sublime research of Mr. Euler on this subject after having found them in alignment with the experiments, it is without doubt that the marvelous link between this mémoire and that of Mr. Bernoulli. Having started with quite different principles, one having adopted for example the theory of vortices which the other rejected, they arrived at the same conclusion.
+
+Mr. Euler met regularly with other geometers, and in particular Mr. Bernoulli because of their mutual interest in the study of number theory. Mr. Bernoulli possessed the greater ability in physical principals combined with a patience to help in the solution of the problems which calculations brought about by experiments conducted with the utmost focus and manipulation. Mr. Euler was not susceptible to making experiments often. Sure of his instinct to know true from false and his ability to approximate after combinations and the analogies, his hypotheses were sometimes too bold. However his superiority in analysis placed him well above Mr. Bernoulli and every one else, especially when it was necessary to simplify expressions and transform them into practical applications and recognize in their final formulas, the nature of the result.
+
+We arrive at a remarkable period in Mr. Euler's life. The many and brilliant successes of his works which had spread his name throughout Europe, attracted a proposal in 1741 on behalf of the Prussian minister Count Mardefeld. The old Royal society, founded by Leibniz appeared to take on new force through Frederick II as soon as he ascended the throne. He had already conceived of a project worthy of himself through the revival of the academy of sciences, by resuscitating the old establishment. For this reason he called Mr. Euler to his service. The precarious state of our own academy under the Regency, made the extremely advantageous proposals even more so. Mr. Euler surrendered to the invitation of the King and left St. Petersburg with his family in June of 1741 to provide the brilliance to an academy which would be born under the auspices of a crowned philosopher.
+
+Having arrived in Berlin, he was first flattered by the welcome of the king who wrote to him from the midst of his battles from his bivouac at Reichenbach. However, he found the old Society practically lifeless. Wars, which are always devastating to the sciences, had postponed the very generous intentions of the king. In the meanwhile Euler had organized a new literary society, made up in part of members of the Royal Society and in part of others men of letters. Mr. Euler was also a member invested into the last volume of the Mélanges de Berlin, five mémoires which are perhaps the best of what is contained in this collection. They were succeeded with astonishing rapidity and filled the gaps of the scarce research in the Mémoires which the Academy, from its re-establishment in 1744 took care to publish in a regular annual volume.
+
+This prodigious quantity of papers, especially the ones concerned with what is most profound and deep in mathematics, were always filled with new and important vistas, often filled with sublime truths and sometimes the most important discoveries, this should astonish us all the more since Mr. Euler continued to supply papers to the Saint Petersburg Academy which began the payment of a pension to him in 1742 and the Commentarii are half-filled with his amazing productivity. To watch his productions come so rapidly one over the other, one might say that the most labor intensive calculations and his most sublime meditations cost him nothing to have simply written them down.
+
+During the same year which was also the year of the reestablishment of the Academy and his nomination as the Director of the Mathematics Class, Mr. Euler published his theory on the motion of planets and comets, a subject which he would further enrich in the future with a number of new discoveries.
+
+The theory of magnetism which took the Paris Academy prize in 1744 is too well known to have to say a great deal about it.
+
+During the same year the king asked Euler his advice concerning the best treatise on Artillery. In England there had appeared a work by Robins on the principles of artillery. Mr. Euler praised this work to the King and offered to translate it while adding changes and necessary improvements. These additions contain nothing less that a complete theory of the motion of projectiles.

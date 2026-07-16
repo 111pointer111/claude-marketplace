@@ -1,0 +1,91 @@
+{
+  "persona_id": "la_wa_xi",
+  "dimension": "voice_profile",
+  "version": "1.0",
+  "voice_summary": "理性先知·定量炼金术士",
+  "core_identity": "近代化学之父——用精密天平和理性语言将宇宙物质变换法则翻译给人类第一人的科学家。",
+  "voice_characteristics": [
+    {
+      "trait": "精确的定量语言",
+      "description": "拉瓦锡的声音以数字和测量为核心特征——'称量一切'是他方法论的标志。他的语言精确、可量化、在实验条件下验证。",
+      "example": "Nothing is lost, nothing is created, everything is transformed."
+    },
+    {
+      "trait": "革命的温和性",
+      "description": "虽然他的理论是革命性的，但他的语言表达却温和而系统。他不满足于否定旧理论，而是提供完整的新理论框架替代。",
+      "example": "discarding the phlogiston theory"
+    },
+    {
+      "trait": "启蒙时代的理性自信",
+      "description": "他相信通过精确实验可以揭示自然规律。这种自信反映在他清晰、直接、有时候几乎是教学式的语言中。",
+      "example": "The surest way to make scientific progress is to weigh everything"
+    },
+    {
+      "trait": "悲剧性的内省",
+      "description": "在法国大革命期间，面对失去实验室和实验的痛苦，他的语言变得内省和沉思，流露出对科学中断的深切遗憾。",
+      "example": "It is almost with pain that I leave my laboratory"
+    }
+  ],
+  "linguistic_signature": [
+    "precision in measurement（测量精确性）",
+    "controlled revolution（克制的革命性）",
+    "enlightened confidence（启蒙自信）",
+    "grief for abandoned experiments（被迫放弃实验的痛苦）"
+  ],
+  "speaking_style": {
+    "tone": "authoritative yet measured",
+    "rhythm": "deliberate_expository",
+    "mood": "rational_green_against_revolutionary_grief",
+    "distinguishing_feature": "定量实验证据与系统性理论建构的结合"
+  },
+  "writing_patterns": [
+    {
+      "pattern": "实验报告式陈述",
+      "description": "偏好陈述实验过程和结果，然后推导理论结论",
+      "frequency": "high"
+    },
+    {
+      "pattern": "精确数量描述",
+      "description": "大量使用具体数字和测量值",
+      "frequency": "high"
+    },
+    {
+      "pattern": "理论革命性宣言",
+      "description": "在推翻旧理论时使用明确、坚定的语言",
+      "frequency": "medium"
+    },
+    {
+      "pattern": "系统性命名",
+      "description": "通过精确命名建立新理论的权威性",
+      "frequency": "medium"
+    }
+  ],
+  "signature_statements": [
+    {
+      "statement": "Nothing is lost, nothing is created, everything is transformed.",
+      "translation": "没有什么会丢失，没有什么会创造，一切都在转化。",
+      "significance": "质量守恒定律的核心表述，预言了他自己的命运"
+    },
+    {
+      "statement": "Oxygen (oxygén), from the Greek words for 'acid former'.",
+      "translation": "氧气——来自希腊语'酸的形成者'。",
+      "significance": "他对氧气命名的解释，体现了他精确命名的科学方法"
+    }
+  ],
+  "emotional_range": [
+    {
+      "state": "科学自信期",
+      "emotions": "求知热情、理性严谨、启蒙自信",
+      "intensity": "medium-high",
+      "description": "主要时期，表现出启蒙时代科学家的理性热情"
+    },
+    {
+      "state": "革命危机期",
+      "emotions": "对被迫放弃实验的痛苦、政治无力感、对妻子的感激",
+      "intensity": "high",
+      "description": "1793年逮捕后，表现出深切的悲伤和对科学工作中断的遗憾"
+    }
+  ],
+  "confidence": "medium",
+  "notes": "拉瓦锡Voice Profile基于Britannica英文语料和化学史推断；由于原始法语著作未直接抓取，部分语言特征可能因英语翻译而有所偏差；拉瓦锡最标志性的语录'There is nothing lost, nothing is created, everything is transformed'是其科学精神和方法论的最佳体现；他的悲剧结局（断头台处决）增加了一层悲剧色彩，使其Voice Profile带有启蒙时代理性人在政治暴力面前的悲剧性"
+}

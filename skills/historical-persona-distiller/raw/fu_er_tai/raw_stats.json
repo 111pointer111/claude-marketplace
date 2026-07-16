@@ -1,0 +1,55 @@
+{
+  "persona_id": "fu_er_tai",
+  "persona_name": "伏尔泰",
+  "stage": 1,
+  "collected_at": "2026-04-30T18:07:00+08:00",
+  "sources": [
+    {
+      "name": "百度百科",
+      "url": "https://baike.baidu.com/item/%E4%BC%8F%E5%B0%94%E6%B3%B0/5281",
+      "type": "historical_record",
+      "chars": 14701,
+      "language": "zh"
+    },
+    {
+      "name": "World History Encyclopedia",
+      "url": "https://www.worldhistory.org/Voltaire/",
+      "type": "historical_record",
+      "chars": 19229,
+      "language": "en"
+    },
+    {
+      "name": "Britannica",
+      "url": "https://www.britannica.com/biography/Voltaire",
+      "type": "historical_record",
+      "chars": 7797,
+      "language": "en"
+    }
+  ],
+  "files": {
+    "传记.txt": {
+      "chars": 4951,
+      "description": "伏尔泰生平传记"
+    },
+    "引语.txt": {
+      "chars": 3713,
+      "description": "伏尔泰名言警句"
+    },
+    "后世评述.txt": {
+      "chars": 5385,
+      "description": "后人对伏尔泰的评价"
+    },
+    "全部语料.txt": {
+      "chars": 14049,
+      "description": "合并所有语料"
+    }
+  },
+  "stats": {
+    "total_chars": 28098,
+    "source_count": 3,
+    "min_sources_required": 3,
+    "sources_met": true,
+    "has_poetry": false,
+    "poetry_note": "伏尔泰是哲学家/文学家，非诗人，无诗词下限要求"
+  }
+}

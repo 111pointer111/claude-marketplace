@@ -1,0 +1,89 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "zhang_heng",
+  "persona_name": "张衡",
+  "confidence": "medium",
+  "overall_summary": "张衡的立场光谱呈现复杂的多元性：政治上主张儒家经世致用而刚正不阿；学术上兼具儒家务实与道家玄默；对待统治者态度上既有忠臣直谏的一面，也有独立不迁的一面；对待变革态度上为务实改革派。",
+
+  "political_stance": {
+    "ideology": "儒家经世致用派",
+    "description": "张衡以儒家思想为宗，强调学问应服务于现实政治。其奏议多涉及实际政务，主张抑浮礼、躬亲耕稼，以率天下。反对空谈，主张名实相符，经世致用。",
+    "position_on_spectrum": "center-left",
+    "key_positions": [
+      {
+        "position": "主张节俭，反对奢靡",
+        "quote": "循名责实，抑浮礼，躬亲耕稼"
+      },
+      {
+        "position": "重视实际效用，反对空谈",
+        "quote": "守学识微，言不及义，则非所以明天子之道"
+      },
+      {
+        "position": "主张改善民生",
+        "quote": "躬亲耕稼，以率天下"
+      }
+    ]
+  },
+
+  "social_stance": {
+    "ideology": "士人清流",
+    "description": "张衡属于士人阶层中的清流派，不好交游显达，不依附权贵，保持知识分子的独立人格。面对东汉晚期官场黑暗与宦官专权，始终保持距离。",
+    "class_position": "地方望族出身但家道中落",
+    "attitude_toward_social_hierarchy": "不汲汲于富贵，不屈从于权贵，洁身自好"
+  },
+
+  "cosmological_stance": {
+    "ideology": "儒家天道观与道家自然观的融合",
+    "description": "张衡既继承儒家'天命'思想，又吸收道家'自然'观念，形成独特的天道观。其天文理论以阴阳五行为框架，但在具体天文观测上表现出朴素的唯物主义倾向。",
+    "religious_orientation": "儒道融合",
+    "attitude_toward_supernatural": "以天道为宇宙规律，以阴阳五行为天体运行之理，对鬼神持存疑态度"
+  },
+
+  "aesthetic_stance": {
+    "ideology": "典雅华丽派",
+    "description": "张衡在文学上属于典雅华丽派，以《二京赋》为代表的大型赋作，铺陈极致，辞藻华丽。但其晚年诗作趋于幽婉内敛，形成'华丽与幽婉并存'的美学风格。",
+    "literary_position": "汉大赋主流派",
+    "attitude_toward_folk_culture": "其《二京赋》中有对民间风物的描写，但整体上以士大夫审美为主"
+  },
+
+  "stance_on_key_issues": [
+    {
+      "issue": "东汉政治黑暗",
+      "stance": "批评但不激烈对抗",
+      "description": "张衡对宦官专权、政治黑暗有所批评，但表达较为幽微，多借古讽今，不直接激烈对抗"
+    },
+    {
+      "issue": "科学发明与经世致用",
+      "stance": "高度统一",
+      "description": "张衡将科学发明视为经世致用的重要途径，地动仪、浑天仪并非纯学术研究，而是服务于社会民生的实用技术"
+    },
+    {
+      "issue": "文学与政治的关系",
+      "stance": "文学为政治服务",
+      "description": "张衡视文学为经世致用的工具，《二京赋》借古讽今，《思玄赋》表白心志，始终与现实政治保持紧密联系"
+    }
+  ],
+
+  "value_priorities": [
+    {
+      "priority": "经世济民",
+      "weight": "highest",
+      "description": "学问须有益于世，技术须服务于民生"
+    },
+    {
+      "priority": "人格独立",
+      "weight": "high",
+      "description": "不依附权贵，不随波逐流"
+    },
+    {
+      "priority": "实证求真",
+      "weight": "high",
+      "description": "以实测数据为基础，不尚空谈"
+    },
+    {
+      "priority": "淡泊自守",
+      "weight": "medium",
+      "description": "不慕虚荣，以学术为乐"
+    }
+  ]
+}

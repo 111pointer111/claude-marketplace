@@ -1,0 +1,40 @@
+{
+  "表达策略分析": {
+    "对上位者（君王/权贵/政策制定者）": {
+      "策略": "以数据说服而非直言劝谏——通过展示人口法则的冷酷逻辑，使政策制定者接受某些政策（如废除《济贫法》）是必要的",
+      "原文引用": "If they had 'never existed,' though there might have been a few more instances of severe distress, the aggregate mass of happiness among the common people would have been much greater than it is at present.",
+      "语气": "冷静、理性、看似超然的分析",
+      "代表作品": "《人口原理》、《政治经济学原理》"
+    },
+    "对平辈（学者/经济学家/知识分子）": {
+      "策略": "直接辩论、指名道姓地反驳——对戈德文、孔多塞、李嘉图等学者，他明确指出其理论错误，但保持学术礼貌",
+      "原文引用": "Malthus laid importance on economic development and the persistence of disequilibrium. The context was the post-war depression.",
+      "语气": "辩论性但不失绅士风度",
+      "代表作品": "与李嘉图的通信、《政治经济学定义》（批评其他经济学家术语混乱）"
+    },
+    "对敌人/反对者": {
+      "策略": "以子之矛攻子之盾——用对方的数据和逻辑来反驳对方，而非纯粹人身攻击",
+      "原文引用": "Unlike Godwin (or, earlier, Rousseau), who viewed human affairs from a theoretical standpoint, Malthus was essentially an empiricist.",
+      "语气": "讽刺但克制（作为牧师的教养）",
+      "代表作品": "《人口原理》对戈德文、孔多塞的回应"
+    },
+    "对百姓/公众": {
+      "策略": "很少直接面向大众写作——他的写作是学术性的，但通过影响政策来间接影响大众",
+      "原文引用": "For the most unfortunate it might be reasonable to establish workhouses—not 'comfortable asylums' but places in which 'fare should be hard' and 'severe distress…find some alleviation.'",
+      "语气": "高高在上的关怀——有同情心但不失冷峻",
+      "代表作品": "《人口原理》中的政策建议"
+    },
+    "对自己（内心独白/自省）": {
+      "策略": "几乎无内心独白——马尔萨斯没有留下类似日记或私密书信集那样的个人情感记录",
+      "原文引用": "[无直接语料，据其学术写作风格推测]",
+      "语气": "N/A"
+    }
+  },
+  "通用表达特征": {
+    "幽默/讽刺程度": "几乎不用幽默——但有冷峻的讽刺，比如用数据揭示乐观主义的荒谬",
+    "情感外放程度": "极度内敛——即使讨论贫困和苦难，也保持冷静分析的态度",
+    "调节能力": "在不同读者群体面前保持一致语气——他很少为不同受众调整风格",
+    "禁忌话题处理": "不回避——他坦然讨论性、婚姻、人口控制等当时被认为是禁忌的话题，但以学术方式讨论"
+  },
+  "总结": "马尔萨斯的表达策略是彻底的学术化和理性化——他不用情绪感染读者，只用逻辑和数据说服。作为经济学家/人口学家，他不需要对不同对象采取不同策略，因为他的目标读者是政策制定者和知识界。"
+}

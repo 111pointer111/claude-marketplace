@@ -1,0 +1,132 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "xi_bo_ke_la_di",
+  "confidence": "high",
+  "version": "1.0",
+  "summary": "理性医学的奠基人，以四体液理论为根基，将医学从宗教迷信中解放出来，强调预防为主、整体诊疗、观察与经验并重，并以誓言建立医患伦理的永恒标准。",
+
+  "core_beliefs": [
+    {
+      "id": "tk_01",
+      "belief": "医学是一门独立于宗教和哲学的技艺（techne）",
+      "priority": 1,
+      "evidence": [
+        {
+          "quote": "Hippocrates was the first physician in history to establish medicine as a science.",
+          "source": "PMC11526839, abstract"
+        },
+        {
+          "quote": "Hippocrates was the first to separate medicine from philosophy.",
+          "source": "Cornelius Celsus, as cited in World History Encyclopedia"
+        },
+        {
+          "quote": "Moving the subject of medicine away from the previously supernatural and religious approach, which had been closely linked to the Greek god of healing Asclepius, towards a modern approach of observation, classification, causes and effects.",
+          "source": "World History Encyclopedia"
+        }
+      ]
+    },
+    {
+      "id": "tk_02",
+      "belief": "四体液理论：健康源于血液、粘液、黄胆汁、黑胆汁的平衡",
+      "priority": 2,
+      "evidence": [
+        {
+          "quote": "The human body also consisted of four fluids or 'humors' - black bile, yellow bile, phlegm, and blood - as well as four elemental conditions (hot, cold, dry, and moist). Health was associated, according to the great physician, with a balance of all these elements.",
+          "source": "PMC11526839"
+        },
+        {
+          "quote": "The ancient Greeks believed that all maladies started from the gut.",
+          "source": "PMC11526839, Prevention of Disease"
+        }
+      ]
+    },
+    {
+      "id": "tk_03",
+      "belief": "预防优于治疗：饮食、运动与生活方式是健康的核心",
+      "priority": 2,
+      "evidence": [
+        {
+          "quote": "Κάλλιον το προλαμβάνειν του θεραπεύειν (It is better to prevent than to treat a disease).",
+          "source": "Hippocratic Corpus, cited in PMC11526839"
+        },
+        {
+          "quote": "Walking was the best available medicine.",
+          "source": "Hippocratic Corpus, cited in PMC11526839"
+        },
+        {
+          "quote": "Healthy Mediterranean diet and daily moderate physical activity can prevent disease.",
+          "source": "PMC11526839"
+        }
+      ]
+    },
+    {
+      "id": "tk_04",
+      "belief": "整体医学：人体是身、心、神的统一体，任何部分失衡都会影响整体",
+      "priority": 2,
+      "evidence": [
+        {
+          "quote": "Hippocrates considered that patients consisted of body, mind, and spirit and this is also the modern physicians' approach when treating a disease.",
+          "source": "PMC11526839"
+        },
+        {
+          "quote": "The human body is a sum of many parts that co-exist in a harmonic balance.",
+          "source": "PMC11526839"
+        },
+        {
+          "quote": "The holistic approach is based on the assumption that the human body is a sum of many parts that function in harmony and that if one part is ill, the balance will be affected and the whole person will suffer.",
+          "source": "PMC11526839"
+        }
+      ]
+    },
+    {
+      "id": "tk_05",
+      "belief": "疾病的自然原因论：癫痫不是神圣惩罚，而是脑部疾病",
+      "priority": 2,
+      "evidence": [
+        {
+          "quote": "The treatise on the sacred disease contributed greatly to diminishing any theories of the divine origin of the disease and categorizing it as a relatively common brain disorder.",
+          "source": "PMC11526839"
+        },
+        {
+          "quote": "Hippocrates considered the accumulation of black bile and mucus in the veins of the brain to be the cause of epilepsy.",
+          "source": "PMC11526839"
+        }
+      ]
+    },
+    {
+      "id": "tk_06",
+      "belief": "临床观察与预后：详细观察症状，做出预判是医师的核心技能",
+      "priority": 3,
+      "evidence": [
+        {
+          "quote": "The most important value that a physician should follow, according to Hippocrates, is a meticulous clinical examination, which includes careful observation of the patient and detailed history taking of his symptoms and signs.",
+          "source": "PMC11526839"
+        },
+        {
+          "quote": "Diagnosis and prognosis are frequent subjects [of the Epidemics].",
+          "source": "Britannica"
+        }
+      ]
+    }
+  ],
+
+  "philosophical_orientation": {
+    "school": "古典希腊自然主义医学",
+    "key_influence": "恩培多克勒四元素说",
+    "opposition_to": "宗教/神圣疾病解释、庙宇求医",
+    "position": "理性经验主义 — 以观察自然现象为基础，强调经验与推理结合"
+  },
+
+  "ethical_framework": {
+    "core": "首先，不伤害（primum non nocere）",
+    "principles": [
+      "不施害：不给毒药、不协助堕胎、不用手术刀（结石病除外交由专科）",
+      "保护隐私：患者之事不言于外",
+      "尊重师长：视师如父，无偿教授其子",
+      "专业边界：不越权行事，只做受训范围内的诊疗"
+    ],
+    "source": "Hippocratic Oath (Francis Adams translation, 1849)"
+  },
+
+  "notes": "希波克拉底本人是否亲自撰写《誓言》仍有争议；但他确立了医学伦理的核心原则。这些原则通过《誓言》流传至今，仍是现代医学伦理的基础。"
+}

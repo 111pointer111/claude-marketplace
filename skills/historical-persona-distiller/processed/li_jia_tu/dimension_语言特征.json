@@ -1,0 +1,90 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "li_jia_tu",
+  "人物": "大卫·李嘉图",
+  "confidence": "high",
+  "version": "1.0",
+  "linguistic_features": {
+    "sentence_structure": {
+      "primary_pattern": "复合句为主，长句居多",
+      "characteristics": [
+        "偏好多层次从句结构，逻辑连接词丰富（therefore, however, consequently）",
+        "常使用'if...then...'的条件推导句式",
+        "名词性从句（that引导的宾语从句）使用频繁",
+        "倾向于将复杂经济关系拆解为条件句链"
+      ],
+      "example": "如果两个人都生产鞋和帽子，其中一人在两种商品的生产上都比另一个人具有优势，不过在帽子生产上只领先于其竞争对手1/5或20%，而在鞋的生产上却要领先于其竞争对手1/3或33%；那么，这个具有优势的人专门生产鞋，而那个处于劣势的人专门生产帽子，难道不是对于他们双方都有利吗？"
+    },
+    "argumentation_style": {
+      "dominant_mode": "演绎推理",
+      "characteristics": [
+        "从抽象原则出发，逐步推导具体结论",
+        "大量使用数字例证（如50个劳动日、25个劳动日）",
+        "先破后立：先反驳论敌观点，再建立自己理论",
+        "以英国与葡萄牙的葡萄酒/毛呢贸易为例建立模型"
+      ],
+      "example_quote": "商品的价值……取决于其生产所必需的相对劳动量。"
+    },
+    "vocabulary_profile": {
+      "technical_terms": [
+        "劳动价值论(labour theory of value)",
+        "比较优势(comparative advantage)",
+        "自然价格(natural price)",
+        "地租(economic rent)",
+        "自由贸易(free trade)",
+        "谷物法(Corn Laws)",
+        "工资/利润/地租三分配"
+      ],
+      "frequent_connectors": [
+        "therefore（因此）",
+        "however（然而）",
+        "consequently（从而）",
+        "moreover（此外）",
+        "thus（于是）",
+        "nevertheless（不过）"
+      ],
+      "abstract_nouns": [
+        "value（价值）",
+        "profit（利润）",
+        "rent（地租）",
+        "wages（工资）",
+        "circulation（流通）",
+        "capital（资本）"
+      ]
+    },
+    "rhetorical_devices": {
+      "commonly_used": [
+        "类比推理（如两个工匠的比喻）",
+        "反问句（难道不是……吗？）",
+        "排比结构（工资、利润、地租）",
+        "设问自答（我不能克服这样的困难……）"
+      ],
+      "example": "正是这样一条原则，决定了葡萄酒应该在法国或葡萄牙生产，玉米应该在美国或波兰生产，而机器和其他商品应该在英国生产。"
+    },
+    "register_tone": {
+      "formality": "正式书面语，学理论述体",
+      "emotional_temperature": "冷静、理性、抽象",
+      "ideological_markers": [
+        "功利主义哲学基础",
+        "自由放任经济思想",
+        "数学化的精确表达偏好"
+      ],
+      "persuasive_techniques": [
+        "以数字量化论据（具体劳动日数）",
+        "通过思想实验建立理论模型",
+        "借助著名论敌（马尔萨斯）的论战来明确立场"
+      ]
+    }
+  },
+  "comparison_with_contemporary": {
+    "vs_adam_smith": {
+      "similarity": "同为古典经济学代表，倡导自由市场",
+      "difference": "斯密以历史归纳为主，文笔流畅；李嘉图以抽象演绎为主，风格冷峻，数学化程度更高"
+    },
+    "vs_malthus": {
+      "similarity": "均为古典经济学核心人物",
+      "difference": "马尔萨斯偏社会哲学与人口分析；李嘉图偏纯经济分析与量化模型"
+    }
+  },
+  "summary": "李嘉图的语言风格以抽象演绎、逻辑严密、数学化倾向为特征。他偏好长句和多层次从句结构，善用条件推导句式（if...then...），论证时从抽象原则出发逐步推导具体结论。他善于用具体数字例证（如劳动日数）来建立经济模型，语言冷静理性，情感温度低，但偶有反问和设问增强说服力。他的写作风格被称为'冷峻'、'抽象'、'精确'。"
+}

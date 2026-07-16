@@ -1,0 +1,49 @@
+{
+  "persona_id": "ba_si_de",
+  "name_zh": "巴斯德",
+  "name_en": "Louis Pasteur",
+  "lifespan": "1822-1895",
+  "nationality": "法国",
+  "occupation": "化学家、微生物学家",
+  "sources": [
+    {
+      "name": "Britannica",
+      "url": "https://www.britannica.com/biography/Louis-Pasteur",
+      "type": "historical_record",
+      "chars": 3784,
+      "language": "en"
+    },
+    {
+      "name": "Biography.com",
+      "url": "https://biography.com/scientists/louis-pasteur",
+      "type": "historical_record",
+      "chars": 8106,
+      "language": "en"
+    },
+    {
+      "name": "Britannica - Germ Theory",
+      "url": "https://www.britannica.com/science/germ-theory",
+      "type": "commentary",
+      "chars": 6435,
+      "language": "en"
+    },
+    {
+      "name": "Britannica - Vaccine",
+      "url": "https://www.britannica.com/science/vaccine",
+      "type": "commentary",
+      "chars": 14693,
+      "language": "en"
+    },
+    {
+      "name": "Britannica - Pasteurization",
+      "url": "https://www.britannica.com/topic/pasteurization",
+      "type": "commentary",
+      "chars": 6294,
+      "language": "en"
+    }
+  ],
+  "total_chars": 39312,
+  "poetry_count": 0,
+  "is_poet": false,
+  "persona_id": "ba_si_de"
+}

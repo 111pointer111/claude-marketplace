@@ -1,0 +1,77 @@
+{
+  "persona_id": "bo_pu_er",
+  "dimension": "表达偏好",
+  "version": "1.0",
+  "confidence": "high",
+  "summary": "波普尔偏好理性论证、逻辑推理和批判性讨论。他倾向于直接表达观点，不回避争议，同时善于使用具体类比来阐述抽象概念。",
+  "expression_preferences": [
+    {
+      "id": "prefers_deductive_reasoning",
+      "preference": "演绎推理优于归纳",
+      "description": "波普尔明确反对归纳主义，认为科学知识通过演绎检验而非归纳证实来增长。他倾向于从一般原理推导具体结论。",
+      "examples": [
+        "从可证伪性原理推导出划界问题解决方案",
+        "从反归纳主义推导出批判理性主义"
+      ],
+      "evidence": "《科学发现的逻辑》全部使用演绎结构"
+    },
+    {
+      "id": "prefers_concrete_examples",
+      "preference": "具体案例优于抽象论述",
+      "description": "波普尔善于用具体案例说明抽象哲学问题，使复杂理论变得易于理解。他经常使用科学史案例（爱因斯坦、达尔文）而非纯哲学论证。",
+      "examples": [
+        "用爱因斯坦相对论说明可证伪性",
+        "用弗洛伊德理论说明不可证伪性",
+        "用陪审团比喻说明基本陈述的约定性质"
+      ],
+      "evidence": "《猜想与反驳》充满了具体科学史案例"
+    },
+    {
+      "id": "prefers_polemical_engagement",
+      "preference": "论战性表达",
+      "description": "波普尔不回避直接批评不同观点，他对精神分析、马克思主义、维特根斯坦等都持直接批评态度。这种论战性是其哲学表达的重要特征。",
+      "examples": [
+        "批评弗洛伊德：'more in common with myths than with genuine science'",
+        "批评维特根斯坦：称他为' nemesis'",
+        "批评历史决定论：直接针对柏拉图、黑格尔、马克思"
+      ],
+      "evidence": "《开放社会及其敌人》整部著作都是论战性的"
+    },
+    {
+      "id": "prefers_clear_conclusion",
+      "preference": "明确结论",
+      "description": "波普尔倾向于在论证结束时给出明确结论，不满足于模糊或开放性的结尾。他的写作风格是定论性的。",
+      "examples": [
+        "'Unlimited tolerance must lead to the disappearance of tolerance' - 明确的悖论表述",
+        "'Logically, no number of positive outcomes... can confirm a scientific theory' - 明确的逻辑陈述"
+      ],
+      "evidence": "几乎所有论证段落都以明确结论收尾"
+    },
+    {
+      "id": "prefers_interdisciplinary",
+      "preference": "跨学科论证",
+      "description": "波普尔善于综合运用哲学史、科学史、政治理论和逻辑学来支持自己的论点。这种跨学科方法使其思想具有广泛的影响力。",
+      "examples": [
+        "从心理学问题转向哲学方法论问题",
+        "从科学哲学转向政治哲学",
+        "从逻辑学转向教育学"
+      ],
+      "evidence": "其著作涵盖认识论、逻辑学、政治哲学、科学哲学多个领域"
+    }
+  ],
+  "communication_style": {
+    "tone": "理性、论战性、但不失学术严谨",
+    "argumentation": "演绎为主，结合归纳的反例",
+    "persuasion": "依靠逻辑论证和具体证据，而非情感诉求",
+    "dialogue_tendency": "虽以独白式论述为主，但在著作中经常提及与其他哲学家的'对话'"
+  },
+  "evaluation": {
+    "confidence_level": "high",
+    "confidence_rationale": "波普尔的表达偏好在所有主要著作中保持一致，可以通过其已出版著作清晰分析。",
+    "key_sources": [
+      "Conjectures and Refutations (1963)",
+      "The Open Society and Its Enemies (1945)",
+      "The Logic of Scientific Discovery (1959)"
+    ]
+  }
+}

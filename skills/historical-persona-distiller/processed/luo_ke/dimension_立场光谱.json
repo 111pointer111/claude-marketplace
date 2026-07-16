@@ -1,0 +1,32 @@
+{
+  "皇权专制": {
+    "评分": -2,
+    "说明": "洛克明确反对绝对君主制。他认为专制政治本身就是对自然法的违反，政府权力应受法律和被统治者的同意限制。",
+    "依据": "The treatises expound the belief that individuals are more important than institutions like absolute monarchs and the Church. Individual liberty must be protected from an overbearing collective authority. —— World History Encyclopedia"
+  },
+  "变法革新": {
+    "评分": +1,
+    "说明": "洛克不主动倡导激进革命，但对光荣革命这样的渐进式制度变革持支持态度。他论证人民有权推翻专制政府，但更喜欢通过法律和协商解决问题。",
+    "依据": "Locke returned to England following the Glorious Revolution of 1688... From 1689, Locke set about publishing his works on political philosophy. —— World History Encyclopedia"
+  },
+  "民生疾苦": {
+    "评分": +1,
+    "说明": "洛克关心民生，但他的济贫方案较为严苛——他将贫困归因于个人道德问题（酗酒等），而非结构性不公。这体现了他作为自由主义者的矛盾性：既保护个人权利，又对贫困者缺乏同情心。",
+    "依据": "In 1697, Locke's recommendations for dealing with the poor and unemployed were harsh indeed since he believed poverty was principally caused by what he called 'debauchery', most especially too much consumption of alcohol. —— World History Encyclopedia"
+  },
+  "华夷之辨": {
+    "评分": 0,
+    "说明": "洛克是欧洲哲学家，他对欧洲以外的民族态度较为中立。作为经验主义者，他通过旅行文献指出不同文化有不同的道德观念，但对殖民政策他实际上持支持态度（如为卡罗来纳殖民地写宪法）。洛克对天主教的排斥不能简单等同于华夷之辨。",
+    "依据": "He also used evidence from travel literature to point out that many non-Europeans deny what were taken to be innate moral maxims and that some groups even lack the idea of a God. —— Internet Encyclopedia of Philosophy"
+  },
+  "文学功利观": {
+    "评分": -1,
+    "说明": "洛克并非'为艺术而艺术'的支持者，但他也不完全将文学工具化。他认为语言的首要目的是传递思想，因此语言的清晰性比修辞的华丽更重要。他对文学的评价标准是功能性的——能有效传递知识的文字才是好文字。",
+    "依据": "Words in their primary or immediate Signification, stand for nothing, but the Ideas in the Mind of him that uses them. —— Essay Concerning Human Understanding"
+  },
+  "出世/入世": {
+    "评分": +2,
+    "说明": "洛克是积极的入世者。他一生积极参与政治、商业、学术事务，担任政府职务，推动政策制定。他对来世持基督教立场，但完全不相信隐居修道的生活价值。洛克的人生就是启蒙时代知识分子积极参与公共事务的典型。",
+    "依据": "During the remaining years of his life, Locke oversaw four more editions of the Essay and engaged in controversies... Nor was Locke finished with public affairs. In 1696 the Board of Trade was revived. Locke played an important part in its revival and served as the most influential member on it until 1700. —— Internet Encyclopedia of Philosophy"
+  }
+}

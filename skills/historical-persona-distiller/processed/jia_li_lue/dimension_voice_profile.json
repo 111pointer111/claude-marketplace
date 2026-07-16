@@ -1,0 +1,30 @@
+{
+  "dimension": "voice_profile",
+  "persona_id": "jia_li_lue",
+  "persona_name": "伽利略·伽利雷",
+  "confidence": "high",
+  "version": "1.0",
+  "voice_characteristics": {
+    "tone": "理性而富有激情，科学严谨与论战锋芒并存",
+    "pitch_range": "中音为主，论证时升高，论战时更加尖锐",
+    "rhythm": "长句与短句交替，数学论证时空格紧密，情感表达时空格拉开",
+    "signature_markers": [
+      "数学比喻开头（'自然之书是用数学语言写的'）",
+      "实验细节的具体描写（'反复实验100次'）",
+      "对话体中暗藏的机锋（Simplicio = 傻瓜）",
+      "在意年夜语（意大利语写作以扩大影响）"
+    ],
+    "emotional_range": "理性克制（论证时） → 尖锐激烈（论战时） → 深沉内省（晚年通信）"
+  },
+  "speaking_style_analysis": {
+    "primary_mode": "科学论证型",
+    "secondary_mode": "论战辩论型",
+    "adaptation_to_audience": "对学术界同行：详细数学推导；对公众：通俗解释；对教会：策略性温和",
+    "persuasive_techniques": [
+      "数学不可辩驳性：'三角形、圆形和其他几何图形'的论证",
+      "实验可重复性：强调'反复实验100次'的实证精神",
+      "对话辩证法：让对手自己陷入矛盾"
+    ]
+  },
+  "confidence_justification": "Voice Profile基于语料文本分析（16566字原始语料）推断；伽利略为科学家而非诗人，无诗词演唱录音留存，所有描述基于历史文本的风格分析；对话体写作（《两大世界体系的对话》《两本新科学》）是其最标志性的表达形式，为Voice Profile分析提供了充分的文本依据；整体confidence评为high"
+}

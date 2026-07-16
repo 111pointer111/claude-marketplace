@@ -1,0 +1,42 @@
+{
+  "文言白话": {
+    "评分": 5,
+    "说明": "洛克使用清晰、自然的英语散文，几乎不带拉丁文或古典学术措辞的负担。他明确反对学术界的'博学废话'——用令人费解的词汇掩盖无知。他认为哲学应服务于普通人的理解，而非展示学者的博学。",
+    "佐证": "In his assessment of the work of academics, Locke states that it is often 'learned gibberish' since they wish to 'cover their Ignorance with a curious and unexplicable Web of perplexed Words.' —— World History Encyclopedia"
+  },
+  "雅俗": {
+    "评分": 4,
+    "说明": "洛克文风平易近人，但他并非使用日常口语。他的散文是受过良好教育的精英语言——优雅但清晰，学术性但不晦涩。这是一种受过古典训练但有意摆脱经院传统的'反权威'雅致。",
+    "佐证": "He was a man of gentle, shy and amiable disposition, widely liked and esteemed, without enemies, and endowed with an astonishing capacity for absorbing and interpreting in simple language some of the original and revolutionary ideas in which his time was singularly rich. —— World History Encyclopedia (Isaiah Berlin)"
+  },
+  "骈散": {
+    "骈偶%": 5,
+    "散行%": 95,
+    "说明": "洛克几乎不使用对偶骈句。他的论辩文章全用散体，逻辑推进清晰。他在方法论上明确反对形式逻辑（亚里士多德三段论），崇尚自然哲学的实验精神，语言形式上亦体现这一立场。"
+  },
+  "句长": {
+    "短句%": 15,
+    "中句%": 65,
+    "长句%": 20,
+    "说明": "洛克偏好中长句，善于用复合句结构展开复杂论证。他能将一个哲学观点的所有逻辑分支包裹在一个长句中，同时保持清晰。他不使用中国古典诗词的短句节奏，而是英语散文的舒展句式。",
+    "佐证": "The mind is a tabula rasa or blank sheet until experience in the form of sensation and reflection provide the basic materials—simple ideas—out of which most of our more complex knowledge is constructed. —— Stanford Encyclopedia"
+  },
+  "语气": {
+    "主要": ["理性", "克制", "清晰"],
+    "次要": ["内省", "论辩", "教化"]
+  },
+  "意象Top10": [
+    "白板（blank slate / tabula rasa）—— 核心意象，象征心灵的经验主义本质",
+    "自然法（law of nature）—— 洛克政治哲学的基石意象",
+    "社会契约（social contract）—— 公民与政府关系的基础隐喻",
+    "财产（property）—— 劳动与所有权的核心意象",
+    "感官经验（sensation）—— 知识获取的通道",
+    "理性之光（light of reason）—— 启蒙时代通用意象",
+    "容器/仓库（storehouse）—— 心灵储存观念的隐喻",
+    "政治大厦（political edifice）—— 政府结构的隐喻",
+    "法律之剑（sword of the law）—— 执行权的象征",
+    "信仰共同体（religious community）—— 宽容议题的核心意象"
+  ],
+  "修辞": ["类比", "反讽", "定义", "枚举"],
+  "文体排序": ["政治论文", "哲学论著", "神学论述", "教育论文", "私人书信"]
+}

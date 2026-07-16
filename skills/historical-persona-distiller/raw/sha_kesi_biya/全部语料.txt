@@ -1,0 +1,196 @@
+# William Shakespeare 全部语料
+# persona_id: sha_kesi_biya
+# Sources: World History Encyclopedia, Britannica
+
+===
+
+# 传记（World History Encyclopedia，约29,000字）
+
+William Shakespeare (1564-1616) was an English poet, playwright, and actor who flourished during the late Elizabethan and early Jacobean eras. Known as the 'Bard of Avon,' he wrote 38 plays, 154 sonnets, and three longer narrative poems. His plays, often written in blank verse and composed in iambic pentameter, were incredibly popular in their day and continue to be performed around the world; they include comedies such as A Midsummer Night's Dream and Twelfth Night, tragedies like Hamlet and Macbeth, histories such as Henry V, and tragicomedies like The Tempest. Arguably the most influential dramatist of all time, Shakespeare's legacy has only grown throughout the centuries. In the words of fellow playwright Ben Jonson, Shakespeare was "not of an age, but for all time."
+
+Little is known for certain about the life of William Shakespeare. As a commoner, his life did not merit the same attention as that of a nobleman or other public figure. Even after his rise to prominence, contemporary audiences were much more interested in his work than his personal life, and no attempt to write his biography was made until decades after his death.
+
+There is no evidence that Shakespeare was strong-armed into what would today be called a 'shotgun wedding.'
+
+Shakespeare was born in Stratford-upon-Avon, a "handsome small market town" of about 1,400 residents in Warwickshire, England. His father, John Shakespeare (circa 1531-1601), was a successful glover and leatherworker. His mother, Mary Arden (circa 1537-1608), was the daughter of a wealthy gentleman.
+
+Most scholars agree that Shakespeare received a grammar school education, likely at King's New School at Stratford, in which he would have enrolled around 1571 at the age of 7. In this schoolhouse, Shakespeare would have undergone a rigorous curriculum centering around Latin studies; the standard text was Grammatica Latina by William Lyly, but Shakespeare would have also read from Aesop's Fables and studied the works of ancient Roman literature, such as poems by Plautus and Ovid, each of whom would greatly influence his own plays.
+
+A bishop's license issued on 27 November 1582 records a marriage between William Shakespeare and Anne 'Whately'. This was a misprint, however, as the bond of sureties issued the next day corrected her name to Anne Hathaway. There was a significant age difference between the couple – Anne was 26 and William only 18. The couple welcomed their first child, Susanna, on 26 May 1583. Two more Shakespeare children, twins Hamnet and Judith, were baptized in Stratford on 2 February 1585.
+
+After the baptisms of his twins in 1585, Shakespeare falls completely off the record and does not re-emerge until 1592, when he is first referenced as an up-and-coming actor and playwright in London. His life and activities in the intervening seven years – when he would have been between the ages of 21 and 28 – are completely unknown.
+
+The only certainty about Shakespeare's 'lost years' is that at some point he settled in London and became involved in the theatrical world.
+
+Whether or not this was true, scholar David Bevington agrees that "a young man from the country would have to begin at the bottom" of the theatre hierarchy, adding that "Shakespeare's later work certainly reveals an intimate and practical acquaintance with technical matters of stagecraft."
+
+By 1592, Shakespeare had become prominent enough to warrant the attention of the noted dramatist Robert Greene. In his posthumously published work, Greene's Groatsworth of Wit, the dying Greene mockingly refers to Shakespeare:
+
+"For there is an upstart crow, beautified with our feathers, with his 'Tiger's heart wrapped in a player's hide' supposes he is as well able to bombast out a blank verse as the best of you, and, being an absolute Johannes Factotum [i.e., 'Jack-of-all-trades'] is in his own conceit the only Shake-scene in a country."
+
+By the time the theatres reopened in June 1594, Shakespeare was part-owner of the Lord Chamberlain's Men, an acting company centered around the Burbage family of entertainers.
+
+In 1593, he published Venus and Adonis, a 1,194-line dramatic poem written in iambic pentameter. The poem was dedicated to the 18-year-old nobleman Henry Wriothesley, 3rd Earl of Southampton, who rewarded Shakespeare with his patronage.
+
+In 1596, his 11-year-old son Hamnet died.
+
+Between 1596 and 1598, Shakespeare wrote King John, The Merchant of Venice, Much Ado About Nothing, The Merry Wives of Windsor, and the two parts of Henry IV.
+
+In 1599, he had one of the most creatively productive years of his career – he wrote such classics as Henry V, Julius Caesar, As You Like It, Twelfth Night, and probably started to work on Hamlet. First performed in either 1600 or 1601, Hamlet is regarded as the first of Shakespeare's 'great tragedies' and is cited by many as one of the greatest pieces of English literature.
+
+In 1603, King James I of England ascended the throne and became the new patron of the Lord Chamberlain's Men, who were thereafter referred to as the King's Men.
+
+During the early Jacobean Era, the characteristics of Shakespeare's plays began to shift – he wrote fewer comedies and instead focused on writing plays that combined both comedic and darker elements. These were Shakespeare's 'problem plays.'
+
+Around the same time, Shakespeare wrote the other so-called 'great tragedies' in another burst of creative energy; Othello, Macbeth, King Lear, and Antony and Cleopatra were all written between 1604 and 1607.
+
+In 1609, 154 of Shakespeare's sonnets were published in a quarto by Thomas Thorpe. He had likely been working on these sonnets on and off for decades and may have only intended them for private readership amongst his friends.
+
+Dealing with themes such as time, lust, and homoeroticism, the sonnets are generally divided into three sections. The first 126 are addressed to a nameless 'Fair Youth'. Sonnets 127-152 are addressed to a 'Dark Lady' and consist of a more overtly erotic tone.
+
+By 1610, Shakespeare had begun to slow down. He had probably given up acting by this point – his name no longer appears as an actor on playbills after 1608 – and was now writing plays at a reduced rate.
+
+Shakespeare worked with Thomas Middleton on Timon of Athens and with John Fletcher on Henry VIII, The Two Noble Kinsmen, and the now lost Cardenio.
+
+In 1611, Shakespeare wrote the tragicomedy The Tempest, the last play he would write on his own.
+
+On 25 March 1616, Shakespeare signed his last will and testament – as scholar David Bevington points out, his "three quavering signatures, one on each page of this document, suggest that he was in failing health."
+
+Shakespeare died on 23 April 1616 at the age of 52.
+
+===
+
+# 莎士比亚剧作与诗歌选段
+
+## Hamlet (1600-1601)
+"To be, or not to be, that is the question:
+Whether 'tis nobler in the mind to suffer
+The slings and arrows of outrageous fortune,
+Or to take arms against a sea of troubles
+And by opposing end them."
+
+"This above all: to thine own self be true."
+— Polonius, Act 1, Scene 3
+
+"The play's the thing wherein you'll catch the conscience of the king."
+— Hamlet, Act 2, Scene 2
+
+## Macbeth (1606-1607)
+"Tomorrow, and tomorrow, and tomorrow,
+Creeps in this petty pace from day to day,
+To the last syllable of recorded time;
+And all our yesterdays have lighted fools
+The way to dusty death."
+
+"Out, damned spot! out, I say!"
+— Lady Macbeth, Act 5, Scene 1
+
+## The Tempest (1611)
+"We are such stuff as dreams are made on, and our little life
+Is rounded with a sleep."
+— Prospero, Act 4, Scene 1
+
+## Julius Caesar (1599)
+"Friends, Romans, countrymen, lend me your ears;
+I come to bury Caesar, not to praise him;
+The evil that men do lives after them,
+The good is oft interred with their bones."
+— Mark Antony, Act 3, Scene 2
+
+## The Merchant of Venice (1596-1598)
+"Hath not a Jew eyes? hath not a Jew hands, organs, dimensions, senses, affections, passions? fed with the same food, hurt with the same weapons, subject to the same diseases, healed by the same means, warmed and cooled by the same winter and summer, as a Christian is?"
+— Shylock, Act 3, Scene 1
+
+## Othello (1603-1604)
+"I am not what I am."
+— Iago, Act 1, Scene 1
+
+## King Lear (1605-1606)
+"Poor naked wretches, whithersoever you are,
+That bide the pelting of this pitiless storm,
+How shall your houseless heads and unfed sides,
+Your looped and windowed raggedness, defend you
+From seasons such as these?"
+
+## As You Like It (1598-1600)
+"All the world's a stage,
+And all the men and women merely players.
+They have their exits and their entrances;
+And one man in his time plays many parts."
+— Jaques, Act 2, Scene 7
+
+## A Midsummer Night's Dream (1595-1596)
+"The course of true love never did run smooth."
+— Lysander, Act 1, Scene 1
+
+## Twelfth Night (1600-1602)
+"Be not afraid of greatness. Some are born great, some achieve greatness, and some have greatness thrust upon 'em."
+— Malvolio, Act 2, Scene 5
+
+## Richard III (1592-1593)
+"Now is the winter of our discontent."
+— Richard III, Act 1, Scene 1
+
+## All's Well That Ends Well (circa 1602)
+"Love all, trust a few, do wrong to none."
+— Helena, Act 1, Scene 1
+
+## 十四行诗主题
+The sonnets deal with themes such as:
+- Time (the ravaging effects of time on beauty and love)
+- Lust (especially in the Dark Lady sequence)
+- Homoeroticism (in the Fair Youth sequence)
+- The power of poetry to immortalize the beloved
+- The conflict between art and nature
+- Mortality and the prospect of death
+
+Sonnet 18: "Shall I compare thee to a summer's day?"
+Sonnet 116: "Let me not to the marriage of true minds"
+Sonnet 130: "My mistress' eyes are nothing like the sun"
+
+===
+
+# 后世评述
+
+## Ben Jonson
+"not of an age, but for all time" — Ben Jonson
+"Sweet Swan of Avon" — Ben Jonson
+"small Latin and less Greek" — Ben Jonson's criticism
+
+## Britannica
+"Shakespeare occupies a position unique in world literature... no writer's living reputation can compare to that of Shakespeare."
+"Shakespeare is a writer of great intellectual rapidity, perceptiveness, and poetic power."
+"Other writers have applied their keenness of mind in this way, but Shakespeare is astonishingly clever with words and images, so that his mental energy, when applied to intelligible human situations, finds full and memorable expression, convincing and imaginatively stimulating."
+
+## World History Encyclopedia
+"Arguably the most influential dramatist of all time, Shakespeare's legacy has only grown throughout the centuries."
+"Shakespeare's character work and use of language transformed familiar stories into new and original experiences."
+
+## David Bevington
+"a young man from the country would have to begin at the bottom of the theatre hierarchy, adding that Shakespeare's later work certainly reveals an intimate and practical acquaintance with technical matters of stagecraft"
+Bevington on Shakespeare's will: his "three quavering signatures, one on each page of this document, suggest that he was in failing health"
+
+## Robert Greene (1592, Groatsworth of Wit)
+"For there is an upstart crow, beautified with our feathers, with his 'Tiger's heart wrapped in a player's hide' supposes he is as well able to bombast out a blank verse as the best of you, and, being an absolute Johannes Factotum is in his own conceit the only Shake-scene in a country."
+
+## Shakespeare Authorship Question
+The Shakespeare authorship question has persisted for more than a century. Anti-Stratfordian theories propose alternate authors including Edward de Vere (Earl of Oxford), Francis Bacon, Christopher Marlowe, William Stanley (Earl of Derby), Mary Herbert (Countess of Pembroke), and Emilia Lanier.
+
+Mainstream scholarship largely rejects these theories because:
+- Shakespeare's name appears on some 50 extant documents
+- He was mentioned by several contemporaries, notably Ben Jonson
+- The First Folio (1623), edited by John Heminge and Henry Condell, provides the strongest evidence
+
+## 莎士比亚对英语的贡献
+He invented or popularized thousands of words and phrases: "bedroom," "lonely," "generous," "accommodation," "barefoot," "eyeball," "bedroom," "lonely."
+Phrases like "break the ice," "heart of gold," "wild goose chase," "short shrift" all originate in his works.
+
+## 遗言
+In his will, Shakespeare left most of his estate to his eldest daughter Susanna, while his wife Anne was left only "my second best bed."
+
+## 莎士比亚创作风格
+- 悲剧（Great Tragedies）：Hamlet, Othello, King Lear, Macbeth
+- 喜剧（Comedies）：A Midsummer Night's Dream, Twelfth Night, Much Ado About Nothing, The Merchant of Venice
+- 历史剧（Histories）：Henry IV, Henry V, Richard III
+- 悲喜剧（Tragicomedies）：The Tempest, The Winter's Tale
+- 问题戏剧（Problem Plays）：Measure for Measure, Troilus and Cressida, All's Well That Ends Well

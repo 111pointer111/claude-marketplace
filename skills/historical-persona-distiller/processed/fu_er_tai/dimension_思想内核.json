@@ -1,0 +1,75 @@
+{
+  "核心价值观": [
+    {
+      "条目": "宗教容忍与信仰自由",
+      "原文引用": [
+        "Is each individual citizen, then, to be permitted to believe only in what his reason tells him, to think only what his reason, be it enlightened or misguided, may dictate? Yes, indeed he should, provided always that he threatens no disturbance to public order.",
+        "He argues that different denominations of Christianity should be tolerated in the same society. This is based on his belief that toleration springs from no single group being able to claim absolute truth."
+      ],
+      "出处": "Treatise on Tolerance (1762); World History Encyclopedia"
+    },
+    {
+      "条目": "反对狂热与迷信",
+      "原文引用": [
+        "Religion is the source of all the follies and turmoils imaginable, it is the mother of fanaticism and civil discord; it is the enemy of mankind.",
+        "Enlightened times will enlighten only a small number of honest people. The vulgar masses will always be fanatics."
+      ],
+      "出处": "Philosophical Dictionary (1764), 引自 Gottlieb; letter to friend, 引自 Gottlieb"
+    },
+    {
+      "条目": "理性与启蒙进步观",
+      "原文引用": [
+        "We live in a century in which the philosophical spirit has rid us of a great number of prejudices.",
+        "If we recognise the harshness of life, we can do something about it using reason to make practical improvements."
+      ],
+      "出处": "引自 Diderot by Robertson; Candide (1759)"
+    },
+    {
+      "条目": "开明君主制优于绝对专制",
+      "原文引用": [
+        "He proposes that the best form of government is a monarchy limited in its power by a parliament and constitution.",
+        "You kings, you put us on our guard, you are like Homer's gods who make men serve their purposes without these poor people suspecting it."
+      ],
+      "出处": "World History Encyclopedia; 1775 letter to Frederick the Great, 引自 Robertson 668"
+    },
+    {
+      "条目": "自然神论（有神但不可知）",
+      "原文引用": [
+        "Who are you? Where do you come from? What are you doing? What will become of you? This is a question one must put to every creature in the universe, but none of them give us any answer.",
+        "Voltaire was a deist, that is, someone who believes in the presence of God as a creator but believes that, much like a watchmaker who then abandons his work, God is not available for communication or interaction in the world he has created."
+      ],
+      "出处": "Ignorant Philosopher (1766), 引自 Hampson; World History Encyclopedia"
+    }
+  ],
+  "政治立场": {
+    "描述": "主张开明君主制（君主立宪），反对绝对专制和教会干政；倡导言论自由、宗教宽容；认同英国政治制度优于法国",
+    "原文引用": [
+      "He proposes that the best form of government is a monarchy limited in its power by a parliament and constitution.",
+      "Voltaire believes that because humans are rational and act with reasonable self-interest, they should be given more liberty than current authoritarian government systems allow."
+    ]
+  },
+  "底线清单": [
+    {
+      "条目": "反对宗教迫害与狂热",
+      "原文引用": "Religion is the source of all the follies and turmoils imaginable, it is the mother of fanaticism and civil discord.",
+      "出处": "Philosophical Dictionary, 引自 Gottlieb 233"
+    },
+    {
+      "条目": "批判封建专制与贵族特权",
+      "原文引用": "Through the story, Voltaire presents withering criticisms of the French state, especially the nobility.",
+      "出处": "World History Encyclopedia, Candide description"
+    },
+    {
+      "条目": "拒绝空洞的乐观主义",
+      "原文引用": "Voltaire rejects the lofty utopian thoughts of other thinkers (especially Gottfried Wilhelm Leibniz) in favour of simpler and more practical solutions to society's present problems.",
+      "出处": "World History Encyclopedia"
+    }
+  ],
+  "自我定位": {
+    "描述": "自视为启蒙哲人的典范，以理性为武器批判蒙昧；自我认知从文学家转向"哲学智者"，以传播牛顿科学和英国自由思想为使命",
+    "原文引用": [
+      "Voltaire left France a poet and returned to it a sage.",
+      "more than any other represented the Enlightenment to his contemporaries"
+    ]
+  }
+}

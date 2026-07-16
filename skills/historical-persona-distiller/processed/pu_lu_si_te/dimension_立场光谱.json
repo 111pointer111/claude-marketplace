@@ -1,0 +1,46 @@
+{
+  "皇权专制": {
+    "评分": 0,
+    "置信度": "low",
+    "说明": "普鲁斯特作为法国第三共和国时期的作家，不涉及对皇权的直接态度",
+    "依据": "语料中无涉及皇权专制的直接讨论",
+    "演变": "无"
+  },
+  "变法革新": {
+    "评分": 0,
+    "置信度": "low",
+    "说明": "普鲁斯特不直接参与政治改革讨论",
+    "依据": "语料中无涉及变法革新的直接讨论",
+    "演变": "无"
+  },
+  "民生疾苦": {
+    "评分": 1,
+    "置信度": "medium",
+    "说明": "普鲁斯特对人类苦难的同情更多体现在心理层面而非社会层面；他关注的是爱情中的嫉妒、社会中的虚荣等心理痛苦，而非物质匮乏",
+    "依据": "小说中充满了对人性弱点和痛苦的深刻同情，尤其是对斯万爱情中的嫉妒和痛苦、阿尔贝蒂娜的失去、夏吕斯的堕落等",
+    "演变": "无明显演变"
+  },
+  "华夷之辨": {
+    "评分": -2,
+    "置信度": "medium",
+    "说明": "普鲁斯特强烈反对反犹主义，在德雷福斯事件中公开站在犹太人一边；但他对社会偏见的批判主要体现在对贵族反犹倾向的讽刺中，而非明确的政治宣言",
+    "依据": "Proust helped to organize petitions and assisted Dreyfus's lawyer, courageously defying the risk of social ostracism. The experience helped to crystallize his disillusionment with aristocratic society.",
+    "演变": "从早期社交界中的不明显态度，到晚期通过小说对反犹主义进行深刻批判"
+  },
+  "文学功利观": {
+    "评分": 2,
+    "置信度": "high",
+    "说明": "普鲁斯特明确主张艺术独立和艺术超越性；他在'Contre Sainte-Beuve'论文中提出，文学不是有闲阶级的消遣，而是对深层真实的揭示",
+    "依据": "in which the artist's task is to release from the buried world of unconscious memory the ever-living reality to which habit makes us blind",
+    "演变": "始终如一"
+  },
+  "出世/入世": {
+    "评分": -1,
+    "置信度": "high",
+    "说明": "普鲁斯特虽然表面上退隐创作，但实际上他的作品极为入世——是对人类社会最深层的心理探索；他不是传统意义上的隐士，而是选择性地从社交界退出以专注于写作",
+    "依据": "retired from the world to write his novel; racing against death to complete his great work",
+    "演变": "从早期积极参与社交和公共事务，到后期完全专注于创作，但这种'出世'是为了更深地'入世'——通过艺术触及普遍人性"
+  },
+  "综合可信度": "medium",
+  "综合说明": "普鲁斯特的语料中涉及政治立场的内容相对有限，主要集中在文学艺术观和社会偏见（尤其是反犹主义）两个方面；其他议题语料不足，无法给出可靠的评分"
+}

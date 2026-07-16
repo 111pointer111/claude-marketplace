@@ -1,0 +1,77 @@
+# Max Weber 传记与资料 (来源: Stanford Encyclopedia of Philosophy)
+
+## 1. Life and Career
+
+Maximilian Carl Emil "Max" Weber (1864–1920) was born in the Prussian city of Erfurt to a family of notable heritage. His father, Max Sr., came from a Westphalian family of merchants and industrialists in the textile business and went on to become a lawyer and National Liberal parliamentarian in Wilhelmine politics. His mother, Helene, came from the Fallenstein and Souchay families, both of the long illustrious Huguenot line, which had for generations produced public servants and academicians. His younger brother, Alfred, was an influential political economist and sociologist, too. Evidently, Max Weber was brought up in a prosperous, cosmopolitan, and cultivated family milieu that was well-plugged into the political, social, and cultural establishment of the German Bürgertum. Also, his parents represented two, often conflicting, poles of identity between which their eldest son would struggle throughout his life – worldly statesmanship and ascetic scholarship.
+
+Educated mainly at the universities of Heidelberg and Berlin, Weber was trained in law, eventually writing his dissertation on medieval trading companies under Levin Goldschmidt and Rudolf von Gneist and examined by Theodor Mommsen, and Habilitationsschrift on Roman law and agrarian history under August Meitzen. While contemplating a career in legal practice and public service, he received an important research commission from the Verein für Sozialpolitik and produced the so-called East Elbian Report on the displacement of the German agrarian workers in East Prussia by Polish migrant labours. Greeted upon publication with high acclaim and political controversy, this early success led to his first university appointment at Freiburg in 1894 to be followed by a prestigious professorship in political economy at Heidelberg two years later.
+
+All these fruitful years came to an abrupt halt in 1897 when Weber collapsed with a nervous-breakdown shortly after his father's sudden death (precipitated by a confrontation with Weber). His routine as a teacher and scholar was interrupted so badly that he eventually withdrew from regular teaching duties in 1903, to which he would not return until 1919. Although severely compromised and unable to write as prolifically as before, he still managed to immerse himself in the study of various philosophical and religious topics. This period saw a new direction in his scholarship as the publication of miscellaneous methodological essays as well as The Protestant Ethic and the Spirit of Capitalism (1904–1905) testifies.
+
+With the onset of the First World War, Weber's involvement in public life took an unexpected turn. At first a fervent patriotic supporter of the war, as virtually all German intellectuals of the time were, he grew disillusioned with the German war policies, eventually refashioning himself as one of the most vocal critics of the Kaiser government in a time of war. As a public intellectual, he issued private reports to government leaders and wrote journalistic pieces to warn against the Belgian annexation policy and the unlimited submarine warfare.
+
+When defeat came in 1918, Germany found in Weber a public intellectual leader with unscathed liberal credentials. He was invited to join the draft board of the Weimar Constitution as well as the German delegation to Versailles. He opposed the German Revolution and the Versailles Treaty alike, putting himself in an unsustainable position that defied the partisan alignments of the day.
+
+In 1919, he briefly taught in turn at the universities of Vienna and Munich (where he gave the much-lauded lectures, Science as a Vocation and Politics as a Vocation). All these reinvigorated scholarly activities came to an end in 1920 when he died suddenly of pneumonia in Munich (likely due to the Spanish flu). Max Weber was fifty-six years old.
+
+## 2. Philosophical Influences
+
+Weber's philosophical worldview was informed by the deep crisis of the Enlightenment project in fin-de-siècle Europe, characterized by the intellectual revolt against positivist reason, a celebration of subjective will and intuition, and a neo-Romantic longing for spiritual wholesomeness.
+
+### 2.1 Knowledge: Neo-Kantianism
+
+Weber encountered the pan-European cultural crisis of his time mainly as filtered through the jargon of German Historicism. His early training in law had exposed him to the sharp divide between the reigning Labandian legal positivism and the historical jurisprudence championed by Otto von Gierke. Through Wilhelm Windelband, Emil Lask, and Heinrich Rickert (his one-time colleague at Freiburg), he found a rich conceptual template suitable for the clearer elaboration of his own epistemological position.
+
+In opposition to a Hegelian emanationist epistemology, Neo-Kantians shared the Kantian dichotomy between reality and concept. Not an emanent derivative of concepts as Hegel posited, reality is irrational and incomprehensible, and the concept, only an abstract construction of our mind.
+
+According to Rickert's definitive elaboration, value-judgment precedes values. He posits that the "in-dividual," as opposed to mere "individual," phenomenon can be isolated as a discrete subject of our historical inquiry when we ascribe certain subjective values to the singular coherence and indivisibility that are responsible for its uniqueness.
+
+### 2.2 Ethics: Kant and Nietzsche
+
+Weber's understanding of Kant seems to have come through the conceptual template set by moral psychology and philosophical anthropology. In conscious opposition to the utilitarian-naturalistic justification of modern individualism, Kant viewed moral action as principled and self-disciplined while expressive of genuine freedom and autonomy. Freedom and autonomy are to be found in the instrumental control of the self and the world according to a law formulated solely from within.
+
+Weber was keenly aware of the fact that the Kantian linkage between growing self-consciousness, the possibility of universal law, and principled and thus free action had been irrevocably severed. Kant managed to preserve the precarious identification of non-arbitrary action and subjective freedom by asserting such a linkage, which Weber believed to be unsustainable in his allegedly Nietzschean age.
+
+Weber's ethical project can be described as a search for non-arbitrary freedom (his Kantian side) in what he perceived as an increasingly post-metaphysical world (his Nietzschean side). According to Paul Honigsheim, Weber's ethic is that of "tragedy" and "nevertheless."
+
+## 3. Rationalization Thesis
+
+### 3.1 Rationalization as a Thematic Unity
+
+Weber's main contribution lies neither in epistemology nor in ethics. His main concern lay elsewhere – he was after all one of the founding fathers of modern social science. The overarching theme has been variously surmised as a developmental history of Western rationalism, the universal history of rationalist culture, or simply the Menschentum as it emerges and degenerates in modern rational society. All these different interpretations converge on the thematic centrality of rationality, rationalism, and rationalization in making sense of Weber.
+
+A child of modern European civilization (Kulturwelt) who studies problems of universal history shall inevitably and justifiably raise the question: what combination of circumstances have led to the fact that in the West, and here only, cultural phenomena have appeared which – at least as we like to think – came to have universal significance and validity?
+
+### 3.2 Calculability, Predictability, and World-Mastery
+
+Rationalization means a historical drive towards a world in which "one can, in principle, master all things by calculation." Modern capitalism is a rational mode of economic life because it depends on a calculable process of production. This search for exact calculability underpins such institutional innovations as monetary accounting, centralization of production control, separation of workers from the means of production, supply of formally free labour, disciplined control on the factory floor.
+
+### 3.3 Knowledge, Impersonality, and Control
+
+Rationalization entails objectification (Versachlichung). For another, having abandoned the principle of Khadi justice (i.e., personalized ad hoc adjudication), modern law and administration also rule in strict accordance with the systematic formal codes and sine ira et studio, that is, "without anger or passion."
+
+## 4. Modernity
+
+### 4.1 The "Iron Cage" and Value-fragmentation
+
+No one knows who will live in this cage (Gehäuse) in the future, or whether at the end of this tremendous development entirely new prophets will arise, or there will be a great rebirth of old ideas and ideals, or, if neither, mechanized petrification, embellished with a sort of convulsive self-importance. For the "last man" (letzten Menschen) of this cultural development, it might well be truly said: "Specialist without spirit, sensualist without heart; this nullity imagines that it has attained a level of humanity (Menschentums) never before achieved."
+
+### 4.2 Reenchantment via Disenchantment
+
+Modern science, which was singularly responsible for this late development, was initially welcomed as a surrogate system of orderly value-creation. For Weber, nevertheless, modern science is a deeply nihilistic enterprise in which any scientific achievement worthy of the name must "ask to be surpassed and made obsolete" in a process "that is in principle ad infinitum," at which point, "we come to the problem of the meaning of science."
+
+## 5. Methodology
+
+### 5.1 Understanding (Verstehen)
+
+Weber's contribution to methodology turned mostly on the question of objectivity and the role of subjective values in historical and cultural concept formation. Action that is the subject of any social scientific inquiry is clearly different from mere behaviour. While behaviour can be accounted for without reference to inner motives and thus can be reduced to mere aggregate numbers, an action can only be interpreted because it is based on a radically subjective attribution of meaning and values to what one does.
+
+### 5.2 Ideal Type
+
+An ideal type is formed by the one-sided accentuation of one or more points of view according to which concrete individual phenomena are arranged into a unified analytical construct (Gedankenbild); in its purely fictional nature, it is a methodological "utopia" that cannot be found empirically anywhere in reality.
+
+## 6. Politics and Ethics
+
+At the outset, it seems undeniable that Weber was a deeply liberal political thinker.
+
+Weber made the following observation about politics: "Politics means the slow drilling of hard boards through a combination of passion and perspective. It requires, first, a warm faith in a cause, and second, the power to inspire it with hope and to kindle it with fire. But this fire is not less blazing for being hidden behind the chimney, and the board is not less hard for requiring more than one boring."

@@ -1,0 +1,219 @@
+# 荣格（Carl Gustav Jung, 1875-1961）语料汇编
+
+> 本文件为原始语料汇编，按来源分别保存，供蒸馏使用。
+> 抓取时间：2026-05-12
+> 字符数：约 133,000
+
+---
+
+# 【来源一】Britannica — Carl Jung Biography
+抓取URL: https://www.britannica.com/biography/Carl-Jung
+
+Carl Jung (born July 26, 1875, Kesswil, Switzerland—died June 6, 1961, Küsnacht) was a Swiss psychologist and psychiatrist who founded analytic psychology, in some aspects a response to Sigmund Freud's psychoanalysis. Jung proposed and developed the concepts of the extraverted and the introverted personality, archetypes, and the collective unconscious. His work has been influential in psychiatry and in the study of religion, literature, and related fields.
+
+## Early life and career
+Jung was the son of a philologist and pastor. His childhood was lonely, although enriched by a vivid imagination, and from an early age he observed the behaviour of his parents and teachers, which he tried to resolve. Especially concerned with his father's failing belief in religion, he tried to communicate to him his own experience of God. In many ways, the elder Jung was a kind and tolerant man, but neither he nor his son succeeded in understanding each other. Jung seemed destined to become a minister, for there were a number of clergymen on both sides of his family. In his teens he discovered philosophy and read widely, and this, together with the disappointments of his boyhood, led him to forsake the strong family tradition and to study medicine and become a psychiatrist. He was a student at the universities of Basel (1895–1900) and Zürich (M.D., 1902).
+
+He was fortunate in joining the staff of the Burghölzli Asylum of the University of Zürich at a time (1900) when it was under the direction of Eugen Bleuler, whose psychological interests had initiated what are now considered classical studies of mental illness. At Burghölzli, Jung began, with outstanding success, to apply association tests initiated by earlier researchers. He studied, especially, patients' peculiar and illogical responses to stimulus words and found that they were caused by emotionally charged clusters of associations withheld from consciousness because of their disagreeable, immoral (to them), and frequently sexual content. He used the now famous term complex to describe such conditions.
+
+## Association with Freud
+These researches, which established him as a psychiatrist of international repute, led him to understand Freud's investigations; his findings confirmed many of Freud's ideas, and, for a period of five years (between 1907 and 1912), he was Freud's close collaborator. He held important positions in the psychoanalytic movement and was widely thought of as the most likely successor to the founder of psychoanalysis. But this was not to be the outcome of their relationship. Partly for temperamental reasons and partly because of differences of viewpoint, the collaboration ended. At this stage Jung differed with Freud largely over the latter's insistence on the sexual bases of neurosis. A serious disagreement came in 1912, with the publication of Jung's Wandlungen und Symbole der Libido (Psychology of the Unconscious, 1916), which ran counter to many of Freud's ideas. Although Jung had been elected president of the International Psychoanalytic Society in 1911, he resigned from the society in 1914.
+
+His first achievement was to differentiate two classes of people according to attitude types: extraverted (outward-looking) and introverted (inward-looking). Later he differentiated four functions of the mind—thinking, feeling, sensation, and intuition—one or more of which predominate in any given person. Results of this study were embodied in Psychologische Typen (1921; Psychological Types, 1923).
+
+As a boy Jung had remarkably striking dreams and powerful fantasies that had developed with unusual intensity. After his break with Freud, he deliberately allowed this aspect of himself to function again and gave the irrational side of his nature free expression. At the same time, he studied it scientifically by keeping detailed notes of his strange experiences. He later developed the theory that these experiences came from an area of the mind that he called the collective unconscious, which he held was shared by everyone. This much-contested conception was combined with a theory of archetypes that Jung held as fundamental to the study of the psychology of religion. In Jung's terms, archetypes are instinctive patterns, have a universal character, and are expressed in behaviour and images.
+
+---
+
+# 【来源二】Biography.com — Carl Jung
+抓取URL: https://www.biography.com/scientists/carl-jung
+
+Carl Jung believed in the "complex," or emotionally charged associations. He collaborated with Sigmund Freud, but disagreed with him about the sexual basis of neuroses. Jung founded analytical psychology, advancing the idea of introvert and extrovert personalities, archetypes and the power of the unconscious. Jung published numerous works during his lifetime, and his ideas have had reverberations traveling beyond the field of psychiatry, extending into art, literature and religion as well.
+
+## Early Life
+Swiss psychiatrist Carl Gustav Jung was born July 26, 1875, in Kesswil, Switzerland. The only son of a Protestant clergyman, Jung was a quiet, observant child who packed a certain loneliness in his single-child status. However, perhaps as a result of that isolation, he spent hours observing the roles of the adults around him, something that no doubt shaped his later career and work.
+
+Jung's childhood was further influenced by the complexities of his parents. His father, Paul, developed a failing belief in the power of religion as he grew older. Jung's mother, Emilie, was haunted by mental illness and, when her boy was just three, left the family to live temporarily in a psychiatric hospital.
+
+As was the case with his father and many other male relatives, it was expected that Jung would enter the clergy. Instead, Jung, who began reading philosophy extensively in his teens, bucked tradition and attended the University of Basel. There, he was exposed to numerous fields of study, including biology, paleontology, religion and archaeology, before finally settling on medicine.
+
+Jung graduated the University of Basel in 1900 and obtained his M.D. two years later from the University of Zurich.
+
+## Career Beginnings
+While attending the University of Zurich, Jung worked on the staff at Burgholzli Asylum, where he came under the guidance of Eugene Bleuler, a pioneering psychologist who laid the groundwork for what is now considered classical studies of mental illness.
+
+At the hospital, Jung observed how different words elicited emotional responses from patients, which he believed represented subconscious associations around immoral or sexual content. These observations led the way for Jung to develop the term "complex" to describe the conditions.
+
+## Working with Freud
+Jung's growing reputation as a psychologist and his work dealing with the subconscious eventually led him to the ideas of Freud and, later, to the man himself.
+
+Over a five-year period beginning in 1907, the two men worked closely together, and Jung was widely believed to be the one who would continue the work of the elder Freud. However, viewpoints and temperament ended their collaboration and, eventually their friendship. In particular, Jung challenged Freud's beliefs around sexuality as the foundation of neurosis. He also disagreed with Freud's methods, asserting that the elder psychologist's work was too one-sided.
+
+The final break came in 1912 when Jung published Psychology of the Unconscious. In it, Jung examined the unconscious mind and tried to understand the symbolic meaning of its contents. In the process, the work also took head-on a number of Freud's theories.
+
+## Analytical Psychology
+But breaking with Freud had consequences for Jung. Freud closed off his inner circle to the younger psychologist, and others in the psychoanalytic community also shunned him. In 1914, he resigned from the International Psychoanalytic Society and continued undaunted in the development of his ideas.
+
+Seeking to further distinguish his work from Freud's, Jung adopted the term "analytical psychology" and delved deep into his work. His most important development from this early period was his conception of introverts and extroverts and the notion that people can be categorized as one of the two, depending on the extent to which they exhibit certain functions of consciousness. Jung's work in this area was featured in his 1921 publication Psychological Types.
+
+During this period he also allowed himself to explore his own mind, eventually proposing the idea that there was not only a personal unconscious but also a collective unconscious from which certain universal symbols and patterns have arisen throughout history. At the heart of analytical psychology is the interplay of these with the ego, a process he labeled individuation, by which a person develops into his or her own "true self."
+
+## Later Work
+For much of his later life, Jung traveled the globe to study different cultures. He published extensively on his findings, authoring some 200 works on his theories, including Modern Man in Search of a Soul (1933) and The Undiscovered Self (1957). He also held professorships at the Federal Polytechnical in Zurich and the University of Basel.
+
+Jung's ideas continue to resonate today, in fields as varied as archaeology, religion, literature and even pop culture.
+
+## Personal Life & Death
+Jung married Emma Rauschenbach in 1903. The couple had five children and remained together until Emma's death in 1955.
+
+Jung died at his home in Zurich on June 6, 1961.
+
+---
+
+# 【来源三】English Wikipedia — Carl Jung（节选）
+抓取URL: https://en.wikipedia.org/wiki/Carl_Jung
+
+Carl Gustav Jung (26 July 1875 – 6 June 1961) was a Swiss psychiatrist, psychotherapist, and psychologist who founded the school of analytical psychology. He was a prolific author of over twenty books, illustrator, and correspondent, and academic, best known for his concept of archetypes. Widely considered one of the most influential psychologists of all time, Jung's work has fostered not only scholarship, but also popular interest. His work has been influential in the fields of psychiatry, anthropology, archaeology, literature, philosophy, psychology, and religious studies.
+
+Jung worked as a research scientist at the Burghölzli psychiatric hospital in Zurich, under Eugen Bleuler. He established himself as an influential mind, developing a friendship with Freud, founder of psychoanalysis, and conducting a lengthy correspondence regarding their joint vision of human psychology. Freud saw the younger Jung not only as the heir he had been seeking to take forward his "new science" of psychoanalysis, but as a means to legitimise his own work: Freud and other contemporary psychoanalysts were Jews facing rising antisemitism in Europe, while Jung was raised as Christian, although he did not strictly adhere to traditional Christian doctrine, seeing religion, including Christianity, as a powerful expression of the human psyche and its search for meaning. Freud secured Jung's appointment as president of Freud's newly founded International Psychoanalytical Association. Jung's research and personal vision, however, made it difficult to follow his older colleague's doctrine, and they parted ways. This division was painful for Jung and resulted in the establishment of Jung's analytical psychology as a comprehensive system separate from psychoanalysis.
+
+Among the central concepts of analytical psychology is individuation—the lifelong psychological process of differentiation of the self out of each individual's conscious and unconscious elements. Jung considered it to be the main task of human development. He created some of the best-known psychological concepts, including synchronicity, archetypal phenomena, the collective unconscious, the psychological complex, and extraversion and introversion.
+
+Jung was an artist, craftsman, builder, and prolific writer. Many of his works were not published until after his death, and some remain unpublished.
+
+Carl Gustav Jung was born 26 July 1875 in Kesswil, in the Swiss canton of Thurgau, as the first surviving son of Paul Achilles Jung (1842–1896) and Emilie Jung (née Preiswerk; 1848–1923). His birth was preceded by two stillbirths and that of a son named Paul, born in 1873, who survived only a few days.
+
+Paul Jung, Carl's father, was the youngest son of a noted German-Swiss physician and professor of medicine at Basel, Karl Gustav Jung (1794–1864). Paul Jung was a rural pastor in the Swiss Reformed Church. Jung considered his father reliable, but weak and powerless.
+
+Emilie Preiswerk, Carl's mother, grew up in a large family whose Swiss roots went back five centuries. She was the youngest child of a distinguished Basel churchman and academic, Samuel Preiswerk (1799–1871). She was an eccentric and depressed woman; she spent considerable time in her bedroom, where she said spirits visited her at night.
+
+Jung's father was appointed to a more prosperous parish in Laufen when Carl was six months old. When Jung was three years old, his mother left Laufen for several months of hospitalisation near Basel for some unspecified physical ailment. Carl developed generalised eczema in response.
+
+Jung was a solitary and introverted child. From childhood, he believed that, like his mother, he had two personalities—a modern Swiss citizen and a personality more suited to the 18th century. "Personality Number 1", as he termed it, was a typical schoolboy living in the era of the time, his conscious personality. "Personality Number 2" was a dignified, authoritative, influential man from the past, his unconscious.
+
+Some childhood memories made lifelong impressions on him. As a boy, he carved a tiny mannequin into the end of the wooden ruler from his pencil case and placed it inside it. He added a stone, which he had painted into the upper and lower halves, and hid the case in the attic. He later reflected that this ceremonial act brought him a feeling of inner peace and security. Years later, he discovered similarities between his personal experience and the practices associated with totems in Indigenous cultures.
+
+At the age of 12, shortly before the end of his first year at the Humanistisches Gymnasium in Basel, Jung was pushed to the ground by another boy and hit his head, momentarily losing consciousness. A thought then came to him—"Now you won't have to go to school anymore". From then on, whenever he walked to school or began homework, he fainted. He remained home for six months. This event, Jung later recalled, "was when I learned what a neurosis is".
+
+Initially, Jung aspired to be a Christian minister. His household had a strong moral sense, and several of his family were clergy. After studying philosophy in his teens, Jung rejected the path of religious traditionalism and decided to pursue psychiatry and medicine. His interest was captured by the fields' combination of the biological and spiritual, exactly what he was searching for.
+
+In 1895, Jung began to study medicine at the University of Basel on a grant. Barely a year later, his father, Paul, died and left the family nearly destitute.
+
+Influenced by an earlier study by Freud's contemporary Théodore Flournoy, Jung wrote his doctoral thesis on spiritualism, focusing on a young medium, his cousin Hélène Preiswerk, whose séances and table turnings he had attended. Titled On the Psychology and Pathology of So-Called Occult Phenomena, it was published in 1903.
+
+In December 1900, he moved to Zürich and began as an intern at the Burghölzli psychiatric hospital under the psychiatrist Eugen Bleuler. Bleuler was already in communication with Sigmund Freud and introduced Jung to his work.
+
+In 1902, on leave from Burghölzli, Jung studied with Pierre Janet in Paris, and later equated his view of the complex with Janet's idée fixe subconsciente. In 1905, Jung was appointed as a permanent 'senior' doctor at Burghölzli and became a lecturer in the medical faculty of Zurich University.
+
+In 1903, Jung married Emma Rauschenbach (1882–1955), seven years his junior and the elder daughter of a wealthy industrialist in eastern Switzerland, Johannes Rauschenbach-Schenck. Upon his death in 1905, his two daughters and their husbands became owners of the business.
+
+During his marriage, Jung engaged in at least one extramarital relationship: with his patient and, later, fellow psychoanalyst Sabina Spielrein. A continuing affair with Toni Wolff, starting in 1910, is also alleged. Jung confided in Freud that he had "'polygamous components' in himself" and that "'The pre-requisite of a good marriage, it seems to me, is the licence to be unfaithful'".
+
+Jung was introduced to Freud's work by Bleuler whilst working at Burghölzli Hospital. Bleuler asked him to write a review of The Interpretation of Dreams (1899), which he read in 1900. Jung sent Freud a copy of his Studies in Word Association in 1906. Preceded by a lively correspondence, Jung met Freud for the first time in Vienna on 3 March 1907. Jung recalled the discussion between himself and Freud as interminable and unceasing for 13 hours.
+
+In the late summer of 1909, Jung sailed with Freud and Hungarian psychoanalyst Sándor Ferenczi to the United States. From 7–11 September, they took part in the twentieth-anniversary celebration of the founding of Clark University in Worcester, Massachusetts.
+
+In 1910, Freud proposed Jung, "his adopted eldest son, his crown prince, and successor," for the position of lifetime President of the newly formed International Psychoanalytical Association.
+
+In 1912, these tensions came to a peak because Jung felt severely slighted after Freud visited his colleague Ludwig Binswanger in Kreuzlingen without paying him a visit in nearby Zurich. Shortly thereafter, Jung again traveled to the US and gave the Fordham University lectures, a six-week series, which were published later in the year as Psychology of the Unconscious.
+
+Another disagreement with Freud stemmed from their differing concepts of the unconscious. Jung saw Freud's theory of the unconscious as incomplete, unnecessarily negative, and inelastic. According to Jung, Freud conceived the unconscious solely as a repository of repressed emotions and desires. Jung's observations overlap to an extent with Freud's model of the unconscious, what Jung called the "personal unconscious", but his hypothesis is more about a process than a static model, and he also proposed the existence of a second, overarching form of the unconscious beyond the personal, that he named the psychoid.
+
+In November 1912, Jung and Freud met in Munich for a meeting among prominent colleagues. At a talk, Jung expressed his views. While Jung spoke, Freud suddenly fainted, and Jung carried him to a couch.
+
+In early January 1913, Freud wrote to Jung, proposing that "we abandon our private relationship entirely. I will lose nothing, because I have long been joined to you only by the thin thread of the further development of past disappointments". Jung agreed to comply with this arrangement. They met personally for the last time in September 1913 at the Fourth International Psychoanalytical Congress in Munich.
+
+After the culminating break in 1913, Jung went through a period of psychological strain and transformation. Henri Ellenberger called Jung's intense experience a "creative illness" and compared it favourably to Freud's own period of what he called neurasthenia and hysteria.
+
+After the break between Jung and Freud in 1913, Jung went through a pivotal psychological transformation, and, after the Munich congress, he was on the verge of a psychosis. As the war burnt out, Jung gained first-hand experience of psychotic material in which he found "a matrix of mythopoeic imagination which has vanished from our rational age." He saw visions and heard voices. Like Gilgamesh, Odysseus, and Herakles before him, he journeyed to an underworld where he conversed with Salome, a fair young woman, and with Philemon, an old man with a white beard and the wings of a kingfisher. In Philemon, Jung at long last found the father figure that both Freud and his own father had failed to be.
+
+During World War I, Jung was drafted as an army doctor, and soon made commandant of an internment camp for British officers and soldiers.
+
+Jung emerged from his period of isolation in the late 1910s with the publication of several journal articles, followed in 1921 with Psychological Types, one of his most influential books.
+
+In 1922, he bought some land at Bollingen in Zürich, where he built a tower. He would continue to build other additions to the building, constructing an "architectural mandala".
+
+In 1935, at the invitation of his close British friends and colleagues, Jung gave a series of lectures at the Tavistock Clinic in London, later published as part of the Collected Works.
+
+In 1938, Jung was awarded an honorary degree by the University of Oxford.
+
+In 1937 to 1938, Jung visited India, developing an interest in Indian philosophy and religious traditions, particularly Hinduism, Buddhism, and Advaita Vedanta, which influenced his later reflections on symbolism, the unconscious, and the concept of the Self. He visited Vedagiriswarar Temple where he had a conversation with a local expert about the symbols and sculptures on the gopuram of this temple.
+
+Jung became a full professor of medical psychology at the University of Basel in 1943 but resigned after a heart attack the next year to lead a more private life.
+
+In 1945, he began corresponding with an English Roman Catholic priest, Father Victor White, who became a close friend.
+
+Jung continued to publish books until the end of his life, including Flying Saucers: A Modern Myth of Things Seen in the Skies (1959). In 1961, he wrote his last work, a contribution to Man and His Symbols entitled "Approaching the Unconscious" (published posthumously in 1964).
+
+Jung died on 6 June 1961 at Küsnacht after a short illness. He had been beset by circulatory diseases.
+
+---
+
+# 【来源四】Psychology Today — The Life of Carl Jung
+抓取URL: https://www.psychologytoday.com/us/blog/hide-and-seek/202310/the-life-of-carl-jung
+
+Carl Gustav Jung was born in 1875 to Paul Jung, a poor rural pastor in the Swiss reformed Church, and Emilie Preiswerk, a melancholic who claimed to be visited by spirits.
+
+His paternal grandfather, after whom he was named, was a physician who was rumoured to be the illegitimate son of Goethe, and rose to become Rector of Basel University and Grand Master of the Swiss Lodge of Free Masons.
+
+His maternal grandfather, Samuel Preiswerk, was a theologian who had visions, conversed with the dead, and devoted his life to learning Hebrew in the belief that it was the language spoken in heaven.
+
+When Jung was just 3 years old, his mother had a nervous breakdown and spent several months in hospital. In his memoirs of 1961, he wrote: "From then on I always felt mistrustful when the word 'love' was spoken. The feeling I associated with 'woman' was for a long time that of innate unreliability."
+
+Jung's father was kind but weak-willed, and, in Jung's mind, too accepting of the religious dogma in which he had long lost all faith.
+
+## Childhood years
+Jung was a solitary child who imagined that he had two personas, that of a schoolboy of his time, and that of an authority from the past.
+
+He once carved a tiny mannequin into the end of a wooden ruler, which he kept together with a painted stone in a pencil case in the attic. He periodically returned to the mannequin, bringing to it scrolls inscribed in a secret language of his own making.
+
+At the age of 12, he received a blow to the head. He lay on the ground for much longer than necessary, and thought, "Now you won't have to go to school anymore." For the next six months, he avoided going to school by fainting each time his parents tried to make him—an episode that gave him an early insight into hysteria.
+
+## Medical and psychiatric training
+In 1895, inspired by a dream, Jung went to the University of Basel to study natural science and medicine. His father's premature death one year later prompted his mother to comment, rather eerily, that "he died in time for you."
+
+During his studies, he had a dream in which he was battling against dense fog, with a tiny light in the cup of his hands and a giant black figure chasing after him. When he awoke, he realized that the black figure was his own shadow, brought into being by the light that he was carrying: "…this light was my consciousness, the only light that I have. My own understanding is the sole treasure I possess, and the greatest."
+
+After presenting a paper on The Limits of the Exact Sciences, he spent two years recording the séances of a young medium, his cousin, Hélène Preiswerk. He submitted his observations in the form of a doctoral thesis entitled, On the Psychology and Pathology of So-Called Occult Phenomena.
+
+As he neared the end of his studies, a reading of Krafft-Ebing's textbook of psychiatry led him straight into psychiatry. The preface alone had such a profound impact on him that he had to stand up to catch his breath: "Here alone the two currents of my interest could flow together and in a united stream dig their own bed. Here was the empirical field common to biological and spiritual facts, which I had everywhere sought and nowhere found."
+
+He was taken on at the Burghölzli Psychiatric Hospital in Zürich as an assistant to Eugen Bleuler, the man who coined the term "schizophrenia." Bleuler set him to work on Galton's word-association test, and in 1906 he published Studies in Word Association, which, he claimed, provided hard evidence for the existence of unconscious complexes.
+
+## Relationship with Freud
+Jung sent a copy of Studies in Word Association to Sigmund Freud, and on their first meeting in Vienna, the pair exchanged for 13 hours straight.
+
+Jung needed a father as much as Freud needed a son, and Freud anointed Jung his "son and heir." But Jung became increasingly dissatisfied with Freud's assumptions that human motivation is entirely sexual and that the unconscious mind is exclusively personal.
+
+For Jung, sexuality was but one aspect of a broader life force, and beneath the personal unconscious lay a deeper layer that contained the entire psychic heritage of humankind. This "collective unconscious" had been pointed to by his childhood dreams and experiences and by the delusions and hallucinations of his patients, which contained symbols that recurred in myths and legends from all over the world.
+
+In his book of 1912, Transformations and Symbols of the Libido, he replaced Freud's concept of libido with a much broader concept of undifferentiated psychic energy, which could crystallize into universal symbols such as the hero's slaying of the dragon, which represents the struggle of the ego for deliverance from parental dominance.
+
+Life's purpose was individuation, which involves pursuing one's personal vision of the truth, and, in so doing, realizing one's fullest potential as a human being.
+
+If this meant falling out with Freud, then so be it. In 1913, on the eve of the Great War, Jung and Freud broke off their relationship.
+
+## Confrontation with the unconscious
+Jung spent the next few years in a troubled state of mind that verged upon psychosis and led him to a "confrontation with the unconscious."
+
+By then, he had had five children with Emma Rauschenbach, the daughter of a rich industrialist. Despite being happily married, he felt that he needed a muse as well as a homemaker, observing that "the pre-requisite of a good marriage… is the license to be unfaithful."
+
+As Europe tore itself apart, Jung gained first-hand experience of psychotic material in which he found "a matrix of mythopoeic imagination which has vanished from our rational age."
+
+Like Gilgamesh, Odysseus, and Herakles before him, he journeyed to an underworld where he conversed with Salome, a fair young woman, and with Philemon, an old man with a white beard and the wings of a kingfisher. Although Philemon and Salome were products of his unconscious, they had lives of their own and said things that he had not previously thought.
+
+In Philemon, Jung at long last found the father figure that both Freud and his own father had failed to be. More than that, Philemon was a guru, and prefigured what Jung himself was later to become: the "wise old man of Zürich."
+
+As the war burnt out, Jung re-emerged into sanity, and considered that he had found in his madness "the prima materia for a lifetime's work."
+
+## My Top 10 Jung quotes
+- Show me a sane man and I will cure him for you.
+- The least of things with a meaning is worth more in life than the greatest of things without it.
+- As a child I felt myself to be alone, and I am still, because I know things and must hint at things which others apparently know nothing of, and for the most part do not want to know.
+- As far as we can discern, the sole purpose of human existence is to kindle a light of meaning in the darkness of mere being.
+- Everything that irritates us about others can lead us to an understanding of ourselves.
+- There is no doubt about the fact that man is, as a whole, less good than he imagines himself or wants to be. Everyone carries a shadow, and the less it is embodied in the individual's conscious life, the blacker and denser it is.
+- People will do anything, no matter how absurd, to avoid facing their own souls.
+- Until you make the unconscious conscious, it will direct your life and you will call it fate.
+- The secret is that one must also be willing to be dead before one can live without the constraint of one's ghosts.
+- The secret is that only that which can destroy itself is truly alive.

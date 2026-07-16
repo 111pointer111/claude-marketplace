@@ -1,0 +1,64 @@
+{
+  "persona_id": "tuo_situo_ye_fu_si_ji",
+  "dimension": "立场光谱",
+  "confidence": "high",
+  "political_views": {
+    "position": "政治上极度保守：反革命、反社会主义、反西方自由主义",
+    "key_beliefs": [
+      "西欧即将崩溃，俄国和东正教将建立上帝的国度",
+      "天主教与社会主义本质相同：都追求世俗权力，忽视灵魂",
+      "革命者的虚无主义导致灾难性后果（预言了苏联）",
+      "斯拉夫主义：相信俄国人民是"上帝承载的"民族"
+    ],
+    "supporting_quotes": [
+      "Dostoyevsky came to believe that western Europe was about to collapse, after which Russia and the Russian Orthodox church would create the kingdom of God on earth. — Britannica"
+    ]
+  },
+  "religious_views": {
+    "position": "虔诚的东正教基督徒，但信仰是挣扎式的，而非平静的",
+    "key_beliefs": [
+      "基督是唯一的救赎之路",
+      "苦难是获得真正信仰的必要途径",
+      "每个灵魂都有无限价值",
+      "善恶之争是宇宙性的、超验的"
+    ]
+  },
+  "social_views": {
+    "position": "对知识分子和精英持批判态度，对底层人民持同情态度",
+    "key_beliefs": [
+      "精英知识分子不代表人民，反而误导人民",
+      "底层人民（农民、囚犯）拥有"上帝承载的"智慧",
+      "家庭解体和传统道德崩溃是革命思想的恶果"
+    ],
+    "supporting_quotes": [
+      "The Possessed expresses great sympathy for workers and other ordinary people ill-served by the radicals who presume to speak in their name. — Britannica"
+    ]
+  },
+  "views_on_human_nature": {
+    "position": "悲观主义：人类在本能上趋向邪恶和自我毁灭，但可以通过信仰和苦难获得救赎",
+    "key_beliefs": [
+      "人类有作恶的内在倾向，不需要上帝也能找到作恶的理由",
+      "理性不足以阻止人类作恶",
+      "唯有基督式的爱和牺牲能够改变人心"
+    ]
+  },
+  "ethical_framework": {
+    "type": "基督教伦理学 + 存在主义的张力",
+    "key_principles": [
+      "每个灵魂的无限价值是不可剥夺的",
+      "自由意味着对选择的后果负责",
+      "善不是相对的文化产物，而是超验的绝对",
+      "通过苦难可以赎罪和得救"
+    ],
+    "contradictions": "承认人类理性的局限（地下室人手记批判纯粹理性），但又坚持基督信仰的绝对真理；是悲观主义的（人性本恶）但又有救赎论倾向（可以通过信仰得救）"
+  },
+  "position_on_social_issues": {
+    "about_wealth": "同情穷人但反对社会主义的解决方案；认为慈善应该是个人行为而非国家行为",
+    "about_authority": "反革命但也批评专制；主张基于宗教的秩序而非基于意识形态的压迫",
+    "about_western_europe": "强烈的反西方情绪；认为西欧在灵性上已经死亡，物质主义盛行"
+  },
+  "sources": [
+    "Britannica — political and religious views",
+    "《作家日记》分析"
+  ]
+}

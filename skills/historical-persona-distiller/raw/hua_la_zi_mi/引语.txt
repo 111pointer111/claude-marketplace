@@ -1,0 +1,97 @@
+# 花拉子密（Al-Khwarizmi）引语集
+
+## 直接引语
+
+### 1. 关于代数学的目的（来自《代数学》原文）
+
+"When I consider what people generally want in calculating, I found that it always is a number. I also observed that every number is composed of units, and that any number may be divided into units. Moreover, I found that every number which may be expressed from one to ten, surpasses the preceding by one unit: afterwards the ten is doubled or tripled just as before the units were: thus arise twenty, thirty, etc. until a hundred: then the hundred is doubled and tripled in the same manner as the units and the tens, up to a thousand; ... so forth to the utmost limit of numeration."
+
+（当我考虑人们在计算中通常需要什么时，我发现总是需要一个数。我也观察到每个数都是由单位组成的，任何数都可以分成单位。我还发现从一到十的每个数都比前一个多一个单位：然后十被加倍或三倍，就像之前对单位的处理一样：由此产生二十、三十等，直到一百；然后一百就像单位和十一样被加倍或三倍，直到一千……以此类推，直至计算的最远极限。）
+
+—— Al-Khwarizmi, Algebra (Rosen translation)
+
+### 2. 代数学实践导向的声明
+
+"... what is easiest and most useful in arithmetic, such as men constantly require in cases of inheritance, legacies, partition, lawsuits, and trade, and in all their dealings with one another, or where the measuring of lands, the digging of canals, geometrical computations, and other objects of various sorts and kinds are concerned."
+
+（……算术中最容易和最有用的部分，比如人们在遗产继承、遗嘱分割、诉讼、贸易以及所有相互交往中经常需要的，或者土地测量、运河挖掘、几何计算和各种其他事务中需要的。）
+
+—— Al-Khwarizmi, Algebra (Rosen translation)
+
+### 3. 关于解二次方程的描述
+
+"... a square and 10 roots are equal to 39 units. The question therefore in this type of equation is about as follows: what is the square which combined with ten of its roots will give a sum total of 39? The manner of solving this type of equation is to take one-half of the roots just mentioned. Now the roots in the problem before us are 10. Therefore take 5, which multiplied by itself gives 25, an amount which you add to 39 giving 64. Having taken then the square root of this which is 8, subtract from it half the roots, 5 leaving 3. The number three therefore represents one root of this square, which itself, of course is 9. Nine therefore gives the square."
+
+（……一个平方和10个根等于39个单位。这类方程的问题大致如下：什么平方与它的10个根相加会得到39的总和？解这类方程的方法是取所述根的一半。现在我们面前的问题中根是10。因此取5，5自乘得25，将其加到39得64。然后取其平方根8，从中减去根的一半5，剩下3。因此数字3代表这个平方的一个根，而这个平方本身是9。因此9就是该平方。）
+
+—— Al-Khwarizmi, Algebra (Rosen translation)
+
+### 4. "Dixit algorizmi"（拉丁译本开篇语）
+
+"Dixit algorizmi" — 拉丁文意思是"So said al-Khwarizmi"，是花拉子密算术著作拉丁译本的开篇语。"Algorithm"（算法）一词正是从"Algoritmi"（花拉子密名字的拉丁文形式）演化而来。
+
+### 5. 关于零的传播
+
+花拉子密在介绍印度数字的著作中，介绍了零的概念和使用方法，虽然他没有直接发明零的概念，但他系统化了零在位值系统中的作用。
+
+## 后世评价引语
+
+### 6. 萨顿（Sarton）的评价
+
+"... the greatest mathematician of the time, and if one takes all the circumstances into account, one of the greatest of all time...."
+
+（……当时最伟大的数学家，如果考虑所有情况，可以说是历史上最伟大的数学家之一……）
+
+—— George Sarton, 引用自 MacTutor History of Mathematics
+
+### 7. 拉什德（Rashed）的评价
+
+"It is impossible to overstress the originality of the conception and style of al-Khwarizmi's algebra..."
+
+（不可能过度强调花拉子密代数学的概念和风格的原创性……）
+
+—— Roshdi Rashed, The Development of Arabic Mathematics: Between Arithmetic and Algebra (London, 1994)
+
+### 8. 甘斯（Gandz）的评价
+
+"Al-Khwarizmi's algebra is regarded as the foundation and cornerstone of the sciences. In a sense, al-Khwarizmi is more entitled to be called 'the father of algebra' than Diophantus because al-Khwarizmi is the first to teach algebra in an elementary form and for its own sake, Diophantus is primarily concerned with the theory of numbers."
+
+（花拉子密的代数学被认为是科学的基石和台阶。某种意义上，花拉子密比丢番图更配得上"代数学之父"的称号，因为花拉子密是第一个以基础形式为代数本身而教授代数的人，丢番图主要关注的是数论。）
+
+—— Solomon Gandz, The Sources of Al-Khwarizmi's Algebra (Osiris, 1936)
+
+### 9. 穆罕默德·汗（Mohammad Khan）的评价
+
+"In the foremost rank of mathematicians of all time stands Al-Khwarizmi. He composed the oldest works on arithmetic and algebra. They were the principal source of mathematical knowledge for centuries to come in the East and the West. The work on arithmetic first introduced the Hindu numbers to Europe, as the very name algorism signifies; and the work on algebra ... gave the name to this important branch of mathematics in the European world..."
+
+（在所有时代最伟大的数学家排名中，花拉子密名列前茅。他创作了关于算术和代数的最古老的著作。它们是几个世纪以来东方和西方数学知识的主要来源。算术方面的著作首次将印度数字引入欧洲，正如算法一词所表明的那样；代数方面的著作给欧洲世界的这个重要数学分支起了名字……）
+
+—— Mohammad Khan, 引用自 A. A. al'Daffa, The Muslim Contribution to Mathematics (London, 1978)
+
+### 10. 图默（Toomer）的评价
+
+"... the decimal place-value system was a fairly recent arrival from India and ... al-Khwarizmi's work was the first to expound it systematically. Thus, although elementary, it was of seminal importance."
+
+（……十进制位值系统是从印度相当近期传入的……花拉子密的著作是第一个系统阐述它的。因此，虽然是基础性的，但它具有开创性的重要性。）
+
+—— G. J. Toomer, Biography in Dictionary of Scientific Biography
+
+### 11. 帕肖尔（Parshall）的评价
+
+"... because his treatment of practical geometry so closely followed that of the Hebrew text, Mishnat ha Middot, which dated from around 150 AD, the evidence of Semitic ancestry exists."
+
+（……因为他对实用几何的处理与约公元150年的希伯来文本《Mishnat ha Middot》非常相似，这证明了闪族血统的证据存在。）
+
+—— K. H. Parshall, The Art of Algebra from Al-Khwarizmi to Viète (Hist. of Sci. 26, 1988)
+
+### 12. 阿里·伊本·里沙德（Ali ibn al-Rashid）的评价
+
+花拉子密在哈里发阿尔-马蒙的资助下，主持了70名地理学家的工作，制作了当时已知世界的地图。
+
+### 13. 历史学家关于花拉子密的不确定性
+
+"We know few details of Abu Ja'far Muhammad ibn Musa al-Khwarizmi's life. One unfortunate effect of this lack of knowledge seems to be the temptation to make guesses based on very little evidence."
+
+（我们对阿布·贾法尔·穆罕默德·伊本·穆萨·花拉子密的生平知之甚少。这种知识匮乏的一个不幸后果似乎是，基于极少证据进行猜测的诱惑。）
+
+—— J. J. O'Connor and E. F Robertson, MacTutor History of Mathematics

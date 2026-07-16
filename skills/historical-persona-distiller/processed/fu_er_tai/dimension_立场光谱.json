@@ -1,0 +1,54 @@
+{
+  "立场向量": [
+    {
+      "议题": "皇权专制",
+      "立场": "反对（开明君主制）",
+      "强度": -1,
+      "说明": "反对绝对专制，倡导君主立宪；但接受开明君主制作为过渡形式",
+      "原文依据": "best form of government is a monarchy limited in its power by a parliament and constitution"
+    },
+    {
+      "议题": "变法革新",
+      "立场": "强烈支持",
+      "强度": 2,
+      "说明": "以启蒙理性为武器批判旧制度，倡导宗教宽容、言论自由；积极为冤案平反",
+      "原文依据": "The philosophical spirit has rid us of a great number of prejudices"
+    },
+    {
+      "议题": "民生疾苦",
+      "立场": "关注（精英视角）",
+      "强度": 1,
+      "说明": "通过文学作品批判贵族压迫（如《老实人》对 Caribbean 奴隶制的批判）；但主要通过制度改革而非直接济贫",
+      "原文依据": "Through the story, Voltaire presents withering criticisms of the French state, especially the nobility, as well as the Church"
+    },
+    {
+      "议题": "宗教宽容",
+      "立场": "强烈支持",
+      "强度": 2,
+      "说明": "核心价值观之一；认为任何单一宗教都不应拥有绝对真理",
+      "原文依据": "different denominations of Christianity should be tolerated in the same society. This is based on his belief that toleration springs from no single group being able to claim absolute truth"
+    },
+    {
+      "议题": "理性主义",
+      "立场": "强烈支持",
+      "强度": 2,
+      "说明": "坚信理性是人类进步的唯一可靠工具；但也承认理性的局限（上帝存在不可证明）",
+      "原文依据": "If we recognise the harshness of life, we can do something about it using reason to make practical improvements"
+    },
+    {
+      "议题": "出世/入世",
+      "立场": "积极入世",
+      "强度": 2,
+      "说明": "以改造社会为己任，积极参与公共论战；即使在费尔奈隐居期间也持续发表政论",
+      "原文依据": "Voltaire was willing to test his ideas on religious toleration in the crucible of a court of law"
+    },
+    {
+      "议题": "进步史观",
+      "强度": 2,
+      "立场": "坚信进步",
+      "说明": "认为启蒙时代是人类历史上最进步的时代；理性正在以前所未有的方式被运用",
+      "原文依据": "the most enlightened age the world has ever seen"
+    }
+  ],
+  "政治光谱备注": "伏尔泰属于启蒙主义中的温和派——既批判绝对专制，又不主张共和革命；既反对狂热宗教，又不否定上帝存在；是典型的自然神论+渐进改革主义者"
+}

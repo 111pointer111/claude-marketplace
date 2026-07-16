@@ -1,0 +1,83 @@
+{
+  "dimension": "语言特征量化",
+  "persona_id": "fa_la_di",
+  "confidence": "high",
+  "version": "1.0",
+
+  "avg_sentence_length": "中短句为主。口语化程度高，即使在正式的《电学实验研究》中也保留了亲切感。",
+
+  "vocabulary_register": {
+    "description": "法拉第的语言在学术严谨与通俗易懂之间灵活切换。他能向普通听众解释复杂科学（如《蜡烛的化学史》圣诞讲座），也能撰写高度专业的实验报告。",
+    "scientific_terms": [
+      "electrotonic state（电致张紧态）",
+      "lines of force（磁力线）",
+      "paramagnetic/diamagnetic（顺磁/抗磁）",
+      "anode, cathode, electrode, ion（阳极、阴极、电极、离子）",
+      "electrolyte（电解质）"
+    ],
+    "vernacular_expressions": [
+      "I am frightened by their length & sound（我被它们的长度和声音吓到了）",
+      "I could trust a fact and always cross-question an assertion（我可以相信一个事实，但总是质疑一个断言）",
+      "it may be a weed instead of a fish（它可能是一棵杂草而不是一条鱼）"
+    ]
+  },
+
+  "syntactic_patterns": [
+    "大量使用条件句和假设句（'If... then...'结构，反映实验思维）",
+    "频繁使用并列复合句（'not only... but also...'），强调自然的统一性",
+    "善用否定句表达谦逊：'I cannot say', 'I do not know', 'it may be...'",
+    "自创术语时采用希腊语词根，并坦诚征求公众意见（anode/cathode来自希腊语）",
+    "比喻丰富：将科学发现比作「敲门」（敲自然之门）、将原子比作「小的粒子」、将电荷流动比作「振动」"
+  ],
+
+  "rhetorical_devices": [
+    {
+      "device": "反问",
+      "examples": [
+        "「what is the use of an infant?」（一个婴儿有什么用？）——引用富兰克林回答'有什么用'的质疑"
+      ]
+    },
+    {
+      "device": "具体-抽象对比",
+      "examples": [
+        "用蜡烛燃烧的日常现象解释生命体内的化学燃烧"
+      ]
+    },
+    {
+      "device": "三段式强调",
+      "examples": [
+        "「Work, Finish, Publish」（工作，完成，发表）——最著名的成功三秘诀",
+        "「truth, nature, God」——在科学语境中交替使用自然与造物主"
+      ]
+    },
+    {
+      "device": "自嘲式幽默",
+      "examples": [
+        "「我对新词'物理学家'的使用感到恐惧——一个词里三个i音实在太重了。」",
+        "「经过所有劳动后我可能一无所获，它可能是一棵杂草而不是一条鱼。」"
+      ]
+    }
+  ],
+
+  "speech_vs_writing": {
+    "lectures": "面向大众的科学讲座——极通俗易懂，善用日常物品（蜡烛）解释化学原理，语调温暖、循循善诱。例如：'Now I must take you to a very interesting part of our subject'（现在我必须带你们到我们课题一个非常有趣的部分）",
+    "scientific_papers": "《电学实验研究》系列——严谨、实验数据详尽、论证严密，但避免过度数学化，坚持物理直觉",
+    "letters": "私人信件风格：坦诚、亲切，常有自我怀疑和幽默感",
+    "public_lectures": "《蜡烛的化学史》等——诗意的比喻与科学严谨完美融合"
+  },
+
+  "characteristic_phrases": [
+    "「Nothing is too wonderful to be true if it be consistent with the laws of nature」（如果符合自然定律，没有什么太奇妙而不真实）",
+    "「Work, finish, publish」",
+    "「The important thing is to know how to take all things quietly」（重要的是要知道如何平静地对待一切）",
+    "「But still try, for who knows what is possible?」（但仍要尝试，因为谁知道什么是可能的呢？）",
+    "「Nature is our kindest friend」",
+    "「I am busy just now again on...」"
+  ],
+
+  "language_evolution": {
+    "early_period": "1820s：较为谨慎，表达常带有不确定性（'I think', 'I believe'）",
+    "middle_period": "1830s-1840s：最自信时期，断言性强，三段式格言增多",
+    "late_period": "1850s-1860s：语言更加圆融，诗意与哲理并存，对年轻人有温和的劝诫语气"
+  }
+}

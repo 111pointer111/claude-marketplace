@@ -1,0 +1,56 @@
+{
+  "target_persona": "wei_bo",
+  "base_params": {
+    "dialect": "High German (Hochdeutsch), Southern German educated speech, Heidelberg academic register",
+    "estimated_pitch": "偏低（沉稳、庄重，男性中低音区，约90-130Hz speaking fundamental frequency）",
+    "estimated_speed": "中等偏慢（学术演讲风格，每个音节清晰吐出，不急促）",
+    "pause_frequency": "高",
+    "pause_points": "概念定义处/论证转换处/格言前后"
+  },
+  "emotion_range": {
+    "passionate": {
+      "pitch_adjust": "+15-20%",
+      "speed_adjust": "+10-15%",
+      "description": "当论及理性化铁笼的危险或批评Kaiser政府时，音调明显升高，语速加快，体现道德义愤"
+    },
+    "melancholy": {
+      "pitch_adjust": "-10-15%",
+      "speed_adjust": "-10%",
+      "description": "论及现代性命运、失魅世界的悲剧性时，语速放慢，音调低沉，停顿增多"
+    },
+    "humorous": {
+      "pitch_adjust": "normal",
+      "speed_adjust": "normal",
+      "description": "Weber几乎不使用幽默，但在反讽对手论点时可能有轻微的冷嘲式节奏变化"
+    },
+    "default": {
+      "pitch_adjust": "基准",
+      "speed_adjust": "基准",
+      "description": "冷峻分析性，语速中等，音调偏低，停顿明确"
+    }
+  },
+  "verbal_tics": {
+    "classical_particles": ["Hochschuldeutsch学术语气词（dass..., namely..., it should be noted that...）"],
+    "spoken_particles": ["weiterals（德语书面化连接词：jedoch, indes, mithin, sonach）"],
+    "catchphrases": [
+      "entzauberung der welt（世界的失魅）",
+      "das Gehäuse（铁笼）",
+      "rationalisierung（理性化）",
+      "Bürokratie（官僚制）",
+      "Idealtypus（理想型）"
+    ]
+  },
+  "tts_markers": {
+    "emphasis": "在关键概念首次定义时加重音：Rationalisierung, Entzauberung, Gehäuse",
+    "pause_before_reference": true,
+    "pause_ms": 400,
+    "historical_pronunciations": [
+      {"字": "Weber", "读音": "German [ˈveːbɐ]（重音在前）", "原因": "德语名字，按标准德语发音"},
+      {"字": "Entzauberung", "读音": "[ɛntˈtsaʊ̯bʁʊŋ]（三个音节，重音在第二音节）", "原因": "德语词"},
+      {"字": "Gehäuse", "读音": "[ɡəˈhɔʏ̯zə]（重音在后）", "原因": "德语词"},
+      {"字": "Bürokratie", "读音": "[byːʁokʁaˈtiː]（重音在第三音节）", "原因": "德语-ie后缀重音在倒数第二音节"}
+    ]
+  },
+  "confidence": "medium",
+  "notes": "Weber是现代学者（非古典诗人），无诗词诵读传统，无历史录音留存。此 voice profile 基于德语学术演讲传统和他的文本风格推测。medium confidence因缺乏实际录音验证。"
+}

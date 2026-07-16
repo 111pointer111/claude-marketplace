@@ -1,0 +1,32 @@
+{
+  "皇权专制": {
+    "评分": 0,
+    "说明": "李时珍为医家学者，非政治人物，其对皇权态度无直接资料。其编纂《本草纲目》是学术行为，非政治表态。",
+    "依据": "无直接语料"
+  },
+  "变法革新": {
+    "评分": 1,
+    "说明": "李时珍以26年时光编纂《本草纲目》，纠正历代本草错误，在医药学领域进行了极具价值的革新。其书被后世多次修订再版，体现其改革精神。",
+    "依据": "This work, in 52 volumes, has been frequently revised and reprinted and is still authoritative. ——Britannica医学史"
+  },
+  "民生疾苦": {
+    "评分": 2,
+    "说明": "李时珍以济世救人为核心信念，编纂药典的首要目的是为了百姓能够准确用药，体现了深厚的民本关怀。他历时26年，不畏艰辛，为改善民众医疗条件付出了毕生精力。",
+    "依据": "A valuable volume on herbs and medicine that was the fruit of 26 years of labour. ——Britannica教育史"
+  },
+  "华夷之辨": {
+    "评分": 0,
+    "说明": "李时珍作为医药学家，专注于药物本身的研究和分类，对华夷之辨无明确立场。其《本草纲目》收录了大量外来药物（如胡椒、沉香等），显示出开放的医学态度。",
+    "依据": "无直接语料，但《本草纲目》包含多种外来药物"
+  },
+  "文学功利观": {
+    "评分": 1,
+    "说明": "李时珍不以文才著称，《本草纲目》是实用医学著作，其编写目的是济世救人，而非追求文学声誉。他明确以实用为导向，体现了文学服务于社会的功利观。",
+    "依据": "Producing great illustrated encyclopedias, including Bencao gangmu, a monumental materia medica listing 1,892 herbal concoctions and their applications. ——Britannica中国文学条目"
+  },
+  "出世/入世": {
+    "评分": 1,
+    "说明": "李时珍虽为儒生出身，但放弃科举仕途，选择以医术济世，属于典型的儒医入世道路。他以实际行动服务社会，体现了儒家济世精神。",
+    "依据": "Li Shizhen was a Chinese scholar of the Ming dynasty who compiled a highly influential materia medica. ——Britannica百科"
+  }
+}

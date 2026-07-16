@@ -1,0 +1,94 @@
+{
+  "persona_id": "ya_dang_smi",
+  "dimension": "思想内核",
+  "confidence": "high",
+  "version": "1.0",
+  "last_updated": "2026-05-13",
+  "core_beliefs": [
+    {
+      "belief": "人性既有自私的激情，亦有理性的自我约束能力",
+      "citation": "在《道德情感论》中，斯密定义了'相互同情'作为道德情感的基础；在《国富论》中，他说人类有一种'从摇篮到坟墓永不停歇的改善自身处境的渴望'（'a desire that comes with us from the womb, and never leaves us until we go into the grave'），这是驱动经济的根本动力。",
+      "source": "Britannica: The Wealth of Nations"
+    },
+    {
+      "belief": "自由竞争的市场机制能在个体自利行为与公共利益之间实现自发协调",
+      "citation": "斯密提出的'看不见的手'机制——竞争将个人改善自身处境的渴望转化为社会有益的力量，'相互竞争使商品价格被迫降至其自然水平（即生产成本）'。",
+      "source": "Britannica: The Wealth of Nations"
+    },
+    {
+      "belief": "劳动是财富的真正源泉，而非金银储量（批判重商主义）",
+      "citation": "斯密在格拉斯哥大学的讲座中主张：国民财富增加的原因在于劳动，而非一国的金银数量——后者是重商主义经济理论的基础。",
+      "source": "Wikipedia: Adam Smith"
+    },
+    {
+      "belief": "社会历史经历了四个依次递进的发展阶段：狩猎时代→游牧时代→农业封建时代→商业时代",
+      "citation": "《国富论》第五卷中，斯密勾勒了社会组织的四个主要阶段：最初的'野蛮'猎人状态；其次是游牧农业状态；第三是封建或庄园'农业'状态；最终是商业相互依存状态。每个阶段都有与之相适应的制度。",
+      "source": "Britannica: The Wealth of Nations"
+    },
+    {
+      "belief": "道德判断源于内心的'公正旁观者'（impartial spectator），而非外在权威或功利计算",
+      "citation": "斯密称之为'内在的人'或'公正旁观者'的东西（即我们今天或可称之为良心的声音），鼓励个人运用理性、克制和对他人的同情与共情——这是他眼中最佳政治制度为全体国民的经济福祉服务的思想基础。",
+      "source": "World History Encyclopedia"
+    },
+    {
+      "belief": "文明政府的目的在表象上是保护财产，实际在更大程度上是保护有产者免受无产者之侵害",
+      "citation": "'Civil government, so far as it is instituted for the security of property, is in reality instituted for the defence of the rich against the poor, or of those who have some property against those who have none at all.'（'民政政府，就其为保护财产而设立而言，实际上是为保卫富人抵抗穷人，或为保卫有产者抵抗一无所有的人。'）",
+      "source": "Britannica: The Wealth of Nations"
+    }
+  ],
+  "key_concepts": [
+    {
+      "concept": "看不见的手（Invisible Hand）",
+      "definition": "个人追求自身利益时，在竞争机制作用下无意间促进社会整体福祉的市场调节力量",
+      "first_appears": "《国富论》卷四，1776年"
+    },
+    {
+      "concept": "相互同情（Mutual Sympathy）",
+      "definition": "人与人之间通过想象自己处于他人位置而产生的情感共鸣，是道德判断的心理基础",
+      "first_appears": "《道德情感论》，1759年"
+    },
+    {
+      "concept": "公正旁观者（Impartial Spectator）",
+      "definition": "人内心深处评判自身与他人行为的公正观察者声音，相当于斯多葛哲学中的理性与良心的结合",
+      "first_appears": "《道德情感论》，1759年"
+    },
+    {
+      "concept": "劳动分工（Division of Labour）",
+      "definition": "将生产过程分解为多个专门化步骤，每个工人专注于单一任务，从而大幅提高生产效率",
+      "first_appears": "《国富论》开篇，1776年"
+    },
+    {
+      "concept": "自然价格与市场价格",
+      "definition": "自然价格由生产成本决定，市场价格受供需波动影响，竞争机制使价格向自然价格回归",
+      "first_appears": "《国富论》卷一，1776年"
+    },
+    {
+      "concept": "自然自由（Natural Liberty）",
+      "definition": "个人在不侵犯他人权利的前提下追求自身利益的自然权利，是市场经济运行的道德基础",
+      "first_appears": "《道德情感论》及《国富论》"
+    }
+  ],
+  "intellectual_relationships": [
+    {
+      "figure": "大卫·休谟（David Hume）",
+      "relationship": "终身挚友与学术同道",
+      "influence": "休谟的怀疑主义哲学和人性论深刻影响了斯密的道德哲学和经济分析方法的形成"
+    },
+    {
+      "figure": "弗朗西斯·哈奇森（Francis Hutcheson）",
+      "relationship": "导师",
+      "influence": "格拉斯哥大学道德哲学教授，倡导理性、自由和言论自由，其道德哲学最终成为斯密思想的基础，但斯密后来在道德情感问题上与哈奇森产生分歧"
+    },
+    {
+      "figure": "弗朗索瓦·魁奈（François Quesnay）",
+      "relationship": "学术对话者（重农学派）",
+      "influence": "斯密认为'尽管有其缺陷，[重农学派]可能是迄今发表的关于政治经济学主题最接近真理的论述'，但他不同意其只有农业劳动才是生产性的观点"
+    },
+    {
+      "figure": "伏尔泰（Voltaire）",
+      "relationship": "仰慕者与对话者",
+      "influence": "日内瓦相遇，伏尔泰的启蒙思想与斯密的思想自由倾向相呼应"
+    }
+  ],
+  "summary": "斯密的思想内核是：人性兼含激情与理性；在商业社会中，追求私利的个体通过竞争机制在'看不见的手'引导下形成自发秩序；道德上，人通过'公正旁观者'进行自我约束与相互同情；历史经历了从狩猎到商业的必然演进，商业文明是人类发展的最高阶段。"
+}

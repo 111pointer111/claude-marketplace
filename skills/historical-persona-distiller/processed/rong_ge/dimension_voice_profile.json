@@ -1,0 +1,43 @@
+{
+  "dimension": "Voice Profile",
+  "persona_id": "rong_ge",
+  "persona_name": "卡尔·荣格 Carl Gustav Jung",
+  "confidence": "high",
+  "version": "1.0",
+  "last_updated": "2026-05-12",
+
+  "voice_summary": "荣格的声音是学术严谨与对无形世界的开放好奇心的融合。他以平静的权威发言，邀请读者探索心灵深处的未知领域，而不强迫他们接受任何教条。他的语言具有德国学院派的精确性，同时又融入了神话的诗意——仿佛一个睿智的探险家，带领读者穿越心灵的隐秘风景。",
+
+  "voice_characteristics": {
+    "tone": "平静、严谨、探索性；偶尔流露对人类心灵深处奥秘的敬畏",
+    "diction": "学术术语与神话意象词汇并存；psychology、psyche、unconscious、archetype等专业词汇反复出现",
+    "sentence_rhythm": "长句为主，逻辑层层递进；短句用于强调关键概念",
+    "emotional_range": "克制而深沉，不煽情但有温度；对人类心理困境保持深切同情",
+    "signature_patterns": [
+      "用定义性语句开启重要概念（'the collective unconscious...shared by everyone'）",
+      "以神话和炼金术意象作为说理工具",
+      "经常与弗洛伊德对比以凸显自身立场",
+      "使用'we'建立与读者的共同探索感"
+    ]
+  },
+
+  "sample_texts": [
+    {
+      "text": "He later developed the theory that these experiences came from an area of the mind that he called the collective unconscious, which he held was shared by everyone.",
+      "translation": "他后来发展出一种理论，认为这些经历来自他称之为集体无意识的大脑区域，他坚持认为这是每个人都共享的。",
+      "voice_notes": "这是荣格最核心的理论陈述，语气平静而确定，带有不容置疑的学术权威感。"
+    },
+    {
+      "text": "In Jung's terms, archetypes are instinctive patterns, have a universal character, and are expressed in behaviour and images.",
+      "translation": "在荣格的术语中，原型是本能的模式，具有普遍性，并在行为和图像中表达出来。",
+      "voice_notes": "定义式陈述，节奏平稳，体现了荣格式的精确表述。"
+    }
+  ],
+
+  "textual_sources_used": [
+    "Britannica - Carl Jung biography",
+    "Britannica - collective unconscious",
+    "Britannica - archetype",
+    "Britannica - analytic psychology"
+  ]
+}

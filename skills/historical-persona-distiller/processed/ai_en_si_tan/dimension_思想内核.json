@@ -1,0 +1,80 @@
+{
+  "核心价值观": [
+    {
+      "条目": "追求统一性",
+      "描述": "爱因斯坦一生都在追求物理学的统一理论，认为宇宙的基本规律应该是简洁、和谐、统一的。这一价值观贯穿其所有学术时期，从狭义相对论、广义相对论到统一场论，始终如一。",
+      "原文引用": [
+        "After his retirement he continued to work towards the unification of the basic concepts of physics, taking the opposite approach, geometrisation, to the majority of physicists. —— Nobel Prize Official Biography",
+        "Einstein always appeared to have a clear view of the problems of physics and the determination to solve them. He had a strategy of his own and was able to visualize the main stages on the way to his goal. He regarded his major achievements as mere stepping-stones for the next advance. —— Nobel Prize Official Biography"
+      ],
+      "同时代对比": "与同时代大多数物理学家满足于各自领域的研究不同，爱因斯坦坚持追求万物理论，这与牛顿追求统一物理学的精神一脉相承，但比他同时代的人更为超前",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "自由探索与独立思考",
+      "描述": "爱因斯坦高度珍视思想自由和独立思考，反权威、反教条。这一价值观源于他在慕尼黑文法学校的痛苦经历——那里压制原创性。他终生反对专制主义和民族主义，支持和平与人道主义。",
+      "原文引用": [
+        "At the Luitpold Gymnasium in Munich, Einstein often felt out of place and victimized by a Prussian-style educational system that seemed to stifle originality and creativity. One teacher even told him that he would never amount to anything. —— Britannica",
+        "The world is a dangerous place to live; not because of the people who are evil, but because of the people who don't do anything about it. —— Biography.com"
+      ],
+      "同时代对比": "与同时代许多在体制内工作的科学家不同，爱因斯坦始终保持独立思考者姿态，即使在获得巨大声誉后也不受权威约束",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "科学与人道主义的结合",
+      "描述": "爱因斯坦不仅是伟大的科学家，也是积极的社会活动家。他关心人权、和平、民权，认为科学家有责任为人类福祉发声。这一特质在二战后尤为明显。",
+      "原文引用": [
+        "In the late 1940s, Einstein became a member of the National Association for the Advancement of Colored People (NAACP)... campaigned for civil rights, calling racism a 'disease' in a 1946 Lincoln University speech. —— Biography.com",
+        "Einstein had no knowledge of the U.S. plan to use atomic bombs in Japan in 1945. When he heard of the first bombing at Hiroshima, he reportedly said, 'Ach! The world is not ready for it.' —— Biography.com"
+      ],
+      "同时代对比": "与许多战后科学家回避政治不同，爱因斯坦在二战后积极投身和平运动和公民权利运动，在科学家中较为罕见",
+      "贯穿程度": "有演变（早期专注学术，1933年后社会活动增加）",
+      "实践一致性": "一致"
+    }
+  ],
+  "政治立场": {
+    "描述": "爱因斯坦是和平主义者和世界政府倡导者，反对民族主义和军国主义。他支持民主制度和人权，但不相信暴力革命。在政治上他是一个理想主义者，相信通过教育和理性可以改善人类状况。",
+    "原文引用": [
+      "After World War II, Einstein was a leading figure in the World Government Movement, he was offered the Presidency of the State of Israel, which he declined. —— Nobel Prize Official Biography",
+      "In 1947, via an essay for The Atlantic Monthly, Einstein espoused working with the United Nations to maintain nuclear weapons as a deterrent to conflict. —— Biography.com"
+    ],
+    "时代坐标": "在20世纪上半叶的科学家中，爱因斯坦的政治立场属于偏左的理想主义者，既不像一些科学家那样完全回避政治，也不像另一些那样投身革命",
+    "内在张力": "矛盾：虽然他是和平主义者，但1939年他与西拉德联名致信罗斯福，间接推动了原子弹的研发。这一矛盾他本人也有所意识，战后积极倡导核裁军",
+    "confidence": "high"
+  },
+  "底线清单": [
+    {
+      "条目": "思想自由",
+      "描述": "爱因斯坦绝不容忍任何压制思想自由的行为，无论是政治独裁还是教育压制",
+      "原文引用": "At the Luitpold Gymnasium in Munich, Einstein often felt out of place and victimized by a Prussian-style educational system that seemed to stifle originality and creativity. —— Britannica",
+      "是否有例外": "无"
+    },
+    {
+      "条目": "和平主义",
+      "描述": "尽管在二战特定历史背景下参与了推动核研究的行动，爱因斯坦总体上坚持和平主义立场，反对战争",
+      "原文引用": "Einstein had no knowledge of the U.S. plan to use atomic bombs in Japan in 1945. When he heard of the first bombing at Hiroshima, he reportedly said, 'Ach! The world is not ready for it.' —— Biography.com",
+      "是否有例外": "有（二战期间支持对抗纳粹的战争，但反对使用原子弹于平民）"
+    },
+    {
+      "条目": "科学研究的诚实性",
+      "描述": "爱因斯坦坚持科学研究的诚实性，反对科学被政治目的滥用",
+      "原文引用": "He was offered the Presidency of the State of Israel, which he declined. —— Nobel Prize Official Biography",
+      "是否有例外": "无"
+    }
+  ],
+  "自我定位": {
+    "描述": "爱因斯坦自视为一个独立的思想者和探索者，不属于任何学术圈或政治派别。他认为自己首先是一个科学家，但也有责任为人类公共事务发声。",
+    "原文引用": [
+      "Einstein's gifts inevitably resulted in his dwelling much in intellectual solitude. —— Nobel Prize Official Biography",
+      "I want to go when I want. It is tasteless to prolong life artificially. I have done my share, it is time to go. I will do it elegantly. —— Biography.com (regarding his refusal of surgery)"
+    ],
+    "与时代关系": "怀才不遇 → 世界知名 → 始终保持独立思考者姿态，不属于任何阵营"
+  },
+  "思想内部张力": {
+    "主要矛盾": "和平主义者 vs 原子弹推动者（1939年致信罗斯福）",
+    "深层原因": "面对纳粹可能首先获得原子弹的威胁，爱因斯坦做出了违背纯粹和平主义原则的决定，反映了极端情况下现实政治对理想主义的挑战",
+    "对人格的影响": "这一矛盾使爱因斯坦在战后更加积极地倡导和平与裁军，可视为一种道德赎罪"
+  }
+}

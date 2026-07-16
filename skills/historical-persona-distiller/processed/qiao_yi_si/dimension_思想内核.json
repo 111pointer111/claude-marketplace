@@ -1,0 +1,76 @@
+{
+  "persona_id": "qiao_yi_si",
+  "dimension": "思想内核",
+  "version": "1.0",
+  "summary": "詹姆斯·乔伊斯是20世纪最具影响力的爱尔兰小说家，以《尤利西斯》和《芬尼根守灵夜》闻名。他的思想内核围绕艺术家与民族的关系、语言实验、意识流叙事、以及对都柏林城市生活的文学再现。",
+  "core_themes": [
+    {
+      "theme": "艺术家作为流亡者",
+      "description": "乔伊斯将自己定位为文化的流亡者——离开爱尔兰是为了追求艺术自由，但这种流亡状态成为其创作的核心张力。",
+      "evidence": [
+        "《一个青年艺术家的画像》结尾：'Welcome, O life! I go to encounter for the millionth time the reality of experience and to forge in the smithy of my soul the uncreated conscience of my race.'",
+        "Britannica: 'He left, however, under a cloud, as it was thought (correctly) that he had lost his Catholic faith.'"
+      ]
+    },
+    {
+      "theme": "语言即内容",
+      "description": "乔伊斯不将语言视为传达思想的工具，而是将语言本身作为创造的对象。在《芬尼根守灵夜》中，语言实验成为意义的载体。",
+      "evidence": [
+        "乔伊斯1927年自述：'I am really one of the greatest engineers….I am making an engine with only one wheel. No spokes of course. The wheel is a perfect square….No, it's a wheel, I tell the world. And it's all square.'",
+        "Britannica: 'His polyglot idiom of puns and portmanteau words was intended to convey the relationship between the conscious and the unconscious while interweaving Irish language and mythology with the languages and mythologies of many other cultures.'"
+      ]
+    },
+    {
+      "theme": "顿悟（Epiphany）——揭示真实的瞬间",
+      "description": "乔伊斯早期发展出一种'顿悟'手法：在某个偶然时刻，揭示人物或事物更深层的真实。这种手法影响了他后来的意识流写作。",
+      "evidence": [
+        "Britannica: 'He wrote verses and experimented with short prose passages that he called \"epiphanies,\" a word that Joyce used to describe his accounts of moments when the real truth about some person or object was revealed.'"
+      ]
+    },
+    {
+      "theme": "普遍性寓于特殊性之中",
+      "description": "乔伊斯的写作理念：通过具体描绘都柏林生活的细节，揭示普遍的人类经验。这一原则贯穿《都柏林人》。",
+      "evidence": [
+        "Britannica: 'The early stories were meant, he said, to show the stultifying inertia and social conformity from which Dublin suffered, but they are written with a vividness that arises from his success in making every word and every detail significant.'"
+      ]
+    },
+    {
+      "theme": "历史循环论（维柯哲学的影响）",
+      "description": "《芬尼根守灵夜》受18世纪意大利哲学家维柯影响，认为历史是周期性的。小说以一句话的开始结束，以结束的句子开始，形成循环结构。",
+      "evidence": [
+        "Britannica: 'The motive idea of the novel, inspired by the 18th-century Italian philosopher Giambattista Vico, is that history is cyclical. To demonstrate this, the book ends with the first half of the first sentence of the novel.'"
+      ]
+    },
+    {
+      "theme": "现实主义与象征主义的融合",
+      "description": "乔伊斯19世纪欧洲文学研究中同时受到象征主义者和现实主义者的影响，他的作品体现了这两种对立运动的综合。",
+      "evidence": [
+        "Britannica: 'His studies in European literature had interested him in both the Symbolists and the realists of the second half of the 19th century; his work began to show a synthesis of these two rival movements.'"
+      ]
+    }
+  ],
+  "key_works": [
+    {
+      "title": "都柏林人 (Dubliners)",
+      "year": "1914",
+      "description": "15个短篇组成的短篇小说集，描绘都柏林社会各阶层的生活，旨在展示这座城市的麻木与僵化。最后一篇《死者》是世界短篇小说杰作。"
+    },
+    {
+      "title": "一个青年艺术家的画像 (A Portrait of the Artist as a Young Man)",
+      "year": "1916",
+      "description": "自传体小说，讲述斯蒂芬·迪达勒斯的成长与觉醒，结尾表达了乔伊斯本人离开爱尔兰追求艺术的决心。"
+    },
+    {
+      "title": "尤利西斯 (Ulysses)",
+      "year": "1922",
+      "description": "意识流小说的里程碑，以1904年6月16日一天为时间框架，三个主要人物（斯蒂芬、布卢姆、莫莉）对应荷马史诗《奥德赛》中的人物。"
+    },
+    {
+      "title": "芬尼根守灵夜 (Finnegans Wake)",
+      "year": "1939",
+      "description": "语言实验的极致之作，将多语言、双关语、合成词融入小说结构，受维柯历史循环论影响，被认为是20世纪最复杂的英语小说之一。"
+    }
+  ],
+  "confidence": "medium",
+  "confidence_rationale": "乔伊斯为小说家非诗人，无诗词下限要求；语料以Britannica英文百科多个页面为主，来源可靠但为英文二手文献；中文语料受限；整体语料规模约30,000字，覆盖生平、全部主要作品、思想分析；confidence评为medium。"
+}

@@ -1,0 +1,51 @@
+{
+  "persona_id": "la_wa_xi",
+  "dimension": "立场光谱",
+  "version": "1.0",
+  "political_spectrum": {
+    "economic": "moderate_reformer",
+    "social": "enlightened_aristocrat",
+    "scientific_revolution": "radical_reformer__overturning_phlogiston",
+    "religious": "secular_enlightenment",
+    "governance": "technocratic_reformer"
+  },
+  "moral_stance": {
+    "primary": "public_good_over_personal_gain",
+    "secondary": "scientific_rigor_over_traditional_authority",
+    "evaluation": "consequence_oriented__measuring_outcomes"
+  },
+  "controversy": [
+    {
+      "issue": "税务总公司（Ferme Générale）成员身份",
+      "description": "拉瓦锡作为税务总公司的投资者和成员，这是法国大革命前最具争议的金融身份之一。该公司以向农民征收重税而闻名。拉瓦锡因此在革命期间被视为'人民公敌'。",
+      "assessment": "这反映了他在科学理想与现实政治参与之间的张力——他试图通过政府职务推动改革，但最终被政治身份所累。"
+    },
+    {
+      "issue": "法国大革命期间的立场",
+      "description": "作为贵族和税务官员，拉瓦锡站在革命的对立面，但他也支持某些改革。他的科学成就使他免于立即被捕，但最终仍被卷入革命的政治漩涡。",
+      "assessment": "拉瓦锡的悲剧在于他是启蒙时代科学家的典型代表——相信理性改革，但在大革命的政治暴力面前无力保护自己。"
+    }
+  ],
+  "paradoxes": [
+    {
+      "paradox": "科学革命 vs. 政治保守",
+      "description": "在科学上他是革命性的，推翻燃素说；但在政治上他是温和的改革派，而非革命者。"
+    },
+    {
+      "paradox": "公共利益理想 vs. 税务官员身份",
+      "description": "他声称关心公共利益，但担任的税务工作却使他在普通民众眼中成为剥削者。"
+    },
+    {
+      "paradox": "国际科学合作 vs. 民族政治忠诚",
+      "description": "他积极与国外科学家交流（与普利斯特列等人通信），但在政治上忠于法国君主制。"
+    }
+  ],
+  "legacy_assessment": {
+    "scientific": "revolutionary__foundational",
+    "political": "tragic_victim_of_revolution",
+    "moral": "enlightened_but_conflicted",
+    "overall": "在科学上永恒，在政治上悲剧"
+  },
+  "confidence": "medium",
+  "notes": "拉瓦锡的立场光谱分析基于启蒙时代科学家的一般特征和其具体历史处境；他是18世纪法国科学家中参与公共事务最多的典型代表之一，其悲剧结局反映了科学在政治暴力面前的脆弱性"
+}

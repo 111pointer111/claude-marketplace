@@ -1,0 +1,48 @@
+{
+  "persona_id": "nuo_bei_er",
+  "dimension": "立场光谱",
+  "version": "1.0",
+  "confidence": "high",
+
+  "political_orientation": {
+    "position": "保守派/精英主义",
+    "description": "诺贝尔虽被同时代人视为自由派甚至社会主义者，但他实际上'不信任民主，反对女性选举权，对众多员工持善意家长制态度'（Britannica）。他支持精英治国（prizes awarded to the worthiest person），而非大众民主。",
+    "evidence": "distrusted democracy, opposed suffrage for women, maintained an attitude of benign paternalism toward his many employees"
+  },
+
+  "economic_views": {
+    "position": "资本主义工业家",
+    "description": "他在全球建立爆炸物工业帝国，持有兄弟在巴库油田的股份，是成功的资本主义企业家。同时他又是慷慨的人道主义捐助者，留下大额遗产设立诺贝尔奖。",
+    "evidence": "his worldwide interests in explosives, along with his own holdings in his brothers' companies in Russia, brought him a large fortune"
+  },
+
+  "religious_views": {
+    "position": "无神论/自然神论存疑",
+    "description": "他出身犹太家庭，但无明确的宗教信仰。他的人文主义更接近自然神论（deist）而非有神论。他对科学与哲学的兴趣远大于宗教实践。",
+    "evidence": "no evidence of religious observance in biographical records; deep interest in philosophy from antiquity"
+  },
+
+  "scientific_views": {
+    "position": "强烈支持基础科学+应用科学",
+    "description": "诺贝尔明确表示基础科学与应用科学同样重要。遗嘱的五项奖励领域涵盖物理、化学、生理学或医学、文学、和平，体现了他对科学与人文的双重信仰。",
+    "evidence": "prizes established in physics, chemistry, physiology/medicine, literature, and peace — covering both natural sciences and humanities"
+  },
+
+  "war_peace_position": {
+    "position": "内在矛盾的和平主义者",
+    "description": "他本质上是一个和平主义者（pacifist），但他的主要发明（硝化甘油、黄色炸药、雷管）全部被用于战争和军事目的。他希望炸药的破坏力能使战争代价过高，从而终结战争——这是一个充满悖论的和平愿景。",
+    "evidence": "Though Nobel was essentially a pacifist and hoped that the destructive powers of his inventions would help bring an end to war"
+  },
+
+  "nationality_cosmopolitanism": {
+    "position": "坚定的世界主义/普世主义者",
+    "description": "遗嘱明确表示颁奖不考虑国籍，只考虑成就本身。这体现了他超越民族主义的世界主义立场。他在5个国家生活过，精通5种语言，是真正的世界公民。",
+    "evidence": "It is my express wish that when awarding the prizes, no consideration be given to nationality, but that the prize be awarded to the worthiest person, whether or not they are Scandinavian"
+  },
+
+  "social_reform_views": {
+    "position": "精英改革主义",
+    "description": "他不是革命派，而是通过奖励机制（诺贝尔奖）来推动人类进步。他对民主和女性参政权持保守态度，但对科学、文学、和平事业极为慷慨开放。",
+    "evidence": "opposed suffrage for women, but left fortune for international prizes in science and peace"
+  }
+}

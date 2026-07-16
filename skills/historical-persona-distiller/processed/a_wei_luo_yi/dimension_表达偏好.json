@@ -1,0 +1,35 @@
+{
+  "dimension": "表达偏好",
+  "confidence": "high",
+  "persona_id": "a_wei_luo_yi",
+  "communication_modes": {
+    "preferred_written_over_oral": "Strong preference for written treatises and commentaries over oral delivery; philosophical arguments require precision that speech cannot guarantee",
+    "commentary_as_primary_form": "Commentary on Aristotle as the dominant literary form; uses existing texts as springboard for original analysis",
+    "dialectical_exchange": "Values structured intellectual exchange; defines dialectic as 'communal enterprise' for truth-seeking, not victory"
+  },
+  "argumentation_preferences": {
+    "demonstration_above_all": "burhān (demonstration) is the only form that produces certainty; other forms (dialectical, rhetorical) are useful but subordinate",
+    "from_first_principles": "Philosophical arguments begin from self-evident premises and proceed via strict syllogistic inference",
+    "critique_as_method": "Extensive engagement with predecessors (Alexander, Themistius, Ibn Sina, al-Farabi, al-Ghazali); sees critical dialogue as essential to philosophical progress"
+  },
+  "stylistic_habits": {
+    "epistolary_format": "Some works addressed to specific patrons (Caliph Abu Ya'qub Yusuf); dedication epistles serve as philosophical introductions",
+    "layered_exposition": "Short paraphrase → expanded paraphrase → literal commentary for same text; serves different audience levels",
+    "analogical_reasoning": "Uses cosmological analogies (state hierarchy, cabinet-maker) to explain abstract metaphysical relationships"
+  },
+  "intellectual_habits": {
+    "systematic_organization": "Covers nearly entire Aristotelian corpus; believes in comprehensive treatment over piecemeal analysis",
+    "precision_in_terms": "Spends considerable space distinguishing between similar concepts (demonstration types, intellect varieties, causation modes)",
+    "honesty_about_limitations": "Notes gaps in his knowledge (no access to Aristotle's Politics); admits when previous commentators were correct and he was wrong"
+  },
+  "emotional_expression": {
+    "controlled_intellectual_passion": "Emotional expression channeled through rigorous argumentation; passion for truth manifests as systematic philosophical work",
+    "personal_remarks_rare": "Occasional personal notes (e.g., 'this claim came to me after long reflection'); generally maintains scholarly objectivity",
+    "frustration_expressed_through_critique": "When opposing views (al-Ghazali's occasionalism), expresses through detailed logical refutation rather than emotional language"
+  },
+  "audience_awareness": {
+    "three_tier_model": "Explicitly designs writings for different audiences: philosophers (demonstrative), theologians (dialectical), masses (rhetorical)",
+    "teaching_purpose": "Commentary tradition serves pedagogical function; wants to make Aristotle accessible to those with varying backgrounds",
+    "political_awareness": "Writes within context of religious orthodoxy; carefully positions philosophy as compatible with, not threatening to, Islamic law"
+  }
+}

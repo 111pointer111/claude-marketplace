@@ -1,0 +1,59 @@
+{
+  "persona_id": "la_wa_xi",
+  "dimension": "语言特征量化",
+  "version": "1.0",
+  "language_markers": {
+    " formality": "high",
+    "technical_density": "very high",
+    "sentence_complexity": "medium-high",
+    "rhetorical_preference": "empirical-experimental",
+    "emotional_tone": "measured-rational",
+    "metaphor_frequency": "low",
+    "citation_frequency": "high (of experiments)"
+  },
+  "structural_patterns": [
+    {
+      "pattern": "定量实验描述",
+      "description": "拉瓦锡的语言以精确的定量描述为特征，使用大量数字、测量值和实验条件",
+      "example": "His success in the many elaborate experiments he conducted was in large part due to his independent wealth, which enabled him to have expensive apparatus built to his design"
+    },
+    {
+      "pattern": "物质命名与定义",
+      "description": "偏好对化学物质进行精确命名和分类定义",
+      "example": "named the element oxygen (oxygén) from the Greek words for 'acid former'"
+    },
+    {
+      "pattern": "实验方法论述",
+      "description": "经常强调实验方法的重要性，坚持实验验证",
+      "example": "Lavoisier believed that matter was neither created nor destroyed in chemical reactions, and in his experiments he sought to demonstrate that this belief was not violated"
+    },
+    {
+      "pattern": "科学革命性宣言",
+      "description": "在推翻旧理论时使用明确而坚定的语言",
+      "example": "discarding the phlogiston theory, which had been accepted up to that time"
+    }
+  ],
+  "vocabulary_indicators": {
+    "scientific_terms": [
+      "combustion", "calcination", "respiration", "chemical reaction",
+      "mass", "conservation", "element", "compound", "mixture",
+      "oxygen", "acidity", "decomposition", "composition"
+    ],
+    "methodological_terms": [
+      "experiment", "measurement", "observation", "precision",
+      "quantitative", "apparatus", "verification", "evidence"
+    ],
+    "revolutionary_terms": [
+      "discarding", "rejecting", "revolution", "foundation",
+      "principle", "law", "system"
+    ]
+  },
+  "syntax_characteristics": [
+    "Declarative sentences with precise qualifications",
+    "Causal connections explicitly stated",
+    "Hypothetical reasoning embedded in experimental context",
+    "Passive voice common in describing experimental results"
+  ],
+  "confidence": "medium",
+  "notes": "拉瓦锡为化学家，语言特征基于Britannica英文语料推断；他的科学语言风格严谨、精确、注重量化；由于原始法语著作未直接抓取，语言特征可能因英语翻译而有所偏差"
+}

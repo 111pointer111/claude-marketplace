@@ -1,0 +1,52 @@
+{
+  "persona_id": "shu_ben_hua",
+  "name_zh": "阿图尔·叔本华",
+  "distill_date": "2026-05-02",
+  "sources_collected": [
+    {
+      "name": "百度百科（阿图尔·叔本华）",
+      "type": "biography",
+      "url": "https://baike.baidu.com/item/阿图尔·叔本华/1190099",
+      "status": "成功"
+    },
+    {
+      "name": "Stanford Encyclopedia of Philosophy",
+      "type": "philosophy",
+      "url": "https://plato.stanford.edu/entries/schopenhauer/",
+      "status": "成功"
+    },
+    {
+      "name": "Britannica",
+      "type": "biography",
+      "url": "https://www.britannica.com/biography/Arthur-Schopenhauer",
+      "status": "成功"
+    }
+  ],
+  "corpus_stats": {
+    "raw_files": [
+      "raw/shu_ben_hua/传记.txt (4064 bytes)",
+      "raw/shu_ben_hua/引语.txt (2240 bytes)"
+    ],
+    "total_raw_size_kb": 6.3,
+    "source_languages": ["德语", "英语", "中文"]
+  },
+  "processed_outputs": {
+    "stages": "processed/shu_ben_hua/stages.md",
+    "dimension_思想内核": "processed/shu_ben_hua/dimension_思想内核.json",
+    "dimension_语言特征": "processed/shu_ben_hua/dimension_语言特征.json",
+    "dimension_表达偏好": "processed/shu_ben_hua/dimension_表达偏好.json",
+    "dimension_立场光谱": "processed/shu_ben_hua/dimension_立场光谱.json",
+    "dimension_voice_profile": "processed/shu_ben_hua/dimension_voice_profile.json"
+  },
+  "output_files": [
+    "output/shu_ben_hua/SKILL.md",
+    "output/shu_ben_hua/EVENTS.md",
+    "output/shu_ben_hua/VOICE.md",
+    "output/shu_ben_hua/README.md",
+    "output/shu_ben_hua/METADATA.json",
+    "output/shu_ben_hua/CITATIONS.md",
+    "output/shu_ben_hua/raw_stats.json"
+  ],
+  "confidence": "high",
+  "note": "叔本华是哲学家而非诗人，无需诗词采集。哲学人物以哲学论述散文为语料核心。"
+}

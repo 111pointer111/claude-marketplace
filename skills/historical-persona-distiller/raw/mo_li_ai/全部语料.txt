@@ -1,0 +1,207 @@
+# 莫里哀（Molière）传记语料
+# persona_id: mo_li_ai
+# 来源：Britannica 大英百科全书（主源）
+# 字数：约11,665字符
+
+---
+
+## 基本信息
+
+莫里哀（Molière，本名 Jean-Baptiste Poquelin，1622-1673）是法国喜剧大师，被公认为法国文学最伟大的喜剧作家。他既是编剧、演员，也是剧团管理者，以尖锐的社会讽刺和人物驱动型喜剧著称。
+
+关键数据：
+- 出生：1622年1月15日（洗礼日），巴黎
+- 去世：1673年2月17日，巴黎
+- 本名：Jean-Baptiste Poquelin
+- 代表作：《伪君子》（Tartuffe）、《恨世者》（Le Misanthrope）、《悭吝人》（L'Avare）、《贵人迷》（Le Bourgeois Gentilhomme）
+
+---
+
+## 早年生活与教育
+
+莫里哀出生于巴黎（也在巴黎去世）。母亲在他10岁时去世；他的父亲是皇室任命的宫廷供货商，给了他良好的教育，就读于Collège de Clermont（后来的路易大帝中学，这所学校也培养了伏尔泰等众多杰出法国人）。
+
+虽然父亲明显打算让他继承皇家的官职，但这位年轻人于1643年放弃了它，显然决心打破传统，在舞台上谋生。同年，他与九人联合，以"Illustre-Théâtre"的名义制作和表演喜剧。他的艺名"Molière"首次出现在一份日期为1644年6月28日的文件中。他把自己完全交给了剧院30年，在51岁时精疲力竭地去世。
+
+一位才华横溢的女演员Madeleine Béjart说服莫里哀建立一个剧院，但她无法维持这个年轻剧团的生存和资金。1645年，莫里哀因建筑和财产债务两度入狱。17世纪巴黎的观众人数很少，而且城市里已经有两个 established 的剧院，因此对一个年轻剧团来说，持续生存似乎是不可能的。
+
+从1645年底开始，在长达至少13年的时间里，剧团巡回各省谋生。这段时期没有完整的历史记载，但市政登记册和教堂记录显示剧团断断续续地出现在各地：1648年在南特，1649年在图卢兹，等等。
+
+剧团断断续续地从1652年底到1655年夏在里昂，1654年和1655年在蒙彼利埃，1656年在贝齐埃。显然他们有起有落。这些未经详细记载的年代对莫里哀的职业生涯至关重要，为他后来作为演员-经理的工作奠定了严格的基础，也教会了他如何与作者、同事、观众和当局打交道。他最终回到巴黎后的快速成功和面对反对的坚持，如果没有这些年的训练，是无法解释的。他最早已知的两部戏剧创作于这一时期：《冒失鬼》（L'Étourdi，1655年在里昂演出）和《爱情怨气》（Le Dépit amoureux，1656年在贝齐埃演出）。
+
+---
+
+## 回到巴黎与皇室赞助
+
+1658年10月24日下午，在卢浮宫警卫室的临时舞台上，剧团在国王路易十四和国王面前演出皮埃尔·高乃依的《尼科梅德》，然后演出莫里哀描述的"一个小娱乐节目"——这是他在省级观众中赢得了一些声誉的节目。这就是《爱情医生》（Le Docteur amoureux）；它是否以现存的形式存在值得怀疑。这显然是一次成功，并赢得了国王弟弟菲利普（奥尔良公爵）的青睐。
+
+很难知道菲利普的赞助范围有多大，这种赞助持续了7年，直到国王本人接管了被称为"Troupe du roi"的剧团。毫无疑问，剧团获得了一定的名声和声望，被邀请到大户人家，以及对演员的补贴（通常是不支付的），但仅此而已。
+
+从1658年回到巴黎起，关于莫里哀生平的所有可靠事实都与他的编剧、演员和经理活动有关。一些法国传记作家试图将他的个人生活读入他的作品，但代价是把可能发生的事情误认为是实际发生的事情。事实是，除了传说和讽刺之外，几乎没有信息。
+
+---
+
+## 主要戏剧成就
+
+莫里哀的第一部巴黎戏剧《可笑的女才子》（Les Précieuses ridicules）预示了后来的风格。它围绕两个外省年轻女子，她们被仆人假冒主人揭穿，场景一方面是女人们对优雅的渴望加上缺乏常识，另一方面是仆人们带有文化陈词滥调的朴素言语。女人们认为这是智慧的高度，而她们的虚浮表明她们对文化的扭曲看法——物质的东西微不足道。这些可笑的 pretensions 的乐趣今天仍然令人耳目一新，对于第一批认出"女才子"本质的观众来说一定更是如此。
+
+《伪君子》（Tartuffe ou l'Imposteur）在1664年5月被邀请到凡尔赛为路易十四演出。这个剧本激怒了圣事会，一个强大的宗教团体，在长达五年的时间里，莫里哀争取演出权的斗争没有成功。最终在1669年，圣事会的势力减弱了，《伪君子》在 Palais Royal 以巨大的成功重新上演。
+
+《唐璜》（Dom Juan）于1665年2月首次演出，虽然直到他去世后才出版，20世纪之前几乎不为人知，但被认为是莫里哀最伟大的戏剧之一。
+
+《恨世者》（Le Misanthrope）于1666年6月演出，令他的仰慕者高兴，但缺乏吸引大众的必要吸引力。
+
+《悭吝人》（L'Avare）两年后首演，结果惨淡，莫里哀面临极端的经济困难。
+
+---
+
+## 晚年与去世
+
+尽管莫里哀享受国王的个人支持，但他与疾病、婚姻问题和抑郁症作斗争。在这期间，他创作并呈现了一部展示他的掌握和天才的作品——《恨世者》。
+
+尽管他后来安排出版他全部作品的精美版本；然而，该版本直到他去世约10年后才出现。作为法国文坛的杰出人物，莫里哀小心翼翼地在文学狮子角色和国王的（杰出）臣民身份之间走钢丝。
+
+莫里哀晚年健康状况不佳（可能是肺结核），并发展成严重的咳嗽，他试图将其掩盖为喜剧手段。当在舞台上被咳嗽发作克服时，他夸大它，试图让观众发笑。病情大大恶化，但莫里哀对医学几乎没有信心。
+
+1671年，《司卡潘的诡计》（Les Fourberies de Scapin）上演，这是一部类似于他早期作品的明亮喜剧。1673年2月17日，在他最后一部作品《假想的病人》（Le Malade imaginaire）的第四次演出中，莫里哀开始癫痫发作。当晚去世，只有两名修女在场陪伴，牧师探视的权利被拒绝。
+
+---
+
+## 喜剧艺术哲学
+
+喜剧在莫里哀之前有很长的历史，他采用了大多数传统形式，但他成功发明了一种基于正常与异常的双重视角的新风格——真实与虚假相对，聪明与迂腐相伴。他似乎无法想象任何情况而不将其生动化和戏剧化，往往超出合理的界限。
+
+莫里哀坚持认为他的戏剧是为舞台制作的，他的早期序言抱怨他不得不出版以避免被剥削。他的观点是，喜剧是用来表演的。这一事实在19世纪被遗忘了。直到现代演员如路易·乔维特、让-路易·巴罗、弗朗西斯·赫斯特、米歇尔·布凯和丹尼斯·波达利德斯才呈现出对他的戏剧天才的新的和精确的感觉。
+
+---
+
+## 历史地位与影响
+
+莫里哀经常被称为"法国的莎士比亚"，被认为是法国喜剧的大师。他的作品继续在世界各地演出，以将幽默与深刻的社会批判相结合的能力而闻名。几个世纪后，在其他媒介中工作的最伟大的喜剧艺术家，如查理·卓别林，都被比作莫里哀。# 莫里哀（Molière）引语摘录
+# persona_id: mo_li_ai
+# 来源：Wikiquote、Goodreads、SparkNotes、Tartuffe 原文
+# 整理用于蒸馏分析
+
+---
+
+## 《伪君子》（Tartuffe）经典台词
+
+### 关于虚伪与伪善
+
+1. "Those who have greatest cause for guilt and shame / Are quickest to besmirch a neighbor's name."
+   —— Tartuffe，第3幕第6场
+   （内心有愧的人最急于诋毁邻人的名誉。）
+
+2. "I may be pious, but I'm human too."
+   —— Tartuffe
+   （我可能很虔诚，但我也是人。）
+
+3. "The public scandal is what constitutes the offence: sins committed in private are not sins at all."
+   —— Tartuffe
+   （公开的丑闻才是犯罪：私下犯下的罪不算罪。）
+
+4. "Don't be deceived by hollow shows; / I'm far from being what men suppose."
+   —— Tartuffe，第3幕第6场
+   （不要被空洞的外表欺骗；我远非人们所想的那样。）
+
+5. "I see right through him. He's a fraud."
+   —— Dorine，第1幕第1场
+   （我看穿他了。他是个骗子。）
+
+### 关于宗教与操纵
+
+6. "Why put yourself in charge of Heaven's cause? / Does Heaven need our help to enforce its laws?"
+   —— 《伪君子》
+   （为什么要替天行道？天堂需要我们来帮助执行它的法律吗？）
+
+7. "Some joys, it's true, are wrong in Heaven's eyes; / Yet Heaven is not averse to compromise."
+   —— Tartuffe
+   （确实，有些快乐在天上看来是错误的；但天堂并不反对妥协。）
+
+8. "He's out to save your souls, and all of you / Must love him, as my son would have you do."
+   —— Orgon's mother defending Tartuffe
+   （他是来拯救你们的灵魂的，你们都必须爱他，就像我儿子希望你们做的那样。）
+
+### 关于真相与表象
+
+9. "There's a vast difference, so it seems to me, / Between true piety and hypocrisy."
+   —— 《伪君子》
+   （在我看来，真虔诚与伪善之间有着巨大的区别。）
+
+10. "Beauty without intelligence is like a hook without bait."
+    —— Tartuffe
+    （没有智慧的美丽就像没有饵的鱼钩。）
+
+11. "Malicious men may die, but malice never."
+    —— Tartuffe
+    （恶意的人可能会死，但恶意永远不会。）
+
+### 关于婚姻与情感
+
+12. "My advice is, marry him, by all means."
+    —— Valère to Mariane
+    （我的建议是，一定要嫁给他。）
+
+13. "Shall I cast off for him, whate'er he be, womanly modesty and filial duty?"
+    —— Mariane
+    （为了他，难道我要抛弃女性的端庄和对父亲的服从吗？）
+
+---
+
+## 莫里哀其他作品中的名言
+
+### 《恨世者》（Le Misanthrope）
+
+1. "The greater the obstacle, the more glory in overcoming it."
+   —— Molière
+   （障碍越大，克服它就越光荣。）
+
+2. "A learned fool is more a fool than an ignorant fool."
+   —— Molière
+   （一个有学问的傻瓜比一个无知的傻瓜更傻。）
+
+### 《悭吝人》（L'Avare）
+
+1. "Money is the root of all evil."
+   —— 阿巴贡（Alceste的吝啬角色原型）
+   （金钱是万恶之源。）
+
+### 通用人生格言
+
+1. "Life is a tragedy to those who feel and a comedy to those who think."
+   —— Molière
+   （对感受的人来说人生是悲剧，对思考的人来说人生是喜剧。）
+
+2. "It is not only what we do, but also what we do not do, for which we are accountable."
+   —— Molière
+   （我们不仅对我们所做的事负责，也对我们没有做的事负责。）
+
+---
+
+## 历史评述摘录
+
+### Britannica 关于莫里哀喜剧艺术的描述：
+
+"Although the sacred and secular authorities of 17th-century France often combined against him, the genius of Molière finally emerged to win him acclaim. Comedy had a long history before Molière, who employed most of its traditional forms, but he succeeded in inventing a new style that was based on a double vision of normal and abnormal seen in relation to each other—the comedy of the true opposed to the specious, the intelligent seen alongside the pedantic."
+
+（虽然17世纪法国的宗教和世俗权威经常联合起来反对他，但莫里哀的天才最终还是脱颖而出赢得了赞誉。在莫里哀之前，喜剧有着悠久的历史，他采用了大多数传统形式，但他成功发明了一种基于正常与异常双重愿景的新风格——真实与虚假相对的喜剧，聪明与迂腐相伴。）
+
+### 关于莫里哀的戏剧观：
+
+"Although unquestionably a great writer, Molière insisted that his plays were made for the stage, and his early prefaces complain that he had to publish to avoid exploitation. Comedies, in his view, were made to be acted."
+
+（虽然无疑是一位伟大的作家，但莫里哀坚持认为他的戏剧是为舞台制作的，他的早期序言抱怨他不得不出版以避免被剥削。在他看来，喜剧是用来表演的。）
+
+### 关于他的竞争意识：
+
+"Competition, the fight for existence, was the keynote of Molière's whole career. To keep his actors and his audiences was an unremitting struggle against other theaters. He won this contest almost single-handed."
+
+（竞争、生存斗争是莫里哀整个职业生涯的基调。保持他的演员和观众是他与其他剧院不懈斗争的关键。他几乎独自赢得了这场竞争。）
+
+---
+
+## 莫里哀之死（Notable Biographies）：
+
+"On February 17, 1673, during the fourth performance of his last work, Le Malade imaginaire (The Imaginary Invalid), Molière began having seizures. He died that same night, attended only by two nuns, having been refused the right to see a priest."
+
+（1673年2月17日，在他最后一部作品《假想的病人》的第四次演出中，莫里哀开始癫痫发作。当晚去世，只有两名修女在场陪伴，牧师探视的权利被拒绝。）

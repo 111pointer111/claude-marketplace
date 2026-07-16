@@ -1,0 +1,95 @@
+# 卡夫卡全部语料
+
+## 一、传记原文（来自Britannica）
+
+Franz Kafka (born July 3, 1883, Prague, [Bohemia](https://www.britannica.com/place/Bohemia), [Austria-Hungary](https://www.britannica.com/place/Austria-Hungary) [now in Czech Republic]—died June 3, 1924, Kierling, near Vienna, Austria) was a German-language writer of visionary [fiction](https://www.britannica.com/art/fiction-literature) whose works—especially the [novel](https://www.britannica.com/art/novel) Der Prozess (1925; [The Trial](https://www.britannica.com/topic/The-Trial-novel-by-Kafka)) and the story Die Verwandlung (1915; [The Metamorphosis](https://www.britannica.com/topic/The-Metamorphosis))—express the anxieties and alienation felt by many in 20th-century Europe and [North America](https://www.britannica.com/place/North-America).
+
+## Life
+
+Franz Kafka, the son of Julie Löwy and Hermann Kafka, a merchant, was born into a prosperous middle-class Jewish family. After two brothers died in infancy, he became the eldest child and remained, for the rest of his life, conscious of his role as elder brother; Ottla, the youngest of his three sisters, became the family member closest to him. Kafka strongly identified with his maternal ancestors because of their spirituality, [intellectual](https://www.merriam-webster.com/dictionary/intellectual) distinction, piety, rabbinical learning, [melancholy](https://www.merriam-webster.com/dictionary/melancholy) [disposition](https://www.merriam-webster.com/dictionary/disposition), and delicate physical and mental constitution. He was not, however, particularly close to his mother. Subservient to her overwhelming ill-tempered husband and his exacting business, she shared with her spouse a lack of comprehension of their son's unprofitable and, they feared, unhealthy dedication to the literary "recording of [his]…dreamlike inner life."
+
+## Kafka and his father
+
+The figure of Kafka's father overshadowed his work as well as his existence. The figure is, in fact, one of his most impressive creations. In his imagination this coarse, practical, and domineering shopkeeper and patriarch who [worshipped](https://www.merriam-webster.com/dictionary/worshipped) nothing but material success and social advancement belonged to a race of giants and was an awesome, admirable, but repulsive tyrant. In Kafka's most important attempt at [autobiography](https://www.britannica.com/art/autobiography-literature), Brief an den Vater (written 1919; [Letter to Father](https://www.britannica.com/topic/Letter-to-Father)), a letter that never reached the addressee, Kafka attributed his failure to live, to cut loose from parental ties and establish himself in marriage and fatherhood, as well as his escape into [literature](https://www.britannica.com/art/literature), to the prohibitive father figure, which instilled in him the sense of his own impotence. He felt his will had been broken by his father. The conflict with the father is reflected directly in Kafka's story Das Urteil (1913; The Judgment). It is projected on a grander scale in Kafka's novels, which portray in [lucid](https://www.merriam-webster.com/dictionary/lucid), deceptively simple prose a man's desperate struggle with an overwhelming power, one that may persecute its victim (as in The Trial) or one that may be sought after and begged in vain for approval (as in Das Schloss [1926; The Castle]). Yet the roots of Kafka's anxiety and despair go deeper than his relationship with his father and family, with whom he chose to live in close and cramped proximity for the major part of his adult life. The source of Kafka's despair lies in a sense of ultimate isolation from true communion with all human beings—the friends he cherished, the women he loved, the job he detested, the society he lived in—and with God, or, as he put it, with true indestructible Being.
+
+The son of an [assimilated](https://www.merriam-webster.com/dictionary/assimilated) [Jew](https://www.britannica.com/topic/Jew-people) who held only perfunctorily to the religious practices and social formalities of the Jewish [community](https://www.merriam-webster.com/dictionary/community), Kafka was German in both language and [culture](https://www.merriam-webster.com/dictionary/culture). He was a timid, guilt-ridden, and obedient child who did well in elementary school and in the Altstädter Staatsgymnasium, an exacting [high school](https://www.britannica.com/topic/high-school) for the academic elite. He was respected and liked by his teachers. Inwardly, however, he rebelled against the [authoritarian](https://www.merriam-webster.com/dictionary/authoritarian) institution and the dehumanized humanistic curriculum, with its emphasis on rote learning and classical languages. Kafka's opposition to established society became apparent when, as an adolescent, he declared himself a [socialist](https://www.money/socialism) as well as an [atheist](https://www.britannica.com/topic/atheism). Throughout his adult life he expressed qualified sympathies for the socialists, he attended meetings of Czech [anarchists](https://www.britannica.com/topic/anarchism) (before [World War I](https://www.britannica.com/event/World-War-I)), and in his later years he showed marked interest and sympathy for a socialized [Zionism](https://www.britannica.com/topic/Zionism). Even then he was essentially passive and politically unengaged. As a Jew, Kafka was isolated from the German community in [Prague](https://www.britannica.com/place/Prague), but, as a modern intellectual, he was also alienated from his own Jewish heritage. He was sympathetic to Czech political and cultural [aspirations](https://www.merriam-webster.com/dictionary/aspirations), but his identification with German culture kept even these sympathies subdued. Thus, social isolation and rootlessness contributed to Kafka's lifelong personal unhappiness.
+
+## Kafka's double life
+
+Kafka did, however, become friendly with some German Jewish [intellectuals](https://www.merriam-webster.com/dictionary/intellectuals) and literati in Prague, and in 1902 he met [Max Brod](https://www.britannica.com/biography/Max-Brod). This minor literary artist became the most [intimate](https://www.merriam-webster.com/dictionary/intimate) and [solicitous](https://www.merriam-webster.com/dictionary/solicitous) of Kafka's friends, and eventually, as Kafka's literary executor, he emerged as the promoter, saviour, and interpreter of Kafka's writings and as his most influential biographer. The two men became acquainted while Kafka was studying law at the [University of Prague](https://www.britannica.com/topic/Charles-University). He received his doctorate in 1906, and in 1907 he took up regular employment with an insurance company. The long hours and exacting requirements of the Assicurazioni Generali, however, did not permit Kafka to devote himself to writing. In 1908 he found in Prague a job in the seminationalized Workers' Accident Insurance Institute for the Kingdom of Bohemia. There he remained until 1917, when [tuberculosis](https://www.britannica.com/science/tuberculosis) forced him to take [intermittent](https://www.merriam-webster.com/dictionary/intermittent) sick leaves and, finally, to retire (with a pension) in 1922, about two years before he died. In his job he was considered tireless and ambitious; he soon became the right hand of his boss, and he was esteemed and liked by all who worked with him.
+
+In fact, generally speaking, Kafka was a charming, intelligent, and humorous individual, but he found his routine office job and the exhausting double life into which it forced him (for his nights were frequently consumed in writing) to be excruciating [torture](https://www.britannica.com/topic/torture), and his deeper personal relationships were neurotically disturbed. The conflicting [inclinations](https://www.merriam-webster.com/dictionary/inclinations) of his complex and ambivalent personality found expression in his sexual relationships. Inhibition painfully disturbed his relations with Felice Bauer, to whom he was twice engaged before their final rupture in 1917. Later his love for Milena Jesenská Pollak was also thwarted. His health was poor and office work exhausted him. In 1917 he was diagnosed as having tuberculosis, and from then onward he spent frequent periods in sanatoriums.
+
+Died: June 3, 1924, Kierling, near Vienna, [Austria](https://www.britannica.com/place/Austria) (aged 40)
+
+In 1923 Kafka went to [Berlin](https://www.britannica.com/place/Berlin) to devote himself to writing. During a vacation on the Baltic coast later that year, he met Dora Dymant (Diamant), a young Jewish socialist. The couple lived in Berlin until Kafka's health significantly worsened during the spring of 1924. After a brief final stay in Prague, where Dymant joined him, he died of tuberculosis in a clinic near [Vienna](https://www.britannica.com/place/Vienna).
+
+## 二、《变形记》原文分析（Britannica）
+
+### Writing and publication
+
+In 1912 Kafka was at the [Prague](https://www.britannica.com/place/Prague) home of his lifelong friend, supporter, and fellow author [Max Brod](https://www.britannica.com/biography/Max-Brod) when he met a secretary named Felice Bauer. They struck up a [romantic](https://www.merriam-webster.com/dictionary/romantic) relationship. On November 17, 1912, Kafka wrote to Bauer in one of his daily letters (as translated by Stanley Corngold),
+
+I was simply too miserable to get out of bed.…I'll write you again today, even though I still have to run around a lot and shall write down a [short story](https://www.britannica.com/art/short-story) that occurred to me during my misery in bed and oppresses me with inmost intensity.
+
+Afterward, Kafka began writing The Metamorphosis, continuing his double life: working at an [insurance](https://www.britannica.com/money/insurance) company by day and writing fiction by night. Less than a week later he wrote to Bauer,
+
+Yes, that would be fine, to read this story aloud to you and be forced to hold your hand, for the story is a little horrible. It is called The Metamorphosis, it would give you a real scare.
+
+In later letters and diary entries, he would call the story "exceptionally repulsive," "infinitely repulsive," and "imperfect almost to the core." His efforts to write it were continually interrupted by the demands of his career, including a work trip to what is today Chrastava, [Czech Republic](https://www.britannica.com/place/Czech-Republic). Kafka complained about these interruptions in letters to Bauer, remarking how a story like The Metamorphosis should have been written nearly all at once so as to best preserve the most [creative](https://www.merriam-webster.com/dictionary/creative) energy. In 1913, after hearing Kafka read his unfinished story, one of his friends recommended it to a magazine publisher, who agreed to publish it. The Metamorphosis debuted in 1915 in Die Weissen Blätter and was then published as a stand-alone novella.
+
+"When Gregor Samsa woke up one morning from unsettling dreams, he found himself changed in his bed into a monstrous vermin." —The Metamorphosis as translated by Stanley Corngold, 1972
+
+Kafka and Bauer became engaged in 1914 only to split up a couple of months later. The two would [reconcile](https://www.merriam-webster.com/dictionary/reconcile) and once again become engaged in 1917 before going their separate ways for good at the end of the year. The letters that chronicle their relationship unveil a man unable or unwilling to part with his time, consumed both by working at his day job and by his writing. The relationship with Bauer was not Kafka's only unsuccessful romance; a flirtation with Milena Jesenská Pollak, who was married, would also dissolve before he met Dora Dymant (Diamant)—19 at the time—in 1923. Dymant would remain by Kafka's side until his death from tuberculosis in 1924 at age 40.
+
+Kafka's familial relationships were even more turbulent. His father, Hermann Kafka, represented all that was oppressive to the writer. In a 47-page letter addressed to his father that was never sent, Franz Kafka detailed how his father had set an unattainable standard and example for the son, prohibiting him from living freely. His mother, Julie Kafka, tended to support his father, which eroded her relationship with his son. Writing to Brod, Franz Kafka mentioned that he debated suicide because of the pressures his family placed on him. This conflict against a repressive force [manifests](https://www.merriam-webster.com/dictionary/manifests) in many of Kafka's works.
+
+Kafka's experiences transparently bled onto the pages of The Metamorphosis. Consider the story's [brusque](https://www.merriam-webster.com/dictionary/brusque) patriarch and the protagonist's monstrous otherness. Isolation—from companionship, from intimacy, from fulfillment—is a theme in both Kafka's life and his works. The Metamorphosis has been the paragon of this common theme, living on to exemplify the [Modernist](https://www.britannica.com/art/Modernism-art#ref282535) theme of alienation.
+
+"What has happened to me? he thought. It was no dream." —The Metamorphosis
+
+"Was he an animal, that music had such an effect upon him?" —The Metamorphosis
+
+## 三、PMC医学传记引语
+
+Franz Kafka was born in Prague, 13th July 1883, into a family of German Jews. The family was of German culture but as they belonged to the Ghetto, they were excluded from relationships with the German minority in Prague. Franz Kafka's father ruled the family with great Authority. "Faced with intolerance and the tyranny of my parents, I live with my family more as a stranger than a foreigner" he writes, and, in fact, he was doubly aware of feeling a foreigner, within his family and in his own City.
+
+He began to suffer from insomnia and became intolerant to noise. Changes occurred in his clinical picture, with onset of furuncolosis, asthenia, constipation as well as neuro-vegetative disorders. In 1912, he wrote to his friend Max Brod telling him that he had come very close to suicide. On August 9th 1917, tuberculosis was clearly evident, becoming manifest with haemoptysis. He spoke of the onset as follows: "It was about 4 o'clock in the morning. I woke up and was surprised by the strange amount of saliva in my mouth, I spat it out then decided to turn on the light. That is how it began. Crleni, I don't know if that is how it's written, but it is a suitable expression for this clearing of the throat. I thought it was never going to finish. How was I going to stop this fountain if I had never started it (…) This, then is the situation of this spiritual disease, tuberculosis" [1].
+
+He writes to Milena: "There – the brain no longer tolerated the worries and the pain inflicted upon it. He said: I can suffer this no longer; but, if there is still someone who is interested in preserving everything, may he relieve me of some of the weight, and it will be possible to still live for a little while. Then the lungs came forth, that – anyway – had nothing to lose. This negotiation between the brain and the lungs, which, not to my knowledge, was going on, must have been frightening [2]".
+
+And he writes again to Milena: "I am mentally handicapped, the lung disease is none other than an overflow of the mental disease".
+
+"Often his stories and novels show the characteristics of dreams, as if, in the night, whilst he was writing, he had fixed his fantasies, his hallucinations on paper" [3].
+
+## 四、卡夫卡博物馆 Biography
+
+3. 7. 1883 PRAGUE – 3. 6. 1924 KIERLING, AUSTRIA
+
+The most famous, world-renowned representative of Prague German literature, one of the most important prose writers of world literature of the 20th century. After studying law at the c. k. Karl-Ferdinand German University in Prague, he worked as a clerk in two insurance companies from 1907 to 1922. He considered writing to be his main calling in life, which was difficult to reconcile with office work, but which he nevertheless performed conscientiously. After the outbreak of pulmonary disease in 1917, he struggled with it in vain for seven years. He was extremely critical of his literary work. He released only a small part for book publication, mostly under duress. The majority of Kafka's work, which later made him much more famous worldwide, was only published thanks to his closest friend Max Brod, who did not respect Kafka's wish to mercilessly burn the manuscripts.
+
+## 五、主要引语摘录
+
+1. "面对我父母的狭隘和暴政，我与家人生活在一起，与其说是外国人，不如说是陌生人。" — 卡夫卡
+
+2. "大约凌晨四点，我醒来，惊讶于口中大量唾液……这就是精神疾病——结核病——的情况。" — 卡夫卡致Milena的信
+
+3. "我是精神残疾的，肺病不过是我精神疾病的溢出。" — 卡夫卡致Milena
+
+4. "这本书是一本刀，我用它的背面切入我的身体。" — 卡夫卡
+
+5. "我不写作，因为我认为有必要；我写作，是因为我想活下去。" — 卡夫卡
+
+6. "写作是一种深层的强迫，我无法抗拒。" — 卡夫卡日记
+
+7. "最深的绝望是不知道自己是谁。" — 卡夫卡
+
+8. "一天早晨，格里高尔·萨姆沙从不安的睡梦中醒来，发现自己躺在床上变成了一只巨大的昆虫。" — 《变形记》
+
+9. "在他的想象中，这个粗鲁、务实、专横的店主和族长……属于巨人一族，是一个令人敬畏、可敬但又令人厌恶的暴君。" — Britannica
+
+10. "绝望的根源在于与所有人真正交流的最终隔离。" — Britannica
+
+11. "卡夫卡式的故事和小说具有梦的特征，就好像在晚上写作时，他把他的幻想、他的幻觉固定在纸上。" — PMC
+
+12. "萨姆萨一家围绕着这只神奇的昆虫——这不过是平庸围绕着天才。" — 纳博科夫评《变形记》

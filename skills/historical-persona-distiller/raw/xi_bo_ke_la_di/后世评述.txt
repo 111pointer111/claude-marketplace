@@ -1,0 +1,63 @@
+# 希波克拉底 - 学术论文详细资料
+# 来源: PMC/NCBI - Hippocrates of Kos (460-377 BC): The Founder and Pioneer of Clinical Medicine
+# PMC11526839，约24,747字符
+
+## Abstract
+
+Hippocrates was the first physician in history to establish medicine as a science and to suggest the boundaries of physicians' behavior towards their patients. The Hippocratic Oath is applied in many healthcare systems worldwide as an ethical guide for doctors graduating from medical school. It determines modern medicine's most significant values, such as physicians' specialization to avoid harm and respect patients' privacy. In this study, we present Hippocrates' contributions to clinical medicine and his innovative ideas for the prevention, diagnosis, and treatment of disease.
+
+## Introduction and background
+
+One of the most well-known physicians of ancient Greece and possibly of all time, Hippocrates was born on the Aegean island of Kos during the fifth century, which was also famous as the golden age of Pericles. During the fifth century, a plethora of great personalities lived in Athens and contributed significantly in many fields of modern science and art.
+
+Being inspired by the innovative spirit of his age he was able to study medicine without religious prejudice but rather as a science that prevents, predicts, diagnoses, and treats diseases that are caused by environmental or hereditary factors.
+
+He was also successful in developing the basic aspects of many medical specialties, such as neurology, acute and respiratory medicine, and surgery and urology. Hippocrates was greatly influenced by the theory of the fifth-century philosopher Empedocles that nature was made of the four elements that are water, earth, fire, and wind, and thus the human body also consisted of four fluids or "humors" - black bile, yellow bile, phlegm, and blood - as well as four elemental conditions (hot, cold, dry, and moist). Health was associated, according to the great physician, with a balance of all these elements.
+
+Moreover, Hippocrates' medicine was influenced by many epidemics that roamed ancient Greece during his lifetime, such as the typhoid fever of Athens and Thessaly during the Peloponnesian War. These epidemics helped him develop his techniques on antisepsis and prevention of diseases.
+
+Furthermore, Hippocrates managed to combine his principles on physical examination and his ideals on the ethical rules of practicing medicine by establishing the Hippocratic Oath. This is a one-page oath given by doctors when they finish medical school and is used by many healthcare systems as guidance on professional behavior towards patients.
+
+## Main contributions to medicine
+
+By studying the collective work of Hippocrates we can find references for his contributions in clinical medicine. Such crucial phrases are the aphorisms, which consist of seven parts with short medical truths.
+
+### Prevention of Disease
+
+Another important aspect of Hippocrates' works that is widely applied in 21st-century medicine is the prevention of disease. The phrase "Κάλλιον το προλαμβάνειν του θεραπεύειν," which means that it is better to prevent than to treat a disease, was the cornerstone of his teachings and is based on the observation that healthy Mediterranean diet and daily moderate physical activity can prevent disease. The ancient Greeks believed that all maladies started from the gut and that walking was the best available medicine.
+
+### The Hippocratic Oath
+
+The Hippocratic Oath summarizes the main aspects of Hippocrates' way of thinking and most of its advice can be applied in modern-day medicine. The phrase "I will not harm" emphasizes the obligation of the physician to treat patients according to their specialized abilities.
+
+### Holistic Approach
+
+One of the most significant innovations of the founding father of clinical medicine was the holistic approach for the diagnosis and treatment of disease. This approach is based on the assumption that the human body is a sum of many parts that function in harmony and that if one part is ill, the balance will be affected and the whole person will suffer. Hippocrates considered that patients consisted of body, mind, and spirit and this is also the modern physicians' approach when treating a disease.
+
+## Contributions to medical specialties
+
+### Urology
+
+The work of Hippocrates contributed greatly to two sections of the urologic specialty. These were uroscopy, which is the macroscopic observation of urine, and the causes of lithiasis of the kidneys. Hippocrates also attributes stone formation to the quality of drinking water and to inflammation of the bladder neck, which causes urine stasis. Stone formation is mentioned to be more frequent in male children due to longer, narrower, and more angular urethra than in females. Added to this, Hippocrates was one of the first physicians to suggest an increase in fluid, especially water, intake to prevent lithiasis (stone formation).
+
+A crucial phrase from the Hippocratic Oath "I will not use the knife, not even, verily, on sufferers from stone, but I will give place to such as are craftsmen therein" recognizes the importance of specialization in medicine and can be acknowledged as the first reference to urology as a surgical specialty or "craft."
+
+### Acute and Respiratory Medicine
+
+The most important value that a physician should follow, according to Hippocrates, is a meticulous clinical examination, which includes careful observation of the patient and detailed history taking of his symptoms and signs. In emergency situations, Hippocrates and his students gave great attention to the patient's breathing pattern, pain, and look of their face which is called the Hippocratic face and is associated with serious conditions that could lead to death.
+
+In many of his works, acute respiratory conditions such as pneumonia, pleurisy, thoracic empyema, and airway obstruction, as well as their treatments are described.
+
+### Neurology
+
+Hippocrates considered the human body to be a sum of many parts that co-exist in a harmonic balance. One of the most fundamental parts of the body according to his writings was the brain. He claimed that the brain was the organ responsible for intelligence and consciousness. Conditions like hemiplegia, paraplegia, apoplexy, and epilepsy are often analyzed in his work.
+
+The ancient Greek physicians' treatise on the sacred disease, which was the name given to epilepsy before his time, contributed greatly to diminishing any theories of the divine origin of the disease and categorizing it as a relatively common brain disorder. Hippocrates considered the accumulation of black bile and mucus in the veins of the brain to be the cause of epilepsy, which he thought was a hereditary disorder. He proposed a conservative treatment with herbal potions and in serious cases surgical intervention with trepanning.
+
+### Surgery and Orthopedics
+
+Hippocrates was not only the founding father of clinical medicine but also laid the foundation of surgery. He clarified that it was a different specialty and only physicians specifically trained in surgical techniques should practice them. His works described surgical techniques of general surgery, urology, orthopedics, and neurosurgery.
+
+Contributions to antiseptic techniques: Some surgical interventions described are the puncture of a liver abscess, without injuring the liver capsule, and the drainage of ascitic fluid collection by a periumbilical incision. Most importantly, an antiseptic protocol was followed by Hippocrates and his followers before every procedure. This included cleaning the surgical field with boiled water, salt, seawater, and natural perfumes. Ligation of vessels was performed with cauterization and sutures made of animal intestines, which are still being used today in their improved forms. The skin of the incision was sutured or stapled and the surgical wound was cleaned with wine and other antiseptic ointments to prevent infection.
+
+Contributions to orthopedics: Last but not least, Hippocrates dedicated a whole volume of his works to orthopedics and traumatology, where he introduced innovative techniques to reduce bone fractures and joint dislocations and suggested treatments for osseous infections and gangrene.

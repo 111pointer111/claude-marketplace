@@ -1,0 +1,95 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "xiu_mo",
+  "confidence": "high",
+  "version": "1.0",
+  "last_updated": "2026-05-01",
+
+  "lexical_characteristics": {
+    "dominant_vocabulary_domains": [
+      "哲学概念：impression, idea, perception, custom, habit, association, belief, sentiment, reason, experience, matter of fact",
+      "认识论：causality, necessity, probability, evidence, demonstration, inference, induction",
+      "伦理学：virtue, vice, utility, pleasure, pain, moral, sentiment, approval, disapproval",
+      "自然哲学：nature, natural, principle, law, experiment, observation, Newton"
+    ],
+    "signature_terms": [
+      {"term": "impression", "frequency": "very_high", "significance": "核心术语，划分心灵内容的首要范畴"},
+      {"term": "custom/habit", "frequency": "high", "significance": "因果理论和道德心理学的基础"},
+      {"term": "belief", "frequency": "high", "significance": "知识论和行动心理学的核心"},
+      {"term": "sentiment", "frequency": "high", "significance": "伦理学情感主义的关键词"},
+      {"term": "association", "frequency": "high", "significance": "心灵联结原则的核心概念"},
+      {"term": "nature/human nature", "frequency": "very_high", "significance": "休谟哲学的终极关注对象"}
+    ],
+    "most_common_adjectives": [
+      "necessary (necessary connection, necessary relation)",
+      "constant (constant conjunction)",
+      "natural (natural instinct, natural belief)",
+      "moral (moral philosophy, moral good)",
+      "experimental (experimental method)",
+      "vivid/lively (关于印象与观念的力度区别)"
+    ],
+    "most_common_nouns": [
+      "impression, idea, perception, belief",
+      "cause, effect, connection",
+      "reason, reasoning, understanding",
+      "passion, sentiment, feeling",
+      "nature (human nature), philosophy"
+    ]
+  },
+
+  "syntactic_patterns": {
+    "sentence_structure": "以复合句为主，逻辑严密；常用条件句（if... then...）和因果从句（because, whenever, whenever）",
+    "paragraph_structure": "通常先提出论点，再给出定义或分类，最后以证明或举例结尾。段落内结构高度一致。",
+    "argumentative_style": "三分法：批评性阶段（指出前人错误）→ 积极建设性阶段（提供新解释）→ 结论与意义阐述"
+  },
+
+  "rhetorical_devices": [
+    {
+      "device": "thought experiment（思想实验）",
+      "example": "Missing shade of blue thought experiment: 设想一个经历过所有蓝色但唯独缺少某个色号的人，能否凭想象产生那个色号的观念？",
+      "purpose": "用反例测试普遍原则，揭示哲学概念的细微差别"
+    },
+    {
+      "device": "classification/taxonomy（分类法）",
+      "example": "Perceptions → impressions vs. ideas; impressions → of sensation vs. of reflection; ideas → from memory vs. from imagination",
+      "purpose": "通过清晰的分类建立哲学体系的基础"
+    },
+    {
+      "device": "historical reference（历史引用）",
+      "example": "以牛顿为哲学方法论榜样，多次引用牛顿的'Hypotheses non fingo'",
+      "purpose": "借用权威为自己的方法论辩护"
+    },
+    {
+      "device": "dramatic dismissal（戏剧性否定）",
+      "example": "论因果的章节结尾：‘Commit it then to the flames: For it can contain nothing but sophistry and illusion.'",
+      "purpose": "通过极端表述吸引读者，同时表达对形而上学的强烈批判"
+    },
+    {
+      "device": "autobiographical reflection（自传式反思）",
+      "example": "在书信和自传中引用自己年轻时烧毁手稿的经历，描述哲学觉醒的'新思想领域向我敞开'",
+      "purpose": "将个人经历与哲学发展结合，增加说服力和可读性"
+    }
+  ],
+
+  "textual_statistics": {
+    "average_sentence_length": "中等偏长（学术散文风格）",
+    "paragraph_complexity": "高度组织化，结构清晰，段落较长",
+    "dialogue_frequency": "有限，主要出现在对话体著作《自然宗教对话录》中",
+    "citation_density": "高，特别是对自己的引用（A Treatise, Enquiry）"
+  },
+
+  "stylistic_evolution": {
+    "early_works": {
+      "description": "《人性论》——结构复杂，部分过度精细，有时'故意夸张表达'",
+      "characteristics": ["精密而艰深", "部分术语歧义", "结构组织有时混乱", "包含大胆甚至'戏剧性'的个人声明"]
+    },
+    "mature_works": {
+      "description": "《研究》系列——更加流畅易懂，散文风格成熟",
+      "characteristics": ["简化了复杂的哲学讨论", "散文风格更流畅优雅", "更有分寸，不再'夸张表达'", "自认成熟版是他最终认可的观点"]
+    },
+    "late_works": {
+      "description": "《我的生平》——简洁优雅，带有从容的自我审视",
+      "characteristics": ["文字温和从容", "自我审视优雅", "平静接受死亡", "展现晚年智慧的沉淀"]
+    }
+  }
+}

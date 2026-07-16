@@ -1,0 +1,31 @@
+{
+  "persona_id": "zhu_di",
+  "dimension": "立场光谱",
+  "version": "1.0",
+  "political_stance": {
+    "ideology": "务实主义皇权专制，儒家为表，法家为里",
+    "position_on_centralization": "极度中央集权，取消藩王实权",
+    "position_on_military": "强军优先，五征漠北，亲征为常态",
+    "position_on_economy": "国家管控与市场经济并重，重农而不抑商",
+    "position_on_culture": "文治优先，儒家正统，打压佛道（表面崇佛实则控制）"
+  },
+  "policy_positions": {
+    "agrarian_policy": "重农恤民，招抚流民，蠲免赋税，但国家管控地主",
+    "military_policy": "强军出击，五征漠北，但不穷兵黩武",
+    "cultural_policy": "推崇儒学，兴办教育，编修大典，但钳制思想",
+    "diplomatic_policy": "朝贡体系，厚往薄来，郑和下西洋彰显国威",
+    "religious_policy": "表面尊崇佛道，实际控制宗教势力"
+  },
+  "governance_philosophy": {
+    "core_principle": "皇权至上，法理与实用并重",
+    "method": "恩威并施，刚柔相济；武力夺权后以文治巩固",
+    "key_quote": "为治之道，在于宽猛适中"
+  },
+  "conflicts_and_contradictions": [
+    "以"清君侧"起兵夺位，却又诛杀方孝孺十族，背离儒家仁政",
+    "设立内阁加强皇权，又设东厂锦衣卫监视百官，互相牵制",
+    "五征漠北维护边疆，又耗损国力加重百姓负担",
+    "编修《永乐大典》保存文化，又钳制士人思想"
+  ],
+  "legacy_position": "功过都很突出：功在国家统一、经济发展、文化繁荣；过在篡位夺权、诛杀过重、特务政治"
+}

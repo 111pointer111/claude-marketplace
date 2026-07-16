@@ -1,0 +1,56 @@
+{
+  "dimension": "立场光谱",
+  "summary": "托尔斯泰的政治立场复杂而充满张力：他是贵族出身却批判私有制，宣扬非暴力却同情革命者，反对国家暴力却支持和平改革。他的哲学根植于基督教博爱精神，但在政治光谱上，他既非传统左派（反对暴力革命）也非保守派（反对土地私有制和教会权威），更接近宗教社会主义或基督教无政府主义。",
+  "political_spectrum": {
+    "left_right_scale": "3/10（偏左，反私有制，主张土地公有）",
+    "progressive_conservative_scale": "7/10（进步，主张社会改革，拒绝传统教会）"
+  },
+  "key_positions": [
+    {
+      "topic": "土地制度/农民",
+      "position": "主张土地公有，废除土地私有制，采用亨利·乔治单一土地税；同情农民，认为农民是俄罗斯的根基；",
+      "evidence": "《复活》中：'the earth is no man's; it is God's... The land is common to all.'；百度百科：'1891年组织救济饥荒，在梁赞省和图拉省'。"
+    },
+    {
+      "topic": "暴力革命",
+      "position": "坚决反对暴力革命；认为暴力只能产生新的压迫而非真正变革；以非暴力不抵抗瓦解国家机器是唯一出路；",
+      "evidence": "百度百科：'他却反对暴力革命，宣扬基督教的博爱和自我修身，要从宗教、伦理中寻求解决社会矛盾的道路。'；JSTOR Daily：'By refusing to participate in violence, Tolstoy believed Christians could undermine the state.'"
+    },
+    {
+      "topic": "国家与政府",
+      "position": "基督教无政府主义——认为国家建立在对暴力的垄断之上，最终会自我消亡；政府通过教育、宗教 dogma 和税收来控制人民；",
+      "evidence": "JSTOR Daily：'Having been put in a position of power, however, government continued to perpetuate itself to protect its own interests. It did this by maintaining military, police, prisons, courts, and so on to intimidate and punish.'"
+    },
+    {
+      "topic": "宗教",
+      "position": "否定官方教会，接受宗法制农民的民间信仰；从基督登山宝训中提取博爱和非暴力作为基督教核心；接受上帝存在于每个人之中的泛神论倾向；",
+      "evidence": "百度百科：'他终于完全否定了官办教会，接受了宗法制农民的信仰。'；JSTOR Daily：'Tolstoy understood it [human nature] religiously. His guiding principles were derived from his interpretation of Christianity.'"
+    },
+    {
+      "topic": "艺术与文学",
+      "position": "晚期转向服务人民的文学观，认为艺术必须揭示社会不公；早期贵族式艺术（连同《战争与和平》在内）被其斥为'老爷式的游戏'；",
+      "evidence": "百度百科：'他还改变了文艺观，指斥自己过去的艺术作品包括《战争与和平》等巨著为「老爷式的游戏」。'"
+    },
+    {
+      "topic": "贵族与阶级",
+      "position": "出身贵族却彻底批判本阶级；亲自从事体力劳动，实践与贵族生活决裂；要求富人放弃财富，亲自劳动；",
+      "evidence": "JSTOR Daily：'Tolstoy felt that the rich must give up their wealth, give the land to those who would work it, and begin to labor themselves.'；百度百科：'从此托尔斯泰厌弃自己及周围的贵族生活，不时从事体力劳动，自己耕地、缝鞋，为农民盖房子，摒绝奢侈，持斋吃素。"
+    }
+  ],
+  "influences": [
+    "让-雅克·卢梭（早年佩戴其像章，崇拜其学说和为人）",
+    "亨利·乔治（土地经济学，单一土地税）",
+    "阿图尔·叔本华（1868-1869年研读其哲学）",
+    "基督登山宝训（博爱、非暴力）",
+    "俄国宗法制农民传统（民间信仰、劳动价值观）"
+  ],
+  "contradictions": [
+    "身为贵族批判贵族制——批评《战争与和平》却无法彻底割舍其文学生涯的经济基础",
+    "反对暴力革命却同情革命者——1905年欢迎革命，事后却反对沙皇的镇压暴力",
+    "放弃文学却继续写作——声称艺术是富人的游戏，却又从事写作以宣传思想",
+    "追求简朴生活却享有庄园经济支持——虽然亲自劳动，但庄园体制本身即为其道德信念的对立面",
+    "非暴力原则与历史责任感——认识到沙皇政权的压迫性质，却仍寄望于沙皇自上而下改革"
+  ],
+  "confidence": "high",
+  "confidence_rationale": "立场光谱有多个学术来源（JSTOR Daily、百度百科、Britannica）多角度支撑；六大议题各有原始文本依据；influences和contradictions均有具体历史事实支持。"
+}

@@ -1,0 +1,26 @@
+{
+  "persona_id": "shu_ben_hua",
+  "name_zh": "阿图尔·叔本华",
+  "name_en": "Arthur Schopenhauer",
+  "birth_death": "1788-1860",
+  "dynasty": "德国（近代理性主义时代）",
+  "confidence": "high",
+  "persona_type": "philosopher",
+  "philosophical_tradition": "唯意志论 / 非理性主义 / 悲观主义",
+  "key_influences": ["柏拉图", "康德", "奥义书", "斯宾诺莎", "佛教"],
+  "influenced_by": ["康德", "柏拉图", "歌德", "印度哲学"],
+  "key_works": [
+    "《作为意志和表象的世界》(1819)",
+    "《附录与补遗》(1851)",
+    "《论充足理由律的四重根》(1813)",
+    "《伦理学的两个基本问题》(1841)",
+    "《论大自然的意志》(1836)"
+  ],
+  "sources": [
+    "百度百科（阿图尔·叔本华）",
+    "Stanford Encyclopedia of Philosophy",
+    "Britannica"
+  ],
+  "source_languages": ["德语", "英语", "法语", "拉丁语", "汉语"],
+  "note": "此人物是哲学家而非诗人，不进行诗词采集。人物以格言体和哲学论述散文为核心产出。"
+}

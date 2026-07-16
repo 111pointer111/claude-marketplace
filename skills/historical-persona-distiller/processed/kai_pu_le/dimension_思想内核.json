@@ -1,0 +1,73 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "kai_pu_le",
+  "version": "1.0",
+  "confidence": "high",
+  "summary": "开普勒的核心思想可归结为四条：宇宙和谐论（日心说框架下的数学和谐）、太阳中心动力学（太阳主动推动行星）、椭圆轨道革命（打破2000年圆轨教条）、经验数学主义（用观测数据而非权威教条）。他既是最早的现代天文学家之一，也是最后的宇宙神秘主义者之一。",
+
+  "core_beliefs": [
+    {
+      "id": "K1",
+      "belief": "宇宙按数学 plan 创造，上帝是终极数学家",
+      "category": "宇宙本体论",
+      "weight": "critical",
+      "citations": [
+        "Kepler was convinced that God had made the Universe according to a mathematical plan (a belief found in the works of Plato and associated with Pythagoras). Since it was generally accepted at the time that mathematics provided a secure method of arriving at truths about the world (Euclid's common notions and postulates being regarded as actually true), we have here a strategy for understanding the Universe. (MacTutor)",
+        "For Kepler, there could be no doubt that God was the mathematician par excellence. (World History Encyclopedia)"
+      ]
+    },
+    {
+      "id": "K2",
+      "belief": "行星做椭圆运动，太阳位于椭圆的一个焦点",
+      "category": "天体动力学",
+      "weight": "critical",
+      "citations": [
+        "Kepler concluded that the orbit of Mars was an ellipse with the Sun in one of its foci (a result which when extended to all the planets is now called 'Kepler's First Law'), and that a line joining the planet to the Sun swept out equal areas in equal times as the planet described its orbit ('Kepler's Second Law'). (MacTutor)",
+        "Planets move around the Sun in ellipses, with the Sun at one focus. (World History Encyclopedia)"
+      ]
+    },
+    {
+      "id": "K3",
+      "belief": "太阳是宇宙的主动力源，通过某种类似磁力的力量推动行星",
+      "category": "天体动力学",
+      "weight": "critical",
+      "citations": [
+        "Kepler became convinced that it was the Sun that governed the orbits of the planets, somehow sending out a force that precisely controlled these observable orbits. In 1600, following his exposure to the theories presented in On the Magnet by William Gilbert, Kepler believed this mysterious power the Sun held over the other celestial bodies may be something like magnetism (but he did not say it was magnetism). (World History Encyclopedia)",
+        "My aim is this, to show that the celestial machine is not like a divine creature, but like a clock (he who believes the clock to be animate assigns the glory of the artificer to the work), insofar as nearly all the diversity of motions are caused by a simple, magnetic and corporeal force, just as all the motions of a clock are caused by a most simple weight. I will also show how this physical account is to be brought under mathematics and geometry. (World History Encyclopedia, quoting Kepler)"
+      ]
+    },
+    {
+      "id": "K4",
+      "belief": "行星公转周期平方与轨道平均距离立方成正比（和谐定律）",
+      "category": "天体动力学",
+      "weight": "critical",
+      "citations": [
+        "The Harmony of the World also contains what is now known as 'Kepler's Third Law', that for any two planets the ratio of the squares of their periods will be the same as the ratio of the cubes of the mean radii of their orbits. (MacTutor)",
+        "The squares of the times the planets take to go around the Sun are proportional to the cubes of their average distances from the Sun. (World History Encyclopedia)"
+      ]
+    },
+    {
+      "id": "K5",
+      "belief": "观测数据优先于几何教条；接受误差概念并用于验证模型",
+      "category": "科学方法论",
+      "weight": "high",
+      "citations": [
+        "It was crucial to Kepler's method of checking possible orbits against observations that he have an idea of what should be accepted as adequate agreement. From this arises the first explicit use of the concept of observational error. (MacTutor)",
+        "The actual process of calculation for Mars was immensely laborious - there are nearly a thousand surviving folio sheets of arithmetic - and Kepler himself refers to this work as 'my war with Mars', but the result was an orbit which agrees with modern results so exactly that the comparison has to make allowance for secular changes in the orbit since Kepler's time. (MacTutor)"
+      ]
+    },
+    {
+      "id": "K6",
+      "belief": "基督教自然哲学家使命：理解上帝创造的世界是基督徒的义务",
+      "category": "宗教与科学关系",
+      "weight": "high",
+      "citations": [
+        "Throughout his life, Kepler was a profoundly religious man. All his writings contain numerous references to God, and he saw his work as a fulfilment of his Christian duty to understand the works of God. Man being, as Kepler believed, made in the image of God, was clearly capable of understanding the Universe that He had created. (MacTutor)",
+        "The truly important non-rational element in Kepler's work is his Christianity. Kepler's extensive and successful use of mathematics makes his work look 'modern', but we are in fact dealing with a Christian Natural Philosopher, for whom understanding the nature of the Universe included understanding the nature of its Creator. (MacTutor)"
+      ]
+    }
+  ],
+
+  "inconsistencies": [],
+  "notes": "开普勒的思想中神学与科学并未分离——他的宇宙论既是数学的，也是神学的。他自称发现三大定律时的狂喜（"我仿佛在梦中"）与其一贯的理性主义方法论并不矛盾，因为他的宗教信念为数学探索提供了形而上学的合法性与动力。"
+}

@@ -1,0 +1,229 @@
+# Britannica - Adam Smith Biography
+# Source: https://www.britannica.com/biography/Adam-Smith
+
+Adam Smith (baptized June 5, 1723, Kirkcaldy, [Fife](https://www.britannica.com/place/Fife-council-area-Scotland), Scotland—died July 17, 1790, Edinburgh) was a [Scottish](https://www.britannica.com/place/Scotland) social [philosopher](https://www.britannica.com/topic/philosophy) and political economist, instrumental in the rise of [classical liberalism](https://www.britannica.com/topic/classical-liberalism).
+
+Adam Smith is a towering figure in the history of economic thought. Known primarily for a single work—[An Inquiry into the Nature and Causes of the Wealth of Nations](https://www.britannica.com/topic/the-Wealth-of-Nations) (1776), the first [comprehensive](https://www.merriam-webster.com/dictionary/comprehensive) system of [political economy](https://www.britannica.com/money/political-economy)—he is more properly regarded as a social philosopher whose economic writings [constitute](https://www.merriam-webster.com/dictionary/constitute) only the capstone to an overarching view of political and social evolution. If his masterwork is viewed in relation to his earlier lectures on [moral](https://www.merriam-webster.com/dictionary/moral) philosophy and government, as well as to [allusions](https://www.merriam-webster.com/dictionary/allusions) in The Theory of Moral Sentiments (1759) to a [work](https://www.britannica.com/money/work-economics) he hoped to write on "the general principles of [law](https://www.britannica.com/topic/law) and government, and of the different revolutions they have undergone in the different ages and periods of society," then The Wealth of Nations may be seen not merely as a [treatise](https://www.merriam-webster.com/dictionary/treatise) on [economics](https://www.britannica.com/money/economics) but also as a partial exposition of a much larger scheme of historical evolution.
+
+## Early life
+
+Much more is known about Adam Smith's thought than about his life. He was the son by second marriage of Adam Smith, comptroller of customs at [Kirkcaldy](https://www.britannica.com/place/Kirkcaldy), a small (population 1,500) but thriving fishing village near [Edinburgh](https://www.britannica.com/place/Edinburgh-Scotland), and Margaret Douglas, daughter of a substantial landowner. Of Smith's childhood nothing is known other than that he received his elementary schooling in Kirkcaldy and that at the age of four years he was said to have been carried off by gypsies. Pursuit was [mounted](https://www.britannica.com/dictionary/mounted), and young Adam was abandoned by his captors. "He would have made, I fear, a poor gipsy," commented the Scottish journalist John Rae (1845–1915), Smith's principal biographer.
+
+At the age of 14, in 1737, Smith entered the [University of Glasgow](https://www.britannica.com/topic/University-of-Glasgow), already remarkable as a centre of what was to become known as the [Scottish Enlightenment](https://www.britannica.com/place/Scotland/The-Scottish-Enlightenment#ref44606). There he was deeply influenced by [Francis Hutcheson](https://www.britannica.com/biography/Francis-Hutcheson), a famous professor of moral philosophy from whose economic and philosophical views he was later to diverge but whose magnetic character seems to have been a main shaping force in Smith's development. Graduating in 1740, Smith won a scholarship (the Snell Exhibition) and traveled on horseback to [Oxford](https://www.britannica.com/topic/University-of-Oxford), where he stayed at Balliol College. Compared with the [stimulating](https://www.merriam-webster.com/dictionary/stimulating) atmosphere of Glasgow, Oxford was an educational desert. His years there were spent largely in self-education, from which Smith obtained a firm grasp of both classical and contemporary [philosophy](https://www.britannica.com/topic/philosophy).
+
+Returning to his home after an absence of six years, Smith cast about for suitable employment. The connections of his mother's family, together with the support of the jurist and philosopher [Lord Henry Home Kames](https://www.britannica.com/biography/Henry-Home-Lord-Kames), resulted in an opportunity to give a series of public lectures in Edinburgh—a form of education then much in vogue in the prevailing spirit of "improvement." The lectures, which ranged over a wide variety of subjects from [rhetoric](https://www.britannica.com/topic/rhetoric) to history and economics, made a deep impression on some of Smith's notable contemporaries. They also had a marked influence on Smith's own career, for in 1751, at the age of 27, he was appointed professor of [logic](https://www.britannica.com/topic/logic) at Glasgow, from which post he transferred in 1752 to the more remunerative professorship of moral philosophy, a subject that embraced the related fields of natural [theology](https://www.britannica.com/topic/theology), [ethics](https://www.britannica.com/topic/ethics-philosophy), [jurisprudence](https://www.britannica.com/science/jurisprudence), and political economy.
+
+## Glasgow
+
+Smith then entered upon a period of extraordinary creativity, combined with a social and [intellectual](https://www.merriam-webster.com/dictionary/intellectual) life that he afterward described as "by far the happiest, and most honourable period of my life." During the week he lectured daily from 7:30 to 8:30 am and again thrice weekly from 11 am to noon, to classes of up to 90 students, aged 14 to 16. (Although his lectures were presented in English rather than in Latin, following the precedent of Hutcheson, the level of sophistication for so young an audience strikes one today as extraordinarily demanding.) Afternoons were occupied with university affairs in which Smith played an active role, being elected dean of faculty in 1758; his evenings were spent in the stimulating company of Glasgow society.
+
+Among his wide circle of acquaintances were not only members of the [aristocracy](https://www.merriam-webster.com/dictionary/aristocracy), many connected with the government, but also a range of intellectual and scientific figures that included [Joseph Black](https://www.britannica.com/biography/Joseph-Black), a pioneer in the field of chemistry; [James Watt](https://www.britannica.com/biography/James-Watt), later of steam-engine fame; [Robert Foulis](https://www.britannica.com/biography/Robert-Foulis), a distinguished printer and publisher and subsequent founder of the first British Academy of Design; and, not least, the philosopher [David Hume](https://www.britannica.com/biography/David-Hume), a lifelong friend whom Smith had met in Edinburgh. Smith was also introduced during these years to the company of the great merchants who were carrying on the colonial trade that had opened to [Scotland](https://www.britannica.com/place/Scotland) following its union with England in 1707. One of them, Andrew Cochrane, had been a provost of Glasgow and had founded the famous Political Economy Club. From Cochrane and his fellow [merchants](https://www.merriam-webster.com/dictionary/merchants) Smith undoubtedly acquired the detailed information concerning trade and business that was to give such a sense of the real world to The Wealth of Nations.
+# Wikipedia - Adam Smith
+# Source: https://en.wikipedia.org/wiki/Adam_Smith
+
+Adam Smith (baptised 16 June [O.S. 5 June] 1723 – 17 July 1790) was a Scottish economist and philosopher who was a pioneer in the field of political economy and key figure during the Scottish Enlightenment. Seen by many as the "father of economics", or the "father of capitalism", he is primarily known for two classic works: The Theory of Moral Sentiments (1759) and An Inquiry into the Nature and Causes of the Wealth of Nations (1776). The latter, often abbreviated as The Wealth of Nations, is regarded as his magnum opus, marking the inception of modern economic scholarship as a comprehensive system and an academic discipline.
+
+Born in Kirkcaldy, Fife, he studied social philosophy at the University of Glasgow and at the University of Oxford, where he was one of the only students to benefit from scholarships set up by John Snell. Following his graduation, he delivered a successful series of public lectures at the University of Edinburgh, that met with acclaim. This led to a collaboration with David Hume during the Scottish Enlightenment. Smith obtained a professorship at Glasgow, where he taught moral philosophy. During this period, he wrote and published The Theory of Moral Sentiments. Subsequently, he assumed a tutoring position that facilitated travel throughout Europe, where he encountered intellectual figures of his era.
+
+In response to the prevailing policy of safeguarding national markets and merchants through the reduction of imports and the augmentation of exports, a practice that came to be known as mercantilism, Smith laid the foundational principles of classical free-market economic theory. The Wealth of Nations was a precursor to the modern academic discipline of economics. In this and other works, he developed the concept of division of labour and expounded upon how rational self-interest and competition can lead to economic prosperity. Smith was controversial in his day and his general approach and writing style were often satirised by writers such as Horace Walpole.
+
+Adam Smith was born in Kirkcaldy, in Fife, Scotland. His father, Adam Smith senior, was a Scottish Writer to the Signet (senior solicitor), advocate and prosecutor (judge advocate) and also served as comptroller of the customs in Kirkcaldy. Smith's mother was born Margaret Douglas, daughter of the landed Robert Douglas of Strathendry, also in Fife; she married Smith's father in 1720. Two months before Smith was born, his father died, leaving his mother a widow. The date of Smith's baptism into the Church of Scotland at Kirkcaldy was 5 June 1723 and this has often been treated as if it were also his date of birth, which is unknown.
+
+Although few events in Smith's early childhood are known, the Scottish journalist John Rae, a biographer of Smith, recorded that Smith was abducted by Romani at the age of three and released when others went to rescue him. Smith was close to his mother, who probably encouraged him to pursue his scholarly ambitions. He attended the Burgh School of Kirkcaldy—characterised by Rae as "one of the best secondary schools of Scotland at that period"—from 1729 to 1737, learning Latin, mathematics, history and writing.
+
+Smith entered the University of Glasgow at age 14 and studied moral philosophy under Francis Hutcheson. Here he developed his passion for the philosophical concepts of reason, civilian liberties and the freedom of speech. In 1740 he was the graduate scholar presented to undertake postgraduate studies at the Balliol College of the University of Oxford, under the Snell Exhibition.
+
+Smith considered the teaching at Glasgow to be far superior to that at Oxford, which he found intellectually stifling. In Book V, Chapter II of The Wealth of Nations, he wrote: "In the University of Oxford, the greater part of the public professors have, for these many years, given up altogether even the pretence of teaching." Smith is also reported to have complained to friends that Oxford officials once discovered him reading a copy of David Hume's A Treatise of Human Nature, and they subsequently confiscated his book and punished him severely for reading it. According to William Robert Scott, "The Oxford of [Smith's] time gave little if any help towards what was to be his lifework." Nevertheless, he took the opportunity while at Oxford to teach himself several subjects by reading many books from the shelves of the large Bodleian Library. When Smith was not studying on his own, his time at Oxford was not a happy one, according to his letters. Near the end of his time there, he began suffering from shaking fits, probably the symptoms of a nervous breakdown. He left Oxford in 1746, before his scholarship ended.
+
+Smith's curriculum at Glasgow included logic, metaphysics, moral philosophy, and natural philosophy. Under Hutcheson, Smith debated questions of natural justice, fair exchange, and the moral dimensions of commerce; themes which would be reflected in The Wealth of Nations. Hutcheson argued that workers deserved compensation sufficient to sustain themselves and their families, a concept Smith would later develop into his broader theory of natural wage levels.
+
+Smith began delivering public lectures in 1748 at the University of Edinburgh, sponsored by the Philosophical Society of Edinburgh under the patronage of Lord Kames. His lecture topics included rhetoric and belles-lettres, and later the subject of "the progress of opulence". On this latter topic, he first expounded his economic philosophy of "the obvious and simple system of natural liberty". While Smith was not adept at public speaking, his lectures met with success.
+
+In 1750 Smith met the philosopher David Hume, who was his senior by more than a decade. In their writings covering history, politics, philosophy, economics, and religion, Smith and Hume shared closer intellectual and personal bonds than with other important figures of the Scottish Enlightenment.
+
+In 1751 Smith earned a professorship at Glasgow teaching logic courses, and in 1752, he was elected a member of the Philosophical Society of Edinburgh, having been introduced to the society by Henry Home, Lord Kames. The following year, when the position of head of Moral Philosophy in Glasgow became vacant, Smith took over the role. He worked as an academic for the next 13 years, which he characterised as "by far the most useful and therefore by far the happiest and most honorable period [of his life]".
+
+Smith published The Theory of Moral Sentiments in 1759, embodying some of his Glasgow lectures. This work was concerned with how human morality depends on sympathy between agent and spectator, or the individual and other members of society. Smith defined "mutual sympathy" as the basis of moral sentiments. He based his explanation, not on a special "moral sense" as Anthony Ashley-Cooper, 3rd Earl of Shaftesbury, and Hutcheson had done, nor on utility as Hume did, but on mutual sympathy, a term best captured in modern parlance by the 20th-century concept of empathy, the capacity to recognise feelings that are being experienced by another being.
+
+Following the publication of The Theory of Moral Sentiments, Smith became so popular that many wealthy students left their schools in other countries to enroll at Glasgow to learn under Smith. At this time, Smith began to give more attention to jurisprudence and economics in his lectures and less to his theories of morals. For example, Smith lectured that the cause of increase in national wealth is labour, rather than the nation's quantity of gold or silver, which is the basis for mercantilism, the economic theory that dominated Western European economic policies at the time.
+
+In 1762 the University of Glasgow conferred on Smith the title of Doctor of Laws (LL.D.). At the end of 1763, he obtained an offer from the chancellor of the exchequer, Charles Townshend—to tutor his stepson, Henry Scott, the young Duke of Buccleuch as preparation for a career in international politics. Smith resigned from his professorship in 1764 to take the tutoring position. He subsequently attempted to return the fees he had collected from his students because he had resigned partway through the term, but his students refused.
+
+Smith's tutoring job entailed touring Europe with Scott, during which time he educated Scott on a variety of subjects. He was paid £300 per year (plus expenses) along with a £300-per-year pension; roughly twice his former income as a teacher. Smith first travelled as a tutor to Toulouse, France, where he stayed for a year and a half. According to his own account, he found Toulouse to be somewhat boring, having written to Hume that he "had begun to write a book to pass away the time". After touring the south of France the group moved to Geneva, where Smith met the French writer and philosopher Voltaire. From Geneva, the party moved to Paris. Here, Smith met the American publisher and diplomat Benjamin Franklin. In Paris Smith encountered the Physiocracy school founded by François Quesnay and conversed with their intellectuals. Given that the British economy of the day yielded an income distribution that stood in contrast to that which existed in France, Smith concluded that "with all its imperfections, [the Physiocratic school] is perhaps the nearest approximation to the truth that has yet been published upon the subject of political economy."
+
+In 1766 Henry Scott's younger brother died in Paris, and Smith's tour as a tutor ended shortly thereafter.
+# World History Encyclopedia - Adam Smith
+# Source: https://www.worldhistory.org/Adam_Smith/
+
+Adam Smith (1723-1790) was a Scottish philosopher, economist, and leading Enlightenment figure. In The Wealth of Nations, he advocates free trade and limited interference in markets by governments, for which he is seen as the founder of liberal economics. Regarded incorrectly as a champion of laissez-faire economics, Smith supported state intervention in important areas like the education of workers.
+
+## Early Life
+
+Adam Smith was born into a landowning family living in Kirkcaldy, located to the north of Edinburgh across the Firth of Forth in Scotland, c. 5 June 1723. Smith's father, also called Adam, worked as a customs official while his mother, Margaret Douglas, did not need to work thanks to a significant land inheritance. Smith studied literature at both the University of Glasgow and, thanks to winning a scholarship, at Balliol College, Oxford, from 1740. He left Oxford in 1746, and from 1748, he gave public lectures in Edinburgh with great success. In 1751, Smith was appointed the Professor of Logic at the University of Glasgow, and the next year, he became the Professor of Moral Philosophy, a position he held until 1764. Smith cultivated friendships with other Scottish philosophers, most notably David Hume (1711-1776), and men of business like the merchant Andrew Cochrane (1693-1777).
+
+## Moral Philosophy
+
+Smith's first major work was The Theory of Moral Sentiments, published in 1759. Here, Smith presents his views on moral philosophy, which emphasise:
+
+Stoic virtues, and in particular that of self command. Smith's man of perfect virtue "joins to the most perfect command of his own original and selfish feelings, the most exquisite sensibility both to the original and sympathetic feelings of others."
+(Blackburn, 446)
+
+Smith systematically investigated the best political system that could provide a nation with the greatest economic success.
+
+This positive view of an individual's use of reason, restraint, and sympathy and empathy for others was encouraged by what Smith called an "inner person" or "impartial spectator" (what we might alternatively call the voice of one's conscience). This view greatly influenced how Smith saw the best political system working for the greater good of the state's economy.
+
+## The Wealth of Nations
+
+Adam Smith's political philosophy is presented in his book Inquiry into the Nature and Causes of the Wealth of Nations (often simply called The Wealth of Nations), which was first published in 1776. As the full title suggests, Smith's intention was to systematically and objectively investigate the best political system that could provide a nation with the greatest economic success, much like contemporary scientists were trying to do in the fields of physics, astronomy, medicine, and mathematics during the Scientific Revolution. Smith is realistic, unsentimental, and optimistic in his determination to improve the human condition. He believes in progress and that humanity is currently in a fourth stage of existence, what he calls the age of commerce (the previous three, in order, were the age of hunters, shepherds, and agriculture). These stages were based on Smith's extensive studies in history and contemporary trade. Commerce, for Smith, is the inevitable concluding stage since humans are social and trade is a social activity. Further, a thriving economy is based on a complex web of interdependence between people of all kinds.
+
+Smith proposed the labour theory of value based on this interconnectedness between humans in the world of trade. That is, he highlighted the difference between the use value and the exchange value of something. For example, an old record player might be very useful to its owner to listen to their vinyl collection, but if few other people want such an item, then it has little value in terms of exchanging it for something else (most obviously cash). The exchange value of an item is related to how many people want to own such a thing, how difficult it is to obtain, how much labour it will save the buyer if they own it, and how much labour and what kind of labour is required to produce it. Smith elaborates on his theory by stating that the value of a person's labour is based on several factors, such as scarcity of skills, difficulty and danger of the work, and the length of education required to do the work, amongst many other factors.
+
+Smith was also determined to show in his book that the Christian dislike of wealth, based on such biblical passages as "it is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God" (Matthew 19:24), had no foundation in nature and no place in modern economics. Indeed, Smith argued that helping the rich get rich generally helped everyone in society since those who were not rich would strive to improve themselves in imitation of those whom they saw as successful.
+
+## A Free(ish) Market
+
+Smith believed that the state should interfere in economic markets only when it is necessary to prevent a situation of unfair competition. Essentially, then, the state should leave the economy to itself since it would be guided by what he called the 'Invisible Hand' of the market, a system of perfect liberty where the economy is self-adjusting as it adapts to continuous changes in production and consumption based on people's self-interest (much like gravity dictates how planets move in space). This idea later developed into laissez-faire economics (literally "leave things alone"), where any and all barriers and interference that might impede trade and commerce are eliminated. This was something beyond what Smith himself proposed. Smith believed in free international trade and was against such common policies as protecting domestic industries using import duties in the face of cheap imports (mercantilism).
+# Britannica - The Wealth of Nations
+# Source: https://www.britannica.com/topic/The-Wealth-of-Nations
+
+The Wealth of Nations, work by the Scottish economist and philosopher Adam Smith, first published in 1776, that became a foundational study in the history of economics and the first formulation of a comprehensive system of political economy.
+
+Despite its renown as the first great work of political economy, The Wealth of Nations is in fact a continuation of a philosophical theme begun in an earlier work by Smith, The Theory of Moral Sentiments (1759). The ultimate problem to which Smith addresses himself is how the struggle between what he calls the "inner man" (the capacity of individuals to impartially approve or condemn their own and others' actions with a voice impossible to disregard) and individuals' passions for self-preservation and self-interest works its effects in the larger arena of history, both in the long-run evolution of society and in terms of the immediate characteristics of the stage of history typical of Smith's own day.
+
+The answer to this problem begins in Book V, "Of the Revenue of the Sovereign or Commonwealth," in which Smith outlines the four main stages of organization through which society is impelled, unless blocked by wars, deficiencies of resources, or bad policies of government: the original "rude" state of hunters; a second stage of nomadic agriculture; a third stage of feudal, or manorial, "farming"; and a fourth and final stage of commercial interdependence.
+
+It should be noted that each of these stages is accompanied by institutions suited to its needs. For example, in the age of hunters, "there is scarce any property…; so there is seldom any established magistrate or any regular administration of justice." With the advent of flocks there emerges a more complex form of social organization, comprising not only "formidable" armies but the central institution of private property with its indispensable buttress of law and order as well. It is the very essence of Smith's thought that he recognized this institution, whose social usefulness he never doubted, as an instrument for the protection of privilege, rather than one to be justified in terms of natural law: "Civil government," he wrote, "so far as it is instituted for the security of property, is in reality instituted for the defence of the rich against the poor, or of those who have some property against those who have none at all." Finally, Smith describes the evolution through feudalism into a stage of society requiring new institutions, such as market-determined rather than guild-determined wages and free rather than government-constrained enterprise. This later became known as laissez-faire capitalism; Smith called it the system of perfect liberty.
+
+There is an obvious resemblance between this succession of changes in the material basis of production, each bringing its requisite alterations in the superstructure of laws and civil institutions, and the Marxian conception of history. Although the resemblance is indeed remarkable, there is also a crucial difference: in the Marxian scheme the engine of evolution is ultimately the struggle between contending socioeconomic classes, whereas in Smith's philosophical history the primal moving agency is "human nature" driven by the desire for self-betterment and guided (or misguided) by the faculties of reason.
+
+## Society and the "invisible hand"
+
+The theory of historical evolution, although it is perhaps the binding conception of The Wealth of Nations, is subordinated within the work itself to a detailed description of how the "invisible hand" actually operates within the commercial, or final, stage of society. This becomes the focus of Books I and II, in which Smith undertakes to elucidate two questions. The first is how a system of perfect liberty, operating under the drives and constraints of human nature and intelligently designed institutions, will give rise to an orderly society.
+
+This orderliness, as would be expected, was produced by the interaction of the two aspects of human nature: its response to its passions and its susceptibility to reason and sympathy. But whereas The Theory of Moral Sentiments had relied mainly on the presence of the "inner man" to provide the necessary restraints to private action, in The Wealth of Nations one finds an institutional mechanism that acts to reconcile the disruptive possibilities inherent in a blind obedience to the passions alone. This protective mechanism is competition, an arrangement by which the passionate desire for bettering one's condition—"a desire that comes with us from the womb, and never leaves us until we go into the grave"—is turned into a socially beneficial agency by pitting one person's drive for self-betterment against another's.
+
+It is in the unintended outcome of this competitive struggle for self-betterment that the invisible hand regulating the economy shows itself, for Smith explains how mutual vying forces the prices of commodities down to their "natural" levels, which correspond to their costs of production. Moreover, by inducing labour and capital to move from less to more profitable occupations or areas, the competitive mechanism constantly restores prices to these "natural" levels despite short-run aberrations. Finally, by explaining that wages and rents and profits (the constituent parts of the costs of production) are themselves subject to this same discipline of self-interest and competition, Smith not only provided an ultimate rationale for these "natural" prices but also revealed an underlying orderliness in the distribution of income itself among workers, whose recompense was their wages; landlords, whose income was their rents; and manufacturers, whose reward was their profits.
+
+## Economic growth
+
+Smith's analysis of the market as a self-correcting mechanism was impressive. But his purpose was more ambitious than to demonstrate the self-adjusting properties of the system. Rather, it was to show that, under the impetus of the acquisitive drive, the annual flow of national wealth could be seen to grow steadily.
+
+Smith's explanation of economic growth, although not neatly assembled in one part of The Wealth of Nations, is quite clear. The core of it lies in his emphasis on the division of labour (itself an outgrowth of the "natural" propensity to trade) as the source of society's capacity to increase its productivity. The Wealth of Nations opens with a famous passage on the division of labour in a pin factory.
+# University of Glasgow - Adam Smith: Life, Work and Legacy
+# Source: https://www.gla.ac.uk/explore/adamsmith300/lifeworkandlegacy/glasgow/
+
+In 1737, at the young - but for the time not unusual - age of 14, Smith began his studies at the University of Glasgow. Much like today, the university used a four-year system. However, Smith's exceptional Latin skills granted him entry straight into to second year. At this time, class sizes were very small, with only 200 students in attendance at the entire university.
+
+In the 1700s, the university was already well known and respected, with leaders of the Scottish Enlightenment holding court in the lecture theatres. Lectures were held in the Old College, which sprawled across 26 acres of land on Glasgow's High Street.
+
+### Smith the student
+
+Smith studied logic, metaphysics, maths, Newtonian physics, and moral philosophy under the tutelage of some of the leading scholars of the day, including Francis Hutcheson and Robert Simpson. In the afternoons, classes would have been smaller and more intimate, much like the seminars of today. Sadly, we have no record of the essays or coursework written by Smith. In the mornings, Smith would have attended a large lecture with his fellow classmates.
+
+At the time, it was common for students to not officially graduate, and instead end their studies when they felt their education was complete. For this reason, Smith never graduated from the University of Glasgow. In 1740, Smith was awarded the Snell Scholarship, which is still in existence today, and left Glasgow to study at Balliol College, Oxford.
+
+### Smith the academic
+
+In 1751, Smith returned to the University of Glasgow as a Professor of Logic, but quickly became a Professor of Moral Philosophy, which better aligned with his interests. In addition to courses in philosophy and jurisprudence, Smith also lectured on literature, language and history. Like many academics at this time, Smith was a polymath, with diverse interests. Moreover, disciplinary boundaries were not as established as they are now.
+
+As a professor, Smith was respected and well-liked by his students. At this time, a professor's salary was directly tied to their students' fees and as his reputation grew, Smith attracted students from all over the world. For instance, students travelled from Switzerland, Russia and the American Colonies to attend his lectures.
+
+Inspired by Francis Hutcheson, Smith adopted a teaching method which involved pacing up and down the rows of students. However, he quickly found he preferred to stand by his lectern and speak from his notes from the front of the class, finding confidence in his own lecturing style.
+
+Smith was known to dislike students who took copious lecture notes, or 'scribblers' as he called them, and encouraged his students to listen and reflect on the lecture's content instead.
+
+From 1758 to 1760, Smith acted as "Quaestor", making him responsible for purchasing books for the library. Today, the University Library still holds several of Smith's purchases, such as a copy of Diderot's Encyclopédie. Smith also assumed the role of Dean of Faculty between 1760 and 1762, making him responsible for the recruitment, appointment, and retention of academic staff. During this time Smith also acted as "Praeses" who presided over university meetings when the Rector and the official Vice Rector were unavailable. Smith was promoted to Vice Rector in 1763.
+
+Smith was also an active member of the broader intellectual community in Glasgow, taking part in lively discourse at "Town and Gown" exchanges and was a member of a number of literary societies, some of whom still exist today. These debates with his respected contemporaries and businessmen influenced the development of Smith's best-known work, the Wealth of Nations.
+
+Though Smith led a very busy academic life and held many responsibilities while at Glasgow, he also made time to write and publish the first edition of The Theory of Moral Sentiments in 1759, developing upon the principles and concepts explored in his lectures.
+
+His final connection with Glasgow University came in 1787 when he assumed the prominent position of Rector in 1787. Though this position was largely ceremonial, Smith took the role seriously, ensuring that he kept up to date with meeting minutes. In a letter of thanks for the honour he wrote that remembered his professorial days at Glasgow University as "By far the most useful and therefore as by far the happiest and most honourable period of my life."
+# 亚当·斯密引语集
+# Sources: Britannica, Wikipedia, World History Encyclopedia, Panmure House
+
+## 关于自身治学经历
+
+1. "By far the most useful and therefore as by far the happiest and most honourable period of my life."
+   — Smith wrote this in a letter of thanks for the honour of being elected Rector of Glasgow University in 1787, remembering his professorial days.
+   Source: University of Glasgow
+
+2. "In the University of Oxford, the greater part of the public professors have, for these many years, given up altogether even the pretence of teaching."
+   — Book V, Chapter II of The Wealth of Nations
+   Source: Wikipedia
+
+3. "I have begun to write a book to pass away the time."
+   — Smith wrote to Hume from Toulouse, France, during his tutoring tour.
+   Source: Wikipedia
+
+## 关于市场与竞争
+
+4. "It is not from the benevolence of the butcher, the brewer, or the baker, that we expect our dinner, but from their regard to their own interest."
+   Source: Panmure House / Adam Smith Quotes FAQ
+
+5. "No society can surely be flourishing and happy, of which the far greater part of the members are poor and miserable."
+   Source: Panmure House / Adam Smith Quotes FAQ
+
+6. "Civil government, so far as it is instituted for the security of property, is in reality instituted for the defence of the rich against the poor, or of those who have some property against those who have none at all."
+   Source: Britannica, The Wealth of Nations
+
+7. "The desire that comes with us from the womb, and never leaves us until we go into the grave."
+   — Describing competitive self-betterment drive
+   Source: Britannica, The Wealth of Nations
+
+## 关于无形之手
+
+8. "The invisible hand" — the idea that individuals pursuing self-interest unintentionally benefit society.
+   Source: World History Encyclopedia
+
+## 关于道德哲学
+
+9. "Smith defined 'mutual sympathy' as the basis of moral sentiments."
+   Source: Wikipedia
+
+10. "Smith's man of perfect virtue 'joins to the most perfect command of his own original and selfish feelings, the most exquisite sensibility both to the original and sympathetic feelings of others.'"
+    Source: World History Encyclopedia, citing Blackburn
+
+## 关于劳动与价值
+
+11. "In the age of hunters, 'there is scarce any property…; so there is seldom any established magistrate or any regular administration of justice.'"
+    Source: Britannica, The Wealth of Nations
+
+12. "With all its imperfections, [the Physiocratic school] is perhaps the nearest approximation to the truth that has yet been published upon the subject of political economy."
+    Source: Wikipedia, citing Smith's assessment of Physiocracy
+
+## 关于牛津大学
+
+13. "The Oxford of [Smith's] time gave little if any help towards what was to be his lifework."
+    — William Robert Scott
+    Source: Wikipedia
+
+14. "He would have made, I fear, a poor gipsy."
+    — John Rae commenting on Smith's abduction by Romani at age three
+    Source: Britannica
+# 亚当·斯密后世评述
+
+## Britannica 评价
+"Adam Smith is a towering figure in the history of economic thought. Known primarily for a single work—An Inquiry into the Nature and Causes of the Wealth of Nations (1776)... he is more properly regarded as a social philosopher whose economic writings constitute only the capstone to an overarching view of political and social evolution."
+
+"Smith refuses to explain the distribution of wealth and power in terms of divine will and instead appeals to natural, political, social, economic, legal, environmental and technological factors."
+
+## World History Encyclopedia 评价
+"Regarded incorrectly as a champion of laissez-faire economics, Smith supported state intervention in important areas like the education of workers."
+
+"Smith is realistic, unsentimental, and optimistic in his determination to improve the human condition. He believes in progress."
+
+## 经济学史评价
+"Smith proposed the labour theory of value based on this interconnectedness between humans in the world of trade."
+
+"The Wealth of Nations opens with a famous passage on the division of labour in a pin factory."
+
+"Smith was also determined to show in his book that the Christian dislike of wealth had no foundation in nature and no place in modern economics."
+
+## 思想史比较
+"There is an obvious resemblance between this succession of changes in the material basis of production... and the Marxian conception of history. Although the resemblance is indeed remarkable, there is also a crucial difference: in the Marxian scheme the engine of evolution is ultimately the struggle between contending socioeconomic classes, whereas in Smith's philosophical history the primal moving agency is 'human nature' driven by the desire for self-betterment."
+— Britannica
+
+## 关于亚当·斯密的教育风格
+"Smith was known to dislike students who took copious lecture notes, or 'scribblers' as he called them, and encouraged his students to listen and reflect on the lecture's content instead."
+— University of Glasgow

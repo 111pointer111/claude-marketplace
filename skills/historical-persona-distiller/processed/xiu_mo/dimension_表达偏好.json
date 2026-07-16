@@ -1,0 +1,95 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "xiu_mo",
+  "confidence": "high",
+  "version": "1.0",
+  "last_updated": "2026-05-01",
+
+  "medium_preferences": {
+    "primary_forms": [
+      {
+        "form": "philosophical_treatise",
+        "examples": ["《人性论》《自然宗教对话录》"],
+        "characteristics": "系统化论证书面散文，适合复杂哲学论证"
+      },
+      {
+        "form": "enquiry/essay",
+        "examples": ["《人类理解研究》《道德原理研究》"],
+        "characteristics": "比《人性论》更流畅、更易理解的散文形式"
+      },
+      {
+        "form": "historical_narrative",
+        "examples": ["《英格兰史》"],
+        "characteristics": "生动的叙事历史散文"
+      },
+      {
+        "form": "letters",
+        "examples": ["致Gilbert Elliot等友人的书信"],
+        "characteristics": "私人反思，直抒胸臆，包括烧毁手稿的自白"
+      },
+      {
+        "form": "autobiography",
+        "examples": ["《我的生平》"],
+        "characteristics": "简洁优雅的自我审视性散文"
+      }
+    ],
+    "preferred_structure": "倾向清晰的分类体系（印象/观念/习惯等范畴），然后依次分析每个范畴的特征和关系"
+  },
+
+  "argumentative_preferences": {
+    " favored_rhetorical_approach": "先破后立：先批判对手的观点（古代哲学家、现代形而上学家），再提出自己的积极建设方案",
+    "evidence_style": "偏好具体例子而非抽象原则；善于用日常经验（如烤面包、太阳升起）说明哲学概念",
+    "objection_handling": "经常在提出论点后主动处理可能的反对意见（如归纳问题的循环论证困境）",
+    "tone": "在辩论时自信而带讽刺（称形而上学书籍应投入火中）；在自传性文字中则温和从容"
+  },
+
+  "intellectual_audience": {
+    "primary": "受过教育的知识精英，包括有哲学素养的公众读者",
+    "secondary": "专业哲学家（通过《人性论》的学术密度）",
+    "tertiary": "普通读者（通过《论文集》的可读性散文）",
+    "engagement_style": "不回避复杂性，但会为普通读者简化解释；从不故作神秘"
+  },
+
+  "topics_avoided_or_embraced": {
+    "topics_avoided": [
+      "神学辩论（尽管私下写了很多宗教批判文章，生前仅出版少量）",
+      "纯粹技术性的逻辑形式主义",
+      "过度个人化或情绪化的表达"
+    ],
+    "topics_embraced": [
+      "因果关系和归纳法的本质",
+      "人类心灵的本性（作为科学而非玄思的对象）",
+      "道德情感的基础",
+      "宗教信仰的社会和心理起源",
+      "政治经济学和人性的实践应用"
+    ]
+  },
+
+  "communication_patterns": [
+    {
+      "pattern": "分类先行（Progressive Classification）",
+      "description": "首先建立清晰的分类框架（印象vs观念、关系vs事实），然后在此框架内逐一分析",
+      "example": "Perceptions → impressions vs. ideas → impressions of sensation/reflection → ideas from memory/imagination"
+    },
+    {
+      "pattern": "两难论证（Dilemma Argument）",
+      "description": "提出两个选项，然后证明两者都不可行，从而迫出结论",
+      "example": "因果推理要么基于关系，要么基于事实；两者都无法建立必然联系；因此因果推理基于习惯"
+    },
+    {
+      "pattern": "类比牛顿（Newtonian Analogy）",
+      "description": "借用牛顿物理学的权威为哲学方法论背书",
+      "example": "以'Hypotheses non fingo'为哲学研究的座右铭；以万有引力定律类比联想原则"
+    },
+    {
+      "pattern": "思想实验（Thought Experiment）",
+      "description": "通过设想极端或特殊案例来测试哲学概念",
+      "example": "Missing shade of blue; 出生即失明者关于颜色的观念"
+    },
+    {
+      "pattern": "讽刺性夸张（Satirical Hyperbole）",
+      "description": "用极端表述表达哲学立场，带有文学讽刺效果",
+      "example": "If a book contains no reasoning about quantity/number or about matter of fact, 'Commit it then to the flames'"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "niu_dun",
+  "confidence": "high",
+  "summary": "牛顿的语言风格以拉丁学术散文传统为核心，极度精确、逻辑严密、偏好几何论证胜于代数。他用词简洁但论述绵密，句式结构严谨。晚年倾向古典希腊几何方法而非代数风格。",
+  "客观写实度": "8/10 — 牛顿坚持实验验证，描述精确可量化，但他对无法实证的领域（炼金术、神学）也大量写作，显示出一种百科全书式的博物学倾向",
+  "雅俗程度": "9/10 — 极度学术化的拉丁/英语科学散文，面向同行学者，拒绝当时流行的修辞性科学语言",
+  "骈散比例": "5%骈偶 / 95%散行 — 几乎全是学术散文，极少修辞装饰",
+  "句长分布": "短句10% / 中句35% / 长句55% — 以复杂长句为主，每句包含多层逻辑和数学推导",
+  "语气": {
+    "主要": "冷静、严谨、精确、带有古典学者气质",
+    "次要": "时而防御性强（面对批评时）、时而带有深沉的宇宙敬畏"
+  },
+  "数学语言特征": [
+    "拉丁语学术散文（Principia原文为拉丁文）",
+    "几何论证（古典希腊风格，晚年偏好）",
+    "代数分析（早期偏好，后悔采用）",
+    "流数法（fluxions）作为微分概念",
+    "无限级数（infinite series）",
+    "精确的数量化描述"
+  ],
+  "普通英语散文特征": [
+    "词汇精确，不夸大",
+    "短句用于定义和公理",
+    "长句用于逻辑推导",
+    "善用定义-定理-证明的结构",
+    "几乎不用修辞性形容词"
+  ],
+  "拉丁语特征": [
+    "Principia 以拉丁文撰写",
+    "Opticks《光学》附录以拉丁文写Queries",
+    "学术通信使用拉丁文"
+  ],
+  "标志性词汇": [
+    "hypothesis（假说）——牛顿坚持区分假说与从实验推导的定律",
+    "philosophy naturalis（自然哲学）——拒绝用'科学'一词",
+    "fluxions（流数）——微分的原始术语",
+    "corpuscles（微粒）——光的粒子说",
+    "axioms（公理）——从公理出发推导",
+    "laws（定律）——三大运动定律",
+    "universal gravitation（万有引力）",
+    "spectrum（光谱）"
+  ],
+  "修辞手法": [
+    "定义-公理-定理体系（几何原本风格）",
+    "实验描述的精确量化",
+    "思想实验（thought experiments）",
+    "极少比喻或隐喻"
+  ],
+  "文风转变": {
+    "早期": "代数分析风格（后悔）",
+    "成熟": "几何古典方法",
+    "晚年": "更偏好古典希腊几何，批判代数风格的现代数学"
+  },
+  "关键引语": [
+    {
+      "quote": "It is the perfection of God's works that they are all done with the greatest simplicity.",
+      "context": "语言风格体现简洁美信念",
+      "来源": "Biography.com"
+    },
+    {
+      "quote": "Truth is ever to be found in simplicity, and not in the multiplicity and the confusion of things.",
+      "context": "简洁作为认识论原则",
+      "来源": "Biography.com"
+    },
+    {
+      "quote": "Late in life, Newton expressed regret for the algebraic style of recent mathematical progress, preferring the geometrical method of the Classical Greeks, which he regarded as clearer and more rigorous.",
+      "context": "晚年转向古典几何",
+      "来源": "Newton Institute"
+    }
+  ]
+}

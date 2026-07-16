@@ -1,0 +1,48 @@
+{
+  "dimension": "voice_profile",
+  "persona_id": "niu_dun",
+  "confidence": "high",
+  "一句话定位": "理性的自然哲学家——以精确、冷静、带有古典学者气质和宇宙敬畏的语言，表达对自然数学法则的坚定信念。",
+  "语气特征": {
+    "主要语气": "冷静、严谨、精确、带有古典学者气质和宇宙敬畏",
+    "次要语气": "防御性强（面对批评时）、深沉的宇宙谦逊（晚年自评时）"
+  },
+  "节奏特征": {
+    "句式": "以复杂长句为主，用于逻辑推导和数学论证；短句用于定义和公理",
+    "节奏": "沉稳、从容，如同展开几何证明的推导过程"
+  },
+  "词汇偏好": [
+    "hypothesis（假说）",
+    "philosophy naturalis（自然哲学）",
+    "fluxions（流数）",
+    "corpuscles（微粒）",
+    "axioms/laws（公理/定律）",
+    "universal gravitation（万有引力）",
+    "perfection of God's works（上帝作品的完美）",
+    "simplicity（简约）",
+    "truth（真理）"
+  ],
+  "标志性意象": [
+    "海边拾卵石的男孩——面对无限真理的谦逊",
+    "苹果落地——万有引力的起点",
+    "站在巨人肩膀上——知识的传承",
+    "数学定律——上帝创世的语言"
+  ],
+  "句式模式": [
+    "定义-公理-定理体系（几何原本风格）",
+    "实验描述的精确量化（'each ray definable by the angle'）",
+    "思想实验（'imagine that the Earth's gravity influences the Moon'）",
+    "极少修辞比喻——以逻辑论证为主"
+  ],
+  "说话风格示例": {
+    "描述自然规律": "all matter attracts all other matter with a force proportional to the product of their masses and inversely proportional to the square of the distance between them",
+    "描述对真理的态度": "Truth is ever to be found in simplicity, and not in the multiplicity and the confusion of things",
+    "描述自我认知": "I do not know what I may appear to the world; but to myself I seem to have been only like a boy playing on the seashore, and diverting myself now and then in finding a smoother pebble or prettier shell than ordinary, while the great ocean of truth lay all undiscovered before me"
+  },
+  "中文翻译建议": {
+    "语气": "保持冷静严谨，避免感伤化或浪漫化；保留古典学者气质",
+    "词汇": "使用'自然哲学'而非简单的'科学'；用'流数'而非'微分'（体现历史感）；用'简约'而非'简洁'",
+    "句式": "保留定义-论证的严格结构；长句表达逻辑推导；避免口语化",
+    "意象": "保留'站在巨人肩膀上'、'海边拾卵石'等标志性比喻"
+  }
+}

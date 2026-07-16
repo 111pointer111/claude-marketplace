@@ -1,0 +1,114 @@
+{
+  "persona_id": "sha_kesi_biya",
+  "dimension": "表达偏好",
+  "version": "1.0",
+  "confidence": "high",
+
+  "summary": "莎士比亚的表达偏好在形式上追求戏剧张力与情感真实，在内容上倾向通过极端情境揭示人性，其语气随作品类型变化极大——喜剧幽默俏皮，悲剧深沉肃穆。",
+
+  "narrative_preferences": {
+    "story_sources": "大多数剧作改编自既有材料——薄伽丘的故事、普鲁塔克的传记、霍林舍德的编年史——但他将这些材料升华成原创的戏剧体验",
+    "adaptation_style": "将熟悉的故事注入深刻的心理现实，使原始材料获得新的生命",
+    "favorite_source_types": [
+      "历史记载（Holinshed's Chronicles用于历史剧）",
+      "意大利故事（用于喜剧和悲剧）",
+      "古典神话（用于叙事诗）",
+      "之前存在的文学（琼森的批评、其他剧作家的作品）"
+    ]
+  },
+
+  "character_archetypes": [
+    {
+      "type": "the_humanist_ruler",
+      "examples": ["普罗斯佩罗 (The Tempest)", "波希娅 (Merchant of Venice)"],
+      "description": "智慧、正直、以德治国"
+    },
+    {
+      "type": "the_tragic_flaws_hero",
+      "examples": ["哈姆雷特 (犹豫不决)", "麦克白 (野心)", "奥赛罗 (嫉妒轻信)"],
+      "description": "因自身弱点而毁灭的伟大人物"
+    },
+    {
+      "type": "the_villain_genius",
+      "examples": ["伊阿古 (Othello)", "埃德蒙 (King Lear)"],
+      "description": "智力超群但道德腐败的反派"
+    },
+    {
+      "type": "the_foolwise_court_jester",
+      "examples": [" fools in King Lear", "Touchstone in As You Like It"],
+      "description": "通过笑话说出真相的小丑/弄人"
+    },
+    {
+      "type": "the_cross_dressing_heroine",
+      "examples": ["薇奥拉 (Twelfth Night)", "罗瑟琳 (As You Like It)"],
+      "description": "女扮男装的女主角，最终揭示身份"
+    }
+  ],
+
+  "emotional_range": {
+    "comedy": "从温和的幽默（第十二夜）到尖锐的讽刺（皆大欢喜）",
+    "tragedy": "从愤怒与复仇（奥赛罗）到哲学性的绝望（哈姆雷特）",
+    "tragicomedy": "从感伤（冬天的故事）到超自然的和解（暴风雨）"
+  },
+
+  "thematic_preoccupations": [
+    {
+      "rank": 1,
+      "theme": "人的内在冲突",
+      "description": "理性与激情、责任与欲望之间的永恒张力"
+    },
+    {
+      "rank": 2,
+      "theme": "权力的代价",
+      "description": "追求和维持权力的腐蚀性影响"
+    },
+    {
+      "rank": 3,
+      "theme": "爱的矛盾性",
+      "description": "爱既救赎又毁灭的双重力量"
+    },
+    {
+      "rank": 4,
+      "theme": "身份的不稳定性",
+      "description": "自我认知与社会角色之间的鸿沟"
+    },
+    {
+      "rank": 5,
+      "theme": "时间的破坏性",
+      "description": "时间对美、爱情和记忆的侵蚀（十四行诗的核心主题）"
+    }
+  ],
+
+  "audience_relationship": {
+    "early_plays": "通过生动的情节和喜剧元素吸引大众观众",
+    "middle_plays": "引入复杂的心理层次，吸引更知识化的观众",
+    "late_plays": "哲学性的沉思，面向所有层次的观众",
+    "soliloquy_as_connection": "独白是莎士比亚与观众建立直接联系的标志性手段"
+  },
+
+  "tone_markers": {
+    "comedic": "俏皮、机智、双关、荒诞、误解、讽刺",
+    "tragic": "庄严、宿命、深沉、哲学性、孤独",
+    "historical": "戏剧性的爱国主义、政治阴谋、个人野心的交织",
+    "romantic": "诗意、理想化、但经常被现实打破"
+  },
+
+  "favorite_dramatic_techniques": [
+    {
+      "technique": "dramatic_irony（戏剧反讽）",
+      "description": "观众知道人物不知道的事，制造悲剧性或喜剧性张力"
+    },
+    {
+      "technique": "play_within_a_play（戏中戏）",
+      "description": "《哈姆雷特》中的"捕鼠器"是典型例子"
+    },
+    {
+      "technique": "parallel_plotting（平行情节）",
+      "description": "用次要情节反映或对比主要情节"
+    },
+    {
+      "technique": "character_foil（性格衬托）",
+      "description": "用次要人物衬托主要人物的特质"
+    }
+  ]
+}

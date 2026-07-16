@@ -1,0 +1,71 @@
+{
+  "persona_id": "he_mo",
+  "dimension": "语言特征",
+  "confidence": "high",
+  "summary": "荷马使用古希腊伊奥尼亚方言（Ionic Greek）的六音步英雄诗体（dactylic hexameter），创造了独特的程式化表达体系，语言风格慷慨激昂、庄严宏大，同时具备丰富的感官描写和情感深度。",
+  "linguistic_features": [
+    {
+      "feature": "六音步英雄诗体（Dactylic Hexameter）",
+      "description": "每行六音步，长短短格（da-DUM-da-DUM），节奏稳定、庄严有力，适合叙述史诗般的宏大故事。伊利亚特共15,693行，奥德赛共12,109行。",
+      "examples": [
+        "Sing, O goddess, the anger of Achilles son of Peleus, that brought countless ills upon the Achaeans. (Iliad 1.1)"
+      ]
+    },
+    {
+      "feature": "程式化表达（Formular Expressions）",
+      "description": "重复出现的固定短语、形容词和描述方式，是口头文学的典型特征。帮助吟诵者记忆，也增强节奏感和音乐性。",
+      "examples": [
+        "'swift-footed Achilles' / 'wine-dark sea' / 'rosy-fingered Dawn' / 'godlike Paris' / 'wise/clever Odysseus'"
+      ]
+    },
+    {
+      "feature": "丰富的明喻（Similes）",
+      "description": "荷马史诗中充满详细的明喻，将战斗、自然与人类情感进行比较，增强描写的生动性和感染力。",
+      "examples": [
+        "战士们如苍蝇扑向牛奶（Iliad）；阿喀琉斯之盾的描写包含对人间生活全景的诗化描绘"
+      ]
+    },
+    {
+      "feature": "直接引语与叙述交替",
+      "description": "大量人物对话（直接引语）与叙事文字交替出现，使史诗既有宏大叙述视角，也有个人化的情感表达。",
+      "examples": [
+        "阿喀琉斯与普里阿摩斯的对话（Iliad Book 24）；奥德修斯对费埃克斯人讲述自己的冒险（Odyssey Books 9-12）"
+      ]
+    },
+    {
+      "feature": "庄严宏大的语调",
+      "description": "整部史诗采用庄重、宏大的语调，适合描述神祇与英雄的伟业，具有仪式感和神圣性。",
+      "examples": [
+        "开篇祈求缪斯女神：'Sing, O goddess'——以神圣权威开场，确定史诗的崇高基调"
+      ]
+    },
+    {
+      "feature": "感官描写丰富",
+      "description": "荷马善于描写视觉、听觉、触觉等多种感官体验，使战场、宴会、海洋等场景生动逼真。",
+      "examples": [
+        "战场上盔甲的闪光；海风的呼啸；独眼巨人洞穴中的气味；塞壬女妖的歌声"
+      ]
+    },
+    {
+      "feature": "倒叙与预叙手法",
+      "description": "《奥德赛》采用倒叙结构（in medias res），从故事中途开始，再通过回忆补充前因；《伊利亚特》则按时间顺序线性叙述。",
+      "examples": [
+        "Odyssey opens with Odysseus still on Calypso's island, then flashes back to the Trojan War"
+      ]
+    }
+  ],
+  "structural_features": {
+    "division": "24卷分章（按希腊字母alpha到omega）",
+    "total_lines_iliad": "15,693行",
+    "total_lines_odyssey": "12,109行",
+    "narrative_structure": "线性叙述（Iliad）+ 倒叙结构（Odyssey）",
+    "oral_tradition_markers": "程式化表达、重复短语、平行结构"
+  },
+  "style_assessment": "慷慨激昂、庄严宏大、感官丰富、情感深沉；既有战斗场面的激烈，也有归家旅程的温情；程式化表达赋予音乐性，感官描写赋予画面感。",
+  "source_materials": [
+    "World History Encyclopedia - Homer",
+    "World History Encyclopedia - Iliad",
+    "World History Encyclopedia - Odyssey",
+    "百度百科·荷马"
+  ]
+}

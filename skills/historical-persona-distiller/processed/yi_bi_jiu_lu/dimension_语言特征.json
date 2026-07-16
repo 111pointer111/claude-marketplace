@@ -1,0 +1,65 @@
+{
+  "persona_id": "yi_bi_jiu_lu",
+  "dimension": "语言特征量化",
+  "version": "1.0",
+  "summary": "伊壁鸠鲁的写作以直白、简洁、否定式表达为特征。格言体为主体，便于记忆。书信体则较为详细，逻辑连贯。不追求修辞，注重实用性。",
+  "linguistic_features": {
+    "writing_forms": [
+      "格言体/语录体（Principal Doctrines/Kuriai Doxai）",
+      "书信体（三封信：《致希罗多德》《致墨诺修斯》《致毕托克里斯》）",
+      "论说文（《论自然》《准则学》等）"
+    ],
+    "style_characteristics": {
+      "clarity": "极高，追求清晰易懂，不玩弄辞藻",
+      "simplicity": "极高，用词平实，不故作高深",
+      "directness": "极高，直接陈述自己的观点，不拐弯抹角",
+      "rhetorical_devices": "极少使用修辞格，偶用对比和排比"
+    },
+    "sentence_patterns": {
+      "dominant": "简短判断句（肯定/否定命题）",
+      "characteristic": "否定式定义（如：'不动心'='无痛苦+无纷扰'）",
+      "parallelism": "常用对偶句式增强节奏感"
+    },
+    "key_vocabulary_domains": {
+      "pleasure_related": ["快乐/ pleasure", "幸福/ eudaimonia", "好/ good", "善/ agathon"],
+      "pain_related": ["痛苦/ pain", "恐惧/ fear", "纷扰/ disturbance", "焦虑/ anxiety"],
+      "philosophical_technical": ["原子/ atoms", "虚空/ void", "感觉/ sensation", "不动心/ ataraxia"],
+      "moral_virtue": ["审慎/ prudence", "正义/ justice", "节制/ temperance", "友谊/ friendship"],
+      "negative_definitions": ["不伤害/ not harm", "无痛苦/ without pain", "无纷扰/ without disturbance", "无必要/ not necessary"]
+    },
+    "characteristic_expressions": [
+      "快乐是…的开端与归宿",
+      "死亡与我们无干/无关系",
+      "不动心",
+      "身体无痛苦，灵魂无纷扰",
+      "友谊与快乐分不开",
+      "德行除非是指…否则是空洞的名字",
+      "正义不是绝对的…而是…的协议"
+    ],
+    "tone": "平静、说教但温和、坚定、自信、不激进",
+    "audience": "普通大众、门徒、所有人（花园向所有人开放，包括奴隶和女性）"
+  },
+  "text_samples": [
+    {
+      "text": "快乐就是有福的生活的开端与归宿。",
+      "form": "格言体/判断句",
+      "features": "简短、肯定、直接定义核心概念"
+    },
+    {
+      "text": "死亡和我们没有关系，因为只要我们存在一天，死亡就不会来临，而死亡来临时，我们也不再存在了。",
+      "form": "推理句/论证",
+      "features": "逻辑严密，否定式安慰，直击恐惧根源"
+    },
+    {
+      "text": "友谊与快乐是分不开的，因为这种缘故所以就必须培养友谊，因为没有友谊我们就不能安然无惧地生活，也不能快乐地生活。",
+      "form": "论证体/因果推理",
+      "features": "连续因果，温暖关切，非个人主义"
+    },
+    {
+      "text": "你应当注意的是与谁吃喝，而不是吃喝什么。因为没有朋友相伴的进食是狮子和狼一般的生活。",
+      "form": "劝诫体/比喻",
+      "features": "温和讽刺，实用性建议，对友谊的重视"
+    }
+  ],
+  "deviation_from_contemporary": "伊壁鸠鲁拒绝当时流行的复杂修辞和柏拉图式对话体，采用直白写作风格，这在当时的哲学写作中是相当独特的。"
+}

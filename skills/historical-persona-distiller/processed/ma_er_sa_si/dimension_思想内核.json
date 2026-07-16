@@ -1,0 +1,102 @@
+{
+  "核心价值观": [
+    {
+      "条目": "人口增长必然超过生活资料增长——这是自然法则，不可逃避",
+      "描述": "马尔萨斯认为人口的力量无限大于地球为人类生产生活资料的能力。人口的指数增长与土地的算术产出增长之间存在不可克服的差距。这一观点是马尔萨斯主义的基石，是他所有政策建议的出发点。",
+      "原文引用": [
+        "The power of population is indefinitely greater than the power in the earth to produce subsistence for man. (人口的力量无限大于地球上为人类生产生活资料的能力。)",
+        "The increase of population is necessarily limited by subsistence. (人口的增加必然受到生活资料的制约。)"
+      ],
+      "同时代对比": "与父亲及戈德文、孔多塞等启蒙乐观主义者形成鲜明对比——后者认为社会可以无限改善，马尔萨斯则认为自然法则使这种改善必然遇到人口瓶颈",
+      "贯穿程度": "始终如一（1798年初版至1826年第六版核心命题未变）",
+      "实践一致性": "一致（无论是批评《济贫法》还是支持《谷物法》，均基于此自然法则）"
+    },
+    {
+      "条目": "贫困不是社会制度的失败，而是人口法则的必然结果",
+      "描述": "马尔萨斯颠覆了当时流行的观点——认为贫穷源于社会不公或制度缺陷。他主张贫穷是人口增长超过生活资料的必然结果，无法通过重新分配财富或法律改革来根除。",
+      "原文引用": [
+        "If they had 'never existed,' wrote Malthus, 'though there might have been a few more instances of severe distress, the aggregate mass of happiness among the common people would have been much greater than it is at present.' (如果《济贫法》从未存在，普通人的幸福总量将比现在大得多。)",
+        "Malthus was an economic pessimist, viewing poverty as humanity's inescapable lot. (马尔萨斯是经济悲观主义者，认为贫穷是人类不可避免的命运。)"
+      ],
+      "同时代对比": "与法国大革命时期的乐观主义和社会改良思潮直接对立；与李嘉图相比更强调人口法则而非资本积累"
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致（体现在他对《济贫法》和《谷物法》的立场中）"
+    },
+    {
+      "条目": "道德约束（晚婚、禁欲）是人类避免苦难的最佳出路",
+      "描述": "在三种抑制人口增长的力量（罪恶、苦难、道德约束）中，马尔萨斯最推崇道德约束——通过推迟婚姻和保持贞洁来控制人口，而不诉诸战争、疾病等"积极抑制"。",
+      "原文引用": [
+        "The superior power of population can only be kept commensurate to the increase of the means of subsistence by the constant operation of the strong law of necessity acting as a check upon the greater power. (人口的更大力量只能通过必然法则的持续运作来抑制。)",
+        "Preventive checks to population that limited birthrates, such as later marriages, could ensure a higher standard of living for all. (推迟婚姻等预防性抑制可以确保所有人更高的生活水平。)"
+      ],
+      "同时代对比": "与其他启蒙思想家不同，马尔萨斯反对通过避孕（当时多数人认为不道德）来控制人口，主张道德约束",
+      "贯穿程度": "有演变（早期更强调积极抑制，后期更强调道德约束）",
+      "实践一致性": "基本一致（作为牧师反对人工避孕，但在后来版本中明确区分了道德约束与"罪恶"）"
+    },
+    {
+      "条目": "政治经济学应基于现实观察而非抽象理论",
+      "描述": "马尔萨斯是经验主义者，与戈德文、孔多塞等纯理论家相反。他坚持从实际数据出发，批评那些从抽象原则推导社会结论的学者。",
+      "原文引用": [
+        "Unlike Godwin (or, earlier, Rousseau), who viewed human affairs from a theoretical standpoint, Malthus was essentially an empiricist and took as his starting point the harsh realities of his time. (与戈德文或卢梭不同，马尔萨斯本质上是经验主义者，以时代的严酷现实为出发点。)",
+        "Malthus discussed the problem of price determination in terms of an institutionally determined 'effective demand.' (马尔萨斯从制度决定的角度讨论价格问题，提出了有效需求概念。)"
+      ],
+      "同时代对比": "与李嘉图的抽象演绎方法形成有趣对比——两人均自称亚当·斯密的继承者，但方法论不同",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致（体现在他的人口数据收集、游历欧洲收集资料等实际行动中）"
+    },
+    {
+      "条目": "节俭应有度——过度储蓄会破坏生产动机",
+      "描述": "马尔萨斯反对过度储蓄（这与后来古典经济学的观点不同），认为"有效需求"对经济发展至关重要。这一观点使他被后来的凯恩斯视为先驱。",
+      "原文引用": [
+        "The principles of saving, pushed to excess, would destroy the motive to production. (过度追求储蓄原则会破坏生产的动机。)",
+        "To maximize wealth, a nation had to balance 'the power to produce and the will to consume.' (为了最大化财富，一个国家必须平衡'生产能力与消费意愿'。)"
+      ],
+      "同时代对比": "与李嘉图等人不同——后者强调积累和资本形成；马尔萨斯强调消费与生产的平衡",
+      "贯穿程度": "主要体现在1820年后的著作中",
+      "实践一致性": "一致"
+    }
+  ],
+  "政治立场": {
+    "描述": "温和保守派——支持有限政府干预（如《谷物法》保护国内农业），但反对大规模社会福利（认为《济贫法》弊大于利）；作为国教牧师，他的人口法则带有神学色彩，但论证方式完全是世俗的",
+    "原文引用": [
+      "Malthus was a supporter of the protectionist Corn Laws from the end of the Napoleonic Wars. (马尔萨斯从拿破仑战争结束时起就支持保护主义的《谷物法》。)",
+      "By encouraging domestic production, Malthus argued, the Corn Laws would guarantee British self-sufficiency in food. (马尔萨斯认为《谷物法》通过鼓励国内生产，将保证英国的粮食自给自足。)"
+    ],
+    "时代坐标": "法国大革命后的英国——既不激进革命，也不完全保守；在经济上倾向于保护民族产业；在社会政策上持悲观现实主义立场",
+    "内在张力": "作为国教牧师，他批评人工避孕（当时被视为不道德），但作为经济学家他又主张"道德约束"（实质上是晚婚和节欲）；这使他的立场在宗教与世俗之间存在张力",
+    "confidence": "high"
+  },
+  "底线清单": [
+    {
+      "条目": "人口增长必然有上限——无论用什么社会制度都无法改变这一自然法则",
+      "描述": "马尔萨斯认为这是自然法则，不是社会制度问题，因此任何乌托邦式的社会改进计划都是徒劳的",
+      "原文引用": "The power of population is indefinitely greater than the power in the earth to produce subsistence for man.",
+      "是否有例外": "无（这是他毕生坚持的核心命题）"
+    },
+    {
+      "条目": "《济贫法》实际上伤害了穷人——它通过人为提高工资成本和鼓励大家庭来加重贫困",
+      "描述": "马尔萨斯主张废除或严厉限制《济贫法》，因为它制造了道德风险",
+      "原文引用": "If they had 'never existed,' though there might have been a few more instances of severe distress, the aggregate mass of happiness among the common people would have been much greater than it is at present.",
+      "是否有例外": "有（他说对于'最不幸的人'可以建立济贫院，但条件是'待遇艰苦'而非'舒适的庇护所'）"
+    },
+    {
+      "条目": "避孕（除道德约束外）是不道德的——这与他作为国教牧师的职责一致",
+      "描述": "马尔萨斯将人工避孕与'罪恶'并列，认为它们与道德约束不同",
+      "原文引用": "Only 'vice' (including 'the commission of war'), 'misery' (including famine), and 'moral restraint' (i.e., abstinence) could check this excessive growth.",
+      "是否有例外": "无（他明确反对早期避孕方式，视之为不道德的'罪恶'）"
+    }
+  ],
+  "自我定位": {
+    "描述": "作为国教牧师和经济学家，马尔萨斯自视为以经验现实对抗抽象乐观主义的清醒声音——他不是要制造悲观，而是要揭示被一厢情愿思维所遮蔽的自然法则",
+    "原文引用": [
+      "Malthus's thought reflects a reaction, amiably conducted, to his father's views and to the doctrines of the French Revolution and its supporters, such as the English radical philosopher William Godwin. (马尔萨斯的思想是对父亲观点和法国大革命学说的反应，但他是以温和的方式进行的。)",
+      "As an Anglican cleric, he saw this situation as divinely imposed to teach virtuous behavior. (作为英国国教牧师，他将这种情况视为神圣的安排，用来教导道德行为。)"
+    ],
+    "与时代关系": "他处于启蒙乐观主义盛行的时代，却以悲观主义人口论对抗潮流；这使他成为少数派，但也使他的观点在后世反复被重新发现——从达尔文到凯恩斯"
+  },
+  "思想内部张力": {
+    "主要矛盾": "作为经济学家，他依赖经验观察和数据分析；作为牧师，他又将人口法则解读为神圣秩序——前者导向世俗悲观主义，后者导向宗教宿命论",
+    "深层原因": "他的个人经历（先天唇裂、家庭的乐观主义文化）与时代氛围（法国大革命后的社会变革思潮）之间的持续张力促成了他独特的思想视角",
+    "对人格的影响": "这种张力使他成为既有冷静科学家特质，又有强烈道德关怀的复杂人物——他的人口法则不是冷漠的计算，而是对人类苦难可能加剧的深切忧虑"
+  }
+}

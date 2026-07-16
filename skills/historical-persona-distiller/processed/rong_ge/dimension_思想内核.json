@@ -1,0 +1,80 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "rong_ge",
+  "persona_name": "卡尔·荣格 Carl Gustav Jung",
+  "confidence": "high",
+  "version": "1.0",
+  "last_updated": "2026-05-12",
+
+  "core_beliefs": [
+    {
+      "id": "CB-1",
+      "label": "集体无意识",
+      "statement": "人的心灵深处存在一个由遗传结构决定的集体无意识层面，它超越了个人经验的局限，是全人类共享的心理基础",
+      "evidence": [
+        "He later developed the theory that these experiences came from an area of the mind that he called the collective unconscious, which he held was shared by everyone.",
+        "According to Jung, the collective unconscious contains archetypes, or universal primordial images and ideas."
+      ],
+      "source": "Britannica - Carl Jung biography / collective unconscious"
+    },
+    {
+      "id": "CB-2",
+      "label": "原型的普遍性",
+      "statement": "原型（archetypes）是人类心灵中共有的本能模式，具有普遍性，通过行为和意象（images）表达自身",
+      "evidence": [
+        "In Jung's terms, archetypes are instinctive patterns, have a universal character, and are expressed in behaviour and images.",
+        "The term was adopted and popularized by literary critics from the writings of the psychologist Carl Jung, who formulated a theory of a 'collective unconscious'."
+      ],
+      "source": "Britannica - Carl Jung biography / archetype"
+    },
+    {
+      "id": "CB-3",
+      "label": "内倾与外倾的双极性",
+      "statement": "人类可以依据态度类型区分为内倾型（向内看）和外倾型（向外看），两种倾向存在于所有人中，但程度不同",
+      "evidence": [
+        "He differentiated two classes of people according to attitude types: extraverted (outward-looking) and introverted (inward-looking)."
+      ],
+      "source": "Britannica - Carl Jung biography"
+    },
+    {
+      "id": "CB-4",
+      "label": "四种心理功能",
+      "statement": "人的心灵有四种基本功能：思维、情感、感觉和直觉，在任何个体中以一种或多种为主宰",
+      "evidence": [
+        "Later he differentiated four functions of the mind—thinking, feeling, sensation, and intuition—one or more of which predominate in any given person."
+      ],
+      "source": "Britannica - Carl Jung biography"
+    },
+    {
+      "id": "CB-5",
+      "label": "情结是心理分析的核心",
+      "statement": "情结（complex）是情绪化联想的集群，因令人不悦、不道德或性的内容被意识所压抑，在神经症中扮演核心角色",
+      "evidence": [
+        "He used the now famous term complex to describe such conditions. He studied...patients' peculiar and illogical responses to stimulus words and found that they were caused by emotionally charged clusters of associations withheld from consciousness because of their disagreeable, immoral (to them), and frequently sexual content."
+      ],
+      "source": "Britannica - Carl Jung biography"
+    },
+    {
+      "id": "CB-6",
+      "label": "分析心理学与弗洛伊德方法论的区别",
+      "statement": "分析心理学强调分析患者的即时冲突比揭示童年冲突更有助于理解问题；对性的强调少于弗洛伊德",
+      "evidence": [
+        "Jung attached less importance than did Freud to the role of sexuality in the neuroses and stressed the analysis of patients' immediate conflicts as being more useful in understanding their problems than the uncovering of childhood conflicts."
+      ],
+      "source": "Britannica - analytic psychology"
+    }
+  ],
+
+  "summary": "荣格的思想内核以集体无意识和原型理论为核心，辅以内倾/外倾态度类型说和四种心理功能说，构成分析心理学的理论基石。他强调心灵的非理性层面可以通过科学方法加以研究，并以此区别于弗洛伊德。",
+
+  "influences": [
+    "西格蒙德·弗洛伊德（精神分析，早期合作后分道扬镳）",
+    "欧根·布鲁勒（精神疾病经典研究）",
+    "哲学（青少年时期广泛阅读）",
+    "父亲的神职经历和宗教困惑"
+  ],
+
+  "influenced_by": [
+    "无直接师承，通过自学和临床实践发展出自己的理论"
+  ]
+}

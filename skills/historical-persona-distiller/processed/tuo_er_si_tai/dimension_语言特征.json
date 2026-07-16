@@ -1,0 +1,49 @@
+{
+  "dimension": "语言特征",
+  "summary": "托尔斯泰的语言风格经历了从抒情诗意到质朴民间化的显著演变。他以朴素为核心，追求最充分最确切地反映生活真实；善于使用超长复合句驾驭史诗性叙事，在晚期道德作品中则转向简洁的短句和戏剧性对白。语言风格的两个极端——史诗的丰富细腻与民间故事的直白浅显——共同构成了托尔斯泰独特的文学声音。",
+  "linguistic_markers": {
+    "typical_sentence_length": "早期/中期创作使用极长的复合句（从句套从句，可达数百词）；晚期道德论文则使用短句（10-20词为主）",
+    "use_of_long_complex_sentences": "极高——在《战争与和平》中使用大量嵌套从句、历史事实融合艺术虚构、群像中显个人面貌",
+    "use_of_repetition": "中等到高——在道德训诫文字中通过重复强调核心价值；早期作品较少",
+    "preferred_connectors": "俄语文风：'а'（而）, 'но'（但是）, 'что'（that）, 'как'（as/how）；英文翻译：'however', 'and yet', 'for', 'that is to say'",
+    "characteristic_phrases": [
+      "战争与和平风格：'All happy families resemble each other; each unhappy family is unhappy in its own way.'（对偶结构）",
+      "哲理风格：'We can know only that we know nothing. And that is the highest degree of human wisdom.'（悖论+排比）",
+      "道德风格：'Everyone thinks of changing the world, but no one thinks of changing himself.'（对比）",
+      "后期民语风格：短句为主，接近口语，直白易懂"
+    ]
+  },
+  "style_evolution": [
+    {
+      "period_name": "阶段一（1828-1852）：童年/青年",
+      "characteristics": "抒情、怀旧、理想化；语言精致讲究，带有贵族少年的敏感；使用诗意化的长句；小说中常有浪漫主义的感叹和疑问句。"
+    },
+    {
+      "period_name": "阶段二（1852-1862）：军旅/探索",
+      "characteristics": "阳刚、观察入微的现实主义；《塞瓦斯托波尔故事集》以直接、不加修饰的笔触描写战争；开始展现反英雄倾向和心理分析的萌芽；句子更趋紧凑。"
+    },
+    {
+      "period_name": "阶段三（1862-1879）：创作巅峰",
+      "characteristics": "史诗体——历史事实融合艺术虚构，巨幅群像中显个人面貌；多线索结构衔接天衣无缝；心理描写空前细腻——善于将一个意识行为分解为无数微小步骤；变化万千，蔚为奇观；后期《安娜·卡列尼娜》以简洁取胜。"
+    },
+    {
+      "period_name": "阶段四（1879-1899）：道德转变",
+      "characteristics": "质朴简练、浅显易懂，接近民间故事；放弃华丽修辞，直接宣传社会哲学观点；在心理分析上力求简洁，不写感受的整个过程，只写心理过程的各个阶段的主要环节；采取戏剧方法，通过行动和对白表现。"
+    },
+    {
+      "period_name": "阶段五（1899-1910）：晚年",
+      "characteristics": "政论性强，语言直白尖锐；使用短句和简单词汇；以反问和直接质问为修辞手段；戏剧性对白增多；散文结构松散自由，接近随笔。"
+    }
+  ],
+  "signature_features": [
+    "将意识行为分解为一系列极微小步骤的描写技法（伍尔夫称之为'使读者产生恐惧的凝视'）",
+    "不粉饰、不夸张、不理想化或漫画化，在平凡中见伟大或可怕",
+    "倒叙手法揭示人物醒悟",
+    "朴素风格——追求最大表现力而非形式精致",
+    "长篇巨著中使用多线索群像结构",
+    "直接引语的自然融入（不同于插入式引用）",
+    "善用对偶句（如开篇'幸福的家庭都是相似的...'）"
+  ],
+  "confidence": "high",
+  "confidence_rationale": "语言特征有百度百科创作特点、Britannica作品分析、以及多个引语文件佐证；五个阶段的风格演变有原始文本支持；signature features有具体作品引语对应。"
+}

@@ -1,0 +1,69 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "wei_ji_er",
+  "era": "古罗马（公元前70-19年）",
+  "confidence": "high",
+  "conclusions": [
+    {
+      "id": "t1",
+      "statement": "虔诚天命（pietas）：服从神圣命运，服务家国，是罗马精神的本质",
+      "citations": [
+        "Aeneas's devotion to duty (pietas) prevails... 'So great a task it was to found the Roman nation' (Aeneid I.33)",
+        "The ghost of his father Anchises describes the Roman mission as 'concerned with government and civilization' and defines Aeneas's duty: 'Rule the people with your sway, spare the conquered, and war down the proud' (Aeneid VI)"
+      ],
+      "primary_source": "Britannica - Virgil; World History Encyclopedia - Virgil"
+    },
+    {
+      "id": "t2",
+      "statement": "意大利乡野的热爱：维吉尔终生热爱意大利农村和耕作的农民，这种情感渗透其全部诗作",
+      "citations": [
+        "Virgil was born of peasant stock, and his love of the Italian countryside and of the people who cultivated it colours all his poetry (Britannica)",
+        "The Georgics is a superb plea for the restoration of the traditional agricultural life of Italy (Britannica)"
+      ],
+      "primary_source": "Britannica - Virgil"
+    },
+    {
+      "id": "t3",
+      "statement": "罗马的文明使命：罗马被神圣命定去征服世界，然后将文明与法治传播给被征服的民族",
+      "citations": [
+        "Jupiter's prophecy: 'To these I set no bounds in space or time—I have given them rule without end' (Aeneid I.278-279)",
+        "Under Augustus, 'Then shall the harsh generations be softened, and wars shall be laid aside' (Aeneid I.291)"
+      ],
+      "primary_source": "Britannica - Virgil; World History Encyclopedia - Virgil"
+    },
+    {
+      "id": "t4",
+      "statement": "从伊壁鸠鲁哲学到斯多葛主义的思想演进：早期诗作反映伊壁鸠鲁哲学，后期逐渐转向斯多葛式责任观",
+      "citations": [
+        "One of his teachers was the Epicurean Siro, and the Epicurean philosophy is substantially reflected in his early poetry but gradually gives way to attitudes more akin to Stoicism (Britannica)",
+        "The hatred and fear of civil war is powerfully expressed by both Virgil and his contemporary Horace (Britannica)"
+      ],
+      "primary_source": "Britannica - Virgil"
+    },
+    {
+      "id": "t5",
+      "statement": "个人苦难与历史使命的张力：《埃涅阿斯纪》的伟大之处在于将罗马帝国的宏大叙事与个人情感的挫折（特别是狄多女王）并置",
+      "citations": [
+        "The Aeneid is no panegyric; it sets the achievements and aspirations of the giant organization of Roman governmental rule in tension with the frustrated hopes and sufferings of individuals (Britannica)",
+        "In Book IV Dido confesses her love for Aeneas, who is forced by the gods to set sail again. Heartbroken by his departure, Dido commits suicide (World History Encyclopedia - The Aeneid)"
+      ],
+      "primary_source": "Britannica - Virgil; World History Encyclopedia - The Aeneid"
+    },
+    {
+      "id": "t6",
+      "statement": "对内战的深刻厌恶与对和平的渴望：维吉尔亲历罗马内战，对战争有切肤之痛",
+      "citations": [
+        "Virgil's life was devoted entirely to his poetry... his health was never robust, and he played no part in military or political life (Britannica)",
+        "One of the most disastrous effects of the civil wars... was the depopulation of rural Italy (Britannica)"
+      ],
+      "primary_source": "Britannica - Virgil"
+    }
+  ],
+  "key_concepts": {
+    "pietas": "虔诚天命：对神明、家族和国家的责任感，是罗马美德的根本",
+    "fatum_destinum": "命运：神圣命定，罗马的扩张是天意的安排",
+    "dido_tragedy": "狄多之死：个人情感与历史使命的不可调和",
+    "golden_age": "黄金时代：奥古斯都统治下的和平与道德复兴",
+    "civic_virtues": "公民美德：勇敢、节俭、责任、家庭奉献"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "对上位者（君王/权贵）": {
+    "策略": "有限度的批评+利用：伏尔泰一方面批评专制君主滥用权力，另一方面又与腓特烈大帝等开明君主交往，期望通过"开明君主"实现改革",
+    "原文引用": "You kings, you put us on our guard, you are like Homer's gods who make men serve their purposes without these poor people suspecting it.",
+    "出处": "1775年致腓特烈信"
+  },
+  "对教会/宗教权威": {
+    "策略": "犀利攻击：毫不留情的讽刺和批判，尤其反对天主教的腐败、狂热和迫害；将宗教定义为"人类之敌"",
+    "原文引用": "Religion is the source of all the follies and turmoils imaginable, it is the mother of fanaticism and civil discord; it is the enemy of mankind.",
+    "出处": "Philosophical Dictionary"
+  },
+  "对知识分子/同行": {
+    "策略": "选择性合作+尖锐辩论：与启蒙同道（狄德罗、达朗贝尔）合作《百科全书》；但对莱布尼茨等哲学家的"空洞乐观主义"进行尖锐批判",
+    "原文引用": "Candide rejects the lofty utopian thoughts of other thinkers (especially Gottfried Wilhelm Leibniz) in favour of simpler and more practical solutions.",
+    "出处": "World History Encyclopedia"
+  },
+  "对普通民众": {
+    "策略": "精英主义启蒙：相信"启蒙只能够照亮少数诚实的人，大众永远是狂热分子"；不寄望于大众自醒，而通过文学作品潜移默化",
+    "原文引用": "Enlightened times will enlighten only a small number of honest people. The vulgar masses will always be fanatics.",
+    "出处": "致友人信，引自 Gottlieb"
+  },
+  "对被压迫者/弱势群体": {
+    "策略": "积极维权：在1760年代通过发表文章和公开信为卡拉斯案、德拉巴尔案等司法冤案的受害者发声，展现了启蒙知识分子的社会责任感",
+    "原文引用": "Through the 1760s, Voltaire took up the cases of three infamous miscarriages of justice involving Jean Calas, Chevalier de la Barre, and the Sirven family.",
+    "出处": "World History Encyclopedia"
+  },
+  "对自我（内心独白/自嘲）": {
+    "策略": "理性自省+讽刺自嘲：在书信和论著中常以自嘲方式表达对人类处境的悲观看法；"无知的哲学家"是自我定位的典型表达",
+    "原文引用": "Who are you? Where do you come from? What are you doing? What will become of you?",
+    "出处": "Ignorant Philosopher"
+  }
+}

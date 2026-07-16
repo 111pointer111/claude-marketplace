@@ -1,0 +1,205 @@
+# ===== 全部语料汇总 =====
+
+## 传记来源1: Stanford Encyclopedia of Philosophy (Max Weber)
+
+### 1. Life and Career
+
+Maximilian Carl Emil "Max" Weber (1864–1920) was born in the Prussian city of Erfurt to a family of notable heritage. His father, Max Sr., came from a Westphalian family of merchants and industrialists in the textile business and went on to become a lawyer and National Liberal parliamentarian in Wilhelmine politics. His mother, Helene, came from the Fallenstein and Souchay families, both of the long illustrious Huguenot line, which had for generations produced public servants and academicians. His younger brother, Alfred, was an influential political economist and sociologist, too. Evidently, Max Weber was brought up in a prosperous, cosmopolitan, and cultivated family milieu that was well-plugged into the political, social, and cultural establishment of the German Bürgertum. Also, his parents represented two, often conflicting, poles of identity between which their eldest son would struggle throughout his life – worldly statesmanship and ascetic scholarship.
+
+Educated mainly at the universities of Heidelberg and Berlin, Weber was trained in law, eventually writing his dissertation on medieval trading companies under Levin Goldschmidt and Rudolf von Gneist and examined by Theodor Mommsen, and Habilitationsschrift on Roman law and agrarian history under August Meitzen. While contemplating a career in legal practice and public service, he received an important research commission from the Verein für Sozialpolitik and produced the so-called East Elbian Report on the displacement of the German agrarian workers in East Prussia by Polish migrant labours. Greeted upon publication with high acclaim and political controversy, this early success led to his first university appointment at Freiburg in 1894 to be followed by a prestigious professorship in political economy at Heidelberg two years later.
+
+All these fruitful years came to an abrupt halt in 1897 when Weber collapsed with a nervous-breakdown shortly after his father's sudden death (precipitated by a confrontation with Weber). His routine as a teacher and scholar was interrupted so badly that he eventually withdrew from regular teaching duties in 1903, to which he would not return until 1919. Although severely compromised and unable to write as prolifically as before, he still managed to immerse himself in the study of various philosophical and religious topics. This period saw a new direction in his scholarship as the publication of miscellaneous methodological essays as well as The Protestant Ethic and the Spirit of Capitalism (1904–1905) testifies.
+
+With the onset of the First World War, Weber's involvement in public life took an unexpected turn. At first a fervent patriotic supporter of the war, as virtually all German intellectuals of the time were, he grew disillusioned with the German war policies, eventually refashioning himself as one of the most vocal critics of the Kaiser government in a time of war. As a public intellectual, he issued private reports to government leaders and wrote journalistic pieces to warn against the Belgian annexation policy and the unlimited submarine warfare.
+
+When defeat came in 1918, Germany found in Weber a public intellectual leader with unscathed liberal credentials. He was invited to join the draft board of the Weimar Constitution as well as the German delegation to Versailles. He opposed the German Revolution and the Versailles Treaty alike, putting himself in an unsustainable position that defied the partisan alignments of the day.
+
+In 1919, he briefly taught in turn at the universities of Vienna and Munich (where he gave the much-lauded lectures, Science as a Vocation and Politics as a Vocation). All these reinvigorated scholarly activities came to an end in 1920 when he died suddenly of pneumonia in Munich (likely due to the Spanish flu). Max Weber was fifty-six years old.
+
+### 2. Philosophical Influences
+
+Weber's philosophical worldview was informed by the deep crisis of the Enlightenment project in fin-de-siècle Europe, characterized by the intellectual revolt against positivist reason, a celebration of subjective will and intuition, and a neo-Romantic longing for spiritual wholesomeness.
+
+#### 2.1 Knowledge: Neo-Kantianism
+
+Weber encountered the pan-European cultural crisis of his time mainly as filtered through the jargon of German Historicism. His early training in law had exposed him to the sharp divide between the reigning Labandian legal positivism and the historical jurisprudence championed by Otto von Gierke. Through Wilhelm Windelband, Emil Lask, and Heinrich Rickert (his one-time colleague at Freiburg), he found a rich conceptual template suitable for the clearer elaboration of his own epistemological position.
+
+In opposition to a Hegelian emanationist epistemology, Neo-Kantians shared the Kantian dichotomy between reality and concept. Not an emanent derivative of concepts as Hegel posited, reality is irrational and incomprehensible, and the concept, only an abstract construction of our mind.
+
+According to Rickert's definitive elaboration, value-judgment precedes values. He posits that the "in-dividual," as opposed to mere "individual," phenomenon can be isolated as a discrete subject of our historical inquiry when we ascribe certain subjective values to the singular coherence and indivisibility that are responsible for its uniqueness.
+
+#### 2.2 Ethics: Kant and Nietzsche
+
+Weber's understanding of Kant seems to have come through the conceptual template set by moral psychology and philosophical anthropology. In conscious opposition to the utilitarian-naturalistic justification of modern individualism, Kant viewed moral action as principled and self-disciplined while expressive of genuine freedom and autonomy. Freedom and autonomy are to be found in the instrumental control of the self and the world according to a law formulated solely from within.
+
+Weber was keenly aware of the fact that the Kantian linkage between growing self-consciousness, the possibility of universal law, and principled and thus free action had been irrevocably severed. Kant managed to preserve the precarious identification of non-arbitrary action and subjective freedom by asserting such a linkage, which Weber believed to be unsustainable in his allegedly Nietzschean age.
+
+Weber's ethical project can be described as a search for non-arbitrary freedom (his Kantian side) in what he perceived as an increasingly post-metaphysical world (his Nietzschean side). According to Paul Honigsheim, Weber's ethic is that of "tragedy" and "nevertheless."
+
+### 3. Rationalization Thesis
+
+#### 3.1 Rationalization as a Thematic Unity
+
+Weber's main contribution lies neither in epistemology nor in ethics. His main concern lay elsewhere – he was after all one of the founding fathers of modern social science. The overarching theme has been variously surmised as a developmental history of Western rationalism, the universal history of rationalist culture, or simply the Menschentum as it emerges and degenerates in modern rational society. All these different interpretations converge on the thematic centrality of rationality, rationalism, and rationalization in making sense of Weber.
+
+A child of modern European civilization (Kulturwelt) who studies problems of universal history shall inevitably and justifiably raise the question: what combination of circumstances have led to the fact that in the West, and here only, cultural phenomena have appeared which – at least as we like to think – came to have universal significance and validity?
+
+#### 3.2 Calculability, Predictability, and World-Mastery
+
+Rationalization means a historical drive towards a world in which "one can, in principle, master all things by calculation." Modern capitalism is a rational mode of economic life because it depends on a calculable process of production. This search for exact calculability underpins such institutional innovations as monetary accounting, centralization of production control, separation of workers from the means of production, supply of formally free labour, disciplined control on the factory floor.
+
+#### 3.3 Knowledge, Impersonality, and Control
+
+Rationalization entails objectification (Versachlichung). For another, having abandoned the principle of Khadi justice (i.e., personalized ad hoc adjudication), modern law and administration also rule in strict accordance with the systematic formal codes and sine ira et studio, that is, "without anger or passion."
+
+### 4. Modernity
+
+#### 4.1 The "Iron Cage" and Value-fragmentation
+
+No one knows who will live in this cage (Gehäuse) in the future, or whether at the end of this tremendous development entirely new prophets will arise, or there will be a great rebirth of old ideas and ideals, or, if neither, mechanized petrification, embellished with a sort of convulsive self-importance. For the "last man" (letzten Menschen) of this cultural development, it might well be truly said: "Specialist without spirit, sensualist without heart; this nullity imagines that it has attained a level of humanity (Menschentums) never before achieved."
+
+#### 4.2 Reenchantment via Disenchantment
+
+Modern science, which was singularly responsible for this late development, was initially welcomed as a surrogate system of orderly value-creation. For Weber, nevertheless, modern science is a deeply nihilistic enterprise in which any scientific achievement worthy of the name must "ask to be surpassed and made obsolete" in a process "that is in principle ad infinitum," at which point, "we come to the problem of the meaning of science."
+
+### 5. Methodology
+
+#### 5.1 Understanding (Verstehen)
+
+Weber's contribution to methodology turned mostly on the question of objectivity and the role of subjective values in historical and cultural concept formation. Action that is the subject of any social scientific inquiry is clearly different from mere behaviour. While behaviour can be accounted for without reference to inner motives and thus can be reduced to mere aggregate numbers, an action can only be interpreted because it is based on a radically subjective attribution of meaning and values to what one does.
+
+#### 5.2 Ideal Type
+
+An ideal type is formed by the one-sided accentuation of one or more points of view according to which concrete individual phenomena are arranged into a unified analytical construct (Gedankenbild); in its purely fictional nature, it is a methodological "utopia" that cannot be found empirically anywhere in reality.
+
+### 6. Politics and Ethics
+
+At the outset, it seems undeniable that Weber was a deeply liberal political thinker.
+
+Weber made the following observation about politics: "Politics means the slow drilling of hard boards through a combination of passion and perspective. It requires, first, a warm faith in a cause, and second, the power to inspire it with hope and to kindle it with fire. But this fire is not less blazing for being hidden behind the chimney, and the board is not less hard for requiring more than one boring."
+
+## 传记来源2: Britannica
+
+### Basic Facts
+Max Weber (born April 21, 1864, Erfurt, Prussia, Germany—died June 14, 1920, Munich, Germany) was a German sociologist and political economist best known for his thesis of the "Protestant ethic," relating Protestantism to capitalism, and for his ideas on bureaucracy.
+
+### Early Life and Family
+Weber was the eldest son of Max and Helene Weber. His father was an aspiring liberal politician who soon joined the more compliant, pro-Bismarckian "National-Liberals" and moved the family from Erfurt to Berlin, where he became a member of the Prussian House of Deputies (1868–97) and the Reichstag (1872–84). The elder Weber established himself as a fixture of the Berlin social milieu and entertained prominent politicians and scholars in the Weber household.
+
+The sociologist's mother was raised in Calvinist orthodoxy. Though she gradually accepted a more tolerant theology, her Puritan morality never diminished. As a result, her husband's social activities distanced her from him, especially when he spurned her prolonged grief following the deaths of two of their children. He, in turn, adopted a traditionally authoritarian manner at home and demanded absolute obedience from wife and children. It is thought that this bleak home environment, marked by conflicts between Weber's parents, contributed to the inner agonies that haunted Weber in his adult life.
+
+Weber left home to enroll at the University of Heidelberg in 1882, interrupting his studies after two years to fulfill his year of military service at Strassburg. During this time he became very close to the family of his mother's sister, Ida Baumgarten, and to her husband, the historian Hermann Baumgarten, who had a profound influence on Weber's intellectual development.
+
+### Career
+Weber therefore spent most of his formative academic years in his childhood home, where he was continually subject to his parents' conflicting interests. Since he spent his mid- and late 20s working simultaneously in two unpaid apprenticeships—as a lawyer's assistant and as a university assistant—he could not afford to live on his own until the autumn of 1893. At that time he received a temporary position teaching jurisprudence at the University of Berlin and married Marianne Schnitger, a second cousin, who would become his biographer and the editor of his collected works. Marianne Weber was also a distinguished sociologist in her own right and an early figure in the field of feminist sociology.
+
+After his marriage Weber followed a compulsive work regimen that he had begun after his return to Berlin in 1884. Only through such disciplined labour, believed Weber, could he stave off a natural tendency to self-indulgence and laziness, which could lead to an emotional and spiritual crisis.
+
+Weber's great capacity for disciplined intellectual effort, together with his unquestionable brilliance, led to his meteoric professional advance. One year after his appointment at Berlin, he became a full professor in political economy at Freiburg, and the following year (1896) he attained that position at Heidelberg.
+
+### The Freiburg Address
+The high point of his early scholarly career was his inaugural address at Freiburg in 1895, in which he pulled together some five years of study on the agrarian problems of Germany east of the Elbe into a devastating indictment of the ruling Junker aristocracy as historically obsolete. In Weber's view, however, the existing liberal parties were in no position to challenge and replace the Junkers. Nor was the working class ready to accept the responsibilities of power. Only the nation as a whole, educated to political maturity by a conscious policy of overseas imperial expansion, could bring Germany to the level of political maturity attained by the French in the revolutionary and Napoleonic eras and by the British in the course of their imperial expansion in the 19th century. Weber's Freiburg address thus advanced an ideology of "liberal imperialism."
+
+### Nervous Collapse
+In the months following his father's death in August 1897, an increasing nervousness plagued the young scholar. In the autumn of 1897 brought a brief respite, which ended in early 1898 with the first signs of the nervous collapse that would incapacitate him between mid-1898 and 1903. For five years he was intermittently institutionalized, suffering sudden relapses after slow recoveries and vain efforts to break such cycles by traveling. He resigned his professorship at Heidelberg at the height of his illness.
+
+## 传记来源3: Wikipedia
+
+### Birth and Early Life
+Maximilian Carl Emil Weber (1864–1920) was a German sociologist, historian, jurist, and political economist who was one of the central figures in the development of sociology and the social sciences more generally. His ideas continue to influence social theory and research.
+
+Born in Erfurt in 1864, Weber studied law and history in Berlin, Göttingen, and Heidelberg. His father Max Weber Sr. held posts as a lawyer, civil servant, and parliamentarian for the National Liberal Party in the Prussian Landtag and German Reichstag. This immersed his home in both politics and academia. His mother Helene Fallenstein was partly descended from the French Huguenot Souchay family, which had obtained wealth through international commerce and the textile industry. Over time, Weber was affected by the marital and personality tensions between his father, who enjoyed material pleasures while overlooking religious and philanthropic causes, and his mother, a devout Calvinist and philanthropist.
+
+Before graduating from the Kaiserin-Augusta-Gymnasium in 1882, Weber secretly read all forty volumes of Johann Wolfgang von Goethe's works. He read many other classical works, including those by the philosopher Immanuel Kant. For Christmas in 1877, a thirteen-year-old Weber gifted his parents two historical essays.
+
+### Academic Career and Breakdown
+Weber enrolled in Heidelberg University in 1882 as a law student. In 1886, he passed the Referendar legal training examination. Under the tutelage of Levin Goldschmidt and Rudolf von Gneist, Weber wrote his dissertation in 1889. His habilitation was completed in 1891.
+
+He married his second cousin Marianne Schnitger on September 20, 1893. Marianne was a feminist activist and an author in her own right. They had no children. Academically, between completing his dissertation and habilitation, Weber became interested in contemporary social policy and joined the Verein für Sozialpolitik in 1888.
+
+He was appointed professor of economics at the University of Freiburg in 1894. His 1895 inaugural lecture, "The Nation State and Economic Policy," criticised Polish immigration and argued that the Junkers encouraged it to serve their economic interests over those of Germany.
+
+In June 1897, Weber had a severe quarrel with his father over his father's treatment of his mother. Weber Sr. died two months later during a trip to Riga, leaving the argument unresolved. Afterwards, Weber became increasingly depressed, nervous, and insomniac, making it difficult for him to fulfill his professorial duties. He sought a teaching exemption, which was granted in 1899. He fully withdrew from teaching in 1903 and did not return to it until 1918.
+
+### Recovery and Return
+After recovering from his illness, Weber became an associate editor of the Archiv für Sozialwissenschaft und Sozialpolitik in 1904. He published some of his most seminal works in it, including his book The Protestant Ethic and the Spirit of Capitalism, which became his most famous work.
+
+Also in 1904, he participated in the Congress of Arts and Sciences that was part of the World's Fair in St. Louis. Taking advantage of it, the Webers travelled throughout the country for almost three months in a round trip that began and ended in New York City.
+
+In 1909, having become increasingly dissatisfied with the political conservatism and perceived lack of methodological discipline of the Verein, he co-founded the German Sociological Association (Deutsche Gesellschaft für Soziologie) and was its first treasurer. He resigned from his position as treasurer in 1912. His support for value-freedom in the social sciences caused that, as it was a controversial position in the association.
+
+### WWI and Political Engagement
+After the First World War began in 1914, Weber volunteered for service and was appointed as a reserve officer in charge of organising the Heidelberg army hospitals. Early on, he strongly supported the German war effort. However, Weber later became one of the most prominent critics of both German expansionism and the Kaiser's war policies. He publicly criticised Germany's potential annexation of Belgium and unrestricted submarine warfare, later supporting calls for constitutional reform, democratisation, and universal suffrage.
+
+### Weimar and Final Years
+When defeat came in 1918, Germany found in Weber a public intellectual leader with unscathed liberal credentials. He was invited to join the draft board of the Weimar Constitution as well as the German delegation to Versailles. He opposed the German Revolution and the Versailles Treaty alike.
+
+In 1919, he briefly taught at the universities of Vienna and Munich (where he gave the much-lauded lectures, "Science as a Vocation" and "Politics as a Vocation").
+
+He died of pneumonia in 1920 at the age of 56, possibly as a result of the post-war Spanish flu pandemic. A book, Economy and Society, was left unfinished.
+
+### Key Works
+- "The 'Objectivity' of Knowledge in Social Science and Social Policy" (1904)
+- The Protestant Ethic and the Spirit of Capitalism (1904–1905)
+- The Economic Ethics of the World Religions (1915–1921)
+- "Science as a Vocation" (1917)
+- "Politics as a Vocation" (1919)
+- Economy and Society (1921–1922)
+- General Economic History (1923)
+
+### Key Ideas
+- Bureaucracy
+- Charisma
+- Disenchantment
+- Ethic of ultimate ends
+- Ideal type
+- Inner-worldly asceticism
+- Iron cage
+- Life chances
+- Methodological individualism
+- Monopoly on violence
+- Protestant work ethic
+- Rationalisation
+- Social action
+- Three-component theory of stratification (class, party, and status)
+- Tripartite classification of authority (charismatic, rational-legal, and traditional)
+- Value-freedom
+- Verstehen
+
+## 引语摘录 (来源: Goodreads quotes + 其他来源)
+
+"Politics means the slow drilling of hard boards through a combination of passion and perspective. It requires, first, a warm faith in a cause, and second, the power to inspire it with hope and to kindle it with fire. But this fire is not less blazing for being hidden behind the chimney, and the board is not less hard for requiring more than one boring."
+— Max Weber
+
+"It is horrible to think that the world could one day be filled with nothing but those little cogs, little men clinging to little jobs and striving towards bigger ones - a state of affairs which is to be seen once more, as in the Egyptian records, playing an ever-increasing part in the spirit of our present administrative system, and especially of its offspring, the students. This passion for bureaucracy ... is enough to drive one to despair. It is as if in politics ... we were deliberately to become men who need 'order' and nothing but order, become nervous and cowardly if for one moment this order wavers, and helpless if they are torn away from their total incorporation in it."
+— Max Weber
+
+"The fate of our times is characterized by rationalization and intellectualization and, above all, by the disenchantment of the world."
+— Max Weber
+
+"In a democracy the people choose a leader in whom they trust. Then the chosen leader says, 'Now shut up and obey me.' People and party are then no longer free to interfere in his business."
+— Max Weber, From Max Weber: Essays in Sociology
+
+"No one knows who will live in this cage in the future, or whether at the end of this tremendous development entirely new prophets will arise, or there will be a great rebirth of old ideas and ideals, or, if neither, mechanized petrifaction, embellished with a sort of convulsive self-importance. For of the last stage of this cultural development, it might well be truly said: 'Specialists without spirit, sensualists without heart; this nullity imagines that it has attained a level of civilization never before achieved."
+— Max Weber
+
+"...the ultimately possible attitudes toward life are irreconcilable, and hence their struggle can never be brought to a final conclusion."
+— Max Weber, From Max Weber: Essays in Sociology
+
+"As intellectualism suppresses belief in magic, the world's processes become disenchanted, lose the magical significance, and henceforth simply 'are' and 'happen' but no longer signify anything."
+— Max Weber
+
+"The capitalistic economy of the present day is an immense cosmos into which the individual is born, and which presents itself to him, at least as an individual, as an unalterable order of things in which he must live."
+— Max Weber, The Protestant Ethic and the Spirit of Capitalism
+
+"Only he has the calling for politics who is sure that he will not crumble when, from his point of view, the world is too stupid or too abject for what he is offering; only those who can say 'nevertheless' at the face of all these adversities."
+— Max Weber, The Vocation Lectures: Science as a Vocation/Politics as a Vocation
+
+"Science, to Weber, gives methods of explanation and means of justifying a position, but it cannot explain why that position is worth holding in the first place; this is the task of philosophy."
+— Summary of Weber's Science as a Vocation
+
+"Weber saw modernity as characterized by the process of rationalization which leads to an 'iron cage' that limits freedom."
+— Source: uregina.ca sociology notes
+
+"In sociology, the iron cage is a concept introduced by Max Weber to describe the increased rationalization inherent in social life, particularly in Western capitalist societies. The 'iron cage' thus traps individuals in systems based purely on teleological efficiency, rational calculation and control."
+— Source: Wikipedia on Iron Cage

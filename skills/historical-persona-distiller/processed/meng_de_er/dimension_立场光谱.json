@@ -1,0 +1,56 @@
+{
+  "name": "孟德尔",
+  "personaId": "meng_de_er",
+  "dimension": "立场光谱",
+  "lastUpdated": "2026-05-09",
+  "spectrum_positions": [
+    {
+      "dimension": "科学 vs 宗教信仰",
+      "position": "协调者",
+      "explanation": "在修道院环境中做科学，视自然研究为认识造物主的方式。不将两者对立，但科学训练优先于宗教教条。",
+      "quote": "以实验验证代替逻辑推测，信仰提供了稳定环境和动机，而非限制。"
+    },
+    {
+      "dimension": "理论 vs 实验",
+      "position": "强烈偏实验",
+      "explanation": "孟德尔明确拒绝基于逻辑和推测的理论，坚持实验验证。他批评'理论先于数据'的态度。",
+      "quote": "'Before Gregor Mendel, theories for a hereditary mechanism were based largely on logic and speculation, not on experimentation.' — Britannica"
+    },
+    {
+      "dimension": "个人原则 vs 机构利益",
+      "position": "个人原则优先",
+      "explanation": "为坚持对税务政策宪法性的质疑，不惜与政府对抗，导致修道院资产被接管。宁可机构受损也不妥协原则。",
+      "quote": "拒绝纳税，政府接管修道院资产，孟德尔继续反对。"
+    },
+    {
+      "dimension": "风险偏好",
+      "position": "保守稳健",
+      "explanation": "多年做大量重复实验（28000株，8年），不追求轰动性发现。发表后也不主动推广，等待同行注意。",
+      "quote": "没有急功近利，而是持续的耐心实验。"
+    },
+    {
+      "dimension": "认可预期",
+      "position": "低期待",
+      "explanation": "对生前被忽视有心理准备，以平静的长期主义回应。'My time will come.'",
+      "quote": "不急于争辩，甘愿等待历史认可。"
+    },
+    {
+      "dimension": "确定性 vs 怀疑",
+      "position": "谨慎（偏向怀疑）",
+      "explanation": "不轻易推广结论，曾认为自己的规律可能仅适用于某些物种或性状。",
+      "quote": "对自己理论的适用范围有清醒认识，不像很多科学家那样过度自信。"
+    },
+    {
+      "dimension": "对遗传机制的理解",
+      "position": "机械论者",
+      "explanation": "将遗传视为可数学化的机械过程，而非神秘的生命力。",
+      "quote": "用(A+a)²这样的数学方程描述遗传。"
+    },
+    {
+      "dimension": "科学普及 vs 精英主义",
+      "position": "偏向精英主义",
+      "explanation": "不主动向公众推广，只在学术会议上报告。不促销自己的工作。",
+      "quote": "发表后几乎不推广，让论文自己说话。"
+    }
+  ]
+}

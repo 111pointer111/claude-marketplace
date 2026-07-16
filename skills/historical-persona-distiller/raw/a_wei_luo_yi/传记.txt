@@ -1,0 +1,101 @@
+# 阿威罗伊 (Averroes / Ibn Rushd) — 原始语料
+
+## 基本信息
+- 全名：Abū al-Walīd Muḥammad ibn Aḥmad ibn Muḥammad ibn Rushd
+- 生卒：1126年4月14日—1198年12月10日
+- 出生地：科尔多瓦（Córdoba），西班牙（当时为Almohad帝国）
+- 逝世地：马拉喀什（Marakesh），摩洛哥
+- 身份：安达卢斯哲学家、法学家、医生、数学家
+- 拉丁名：Averroes
+
+## 家庭背景
+- 出身于马利克法学派著名法学家家族
+- 祖父Abū al-Walīd Muḥammad（1126年逝世）曾任科尔多瓦首席法官（Almoravid时期）
+- 父亲Abū al-Qasim Ahmad也担任同样职位，直到Almohad王朝取代Almoravid（1146年）
+
+## 教育背景
+- 学习内容：圣训（Hadith）、语言学、法学（fiqh）、经院神学（kalām）
+- 医学教育：师从Abu Jafar ibn Harun of Trujillo
+- 受哲学家Ibn Bājja（Avempace）影响，可能曾受其指导
+- 与Ibn Tufayl（Abubacer）为友
+
+## 职业生涯
+- 1153-1169年间：结识Ibn Tufayl，引入Almohad哈里发Abū Yaʿqūb Yūsuf
+- 1169年：受哈里发委托，对亚里士多德著作进行注释
+- 1160年：任塞维利亚法官（Qadi）
+- 约1162年：任科尔多瓦首席法官
+- 1182年：接替Ibn Tufayl成为哈里发Abū Yaʿqūb Yūsuf的御医
+- 1184年：继续担任哈里发Abū Yūsuf Yaʿqūb的御医
+
+## 晚年
+- 1195年：在宗教激进派压力下被放逐到Lucena
+- 1197年：召回科尔多瓦
+- 1198年：在马拉喀什逝世
+
+## 主要著作
+
+### 哲学著作
+1. **Faṣl al-Maqāl（决定性论文/信仰与理性）** — 论证哲学与伊斯兰教法一致性的经典论文
+2. **Tahāfut al-Tahāfut（哲学的悖论/反对Ghazali）** — 为哲学辩护，反驳al-Ghazali的《哲学家的悖论》
+3. **al-Kashf 'an manāhij al-adilla（揭示宗教教义的方法）** — 对Ashari、Mutazilite、Sufi和"literalist"神学家的批评
+
+### 医学著作
+4. **Kitab al-Kulyat fi al-Tibb（医学总论/Colliget）** — 医学百科全书，欧洲使用了数百年
+
+### 亚里士多德注疏（三类）
+- 短注释（jawāmiʿ/epitome）：职业生涯早期
+- 中注释（talkhīṣ/paraphrase）：贯穿职业生涯
+- 长注释（sharḥ/tafsīr/literal commentary）：晚年
+
+### 注疏范围
+覆盖亚里士多德《工具论》《论灵魂》《物理学》《形而上学》《动物部分论》《小自然》《修辞学》《诗学》《尼各马可伦理学》等；另有柏拉图《理想国》、Galen著作、Avicenna逻辑学等。
+
+## 核心哲学立场
+
+### 关于哲学与宗教的关系
+- 伊斯兰教法命令研究哲学（引用《古兰经》3:191等）
+- 三种认识真理的方式：证明性（哲学家）、辩证性（神学家）、修辞性（大众）
+- 表面冲突的经文应做隐喻性解释
+- 哲学真理不能与启示矛盾——如表面矛盾，必然只是表面矛盾
+
+### 对al-Ghazali的回应
+- al-Ghazali在《哲学家的悖论》中攻击Avicenna和al-Farabi
+- Ibn Rushd反驳：因果关系是事物本质属性，非习惯性联想
+- 拒绝"偶因论"（occasionalism）：火不是"碰巧"在特定条件下燃烧，而是本质必然
+
+### 形而上学
+- 追随亚里士多德：世界永恒存在，非从虚无创造
+- 第一因（Prime Mover）通过被追求而推动天体运转（目的因而非动力因）
+- 区分essential ordered causal series（必须有第一因）和accidental series（可以无限）
+- 天体是永恒的、不可腐败的，由独立理智（separate intellects）推动
+
+### 心理学/灵魂论
+- 灵魂分五层：营养的、感觉的、想象的、欲望的、理性的
+- 物质理智（material intellect）是单一、永恒、非物质的实体
+- 能动理智（agent intellect）照亮想象内容使其普遍化
+- 人类通过物质理智思考，但它与个体想象能力连接
+
+### 上帝知识论
+- 上帝作为第一因知道特殊事物，因其永远已经知道将要发生的事
+- 上帝知识不同于人类知识——不是从结果推导原因，而是作为原因本身
+- 时间只在物理宇宙中存在
+
+## 历史影响
+
+### 在伊斯兰世界
+- 其辩护未能恢复哲学的昔日地位
+- 安达卢斯和北非的哲学氛围对其不利
+
+### 在基督教西方
+- 12世纪起，通过拉丁翻译，亚里士多德作品得以在西欧复兴
+- 巴黎大学"阿威罗伊主义者"（Siger of Brabant等）引发争议
+- 托马斯·阿奎那既受其影响又批评其错误
+- 但丁在《神曲》中将其置于炼狱
+
+### 在犹太思想界
+- 通过希伯来语翻译影响Maimonides、Moses Narboni、Abraham ibn Ezra等
+
+## 著名引语
+- "研究哲学是宗教命令" — Fasl al-Maqāl
+- "火当木头靠近时燃烧不是习惯，而是本质" — Tahāfut al-Tahāfut
+- "哲学与宗教在真理上不可能冲突" — Fasl al-Maqāl

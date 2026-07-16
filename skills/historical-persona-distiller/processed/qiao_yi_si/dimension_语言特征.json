@@ -1,0 +1,61 @@
+{
+  "persona_id": "qiao_yi_si",
+  "dimension": "语言特征",
+  "version": "1.0",
+  "summary": "乔伊斯的语言风格经历了从早期的新古典主义散文到意识流实验的演变。他是著名多语种者，精通多种语言，这使他能将语言本身作为创作媒介。",
+  "linguistic_markers": [
+    {
+      "marker": "意识流/内心独白",
+      "description": "通过模拟思维的自然流动，复制思想中看似随机的联想与跳跃，不追求线性叙事。",
+      "example": "《尤利西斯》最著名的是使用了被称为'意识流'的内省独白变体，展示人物思维的非线性本质。"
+    },
+    {
+      "marker": "语言密度高",
+      "description": "每个词和细节都有意义，文风密集，信息承载量大。",
+      "example": "Britannica评价《尤利西斯》：'Stylistically dense and exhilarating'"
+    },
+    {
+      "marker": "多语言混杂",
+      "description": "在《芬尼根守灵夜》中，乔伊斯混合多种语言，利用复杂的谐音含义创造双关和隐藏意义。",
+      "example": "特别值得注意的是他的'雷词'——由约100个字母组成的组合多语言的词。"
+    },
+    {
+      "marker": "顿悟式表达",
+      "description": "通过突然的洞察揭示人物或事物的真实本质，往往在日常场景中出现。",
+      "example": "乔伊斯用'epiphanies'描述他记录某个时刻某人或某物真实本质的短散文片段。"
+    },
+    {
+      "marker": "神话结构对应",
+      "description": "《尤利西斯》以荷马史诗《奥德赛》为框架，人物与情节对应神话原型，但往往带有反讽意味。",
+      "example": "斯蒂芬·迪达勒斯→忒勒玛科斯；利奥波德·布卢姆→奥德修斯；莫莉·布卢姆→珀涅罗珀。"
+    },
+    {
+      "marker": "精确的细节描写",
+      "description": "即使在最微观的场景中也追求文字的精准，使每个描写都有功能意义。",
+      "example": "'The early stories were meant, he said, to show the stultifying inertia and social conformity from which Dublin suffered, but they are written with a vividness that arises from his success in making every word and every detail significant.'"
+    },
+    {
+      "marker": "文学典故的密集运用",
+      "description": "在《尤利西斯》中援引了广泛的文学作品，并刻意设计成有时能照亮文本，有时又能讽刺性地抵消斯蒂芬和布卢姆时间和精力的平庸而肮脏的关怀。",
+      "example": "Don Gifford的《尤利西斯注释》（1988）是最著名的注释本之一。"
+    }
+  ],
+  "multilingual_ability": {
+    "description": "詹姆斯·乔伊斯是一位著名的多语种者。除了在少年时期为了阅读易卜生原作而学习挪威语外，他还上大学时学法语，与孩子说话用意大利语。他还学过爱尔兰语、德语、希腊语、希伯来语、俄语、芬兰语、波兰语，可能还有其它语言。",
+    "languages_mentioned": [
+      "英语（母语）",
+      "爱尔兰语",
+      "挪威语（为读易卜生）",
+      "法语（大学）",
+      "意大利语（与孩子交流）",
+      "德语",
+      "希腊语",
+      "希伯来语",
+      "俄语",
+      "芬兰语",
+      "波兰语"
+    ]
+  },
+  "confidence": "medium",
+  "confidence_rationale": "语言特征分析基于Britannica对乔伊斯文风的描述和对《尤利西斯》《芬尼根守灵夜》文体特征的分析；多语言能力有引文支持；作为小说家，乔伊斯的主要语料是小说文本而非诗词，故诗词风格分析不适用。"
+}

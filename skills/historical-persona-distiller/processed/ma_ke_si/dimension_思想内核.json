@@ -1,0 +1,108 @@
+{
+  "核心价值观": [
+    {
+      "条目": "历史唯物主义：物质生产方式决定社会形态与意识形态",
+      "描述": "马克思认为，不是人们的意识决定人们的存在，相反，是人们的社会存在决定人们的意识。一切历史冲突根源于生产力和生产关系之间的矛盾。",
+      "原文引用": [
+        "The mode of production of material life conditions the general process of social, political and intellectual life. It is not the consciousness of men that determines their existence, but their social existence that determines their consciousness. (1859 Preface to A Critique of Political Economy, via Stanford Encyclopedia)",
+        "In the German Ideology, Marx and Engels start from 'real human beings', emphasising that human beings are essentially productive, in that they must produce their means of subsistence in order to satisfy their material needs."
+      ],
+      "同时代对比": "同时代资产阶级经济学家（如亚当·斯密）将资本主义视为自然的、永恒的制度；马克思则将其理解为历史的、过渡性的生产方式",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "阶级斗争是历史发展的直接动力",
+      "描述": "马克思认为自从原始社会解体以来，人类的全部历史都是阶级斗争的历史。资产阶级和无产阶级之间的矛盾必然导致无产阶级革命和资本主义的覆灭。",
+      "原文引用": [
+        "The history of all hitherto existing society is the history of class struggles. Freeman and slave, patrician and plebeian, lord and serf, guildmaster and journeyman, in a word, oppressor and oppressed, stood in constant opposition to one another. (Communist Manifesto, via Britannica)",
+        "The bourgeoisie cannot exist without constantly revolutionising the instruments of production. (Communist Manifesto, via Stanford Encyclopedia)"
+      ],
+      "同时代对比": "青年黑格尔派关注宗教批判和思想斗争；马克思则将斗争焦点转向经济基础和阶级关系",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "工人阶级是被压迫者的解放力量",
+      "描述": "马克思认为无产阶级是资本主义的掘墓人，他们受剥削最重，因而也是最有动力推翻现有制度的力量。人类的解放要靠工人阶级自己，不能依赖统治阶级的善心。",
+      "原文引用": [
+        "The brotherhood of man is no mere phrase with them, but a fact of life, and the nobility of man shines upon us from their work-hardened bodies. (Economic and Philosophic Manuscripts of 1844, via Britannica)",
+        "Philosophy turns itself against the world that it finds. (on Young Hegelians, via Encyclopedia.com)"
+      ],
+      "同时代对比": "与圣西门、傅立叶等空想社会主义者不同，马克思强调革命实践而非道德呼吁",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "宗教是人民的精神鸦片",
+      "描述": "马克思认为宗教是苦难现实在人们意识中的反映和虚幻安慰。批判宗教是批判现实苦难的前提条件，而非目的本身。",
+      "原文引用": [
+        "Religion is the opium of the people. (Contribution to Hegel's Critique of Right: Introduction, 1843, via Stanford Encyclopedia)",
+        "Religion is the 'sigh of the oppressed creature, the heart of a heartless world, just as it is the spirit of spiritless conditions.' (via SerpAPI featured snippet, original source 1843 essay)"
+      ],
+      "同时代对比": "费尔巴哈将宗教视为纯粹的智力错误；马克思则指出宗教根源于物质生活的异化",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "人应当通过劳动实现自我本质，而非被劳动异化",
+      "描述": "在资本主义制度下，工人与劳动产品、劳动活动、类本质和他人相异化。真正的自由劳动是人的类本质的体现，共产主义将实现人的自我异化的扬弃。",
+      "原文引用": [
+        "Marx identifies four dimensions of alienated labour: (1) immediate producers are separated from the product of their labour; (2) immediate producers are separated from their productive activity; (3) immediate producers are separated from other individuals; (4) immediate producers are separated from their own human nature. (1844 Manuscripts, via Stanford Encyclopedia)",
+        "Marx holds that work has the potential to be something creative and fulfilling. Productive activity is a central element in what it is to be a human being, and self-realisation through work is a vital component of human flourishing. (via Stanford Encyclopedia)"
+      ],
+      "同时代对比": "同时代自由主义者接受雇佣劳动的消极面；马克思将其视为根本性的异化状态",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    }
+  ],
+  "政治立场": {
+    "描述": "彻底的革命社会主义立场，坚决反对资产阶级民主制，主张通过无产阶级革命推翻资本主义制度，建立无阶级社会",
+    "原文引用": [
+      "Workers of all lands, unite! (Communist Manifesto closing line, via Britannica)",
+      "The Communist Manifesto asserted that all human history had been based on class struggles, but that these would ultimately disappear with the victory of the proletariat. (via BBC Historic Figures)"
+    ],
+    "时代坐标": "19世纪欧洲社会主义运动的主流代表，与封建保皇派、资产阶级自由派、激进民主派均有本质区别",
+    "内在张力": "马克思晚年对议会道路和选举政治的暧昧态度，与《宣言》中的革命路线之间存在一定张力，但这更多体现为策略调整而非根本立场的改变",
+    "confidence": "high"
+  },
+  "底线清单": [
+    {
+      "条目": "不与资产阶级政党结成政治联盟",
+      "描述": "马克思坚持工人阶级的独立政治组织，与资产阶级政党的任何合并都视为对工人阶级的背叛",
+      "原文引用": [
+        "In 1875, he wrote the Critique of the Gotha Program, which criticized the Eisenach faction's merger with the Lasallean faction, arguing that any compromise with the existing state power was a betrayal of the working class. (based on Encyclopedia.com record)"
+      ],
+      "是否有例外": "有——在第一国际中曾与资产阶级激进派合作，但始终坚持工人阶级领导权"
+    },
+    {
+      "条目": "批判一切宗教作为统治工具",
+      "描述": "无论何种宗教，均视为统治阶级控制民众意识的精神枷锁",
+      "原文引用": [
+        "Religion is the opium of the people. (1843)"
+      ],
+      "是否有例外": "无"
+    },
+    {
+      "条目": "坚持劳动价值论和剩余价值学说",
+      "描述": "利润、利息、地租均来源于劳动者的无偿劳动——这是其整个政治经济学批判的基础",
+      "原文引用": [
+        "Surplus value, according to Marx, is the source of all profit. (Capital, via Stanford Encyclopedia)"
+      ],
+      "是否有例外": "无"
+    }
+  ],
+  "自我定位": {
+    "描述": "马克思自视为历史的工具、工人阶级的代言人，他否认自己发明了新思想，而认为自己发现了历史发展的客观规律",
+    "原文引用": [
+      "Philosophy, for Marx, 'turns itself against the world that it finds.' (Encyclopedia.com, on Marx's Prometheus quotation)",
+      "Prometheus is the noblest saint and martyr in the calendar of philosophy. (from doctoral dissertation, via Britannica)"
+    ],
+    "与时代关系": "马克思将自己的角色定位为时代的解剖者——不是创造历史，而是认识并推动历史规律的实现"
+  },
+  "思想内部张力": {
+    "主要矛盾": "道德义愤（对资本主义剥削的愤慨）与科学分析（将资本主义视为历史必然阶段）的内在张力",
+    "深层原因": "马克思既认为资本主义必然灭亡（历史规律），又呼吁工人阶级主动革命（能动性），这两者之间的逻辑关系从未完全打通，形成其理论的一个内在困难",
+    "对人格的影响": "这种张力使他在著述中时而冷峻如解剖刀，时而激烈如战斗檄文，形成独特的双重复调风格"
+  }
+}

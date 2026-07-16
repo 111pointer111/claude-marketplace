@@ -1,0 +1,119 @@
+# 亚历山大·弗莱明 传记语料
+
+## 来源
+- Britannica: https://www.britannica.com/biography/Alexander-Fleming
+- Nobel Prize官方传记: https://www.nobelprize.org/prizes/medicine/1945/fleming/biographical/
+- Science History Institute: https://www.sciencehistory.org/education/scientific-biographies/alexander-fleming/
+- Wikipedia: https://en.wikipedia.org/wiki/Alexander_Fleming
+- New World Encyclopedia: https://www.newworldencyclopedia.org/entry/Alexander_Fleming
+
+## 正文
+
+Alexander Fleming (born August 6, 1881, Lochfield Farm, Darvel, Ayrshire, Scotland—died March 11, 1955, London, England) was a Scottish bacteriologist best known for his discovery of penicillin. Fleming had a genius for technical ingenuity and original observation. His work on wound infection and lysozyme, an antibacterial enzyme found in tears and saliva, guaranteed him a place in the history of bacteriology. But it was his discovery of penicillin in 1928, which started the antibiotic revolution, that sealed his lasting reputation. Fleming was recognized for that achievement in 1945, when he received the Nobel Prize for Physiology or Medicine, along with Australian pathologist Howard Walter Florey and German-born British biochemist Ernst Boris Chain, both of whom isolated and purified penicillin.
+
+## Education and early career
+
+Fleming was the seventh of eight children of a Scottish hill farmer (third of four children from the farmer's second wife). His country upbringing in southwestern Scotland sharpened his capacities for observation and appreciation of the natural world at an early age. He began his elementary schooling at Loudoun Moor and then moved on to a larger school at Darvel before enrolling in Kilmarnock Academy in 1894. In 1895 he moved to London to live with his elder brother Thomas (who worked as an oculist) and completed his basic education at Regent Street Polytechnic. After working as a London shipping clerk, Fleming began his medical studies at St. Mary's Hospital Medical School in 1901, funded by a scholarship and a legacy from his uncle. There he won the 1908 gold medal as top medical student at the University of London. At first he planned to become a surgeon, but a temporary position in the laboratories of the Inoculation Department at St. Mary's Hospital convinced him that his future lay in the new field of bacteriology. There he came under the influence of bacteriologist and immunologist Sir Almroth Edward Wright, whose ideas of vaccine therapy seemed to offer a revolutionary direction in medical treatment.
+
+Between 1909 and 1914 Fleming established a successful private practice as a venereologist, and in 1915 he married Sarah Marion McElroy, an Irish nurse. Fleming's son, Robert, born in 1924, followed his father into medicine. Fleming was one of the first doctors in Britain to administer arsphenamine (Salvarsan), a drug effective against syphilis that was discovered by German scientist Paul Ehrlich in 1910. During World War I, Fleming had a commission in the Royal Army Medical Corps and worked as a bacteriologist studying wound infections in a laboratory that Wright had set up in a military hospital housed in a casino in Boulogne, France. There he demonstrated that the use of strong antiseptics on wounds did more harm than good and recommended that the wounds simply be kept clean with a mild saline solution. Fleming returned to St. Mary's after the war and was promoted to assistant director of the Inoculation Department. Years later, in 1946, he succeeded Wright as principal of the department, which was renamed the Wright-Fleming Institute.
+
+In November 1921 Fleming discovered lysozyme, an enzyme present in body fluids such as saliva and tears that has a mild antiseptic effect. That was the first of his major discoveries. It came about when he had a cold and a drop of his nasal mucus fell onto a culture plate of bacteria. Realizing that his mucus might have an effect on bacterial growth, he mixed the mucus into the culture and a few weeks later saw signs of the bacteria's having been dissolved. Fleming's study of lysozyme, which he considered his best work as a scientist, was a significant contribution to the understanding of how the body fights infection. Unfortunately, lysozyme had no effect on the most-pathogenic bacteria.
+
+## Discovery of penicillin
+
+On September 3, 1928, shortly after his appointment as professor of bacteriology, Fleming noticed that a culture plate of Staphylococcus aureus he had been working on had become contaminated by a fungus. A mold, later identified as Penicillium notatum (now classified as P. chrysogenum), had inhibited the growth of the bacteria. He at first called the substance "mould juice" and then "penicillin," after the mold that produced it. Fleming decided to investigate further, because he thought that he had found an enzyme more potent than lysozyme. In fact, it was not an enzyme but an antibiotic—one of the first to be discovered. By the time Fleming had established that, he was interested in penicillin for itself. Very much the lone researcher with an eye for the unusual, Fleming had the freedom to pursue anything that interested him. Although that approach was ideal for taking advantage of a chance observation, the therapeutic development of penicillin required multidisciplinary teamwork. Fleming, working with two young researchers, failed to stabilize and purify penicillin. However, he did point out that penicillin had clinical potential, both as a topical antiseptic and as an injectable antibiotic, if it could be isolated and purified.
+
+Penicillin eventually came into use during World War II as the result of the work of a team of scientists led by Howard Florey at the University of Oxford. Though Florey, his coworker Ernst Chain, and Fleming shared the 1945 Nobel Prize, their relationship was clouded by the issue of who should gain the most credit for penicillin. Fleming's role was emphasized by the press because of the romance of his chance discovery and his greater willingness to speak to journalists.
+
+## Later life
+
+Initially a shy uncommunicative man and a poor lecturer, he blossomed under the attention he received, becoming one of the world's best-known scientists. He was knighted in 1944. In 1949 his first wife, who had changed her name to Sareen, died. In 1953, two years prior to his death, Fleming married Greek microbiologist Amalia Coutsouris-Voureka, who had been involved in the Greek resistance movement during World War II and had been Fleming's colleague since 1946, when she enrolled at St. Mary's Hospital on a scholarship. For the last decade of his life, Fleming was feted universally for his discovery of penicillin and acted as a world ambassador for medicine and science.
+
+## Nobel Prize官方传记补充
+
+Sir Alexander Fleming was born at Lochfield near Darvel in Ayrshire, Scotland on August 6th, 1881. He attended Loudoun Moor School, Darvel School, and Kilmarnock Academy before moving to London where he attended the Polytechnic. He spent four years in a shipping office before entering St. Mary's Medical School, London University. He qualified with distinction in 1906 and began research at St. Mary's under Sir Almroth Wright, a pioneer in vaccine therapy. He gained M.B., B.S., (London), with Gold Medal in 1908, and became a lecturer at St. Mary's until 1914. He served throughout World War I as a captain in the Army Medical Corps, being mentioned in dispatches, and in 1918 he returned to St.Mary's. He was elected Professor of the School in 1928 and Emeritus Professor of Bacteriology, University of London in 1948. He was elected Fellow of the Royal Society in 1943 and knighted in 1944.
+
+Early in his medical life, Fleming became interested in the natural bacterial action of the blood and in antiseptics. He was able to continue his studies throughout his military career and on demobilization he settled to work on antibacterial substances which would not be toxic to animal tissues. In 1921, he discovered in «tissues and secretions» an important bacteriolytic substance which he named Lysozyme. About this time, he devised sensitivity titration methods and assays in human blood and other body fluids, which he subsequently used for the titration of penicillin. In 1928, while working on influenza virus, he observed that mould had developed accidently on a staphylococcus culture plate and that the mould had created a bacteria-free circle around itself. He was inspired to further experiment and he found that a mould culture prevented growth of staphylococci, even when diluted 800 times. He named the active substance penicillin.
+
+Sir Alexander wrote numerous papers on bacteriology, immunology and chemotherapy, including original descriptions of lysozyme and penicillin. They have been published in medical and scientific journals.
+
+Fleming, a Fellow of the Royal College of Surgeons (England), 1909, and a Fellow of the Royal College of Physicians (London), 1944, has gained many awards. They include Hunterian Professor (1919), Arris and Gale Lecturer (1929) and Honorary Gold Medal (1946) of the Royal College of Surgeons; Williams Julius Mickle Fellowship, University of London (1942); Charles Mickle Fellowship, University of Toronto (1944); John Scott Medal, City Guild of Philadelphia (1944); Cameron Prize, University of Edinburgh (1945); Moxon Medal, Royal College of Physicians (1945); Cutter Lecturer, Harvard University (1945); Albert Gold Medal, Royal Society of Arts (1946); Gold Medal, Royal Society of Medicine (1947); Medal for Merit, U.S.A. (1947); and the Grand Cross of Alphonse X the Wise, Spain (1948).
+
+He served as President of the Society for General Microbiology, he was a Member of the Pontifical Academy of Science and Honorary Member of almost all the medical and scientific societies of the world. He was Rector of Edinburgh University during 1951-1954, Freeman of many boroughs and cities and Honorary Chief Doy-gei-tau of the Kiowa tribe. He was also awarded doctorate, honoris causa, degrees of almost thirty European and American Universities.
+
+In 1915, Fleming married Sarah Marion McElroy of Killala, Ireland, who died in 1949. Their son is a general medical practitioner. Fleming married again in 1953, his bride was Dr. Amalia Koutsouri-Voureka, a Greek colleague at St. Mary's.
+
+In his younger days he was a keen member of the Territorial Army and he served from 1900 to 1914 as a private in the London Scottish Regiment.
+
+Dr Fleming died on March 11th in 1955 and is buried in St. Paul's Cathedral.
+
+## Science History Institute 补充
+
+Fleming's legendary discovery of penicillin occurred in 1928, while he was investigating staphylococcus, a common type of bacteria that causes boils and can also cause disastrous infections in patients with weakened immune systems. Before Fleming left for a two-week vacation, a petri dish containing a staphylococcus culture was left on a lab bench and never placed in the incubator as intended.
+
+Somehow, in preparing the culture, a Penicillium mold spore had been accidentally introduced into the medium—perhaps coming in through a window, or more likely floating up a stairwell from the lab below where various molds were being cultured. The temperature conditions that prevailed during Fleming's absence permitted both the bacteria and the mold spores to grow; had the incubator been used, only the bacteria could have grown.
+
+Fleming's laboratory notebooks are sketchy, and his subsequent accounts of the discovery are contradictory. The evidence of the first culture, which he photographed, indicated that he observed lysis, the weakening and destruction of bacteria—as in his lysozyme studies.
+
+But sometimes he described the key observation as an instance of inhibition or prevention of bacterial growth in areas affected by the mold "juice," evidenced by a clear zone surrounding the mold. Although these two effects occur under quite different conditions, Fleming probably forgot which observation came first, for in the months subsequent to the original observation he conducted many experiments while varying conditions systematically.
+
+He discovered that the antibacterial substance was not produced by all molds, only by certain strains of Penicillium, namely, Penicillium notatum. Although he could not isolate it, he named the active substance "penicillin." He studied methods of producing the impure product and determined its stability at different temperatures and over various lengths of time. He investigated its effect on many microbes, curiously omitting the familiar spirochete that causes syphilis (which Salvarsan controlled but did not eliminate).
+
+He tested its toxicity on a laboratory mouse and a rabbit. Forever after, it has been a puzzle why he did not inject these or other laboratory animals with staphylococcus or other disease-causing bacteria before injecting them with the fluid containing penicillin. Perhaps the explanation lay in his belief that cures come from within the body itself, rather than from an external agent. So he was not looking for a curative agent but rather focused on his new find as a topical antiseptic. In later years he claimed that the difficulties he had experienced in isolating and stabilizing penicillin, let alone the problems of producing sufficient quantities for clinical trials, had prevented him from realizing the full fruits of his research.
+
+In fact, in the 1930s, little notice was taken by the scientific community of his paper published in the British Journal of Experimental Pathology (June 1929). Those few scientists who sent for samples and tried to gain more understanding of the properties of penicillin did not or could not capitalize on Fleming's discovery.
+
+## Wikipedia 补充
+
+Sir Alexander Fleming (6 August 1881 – 11 March 1955) was a Scottish physician and microbiologist. He shared the 1945 Nobel Prize in Physiology or Medicine with Howard Florey and Ernst Chain "for the discovery of penicillin and its curative effect in various infectious diseases". This was the first antibiotic substance discovered. His discovery in 1928 of what was later named benzylpenicillin (or penicillin G) from the mould Penicillium rubens has been described as the "single greatest victory ever achieved over disease".
+
+He also discovered the enzyme lysozyme from his nasal discharge in 1922, and along with it a bacterium he named Micrococcus lysodeikticus, later renamed Micrococcus luteus.
+
+Fleming was knighted for his scientific achievements in 1944. In 1999, he was named in Time magazine's list of the 100 Most Important People of the 20th century. In 2002, he was included in the BBC's television poll of the 100 Greatest Britons, and in 2009, he was also voted third "greatest Scot" in an opinion poll conducted by STV, behind only Robert Burns and William Wallace.
+
+### Penicillin Discovery Quote
+
+"One sometimes finds what one is not looking for. When I woke up just after dawn on September 28, 1928, I certainly didn't plan to revolutionize all medicine by discovering the world's first antibiotic, or bacteria killer. But I suppose that was exactly what I did."
+— Alexander Fleming
+
+### Antibiotic Resistance Warning (1945 Nobel Lecture)
+
+"The time may come when penicillin can be bought by anyone in the shops. Then there is the danger that the ignorant man may easily underdose himself and by exposing his microbes to non-lethal quantities of the drug make them resistant."
+
+"And if you use penicillin, use enough. ...the thoughtless person playing with penicillin is morally responsible for the death of the man who finally succumbs to infection with the penicillin-resistant organism. I hope this evil can be averted."
+
+### Key Quote on Natural Immunity
+
+"I choose lysozyme as the subject for this address for two reasons, firstly because I have a fatherly interest in the name, and, secondly, because its importance in connection with natural immunity does not seem to be generally appreciated."
+— Fleming, Presidential address at the Royal Society of Medicine, 18 October 1932
+
+### On Wright's Influence and Research Style
+
+As his research scholar at the time V. D. Allison recalled, Fleming was not a tidy researcher and usually expected unusual bacterial growths in his culture plates. Fleming had teased Allison of his "excessive tidiness in the laboratory", and Allison rightly attributed such untidiness as the success of Fleming's experiments, and said, "[If] he had been as tidy as he thought I was, he would not have made his two great discoveries."
+
+### Quote on Discovery Priority
+
+"Penicillin was not the first antibiotic I happened to discover."
+— Alexander Fleming, Nobel Lecture, 11 December 1945
+
+## New World Encyclopedia 补充
+
+Fleming's fortuitous discovery of penicillin—the mold had accidentally contaminated a Staphylococcus culture plate and exhibited a bacteria-free halo around the mold—was one of the seminal developments in the history of medicine. However, before the remarkable breakthroughs with the drug could occur, it took a team of research scientists lead by physiologist Howard Florey, and including chemist Ernst Boris Chain, to purify penicillin and test it successfully, which they did in 1939, ten years after Fleming published his findings in 1929. Penicillin became the most effective life-saving drug in the world, conquering such dreaded diseases as syphilis, gonorrhea, tuberculosis, gangrene, pneumonia, diphtheria, and scarlet fever. It is estimated that penicillin has saved at least 200 million lives since its first use as a medicine in 1942.
+
+The remarkable ability of penicillin to address many of the ancient scourges that plagued humanity lead its discoverer, Alexander Fleming, to become an international hero and object of public adulation by the end of World War II. He was knighted in 1944 (with Florey) and received the Nobel Prize in Physiology or Medicine in 1945 (sharing this with Florey and Chain). However, Fleming was but one of many giants in antibiotic development. He himself labeled the phenomenon the "Fleming Myth," humbly recognizing that he was the chosen representative to embody the accomplishments of the many other pioneers who developed antibiotics and made the world a better place but who remain virtual unknowns.
+
+Fleming discontinued his own work on penicillin in 1932, but it would later, in 1939, be taken up by a team of scientists at Oxford University that lead to its testing on mice and eventual mass production.
+
+Alexander Fleming was Catholic.
+
+### On Antiseptics During WWI
+
+In an article he submitted for the medical journal The Lancet during World War I, Fleming described an ingenious experiment, which he was able to conduct as a result of his own glass blowing skills, in which he explained why antiseptics were actually killing more soldiers than infection itself during World War I. Antiseptics worked well on the surface, but deep wounds tended to shelter anaerobic bacteria from the antiseptic agent, and antiseptics seemed to remove beneficial agents produced that actually protected the patients in these cases at least as well as they removed bacteria, and did nothing to remove the bacteria that were out of reach. Sir Almroth Wright strongly supported Fleming's findings, but despite this, most army physicians over the course of WWI continued to use antiseptics even in cases where this worsened the condition of the patients.
+
+### On the "Fleming Myth" and Team Science
+
+Sir Henry Harris summed up the process in 1998 as: "Without Fleming, no Chain; without Chain, no Florey; without Florey, no Heatley; without Heatley, no penicillin."
+
+## 百度百科/中文补充（如有）
+
+（中文来源暂未成功抓取，主要依赖英文来源）

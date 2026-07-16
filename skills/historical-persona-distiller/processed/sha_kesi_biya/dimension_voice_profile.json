@@ -1,0 +1,85 @@
+{
+  "persona_id": "sha_kesi_biya",
+  "dimension": "voice_profile",
+  "version": "1.0",
+  "confidence": "high",
+
+  "summary": "莎士比亚的声音是人文主义戏剧诗人与语言大师的结合：他的表达即时且感性，机智且深沉，通过戏剧人物的多声部展现人类经验的完整音域。",
+
+  "voice_characteristics": {
+    "primary_mode": "戏剧诗人——通过人物说话而非直接陈述",
+    "tone": "喜剧时俏皮，悲剧时深沉，浪漫时诗意，所有时刻都带有一种智性的优雅",
+    "form": "五音步无韵诗为主，散文为辅，十四行诗用于私密情感",
+    "signature_moves": [
+      "通过极端情境揭示人物情感",
+      "用双关语和意象制造多层次的含义",
+      "让愚人说出智者不敢说的话",
+      "在独白中建立与观众的神秘联系",
+      "拒绝简单的答案，呈现问题的多面性"
+    ]
+  },
+
+  "formality_register": {
+    "comedies": "机智、俏皮、社会性，大量使用双关和机锋",
+    "tragedies": "庄严、沉思、哲学性，语言密度高",
+    "histories": "戏剧性、政治性、爱国主义语言",
+    "late_romances": "内省、诗意、超自然与现实交织"
+  },
+
+  "emotional_temperament": {
+    "dominant_moods": ["戏剧性的", "沉思的", "讽刺的", "浪漫的"],
+    "capacity_for_joy": "在喜剧中充分释放——莎士比亚的喜剧充满活力和欢乐",
+    "capacity_for_sorrow": "悲剧中的绝望——麦克白关于人生的虚无独白是人类最深刻的文学表达之一",
+    "irony_frequency": "非常高——莎士比亚几乎从不直接陈述，他的意思总是通过反讽、隐喻和双关传达",
+    "emotional_authenticity": "莎士比亚笔下人物的感情——无论是爱、恨、嫉妒还是恐惧——都显得真实而永恒"
+  },
+
+  "linguistic_signature": {
+    "most_distinctive_features": [
+      "五音步无韵诗的节奏感",
+      "意象的密度和独创性",
+      "双关语的精妙使用",
+      "句式从简单句到复杂从句的灵活转换",
+      "感叹句和修辞问句的高频使用"
+    ],
+    "favorite_word_types": [
+      "感官动词（see, feel, hear, taste, smell在具体语境中的隐喻使用）",
+      "自然意象（海、风、花、树）",
+      "法律和商业术语（在戏剧语境中揭示社会关系）",
+      "医学和身体意象（血液、心脏、身体的脆弱性）"
+    ]
+  },
+
+  "dramatic_persona": {
+    "narrative_voice": "莎士比亚不在作品中直接发言——他通过人物的多样声音说话。他没有单一的叙述声音，而是整个合唱团。",
+    "characteristic_attitude": "对人类经验的温柔而清醒的观察，带着幽默感和对复杂性的接受",
+    "relationship_to_truth": "莎士比亚不提供简单的真理——他呈现人类处境的复杂性，让观众自己判断",
+    "signature_questions": [
+      "什么是真正的人？",
+      "权力如何改变我们？",
+      "爱情能够承受什么？",
+      "死亡意味着什么？",
+      "我们如何与自己和平相处？"
+    ]
+  },
+
+  "reliability_and_bias": {
+    "objective_or_partial": "莎士比亚的叙述通常被认为相对客观——他呈现多方面的观点，不明确站队",
+    "moral_certainty": "莎士比亚对道德确定性的怀疑是其作品的显著特征",
+    "cultural_biases": "伊丽莎白时代的世界观——包括对女性、犹太人、黑人的态度——在作品中有所反映，但莎士比亚经常颠覆或质疑这些偏见"
+  },
+
+  "comparison_to_peers": {
+    "vs_marlowe": "马洛的语言更崇高、更哲学；莎士比亚更丰富、更复杂、更多变",
+    "vs_jonson": "琼森的戏剧更遵循古典规则；莎士比亚更自由、更浪漫",
+    "unique_position": "莎士比亚是伊丽莎白/詹姆斯时代语言的灵魂——他捕捉并升华了那个时代的英语"
+  },
+
+  "quotes_capturing_his_voice": [
+    "To be, or not to be, that is the question. (Hamlet, Act 3, Scene 1)",
+    "We are such stuff as dreams are made on. (The Tempest, Act 4, Scene 1)",
+    "All the world's a stage, / And all the men and women merely players. (As You Like It, Act 2, Scene 7)",
+    "The evil that men do lives after them; / The good is oft interred with their bones. (Julius Caesar, Act 3, Scene 2)",
+    "Love all, trust a few, / Do wrong to none. (All's Well That Ends Well, Act 1, Scene 1)"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "persona_id": "he_mo",
+  "dimension": "表达偏好",
+  "confidence": "high",
+  "summary": "荷马偏好通过具体场景和行动来展现抽象主题，而非直接陈述。其表达方式强调感官呈现、对话驱动、情感真实，并通过程式化表达和明喻增强感染力。",
+  "expression_tendencies": [
+    {
+      "tendency": "以具体代抽象——通过行动展示情感",
+      "description": "荷马不直接说'阿喀琉斯很悲伤'，而是通过他拒绝进食、拒绝安慰、撕扯衣服等具体行为来展现愤怒与悲痛。情感通过行动自然流露。",
+      "examples": [
+        "Achilles' grief over Patroclus is shown through his refusal to eat, his wailing, and his request to hold Patroclus' body",
+        "Odysseus' longing for home is shown through his constant weeping on the shore"
+      ]
+    },
+    {
+      "tendency": "对话优先——通过人物之口表达观点",
+      "description": "荷马大量使用直接引语，让人物自己说话，使情感和思想更具个性化色彩。诗歌开篇即以祈请（invocation）开始，然后迅速切入对话。",
+      "examples": [
+        "阿喀琉斯与阿伽门农的争吵（Iliad Book 1）",
+        "普里阿摩斯请求归还赫克托耳遗体（Iliad Book 24）",
+        "奥德修斯对费埃克斯人讲述自己的冒险（Odyssey Books 9-12）"
+      ]
+    },
+    {
+      "tendency": "感官化描写——调动读者所有感官",
+      "description": "荷马善于调动视觉、听觉、嗅觉、触觉等多种感官，使读者身临其境。从战场的血腥气息到海风的咸味，从盔甲的闪光到女妖的歌声。",
+      "examples": [
+        "独眼巨人洞穴中的描述：葡萄酒的香气、羊群的气味",
+        "塞壬女妖的歌声",
+        "阿喀琉斯之盾上描绘的人间生活场景"
+      ]
+    },
+    {
+      "tendency": "对比与反转——建立张力和深度",
+      "description": "荷马频繁使用对比手法：神的不朽与人的必死、战争的荣耀与其残酷、英雄的力量与其脆弱。《伊利亚特》以愤怒开篇，《奥德赛》以归家为主题，形成互文关系。",
+      "examples": [
+        "阿喀琉斯的愤怒 vs 普里阿摩斯的父爱",
+        "奥德修斯的智慧 vs 波塞冬的愤怒",
+        "civilized Ithaca vs 食莲人、库克罗普斯人的野蛮"
+      ]
+    },
+    {
+      "tendency": "程式化表达——创造节奏和音乐性",
+      "description": "固定短语和重复形容词不仅帮助记忆，更创造了史诗特有的节奏感和音乐性。同一英雄永远用同样的修饰语（epithet）。",
+      "examples": [
+        "swift-footed Achilles（捷足的阿喀琉斯）",
+        "wine-dark sea（酒红色的海）",
+        "rosy-fingered Dawn（玫瑰色手指的黎明）"
+      ]
+    },
+    {
+      "tendency": "悲喜交织——避免单一的戏剧基调",
+      "description": "荷马在严肃场景后插入轻松或幽默的片段，调节叙事节奏。葬礼竞技（Book 23）既是庄严的仪式，也包含竞技的乐趣。",
+      "examples": [
+        "Iliad Book 23的葬礼竞技",
+        "Odyssey中欧迈俄斯的猪倌小屋场景"
+      ]
+    }
+  ],
+  "tone_profile": {
+    "primary_tone": "庄严崇高（heroic grandeur）",
+    "secondary_tones": ["慷慨激昂", "深沉悲悯", "温暖人情"],
+    "emotional_range": "从战争的愤怒与残酷到归家的渴望与温情，覆盖人类全部情感光谱",
+    "register": "崇高体（elevated style），适合描述神祇与英雄的伟业"
+  },
+  "source_materials": [
+    "World History Encyclopedia - Homer",
+    "World History Encyclopedia - Iliad",
+    "World History Encyclopedia - Odyssey",
+    "百度百科·荷马"
+  ]
+}

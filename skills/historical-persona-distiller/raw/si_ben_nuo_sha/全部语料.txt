@@ -1,0 +1,93 @@
+# 斯宾诺莎 全部语料
+
+## 来源一：Stanford Encyclopedia of Philosophy - Baruch Spinoza (plato.stanford.edu/entries/spinoza/)
+
+（完整抓取约50000字，核心内容如下）
+
+---
+
+Bento (in Hebrew, Baruch; in Latin, Benedictus: all three names mean "blessed") Spinoza is one of the most important philosophers—and certainly the most radical—of the early modern period. His thought combines a commitment to a number of Cartesian metaphysical and epistemological principles with elements from ancient Stoicism, Hobbes, and medieval Jewish rationalism into a nonetheless highly original system.
+
+## 1. Biography
+
+Spinoza was born in 1632 in Amsterdam. He was the middle son in a prominent family of moderate means in Amsterdam's Portuguese-Jewish community. As a boy he had undoubtedly been one of the star pupils in the congregation's Talmud Torah school. At the age of seventeen, he was forced to cut short his formal studies to help run the family's importing business.
+
+On July 27, 1656, Spinoza was issued the harshest writ of herem, ban or excommunication, ever pronounced by the Sephardic community of Amsterdam; it was never rescinded. In those works, Spinoza denies the immortality of the soul; strongly rejects the notion of a transcendent, providential God—the God of Abraham, Isaac and Jacob; and claims that the Law was neither literally given by God nor any longer binding on Jews.
+
+Within a few years, he left Amsterdam altogether. By the time his extant correspondence begins, in 1661, he is living in Rijnsburg, not far from Leiden. While in Rijnsburg, he worked on the Treatise on the Emendation of the Intellect and the Short Treatise on God, Man and His Well-Being. His critical exposition of Descartes's Principles of Philosophy, the only work he published under his own name in his lifetime, was completed in 1663, after he had moved to Voorburg, outside The Hague. By this time, he was also working on what would eventually be called the Ethics, his philosophical masterpiece. However, when he saw the principles of toleration in Holland being threatened by reactionary forces, including political meddling by the Dutch Reformed Church, he put it aside to complete his "scandalous" Theological-Political Treatise, published anonymously and to great alarm in 1670 (one overwrought critic called it "a book forged in hell by the devil himself"). When Spinoza died in 1677, in The Hague, he was still at work on his Political Treatise.
+
+## 2. Ethics
+
+### 2.1 God or Nature
+
+"On God" begins with definitions: "By substance I understand what is in itself and is conceived through itself"; "By attribute I understand what the intellect perceives of a substance, as constituting its essence"; "By God I understand a being absolutely infinite, i.e., a substance consisting of an infinity of attributes, of which each one expresses an eternal and infinite essence."
+
+Proposition 11: God, or a substance consisting of infinite attributes, each of which expresses eternal and infinite essence, necessarily exists. Spinoza writes that "if you deny this, conceive, if you can, that God does not exist. Therefore, by axiom 7, his essence does not involve existence. But this, by proposition 7, is absurd. Therefore, God necessarily exists, q.e.d."
+
+Proposition 14: Except God, no substance can be or be conceived.
+
+"Whatever is, is in God, and nothing can be or be conceived without God" (Ip15).
+
+From Ip17s1: "all things have necessarily flowed, or always followed, by the same necessity and in the same way as from the nature of a triangle it follows, from eternity and to eternity, that its three angles are equal to two right angles"
+
+Ip29: "In nature there is nothing contingent, but all things have been determined from the necessity of the divine nature to exist and produce an effect in a certain way."
+
+Ip33: "Things could have been produced by God in no other way, and in no other order than they have been produced."
+
+From I, Appendix: "All the prejudices I here undertake to expose depend on this one: that men commonly suppose that all natural things act, as men do, on account of an end."
+
+"God does not perform miracles, since there are no, and cannot be, departures whatsoever from the necessary course of nature."
+
+"Nature has no end set before it … All things proceed by a certain eternal necessity of nature."
+
+"One who seeks the true causes of miracles, and is eager, like an educated man, to understand natural things, not to wonder at them, like a fool, is generally considered and denounced as an impious heretic by those whom the people honor as interpreters of nature and the Gods. For they know that if ignorance is taken away, then foolish wonder, the only means they have of arguing and defending their authority is also taken away."
+
+Deus sive Natura (Part IV, Preface): "That eternal and infinite being we call God, or Nature, acts from the same necessity from which he exists."
+
+### 2.2 The Human Being
+
+IIp7s: "a mode of extension and the idea of that mode are one and the same thing, but expressed in two ways"
+
+"the order and connection of ideas is the same as the order and connection of things" (IIp7)
+
+### 2.3 Knowledge
+
+IIp29c: "As long as the human Mind perceives things from the common order of nature, it does not have an adequate, but only a confused and mutilated knowledge of itself, of its own Body, and of external bodies"
+
+IIp43s: "A true idea means nothing other than knowing a thing perfectly, or in the best way"
+
+IIp44: "It is of the nature of Reason to regard things as necessary, not as contingent. And Reason perceives this necessity of things truly, i.e., as it is in itself. But this necessity of things is the very necessity of God's eternal nature. Therefore, it is of the nature of Reason to regard things under this species of eternity"
+
+### 2.4 Passion and Action
+
+IIp48: "In the Mind there is no absolute, or free, will, but the Mind is determined to will this or that by a cause that is also determined by another, and this again by another, and so to infinity"
+
+III, Preface: "Most of those who have written about the Affects, and men's way of living, seem to treat, not of natural things, which follow the common laws of nature, but of things that are outside nature. Indeed they seem to conceive man in nature as a dominion within a dominion."
+
+IIIp59s: "We are driven about in many ways by external causes, and … like waves on the sea, driven by contrary winds, we toss about, not knowing our outcome and fate"
+
+Part Four title: "On Human Bondage, or the Powers of the Affects"
+
+---
+
+## 来源二：斯宾诺莎传（home.yulei.org，俞磊，2007年5月4日）
+
+别涅狄克特·斯宾诺莎（Benedict de Spinoza，这是拉丁文名字，他的希伯莱文原名：Baruch Spinoza），1631年11月24日出生于荷兰阿姆斯特丹。他的祖先是从西班牙或葡萄牙迁来的犹太人。斯宾诺莎的父亲迈克尔（Michael）比较富有而且在当地犹太人社区中有一定的声望。但他的家庭却受过很大的不幸，他曾经有过三个妻子，第一个死于1627年，第二个也就是斯宾诺莎的母亲死于1638年，第三任妻子则死于1651年，他本人也于1654年去世。
+
+斯宾诺莎少年时就读于阿姆斯特丹犹太人自办的一所学校。斯宾诺莎有幸遇到了两位老师：一位名叫马纳塞·本·伊兹拉亚（Manassch ben Israel），这位马纳塞学识渊博，待人诚恳，特别是具有空想家的热情，正是在这种热情的影响下，斯宾诺莎以下走上了哲学探索之路。另一位老师名叫法兰西斯·凡·登·恩登（Francis van den Enden），这位老师教给斯宾诺莎新的哲学，医学与物理学，让他精通了拉丁文甚至会了一些古希腊文。
+
+斯宾诺莎少年时代的平静生活结束于1654年他父亲的去世。1656年，犹太教的法庭传训了他，并开除了他的教籍。犹太教会还要求阿姆斯特丹市政当局驱逐斯宾诺莎。斯宾诺莎的回答是："很好，这样我就不必强迫我去做我本意所不愿意做的任何事情了"。
+
+1661年，在《知性改进论》中他写下这一段文字："当我受到经验的教训之后,才深悟得日常生活中习见的一切东西，都是虚幻的、无谓的。……因为那些在生活中最常见，并且由人们的行为所表明，被当作是最高幸福的东西，归纳起来，大约不外三项：财富、荣誉和感官快乐。萦扰着人们的心灵，使人们不能想到别的幸福，就是这三件东西。……现在我既然见到，所有这些东西实在是寻求别的新生活目标的障碍，而且不仅是障碍，实在是和它正相反对，势不两立，二者必去其一，……我彻底下决心，放弃迷乱人心的财富、荣誉、肉体快乐这三种东西，则我所放弃的必定是真正的恶，而我所得到的必定是真正的善。"斯宾诺莎的内心已经宁静，终于，在这一年，也就是1661年，他摒弃了嘈杂的商业城市阿姆斯特丹。
+
+斯宾诺莎在莱因斯堡只住了三年，也许是因为他的朋友越来越多，使他的工作受到了影响，他决定搬去海牙附近的伏尔堡。他还一度去了阿姆斯特丹看望旧时的朋友们，并且把《笛卡尔哲学原理》与《形而上学思想》合并出版。这是斯宾诺莎一生中声誉最佳的时候。
+
+1663年6月，斯宾诺莎移居伏尔堡，惠更斯1664年至1666年就住在斯宾诺莎附近，因此两人有着频繁的接触，大家都从事磨制镜片的工作，双方均敬佩对方的学识。
+
+1665年~1667年的英荷战争，在法国的支持下荷兰获胜。然而1672年，法国路易十四却与英国联合，共同对荷兰宣战，十二万法国大军的入侵使荷兰面对空前的危机。战争的失利使人民狂躁，他们把这一切归咎于德·韦特。1672年8月，德·韦特在大街上为群起的暴民所杀害。而后，22岁的威廉三世被人民推举出来成为荷兰的执政官。哲学家愤怒了，斯宾诺莎激动地要来到街上张贴公告，怒斥暴民的行为。他的朋友们把他拦住，才使他没有与德·韦特同归与尽。
+
+1675年完成了他最重要的著作《伦理学》。当时他是准备出版《伦理学》的，但是因为斯宾诺莎与德·韦特的关系，出版工作只好搁置了。
+
+也许是磨制镜片吸入的尘埃所致，斯宾诺莎患上了严重肺病，1677年2月21日，年仅四十四岁哲学家就离开了人世。
+
+斯宾诺莎死后一百多年，直到1780年前后，德国作家莱辛在和思想家耶科比开始重新发现他，此后斯宾诺莎在德国思想界开始闻名。黑格尔宣称："要达到斯宾诺莎的哲学成就是不容易的，要达到斯宾诺莎的人格是不可能的。"诗人海涅这样形容斯宾诺莎对后来哲学的影响："所有我们现代的哲学家，都是透过斯宾诺莎磨制的眼镜来看世界的。"荷兰人也开始把斯宾诺莎当成他们民族的英雄，而把他的头像印制在荷兰的纸币上。

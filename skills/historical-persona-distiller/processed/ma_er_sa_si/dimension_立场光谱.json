@@ -1,0 +1,60 @@
+{
+  "皇权专制": {
+    "评分": 0,
+    "置信度": "low",
+    "说明": "马尔萨斯未直接讨论君主制或民主制；他关注的是经济政策，不涉及政体问题",
+    "依据": "语料中无相关内容",
+    "演变": "无记录"
+  },
+  "变法革新": {
+    "评分": -1,
+    "置信度": "medium",
+    "说明": "他反对快速社会变革——特别是他反对《济贫法》，认为改革会弄巧成拙；但他不是保守主义者，他支持用谷物法保护英国农业、支持教育改革（如在东印度公司学院教授政治经济学）",
+    "依据": "Malthus criticized the Poor Laws for leading to inflation rather than improving the well-being of the poor.",
+    "演变": "早期1798年版较激进，后几版更温和、更注重实证"
+  },
+  "民生疾苦": {
+    "评分": 1,
+    "置信度": "high",
+    "说明": "他深度关切贫困问题——但他的解决方案是悲观的：贫困是自然法则的必然结果，无法根除；最好的政策是允许最弱者有基本生存保障（workhouse），但不应鼓励依赖",
+    "依据": "For the most unfortunate it might be reasonable to establish workhouses—not 'comfortable asylums' but places in which 'fare should be hard'.",
+    "演变": "从早期反对一切济贫到后期接受有限度的济贫院"
+  },
+  "华夷之辨": {
+    "评分": 0,
+    "置信度": "low",
+    "说明": "马尔萨斯未系统讨论种族或文化优劣；他主要关注欧洲内部的人口问题；他的欧洲游历（德国、俄罗斯、斯堪的纳维亚）显示他对欧洲各国都有兴趣研究",
+    "依据": "语料中无相关内容",
+    "演变": "无记录"
+  },
+  "文学功利观": {
+    "评分": 0,
+    "置信度": "medium",
+    "说明": "马尔萨斯不是文学家，他是经济学家；他对文学的态度未在语料中体现",
+    "依据": "语料中无相关内容",
+    "演变": "无记录"
+  },
+  "出世/入世": {
+    "评分": 1,
+    "置信度": "high",
+    "说明": "积极入世的学者——他担任教授、发表论文、参与政治经济学俱乐部、与李嘉图辩论、写政策小册子；作为牧师也有入世的社会职责；但他不是激进的革命者，而是希望通过学术和政策渐进改善",
+    "依据": "Malthus was a professor of history and political economy, a cofounder of the Statistical Society, and actively engaged in policy debates.",
+    "演变": "始终入世，晚年更加系统化"
+  },
+  "自由贸易 vs 保护主义": {
+    "评分": -1,
+    "置信度": "high",
+    "说明": "马尔萨斯支持《谷物法》（保护主义），反对自由贸易的极端形式；这是他与李嘉图的重要分歧——李嘉图支持自由贸易，马尔萨斯认为在没有有效机制的情况下自由贸易会损害英国农业安全",
+    "依据": "Malthus was a supporter of the protectionist Corn Laws from the end of the Napoleonic Wars. By encouraging domestic production, Malthus argued, the Corn Laws would guarantee British self-sufficiency in food.",
+    "演变": "从早期反对《济贫法》到支持《谷物法》，显示他倾向于保护弱势群体免受国际市场冲击"
+  },
+  "有效需求/消费主义": {
+    "评分": 2,
+    "置信度": "high",
+    "说明": "他提出'有效需求'概念，认为过度储蓄会破坏生产动机，平衡生产与消费才能最大化国家财富——这是他最接近凯恩斯主义的经济思想",
+    "依据": "The principles of saving, pushed to excess, would destroy the motive to production. To maximize wealth, a nation had to balance 'the power to produce and the will to consume.'",
+    "演变": "这一观点在1820年《政治经济学原理》中最充分体现，是马尔萨斯晚年思想的结晶"
+  },
+  "综合可信度": "high",
+  "综合说明": "马尔萨斯是一个入世的、关注现实政策的经济学家——他不是纯粹的理论家，而是试图用人口法则和经济分析影响政策的人。他的悲观主义不是消极的，而是要求人们正视现实、通过道德约束和审慎政策来应对不可逃避的自然法则。"
+}

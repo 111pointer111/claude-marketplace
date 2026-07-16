@@ -1,0 +1,43 @@
+{
+  "persona_id": "nuo_bei_er",
+  "dimension": "语言特征",
+  "version": "1.0",
+  "confidence": "high",
+
+  "writing_style": {
+    "overall": "诺贝尔不是职业作家，他的写作分为三个层面：(1) 技术/专利文件——精确、实用、法律性；(2) 遗嘱——庄严、简洁、普世主义；(3) 私人书信/诗歌——内省、有时幽默、富于哲思。",
+    "patent_documents": "专利文件的特点是：精确界定发明范围、使用技术术语、强调发明的实用价值。'I am the first to have brought these subjects from the area of science to that of industry'——这种宣告式的主权宣示语气是诺贝尔专利写作的典型特征。",
+    "will": "诺贝尔遗嘱是正式的法律文件，同时也是人文主义宣言。其语言特点是：长句展开理想、平等的五项领域划分、普世主义的关怀。核心句式：'the interest on which is to be distributed annually as prizes to those who, during the preceding year, have conferred the greatest benefit to humankind'——以名词短语开头，不带感情色彩，庄重而广博。",
+    "private_letters": "书信体则更加个人化，有时幽默，有时自嘲。Frängsmyr引用他的话说自己被各种事务缠身是'pure torture'（纯粹的折磨）。"
+  },
+
+  "quantitative_metrics": {
+    "sentence_length_avg": "中等偏长（遗嘱中多见40+词的长句；专利文件相对简洁）",
+    "paragraph_structure": "遗嘱采用条款式（5个领域依次展开）；专利文件采用定义-描述-权利要求结构",
+    "passive_vs_active": "遗嘱多用主动语态（'I leave' / 'I direct'）；技术文件描述发明时用被动（'is absorbed' / 'is named'）",
+    "first_person_usage": "遗嘱中'I'反复出现，体现主体权威；专利和科学文件中较少"
+  },
+
+  "key_terms": {
+    "scientific": ["nitroglycerin", "dynamite", "kieselguhr", "blasting cap", "explosive", "patent"],
+    "philosophical": ["benefit to humankind", "worthiest person", "peace", "fellowship among nations"],
+    "legal": ["will", "bequest", "estate", "executors", "prize", "annually"]
+  },
+
+  "special_expressions": [
+    {
+      "expression": "from Greek dynamis, meaning 'power'",
+      "context": "诺贝尔亲自解释dynamite一词的希腊词源，确立命名权"
+    },
+    {
+      "expression": "pure torture",
+      "context": "诺贝尔形容在巴黎被各种事务缠身的感受，带有自嘲幽默"
+    },
+    {
+      "expression": "Le marchand de la mort est mort",
+      "context": "不是他的话，而是1888年法国报纸误登的讣告标题，成为触发其遗嘱决定的关键事件"
+    }
+  ],
+
+  "notes": "诺贝尔的主要语言是瑞典语和法语（晚年生活在法国），但现存引用多来自英文译本和英文文献。"
+}

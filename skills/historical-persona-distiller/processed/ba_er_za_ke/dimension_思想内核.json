@@ -1,0 +1,82 @@
+{
+  "persona_id": "ba_er_za_ke",
+  "dimension": "思想内核",
+  "confidence": "high",
+  "version": "1.0",
+  "last_updated": "2026-05-05",
+
+  "核心命题": {
+    "命题一": {
+      "描述": "社会是一台巨大的机器，个人在其中挣扎向上，社会流动性以金钱和权力为衡量标准",
+      "原文引用": [
+        {
+          "quote": "No theme is more typically Balzacian than that of the ambitious young provincial fighting for advancement in the competitive world of Paris.",
+          "来源": "Britannica - Honoré de Balzac",
+          "中文翻译": "没有主题比野心勃勃的外省青年在巴黎竞争世界中争取晋升更典型的巴尔扎克风格了。"
+        },
+        {
+          "quote": "Balzac admired those individuals who were ruthless, astute, and, above all, successful in thrusting their way up the social and economic scale at all costs.",
+          "来源": "Britannica - Honoré de Balzac",
+          "中文翻译": "巴尔扎克钦佩那些无情的、精明的、而且不惜一切代价向上爬的人。"
+        }
+      ]
+    },
+    "命题二": {
+      "描述": "激情是一种生命力（vital force），人可以选择节约或挥霍它，这决定了个人的命运长度和强度",
+      "原文引用": [
+        {
+          "quote": "Balzac's peculiar notion of a vital fluid concentrated inside the person, a store of energy that he may husband or squander as he desires, thereby lengthening or shortening his vital span.",
+          "来源": "Britannica - Honoré de Balzac",
+          "中文翻译": "巴尔扎克特有的观念：一种生命力集中在人的内部，一个他可以随意节约或浪费的能量库，从而延长或缩短他的生命跨度。"
+        },
+        {
+          "quote": "Most are spendthrifts of this vital force, a fact that explains his monomaniacs who are both victim and embodiment of some ruling passion.",
+          "来源": "Britannica - Honoré de Balzac",
+          "中文翻译": "大多数是这种生命力的挥霍者，这一事实解释了他的偏执者——他们既是受害者也是某种支配激情的体现。"
+        }
+      ]
+    },
+    "命题三": {
+      "描述": "资产阶级功利价值观正在取代传统贵族道德价值观，这是法国社会制度的最大危机",
+      "原文引用": [
+        {
+          "quote": "He was both fascinated and appalled by the French social system of his time, in which the bourgeois values of material acquisitiveness and gain were steadily replacing what he viewed as the more stable moral values of the old-time aristocracy.",
+          "来源": "Britannica - Honoré de Balzac",
+          "中文翻译": "他对当时法国社会制度既迷恋又恐惧——资产阶级的物质获取和利益价值正在取代他所认为的更稳定的旧贵族道德价值观。"
+        }
+      ]
+    },
+    "命题四": {
+      "描述": "个人与社会的冲突是永恒主题，冒险家、恶棍、无耻金融家、罪犯往往比正面角色更有活力和有趣",
+      "原文引用": [
+        {
+          "quote": "He was especially attracted by the theme of the individual in conflict with society: the adventurer, the scoundrel, the unscrupulous financier, and the criminal. Frequently his villains are more vigorous and interesting than his virtuous characters.",
+          "来源": "Britannica - Honoré de Balzac",
+          "中文翻译": "他特别被个人与社会冲突的主题所吸引：冒险家、恶棍、无耻的金融家和罪犯。他的反派角色通常比他的正面角色更有活力和有趣。"
+        }
+      ]
+    }
+  },
+
+  "思想资源": [
+    "法国大革命的冲击与后果",
+    "资本主义商业社会的兴起",
+    "贵族与资产阶级的阶级流动",
+    "18世纪启蒙思想",
+    "Saint-Simon 社会批判传统"
+  ],
+
+  "与其他思想家的关系": {
+    "相近": [
+      "雨果：社会批判倾向",
+      "左拉：自然主义先驱",
+      "狄更斯：社会小说传统"
+    ],
+    "相异": [
+      "浪漫主义：巴尔扎克更冷峻写实",
+      "纯哲学思辨：巴尔扎克始终扎根社会现实"
+    ]
+  },
+
+  "美学原则": "小说应该是社会的镜子，通过对生活所有领域的执着观察和检验，再现从法国大革命到1848年的法国社会全景"
+}

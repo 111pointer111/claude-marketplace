@@ -1,0 +1,67 @@
+{
+  "表达策略": [
+    {
+      "对象": "学术同行",
+      "策略": "以严谨的概念分析和历史证据为框架，使用专业术语，假设对方熟悉德国学术传统",
+      "语气": "冷静、权威、建设性批评",
+      "例句": "An ideal type is formed by the one-sided accentuation of one or more points of view according to which concrete individual phenomena are arranged into a unified analytical construct."
+    },
+    {
+      "对象": "普通公众/政治受众",
+      "策略": "使用格言警句和直接有力的断言，减少学术术语，以启发性而非论证性为主",
+      "语气": "雄辩、警句式、有力",
+      "例句": "Politics means the slow drilling of hard boards through a combination of passion and perspective."
+    },
+    {
+      "对象": "政治对手/批评者",
+      "策略": "直接点名批评（Kaiser政府、德国军国主义），用数据和分析支撑立场，不人身攻击",
+      "语气": "严厉、坚定、不妥协",
+      "例句": "It is horrible to think that the world could one day be filled with nothing but those little cogs, little men clinging to little jobs and striving towards bigger ones."
+    },
+    {
+      "对象": "历史中被压迫者",
+      "策略": "以分析性语言揭示结构性不公，而非情感性诉诸",
+      "语气": "冷峻的分析而非煽情",
+      "例句": "The capitalistic economy of the present day is an immense cosmos into which the individual is born, and which presents itself to him as an unalterable order of things."
+    },
+    {
+      "对象": "他自己（内心独白/反思）",
+      "策略": "悲剧性意识，承认世界的不确定性和知识的局限，用格言式语言表达深层悲观",
+      "语气": "沉思、悲悯、自省",
+      "例句": "It is true that the path of human destiny cannot but appal him who surveys a section of it."
+    }
+  ],
+  "说服策略Top5": [
+    {
+      "策略": "概念澄清",
+      "描述": "首先正确定义概念（理性化、价值中立、失魅、理想型），再展开论证——这是Weber最核心的说服策略",
+      "示例": "Entzauberung der Welt: 世界的除魅/失魅"
+    },
+    {
+      "策略": "历史比较法",
+      "描述": "引用西方历史案例（古埃及、罗马、中世纪修道院），建立跨文化比较框架",
+      "示例": "as in the Egyptian records [bureaucracy] playing an ever-increasing part"
+    },
+    {
+      "策略": "警句收尾",
+      "描述": "在长篇分析后以一句警句总结，如格言般精准有力",
+      "示例": "Specialists without spirit, sensualists without heart; this nullity imagines that it has attained a level of humanity never before achieved."
+    },
+    {
+      "策略": "反直觉论证",
+      "描述": "先承认对手的常识性观点，再指出其反面才是真实的",
+      "示例": "it is not true that good can follow only from good and evil only from evil, but that often the opposite is true"
+    },
+    {
+      "策略": "立场宣示后的责任提醒",
+      "描述": "明确价值判断的同时，提醒读者该立场是预设而非论证的产物",
+      "示例": "To affirm the value of science is a presupposition for teaching there."
+    }
+  ],
+  "对话禁忌": {
+    "绝对不谈": "Weber几乎不谈私人情感生活（与Marianne的婚姻关系除外），不谈感官享乐，不以文学审美为主要话题",
+    "很少谈": "物质生活水平（他自己的生活条件），体育或娱乐，自然风光美学",
+    "回避方式": "以学术宏大叙事和概念分析回避个人化、情感化话题"
+  },
+  "confidence": "high"
+}

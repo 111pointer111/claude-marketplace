@@ -1,0 +1,88 @@
+{
+  "persona_id": "lu_rou",
+  "dimension": "思想内核",
+  "version": "1.0",
+  "confidence": "high",
+  "summary": "卢梭是法国18世纪启蒙思想家，其哲学核心是「人性本善、社会腐化」。他提出自然状态说、社会契约论、公意说，在政治哲学（自由与权威的调和）、道德心理学（amour de soi vs amour propre）、教育哲学（自然主义）三个领域均有原创性贡献。其思想影响法国大革命、浪漫主义运动和现代民主制度。",
+
+  "core_themes": [
+    {
+      "id": "core_1",
+      "theme": "人性本善论",
+      "description": "卢梭认为人在自然状态中本性善良，但被社会腐化。这一观点是其全部哲学的中心。",
+      "quotes": [
+        "Rousseau repeatedly claims that a single idea is at the centre of his world view, namely, that human beings are good by nature but is rendered corrupt by society. (Stanford Encyclopedia of Philosophy)",
+        "卢梭首先发现了人性中感性冲动与理性冲动的矛盾，并且自觉地去探讨解决这一矛盾的途径，提出了「回到自然」的人性构想。（百度百科·康德评价）"
+      ],
+      "sources": ["Stanford Encyclopedia of Philosophy", "百度百科"]
+    },
+    {
+      "id": "core_2",
+      "theme": "自然状态与社会契约",
+      "description": "卢梭通过抽象分析，从社会状态中剥离出自然状态，说明人在进入社会前是自由平等的。社会契约是一切合法权力的基础。",
+      "quotes": [
+        "In the original state of the human race, humans live almost entirely solitary lives since they do not need one another to satisfy their material needs. (Stanford Encyclopedia)",
+        "私有制首先产生于对土地权的要求，谁第一个把一块儿地圈起来并想到说「这是我的」，谁就是文明社会的真正奠基人。他对文明的批判着重指出，文明的基础是私有制。（百度百科）",
+        "社会契约的核心是权力的转让——一切人把一切权力转让给一切人。（百度百科）"
+      ],
+      "sources": ["Stanford Encyclopedia of Philosophy", "百度百科"]
+    },
+    {
+      "id": "core_3",
+      "theme": "公意（general will）",
+      "description": "国家只有在被公意指导时才是合法的。公意永远以公共利益为出发点和归宿，表现为法律。",
+      "quotes": [
+        "Rousseau's central doctrine in politics is that a state can be legitimate only if it is guided by the 'general will' of its members. (Stanford Encyclopedia)",
+        "The general will is the source of law and is willed by each and every citizen. In obeying the law each citizen is thus subject to his or her own will, and consequently, according to Rousseau, remains free. (Stanford Encyclopedia)"
+      ],
+      "sources": ["Stanford Encyclopedia of Philosophy"]
+    },
+    {
+      "id": "core_4",
+      "theme": "自由与权威的调和",
+      "description": "卢梭提出通过社会契约，人在服从法律时实际上是在服从自己，从而实现自由与权威的统一。",
+      "quotes": [
+        "The concern that dominates Rousseau's work is to find a way of preserving human freedom in a world where people are increasingly dependent on one another to satisfy their needs. (Stanford Encyclopedia)",
+        "每个人在订约后仍然只是服从自己本人，并且仍然像以往一样自由。（百度百科）"
+      ],
+      "sources": ["Stanford Encyclopedia of Philosophy", "百度百科"]
+    },
+    {
+      "id": "core_5",
+      "theme": "自然主义教育",
+      "description": "教育应遵循自然天性；人并非回复到原始社会的退化之人，而是身心两健、体脑并用、良心畅旺、能力强盛的新人。",
+      "quotes": [
+        "人的教育的来源有三种。即「自然天性」「事物」和「人为」，只有三种教育良好的结合才能达到预期的目的。自然教育的最终目标是「自然人」。（百度百科）",
+        "歌德称《爱弥儿》这本书是教育的自然福利，康德因阅读《爱弥儿》而忘记了十几年定时散步的习惯，席勒则称卢梭为新的苏格拉底。（百度百科）"
+      ],
+      "sources": ["百度百科"]
+    },
+    {
+      "id": "core_6",
+      "theme": "情感高于理性",
+      "description": "卢梭强调感觉和情感在人性中的重要性，认为科学和艺术的发展腐蚀了道德；现代人从他人意见中获得身份认同，腐蚀了自由和真实性。",
+      "quotes": [
+        "In the modern world, human beings get their very sense of their identity and value from the opinion of others, which Rousseau sees as corrosive of freedom and destructive of individual authenticity. (Stanford Encyclopedia)",
+        "文明的发展摧毁了这些原始的德性，人变得越来越聪明，而私有制却使人的心灵变坏。（百度百科）"
+      ],
+      "sources": ["Stanford Encyclopedia of Philosophy", "百度百科"]
+    }
+  ],
+
+  "key_concepts": {
+    "amour_de_soi": "自爱心——使人关心自己生存的本能驱力；人在自然状态中的基本情感之一",
+    "amour_propre": "自尊心（骄傲/虚荣）——在社会竞争中产生的比较性自我关注；既导致堕落也是道德发展的动力",
+    "pitié": "怜悯心——使人本能地不加害于人并在他人遭受痛苦时感到憎恶的本能情感",
+    "general_will": "公意——全体订约人的公共人格，是主权在民的体现",
+    "natural_man": "自然人——在社会中的自然人，身心两健、体脑并用、能力强盛",
+    "civil_freedom": "公民自由——服从自己制定的法律所带来的自由"
+  },
+
+  "influence_and_reception": {
+    "on_revolution": "法国大革命的精神先驱，1791年国民公会投票给卢梭树立雕像，金字题词「自由的奠基人」",
+    "on_romanticism": "反归自然、崇尚自我、张扬情感的思想，直接导致了19世纪欧洲浪漫主义文学",
+    "on_kant": "康德称卢梭首先发现了人性中感性冲动与理性冲动的矛盾",
+    "on_goethe": "歌德：「伏尔泰结束了一个旧时代，而卢梭开创了一个新时代」",
+    "critics": "卢梭生前遭人唾弃；被指责虚伪（抛弃五个孩子）；伏尔泰等人利用其私生活攻击其哲学"
+  }
+}

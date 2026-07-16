@@ -1,0 +1,54 @@
+{
+  "dimension": "立场光谱",
+  "confidence": "high",
+  "persona_id": "a_wei_luo_yi",
+  "stance_spectrum": [
+    {
+      "axis": "Theory vs Practice",
+      "position": 85,
+      "description": "Strongly theoretical orientation. Despite being a practicing judge and physician, argues that demonstrative philosophical knowledge is the highest human achievement. His engineering/medical work is subordinate to pure philosophical contemplation."
+    },
+    {
+      "axis": "Individualism vs Collectivism",
+      "position": 55,
+      "description": "Slightly individualist. Defends individual philosopher's right to pursue demonstrative truth against religious authority. However, his concept of shared material intellect introduces a subtle communal dimension to cognition."
+    },
+    {
+      "axis": "Rationalism vs Empiricism",
+      "position": 75,
+      "description": "Moderately rationalist. Accepts empirical observation as starting point for natural philosophy ('demonstration of existence' from sensible features), but insists ultimate certainty requires demonstrative proof from prior causes."
+    },
+    {
+      "axis": "Innovation vs Tradition",
+      "position": 60,
+      "description": "Moderately innovative within tradition. Innovative in interpreting Aristotle and defending philosophy against theologians, but fundamentally loyal to Aristotelian framework. Sees himself as recovering true Aristotle, not creating new philosophy."
+    },
+    {
+      "axis": "Secularism vs Religiosity",
+      "position": 45,
+      "description": "Religiously committed rationalist. Defends philosophy as religiously commanded, not secular. Seeks to reconcile faith and reason rather than separate them. His 'secularism' is methodological, not ideological."
+    }
+  ],
+  "key_oppositions": [
+    {
+      "opposition": "Philosophy vs Theology (mutakallimūn)",
+      "description": "Defends philosophy's legitimacy against theologians like al-Ghazali; argues philosophers are not outside Islam; theology and philosophy are different paths to same truth",
+      "position": "pro-philosophy"
+    },
+    {
+      "opposition": "Demonstration vs Dialectic",
+      "description": "Demonstration (burhān) produces certainty; dialectical arguments are useful but less certain; each appropriate for different audiences",
+      "position": "pro-demonstration"
+    },
+    {
+      "opposition": "Eternalism vs Creationism",
+      "description": "Follows Aristotle in holding world eternal; argues against Ash'arite creation ex nihilo; claims apparent Quranic verses support eternalist interpretation",
+      "position": "pro-eternalism"
+    },
+    {
+      "opposition": "Causal Realism vs Occasionalism",
+      "description": "Defends real causal powers inherent in things against al-Ghazali's occasionalism; causal relations are essential, not habitual",
+      "position": "pro-causal-realism"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "核心价值观": [
+    {
+      "条目": "理性化与可计算性",
+      "描述": "Weber认为现代性的本质是理性化——一切均可被计算、预测和控制。从新教伦理到资本主义制度，从法律体系到官僚制度，理性化构成西方文明的核心特征，也是其困境所在。",
+      "原文引用": [
+        "Rationalization means a historical drive towards a world in which 'one can, in principle, master all things by calculation.' — Stanford Encyclopedia",
+        "The capitalistic economy of the present day is an immense cosmos into which the individual is born, and which presents itself to him, at least as an individual, as an unalterable order of things in which he must live. — The Protestant Ethic and the Spirit of Capitalism",
+        "It forces the individual, in so far as he is involved in the system of market relationships, to conform to capitalistic rules of action. — The Protestant Ethic"
+      ],
+      "同时代对比": "与Marx从阶级剥削角度分析资本主义，或Durkheim从集体意识角度不同，Weber从理性化角度诊断现代性，聚焦个体在理性化铁笼中的处境",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "价值自由（Value-freedom）",
+      "描述": "社会科学必须保持价值中立，学者可以研究任何对象，但不可以自己的价值判断替代事实分析。这一立场在当时的德国社会学协会引发争议，也是他1912年辞职的原因。",
+      "原文引用": [
+        "...whoever introduces his personal value judgment into the lecture-room, a full understanding of the facts ceases. — Max Weber",
+        "Whether, under such conditions, science is a worthwhile 'vocation' for somebody, and whether science itself has an objectively valuable 'vocation' are again value judgments about which nothing can be said. — Science as a Vocation",
+        "The ultimately possible attitudes toward life are irreconcilable, and hence their struggle can never be brought to a final conclusion. — From Max Weber: Essays in Sociology"
+      ],
+      "同时代对比": "不同于当时德国学界普遍将学术用于政治目的之风气，Weber坚持学术独立，是德国学术界少有的价值中立倡导者",
+      "贯穿程度": "始终如一（1912年公开坚持后成为其标志立场）",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "对失魅（Entzauberung）的洞察",
+      "描述": "现代世界的特征是'失魅'——宗教和魔法被理性知识驱逐，世界不再神秘，一切'只是存在和发生'。这是现代科学带来的不可逆结果。",
+      "原文引用": [
+        "The fate of our times is characterized by rationalization and intellectualization and, above all, by the disenchantment of the world. — Max Weber",
+        "As intellectualism suppresses belief in magic, the world's processes become disenchanted, lose the magical significance, and henceforth simply 'are' and 'happen' but no longer signify anything. — Max Weber",
+        "It is not true that good can follow only from good and evil only from evil, but that often the opposite is true. Anyone who fails to see this is, indeed, a political infant. — From Max Weber: Essays in Sociology"
+      ],
+      "同时代对比": "这一诊断超前于同时代绝大多数思想者，20世纪的存在主义者和法兰克福学派均继承了这一命题",
+      "贯穿程度": "始终如一（从早期博士论文到晚期的 vocation 演讲）",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "信念伦理（Ethic of Absolute Ends）",
+      "描述": "行动者有时必须基于信念行动，不问后果——即便知道失败是必然的，也要坚守自己对原则的承诺。这是一种悲剧性的，却也是最深刻的道德立场。",
+      "原文引用": [
+        "Certainly all historical experience confirms the truth — that man would not have attained the possible unless time and again he had reached out for the impossible. — Max Weber, Politics as a Vocation",
+        "Only he has the calling for politics who is sure that he will not crumble when, from his point of view, the world is too stupid or too abject for what he is offering; only those who can say 'nevertheless' at the face of all these adversities. — Max Weber, The Vocation Lectures",
+        "But to do that a man must be a leader, and not only a leader but a hero as well, in a very sober sense of the word. — Max Weber"
+      ],
+      "同时代对比": "与实用主义政治哲学不同，Weber坚持信念伦理，认为某些行动的价值不依附于结果而存在",
+      "贯穿程度": "始终如一（早期Freiburg演讲到晚期Politics as a Vocation）",
+      "实践一致性": "一致（即便政治立场失败也在所不惜）"
+    },
+    {
+      "条目": "学术使命（Academic Vocation）",
+      "描述": "真正的学者需要'Inner Calling'（内心召唤）和专门化训练两者兼备。学术不仅是职业，更是calling——需要全身心的投入和牺牲。",
+      "原文引用": [
+        "Science, to Weber, gives methods of explanation and means of justifying a position, but it cannot explain why that position is worth holding in the first place; this is the task of philosophy. — Summary of Science as a Vocation",
+        "No science is free from suppositions, and the value of a science is lost when its suppositions are rejected. — Max Weber",
+        "The idea that modern labour has an ascetic character is of course not new. — The Protestant Ethic"
+      ],
+      "同时代对比": "强调学术的ascetic维度，与当时德国大学日益职业化的趋势形成张力",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致（他本人以近乎苦行僧的方式工作）"
+    }
+  ],
+  "政治立场": {
+    "描述": "自由民主主义者，但持现实主义态度。他支持宪政改革和普选权，但强烈反对德国吞并扩张和革命。他既不是社会主义者，也不是传统保守派，而是一个在政治光谱上难以定位的自由主义者。",
+    "原文引用": [
+      "In a democracy the people choose a leader in whom they trust. Then the chosen leader says, 'Now shut up and obey me.' People and party are then no longer free to interfere in his business. — Max Weber, Essays in Sociology",
+      "Politics means the slow drilling of hard boards through a combination of passion and perspective. It requires, first, a warm faith in a cause, and second, the power to inspire it with hope and to kindle it with fire. — Max Weber"
+    ],
+    "时代坐标": "在战时德国知识界从民族主义向自由主义转变的过程中，他是少数始终保持清醒批评立场的公共知识分子",
+    "内在张力": "他支持民主但反对大众主导；他批评Kaiser专制但也反对革命；他坚持价值中立却对政治保持强烈热情——这构成其政治思想的内在张力",
+    "confidence": "high"
+  },
+  "底线清单": [
+    {
+      "条目": "学术诚信",
+      "描述": "绝不用学术来服务政治目的或个人偏见",
+      "原文引用": "whoever introduces his personal value judgment into the lecture-room, a full understanding of the facts ceases",
+      "是否有例外": "无"
+    },
+    {
+      "条目": "intellectual honesty",
+      "描述": "面对令人失望的现实，必须说'nevertheless'，而非逃避或粉饰",
+      "原文引用": "Only he has the calling for politics who is sure that he will not crumble when, from his point of view, the world is too stupid or too abject for what he is offering; only those who can say 'nevertheless'",
+      "是否有例外": "无"
+    }
+  ],
+  "自我定位": {
+    "描述": "知识分子的悲剧角色——清醒地看到现代性的铁笼，却必须在这个铁笼内工作和生活。既不是先知，也不是纯粹的学者，而是两者兼于一身的社会学家。",
+    "原文引用": [
+      "It is horrible to think that the world could one day be filled with nothing but those little cogs, little men clinging to little jobs and striving towards bigger ones. — Max Weber",
+      "Specialists without spirit, sensualists without heart; this nullity imagines that it has attained a level of civilization never before achieved. — Max Weber"
+    ],
+    "与时代关系": "自视为先知性人物，但明确拒绝成为任何人的代言人；他自认是悲剧性的存在，站在理性与价值、学术与政治的张力之间"
+  },
+  "思想内部张力": {
+    "主要矛盾": "理性化是可欲的还是不可欲的？Weber一方面是理性化的诊断者（批判理性化的铁笼效应），另一方面又以理性化为方法论基础（ideal type是理性化思维的产物）。",
+    "深层原因": "他生活在一个理性化进程加速的时代（19-20世纪之交德国），亲身经历了理性化对宗教、家庭、社会的全面改造，同时他自己在方法论上也是理性化的最大推动者。",
+    "对人格的影响": "这种张力使他成为独特的社会学家——既能冷静分析理性化进程，又能对其后果保持深沉的悲剧意识。他的个人神经症（与父亲的冲突、精神崩溃）与他对社会失魅的诊断之间存在深刻的同构关系。"
+  }
+}

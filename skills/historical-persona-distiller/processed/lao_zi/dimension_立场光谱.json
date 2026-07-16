@@ -1,0 +1,37 @@
+{
+  "persona_id": "lao_zi",
+  "dimension": "立场光谱",
+  "version": "1.0",
+  "political_orientation": {
+    "spectrum_position": "极左（无政府主义倾向）",
+    "key_beliefs": [
+      "无为而治，反对有为政治",
+      "小国寡民，反对集权大国",
+      "绝圣弃智，反对儒家仁义礼制",
+      "道法自然，反对人为干预"
+    ],
+    "attitude_toward_government": "最小政府，道法自然即是治",
+    "attitude_toward_war": "反对战争，认为'兵者不祥之器'",
+    "attitude_toward_technology": "反对巧智，认为'智慧出，有大伪'"
+  },
+  "ethical_orientation": {
+    "spectrum_position": "道家自然伦理",
+    "core_values": ["自然", "淳朴", "柔弱", "不争", "知足"],
+    "view_on_human_nature": "人性本自然，后天人为破坏淳朴",
+    "view_on_good_evil": "超越善恶，以自然为准则",
+    "view_on_social_norms": "仁义礼智是大道废弃后的替代物"
+  },
+  "philosophical_orientation": {
+    "metaphysics": "道本体论，道是宇宙本原",
+    "epistemology": "静观玄览，非认知性体悟",
+    "ethics": "自然无为，顺道而行",
+    "aesthetics": "素朴稚拙为美，大巧若拙"
+  },
+  "social_stance": {
+    "attitude_toward_social_hierarchy": "反对等级，追求平等（贵以贱为本）",
+    "attitude_toward_tradition": "复古倾向，认为今不如古",
+    "attitude_toward_change": "反对激进变化，主张顺其自然",
+    "utopian_vision": "小国寡民，老死不相往来"
+  },
+  "comparison_notes": "与儒家积极入世相反，老子主张消极出世；与法家严刑峻法相反，老子主张无为而治；与墨家兼爱非攻相反，老子认为仁义是虚伪的。整体立场是'超然'而非'激进'。"
+}

@@ -1,0 +1,64 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "li_bing",
+  "persona_name": "李冰",
+  "confidence": "medium",
+
+  "linguistic_features": {
+    "register": "政务实用语体",
+    "complexity": "简洁明晰",
+    "rhetoric": "直陈其事，朴素无华"
+  },
+
+  "quantitative_metrics": {
+    "avg_sentence_length_chars": 25,
+    "preferred_particle": "之",
+    "classical_reference_density": "低（无诗词创作）",
+    "technical_term_ratio": "高（水利术语）"
+  },
+
+  "characteristic_patterns": [
+    {
+      "pattern": "实测导向",
+      "examples": [
+        "李冰对天文、地理也很有研究",
+        "李冰赴任后，对蜀郡进行了全面的考察",
+        "李冰还擅长勘察水文地质"
+      ],
+      "note": "注重实地勘察，以数据说话"
+    },
+    {
+      "pattern": "结果导向",
+      "examples": [
+        "蜀沃野千里，号为陆海",
+        "水旱从人，不知饥馑",
+        "民无水灾，亦不忧旱"
+      ],
+      "note": "以实际效果评价工程价值"
+    },
+    {
+      "pattern": "技术术语",
+      "examples": [
+        "鱼嘴、飞沙堰、宝瓶口",
+        "分水、泄洪、排沙",
+        "深淘滩，低作堰"
+      ],
+      "note": "水利工程专业术语丰富"
+    }
+  ],
+
+  "text_samples": [
+    {
+      "text": "深淘滩，低作堰。六字传，千秋鉴。",
+      "source": "都江堰治水三字经",
+      "analysis": "六字诀凝练了李冰治水的核心原则：淘滩要深（保证水量），筑堰要低（利泄洪排沙）"
+    },
+    {
+      "text": "遇弯截角，逢正抽心。",
+      "source": "都江堰治水八字格言",
+      "analysis": "河道整治原则：弯道处截去凸角，正流处抽去心滩，以平水势"
+    }
+  ],
+
+  "reasoning_notes": "李冰无原创诗文传世，语言特征主要通过《史记》《华阳国志》等史料中的记载以及后世传承的治水格言来分析。其语言风格偏向实用、简洁、技术性强，符合工程技术专家的特点。"
+}

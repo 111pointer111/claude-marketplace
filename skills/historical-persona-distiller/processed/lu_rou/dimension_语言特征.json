@@ -1,0 +1,86 @@
+{
+  "persona_id": "lu_rou",
+  "dimension": "语言特征",
+  "version": "1.0",
+  "confidence": "high",
+
+  "summary": "卢梭是18世纪法国最具影响力的散文家之一，其语言风格融合哲学思辨、情感抒发与文学叙事。他的写作横跨政论、散文、教育论著、自传体、小说五种主要文体。SEP指出卢梭对哲学家的态度极为负面，视他们为「事后合理化自私利益的辩护士」；他本人则以反叛性论点（如科学与艺术腐蚀道德）著称。",
+
+  "formal_features": {
+    "sentence_structure": "长句与短句交错；哲学论证部分用复合长句，情感抒发和自传叙事则用简洁短句。论说文结构严谨，自传体则自然流畅。",
+    "paragraph_development": "《社会契约论》逻辑严密，章节间有递进关系；《忏悔录》则随性所至，以事件串联时间线。",
+    "rhetorical_devices": "常使用反问、设问（1750年获奖论文即为设问式命题）；排比句见于情感高潮段落；隐喻和对比（自然 vs 文明）贯穿其核心论著。",
+    "register": "哲学论著使用抽象概念词汇（amour de soi, pitié, general will等）；自传体则口语化、情绪化；情书体（《新爱洛伊丝》）则多愁善感、田园诗意。"
+  },
+
+  "style_markers": [
+    {
+      "marker": "反叛性宣言式开篇",
+      "examples": [
+        "《社会契约论》开篇：Man is born free, and everywhere he is in chains.",
+        "《论科学与艺术》：科学与艺术的复兴是否有助于敦化风俗？（设问）——答案：否。"
+      ],
+      "description": "卢梭喜欢以反直觉的宣言或设问开篇，吸引读者注意，再通过严密的哲学论证支撑其反叛性论点。"
+    },
+    {
+      "marker": "自然 vs 文明的对立结构",
+      "examples": [
+        "自然是善良的，社会是腐化的",
+        "自然科学是朴素的，人工科学是奢靡的",
+        "自然人是独立自由的，社会人是依赖他人的"
+      ],
+      "description": "这种二元对立是卢梭思想的底层框架，在其语言中表现为大量自然/文明的语义对比。"
+    },
+    {
+      "marker": "情感抒发与自传性",
+      "examples": [
+        "《忏悔录》：「我一想到要把孩子交给这样一个乱糟糟的家庭去抚养，我就感到害怕……」",
+        "《一个孤独的散步者的梦想》：散步中的沉思与梦境交织"
+      ],
+      "description": "卢梭是现代自传体文学的开创者，他的语言带有强烈的第一称情感主观性。"
+    },
+    {
+      "marker": "哲学概念的精确界定",
+      "examples": [
+        "amour de soi（自爱心）vs amour propre（自尊心）的区分",
+        "自然自由 vs 公民自由 vs 道德自由的区分",
+        "公意 vs 众意的区分"
+      ],
+      "description": "尽管卢梭散文总体感性，但他在关键概念上追求精准界定，用对比和分类来厘清复杂概念。"
+    }
+  ],
+
+  "textual_examples": [
+    {
+      "text": "Man is born free, and everywhere he is in chains.",
+      "source": "The Social Contract, Book I, Chapter 1",
+      "style_note": "对称结构；自由与束缚的对比；宣言式短句，掷地有声"
+    },
+    {
+      "text": "Rousseau sees the modern individual's dependence on the opinion of others as corrosive of freedom and destructive of individual authenticity.",
+      "source": "Stanford Encyclopedia of Philosophy",
+      "style_note": "SEP对卢梭观点的学术复述，展示了卢梭对他人意见（amour propre来源）的批判"
+    },
+    {
+      "text": "谁第一个把一块儿地圈起来并想到说「这是我的」，而且找到，一个头脑十分简单的人，居然相信了他的话，谁就是文明社会的真正奠基人。",
+      "source": "百度百科·卢梭（引自《论人类不平等的起源》）",
+      "style_note": "设问式的反讽；圈地比喻说明私有制的起源；口语化但哲理深刻"
+    },
+    {
+      "text": "我一想到要把孩子交给这样一个乱糟糟的家庭去抚养，我就感到害怕……育婴堂的教育，比他对孩子的危害小得多。",
+      "source": "《忏悔录》",
+      "style_note": "自传体口语；直接袒露内心；为抛弃孩子行为辩护的逻辑"
+    }
+  ],
+
+  "genre_distinctions": {
+    "political_philosophy": "《社会契约论》《论人类不平等的起源和基础》——逻辑严谨、概念精确、论证递进；语言冷峻但有力",
+    "education": "《爱弥儿》——夹叙夹议；小说形式承载哲学；田园牧歌式的理想国描绘",
+    "autobiography": "《忏悔录》《对话录》《一个孤独的散步者的梦想》——第一称叙事；情感丰富；自我辩护与内省交织",
+    "novel": "《新爱洛伊丝》——书信体；田园风光描写；感伤主义文学先驱",
+    "musicological_writing": "《音乐辞典》《现代音乐论》——技术性与哲学性结合；强调音乐与情感的关联"
+  },
+
+  "western_rhetorical_tradition": "卢梭属于法国古典主义散文传统，但对其有所突破——他将哲学论著与情感表达融合，打破了启蒙理性主义的冷峻规范，被视为浪漫主义运动的先声。",
+  "comparative_notes": "与伏尔泰的讽刺锋利相比，卢梭更温和但更富情感；与狄德罗的百科全书派相比，卢梭更强调个人内在经验而非集体知识建构。"
+}

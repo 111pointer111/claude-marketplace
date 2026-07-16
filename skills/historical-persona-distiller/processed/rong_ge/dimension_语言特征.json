@@ -1,0 +1,51 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "rong_ge",
+  "persona_name": "卡尔·荣格 Carl Gustav Jung",
+  "confidence": "high",
+  "version": "1.0",
+  "last_updated": "2026-05-12",
+
+  "language_features": {
+    "register": "学术论述体（scientific-academic essay）",
+    "tone": "严谨而开放，带有探索性；欢迎神秘体验但不回避科学方法",
+    "sentence_structure": "以复合句为主，学术论证逻辑严密；常以定义-例证-引申的方式展开论述",
+    "vocabulary": "心理学专业术语密集（unconscious, archetype, complex, introversion, extraversion），同时借用神话、宗教、炼金术的意象词汇",
+    "rhetorical_devices": [
+      "下定义（明确的术语界定）",
+      "对比分析（与弗洛伊德的差异）",
+      "引经据典（借用神话、炼金术、宗教文献）",
+      "自我反思式叙述（记录自身神秘体验）"
+    ],
+    "distinctive_patterns": [
+      "强调'心灵'（psyche/mind）而非'大脑'或'神经'",
+      "使用'我们'和'人们'的泛指视角建立共鸣",
+      "经常用'这个概念'、'这个理论'等学术化表述",
+      "将临床观察升华为哲学结论"
+    ]
+  },
+
+  "sample_quotes": [
+    {
+      "text": "He later developed the theory that these experiences came from an area of the mind that he called the collective unconscious, which he held was shared by everyone.",
+      "context": "解释集体无意识的定义"
+    },
+    {
+      "text": "In Jung's terms, archetypes are instinctive patterns, have a universal character, and are expressed in behaviour and images.",
+      "context": "解释原型的定义"
+    },
+    {
+      "text": "Jung attached less importance than did Freud to the role of sexuality in the neuroses and stressed the analysis of patients' immediate conflicts as being more useful in understanding their problems than the uncovering of childhood conflicts.",
+      "context": "与分析心理学的比较"
+    }
+  ],
+
+  "writing_characteristics": "荣格使用学术化的语言风格，同时融入神话和宗教意象。他在科学严谨性和对神秘体验的开放态度之间保持独特的平衡。作为德语区心理学家，他的论述具有德国学院派的逻辑严密性，同时又因为临床实践而避免了纯粹的抽象哲学论述。",
+
+  "textual_sources_used": [
+    "Britannica - Carl Jung biography",
+    "Britannica - collective unconscious",
+    "Britannica - archetype",
+    "Britannica - analytic psychology"
+  ]
+}

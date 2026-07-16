@@ -1,0 +1,43 @@
+{
+  "政治光谱": {
+    "左右定位": "中左/自由主义（非社会主义，非保守主义）",
+    "描述": "Weber是一个现实主义自由主义者，支持议会民主、宪政改革和普选权，但反对革命、反对凡尔赛条约、反对德国扩张主义。他的自由主义建立在对德国现实政治的清醒认知之上，而非抽象理念。",
+    "原文引用": [
+      "When defeat came in 1918, Germany found in Weber a public intellectual leader with unscathed liberal credentials. He was invited to join the draft board of the Weimar Constitution.",
+      "He opposed the German Revolution and the Versailles Treaty alike."
+    ]
+  },
+  "经济态度": {
+    "立场": "资本主义同情者但持批判态度",
+    "描述": "他分析了新教伦理与资本主义的共生关系，但对现代资本主义的非人格化和铁笼效应持深刻批判。他既不是社会主义者，也不盲目崇拜市场。",
+    "原文引用": [
+      "The capitalistic economy of the present day is an immense cosmos into which the individual is born...It forces the individual...to conform to capitalistic rules of action."
+    ]
+  },
+  "宗教态度": {
+    "立场": "宗教社会学视角（既非无神论者，也非信徒）",
+    "描述": "他研究宗教的经济伦理，但明确不表态自己是否信仰上帝。他将宗教视为社会结构的力量，用韦伯式视角分析宗教对社会行动的影响。",
+    "原文引用": [
+      "Calvinist believers were psychologically isolated. Their distance from God could only be precariously bridged, and their inner tensions only partially relieved, by unstinting, purposeful labor."
+    ]
+  },
+  "学术立场": {
+    "立场": "价值中立的社会科学倡导者",
+    "描述": "坚持社会科学应当价值中立，学者可以研究任何对象，但不应将自己的价值判断混入事实分析。这一立场在他1912年辞去德国社会学协会财务职务时公开宣示。",
+    "原文引用": [
+      "To affirm the value of science is a presupposition for teaching there. I personally answer in the affirmative, and I also do so from precisely the standpoint that hates intellectualism as the worst devil."
+    ]
+  },
+  "时代精神坐标": {
+    "定位": "现代性批判者（诊断者，非解决方案提供者）",
+    "描述": "他既不完全肯定现代性（理性化带来效率和进步），也不浪漫主义地否定现代性。他是现代性的诊断者——指出理性化的铁笼效应，但不给出乌托邦式的出路。他预见了20世纪存在主义的很多主题。",
+    "原文引用": [
+      "No one knows who will live in this cage in the future, or whether at the end of this tremendous development entirely new prophets will arise, or there will be a great rebirth of old ideas and ideals, or, if neither, mechanized petrifaction."
+    ]
+  },
+  "核心张力": {
+    "描述": "最深的张力存在于他作为理性化学者（用ideal type等理性工具分析社会）与他对理性化的深刻批判（理性化 = 铁笼）之间。这不是虚伪，而是现代性本身的内在矛盾。",
+    "管理方式": "以悲剧意识接受这一张力，不试图调和，而是清醒地认识到知识分子在这个张力中的悲剧角色——'to say nevertheless'"
+  },
+  "confidence": "high"
+}

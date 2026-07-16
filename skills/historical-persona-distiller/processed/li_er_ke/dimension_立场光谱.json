@@ -1,0 +1,36 @@
+{
+  "persona_id": "li_er_ke",
+  "dimension": "立场光谱",
+  "version": "1.0",
+  "confidence": "high",
+  "spectrum_position": {
+    "cosmopolitanism": "高度世界主义——出生于布拉格（奥匈帝国），生活在德国、法国、意大利、瑞士，旅行至俄罗斯、埃及；从不将自己固定于单一民族或国家认同",
+    "spirituality": "内在超越性——拒绝有组织的基督教，但深度浸润于宗教情感；俄罗斯精神、新柏拉图主义与存在主义之间；上帝是内在宇宙性力量而非教会人格神",
+    "individualism": "极端个体主义——诗歌探索完全围绕个体生存、孤独、内在经验展开；世界的意义从个体内心而非集体结构中寻找",
+    "aestheticism": "审美至上——相信艺术是最高的人类活动；'为艺术而艺术'在里尔克这里不是空洞的形式主义，而是以美作为认识存在的主要路径",
+    "political_engagement": "高度疏离——对政治事务几乎完全保持距离；一战期间也未发表政治诗歌；对时代精神持深刻不信任态度"
+  },
+  "religious_stance": {
+    "position": "内在神秘主义者",
+    "detail": "对基督教会有尖锐批判（Rilke Archive评述：'venomous about organized religion'），但作品充满Virgin Mary、Saints、Angels等意象。区别在于：他的上帝是宇宙性的'生命本身'（life itself），而非教会的人格神。",
+    "quote_evidence": "《祈祷书》中的上帝形象：'God speaks to each of us as he makes us'——这个上帝是创造性的、内在于人的，而非超越性的人格神"
+  },
+  "artistic_stance": {
+    "position": "审美转化论者",
+    "detail": "诗歌的目的是将混乱的存在经验转化为有形式的永恒美。'Making objects out of fear'——恐惧是原材料，形式是转化手段。艺术不是逃避，而是更高层次的接受。"
+  },
+  "social_stance": {
+    "position": "疏离的知识分子",
+    "detail": "始终保持流浪者姿态，拒绝资产阶级生活方式；同情边缘人群（布里格笔记中的巴黎贫民窟），但不以社会改革为目标"
+  },
+  "contradictions": [
+    "极度敏感脆弱的外在形象 vs. 极为坚韧的创作意志（十年完成杜伊诺哀歌）",
+    "对孤独的沉溺 vs. 对关系（Salomé、克拉拉、Valéry）的深度依赖",
+    "对现实世界的恐惧 vs. 对存在本身的全然接受"
+  ],
+  "meta": {
+    "basis": "基于Britannica、百度百科、Rilke Archive的综合分析",
+    "confidence_raising_factors": "各来源立场一致；Rilke自身文学与书信提供了大量自述证据",
+    "confidence_lowering_factors": "里尔克的思想跨越多个哲学-神学传统，精确立场难以用单一坐标描述"
+  }
+}

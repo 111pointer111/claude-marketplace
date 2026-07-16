@@ -1,0 +1,60 @@
+{
+  "persona_id": "nuo_bei_er",
+  "dimension": "思想内核",
+  "version": "1.0",
+  "confidence": "high",
+
+  "core_themes": [
+    {
+      "theme": "科学实用主义与工业创新",
+      "description": "诺贝尔的核心信念是将科学发现转化为造福人类的实际应用。他明确表示'I am the first to have brought these subjects from the area of science to that of industry'（我是第一个将这些课题从科学领域带入工业领域的人）。他的发明逻辑是：从科学知识出发，通过专利保护、工业规模化来实现对人类的实际利益。",
+      "quotes": [
+        "I am the first to have brought these subjects from the area of science to that of industry (Frängsmyr引用)",
+        "important discoveries of practical value to humanity (Letterstedt奖颁奖词, 1868)"
+      ],
+      "sources": ["Nobel Prize Life and Philosophy (Frängsmyr)"]
+    },
+    {
+      "theme": "和平主义与人道主义",
+      "description": "诺贝尔本质上是和平主义者，希望炸药的破坏力能使战争代价过高，从而终结战争。同时他与和平主义者Bertha von Suttner的友谊深刻影响了他设立和平奖的决定。他说希望自己的发明能帮助终结战争。",
+      "quotes": [
+        "Is it not the irony of fate that I have been prescribed N/G 1 (nitroglycerine) to be taken internally! (Nobel, on his heart condition)",
+        "Though Nobel was essentially a pacifist and hoped that the destructive powers of his inventions would help bring an end to war (Britannica)"
+      ],
+      "sources": ["Britannica", "Nobel Prize Official - Health and Medicine"]
+    },
+    {
+      "theme": "遗嘱的人文理想——超越国界的普世价值",
+      "description": "诺贝尔遗嘱最核心的精神是普世主义：'It is my express wish that when awarding the prizes, no consideration be given to nationality, but that the prize be awarded to the worthiest person, whether or not they are Scandinavian.'（我明确愿望：在颁奖时不考虑国籍，只颁给最有价值的人，无论他们是否是斯堪的纳维亚人）。他希望表彰那些'在头一年为人类带来最大利益'的人。",
+      "quotes": [
+        "prizes to those who, during the preceding year, have conferred the greatest benefit to humankind",
+        "It is my express wish that when awarding the prizes, no consideration be given to nationality, but that the prize be awarded to the worthiest person, whether or not they are Scandinavian"
+      ],
+      "sources": ["Nobel Prize Will (nobelprize.org)", "Britannica"]
+    },
+    {
+      "theme": "悖论意识——发明家与道德责任",
+      "description": "诺贝尔一生都在与他作为'战争工具制造商'的身份悖论搏斗。1888年'死亡商人'讣告事件深刻刺激了他，激发他通过遗嘱来重塑自己的历史形象。他知道自己的发明被用于战争，内心有强烈的道德张力。Britannica评价他是'part pessimist and part idealist'（部分悲观主义者，部分理想主义者）。",
+      "quotes": [
+        "Le marchand de la mort est mort (死亡商人是死了) — 1888年法国报纸误登的讣告标题",
+        "Perhaps Alfred Nobel established the prizes to avoid precisely the sort of posthumous reputation suggested by this premature obituary (Britannica)",
+        "a brilliant, lonely man, part pessimist and part idealist, who invented the powerful explosives used in modern warfare but also established the world's most prestigious prizes for intellectual services rendered to humanity (Britannica)"
+      ],
+      "sources": ["Britannica", "Biography.com"]
+    },
+    {
+      "theme": "多维兴趣——科学+文学+哲学",
+      "description": "诺贝尔不是单一维度的发明家。他有深厚的文学雄心——写了大量诗歌、戏剧（未发表），阅读哲学著作并做批注，留下1500+藏书的私人图书馆。他是一个有人文主义情怀的工业家，而非纯粹的工程师。",
+      "quotes": [
+        "Loneliness, reflection on the meaning of Life and the origin of the universe provide the fundamental themes of Alfred Nobel's poetry (Nobel Prize Official)",
+        "He had literary interests and ambitions. He was an avid reader of fiction and wrote his own dramatic works and poems (Frängsmyr)",
+        "He read certain philosophical works with such interest that he underlined important passages... Nobel went through philosophy from antiquity to modern times (Frängsmyr)"
+      ],
+      "sources": ["Nobel Prize Official - The Poet", "Nobel Prize Life and Philosophy"]
+    }
+  ],
+
+  "idioms_proverbs": [],
+
+  "notes": "诺贝尔是发明家非诗人，因此无成语典故。他的思想内核以实用科学主义+和平主义人文理想+身份悖论意识为核心。"
+}

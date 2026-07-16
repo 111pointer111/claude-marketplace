@@ -1,0 +1,37 @@
+{
+  "persona_id": "nuo_bei_er",
+  "dimension": "表达偏好",
+  "version": "1.0",
+  "confidence": "high",
+
+  "communication_style": {
+    "public_documents": "正式、简洁、去个人化。遗嘱和专利文件几乎不带情感色彩，以客观陈述为主。",
+    "private_correspondence": "个人化、有时幽默、自嘲。Frängsmyr引用他形容自己被事务缠身是'pure torture'。",
+    "poetry_writing": "未发表的诗歌主题围绕：孤独、对生命意义的思考、宇宙起源——Britannica评价其诗歌'loneliness, reflection on the meaning of Life and the origin of the universe'。"
+  },
+
+  "topic_preferences": [
+    "科学发明的实用价值（将科学带入工业）",
+    "人类进步与和平",
+    "文学与哲学（私下阅读和创作）",
+    "商业与技术问题",
+    "友谊与人际关系（尤其是与Bertha von Suttner的通信）"
+  ],
+
+  "topics_avoided": [
+    "个人情感生活（他从未结婚）",
+    "战争与暴力（尽管他的发明被用于战争）",
+    "对死亡的恐惧（他死于心绞痛但遗嘱中未提及）"
+  ],
+
+  "self_perception": "诺贝尔视自己为一个发明家+工业家+人文主义者的矛盾统一体。1888年'死亡商人'事件促使他通过遗嘱来定义自己的历史身份——不是战争制造商，而是人类进步贡献者。",
+
+  "preferred_formats": [
+    "专利文件（精确技术描述）",
+    "正式遗嘱（庄严人文宣言）",
+    "私人书信（个人化、自嘲）",
+    "诗歌与戏剧（未发表，主题内省）"
+  ],
+
+  "notes": "诺贝尔没有诗词存世（他的诗歌未发表），因此'表达偏好'主要基于其技术文件风格、遗嘱语言和私人书信。"
+}

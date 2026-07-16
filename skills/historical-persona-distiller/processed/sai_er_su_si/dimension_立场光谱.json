@@ -1,0 +1,87 @@
+{
+  "persona_id": "sai_er_su_si",
+  "dimension": "立场光谱",
+  "version": "1.0",
+  "confidence": "medium",
+  "confidence_rationale": "Celsus的立场大多通过其对其他学派的评价来推断，且其个人原创立场较少，主要为综合折中。",
+
+  "political_social_stance": {
+    "overall": "保守的罗马精英主义",
+    "description": "作为罗马贵族知识分子，Celsus代表了一种维护传统罗马价值的立场，同时对希腊文化保持开放态度",
+    "key_positions": [
+      {
+        "dimension": "文化认同",
+        "position": "亲希腊的罗马精英",
+        "evidence": "他用拉丁语写作但大量引用希腊医学传统，体现出对希腊知识的吸收而非排斥"
+      },
+      {
+        "dimension": "社会等级",
+        "position": "认可罗马贵族知识阶层的引领作用",
+        "evidence": "他的写作预设读者为受过教育的精英，面向有知识但非专业医师的人群"
+      },
+      {
+        "dimension": "知识观",
+        "position": "反对纯粹实用主义，坚持系统性知识价值",
+        "evidence": "他既批评空谈理论者也批评纯经验主义者，体现理性与实践并重的知识分子立场"
+      }
+    ]
+  },
+
+  "philosophical_stance": {
+    "metaphysics": "未明确表述",
+    "epistemology": "理性与经验并重（亚里士多德式的中道）",
+    "ethics": "实用主义导向，强调医学的社会功能",
+    "description": "Celsus不属于任何单一哲学学派，而是采取实用主义的折中立场"
+  },
+
+  "medical_school_alignment": {
+    "primary": "折中派（Eclectic）/新希波克拉底派",
+    "description": "他的医学立场综合了Dogmatic学派的理论重视和Empiric学派的实践导向",
+    "specific_positions": [
+      "反对将医学理论化到脱离实践的程度",
+      "反对完全依赖经验而拒绝理论指导",
+      "强调预防医学和日常健康管理的价值",
+      "支持解剖学作为医学知识的基础"
+    ],
+    "distance_from_extremes": {
+      "from_dogmatics": "moderate",
+      "from_empirics": "moderate",
+      "note": "他明确批评两个极端，提出'经验与理论应相结合'"
+    }
+  },
+
+  "religious_stance": {
+    "position": "传统罗马宗教立场",
+    "description": "作为1世纪罗马人，Celsus接受传统罗马宗教，不涉及反基督教的立场（反基督教的是另一个Celsus——与Origen论战的哲学家）",
+    "note": "注意区分：Aulus Cornelius Celsus（医学作家）与Celsus the Philosopher（反基督教著作家）是不同人物"
+  },
+
+  "reformism": {
+    "level": "温和改良",
+    "description": "他不寻求颠覆既有医学体系，而是系统整理、批评性继承希腊医学遗产，使其适合罗马语境",
+    "key_reforms_proposed": [
+      "强调拉丁语医学写作的重要性",
+      "倡导预防为主的治疗哲学",
+      "推动医学教育系统化"
+    ]
+  },
+
+  "controversial_positions": [
+    {
+      "position": "支持人体解剖",
+      "description": "他认为对死刑犯进行活体解剖以研究解剖学在道德上是正当的",
+      "quote": "Nor is it, as most people say, cruel that in the execution of criminals, and but a few of them, we should seek remedies for innocent people of all future ages."
+    },
+    {
+      "position": "医学知识公共性",
+      "description": "他的百科全书写作面向公众而非仅限于专业医师群体，体现了知识普及的理想"
+    }
+  ],
+
+  "contextual_factors": {
+    "historical_context": "罗马帝国和平时期，希腊化文化与罗马本土文化的融合阶段",
+    "medical_context": "希腊医学在罗马的传播与本土化时期",
+    "intellectual_context": "折中主义哲学流派兴盛时期"
+  }
+
+}

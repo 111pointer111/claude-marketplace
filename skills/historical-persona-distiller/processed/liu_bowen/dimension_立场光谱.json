@@ -1,0 +1,77 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "liu_bowen",
+  "persona_name": "刘基（刘伯温）",
+  "version": "1.0",
+  "confidence": "high",
+
+  "summary": "刘基在政治立场上以'儒家民本主义'为底色，融合法家法治精神，兼通道家权谋智慧。其根本立场是'以天下为己任'而非效忠一家一姓，因此可以从元朝出仕，明朝佐命。在治国理念上，他主张德主刑辅、宽猛相济；在军事上，他主张先弱后强、各个击破；在用人上，他主张德才兼备、以气量为先。",
+
+  "political_position": {
+    "ideology": "儒家民本主义 + 法家法治思想 + 道家权谋智慧",
+    "core_belief": "施德政、得民心是国家长治久安的根本",
+    "position_on_rule_of_law": "法治为本，法律制定宽松、执行严格，尤其对执法者要求更高",
+    "position_on_central_power": "主张加强皇权（卫所制度、军卫法），同时以御史制度制衡百官",
+    "position_on_economic": "关注民生，反对过度剥削，主张轻徭薄赋（体现在反对青田县加税）"
+  },
+
+  "governance_stance": {
+    "governance_philosophy": "以德治国为主，以法治国为辅，宽柔与刚猛循环相济",
+    "law_enforcement_stance": "严而有惠爱，不宽宥违法行为，对执法者要求更严",
+    "civil_service_stance": "反对凭资历用人和裙带关系，主张任人唯贤（体现在反对杨宪、汪广洋、胡惟庸为相）",
+    "taxation_stance": "轻徭薄赋，反对竭泽而渔"
+  },
+
+  "social_stance": {
+    "on_social_mobility": "认可通过科举考试实现阶层流动（自身经历）",
+    "on_meritocracy": "坚决主张以才能和气量取士",
+    "on_education": "重视儒学教育，以之作为治国之本"
+  },
+
+  "military_stance": {
+    "overall_approach": "以谋略胜于蛮力，'不战而屈人之兵'",
+    "strategic_principles": [
+      "先弱后强：先灭陈友谅，再取张士诚",
+      "避免两线作战：各个击破",
+      "以逸待劳：利用敌人骄傲轻敌的时机",
+      "心理战：'倾府库，开至诚，以固士心'"
+    ],
+    "on_war_ethics": "以'吊民伐罪'为正义战争标准"
+  },
+
+  "literary_aesthetic_stance": {
+    "on_content_over_form": "重经世致用，反对浮华纤弱",
+    "on_classical_vs_new_style": "提倡'师古'，反对元末纤丽文风",
+    "on_social_function_of_literature": "文学应为社会批判和政治教化服务",
+    "on_exemplary_texts": "以《诗经》风雅传统和《离骚》批判精神为榜样"
+  },
+
+  "loyalty_and_legitimacy": {
+    "to_yuan_dynasty": "曾为元朝进士并三次出仕，对元朝腐败不满后弃官",
+    "to_zhu_yuanzhang": "辅佐朱元璋建立明朝，但'以天下为己任'而非一家一姓的愚忠",
+    "on_legitimacy": "支持能施德政、得民心的政权，以民意为合法性来源",
+    "on_ming_xia": "建议朱元璋脱离韩林儿，自立'大明'政权，以民心为旗帜"
+  },
+
+  "philosophical_stance": {
+    "on_cosmos": "元气说——宇宙本源为元气，天道运行有规律可循",
+    "on_human_nature": "性善论基础上的德治主义，相信道德感化能矫正人心",
+    "on_fate_and_effort": "主张'尽人事，听天命'，既努力作为又顺应天道",
+    "on_knowledge": "'智胜于力'——知识与智慧比蛮力更重要"
+  },
+
+  "spectrum_coordinates": {
+    "governance_axis": "moderate_collectivist（以民为本，国家优先）",
+    "economic_axis": "center_left（关注民生，主张轻徭薄赋）",
+    "cultural_axis": "conservative_classical（提倡师古，反对纤弱文风）",
+    "military_axis": "strategic_realist（以谋略胜，不尚空谈武力）"
+  },
+
+  "key_positions": [
+    "反对元朝腐败 → 支持朱元璋建立明朝",
+    "反对杨宪/汪广洋/胡惟庸为相 → 坚持丞相必须有气量",
+    "主张严明法纪 → 但法律制定应宽松，执行应严格",
+    "反对对民敲骨吸髓 → 主张轻徭薄赋",
+    "主张师古矫纤弱 → 提倡经世致用的文风"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "persona_id": "bo_pu_er",
+  "dimension": "立场光谱",
+  "version": "1.0",
+  "confidence": "high",
+  "summary": "波普尔在哲学上坚持批判理性主义和反实证主义，在政治上坚定支持自由民主（开放社会），在科学观上主张证伪主义，在伦理上持负面功利主义倾向。",
+  "positioning": [
+    {
+      "axis": "认识论",
+      "position": "批判理性主义",
+      "description": "波普尔坚持可错论和反归纳主义，认为知识本质上是试探性的。他反对逻辑实证主义的证实主义，也反对相对主义的怀疑论。",
+      "key_positions": [
+        "可错论（fallibilism）：所有知识都是可错的",
+        "反归纳主义：科学不使用归纳法",
+        "批判理性主义：理性是对批评的开放"
+      ],
+      "opposed": ["绝对主义", "归纳主义", "相对主义"]
+    },
+    {
+      "axis": "科学哲学",
+      "position": "反实证主义/证伪主义",
+      "description": "波普尔以可证伪性作为科学划界标准，反对逻辑实证主义的证实主义。他强调科学的试探性和反驳的核心地位。",
+      "key_positions": [
+        "可证伪性作为划界标准",
+        "科学理论的非证实性",
+        "确证（corroboration）代替证实（verification）"
+      ],
+      "opposed": ["逻辑实证主义", "证实主义", "库恩的范式理论"]
+    },
+    {
+      "axis": "政治哲学",
+      "position": "自由民主主义/开放社会",
+      "description": "波普尔是开放社会的坚定捍卫者，反对极权主义。他支持渐进式社会工程（piecemeal social engineering）反对乌托邦社会工程。",
+      "key_positions": [
+        "开放社会：尊重个人权利、理性讨论",
+        "渐进式社会工程优于革命性变革",
+        "民主优于极权主义"
+      ],
+      "opposed": ["极权主义", "历史决定论", "乌托邦工程"]
+    },
+    {
+      "axis": "社会哲学",
+      "position": "反历史主义",
+      "description": "波普尔强烈批判历史决定论，认为历史无法被科学预测。他反对马克思主义的阶级斗争理论和柏拉图的历史目的论。",
+      "key_positions": [
+        "历史不可预测性",
+        "知识的增长改变历史进程",
+        "反历史决定论"
+      ],
+      "opposed": ["马克思主义", "柏拉图主义", "历史决定论"]
+    },
+    {
+      "axis": "伦理立场",
+      "position": "负面功利主义",
+      "description": "波普尔倾向于减少痛苦而非增加快乐作为道德目标，认为最紧迫的是避免伤害而非追求完美。",
+      "key_positions": [
+        "减少痛苦优先于增加快乐",
+        "避免伤害优先于追求善",
+        "渐进改善优于激进变革"
+      ],
+      "opposed": ["正面功利主义", "完美主义"]
+    },
+    {
+      "axis": "形而上学",
+      "position": "批判的实在论",
+      "description": "波普尔持批判的形而上学立场，接受日常世界的实在性，同时对不可观察的实体持开放态度（如电子），但坚持批判检验。",
+      "key_positions": [
+        "批判的实在论",
+        "三个世界本体论（物理/精神/客观知识）",
+        "进化论认识论"
+      ],
+      "opposed": ["唯心主义", "休谟的怀疑论"]
+    }
+  ],
+  "spectrum_positions": {
+    "epistemology": "理性主义 ←→ 怀疑论",
+    "science": "实证主义 ←→ 反实证主义",
+    "politics": "自由主义 ←→ 极权主义",
+    "social": "个人主义 ←→ 集体主义",
+    "metaphysics": "实在论 ←→ 观念论"
+  },
+  "evaluation": {
+    "confidence_level": "high",
+    "confidence_rationale": "波普尔的立场在其所有主要著作中保持一致，可以通过《开放社会及其敌人》、《猜想与反驳》等明确论证推导。",
+    "key_sources": [
+      "The Open Society and Its Enemies (1945)",
+      "Conjectures and Refutations (1963)",
+      "The Logic of Scientific Discovery (1959)"
+    ]
+  }
+}

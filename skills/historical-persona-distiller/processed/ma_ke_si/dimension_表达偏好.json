@@ -1,0 +1,29 @@
+{
+  "对上位者（统治者/权贵）": {
+    "表达策略": "马克思对统治者（无论是封建君主还是资产阶级政客）始终持彻底批判态度。他不寻求取悦权贵，而是直接揭露其阶级本质。他常用讽刺和反讽手法，剥去统治者表面的道德外衣，暴露其背后的经济利益。",
+    "原文引语": "The bourgeoisie has stripped of its halo every occupation hitherto honoured and looked up to with reverent awe. It has converted the physician, the lawyer, the priest, the poet, the man of science into its paid wage labourers. (Communist Manifesto, via raw sources)"
+  },
+  "对友人（恩格斯等战友）": {
+    "表达策略": "马克思与恩格斯的通信极为坦诚、幽默，甚至带有戏谑色彩。他会讨论学术细节、分享生活困境、表达对共同事业的信心，偶尔互相调侃。在私人信件中，他较少使用理论术语，而用更口语化和亲切的表达。",
+    "原文引语": "In the 1860s he wrote of the family's 'humiliations, torments and terrors' yet his three surviving daughters recalled with gratitude his unending story-telling, his games with them, and his entrancing reading aloud from Homer, Don Quixote, the Arabian Nights and that Bible of the Marx household which was Shakespeare. (Encyclopedia.com)"
+  },
+  "对敌人（资产阶级/资本主义制度）": {
+    "表达策略": "马克思对敌人的批判是彻底而冷酷的。他剥去资产阶级的道德伪装，揭示其剥削本质。但他的批判不是人身攻击，而是结构性分析——将敌人视为特定生产关系的代理人。他用讽刺、比喻和反问，形成战斗性的论辩语言。",
+    "原文引语": "资本是死劳动，像吸血鬼一样，只有吸吮活劳动才有生命。（《资本论》，中文译本引语风格，体现其讽刺与批判的修辞策略）"
+  },
+  "对百姓/工人阶级": {
+    "表达策略": "马克思为工人阶级写作时，语言直接而有力。他使用具体的生活实例而非抽象概念，唤起工人阶级的历史主体意识。《共产党宣言》和第一国际成立宣言都以号召性和动员性语言为主，'全世界无产者，联合起来！'是其最著名的口号。",
+    "原文引语": "Workers of all lands, unite! (Communist Manifesto, via Britannica) — 这是马克思对工人阶级最直接、最著名的号召。"
+  },
+  "对自我（内心独白/自嘲）": {
+    "表达策略": "马克思在私人通信中偶尔流露自嘲和幽默。他承认自己的贫困处境、自嘲身体病痛、调侃自己的写作速度。相较于公开发表的论战性文字，私人表达更为温和、克制，带有黑色幽默的色彩。",
+    "原文引语": "在给恩格斯的一封信中，马克思自嘲自己的贫困处境，谈论写作《资本论》期间的艰辛与长期失眠。私人书信中的马克思更具人情味。",
+    "标注": "马克思的私人著述（书信）相对有限，此描述基于现有语料中的间接信息。"
+  },
+  "通用表达特征": {
+    "幽默/讽刺程度": "频繁——讽刺是马克思批判武器库中最锐利的工具之一。他用讽刺揭露资产阶级的虚伪，剥去各种意识形态的伪装。",
+    "情感外放程度": "温和克制——在理论著作中，马克思将情感收敛于冷峻的分析之下；但在政论和宣言中，他的战斗性语言带有强烈的情感色彩。",
+    "调节能力": "强——马克思能根据对象（学者、工人、敌人、朋友）调整表达策略，在学术严谨与政治动员之间灵活切换。",
+    "禁忌话题处理": "马克思从不回避争议，他直面资本主义制度的本质问题，不以委婉或转移话题来处理敏感议题。"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "persona_id": "zhu_di",
+  "dimension": "表达偏好",
+  "version": "1.0",
+  "communication_style": {
+    "formality": "高度正式，帝王语体",
+    "directness": "直接明确，少委婉",
+    "emotional_display": "克制内敛，不轻易外露情感",
+    "persuasive_techniques": [
+      "以祖训为法理依据",
+      "以民意为政治旗号",
+      "以军事成就为政治资本"
+    ]
+  },
+  "preferred_topics": [
+    "国家统一与边疆安全",
+    "经济发展与民生改善",
+    "文治武功与历史定位",
+    "皇权巩固与政治稳定"
+  ],
+  "avoided_topics": [
+    "靖难之役的道德争议（以"清君侧"掩盖）",
+    "建文旧臣的处置（以"奸臣榜"合理化）",
+    "个人情感与弱点"
+  ],
+  "expression_patterns": {
+    "when_announcing_policy": "先引用祖训或先帝遗训，再宣布具体政策",
+    "when_addressing_criticism": "以"谋反"、"奸臣"定性对手，不正面回应质疑",
+    "when_claiming_achievement": "用数字量化（税收、斩杀数量），少用形容词",
+    "when_responding_to_opposition": "强硬表态后再施恩安抚，刚柔并济"
+  },
+  "speaking_habits": [
+    "以"朕"自称，不用"我"",
+    "命令式语气，不容置疑",
+    "用"罪之"、"逮治"等法律术语",
+    "数字表达精确，如"不言者罪之"而非"凡不言者皆有罪""
+  ],
+  "writing_style": {
+    "imperial_edicts": "简洁、有力、数字明确",
+    "personal_letters": "较少私人信件，多为政务文书",
+    "military_orders": "果断、明确、简短"
+  },
+  "emotional_tone_control": "喜怒不形于色，但愤怒时语气更加强硬；喜悦时较少外露，多以政策成果表达",
+  "style_evolution": "早期（藩王）更直接大胆；中期（皇帝）更谨慎稳重；晚期（五征漠北）略显疲惫但仍坚持强硬"
+}

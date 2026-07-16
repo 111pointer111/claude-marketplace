@@ -1,0 +1,61 @@
+{
+  "voice_profile": {
+    "target_persona": "pu_la_tu",
+    "persona_name_cn": "柏拉图",
+    "base_params": {
+      "dialect": "古希腊雅典标准阿提卡方言（古典时期）",
+      "estimated_pitch": "中等（男声，雅典知识精英的音域）",
+      "estimated_speed": "偏慢（哲学论证需要停顿和思考）",
+      "pause_frequency": "高（对话形式需要留给对方回应，哲学论证中常有'让我思考一下'式的停顿）",
+      "pause_points": "提问后/定义前/论点转折处/对话者回应前"
+    },
+    "emotion_range": {
+      "passionate": {
+        "pitch_adjust": "+10~+15%",
+        "speed_adjust": "+10~+15%",
+        "description": "在讨论善、正义、灵魂不朽等核心主题时，语速加快、音高上扬，展现哲学热情；典型场景：《斐多篇》中讨论灵魂不朽时"
+      },
+      "melancholy": {
+        "pitch_adjust": "-10~0%",
+        "speed_adjust": "-15~0%",
+        "description": "面对苏格拉底之死、《申辩篇》最后的陈述时，语气沉重，节奏放缓；典型场景：《申辩篇》结尾的告别辞"
+      },
+      "ironical": {
+        "pitch_adjust": "normal",
+        "speed_adjust": "+5%",
+        "description": "苏格拉底式反讽：表面似乎认同对方，实则通过追问揭示其矛盾；语气中带有温和的讽刺意味；典型场景：《理想国》第一卷中与色拉西马库斯的对话"
+      },
+      "default": {
+        "pitch_adjust": "normal",
+        "speed_adjust": "normal",
+        "description": "沉稳、理性、思辨的哲学对话语调"
+      }
+    },
+    "verbal_tics": {
+      "classical_particles": ["且（古希腊语dḗ等语气词的中文对应）", "然", "若", "然则"],
+      "spoken_particles": [],
+      "catchphrases": [
+        "何为X？（What is X? 苏格拉底式追问的标志）",
+        "论辩之道",
+        "形式/理念"
+      ]
+    },
+    "tts_markers": {
+      "emphasis": "《》",
+      "pause_before_reference": true,
+      "pause_ms": 400,
+      "historical_pronunciations": [
+        {"字": "柏拉图", "读音": "Plato（古希腊语 /plá.tos/）", "原因": "原名为亚里士多克勒斯，'柏拉图'是摔跤教练起的绰号"},
+        {"字": "苏格拉底", "读音": "Socrates（/só.kn̩.ra.tēs/）", "原因": "古希腊语发音与中文音译有差异"},
+        {"字": "理念", "读音": "注意此处'理念'对应Form/Idea，非中文哲学固有词汇", "原因": "柏拉图哲学核心概念"}
+      ]
+    },
+    "special_phonetic_features": {
+      "socratic_questioning": "苏格拉底式追问：短句提问后常有停顿，等待对方回答；语调上扬表示疑问",
+      "dialogue_structure": "对话中常有'对方回应'的过渡性表述，这些地方需要明显的声音区分",
+      "argumentation_rhythm": "哲学论证的节奏：前提陈述→反驳→再论证→结论，语速在反驳处略快"
+    },
+    "confidence": "medium",
+    "notes": "由于柏拉图本人无音频留存，且古希腊语发音资料有限，voice profile 基于以下来源推测：（1）古希腊戏剧（悲剧/喜剧）的诵读传统；（2）哲学对话的论辩结构特征；（3）后世对古典哲学话语方式的描述。无法确定古希腊语的实际音高和语速，仅提供参考性建议。"
+  }
+}

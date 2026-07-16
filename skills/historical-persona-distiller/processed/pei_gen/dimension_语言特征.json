@@ -1,0 +1,42 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "pei_gen",
+  "persona_name": "弗朗西斯·培根",
+  "confidence": "medium-high",
+  "linguistic_markers": [
+    {
+      "feature": "警句式散文",
+      "description": "《随笔》以短小精悍的警句式段落著称，格言般的总结性陈述比比皆是，简洁却蕴含深邃洞见",
+      "examples": ["'知识就是力量'类型的多用途格言", "段落结尾常有升华性总结句"],
+      "source_ref": "raw/pei_gen/传记.txt"
+    },
+    {
+      "feature": "平衡韵律与古典修辞",
+      "description": "培根的散文具有平衡的音韵节奏，大量使用对称结构，但这种优雅背后是精心设计的复杂性",
+      "examples": ["在修订版《随笔》中，他故意打破早期平衡效果，产生更粗粝的风格", "Bishop Sprat赞誉其'数学般的朴素'，但培根本人作品实际上远比描述的更华丽"],
+      "source_ref": "raw/pei_gen/传记.txt"
+    },
+    {
+      "feature": "格言与反讽的并置",
+      "description": "在随笔中，培根经常将世俗智慧与反讽性自嘲并置，表现出对人性弱点的深刻洞察",
+      "examples": ["'Nature is conquered only by obeying it'（Nature only yields to those who follow her）", "对伊丽莎白和詹姆斯一世宫廷政治的犀利观察"],
+      "source_ref": "raw/pei_gen/引语.txt"
+    },
+    {
+      "feature": "隐喻系统化",
+      "description": "培根善用系统化隐喻：蜜蜂（归纳法）、蚂蚁（经验论）、蜘蛛（纯推理）、舞台（哲学戏剧）",
+      "examples": ["The proper natural philosopher should proceed in the way of 'the bee'—to gather material from the flowers and then 'to convert and digest it'"],
+      "source_ref": "raw/pei_gen/传记.txt"
+    },
+    {
+      "feature": "拉丁化词汇与学术腔调",
+      "description": "在哲学著作中使用拉丁化词汇和学术性表达，但在随笔中保持口语化精炼",
+      "examples": ["Instauratio Magna, Novum Organum, Idols等拉丁术语系统", "相比之下随笔更平易近人"],
+      "source_ref": "raw/pei_gen/传记.txt"
+    }
+  ],
+  "register_range": "从精炼口语（随笔）到庄重学术（哲学论著）",
+  "sentence_structure": "以短句为主，段落通常围绕单一概念展开，句与句之间存在精密的逻辑递进",
+  "rhetorical_devices": "排比、隐喻、类比、反讽、警句",
+  "summary": "培根的语言兼具古典优雅与实用精炼。他能在随笔中以口语化格言传递深邃思想，在哲学论著中以精密的拉丁学术语言构建体系。语言风格随文体而变化，但核心特征——警句式、隐喻化、系统化——贯穿始终。"
+}

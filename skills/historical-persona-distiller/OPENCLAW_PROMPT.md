@@ -20,7 +20,7 @@
 
 **步骤 1：预检查**
 
-读取 DONE.md「下一待处理」→ 按 NAMING.md 转换为 persona_id（PID）→ 检查 `done/{PID}.done` 是否存在（存在则跳过此人，重新取下一个）→ 记录开始时间
+读取 INDEX.md「下一待处理」→ 按 NAMING.md 转换为 persona_id（PID）→ 检查 `done/{YYYY-MM}/{PID}.done` 是否存在（存在则跳过此人，重新取下一个）→ 记录开始时间
 
 ---
 
@@ -96,9 +96,11 @@ output/{PID}/
 
 ```bash
 git add output/{PID}/
-git add done/{PID}.done
+git add done/{YYYY-MM}/{PID}.done
 git commit -m "distill: {人物名} persona ({confidence})"
 ```
+
+> done/ 已按月归档（`done/2026-04/`、`done/2026-05/`、`done/2026-07/`）。当月完成的 .done 文件放到对应月份子目录。
 
 ---
 
@@ -115,16 +117,16 @@ git push origin main
 **步骤 7：更新状态文件并推送**
 
 更新 `skills/historical-persona-distiller/DONE.md`：
-- 在「已完成」表格追加一行（人物/朝代/日期/confidence/耗时）
-- 更新「统计概览」
+- 在「月度统计」追加一行
 - 在「执行日志」追加本次执行记录
 
-从 `skills/historical-persona-distiller/backlog.md` 中移除该人物。
+更新对应批次文件 `skills/historical-persona-distiller/queue/{batch_file}.md`：
+- 把该人物的 row 标记为 `~~...~~ ✅ done YYYY-MM-DD`
 
-从 backlog.md 读取下一个最高优先级人物，更新「下一待处理」。
+从 `queue/_overview.md` 读取下一个最高优先级人物，更新 INDEX.md 的状态列。
 
 ```bash
-git add DONE.md backlog.md
+git add DONE.md queue/{batch_file}.md INDEX.md
 git commit -m "update: {人物名} done, next: {新人物名}"
 git push origin main
 ```
@@ -163,12 +165,13 @@ git push origin main
 - [ ] confidence 评级符合统计规则
 - [ ] EVENTS.md 每事件有 speech_tone_in_this_event 标注
 - [ ] VOICE.md 所有字段已填充
-- [ ] done/{PID}.done 已创建
+- [ ] done/{YYYY-MM}/{PID}.done 已创建
 - [ ] **git commit 成功**
 - [ ] **git push origin main 成功**
-- [ ] DONE.md 已更新（完成记录 + 统计 + 下一待处理）
-- [ ] backlog.md 已移除该人物
-- [ ] **git push DONE.md + backlog.md 成功**
+- [ ] DONE.md 已更新（执行日志追加）
+- [ ] queue/{batch_file}.md 该人物 row 已标记 done
+- [ ] INDEX.md 状态已更新
+- [ ] **git push DONE.md + queue/*.md + INDEX.md 成功**
 
 ---
 

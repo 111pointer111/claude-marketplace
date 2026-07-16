@@ -1,0 +1,115 @@
+# 阿威罗伊 (Ibn Rushd / Averroes) — 关键引语
+
+## 哲学与宗教关系
+
+### "哲学研究是宗教命令"
+"Law commands the study of philosophy... Many Quranic verses, such as 'Reflect, you have a vision' (59.2) and 'they give thought to the creation of heaven and earth' (3:191), command human intellectual reflection upon God and his creation."
+
+— Fasl al-Maqāl (Decisive Treatise), trans. Butterworth
+
+"Since, therefore, such obligation exists in religion, then a person who has the capacity of 'natural intelligence' and 'religious integrity' must begin to study philosophy."
+
+— Fasl al-Maqāl
+
+### 真理的层次
+"The Law speaks of three ways for humans to discover truth: the demonstrative, the dialectical and the rhetorical. These, for Ibn Rushd, divide humanity into philosophers, theologians and the common masses."
+
+— Fasl al-Maqāl (Decisive Treatise)
+
+### 哲学与宗教不可能真正冲突
+"Any conflict between scripture (the Qur'an) and demonstrative truth is only apparent, due to an incomplete understanding. If there is a disagreement between scripture and demonstrative truth, an allegorical interpretation of the scripture should be used."
+
+— Fasl al-Maqāl
+
+"Demonstrative truth cannot conflict with scripture, since Islam is ultimate truth and the nature of philosophy is the search for truth."
+
+— Fasl al-Maqāl
+
+### 经文隐喻解释
+"Many scriptures had an apparent meaning and a hidden, inner meaning which should only be taught to educated people."
+
+— Fasl al-Maqāl
+
+## 对al-Ghazali的反驳
+
+### 因果关系不是习惯
+"Things have essences and attributes that determine the special functions of each thing and through which the essences and names of things are differentiated. If a thing did not have its specific nature, it would not have a special name nor a definition, and all things would be one."
+
+— Tahāfut al-Tahāfut (Incoherence of the Incoherence), II.1
+
+"When a man moves a stone by leaning against it and pushing it, he does not push it, but it is the Agent who creates the motion."
+— al-Ghazali's position, cited in Ibn Rushd's Tahāfut al-Tahāfut
+
+"Fire burns when a spark is placed near wood... not from habit but from the nature of fire."
+
+— Tahāfut al-Tahāfut
+
+### 上帝不创造奇迹需要因果
+"Ghazzali... offered a number of lengthy proofs to challenge the philosopher's assertions... [Ibn Rushd replies that] the eternal works differently than the temporal. As humans, we can willfully decide to perform some action and then wait a period of time before completing it. For God, on the other hand, there can be no gap between decision and action."
+
+— Tahāfut al-Tahāfut
+
+## 形而上学
+
+### 宇宙永恒
+"Since it is itself unmoved—that is, wholly changeless—its causal agency must likewise be eternal. 'A thing lacking the potential for change and alteration cannot be changed at any time, since if it were then its alteration would be by cause of itself, and so there would be alteration without the possibility for it.'"
+
+— Long Commentary on De Caelo I.103
+
+"'The effect of a cause cannot be delayed after the causation.'"
+
+— Tahāfut al-Tahāfut I.1
+
+### 第一因
+"There is a moved thing that is first by nature, which moves the whole, and which terminates every movement whose mover is external…. The mover of this [first] moved thing is, of itself, not a body and is absolutely and essentially unmoved."
+
+— Epitome of Physics 8.242
+
+"The spheres move eternally in majestic circles simply because it befits their lofty existence to do so."
+
+— Epitome of Metaphysics 4.152
+
+## 心理学/灵魂论
+
+### 物质理智
+"this claim came to me after long reflection and intense care, and I have not seen it in anyone else before me"
+
+— Commentator on Alexander, p.30; on material intellect being single and eternal
+
+"The material intellect is analogous to prime matter, in that it is pure potentiality able to receive universal forms."
+
+— Long Commentary on De Anima III
+
+### 认知过程
+"The soul never thinks without an image."
+
+— Aristotle, De anima 431a17, cited in Ibn Rushd's commentaries
+
+## 上帝知识
+
+### 上帝知道特殊事物
+"God knows particulars because he is the cause of such things... God, being the cause of the universe, has knowledge based on being its cause; while humans have knowledge based on the effects of such causes."
+
+— Fasl al-Maqāl / Decisive Treatise
+
+"The divine mind's 'thinking its own self is identical with its thinking all existence.'"
+
+— Tahāfut al-Tahāfut I.11
+
+"The First Form thinks of nothing outside itself."
+
+— Long Commentary on De Anima III.5
+
+## 辩证法
+
+### 辩证法是共同体事业
+"The communal enterprise can be achieved in its utmost perfection only by both partners. They can have something in common when their aim is the assessment and the deduction of the truth, or the realization of their training... If their aim is to struggle against and defeat the other, then they will have nothing in common…. This is not the method of dialectic."
+
+— Paraphrase of Topics 8.132D
+
+## 法理学
+
+### 法律推理不是严格三段论
+"every science has its own characteristics; therefore, anyone who tried to study logic while studying jurisprudence would fail at studying both."
+
+— Abridgement of Logic, p.123

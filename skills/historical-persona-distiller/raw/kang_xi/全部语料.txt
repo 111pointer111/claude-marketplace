@@ -1,0 +1,47 @@
+# 康熙皇帝 全部语料
+
+## 传记（百度百科）
+
+康熙帝（1654年5月4日－1722年12月20日），名玄烨，是清朝第二任皇帝（1661年-1722年在位），也是中国历史上在位时间最长的皇帝之一（61年）。
+
+康熙帝是顺治帝的第三子，母亲是孝康章皇后佟佳氏。他8岁即位，14岁亲政，在位61年，创造了历史上著名的"康乾盛世"的开端。
+
+康熙帝即位时年仅8岁，由索尼、苏克萨哈、遏必隆、鳌拜四位大臣辅政。鳌拜逐渐专权，康熙帝14岁时开始亲政，但权力仍受制于鳌拜。1669年，康熙帝智擒鳌拜，清除了这位权臣，开始真正掌权。
+
+1673年，平西王吴三桂请求撤藩，康熙帝决定撤藩，引发三藩之乱（吴三桂、尚可喜、耿精忠）。康熙帝展现了卓越的军事才能，最终在1681年平定了这场长达八年的内战。
+
+1683年，康熙帝派军进攻台湾，郑克塽投降，台湾纳入清朝版图。
+
+康熙帝两次派军进攻雅克萨，最终通过《尼布楚条约》（1689年）确定了中俄边界，保卫了东北疆土。
+
+康熙帝三次亲征准噶尔丹津博硕克图，1696年在昭莫多击败准噶尔军队，1697年彻底平定准噶尔之乱，将外蒙古纳入版图。
+
+康熙帝在位期间，重视农业发展，推行轻徭薄赋政策。他学习汉族文化，精通儒家经典，同时也重视西方科学，聘请传教士为宫廷教师。
+
+康熙帝晚年经历了九子夺嫡的宫廷斗争，最终在1722年病逝于北京畅春园。
+
+## 引语（Britannica原文）
+
+"Kangxi (born May 4, 1654, Beijing, China—died Dec. 20, 1722, Beijing) was the second emperor (reigned 1661–1722) of the Qing (Manchu) dynasty (1644–1911/12). To the Chinese empire he added areas north of the Amur River (Heilong Jiang) and portions of Outer Mongolia, and he extended control over Tibet. He opened four ports to foreign trade and encouraged the introduction of Western education and arts and of Roman Catholicism."
+
+"Upon Shunzhi's sudden death from smallpox at age 23, in February 1661, Xuanye was immediately raised to the imperial throne over his five brothers, who had been born to mothers lower in birth than his; his chosen reign name, Kangxi (Manchu: Elhe Taifin), means 'Peaceful Harmony.'"
+
+"The Thirteen Offices, all organized solely by Chinese eunuchs, had been the abomination of the Manchus ever since they had been introduced by the late emperor, to handle affairs of the imperial household, patterned after an elaborate model that had existed under the preceding dynasty—the Chinese Ming dynasty."
+
+"The actual arrest of Oboi was made in the audience room by young wrestlers, who jumped upon the powerful minister from their hiding place behind the throne. With this coup the 15-year-old emperor proved to the public that he was their real master."
+
+"The young emperor again showed his resoluteness by deciding in favour of trying to deprive Wu of his army, arguing that the three kings were sure to eventually rebel against Beijing and that it would be better to forestall them by taking advantage of this opportunity."
+
+"Kangxi's youthful energy and genius in military strategy finally triumphed over the senility of Wu Sangui, who never even attempted to march on Beijing but died soon after, styling himself emperor."
+
+"Drafted under the pressure of a superior number of Qing troops sent into Nerchinsk by Kangxi, the treaty drew the Sino-Russian borderline along the Gorbitsa, an outer tributary of the Amur, and the Stanovoy Range, thereby leaving the Amur valley and Manchuria, homeland of the dynasty, in the hands of the Qing."
+
+"In 1696 he embarked on a daring and extremely dangerous venture—a military expedition to Outer Mongolia across the scorched Gobi. In personal command of the middle corps, Kangxi managed to overcome hunger and thirst in the hostile terrain and annihilated the Dzungars at Dzuunmod, east of the present-day Ulaanbaatar."
+
+"Mindful of the spiritual sway of Tibet's Dalai Lama over the Mongols, Kangxi sent his army into Tibet and expelled the Dzungars from Lhasa in 1720 and thus incorporated the country into his empire."
+
+## 后世评述
+
+康熙帝是中国历史上在位时间最长的皇帝之一，开创了"康乾盛世"的良好开端。他勤政爱民，精通汉文化，重视科技，对清朝的稳定和发展做出了重要贡献。
+
+康熙被认为是中华帝国历史上最伟大的皇帝之一。他在位期间，清朝疆域达到鼎盛，同时他也以学者型皇帝著称，精通儒家经典，重视西方科学和艺术。

@@ -1,0 +1,108 @@
+{
+  "核心价值观": [
+    {
+      "条目": "数学系统性",
+      "描述": "花拉子密坚持数学知识必须系统化、有条理地呈现。他将代数整理为六种标准形式，通过统一的运算方法（al-jabr和al-muqābala）系统性地解决方程。这反映了他对数学秩序和系统性的坚定信仰。",
+      "原文引用": [
+        "When I consider what people generally want in calculating, I found that it always is a number. I also observed that every number is composed of units, and that any number may be divided into units. — Al-Khwarizmi, Algebra",
+        "His equations are linear or quadratic and are composed of units, roots and squares. For al-Khwarizmi a unit was a number, a root was x, and a square was x². — MacTutor History of Mathematics"
+      ],
+      "同时代对比": "与同时代的巴格达学者相比，花拉子密更强调数学的实用性和系统性，而非纯粹的哲学探讨。他将代数从理论科学转变为实用工具，这是他的独特之处。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "知识普及与实用性",
+      "描述": "花拉子密的代数书明确表示目的是解决人们在日常生活中遇到的实际问题：遗产分配、贸易、土地测量、运河挖掘等。他拒绝空洞的理论，坚持知识必须有用。",
+      "原文引用": [
+        "... what is easiest and most useful in arithmetic, such as men constantly require in cases of inheritance, legacies, partition, lawsuits, and trade, and in all their dealings with one another, or where the measuring of lands, the digging of canals, geometrical computations, and other objects of various sorts and kinds are concerned. — Al-Khwarizmi, Algebra",
+        "The algebra treatise Hisab al-jabr w'al-muqabala gives us the word algebra and can be considered as the first book to be written on algebra. The book was intended to be highly practical. — MacTutor History of Mathematics"
+      ],
+      "同时代对比": "与同时代一些学者追求深奥理论不同，花拉子密坚持知识的实用性。这种实用主义使他的著作能够跨越文化和时代界限。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "跨文化知识整合",
+      "描述": "花拉子密的工作体现了伊斯兰黄金时代学者对多元文化的整合能力。他在智慧宫翻译希腊和印度科学著作，融合巴比伦、波斯、印度和希腊的数学传统，建立了新的知识体系。",
+      "原文引用": [
+        "Some of al-Khwarizmi's contributions were based on earlier Persian and Babylonian astronomy, Indian numbers, and Greek mathematics. — Wikipedia",
+        "Al-Khwarizmi also compiled a set of astronomical tables (Zīj), based on a variety of Hindu and Greek sources. — Britannica"
+      ],
+      "同时代对比": "与欧洲中世纪早期的学术孤立相比，花拉子密代表了伊斯兰世界对古代文明的开放态度和整合能力。他能同时吸收希腊几何传统和印度代数/数字系统的优势。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "学术严谨与验证",
+      "描述": "花拉子密在代数中提供了系统的证明方法，既有算术解法也有几何验证。他解二次方程x²+10x=39时，既给出算术步骤，也用几何图形（完成平方）进行证明，体现了严谨的学术态度。",
+      "原文引用": [
+        "The manner of solving this type of equation is to take one-half of the roots just mentioned. Now the roots in the problem before us are 10. Therefore take 5, which multiplied by itself gives 25, an amount which you add to 39 giving 64. — Al-Khwarizmi, Algebra",
+        "Al-Khwarizmi then shows how to solve the six standard types of equations. He uses both algebraic methods of solution and geometric methods. — MacTutor History of Mathematics"
+      ],
+      "同时代对比": "这种将算术方法与几何验证相结合的做法，显示了花拉子密对希腊数学严谨性的吸收，同时也体现了阿拉伯数学家的实用主义。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "知识传播的使命感",
+      "描述": "花拉子密明显有将知识传播给更广泛受众的使命感。他的代数书是作为普及性著作撰写的，而非学术专著。他系统地将印度数字系统介绍给伊斯兰世界和后来的欧洲。",
+      "原文引用": [
+        "Al-Khwarizmi was the first person to treat algebra as an independent discipline and introduced the methods of reduction and balancing. — Wikipedia",
+        "The work on arithmetic first introduced the Hindu numbers to Europe, as the very name algorism signifies. — Mohammad Khan"
+      ],
+      "同时代对比": "许多古代学者将知识视为精英阶层的专属，花拉子密则不同，他致力于让数学知识服务于更广泛的社会需求。这种对知识普及的重视是他与许多同时代学者的区别。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    }
+  ],
+  "政治立场": {
+    "描述": "花拉子密在阿拔斯王朝哈里发阿尔-马蒙的资助下工作，其政治立场主要体现在对哈里发政权的支持和学术服务。他作为智慧宫学者，既是哈里发的学术顾问，也通过学术工作支持帝国的治理需求（如遗产计算、土地测量、天文观测等）。",
+    "原文引用": [
+      "Al-Khwarizmi worked at the House of Wisdom in Baghdad, where he worked under the caliphate of al-Ma'mun. — Britannica",
+      "Al-Khwarizmi wrote a treatise on Hindu-Arabic numerals. The Arabic text is lost but a Latin translation Algoritmi de numero Indorum gave rise to the word algorithm. — MacTutor"
+    ],
+    "时代坐标": "花拉子密代表了伊斯兰黄金时代学术与政权合作的典型模式。哈里发阿尔-马蒙对学术的资助使巴格达成为当时世界科学的中心，花拉子密是这一繁荣的最大受益者和贡献者之一。",
+    "内在张力": "无明显矛盾。他的学术工作既有服务统治者的实用性目的，也有追求真理和系统化知识的学者理想，两者在他身上得到了统一。",
+    "confidence": "medium（直接讨论政治立场的原文极为有限，主要通过历史背景推断）"
+  },
+  "底线清单": [
+    {
+      "条目": "学术诚实性",
+      "描述": "花拉子密坚持在数学证明中使用正确的运算方法。他在代数中使用al-jabr（补全）和al-muqābala（平衡）两种标准运算，不接受不规范的数学操作。",
+      "原文引用": [
+        "Al-jabr means completion and is the process of removing negative terms from an equation. Al-muqabala means balancing and is the process of reducing positive terms of the same power when they occur on both sides of an equation. — MacTutor History of Mathematics"
+      ],
+      "是否有例外": "无"
+    },
+    {
+      "条目": "实用性优先",
+      "描述": "花拉子密坚持数学必须解决实际问题。他不接受纯粹的抽象理论，坚持代数必须服务于遗产分配、贸易、土地测量等实际需求。",
+      "原文引用": [
+        "... what is easiest and most useful in arithmetic, such as men constantly require in cases of inheritance, legacies, partition, lawsuits, and trade... — Al-Khwarizmi, Algebra"
+      ],
+      "是否有例外": "无（这一原则贯穿他的所有代数工作）"
+    },
+    {
+      "条目": "系统性呈现",
+      "描述": "花拉子密坚持将数学知识系统化呈现，而非零散罗列。他将所有方程化为六种标准形式，建立了完整的代数体系。",
+      "原文引用": [
+        "He first reduces an equation (linear or quadratic) to one of six standard forms. — MacTutor History of Mathematics"
+      ],
+      "是否有例外": "无"
+    }
+  ],
+  "自我定位": {
+    "描述": "花拉子密自视为一位服务社会实际需求的实用数学家，而非纯粹的学者。他明确表示自己的目的是帮助人们解决日常计算问题。他的定位是知识的传播者和整合者，而非原创思想家。他从希腊、印度、波斯的知识传统中吸取营养，将其系统化后传播给更广泛的受众。",
+    "原文引用": [
+      "When I consider what people generally want in calculating, I found that it always is a number. — Al-Khwarizmi, Algebra",
+      "Al-Khwarizmi was the first person to treat algebra as an independent discipline. — Wikipedia"
+    ],
+    "与时代关系": "花拉子密非常符合其时代对自己的定位——一位在伊斯兰黄金时代服务于帝国学术需求的学者。他既不自负也不谦卑，而是务实地认识到自己在知识传播链条中的位置：他是一个重要的环节，将古代知识传给后世，但首先是服务于当代社会的实际需求。"
+  },
+  "思想内部张力": {
+    "主要矛盾": "花拉子密的思想中存在一组张力：他是知识的综合者还是原创思想家？一方面，他的代数学被认为具有开创性；另一方面，他主要是整合和系统化前人的工作，而非提出全新的数学概念。",
+    "深层原因": "这种张力反映了古代科学发展的普遍模式——在原创性突破之前往往需要大量的整理和综合工作。花拉子密的代数虽然主要是系统化，但他建立了一个新的数学学科，这种系统化本身就是一种原创性贡献。",
+    "对人格的影响": "这种张力塑造了花拉子密作为一位务实的知识工作者的形象——他不是追求个人荣耀的孤独天才，而是服务于社会需要的学者。他的声誉来自于他解决问题的方式，而非他个人的神秘光环。"
+  }
+}

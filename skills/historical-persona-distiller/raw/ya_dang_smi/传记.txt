@@ -1,0 +1,223 @@
+================================================================================
+来源1：Britannica - Adam Smith（britannica.com/biography/Adam-Smith）
+================================================================================
+
+Adam Smith (baptized June 5, 1723, Kirkcaldy, Fife, Scotland—died July 17, 1790, Edinburgh) was a Scottish social philosopher and political economist, instrumental in the rise of classical liberalism.
+
+Adam Smith is a towering figure in the history of economic thought. Known primarily for a single work—An Inquiry into the Nature and Causes of the Wealth of Nations (1776), the first comprehensive system of political economy—he is more properly regarded as a social philosopher whose economic writings constitute only the capstone to an overarching view of political and social evolution. If his masterwork is viewed in relation to his earlier lectures on moral philosophy and government, as well as to allusions in The Theory of Moral Sentiments (1759) to a work he hoped to write on "the general principles of law and government, and of the different revolutions they have undergone in the different ages and periods of society," then The Wealth of Nations may be seen not merely as a treatise on economics but also as a partial exposition of a much larger scheme of historical evolution.
+
+Early life
+
+Much more is known about Adam Smith's thought than about his life. He was the son by second marriage of Adam Smith, comptroller of customs at Kirkcaldy, a small (population 1,500) but thriving fishing village near Edinburgh, and Margaret Douglas, daughter of a substantial landowner. Of Smith's childhood nothing is known other than that he received his elementary schooling in Kirkcaldy and that at the age of four years he was said to have been carried off by gypsies. Pursuit was mounted, and young Adam was abandoned by his captors. "He would have made, I fear, a poor gipsy," commented the Scottish journalist John Rae (1845–1915), Smith's principal biographer.
+
+At the age of 14, in 1737, Smith entered the University of Glasgow, already remarkable as a centre of what was to become known as the Scottish Enlightenment. There he was deeply influenced by Francis Hutcheson, a famous professor of moral philosophy from whose economic and philosophical views he was later to diverge but whose magnetic character seems to have been a main shaping force in Smith's development. Graduating in 1740, Smith won a scholarship (the Snell Exhibition) and traveled on horseback to Oxford, where he stayed at Balliol College. Compared with the stimulating atmosphere of Glasgow, Oxford was an educational desert. His years there were spent largely in self-education, from which Smith obtained a firm grasp of both classical and contemporary philosophy.
+
+Returning to his home after an absence of six years, Smith cast about for suitable employment. The connections of his mother's family, together with the support of the jurist and philosopher Lord Henry Home Kames, resulted in an opportunity to give a series of public lectures in Edinburgh—a form of education then much in vogue in the prevailing spirit of "improvement." The lectures, which ranged over a wide variety of subjects from rhetoric to history and economics, made a deep impression on some of Smith's notable contemporaries. They also had a marked influence on Smith's own career, for in 1751, at the age of 27, he was appointed professor of logic at Glasgow, from which post he transferred in 1752 to the more remunerative professorship of moral philosophy, a subject that embraced the related fields of natural theology, ethics, jurisprudence, and political economy.
+
+Glasgow
+
+Smith then entered upon a period of extraordinary creativity, combined with a social and intellectual life that he afterward described as "by far the happiest, and most honourable period of my life." During the week he lectured daily from 7:30 to 8:30 am and again thrice weekly from 11 am to noon, to classes of up to 90 students, aged 14 to 16. Afternoons were occupied with university affairs in which Smith played an active role, being elected dean of faculty in 1758; his evenings were spent in the stimulating company of Glasgow society.
+
+Among his wide circle of acquaintances were not only members of the aristocracy, many connected with the government, but also a range of intellectual and scientific figures that included Joseph Black, a pioneer in the field of chemistry; James Watt, later of steam-engine fame; Robert Foulis, a distinguished printer and publisher and subsequent founder of the first British Academy of Design; and, not least, the philosopher David Hume, a lifelong friend whom Smith had met in Edinburgh. Smith was also introduced during these years to the company of the great merchants who were carrying on the colonial trade that had opened to Scotland following its union with England in 1707. One of them, Andrew Cochrane, had been a provost of Glasgow and had founded the famous Political Economy Club. From Cochrane and his fellow merchants Smith undoubtedly acquired the detailed information concerning trade and business that was to give such a sense of the real world to The Wealth of Nations.
+
+
+================================================================================
+来源2：Britannica - The Wealth of Nations（britannica.com/topic/The-Wealth-of-Nations）
+================================================================================
+
+The Wealth of Nations, work by the Scottish economist and philosopher Adam Smith, first published in 1776, that became a foundational study in the history of economics and the first formulation of a comprehensive system of political economy.
+
+Despite its renown as the first great work of political economy, The Wealth of Nations is in fact a continuation of a philosophical theme begun in an earlier work by Smith, The Theory of Moral Sentiments (1759). The ultimate problem to which Smith addresses himself is how the struggle between what he calls the "inner man" (the capacity of individuals to impartially approve or condemn their own and others' actions with a voice impossible to disregard) and individuals' passions for self-preservation and self-interest works its effects in the larger arena of history, both in the long-run evolution of society and in terms of the immediate characteristics of the stage of history typical of Smith's own day.
+
+The answer to this problem begins in Book V, "Of the Revenue of the Sovereign or Commonwealth," in which Smith outlines the four main stages of organization through which society is impelled, unless blocked by wars, deficiencies of resources, or bad policies of government: the original "rude" state of hunters; a second stage of nomadic agriculture; a third stage of feudal, or manorial, "farming"; and a fourth and final stage of commercial interdependence.
+
+It should be noted that each of these stages is accompanied by institutions suited to its needs. For example, in the age of hunters, "there is scarce any property…; so there is seldom any established magistrate or any regular administration of justice." With the advent of flocks there emerges a more complex form of social organization, comprising not only "formidable" armies but the central institution of private property with its indispensable buttress of law and order as well. It is the very essence of Smith's thought that he recognized this institution, whose social usefulness he never doubted, as an instrument for the protection of privilege, rather than one to be justified in terms of natural law: "Civil government," he wrote, "so far as it is instituted for the security of property, is in reality instituted for the defence of the rich against the poor, or of those who have some property against those who have none at all."
+
+Finally, Smith describes the evolution through feudalism into a stage of society requiring new institutions, such as market-determined rather than guild-determined wages and free rather than government-constrained enterprise. This later became known as laissez-faire capitalism; Smith called it the system of perfect liberty.
+
+There is an obvious resemblance between this succession of changes in the material basis of production, each bringing its requisite alterations in the superstructure of laws and civil institutions, and the Marxian conception of history. Although the resemblance is indeed remarkable, there is also a crucial difference: in the Marxian scheme the engine of evolution is ultimately the struggle between contending socioeconomic classes, whereas in Smith's philosophical history the primal moving agency is "human nature" driven by the desire for self-betterment and guided (or misguided) by the faculties of reason.
+
+Society and the "invisible hand"
+
+The theory of historical evolution, although it is perhaps the binding conception of The Wealth of Nations, is subordinated within the work itself to a detailed description of how the "invisible hand" actually operates within the commercial, or final, stage of society. This becomes the focus of Books I and II, in which Smith undertakes to elucidate two questions. The first is how a system of perfect liberty, operating under the drives and constraints of human nature and intelligently designed institutions, will give rise to an orderly society.
+
+This orderliness, as would be expected, was produced by the interaction of the two aspects of human nature: its response to its passions and its susceptibility to reason and sympathy. But whereas The Theory of Moral Sentiments had relied mainly on the presence of the "inner man" to provide the necessary restraints to private action, in The Wealth of Nations one finds an institutional mechanism that acts to reconcile the disruptive possibilities inherent in a blind obedience to the passions alone. This protective mechanism is competition, an arrangement by which the passionate desire for bettering one's condition—"a desire that comes with us from the womb, and never leaves us until we go into the grave"—is turned into a socially beneficial agency by pitting one person's drive for self-betterment against another's.
+
+It is in the unintended outcome of this competitive struggle for self-betterment that the invisible hand regulating the economy shows itself, for Smith explains how mutual vying forces the prices of commodities down to their "natural" levels, which correspond to their costs of production. Moreover, by inducing labour and capital to move from less to more profitable occupations or areas, the competitive mechanism constantly restores prices to these "natural" levels despite short-run aberrations.
+
+Economic growth
+
+Smith's analysis of the market as a self-correcting mechanism was impressive. But his purpose was more ambitious than to demonstrate the self-adjusting properties of the system. Rather, it was to show that, under the impetus of the acquisitive drive, the annual flow of national wealth could be seen to grow steadily.
+
+The core of it lies in his emphasis on the division of labour (itself an outgrowth of the "natural" propensity to truckle and barter) as the source of society's capacity to increase its productivity. The Wealth of Nations opens with a famous passage describing a pin factory in which 10 persons, by specializing in various tasks, turn out 48,000 pins a day, compared with the few pins, perhaps only 1, that each could have produced alone.
+
+But this all-important division of labour does not take place unaided. It can occur only after the prior accumulation of capital (or stock, as Smith calls it), which is used to pay the additional workers and to buy tools and machines.
+
+Smith wrote with discernment about the intellectual degradation of the worker in a society in which the division of labour has proceeded very far; by comparison with the alert intelligence of the husbandman, the specialized worker "generally becomes as stupid and ignorant as it is possible for a human being to become."
+
+The Wealth of Nations is therefore far from the ideological tract it is often assumed to be. Although Smith preached laissez-faire (with important exceptions), his argument was directed as much against monopoly as against government; and, although he extolled the social results of the acquisitive process, he almost invariably treated the manners and maneuvers of businessmen with contempt. Nor did he see the commercial system itself as wholly admirable.
+
+In all of this, it is notable that Smith was writing in an age of preindustrial capitalism. He seems to have had no real presentiment of the gathering Industrial Revolution. He had nothing to say about large-scale industrial enterprise, and the few remarks in The Wealth of Nations concerning the future of joint-stock companies (corporations) are disparaging.
+
+
+================================================================================
+来源3：World History Encyclopedia - Adam Smith（worldhistory.org/Adam_Smith/）
+================================================================================
+
+Adam Smith (1723-1790) was a Scottish philosopher, economist, and leading Enlightenment figure. In The Wealth of Nations, he advocates free trade and limited interference in markets by governments, for which he is seen as the founder of liberal economics. Regarded incorrectly as a champion of laissez-faire economics, Smith supported state intervention in important areas like the education of workers.
+
+Early Life
+
+Adam Smith was born into a landowning family living in Kirkcaldy, located to the north of Edinburgh across the Firth of Forth in Scotland, c. 5 June 1723. Smith's father, also called Adam, worked as a customs official while his mother, Margaret Douglas, did not need to work thanks to a significant land inheritance.
+
+Smith studied literature at both the University of Glasgow and, thanks to winning a scholarship, at Balliol College, Oxford, from 1740. He left Oxford in 1746, and from 1748, he gave public lectures in Edinburgh with great success. In 1751, Smith was appointed the Professor of Logic at the University of Glasgow, and the next year, he became the Professor of Moral Philosophy, a position he held until 1764.
+
+Smith cultivated friendships with other Scottish philosophers, most notably David Hume (1711-1776), and men of business like the merchant Andrew Cochrane (1693-1777).
+
+Moral Philosophy
+
+Smith's first major work was The Theory of Moral Sentiments, published in 1759. Here, Smith presents his views on moral philosophy, which emphasise:
+
+Stoic virtues, and in particular that of self command. Smith's man of perfect virtue "joins to the most perfect command of his own original and selfish feelings, the most exquisite sensibility both to the original and sympathetic feelings of others."
+
+This positive view of an individual's use of reason, restraint, and sympathy and empathy for others was encouraged by what Smith called an "inner person" or "impartial spectator" (what we might alternatively call the voice of one's conscience).
+
+The work eventually attracted wider attention, and Smith was employed as tutor to the Duke of Buccleuch. The position was well paid but meant Smith had to move to France in 1764, first to Toulouse and then to Paris. In between, he stayed in Geneva and met the French author and philosopher Voltaire (1694-1778).
+
+Smith was involved in more practical affairs, for a time acting as advisor to the Chancellor of the Exchequer in 1766. It seems probable that Smith was, therefore, partly responsible for the tax policies applied to the Thirteen Colonies in North America, policies which ultimately led to the American Revolutionary War after the colonists considered that they should not pay taxes without political representation.
+
+Buccleuch's financial support of Smith – he gave him a pension equal to his salary as tutor – permitted him to leave his university post and dedicate himself entirely to political philosophy. For his greatest work, Smith returned home to Kirkcaldy in 1767, where he lived with his mother. In 1773, he moved to London.
+
+The Wealth of Nations
+
+Adam Smith's political philosophy is presented in his book Inquiry into the Nature and Causes of the Wealth of Nations (often simply called The Wealth of Nations), which was first published in 1776. As the full title suggests, Smith's intention was to systematically and objectively investigate the best political system that could provide a nation with the greatest economic success, much like contemporary scientists were trying to do in the fields of physics, astronomy, medicine, and mathematics during the Scientific Revolution.
+
+Smith is realistic, unsentimental, and optimistic in his determination to improve the human condition. He believes in progress and that humanity is currently in a fourth stage of existence, what he calls the age of commerce (the previous three, in order, were the age of hunters, shepherds, and agriculture). These stages were based on Smith's extensive studies in history and contemporary trade. Commerce, for Smith, is the inevitable concluding stage since humans are social and trade is a social activity.
+
+Smith proposed the labour theory of value based on this interconnectedness between humans in the world of trade. That is, he highlighted the difference between the use value and the exchange value of something.
+
+Smith was also determined to show in his book that the Christian dislike of wealth, based on such biblical passages as "it is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God" (Matthew 19:24), had no foundation in nature and no place in modern economics.
+
+A Free(ish) Market
+
+Smith believed that the state should interfere in economic markets only when it is necessary to prevent a situation of unfair competition. Essentially, then, the state should leave the economy to itself since it would be guided by what he called the 'Invisible Hand' of the market, a system of perfect liberty where the economy is self-adjusting as it adapts to continuous changes in production and consumption based on people's self-interest.
+
+Smith believed in free international trade and was against such common policies as protecting domestic industries using import duties in the face of cheap imports (mercantilism).
+
+Smith points out two more arguments against protectionist economic policies. He states that such protection would only help an industry in which that nation is less skilled and remove possible funds from other industries where the nation is more skilled. Secondly, protectionist policies create discord between nations, which should be endeavouring to pursue international trade as smoothly as possible.
+
+Despite Smith's modern association with laissez-faire economics, he was not actually in favour of a complete abandonment of the markets by the state. Indeed, he thought a truly free market was a practical impossibility anyway. He regarded the state as having a duty to assist people in times of need (famine, for example) and help victims of instances where the free market failed to provide them with the necessary intellectual tools to work, earn a living, and improve themselves. For example, Smith advocated the state raise taxes to pay for the education of the poor in certain instances.
+
+Criticisms
+
+Critics of Smith's approach, which allows the rich to prosper without constraint, point out that if wealth is concentrated in the hands of the few then inevitably the political power of the many will diminish. Smith's 'Invisible Hand', as unfeeling as gravity, also ignores factors that might be considered important for people's opportunities to gain wealth, such as the individual's political, ideological, and social background.
+
+On Self-Interest
+
+Smith explains his view that self-interest and the common good are the same thing:
+
+"Every individual exerts himself to find out the most advantageous employment of whatever his capital can command. The study of his own advantage necessarily leads him to prefer what is most advantageous to society."
+
+For Smith, self-interest rules all economic transactions. He states:
+
+"It is not from the benevolence of the butcher, the brewer, or the baker, that we expect our dinner, but from their regard to their own interest. We address ourselves, not to their humanity but to their self-love, and never talk to them of our own necessities but of their advantages."
+
+Further, Smith believed that the rich might well become greedy and rapacious in their pursuit of their self-interests, but because an individual has a physical limit on the things they can consume, the rich are ultimately obliged to dispense their wealth amongst those less rich.
+
+Measuring Wealth
+
+To return to the original objective of The Wealth of Nations, Smith was particular about how the 'wealth' of a nation was to be measured. He did not believe the amount of a nation's gold or silver was an accurate measure of its prosperity. Smith believed that real wealth is measured by examining the "annual produce of the land and labour of society." He stressed that both agriculture and manufacturing needed to be considered, which was in contrast to some contemporary thinkers who believed only agriculture mattered (a position known as physiocracy).
+
+Death & Legacy
+
+Smith only wrote two major works, and from 1778, he worked as a customs commissioner in Edinburgh. His aged mother came to live with him since he had never married, although she did have to share the house with her son's library of 3,000 books. Adam Smith died in Edinburgh on 17 July 1790. He was buried in the churchyard in the Canongate area of the Scottish capital close to where he had lived.
+
+Smith was one of the leading figures of the Enlightenment, and he has become one of the most quoted thinkers by economists ever since. The historian A. Gottlieb goes so far as to describe The Wealth of Nations as "the founding text of modern economics." The book took a while to establish a wider audience, and it really only came into its own during the Industrial Revolution of the 19th century when it became almost a bible of economics, a position it still holds today for those who advocate 'less is more' when it comes to regulating trade and economies.
+
+
+================================================================================
+来源4：Stanford Encyclopedia of Philosophy - Adam Smith's Moral and Political Philosophy
+（plato.stanford.edu/entries/smith-moral-political/）
+================================================================================
+
+Adam Smith developed a comprehensive and unusual version of moral sentimentalism in his Theory of Moral Sentiments (1759, TMS). He did not expressly lay out a political philosophy in similar detail, but a distinctive set of views on politics can be extrapolated from elements of both TMS and his Wealth of Nations (1776, WN); student notes from his lectures on jurisprudence (1762–1763, LJ) have also helped flesh out his thoughts on governance.
+
+A central thread running through his work is an unusually strong commitment to the soundness of the ordinary human being's judgments, and a concern to fend off attempts, by philosophers and policy-makers, to replace those judgments with the supposedly better "systems" invented by intellectuals.
+
+Instead, he maps common life from within, correcting it where necessary with its own tools rather than trying either to justify or to criticize it from an external standpoint. He aims indeed to break down the distinction between theoretical and ordinary thought. This intellectual project is not unconnected with his political interest in guaranteeing to ordinary individuals the "natural liberty" to act in accordance with their own judgments.
+
+1. Methodology
+
+Smith's Theory of Moral Sentiments (TMS) tends to arouse sharply divergent reactions among the philosophers who pick it up. Kant is said to have considered it his favorite among Scottish moral sense theories (Fleischacker 1991), but others have dismissed it as devoid of systematic argument, or derivative, in its theoretical aspirations, of Hume.
+
+Smith begins the book with an account of sympathy, which he describes as arising when we imagine how we would feel in the circumstances of others. This is somewhat different from Hume's account, on which sympathy normally consists in feeling what others actually feel in their circumstances. Hume's may be called a "contagion" account of sympathy, while Smith's is a "projective" account.
+
+Smith's projective account opens up the possibility that our feelings on another person's behalf may often not match the feelings she herself has. Indeed to some extent they will never match, since imagining oneself into a set of circumstances will always lack the intensity of actually experiencing those circumstances (TMS 21–22).
+
+Smith distinguishes two kinds of normative guides to action: rules and virtues. Moral rules, formed on the basis of our reactions to specific instances (we say to ourselves, "I'll never do that"), bar certain especially egregious kinds of behavior—murder, rape, theft—and provide a framework of shared expectations for society.
+
+Virtue requires more than simply following moral rules. Our emotional dispositions need to be re-configured so that we do not merely "affect" the sentiments of the impartial spectator but "adopt" those sentiments: identify ourselves with, become, the impartial spectator, insofar as that is possible (147).
+
+Smith gives us more a virtue ethics than a rule-based moral system along the lines proposed by Kant and the utilitarians.
+
+In any case, Smith gives us more a virtue ethics than a rule-based moral system along the lines proposed by Kant and the utilitarians. Nevertheless, he tries to incorporate some of the intuitions that generated these other systems.
+
+Smith also tries to make sense of the role that religion and culture play in our moral lives. He handles the first of these by explaining why people who come to believe in higher powers will naturally attribute virtues, and a concern for our virtue, to those powers.
+
+Smith handles the importance of culture under the heading of "custom and fashion." Book V of TMS takes up this topic, acknowledging the influence of prevailing opinions in each society over all sorts of value judgments, and granting that what is regarded as virtuous will vary to some extent in accordance with this influence.
+
+Part VI of TMS, added in the last edition, presents the virtues of prudence, benevolence and self-command by way of a series of elegant character portraits, and part VII offers a short history of moral philosophy, which stresses the contributions of Plato, Aristotle, and the Stoics.
+
+3. Advantages of Smith's Moral Philosophy
+
+Smith's version of moral sentimentalism has a number of advantages over those of his contemporaries. His approach yields moral judgments closer to those we already normally make, and makes better sense of the complexity and richness of both virtue and the judgment of virtue. He is expressly concerned to do justice to this complexity, criticizing Hutcheson for reducing virtue too single-mindedly to benevolence, and Hume for putting too much emphasis on utility.
+
+In addition, none of Smith's predecessors had developed such an essentially social conception of the self.
+
+We can more fully appreciate what is distinctive in Smith by comparing him with Hume. For Smith, by contrast, we place ourselves in the other's situation and imagine what we would feel if we were there. Imagination is essential to the production even of the "idea" of another's feelings, and sympathetic feelings are no longer ones that the other person need actually have. (Smith points out that this explains how we sympathize with some people, like gravely ill infants or the insane, who do not actually experience the suffering we feel on their behalf [TMS 12–13]).
+
+These seemingly slight shifts from Hume—understanding sympathy as 1) produced by the imagination and 2) a response to situations rather than something passed on, causally, from one person to another—have immense implications for the shape of Smith's thought.
+
+The first of them leads him to give a central place to works of the imagination in moral development. He frequently brings in examples from poetry and drama to explain or give evidence for his points (e.g., TMS 30, 32–33, 34, 177, 227), twice recommends writers like Voltaire as great "instructors" in certain virtues (TMS 143, 177).
+
+The second of the shifts enables Smith to be more of a moral realist than Hume. Smith finds an ingenious way of importing Samuel Clarke's concern with "fitnesses" into moral sentimentalism. On his view, we aim to have, and act on, just those feelings that an impartial spectator would have in our situations; the feelings we attribute to such a spectator are then the ones fitted to that situation.
+
+Smith also acknowledges that we in fact judge actions by their effects as well as their intentions, and thinks this sort of judgment is appropriate as long as we look at effects as they are intended, and not just as they happen to occur. The "merit" of actions, he says in Book II of TMS, depends on their consequences, even if their propriety is independent of consequences; the point, for him, is just that these are two different elements of moral judgment and the first is of greater importance than the second (188).
+
+Accordingly, it makes much more sense for Smith than for Hume that we ought to assess our sentiments critically. Hume grants that we correct our sympathy for partiality by adopting in imagination a "steady and general point of view" (Hume 1739–40, p. 581), but for Smith this concession comes too late.
+
+Finally, Smith is further from utilitarianism than Hume. Both the notion of sentiments as having or lacking an intrinsic propriety independently of their effects, and the arguments, in Books II and IV, against reducing our interest in justice and beauty to our interest in their useful effects, are meant to counteract the utilitarian tendencies in Hume. Smith rejects the idea that our assessments or decisions should aim at the greatest happiness for the greatest number of people (TMS 237).
+
+4. Objections to Smith's Moral Philosophy
+
+Smith's moral theory has been accused of three major failings. First, it offers us no clear procedure for deciding which actions we should take in specific circumstances, no guidelines for how we can tell, in specific cases, what the impartial spectator has to say. Second, the impartial spectator seems too enmeshed in the attitudes and interests of the society in which it develops for it to be free of that society's biases. And third, even if Smith's analysis of moral claims is correct, it remains unclear what justifies these judgments.
+
+Smith would probably dismiss the first of these objections, as based on an erroneous notion of what moral philosophy ought to do. Moral philosophy can deepen our love for virtue, refine our understanding of the virtues, and enrich our understanding of ourselves, all of which can conduce to a firmer moral disposition and to a wiser, more careful approach to moral decisions, but it cannot and should not replace the common-life processes by which we actually make those decisions.
+
+Smith clearly rejects any tribal limit to the reach of moral demands. He adopts the Stoic view that each person is "first and principally recommended [by nature] to his own care" (TMS 219), and that we similarly care more about members of our own society than about people far away from us. At the same time, however—also like the Stoics—he thinks that our moral feelings extend, if to a lesser degree, to all rational and sensible beings: "our good-will is circumscribed by no boundary, but may embrace the immensity of the universe" (235).
+
+Indeed, Amartya Sen has stressed, Smith also wants us to evaluate our conduct from the perspective of any human being anywhere, not just a member of our own society. Sen quotes a passage in TMS in which Smith says that we "endeavour to examine our own conduct as we imagine any other fair and impartial spectator would imagine it" (110).
+
+Smith does better with the skeptical challenge. To the person who asks, "why be moral?," Smith essentially provides what Christine Korsgaard calls a "reflective endorsement" argument.
+
+"The chief part of human happiness arises from the consciousness of being beloved" (TMS 41), Smith says, and being beloved normally requires acting in accordance with the demands of the impartial spectator. Violating those demands will also normally bring on internal unease—fear of discovery, pangs of conscience, and other disturbances—making it difficult to achieve the tranquility that Smith takes to be a prime component of happiness (TMS 149).
+
+5. Smith's Political Philosophy
+
+It is clear from the end of TMS that Smith intended to complement it with a system of political philosophy, and it is clear from the Advertisement to the last edition of TMS that WN represents the partial but not complete fulfillment of that plan.
+
+In any case, Smith concluded his lectures on jurisprudence with some extended remarks on "police"—public policy—and this he did, of course, work up into a book of its own. It is unclear, however, how much WN has to do with his philosophical concerns.
+
+Smith became increasingly interested in political economy after completing TMS, and WN can be seen as the fruition simply of a new direction in his research, unconnected to his moral system. He did come to a comprehensive, one might say philosophical, view of political economy: from his understanding of the workings of economics, he thought that states could foster the productiveness of their economies only by the rule of law, accompanied by a few limitations on banking practices, and should otherwise lift measures that restrict or encourage particular enterprises.
+
+Smith did not favor as hands-off an approach as some of his self-proclaimed followers do today—he believed that states could and should re-distribute wealth to some degree, and defend the poor and disadvantaged against those who wield power over them in the private sector (see Fleischacker 2004, § 57)—but he certainly wanted the state to end all policies, common in his mercantilist day, designed to favor industry over agriculture, or some industries over others.
+
+Smith believed strongly in the importance of local knowledge to economic decision-making, and consequently thought that business should be left to businesspeople, who understand the particular situations in which they work far better than any government official. By the same token, governance should be kept out of the hands of businesspeople, since they are likely to use it to promote their particular interests, and not be concerned for the well-being of the citizenry as a whole: Smith's opposition to the East India Company is based on this principle.
+
+Smith's political views tend more generally towards a minimalist state. He did not want the state to micro-manage the economy, and he also did not want it to promote religion or virtue. He was suspicious of the motives and skills of politicians, and their ability, even when well-meaning, to change society. And he did not believe that the political life was the crown of the moral life, or that law or political institutions can help people develop virtue.
+
+There is a strong Stoic component to TMS, and we might say, in Stoic vein, that in WN Smith wants to help us see how much the society around us is out of our control. WN shows us the great degree to which social institutions and policies have unintended consequences, the central role, in particular, of unforeseeable factors in the workings of the market, and the fact that uncontrolled markets on the whole do well by all their participants.
+
+Smith is more of an Enlightenment progressive than this reading suggests, more of a believer that an enlightened understanding of their circumstances can help people improve those circumstances, but he had less faith in this notion than did most of his contemporaries. His belief in local knowledge leads him to be suspicious of large-scale plans for the reform of society.
+
+Smith believes that it is very difficult for us to know our true intentions (TMS 156–9), and that our desires are heavily shaped by social interaction. He also casts doubt on the degree to which we seek things that are truly useful to our ends. In a famous passage, he says that we are more interested in a thing's apparent conduciveness to utility than in its actual utility (179–80).

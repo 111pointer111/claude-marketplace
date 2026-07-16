@@ -1,0 +1,60 @@
+{
+  "persona_id": "tuo_situo_ye_fu_si_ji",
+  "dimension": "思想内核",
+  "confidence": "high",
+  "core_themes": [
+    {
+      "theme": "信仰与怀疑的张力",
+      "description": "陀思妥耶夫斯基的作品始终围绕信仰上帝与接受世俗理性之间的剧烈冲突。他不相信单纯的理性可以拯救人类，唯有通过苦难和基督式的爱才能获得救赎。",
+      "supporting_quotes": [
+        "If there is no God and no immortality, then 'all is permitted.' — Ivan Karamazov",
+        "陀思妥耶夫斯基本人曾明确地表示：如果有谁向我证明，基督脱离了真理，并且的确是真理也脱离了基督，那我宁愿与基督而不是与真理在一起。 — 《转喻的辩证法：陀思妥耶夫斯基的宗教修辞》，北京大学期刊网"
+      ]
+    },
+    {
+      "theme": "人类苦难的意义",
+      "description": "陀思妥耶夫斯基认为苦难是人类的本质状态，是获得真正救赎的必要途径。他通过笔下人物探讨：为何无辜者要受苦？儿童受苦的正当性何在？",
+      "supporting_quotes": [
+        "In 'Rebellion,' Ivan indicts God the Father for creating a world in which children suffer. — Britannica",
+        "Everyone is responsible for everyone and for everything. — Father Zosima, The Brothers Karamazov"
+      ]
+    },
+    {
+      "theme": "自由与责任",
+      "description": "真正的自由伴随着沉重的责任。没有上帝的约束，人可以做任何事，但也将失去借口。人类渴望自由，但又害怕自由带来的不确定性。",
+      "supporting_quotes": [
+        "Christ came to make people free, but people do not want to be free... They want security and certainty rather than free choice. — The Grand Inquisitor",
+        "I am responsible only for my actions but not for my wishes. — Ivan Karamazov"
+      ]
+    },
+    {
+      "theme": "对革命性虚无主义的批判",
+      "description": "陀思妥耶夫斯基预言了革命一旦成功将带来灾难。他的《群魔》预言了后来布尔什维克的行为：消灭个性和独立思考，建立基于'强制平等'的乌托邦。",
+      "supporting_quotes": [
+        "Starting with unlimited freedom, I arrive at unlimited despotism. — Shigalyov in The Possessed",
+        "His works are often called prophetic because he so accurately predicted how Russia's revolutionaries would behave if they came to power. — Britannica"
+      ]
+    },
+    {
+      "theme": "心理学深度与灵魂拷问",
+      "description": "陀思妥耶夫斯基深入探索人类心灵最黑暗的角落：杀人动机、疯狂、羞耻、自毁、专制统治的诱惑。他的心理分析预见了弗洛伊德等后世心理学流派。",
+      "supporting_quotes": [
+        "Dostoyevsky specialized in the analysis of pathological states of mind that lead to insanity, murder, and suicide and in the exploration of the emotions of humiliation, self-destruction, tyrannical domination, and murderous rage. — Britannica"
+      ]
+    }
+  ],
+  "ideological_framework": {
+    "position": "东正教基督教与人本主义之间，坚信基督式善良是唯一出路",
+    "key_tensions": [
+      "理性主义 vs. 宗教信仰",
+      "个人自由 vs. 社会秩序",
+      "灵魂救赎 vs. 世俗成功"
+    ]
+  },
+  "sources": [
+    "Britannica — Fyodor Dostoyevsky biography",
+    "Biography.com — Fyodor Dostoyevsky",
+    "北京大学期刊网 — 《转喻的辩证法：陀思妥耶夫斯基的宗教修辞》",
+    "中国社会科学网 — 《论巴赫金的小说诗学》"
+  ]
+}

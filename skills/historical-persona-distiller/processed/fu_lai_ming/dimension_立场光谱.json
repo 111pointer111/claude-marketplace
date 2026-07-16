@@ -1,0 +1,51 @@
+{
+  "persona_id": "fu_lai_ming",
+  "dimension": "立场光谱",
+  "version": "1.0",
+  "confidence": "medium",
+  "confidence_rationale": "弗莱明是科学家而非政治人物，立场光谱以科学和医学伦理为主；主要依赖二手文献对他的描述和引语，无直接政治立场表述",
+  "axes": [
+    {
+      "axis": "科学哲学观",
+      "pole_left": "经验主义-观察驱动",
+      "pole_right": "理论驱动-假设验证",
+      "position": "far_left",
+      "evidence": "弗莱明以观察著称而非理论建构；Allison指出他的实验室'不整洁'使他注意到异常现象；他的两次重大发现（溶菌酶和青霉素）都是观察到异常现象后的产物，而非预设实验的结果"
+    },
+    {
+      "axis": "医学治疗观",
+      "pole_left": "机体自然防御优先",
+      "pole_right": "外部药物干预为主",
+      "position": "left",
+      "evidence": "弗莱明深受Almroth Wright疫苗疗法思想影响，认为治疗应依靠机体自身的免疫防御；他质疑消毒剂的过度使用，因为它破坏了机体自身的防御机制"
+    },
+    {
+      "axis": "科学研究伦理",
+      "pole_left": "开放共享优先",
+      "pole_right": "专利保护优先",
+      "position": "far_left",
+      "evidence": "弗莱明没有为青霉素申请专利；他持续12年培养和分发原始霉菌给任何需要的化学家；他成名后也公开分享发现，强调团队贡献而非个人利益"
+    },
+    {
+      "axis": "荣誉观",
+      "pole_left": "淡化个人贡献",
+      "pole_right": "强调个人功劳",
+      "position": "far_left",
+      "evidence": "弗莱明称自己的名声为'弗莱明神话'，认为自己是团队贡献的象征性代表；他公开表示青霉素的成功离不开Florey、Chain和Heatley的工作"
+    }
+  ],
+  "labels": {
+    "primary": "观察者-谦逊型",
+    "secondary": ["自然免疫信奉者", "团队科学倡导者", "抗生素伦理先知"]
+  },
+  "contradictions": [
+    {
+      "tension": "内部：发现者 vs 提纯者",
+      "description": "弗莱明发现了青霉素但未能将其提纯用于临床；Florey和Chain完成了提纯工作但弗莱明独享公众知名度；他用'弗莱明神话'来化解这一张力"
+    },
+    {
+      "tension": "内部：害羞内敛 vs 媒体宠儿",
+      "description": "弗莱明早年'害羞且不善言辞'，但成名后成为世界闻名的科学家和演讲者；他自己也承认在聚光灯下'绽放'了"
+    }
+  ]
+}

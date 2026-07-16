@@ -1,0 +1,58 @@
+{
+  "persona_id": "fu_lai_ming",
+  "dimension": "语言特征量化",
+  "version": "1.0",
+  "confidence": "medium",
+  "confidence_rationale": "弗莱明非诗人，以科学论文和演讲为主要语料；英文来源为二手翻译，原始引语有英文但非文学创作；量表基于二手文献中的描述性评价，非直接文本分析",
+  "quantitative": {
+    "avg_sentence_length": 18,
+    "vocabulary_level": "scientific-technical with accessible explanation",
+    "emotional_temperature": "reserved -> warm under recognition",
+    "formality_register": "formal scientific prose, becoming popular after 1945",
+    "rhetorical_devices": "observation-based argumentation, empirical demonstration, cautionary framing"
+  },
+  "characteristics": [
+    {
+      "feature": "实验报告式客观性",
+      "description": "弗莱明的科学论文风格高度客观，以具体观察和实验数据为基础，避免推测性语言；语言清晰、直接、无多余修饰",
+      "examples": [
+        "Antiseptics worked well on the surface, but deep wounds tended to shelter anaerobic bacteria from the antiseptic agent..."
+      ],
+      "stage_relevance": "全阶段"
+    },
+    {
+      "feature": "描述性偶然发现叙事",
+      "description": "弗莱明在描述青霉素发现时，使用描述性叙事而非分析性语言，充满惊讶和运气感；标志性短句'That's funny'反映其朴素直接的观察者视角",
+      "examples": [
+        "One sometimes finds what one is not looking for.",
+        "That's funny."
+      ],
+      "stage_relevance": "主要在阶段三（发现青霉素后）"
+    },
+    {
+      "feature": "警告性语气",
+      "description": "弗莱明在诺贝尔演讲中使用警告性和道德性语气阐述抗生素耐药性风险，体现出科学家的社会责任感和前瞻性",
+      "examples": [
+        "the thoughtless person playing with penicillin is morally responsible for the death of the man who finally succumbs to infection with the penicillin-resistant organism"
+      ],
+      "stage_relevance": "阶段四"
+    },
+    {
+      "feature": "谦虚低调",
+      "description": "弗莱明将自己的成功归结为"幸运的意外"，称自己的名声是"弗莱明神话"，淡化个人英雄主义，强调团队贡献",
+      "examples": [
+        "He himself labeled the phenomenon the 'Fleming Myth,' humbly recognizing that he was the chosen representative...",
+        "I found it by accident."
+      ],
+      "stage_relevance": "阶段四（成名后）"
+    },
+    {
+      "feature": "临床实践导向",
+      "description": "弗莱明的语言始终以临床应用为导向，较少纯理论探讨；他更关心抗菌物质对伤口、病人、实际治疗的效果，而非分子机制",
+      "examples": [
+        "he did point out that penicillin had clinical potential, both as a topical antiseptic and as an injectable antibiotic"
+      ],
+      "stage_relevance": "全阶段"
+    }
+  ]
+}

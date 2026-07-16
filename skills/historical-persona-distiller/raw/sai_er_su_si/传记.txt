@@ -1,0 +1,39 @@
+# Aulus Cornelius Celsus 传记语料
+
+## 基本信息
+- 生卒年：约公元前25年 - 约公元50年
+- 身份：罗马百科全书编纂者，医学作家
+- 代表作：《论医学》(De Medicina)，目前唯一完整留存的部分
+- 全名：Aulus Cornelius Celsus（也有传统说法为Aurelius，但Aulus更合理）
+- 生活时代：奥古斯都和提比略皇帝统治时期
+
+## 人物简介
+Aulus Cornelius Celsus是一位罗马百科全书编纂者，以其现存的医学著作《论医学》(De Medicina)而闻名。该著作被认为是有关罗马世界医学知识的最佳来源之一。百科全书的其他部分（包括农业、法律、修辞学、哲学、军事艺术）均已散佚。
+
+## 生平
+关于Celsus本人的生平，几乎一无所知。他可能住在Narbonese Gaul（高卢南部地区），因为他在农业部分提到了一种根据老普林尼记载原产于该地区的葡萄品种。Quintilian提到他是一个"才能平庸的人"(vir mediocri ingenio)，写过许多主题的著作，包括农业、法律、修辞学、哲学和医学。
+
+## 医学贡献
+- Celsus记录了炎症的四项基本特征：发热、疼痛、发红、肿胀
+- 他将希腊语"καρκίνος"（意为"螃蟹"）翻译为拉丁语"cancer"（癌症）
+- 他首次命名了眼睛的脉络膜层（choroid）
+- 他描述了皮肤病的分类
+- 他的手术描述包括白内障手术、膀胱结石治疗和骨折复位
+
+## 《论医学》的结构
+- 第1卷：医学史（引用了80位医学作者，部分仅通过此书可知）
+- 第2卷：普通病理学
+- 第3卷：特殊疾病
+- 第4卷：身体各部位
+- 第5-6卷：药理学
+- 第7卷：外科
+- 第8卷：整形外科
+
+## 医学观点
+Celsus采取介于Dogmatic学派和Empiric学派之间的中间立场，强调经验的重要性，同时认可理论的价值。
+
+## 引用来源
+- Wikipedia: Aulus Cornelius Celsus
+- Britannica: Aulus Cornelius Celsus
+- LacusCurtius: Celsus — De Medicina (Introduction and Prooemium)
+- Penelope.uchicago.edu: Celsus On Medicine, Book I

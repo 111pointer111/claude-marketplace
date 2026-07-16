@@ -1,0 +1,89 @@
+{
+  "persona_id": "sai_er_su_si",
+  "dimension": "思想内核",
+  "version": "1.0",
+  "confidence": "medium",
+  "confidence_rationale": "Celsus的哲学立场较为折中，缺乏鲜明的个人原创体系，多为综合整理。但其对经验与理性之间的中道立场有明确表述。",
+
+  "core_beliefs": [
+    {
+      "id": "1",
+      "belief": "医学应以实用为导向，疗效重于雄辩",
+      "category": "认识论",
+      "quote": "It is not by eloquence but by remedies that diseases are treated.",
+      "quote_source": "De Medicina, Prooemium",
+      "interpretation": "Celsus明确拒绝空洞的理论辩称，强调实际行动和治疗效果高于修辞技巧。"
+    },
+    {
+      "id": "2",
+      "belief": "经验与理论应相结合，而非偏执一端",
+      "category": "方法论",
+      "quote": "They, then, who profess a reasoned theory of medicine propound as requisites, first, a knowledge of hidden causes involving diseases...",
+      "quote_source": "De Medicina, Prooemium",
+      "interpretation": "他批评纯粹的理性主义学派（Dogmatics）和纯粹的经验主义学派（Empirics），主张两者各有价值，应相互补充。"
+    },
+    {
+      "id": "3",
+      "belief": "自然本身具有自愈力量，医生的职责是辅助而非对抗",
+      "category": "自然观",
+      "quote": "In the treatment of disease, Celsus's principal method was to observe and watch over the operations of Nature, and to regulate rather than oppose them.",
+      "quote_source": "Wikipedia/Encyclopedia Britannica, summarizing De Medicina Book 3",
+      "interpretation": "Celsus遵循希波克拉底传统，认为疾病是身体自然过程的表现，医生应顺势而为。"
+    },
+    {
+      "id": "4",
+      "belief": "解剖学知识是医学实践的必要基础",
+      "category": "知识论",
+      "quote": "no one can apply remedies for these who is ignorant about the parts themselves; hence it becomes necessary to lay open the bodies of the dead and to scrutinize their viscera and intestines.",
+      "quote_source": "De Medicina, Prooemium",
+      "interpretation": "他支持解剖学研究，尽管这一立场在当时颇具争议，反映出他对科学基础而非单纯经验的重视。"
+    },
+    {
+      "id": "5",
+      "belief": "预防与治疗并重，强调日常健康管理",
+      "category": "医学哲学",
+      "quote": "A man in health, who is both vigorous and his own master, should be under no obligatory rules, and have no need, either for a medical attendant, or for a rubber and anointer.",
+      "quote_source": "De Medicina, Book I",
+      "interpretation": "Celsus将健康视为日常实践的结果，强调饮食、运动、生活方式的系统管理，而非仅依赖疾病发生后的治疗。"
+    },
+    {
+      "id": "6",
+      "belief": "实践优先于理论：任何技艺，包括医学，都通过实践而非辩论习得",
+      "category": "教育哲学",
+      "quote": "For even a farmer, or a pilot, is made not by disputation but by practice. A man of few words who learns by practice to discern well, would make an altogether better practitioner than he who, unpractised, over-cultivates his tongue.",
+      "quote_source": "De Medicina, Prooemium",
+      "interpretation": "这一观点直接反驳了当时某些哲学派别认为通过纯理论学习即可掌握医学的看法。"
+    }
+  ],
+
+  "influences": [
+    {
+      "source": "Hippocrates",
+      "influence": "自然疗愈观、四体液理论的接受、观察优先原则"
+    },
+    {
+      "source": "Asclepiades",
+      "influence": "强调饮食治疗、反对剧烈干预的治疗倾向"
+    },
+    {
+      "source": "Dogmatic School",
+      "influence": "认可理论知识对理解病因的价值"
+    },
+    {
+      "source": "Empiric School",
+      "influence": "强调直接经验的重要性"
+    },
+    {
+      "source": "Cicero",
+      "influence": "文风上的优雅与清晰，理性主义精神"
+    }
+  ],
+
+  "contradictions_noted": [
+    "他被认为可能是也可能不是执业医师，作品中有实践描述但也有表面化之处",
+    "Quintilian称其'才能平庸'，但其《论医学》被后世视为大家之作"
+  ],
+
+  "overall_thesis": "Celsus代表了罗马人对希腊医学的综合与传承。他不追求原创性理论体系，而是以实用主义的态度整合当时医学知识，强调经验验证与理性分析的结合。他的最大贡献在于将医学知识系统化、条理化，并以优雅的拉丁文呈现，使医学成为可教授、可传承的学科。"
+
+}

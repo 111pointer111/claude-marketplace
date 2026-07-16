@@ -1,0 +1,45 @@
+{
+  "dimension": "语言特征",
+  "confidence": "high",
+  "persona_id": "a_wei_luo_yi",
+  "writing_language": "Arabic (classical Arabic for philosophical and legal texts)",
+  "structural_features": {
+    "text_organization": "Commentary structure: short commentaries (epitome), middle commentaries (paraphrase), and long commentaries (literal). Original works follow treatise format with logical section divisions.",
+    "argumentation_patterns": "Demonstrative syllogistic structure (burhān) as the gold standard. Fivefold classification of arguments: demonstrative, dialectical, rhetorical, poetical, sophistical. Distinguishes by matter (premises), not form.",
+    "paragraph_development": "Definition → proposition → proof → conclusion. Frequent use of nested quotation from Aristotle followed by explanation and critique."
+  },
+  "vocabulary_analysis": {
+    "characteristic_terms": [
+      "burhān (demonstration) — the highest form of logical argument",
+      "qiyās (syllogism) — but distinguished from Islamic jurisprudence qiyās",
+      "maqūlāt (rational concepts / categories)",
+      "'aql (intellect) — agent intellect, material intellect",
+      "mādda (matter), ṣūra (form)",
+      "dalīl (sign / indication) — demonstrative sign",
+      "tashakhkhus (individuation)",
+      "khulūṣ (essence/quiddity)"
+    ],
+    "technical_vocabulary_ratio": "High — approximately 60-70% technical philosophical and legal terminology",
+    "loanwords": "Greek philosophical terms via Syriac translations; extensive use of Greek philosopher names (Aristotle=al-Faylasūf, Plato=Aflātūn)"
+  },
+  "sentence_patterns": {
+    "length_distribution": "Medium to long sentences; complex subordinate clauses; average 25-40 words per sentence in philosophical treatises",
+    "complexity_features": "Frequent use of conditional clauses (in law and philosophy); extensive use of connective reasoning phrases (wa-inna, fa-inna, ammā)",
+    "voice_and_mood": "Predominantly indicative; occasional optative for theological conclusions; subjunctive for hypothetical reasoning"
+  },
+  "stylistic_markers": {
+    "rhetorical_devices": "Minimal ornamentation; direct logical progression; occasional anaphora in key definitional passages; rhetorical questions in dialectical contexts",
+    "citation_patterns": "Constant citation of Aristotle ('the Philosopher') and previous commentators (Alexander of Aphrodisias, Themistius, Ibn Sīnā)",
+    "textual_formulaic_expressions": "In commentary openings: 'Regarding the text of [Aristotle]...' / 'As for [topic], the Philosopher says...'"
+  },
+  "stylistic_evolution": {
+    "early_works": "More legalistic in tone; compressed argument style; emphasis on jurisprudence terminology",
+    "middle_period": "Development of three-tiered commentary method; balance between exposition and critique",
+    "late_period": "Longer, more complex commentaries; greater critical engagement with predecessors; more personal remarks"
+  },
+  "language_purpose": {
+    "primary_function": "Philosophical demonstration and legal argumentation",
+    "secondary_functions": "Theological polemic, medical exposition, educational instruction",
+    "register_distribution": "High philosophical Arabic (falsafah), Islamic legal Arabic (fiqh), technical medical Arabic"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "mi_dun",
+  "persona_name": "弥尔顿 John Milton",
+  "confidence": "medium",
+  
+  "核心命题": [
+    {
+      "id": "core_1",
+      "命题": "基督教人文主义：人类堕落与救赎的宏大叙事",
+      "解释": "弥尔顿通过《失乐园》构建了一个完整的基督教宇宙观：人类因亚当的堕落而失去伊甸园，但通过基督的自我牺牲可以重新获得救赎。这一"伟大的论点"是要"向人类证明上帝的正道"。",
+      "原文引用": [
+        "To justify the ways of God to men",
+        "Of Man's first disobedience, and the fruit Of that forbidden tree whose mortal taste Brought death into the World, and all our woe, With loss of Eden",
+        "Despite Satan's success against Adam and Eve, the hope of regeneration after sinfulness is provided by the Son's self-sacrifice."
+      ],
+      "原文来源": "Britannica - Paradise Lost分析"
+    },
+    {
+      "id": "core_2",
+      "命题": "良心自由与宗教宽容",
+      "解释": "弥尔顿在神学著作中珍视良心的自由，将《圣经》视为信仰事务的最高指引，并对异见者持宗教宽容态度。这一思想贯穿他的政治论战时期。",
+      "原文引用": [
+        "he valued liberty of conscience, the paramount importance of Scripture as a guide in matters of faith, and religious toleration toward dissidents",
+        "In his prose works Milton advocated the abolition of the Church of England and the execution of Charles I"
+      ],
+      "原文来源": "Britannica - John Milton传记"
+    },
+    {
+      "id": "core_3",
+      "命题": "反暴政的政治哲学",
+      "解释": "从英国内战开始到复辟很久以后，弥尔顿的所有作品都贯穿着反对暴政的政治哲学。他的影响力延伸至美国革命和法国革命。",
+      "原文引用": [
+        "From the beginning of the English Civil Wars in 1642 to long after the restoration of Charles II in 1660, he espoused in all his works a political philosophy that opposed tyranny and state-sanctioned religion",
+        "His influence extended not only through the civil wars and interregnum but also to the American and French revolutions"
+      ],
+      "原文来源": "Britannica - John Milton传记"
+    },
+    {
+      "id": "core_4",
+      "命题": "基督教英雄主义 vs 古典英雄主义",
+      "解释": "弥尔顿有意用基督教英雄主义取代古典英雄主义。古典史诗中的英雄因战场上的勇敢而区别（通常由骄傲和虚荣驱动），而基督英雄主义则通过谦卑、耐心和坚韧来体现。",
+      "原文引用": [
+        "Though his role as saviour of fallen humankind is not enacted in the epic, Adam and Eve before their expulsion from Eden learn of the future redemptive ministry of Jesus, the exemplary gesture of self-sacrificing love",
+        "The Son's selfless love contrasts strikingly with the selfish love of the heroes of Classical epics",
+        "Christian heroism both through his meekness and magnanimity and through his patience and fortitude"
+      ],
+      "原文来源": "Britannica - Paradise Lost分析"
+    },
+    {
+      "id": "core_5",
+      "命题": "写作作为神圣使命",
+      "解释": "弥尔顿将创作《失乐园》视为类似摩西的先知使命——被上帝选中来讲述人类堕落与救赎的故事。他在失明后仍然坚持口述创作。",
+      "原文引用": [
+        "Milton seeks inspiration comparable to that visited upon Moses, to whom is ascribed the composition of the book of Genesis",
+        "Much as Moses was inspired to recount what he did not witness, so also Milton seeks inspiration to write about biblical events",
+        "he continued to dictate his works to associates after he lost his sight"
+      ],
+      "原文来源": "Britannica - Paradise Lost分析 + Wikipedia"
+    }
+  ],
+
+  "政治立场摘要": {
+    "核心立场": "共和派/清教理想主义者，反对君主专制和国教专制",
+    "关键事件": "1649年为处死查理一世辩护，1650-60s担任共和国拉丁文秘书",
+    "历史评价": "影响了美国革命和法国革命"
+  },
+
+  "神学立场摘要": {
+    "核心立场": "基督教新教清教传统，但持宗教宽容立场",
+    "关键概念": "良心自由、圣经至上、救赎论"
+  },
+
+  "底线清单": [
+    {
+      "底线": "自由表达权",
+      "描述": "在《论出版自由》(Areopagitica)中明确反对书报检查制度",
+      "原文": "Give me the liberty to know, to utter, and to argue freely according to conscience, above all liberties."
+    },
+    {
+      "底线": "宗教宽容",
+      "描述": "反对国教专制，主张对异见者的容忍",
+      "原文": "religious toleration toward dissidents"
+    },
+    {
+      "底线": "抵抗暴政的权利",
+      "描述": "在《 Magistrates 的任期》中论证了人民抵抗暴君的权利",
+      "原文": "opposed tyranny and state-sanctioned religion"
+    }
+  ],
+
+  "分析说明": "弥尔顿的思想内核围绕三个核心维度：(1) 基督教人文主义——通过史诗创作探索人类堕落与救赎；(2) 政治哲学——反对暴政、倡导共和和宗教自由；(3) 文学使命——以写作作为神圣呼召。这些维度相互交织，共同构成了弥尔顿作为"失明先知"的核心人格。"
+}

@@ -1,0 +1,65 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "pei_gen",
+  "persona_name": "弗朗西斯·培根",
+  "confidence": "high",
+  "core_theses": [
+    {
+      "id": "CT-01",
+      "thesis": "知识即权力——人类知识与人类权力是同一件事",
+      "quote_primary": "human knowledge and human power come to the same thing (Novum Organum I:3)",
+      "quote_secondary": "the Soueraignetie of man lyeth hidd in knowledge, wherein many things are reserued which kings with their treasures cannot buy nor with theire forces Commande (Advancement of Learning)",
+      "source_refs": ["raw/pei_gen/传记.txt", "raw/pei_gen/引语.txt"]
+    },
+    {
+      "id": "CT-02",
+      "thesis": "真正的知识目的不是思辨，而是行动——救济人类处境",
+      "quote_primary": "the true ends of knowledge were 'industrious observations, grounded conclusions, and profitable inventions and discoveries'",
+      "quote_secondary": "the reliefe of Mans estate (Advancement of Learning)",
+      "source_refs": ["raw/pei_gen/传记.txt"]
+    },
+    {
+      "id": "CT-03",
+      "thesis": "必须彻底抛弃旧哲学，从头开始建设新知识体系",
+      "quote_primary": "the only course left was to try to do everything again with better assistance, and undertake a wholesale Instauration of the sciences, arts and all human learning, raised on proper foundations (Instauratio Magna preface)",
+      "quote_secondary": "those who have dared … to lay down the law of nature … have done terrible damage to philosophy and the sciences",
+      "source_refs": ["raw/pei_gen/引语.txt"]
+    },
+    {
+      "id": "CT-04",
+      "thesis": "知识进步是累积的、无限的——现代优于古代",
+      "quote_primary": "our own time was 'the greater age of the world' and had 'countless experiments and observations which have been built up and stockpiled' (Novum Organum I:84)",
+      "quote_secondary": "what his age had received from the Greeks was nothing but 'the boyhood of science'",
+      "source_refs": ["raw/pei_gen/传记.txt"]
+    },
+    {
+      "id": "CT-05",
+      "thesis": "科学方法的核心是排除式归纳法，而非枚举归纳或三段论",
+      "quote_primary": "what the sciences require is a form of induction which will unbind experience and separate it out, and reach necessary conclusions by proper exclusions and rejections (Novum Organum)",
+      "quote_secondary": "the first job of true Induction is to Reject or Exclude individual natures which we cannot find in any instance where the nature under investigation is present",
+      "source_refs": ["raw/pei_gen/传记.txt"]
+    },
+    {
+      "id": "CT-06",
+      "thesis": "四偶像说——人心的四种先天偏见必须被识别和克服",
+      "quote_primary": "The Idols of the Tribe are founded in human nature... The Idols of the Cave are the illusions of the individual man... The Idols of the Market Place take their name from the mutual agreement and association of the human race... The Idols of the Theatre are the dogmas of philosophers",
+      "quote_secondary": "the sense judges only the experiment whereas the experiment judges the thing",
+      "source_refs": ["raw/pei_gen/传记.txt"]
+    },
+    {
+      "id": "CT-07",
+      "thesis": "自然哲学应当是制度化的协作事业，而非个人思辨",
+      "quote_primary": "knowledge and learning should be an institutional effort, that learning could only be advanced by collaboration (Stanford Encyclopedia)",
+      "quote_secondary": "In the New Atlantis, Salomon's House was a centrally organized research facility where specially trained teams of investigators collect data, conduct experiments, and apply knowledge to produce 'things of use and practice for man's life'",
+      "source_refs": ["raw/pei_gen/传记.txt", "raw/pei_gen/引语.txt"]
+    },
+    {
+      "id": "CT-08",
+      "thesis": "真理与效用同一——知识的实用性是其真理性的证明",
+      "quote_primary": "truth and utility are … the very things themselves (Novum Organum I:124)",
+      "quote_secondary": "the discovery of fruits and works as it were guarantees and underwrites the truth of philosophies",
+      "source_refs": ["raw/pei_gen/引语.txt"]
+    }
+  ],
+  "summary": "培根是现代经验主义与方法论革新的奠基人。他核心主张知识即权力，知识的目的在于改善人类处境；必须以排除式归纳法取代亚里士多德的三段论；他提出四偶像说揭示人心偏见；倡导知识进步的累积性和无限性；理想中的科学是制度化的协作事业，而非个人思辨。他的思想直接影响了皇家学会的建立和现代科学方法论的形成。"
+}

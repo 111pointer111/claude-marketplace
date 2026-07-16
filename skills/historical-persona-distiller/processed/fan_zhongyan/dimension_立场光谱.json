@@ -1,0 +1,53 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "fan_zhongyan",
+  "confidence": "high",
+
+  "political_orientation": "改革派（北宋士大夫中的改革先驱）",
+  "ideological_roots": "儒家经世致用派，以民为本，不尚空谈",
+
+  "governance_position": {
+    "central_stance": "维护中央集权，但主张革新吏治、提高行政效率",
+    "reform_orientation": "温和渐进式改革（而非激进的制度变革）",
+    "specific_positions": [
+      "主张澄清吏治（裁撤冗员、严格考核）",
+      "主张发展教育（复古兴学、取士本行实）",
+      "主张富国强兵（修武备、减徭役）",
+      "主张边防积极防御（修筑城寨、精选将帅）"
+    ]
+  },
+
+  "social_stance": {
+    "on_social_mobility": "重视人才选拔（制科、荐举），不以门第取人",
+    "on_wealth_distribution": "通过均公田、减徭役等政策缩小贫富差距",
+    "on_education": "大力兴学，主张教育普惠化（设义学、免费教育）"
+  },
+
+  "cultural_stance": {
+    "literary_approach": "宗经复古、文质相救，反对宋初柔靡文风",
+    "classical_orientation": "以儒家六经为根本，兼取诸子百家",
+    "on_new_ideas": "务实接纳，对有真才实学的新人均予以荐举（如狄青、张载、富弼）"
+  },
+
+  "diplomatic_military_stance": {
+    "on_foreign_policy": "务实主和而非畏战，核心是积极防御",
+    "on_military_reform": "主张精选将帅、严格训练、建立营田制",
+    "stance_on_war": "不轻言战争，但绝不怯战；重视防御而非进攻"
+  },
+
+  "governance_philosophy": {
+    "on_rulers": "忠君但更忠于民，曾多次直言批评皇帝决策",
+    "on_officials": "严格考核，主张能者上、庸者下",
+    "on_the_people": "民本思想，以百姓疾苦为首务"
+  },
+
+  "moral_framework": "以儒家仁义为根本，以'先天下之忧而忧'为最高准则，以'宁鸣而死'为士节底线",
+
+  "contradictions_tensions": [
+    "理想主义与现实政治的冲突（新政失败是其体现）",
+    "直言敢谏与仕途生存的矛盾（三次被贬）",
+    "改革抱负与皇权限制的张力（庆历新政的局限性）"
+  ],
+
+  "spectrum_position": "在儒家经世派中属于改革先驱，在北宋政治光谱中属于改革派核心人物，与保守派吕夷简等人形成鲜明对立"
+}

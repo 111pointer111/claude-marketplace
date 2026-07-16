@@ -1,0 +1,49 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "guan_zhong",
+  "persona_name": "管仲",
+  "confidence": "medium",
+  "political_spectrum": {
+    "feudal_vs_centralized": "偏向集权：改革世卿世禄制，建立以君主为核心的官僚体系",
+    "conservative_vs_reformist": "务实改革派：不激进推翻旧制，而是在现有框架内逐步改良",
+    "idealist_vs_materialist": "物质优先：强调经济发展是政治稳定的基础，'仓廪实而知礼节'"
+  },
+  "core_positions": [
+    {
+      "dimension": "经济vs道德",
+      "position": "经济优先",
+      "description": "认为物质基础决定上层建筑，道德教化需以经济发展为前提",
+      "quote": "仓廪实而知礼节，衣食足而知荣辱"
+    },
+    {
+      "dimension": "法治vs德治",
+      "position": "礼法结合",
+      "description": "不废德治，但强调法治的必要性；以礼为基础，以法为手段",
+      "quote": "礼出乎义，义出乎理"
+    },
+    {
+      "dimension": "内政vs外交",
+      "position": "内政为本",
+      "description": "多次劝阻齐桓公对外用兵，主张先修内政再图外伐",
+      "quote": "内政不修，对外用兵不会成功"
+    },
+    {
+      "dimension": "华夷观",
+      "position": "华夷有别，攘夷保华",
+      "description": "明确提出华夷之辨，以'尊王攘夷'为外交总纲",
+      "quote": "戎狄豺狼，不可厌也；诸夏亲昵，不可弃也"
+    },
+    {
+      "dimension": "君臣关系",
+      "position": "君臣相得",
+      "description": "管仲主张君主应礼贤下士，但臣子也应以国家利益为先，不拘小节",
+      "quote": "管仲之器小——孔子批评其生活奢侈，但肯定其历史功业"
+    }
+  ],
+  "comparison_with_contemporaries": {
+    "vs孔子": "孔子重道德教化，管仲重经济实效；孔子批评其器小，但肯定其功业；两人代表不同的治国路径",
+    "vs商鞅": "商鞅重法轻礼，手段更激进；管仲礼法并重，手段更柔和务实",
+    "vs老子": "老子'小国寡民'，管仲主张大国争霸；道家'无为'，管仲'有所为'"
+  },
+  "legacy_position": "务实主义政治经济学派的奠基人，对后世法家、儒家（经世致用派）、轻重学派均有深远影响。"
+}

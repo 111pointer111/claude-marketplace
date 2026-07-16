@@ -1,0 +1,46 @@
+{
+  "皇权专制": {
+    "评分": -2,
+    "置信度": "high",
+    "说明": "爱因斯坦坚定反对专制主义。他在德国经历纳粹统治后，更加明确地支持民主制度，反对一党专政和个人独裁。",
+    "依据": "At the Luitpold Gymnasium in Munich, Einstein often felt out of place and victimized by a Prussian-style educational system that seemed to stifle originality and creativity. One teacher even told him that he would never amount to anything. —— Britannica",
+    "演变": "早期对德国教育体系的反感 → 纳粹统治后明确反对专制"
+  },
+  "变法革新": {
+    "评分": +1,
+    "置信度": "medium",
+    "说明": "爱因斯坦支持科学进步和社会改革，但不特别关注政治变革。他更关心的是科学方法和教育体系的改进。",
+    "依据": "Einstein always appeared to have a clear view of the problems of physics and the determination to solve them. He had a strategy of his own and was able to visualize the main stages on the way to his goal. He regarded his major achievements as mere stepping-stones for the next advance. —— Nobel Prize Official Biography",
+    "演变": "从学术创新态度推断支持改革，但缺乏直接政治语料"
+  },
+  "民生疾苦": {
+    "评分": +2,
+    "置信度": "high",
+    "说明": "爱因斯坦在二战后积极参与人道主义活动，支持民权运动，关注弱势群体。他称种族主义为'疾病'。",
+    "依据": "In the late 1940s, Einstein became a member of the NAACP... campaigned for civil rights, calling racism a 'disease' in a 1946 Lincoln University speech. —— Biography.com",
+    "演变": "1930年代起日益关注社会公正，晚年更加明显"
+  },
+  "华夷之辨": {
+    "评分": -1,
+    "置信度": "low",
+    "说明": "作为世界主义者，爱因斯坦反对极端民族主义。但他的日记显示对某些东方文化存在刻板印象（亚洲之行）。",
+    "依据": "The Travel Diaries contain unflattering analyses of the people he came across, including the Chinese, Sri Lankans, and Argentinians, a surprise coming from a man known for vehemently denouncing racism in his later years. —— Biography.com",
+    "演变": "早期旅行日记中的偏见 vs 晚年明确反对种族主义，存在明显矛盾"
+  },
+  "文学功利观": {
+    "评分": 0,
+    "置信度": "high",
+    "说明": "爱因斯坦不讨论文学功利观，他的写作主要是科学论文和社会评论，不属于传统文学范畴",
+    "依据": "语料中无相关内容",
+    "演变": "不适用"
+  },
+  "出世/入世": {
+    "评分": +2,
+    "置信度": "high",
+    "说明": "爱因斯坦是积极的入世者。即使在获得巨大声誉后，他仍然积极参与公共事务，为和平、人权、核裁军发声。",
+    "依据": "After World War II, Einstein was a leading figure in the World Government Movement, he was offered the Presidency of the State of Israel, which he declined. —— Nobel Prize Official Biography",
+    "演变": "从学术研究为主 → 1933年后更加积极参与公共事务"
+  },
+  "综合可信度": "medium",
+  "综合说明": "爱因斯坦的政治立场主要基于二战后的公开活动和他的和平主义、人道主义立场。他在政治议题上的直接语料相对较少，部分判断为合理推断。最大不确定性在于他对变法革新的态度和对民族主义的具体立场。"
+}

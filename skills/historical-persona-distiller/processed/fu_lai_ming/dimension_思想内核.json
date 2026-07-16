@@ -1,0 +1,105 @@
+{
+  "persona_id": "fu_lai_ming",
+  "dimension": "思想内核",
+  "version": "1.0",
+  "confidence": "medium",
+  "confidence_rationale": "主要依赖5个英文百科/传记来源，缺乏原始科学研究论文直接引用；弗莱明非诗人，无诗词下限要求；语料覆盖生平4个阶段，思想内核每条有2+处来源引用，但溶菌酶和青霉素的具体实验数据来自二手文献整理",
+  "items": [
+    {
+      "id": "ck1",
+      "label": "观察胜于假设",
+      "summary": "弗莱明的科学方法论核心是仔细观察而非先入为主的假设；他认为自己是"幸运的意外"发现者，但Allison指出他的"不整洁"实验室习惯使他能够注意到异常现象",
+      "citations": [
+        {
+          "quote": "[If] he had been as tidy as he thought I was, he would not have made his two great discoveries.",
+          "source": "V. D. Allison (Fleming's research scholar), quoted in Wikipedia biography"
+        },
+        {
+          "quote": "When I woke up just after dawn on September 28, 1928, I certainly didn't plan to revolutionize all medicine by discovering the world's first antibiotic, or bacteria killer.",
+          "source": "Alexander Fleming, quoted in multiple sources"
+        }
+      ],
+      "stage_relevance": "全阶段，但核心形成于阶段二（医学崛起期）"
+    },
+    {
+      "id": "ck2",
+      "label": "机体自我防御优先",
+      "summary": "弗莱明深受Almroth Wright疫苗疗法思想影响，坚信机体自身的免疫防御是抗感染的核心；他认为"治疗来自身体内部，而非外部药剂"；溶菌酶的研究体现这一信念",
+      "citations": [
+        {
+          "quote": "I choose lysozyme as the subject for this address for two reasons, firstly because I have a fatherly interest in the name, and, secondly, because its importance in connection with natural immunity does not seem to be generally appreciated.",
+          "source": "Fleming, Presidential address at the Royal Society of Medicine, 18 October 1932"
+        },
+        {
+          "quote": "I have been trying to point out to the medical profession the importance of looking upon wound infection from the point of view of the natural defenses of the body.",
+          "source": "Fleming, on his WWI antiseptic research findings"
+        }
+      ],
+      "stage_relevance": "主要形成于阶段二，在阶段三通过溶菌酶研究深化"
+    },
+    {
+      "id": "ck3",
+      "label": "消毒剂过度使用之害",
+      "summary": "弗莱明通过一战伤口感染研究，认识到当时普遍使用的强消毒剂实际上伤害了人体的自然防御机制，比感染本身更致命；他呼吁使用温和盐水保持伤口清洁",
+      "citations": [
+        {
+          "quote": "Antiseptics worked well on the surface, but deep wounds tended to shelter anaerobic bacteria from the antiseptic agent, and antiseptics seemed to remove beneficial agents produced that actually protected the patients in these cases at least as well as they removed bacteria, and did nothing to remove the bacteria that were out of reach.",
+          "source": "Fleming, The Lancet, 1917"
+        },
+        {
+          "quote": "He demonstrated that the use of strong antiseptics on wounds did more harm than good and recommended that the wounds simply be kept clean with a mild saline solution.",
+          "source": "Britannica biography"
+        }
+      ],
+      "stage_relevance": "阶段二（一战期间形成），影响深远"
+    },
+    {
+      "id": "ck4",
+      "label": "青霉素是自然产物，非人造药物",
+      "summary": "弗莱明将青霉素视为自然产生的抗菌物质，而非人工合成药物；他强调青霉素来源于自然的抗菌机制（霉菌对细菌的抑制），这一认识影响了他对其临床潜力的看法",
+      "citations": [
+        {
+          "quote": "Penicillin was not the first antibiotic I happened to discover.",
+          "source": "Alexander Fleming, Nobel Lecture, 11 December 1945"
+        },
+        {
+          "quote": "In 1921, he discovered in «tissues and secretions» an important bacteriolytic substance which he named Lysozyme.",
+          "source": "Nobel Prize Official Biography"
+        }
+      ],
+      "stage_relevance": "阶段三（青霉素发现时形成）"
+    },
+    {
+      "id": "ck5",
+      "label": "抗生素耐药性预言",
+      "summary": "弗莱明是最早公开警告抗生素耐药性风险的科学家；他预言如果使用不足量或疗程过短，细菌会产生耐药性，这一预言在他去世后被完全证实",
+      "citations": [
+        {
+          "quote": "The time may come when penicillin can be bought by anyone in the shops. Then there is the danger that the ignorant man may easily underdose himself and by exposing his microbes to non-lethal quantities of the drug make them resistant.",
+          "source": "Fleming, Nobel Lecture, 1945"
+        },
+        {
+          "quote": "And if you use penicillin, use enough. ...the thoughtless person playing with penicillin is morally responsible for the death of the man who finally succumbs to infection with the penicillin-resistant organism. I hope this evil can be averted.",
+          "source": "Fleming, Nobel Lecture, 1945"
+        }
+      ],
+      "stage_relevance": "阶段四（诺贝尔获奖时提出）"
+    },
+    {
+      "id": "ck6",
+      "label": "团队科学重于个人英雄",
+      "summary": "弗莱明谦逊地称自己的名声为\"弗莱明神话\"（Fleming Myth），明确表示青霉素的实际治疗应用离不开Florey和Chain的提纯工作以及Heatley的工业化生产；他引用Henry Harris的话说\"没有弗莱明就没有Chain，没有Chain就没有Florey\"",
+      "citations": [
+        {
+          "quote": "Without Fleming, no Chain; without Chain, no Florey; without Florey, no Heatley; without Heatley, no penicillin.",
+          "source": "Sir Henry Harris, 1998, quoted in multiple sources"
+        },
+        {
+          "quote": "He himself labeled the phenomenon the 'Fleming Myth,' humbly recognizing that he was the chosen representative to embody the accomplishments of the many other pioneers who developed antibiotics.",
+          "source": "New World Encyclopedia"
+        }
+      ],
+      "stage_relevance": "阶段四（诺贝尔奖后公开表达）"
+    }
+  ]
+}

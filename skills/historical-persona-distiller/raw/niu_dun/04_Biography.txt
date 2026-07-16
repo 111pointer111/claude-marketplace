@@ -1,0 +1,97 @@
+# Source 4: Biography.com - Isaac Newton Biography
+## Who Was Isaac Newton?
+Isaac Newton was a physicist and mathematician who developed the principles of modern physics, including the laws of motion and is credited as one of the great minds of the 17th-century Scientific Revolution.
+In 1687, he published his most acclaimed work, Philosophiae Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy), which has been called the single most influential book on physics. In 1705, he was knighted by Queen Anne of England, making him Sir Isaac Newton.
+
+## Early Life and Family
+Newton was born on January 4, 1643, in Woolsthorpe, Lincolnshire, England. Using the "old" Julian calendar, Newton's birth date is sometimes displayed as December 25, 1642.
+Newton was the only son of a prosperous local farmer, also named Isaac, who died three months before he was born. A premature baby born tiny and weak, Newton was not expected to survive.
+When he was 3 years old, his mother, Hannah Ayscough Newton, remarried a well-to-do minister, Barnabas Smith, and went to live with him, leaving young Newton with his maternal grandmother.
+The experience left an indelible imprint on Newton, later manifesting itself as an acute sense of insecurity. He anxiously obsessed over his published work, defending its merits with irrational behavior.
+
+## Isaac Newton's Education
+Newton was enrolled at the King's School in Grantham, a town in Lincolnshire, where he lodged with a local apothecary and was introduced to the fascinating world of chemistry.
+His mother pulled him out of school at age 12. Her plan was to make him a farmer and have him tend the farm. Newton failed miserably, as he found farming monotonous. Newton was soon sent back to King's School to finish his basic education.
+Perhaps sensing the young man's innate intellectual abilities, his uncle, a graduate of the University of Cambridge's Trinity College, persuaded Newton's mother to have him enter the university. Newton enrolled in a program similar to a work-study in 1661, and subsequently waited on tables and took care of wealthier students' rooms.
+
+## Scientific Revolution at Cambridge
+When Newton arrived at Cambridge, the Scientific Revolution of the 17th century was already in full force. The heliocentric view of the universe—theorized by astronomers Nicolaus Copernicus and Johannes Kepler, and later refined by Galileo—was well known in most European academic circles.
+Philosopher René Descartes had begun to formulate a new concept of nature as an intricate, impersonal and inert machine. Yet, like most universities in Europe, Cambridge was steeped in Aristotelian philosophy and a view of nature resting on a geocentric view of the universe, dealing with nature in qualitative rather than quantitative terms.
+During his first three years at Cambridge, Newton was taught the standard curriculum but was fascinated with the more advanced science. All his spare time was spent reading from the modern philosophers.
+It was during this time that Newton kept a second set of notes, entitled "Quaestiones Quaedam Philosophicae" ("Certain Philosophical Questions"). The "Quaestiones" reveal that Newton had discovered the new concept of nature that provided the framework for the Scientific Revolution. Though Newton graduated without honors or distinctions, his efforts won him the title of scholar and four years of financial support for future education.
+In 1665, the bubonic plague that was ravaging Europe had come to Cambridge, forcing the university to close. After a two-year hiatus, Newton returned to Cambridge in 1667 and was elected a minor fellow at Trinity College.
+
+Newton received his Master of Arts degree in 1669, before he was 27. During this time, he came across Nicholas Mercator's published book on methods for dealing with infinite series.
+Newton quickly wrote a treatise, De Analysi, expounding his own wider-ranging results. He shared this with friend and mentor Isaac Barrow, but didn't include his name as author.
+In June 1669, Barrow shared the unaccredited manuscript with British mathematician John Collins. In August 1669, Barrow identified its author to Collins as "Mr. Newton ... very young ... but of an extraordinary genius and proficiency in these things."
+
+## Isaac Newton's Discoveries
+Newton made discoveries in optics, motion and mathematics. Newton theorized that white light was a composite of all colors of the spectrum, and that light was composed of particles.
+His momentous book on physics, Principia, contains information on nearly all of the essential concepts of physics except energy, ultimately helping him to explain the laws of motion and the theory of gravity. Along with mathematician Gottfried Wilhelm von Leibniz, Newton is credited for developing essential theories of calculus.
+
+## The Apple Myth
+Between 1665 and 1667, Newton returned home from Trinity College to pursue his private study, as school was closed due to the Great Plague. Legend has it that, at this time, Newton experienced his famous inspiration of gravity with the falling apple. According to this common myth, Newton was sitting under an apple tree when a fruit fell and hit him on the head, inspiring him to suddenly come up with the theory of gravity.
+While there is no evidence that the apple actually hit Newton on the head, he did see an apple fall from a tree, leading him to wonder why it fell straight down and not at an angle. Consequently, he began exploring the theories of motion and gravity.
+It was during this 18-month hiatus as a student that Newton conceived many of his most important insights—including the method of infinitesimal calculus, the foundations for his theory of light and color, and the laws of planetary motion—that eventually led to the publication of his physics book Principia and his theory of gravity.
+
+## Isaac Newton's Laws of Motion
+In 1687, following 18 months of intense and effectively nonstop work, Newton published Philosophiae Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy), most often known as Principia.
+Principia offers an exact quantitative description of bodies in motion, with three basic but important laws of motion:
+
+First Law: A stationary body will stay stationary unless an external force is applied to it.
+Second Law: Force is equal to mass times acceleration, and a change in motion (i.e., change in speed) is proportional to the force applied.
+Third Law: For every action, there is an equal and opposite reaction.
+
+## Newton and the Theory of Gravity
+Newton's three basic laws of motion outlined in Principia helped him arrive at his theory of gravity. Newton's law of universal gravitation states that two objects attract each other with a force of gravitational attraction that's proportional to their masses and inversely proportional to the square of the distance between their centers.
+These laws helped explain not only elliptical planetary orbits but nearly every other motion in the universe: how the planets are kept in orbit by the pull of the sun's gravity; how the moon revolves around Earth and the moons of Jupiter revolve around it; and how comets revolve in elliptical orbits around the sun.
+They also allowed him to calculate the mass of each planet, calculate the flattening of the Earth at the poles and the bulge at the equator, and how the gravitational pull of the sun and moon create the Earth's tides.
+
+## Newton and Robert Hooke
+Not everyone at the Royal Academy was enthusiastic about Newton's discoveries in optics and 1672 publication of Opticks. Among the dissenters was Robert Hooke, one of the original members of the Royal Academy.
+While Newton theorized that light was composed of particles, Hooke believed it was composed of waves. Hooke quickly condemned Newton's paper in condescending terms, and attacked Newton's methodology and conclusions.
+Unable to handle the critique, he went into a rage—a reaction to criticism that was to continue throughout his life. Newton denied Hooke's charge that his theories had any shortcomings and argued the importance of his discoveries to all of science.
+In the ensuing months, the exchange between the two men grew more acrimonious, and soon Newton threatened to quit the Royal Society altogether.
+The rivalry between Newton and Hooke would continue for several years thereafter. Then, in 1678, Newton suffered a complete nervous breakdown and the correspondence abruptly ended. The death of his mother the following year caused him to become even more isolated.
+
+During his hiatus from public life, Newton returned to his study of gravitation and its effects on the orbits of planets. In a 1679 letter, Hooke wrote to Newton and brought up the question of planetary motion, suggesting that a formula involving the inverse squares might explain the attraction between planets and the shape of their orbits.
+In August 1684, Halley traveled to Cambridge to visit with Newton, who was coming out of his seclusion. Halley idly asked him what shape the orbit of a planet would take if its attraction to the sun followed the inverse square of the distance between them (Hooke's theory).
+Newton knew the answer and replied, "An ellipse." Newton claimed to have solved the problem some 18 years prior, during his hiatus from Cambridge and the plague, but he was unable to find his notes. Halley persuaded him to work out the problem mathematically and offered to pay all costs so that the ideas might be published, which it was, in Newton's Principia.
+Upon the publication of the first edition of Principia in 1687, Robert Hooke immediately accused Newton of plagiarism, claiming that he had discovered the theory of inverse squares and that Newton had stolen his work. The charge was unfounded, as most scientists knew, for Hooke had only theorized on the idea and had never brought it to any level of proof.
+
+## Newton and Alchemy
+While in London, Newton acquainted himself with a broader group of intellectuals and became acquainted with political philosopher John Locke.
+However, within a few years, Newton fell into another nervous breakdown in 1693. The cause is open to speculation: his disappointment over not being appointed to a higher position by England's new monarchs, William III and Mary II, or the subsequent loss of his friendship with Duillier; exhaustion from being overworked; or perhaps chronic mercury poisoning after decades of alchemical research.
+It's difficult to know the exact cause, but evidence suggests that letters written by Newton to several of his London acquaintances and friends, including Duillier, seemed deranged and paranoiac, and accused them of betrayal and conspiracy.
+Oddly enough, Newton recovered quickly, wrote letters of apology to friends, and was back to work within a few months. He emerged with all his intellectual facilities intact, but seemed to have lost interest in scientific problems and now favored pursuing prophecy and scripture and the study of alchemy.
+
+## Government Service
+In 1696, Newton was able to attain the governmental position he had long sought: warden of the Mint; after acquiring this new title, he permanently moved to London and lived with his niece, Catherine Barton.
+Not wanting it to be considered a mere honorary position, Newton approached the job in earnest, reforming the currency and severely punishing counterfeiters. As master of the Mint, Newton moved the British currency, the pound sterling, from the silver to the gold standard.
+
+## The Royal Society
+In 1703, Newton was elected president of the Royal Society upon Robert Hooke's death.
+By most accounts, Newton's tenure at the society was tyrannical and autocratic; he was able to control the lives and careers of younger scientists with absolute power.
+In 1705, in a controversy that had been brewing for several years, German mathematician Gottfried Leibniz publicly accused Newton of plagiarizing his research, claiming he had discovered infinitesimal calculus several years before the publication of Principia.
+In 1712, the Royal Society appointed a committee to investigate the matter. Of course, since Newton was president of the society, he was able to appoint the committee's members and oversee its investigation. Not surprisingly, the committee concluded Newton's priority over the discovery.
+That same year, in another of Newton's more flagrant episodes of tyranny, he published without permission the notes of astronomer John Flamsteed.
+
+## Legacy
+Newton's fame grew even more after his death, as many of his contemporaries proclaimed him the greatest genius who ever lived.
+Although his discoveries were among many made during the Scientific Revolution, Newton's universal principles of gravity found no parallels in science at the time.
+Of course, Newton was proven wrong on some of his key assumptions. In the 20th century, Albert Einstein would overturn Newton's concept of the universe, stating that space, distance and motion were not absolute but relative and that the universe was more fantastic than Newton had ever conceived.
+Newton might not have been surprised: In his later life, when asked for an assessment of his achievements, he replied, "I do not know what I may appear to the world; but to myself I seem to have been only like a boy playing on the seashore, and diverting myself now and then in finding a smoother pebble or prettier shell than ordinary, while the great ocean of truth lay all undiscovered before me."
+
+## Famous Newton Quotes (from Biography.com)
+- "I do not know what I may appear to the world; but to myself I seem to have been only like a boy playing on the seashore, and diverting myself now and then in finding a smoother pebble or prettier shell than ordinary, while the great ocean of truth lay all undiscovered before me."
+- "Plato is my friend, Aristotle is my friend, but my greatest friend is truth."
+- "If I have seen further it is by standing on the shoulders of giants."
+- "It is the perfection of God's works that they are all done with the greatest simplicity."
+- "Every body continues in its state of rest, or of uniform motion in a right line, unless it is compelled to change that state by forces impressed upon it."
+- "To every action there is always opposed an equal reaction: or, the mutual actions of two bodies upon each other are always equal, and directed to contrary parts."
+- "I see I have made myself a slave to philosophy."
+- "The changing of bodies into light, and light into bodies, is very conformable to the course of nature, which seems delighted with transmutations."
+- "To explain all nature is too difficult a task for any one man or even for any one age. Tis much better to do a little with certainty and leave the rest for others that come after, then to explain all things by conjecture without making sure of any thing."
+- "Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things."
+- "Atheism is so senseless and odious to mankind that it never had many professors."
+- "Newton was not the first of the age of reason. He was the last of the magicians, the last of the Babylonians and Sumerians, the last great mind that looked out on the visible and intellectual world with the same eyes as those who began to build our intellectual inheritance rather less than 10,000 years ago."

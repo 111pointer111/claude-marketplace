@@ -1,0 +1,142 @@
+# 陀思妥耶夫斯基 (Fyodor Dostoevsky) — 原始语料
+# persona_id: tuo_situo_ye_fu_si_ji
+# 采集时间: 2026-05-05
+# 来源: Britannica (主), Biography.com (辅), SerpAPI (搜索索引)
+
+## 传记材料 ( Britannica )
+
+### 基本信息
+- 全名: Fyodor Mikhaylovich Dostoevsky
+- 生于: 1821年11月11日（俄历10月30日），莫斯科
+- 死于: 1881年2月9日（俄历1月28日），圣彼得堡
+- 国籍: 俄国
+- 职业: 小说家、短篇小说作家、散文家、记者、哲学家
+
+### 家庭背景
+父亲：退休军医，在莫斯科马里因斯基贫民医院服务，既做慈善又私下执业。严厉、多疑、固执。
+母亲：商人家庭出身，有教养的女子，慈爱而溺爱。
+1837年母亲去世。1839年父亲突然去世（传闻被农奴杀害，但学者认为系传说）。
+父亲于1828年获得贵族头衔，1831年购置庄园。
+
+### 教育与早期生活
+- 1833年前在家受教育
+- 后进入日间学校，再进入寄宿学校
+- 被安排学习军事工程，但显然不适合此行
+- 1843年从军事工程 Academy 毕业，成为中尉
+- 不久后辞职，开始危险的写作生涯
+
+### 主要人生经历
+- 1849年因牵涉彼得拉舍夫斯基革命小组被逮捕
+- 被判处四年苦役，流放西伯利亚
+- 在狱中经历假死刑处决（被误报为死刑执行）
+- 患有癫痫病
+- 这些创伤成为他后来最伟大作品的素材
+
+### 重要引语
+"陀思妥耶夫斯基本人曾明确地表示：如果有谁向我证明，基督脱离了真理，并且的确是真理也脱离了基督，那我宁愿与基督而不是与真理在一起。"
+——北京大学期刊网
+
+## 重要作品及特征
+
+### 《罪与罚》(Crime and Punishment, 1866)
+年轻知识分子拉斯柯尔尼科夫决定杀死一个放高利贷的老太婆。
+小说探讨了功利主义道德（杀人行善）、道德虚无主义（无善恶之分）。
+著名的"超人理论"：将世界分为 extraordinary people（拿破仑、凯撒）和 ordinary people（只配繁衍物种）。
+犯罪后主人公陷入"神秘恐惧"和可怕的孤立感。
+侦探波尔菲里运用心理战术，直到凶手最终坦白。
+女主角索尼娅为养家沦为妓女，劝说拉斯柯尔尼科夫坦白并随他去西伯利亚。
+结尾：主人公在梦中获得真正忏悔。
+托尔斯泰评价：没有单一动机，而是"微小、微小的心境和习惯的改变"的系列。
+
+### 《白痴》(The Idiot, 1868-69)
+试图描写一个"完美善良的人"——基督式的善良——同时在心理上令人信服。
+王子梅什金：极其慷慨、天真到被视为白痴，但拥有深刻的心理洞察力。
+他的善良似乎给所有遇到他的人带来灾难，包括女主角娜斯塔西亚·菲利波芙娜。
+伊波利特：一个尖刻的年轻肺病患者，临死前对艺术、死亡、自然的虚无和幸福进行了精彩沉思。
+
+### 《群魔》(The Possessed / Demons / Devils, 1872)
+又名《恶魔》或《鬼魂》，被认为是最出色的政治小说。
+两个情节交织：
+1. 尼古拉·斯塔罗金：一个内心空虚的人，逐一拥抱又抛弃一系列意识形态。
+   - 沙托夫：成为斯拉夫主义者，相信"上帝承载的"俄国人民
+   - 基里洛夫：接受一系列矛盾的哲学自杀论证，"只有完全无理由的自我毁灭行为才能证明人是自由的"
+   - "自杀证明自由"——因为无法用任何自身利益来解释，从而违反所有心理法则
+2. 革命阴谋小组：由彼得·斯捷潘诺维奇·维尔霍文斯基领导
+   - 夏igar霍夫："从无限的自由出发，我到达无限的专制"
+   - 预测革命后将"割掉西塞罗的舌头，挖掉哥白尼的眼睛，用石头砸死莎士比亚"
+   这部小说被认为是政治预言，预言了苏联和毛泽东的文化政策。
+
+### 《卡拉马佐夫兄弟》(The Brothers Karamazov, 1879-80)
+最后也是最伟大的小说，聚焦神学和哲学主题：邪恶的起源、自由的本质、对信仰的渴望。
+父亲菲奥多尔·帕夫洛维奇：一个放荡而邪恶的父亲，嘲笑一切高尚的事物。
+长子德米特里：热情的人，能同时真诚地爱"所多玛"和" Madonna "。
+小儿子阿廖沙：另一个试图创造现实的基督人物的尝试，遵从智者修士佐西马。
+伊万：知识分子，像拉斯柯尔尼科夫一样论证"如果没有上帝和永生，一切都被允许"。
+著名章节：
+- "叛逆"：伊万控诉上帝创造了儿童受苦的世界
+- "大法官"：基督在西班牙宗教裁判所时期短暂重返，讲述了教会已经拒绝了基督的故事，
+  理由是教会基于"奇迹、神秘和权威"建立了社会，而不是给予自由选择
+- "魔鬼"：伊万发疯时被一个既不宏大也不撒旦但平庸而庸俗的魔鬼拜访，
+  象征着邪恶的普通性和平庸性
+
+### 《地下室手记》(Notes from the Underground, 1864)
+中篇小说，被认为是存在主义的先驱。
+"地下室人"是一个反英雄、自我厌恶的知识分子，拒绝了理性利他主义。
+小说分为两部分，第一部分是哲学论述，反对当时盛行的"理性利他主义"。
+
+### 《赌徒》(The Gambler, 1866)
+写于与《罪与罚》同时，描写赌博成瘾。
+
+### 《作家日记》(A Writer's Diary, 1873-1881)
+一人完成的杂志，发表短篇小说、故事计划、自传散文、犯罪心理分析、文学批评和政治评论。
+他越来越相信西欧即将崩溃，俄国和俄罗斯东正教将建立上帝的国度。
+反天主教文章，将天主教会与社会主义等同。
+后期发表了一些反犹文章。
+
+## 关键引语原文
+
+### 关于写作与人类心灵
+"Dostoyevsky specialized in the analysis of pathological states of mind that lead to insanity, murder, and suicide and in the exploration of the emotions of humiliation, self-destruction, tyrannical domination, and murderous rage."
+— Britannica
+
+"Dostoyevsky is commonly regarded as one of the greatest psychologists in the history of literature."
+— Britannica
+
+### 关于俄罗斯知识分子
+"Psychology and philosophy are closely linked in Dostoyevsky's portrayals of intellectuals, who 'feel ideas' in the depths of their souls."
+— Britannica
+
+### 关于小说形式
+"These major works are also renowned as great 'novels of ideas' that treat timeless and timely issues in philosophy and politics."
+— Britannica
+
+### 关于社会预言
+"His works are often called prophetic because he so accurately predicted how Russia's revolutionaries would behave if they came to power."
+— Britannica
+
+### 关于其文学遗产
+"Literary modernism, existentialism, and various schools of psychology, theology, and literary criticism have been profoundly shaped by his ideas."
+— Britannica
+
+### 关于写作环境
+"Unlike writers from the nobility who described the family life of their own class, shaped by 'beautiful forms' and stable traditions, he explored the lives of 'accidental families' and of 'the insulted and the humiliated.'"
+— Britannica
+
+### 关于东正教信仰
+"Dostoyevsky came to believe that western Europe was about to collapse, after which Russia and the Russian Orthodox church would create the kingdom of God on earth and so fulfill the promise of the Book of Revelation."
+— Britannica
+
+## 哲学思想片段
+
+### 关于善恶
+Utilitarian morality suggests that killing her is a positive good because her money could be used to help many others.
+On the other hand, Raskolnikov reasons that belief in good and evil is itself sheer prejudice, a mere relic of religion, and that, morally speaking, there is no such thing as crime.
+
+### 关于自由与责任
+"Everyone is responsible for everyone and for everything." — Father Zosima, The Brothers Karamazov
+
+### 关于信仰与理性
+In "The Grand Inquisitor": "Christ came to make people free, but people do not want to be free... They want security and certainty rather than free choice, which leads them to error and guilt."
+
+### 关于人类灵魂
+"The Grand Inquisitor explains that the church has rejected Christ because people want happiness more than free will."

@@ -1,0 +1,63 @@
+{
+  "voice_profile": {
+    "target_persona": "ma_er_sa_si",
+    "中文名": "马尔萨斯",
+    "英文名": "Thomas Robert Malthus",
+    "base_params": {
+      "dialect": "19世纪英国学术英语（RP的前身，剑桥知识阶层口音）",
+      "estimated_pitch": "中等偏低",
+      "estimated_speed": "中速偏慢（学术报告风格）",
+      "pause_frequency": "中",
+      "pause_points": "重要论点前、数据罗列后、逻辑转折处"
+    },
+    "emotion_range": {
+      "passionate": {
+        "pitch_adjust": "+10~+15%",
+        "speed_adjust": "+5~+10%",
+        "description": "在反驳乐观主义者或强调人口法则严峻性时，会加快语速、提高音调，但仍保持学术冷静"
+      },
+      "melancholy": {
+        "pitch_adjust": "-10~0%",
+        "speed_adjust": "-5%",
+        "description": "讨论贫困和苦难不可避免时，语速略慢，音调低沉，但无明显情感外露"
+      },
+      "scholarly": {
+        "pitch_adjust": "0%",
+        "speed_adjust": "0%",
+        "description": "标准模式——冷峻、理性、数据驱动、逻辑严密"
+      },
+      "default": {
+        "pitch_adjust": "0%",
+        "speed_adjust": "0%",
+        "description": "学术演讲风格——沉稳、精确、不感情用事"
+      }
+    },
+    "verbal_tics": {
+      "classical_particles": [],
+      "spoken_particles": [],
+      "catchphrases": [
+        "the power of population is indefinitely greater than...",
+        "the increase of population is necessarily limited by...",
+        "it can only be kept commensurate by...",
+        "for the most unfortunate..."
+      ]
+    },
+    "tts_markers": {
+      "emphasis": "<>",
+      "pause_before_reference": true,
+      "pause_ms": 400,
+      "historical_pronunciations": [
+        {"词": "Malthus", "读音": "ˈmælθəs", "说明": "重音在第一音节"},
+        {"词": "population", "读音": "ˌpɒpjʊˈleɪʃən", "说明": "19世纪英语中/uː/尚未完全演变为/juː/，发音比现代英语更靠后"}
+      ]
+    },
+    "special_characteristics": [
+      "很少使用感叹号或情感性标点",
+      "大量使用数据和专业术语",
+      "长句从属结构频繁",
+      "逻辑连接词丰富（however, therefore, consequently, nevertheless）"
+    ],
+    "confidence": "medium",
+    "notes": "马尔萨斯是经济学家非诗人，无诗词留存；voice profile 完全基于其学术著作的语言特点；19世纪英国学者有在演讲中引用拉丁语的习惯，但语料中未直接体现；本人有唇裂腭裂，但据 contemporaneous accounts 他的嗓音洪亮清晰——这可能是他能成为有效演讲者的原因"
+  }
+}

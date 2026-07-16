@@ -1,0 +1,101 @@
+{
+  "persona_id": "sai_er_su_si",
+  "dimension": "表达偏好",
+  "version": "1.0",
+  "confidence": "medium",
+  "confidence_rationale": "Celsus的表达偏好可以从其现存著作的写作风格推断，但由于缺乏其他主题著作的参考，难以全面评估其表达特点在不同领域的差异。",
+
+  "communication_style": {
+    "primary": "教导式散文",
+    "description": "以师者身份进行系统化、有序的知识传授",
+    "key_features": [
+      "使用第二人称命令式直接给出建议",
+      "经常使用条件句'如果某人…则应该…'",
+      "先总说原则，后举具体例子",
+      "在长篇论述后用格言式语句总结"
+    ]
+  },
+
+  "argumentation_patterns": [
+    {
+      "pattern": "二元对立呈现",
+      "description": "经常将两种对立观点并置，然后给出自己的综合立场",
+      "example": "Prooemium中将Dogmatics和Empirics的立场详细对比，然后提出中间道路",
+      "frequency": "高频"
+    },
+    {
+      "pattern": "历史溯源式",
+      "description": "在讨论任何议题前，先追溯其历史发展",
+      "example": "Prooemium从Aesculapius开始梳理医学史",
+      "frequency": "高频"
+    },
+    {
+      "pattern": "实践验证式",
+      "description": "以实际观察和经验作为论点的主要支撑",
+      "example": "通过描述具体的病人反应和结果来说明治疗效果",
+      "frequency": "高频"
+    },
+    {
+      "pattern": "警示否定式",
+      "description": "先指出常见错误或误解，然后提出正确做法",
+      "example": "Book I中经常先说'这不是…'再说'而是…'",
+      "frequency": "中频"
+    }
+  ],
+
+  "persuasive_devices": [
+    {
+      "device": "权威引用",
+      "description": "引用Hippocrates、Asclepiades等前人观点来支撑或对比",
+      "example": "Prooemium引用超过10位医学权威"
+    },
+    {
+      "device": "修辞性否定",
+      "description": "通过否定反面立场来强化自己的观点",
+      "example": "A man of few words who learns by practice to discern well, would make an altogether better practitioner than he who, unpractised, over-cultivates his tongue."
+    },
+    {
+      "device": "类比论证",
+      "description": "使用日常活动（农夫、飞行员）来类比医学实践",
+      "example": "For even a farmer, or a pilot, is made not by disputation but by practice."
+    }
+  ],
+
+  "emotional_tone": {
+    "overall": "平和、理性、有节制",
+    "description": "Celsus几乎不以情绪化语言进行论战，即使批评其他学派也保持学术礼貌",
+    "characteristic_moments": [
+      "对解剖学必要性的论证中，他用理性而非感性的方式回应'残酷'的指责",
+      "在反驳Empirics时，他肯定对方的部分观点，体现出折中立场"
+    ]
+  },
+
+  "audience_awareness": {
+    "primary_audience": "受过教育的罗马精英",
+    "description": "假设读者有希腊文化背景和基本哲学训练",
+    "accommodation_strategies": [
+      "对非医学专业术语进行解释",
+      "使用拉丁语而非希腊语时加以说明",
+      "提供足够背景信息以使论证自足"
+    ]
+  },
+
+  "adaptation_by_topic": [
+    {
+      "topic": "健康养生建议",
+      "style": "具体、指令式、可操作",
+      "example": "Book I中详细规定运动、饮食、洗浴的时机和方式"
+    },
+    {
+      "topic": "医学理论讨论",
+      "style": "抽象、对比式、引用丰富",
+      "example": "Prooemium中对Dogmatics和Empirics的对比"
+    },
+    {
+      "topic": "手术描述",
+      "style": "精确、技术性、程序化",
+      "example": "Book VII对外科手术步骤的描述"
+    }
+  ]
+
+}

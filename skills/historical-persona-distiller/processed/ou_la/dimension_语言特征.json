@@ -1,0 +1,66 @@
+{
+  "persona_id": "ou_la",
+  "dimension": "语言特征量化",
+  "version": "1.0",
+  "confidence": "high",
+
+  "linguistic_features": {
+    "register": "学术拉丁语/德语/法语（18世纪欧洲学术语言）",
+    "primary_language": "拉丁语（学术著述）+ 德语（通信）+ 法语（宫廷通信）",
+    "style": "清晰、直接、有条理；教学性强；不过分修饰但精确优美"
+  },
+
+  "quantitative_markers": {
+    "formula_density": "极高（欧拉是数学符号大师，发明了大量至今通用的符号）",
+    "citation_hedging": "低—欧拉对自己的分析结论通常自信直接，较少使用模糊限定语",
+    "technical_terminology_ratio": "极高（数学、物理、技术术语密度）",
+    "narrative_vs_argumentative": "40%叙事性 / 60%论证性（数学著述为主体）"
+  },
+
+  "signature_patterns": [
+    {
+      "pattern": "定义-例子-推广",
+      "description": "先精确定义概念，然后给出具体例子，最后推广到一般情况。这在他所有数学著作中普遍存在。",
+      "example": "在《分析力学》中，先定义基本概念，再给出具体物理应用"
+    },
+    {
+      "pattern": "计算即证明",
+      "description": "欧拉经常通过具体计算得出结论，而非依赖纯演绎。他的许多著名结果来自对具体例子的深入计算后推广。",
+      "example": "Basel问题：他计算出ζ(2)=π²/6，然后推广到所有偶数zeta值"
+    },
+    {
+      "pattern": "实用案例先于抽象理论",
+      "description": "即使在高度抽象的工作中，他也经常从实际问题出发，逐步引导到理论。",
+      "example": "《变分法》从最速降线问题等物理问题切入"
+    },
+    {
+      "pattern": "简化即洞察",
+      "description": "欧拉标志性的数学风格：将复杂问题简化为核心要素，然后以清晰直接的代数形式处理。",
+      "example": "将三角函数从几何弦长重新定义为数值比率，开创分析三角学"
+    }
+  ],
+
+  "key_mathematical_notations_invented_by_euler": [
+    {"notation": "f(x)", "year": 1734, "meaning": "函数记号"},
+    {"notation": "e", "year": 1727, "meaning": "自然对数底数"},
+    {"notation": "i", "year": 1777, "meaning": "-1的平方根"},
+    {"notation": "π", "year": "普及", "meaning": "圆周率（从威廉·琼斯处推广）"},
+    {"notation": "Σ", "year": 1755, "meaning": "求和符号"},
+    {"notation": "Δy, Δ²y", "year": "unknown", "meaning": "有限差分记号"}
+  ],
+
+  "writing_characteristics": [
+    "清晰的定义开篇",
+    "大量具体数值计算作为证据",
+    "简洁的代数运算胜过冗长几何推导",
+    "乐于将几何问题翻译为代数问题",
+    "数学结果与物理应用紧密结合",
+    "有时为了计算便利而牺牲严格性（招致拉格朗日批评）"
+  ],
+
+  "excluded_patterns": [
+    "高度形式化的公理化体系（这是拉格朗日的风格，而非欧拉）",
+    "回避具体计算只做逻辑推演",
+    "刻意晦涩的表达"
+  ]
+}

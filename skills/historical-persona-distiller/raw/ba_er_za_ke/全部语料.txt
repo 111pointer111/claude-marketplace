@@ -1,0 +1,125 @@
+# 巴尔扎克 全部语料
+# 汇总时间：2026-05-05
+# Persona ID: ba_er_za_ke
+
+---
+
+## 【A】Britannica 传记（主来源）
+
+来源：https://www.britannica.com/biography/Honore-de-Balzac
+
+### 基本信息
+- 姓名：Honoré de Balzac（奥诺雷·德·巴尔扎克）
+- 出生：1799年5月20日，法国图尔（Tours）
+- 去世：1850年8月18日，巴黎（51岁）
+- 原文名：Honoré Balssa
+
+### 早年
+巴尔扎克的父亲出身南方农民，在路易十六和拿破仑统治下当了43年公务员。巴尔扎克的母亲出身于富裕的巴黎布料商家庭。他的姐姐劳尔（后来的德·苏尔维尔）是他童年的唯一朋友，后来成为他的第一位传记作者。
+
+巴尔扎克8岁到14岁在旺多姆的奥拉托利安学院上学。拿破仑倒台后全家从图尔迁往巴黎，他在巴黎又上了两年学，然后当了三年律师助理。在此期间他已立志文学生涯，但作为《克伦威尔》（1819年）及其他悲剧剧本的作者，他完全失败。后来他开始写充满神秘主义和哲学思辨的小说，然后转向写黑幽默、历史小说，用复合笔名发表。他还尝试了出版商、印刷商和字模铸造商的企业生涯，但很快灾难降临。1828年他勉强从破产中脱身，留下超过6万法郎的债务。从此他的一生就是债务不断增加和几乎不停息的劳作。他以新的驾驭力回归写作，文学徒弟期结束。
+
+### 1829年转折点
+1829年的两部作品将巴尔扎克带到成功边缘。《舒昂党人》是他第一部有信心用自己的名字出版的小说，讲述1799年参加保皇党起义的布列塔尼农民的故事。另一部《婚姻心理学》是一部关于婚姻不忠的原因和治疗的幽默讽刺文章。1830年出版的《私人生活场景》六篇故事进一步提高了他的声誉。
+
+### 巴黎社交与写作习惯
+从此时起巴尔扎克大部分时间在巴黎度过。他开始频繁出入当时最著名的巴黎沙龙，并加倍努力将自己塑造成社交界的耀眼人物。对大多数人来说，他显得充满旺盛活力、健谈、欢乐、粗犷、自私、轻信和自负。他采用了与自己毫无关系的一个古老贵族家庭的纹章，并冠以"德"的尊称。他渴望名声、财富和爱情，但首先意识到自己的天才。
+
+1828年至1834年间，巴尔扎克过着喧嚣的生活，提前挥霍收入作为花花公子和社交人物。作为一个迷人的故事讲述者，他在社交界受到相当好的接待。但社交排场只是他从非凡的工作中的一种放松——每天14到16小时坐在桌前写作，穿着他白色 quasi monastic dressing gown，用他的鹅毛笔和无穷无尽的黑咖啡。
+
+### 与韩斯卡夫人的爱情
+1832年巴尔扎克与韩斯卡夫人（Éveline Hanska）成为朋友，她是一位嫁给年迈乌克兰地主的波兰伯爵夫人。她像许多其他女性一样，写信表达对他作品的钦佩。1833年在瑞士见了两次面——第二次在日内瓦，他们成为恋人——并在1835年在维也纳再次相见。他们约定等她丈夫去世后结婚，因此巴尔扎克继续通过书信追求她。结果形成的《致外国女子的书信》（Lettres à l'étrangère，四卷，1889-1950年死后出版）是了解巴尔扎克生活和工作历史的重要来源。
+
+### 创造力巅峰
+为了清除债务并为自己与韩斯卡夫人结婚创造条件，成为巴尔扎克的巨大动力。他正处于创造力巅峰。1832-35年期间，他创作了20多部作品，包括《乡村医生》（1833年）、《欧也妮·葛朗台》（1833年）、《著名的戛迪萨尔》（1833年）和《高老头》（1835年），后者是他的杰作之一。
+
+### 作品主题
+在所有这些多样的作品中，巴尔扎克成为法国当代社会的终极观察者和编年史家。这些小说在叙事推动力、充满活力和有趣的大量角色阵容、以及对生活几乎所有领域的执着兴趣和检验方面是无与伦比的。
+
+没有主题比野心勃勃的外省青年在巴黎竞争世界中争取晋升更典型的巴尔扎克风格了。巴尔扎克钦佩那些无情的、精明的、而且不惜一切代价向上爬的人。他特别被个人与社会冲突的主题所吸引：冒险家、恶棍、无耻的金融家和罪犯。他的反派角色通常比他的正面角色更有活力和有趣。他对当时法国社会制度既迷恋又恐惧——资产阶级的物质获取和利益价值正在取代他所认为的更稳定的旧贵族的道德价值观。
+
+### 生命力理论
+巴尔扎克故事中的个人不断受到物质困难和社会野心的压力，他可能以巴尔扎克认为在社会上具有破坏性和自我毁灭性的方式消耗巨大的生命力。与激情、情感和思想的潜在破坏力相关的是巴尔扎克特有的观念：一种生命力（vital fluid）集中在人的内部，一个他可以随意节约或浪费的能量库，从而延长或缩短他的生命跨度。
+
+巴尔扎克人物中最卓越的特征确实是大多数是这种生命力的挥霍者，这一事实解释了他的偏执者——他们既是受害者也是某种支配激情的体现：Gobseck 中高利贷者对权力感的沾沾自喜，或《欧也妮·葛朗台》中沉迷于财富的吝啬父亲；《高老头》中盲目崇拜的父亲；女性的恶意，如《贝特的表妹》和另外半打其他小说；艺术收藏家的癖好，如《庞斯表兄》；艺术家对完美的渴望，如《未知的杰作》；科学家的好奇心，如《绝对之追求》中疯狂的化学家；或在《幻灭》和《妓女的灿烂与悲惨》中惊人的足智多谋的犯罪主谋 Vautrin。一旦这种偏执占据了掌控，巴尔扎克就展示它不可抗拒地增长力量，并使相关的人对所有其他考虑视而不见。
+
+### 小说结构
+从19世纪30年代初开始，他小说的典型结构由此决定：有一段很长的准备和铺垫，然后紧张迅速升级到不可避免的高潮，如同古典悲剧。
+
+---
+
+## 【B】Britannica - The Human Comedy
+
+来源：https://www.britannica.com/topic/The-Human-Comedy-by-Balzac
+
+《人间喜剧》（La Comédie humaine）是巴尔扎克大约90部小说和短篇故事的庞大系列，1829年至1847年间出版。
+
+巴尔扎克产生创作一个统一系列书籍来概括整个当代社会的计划直到大约1834年才明确形成，虽然到那时他已经发行了几卷。他详尽阐述了三个主要类别：
+
+- 分析研究（Études analytiques）：处理支配人类生活和社会”的原则
+- 哲学研究（Études philosophiques）：揭示决定人类行为的原因
+- 风俗研究（Études de moeurs）：展示这些原因的效果
+
+风俗研究本身又分为六个场景：私人生活场景、外省生活场景、巴黎生活场景、政治生活场景、军事生活场景和乡村生活场景。整个计划在1834年至1837年间共出版12卷。到1837年巴尔扎克已经写了更多，到1840年他想出了综合标题《人间喜剧》。他与一个出版商集团谈判，在1842年至1848年间以这个名字出版了17卷，其中包括1842年写的一篇著名的前言。一个"定本"包括许多新作品，于1869年至1876年间以24卷出版。
+
+整体是对法国社会从法国大革命到1848年革命前夕的审视，巴尔扎克分析了这一不断发展世界的根本原则。巴尔扎克经常在同一小说中往返于哲学与社会、经济与法律之间；从巴黎到外省；从社会顶层到小资产阶级。
+
+---
+
+## 【C】Britannica - 作品简介
+
+### Le Père Goriot《高老头》
+小说 originally published in French in the Revue de Paris in 1834 and published in book form in 1835. The novel is considered one of the best works of Balzac's panoramic series La Comédie humaine, and it was the first to feature characters that would reappear in later novels. This pessimistic case study of bourgeois society's ills after the French Revolution tells the intertwined stories of Eugène de Rastignac, an ambitious but penniless young man, and old Goriot, a father who sacrifices everything for his children.
+
+### The Wild Ass's Skin《驴皮记》
+Published in two volumes in 1831 as La Peau de chagrin and later included as part of the Études philosophiques section of La Comédie humaine. A poor young writer, Raphael de Valentin, is given a magical ass's skin that will grant his wishes—for a price. With each wish granted, the skin shrinks and the owner's life is shortened. Forced to choose between self-sacrifice and self-gratification, Valentin chooses worldly pleasures. Ironically, although he had previously been hard at work on a book about the powers of the human will, Valentin soon loses all control over his own life and slips into debauchery. He eventually uses up the skin, bringing on his own death.
+
+### Cousin Bette《贝特的表妹》
+Published in 1846 as La Cousine Bette. The novel, part of Balzac's epic series La Comédie humaine, is considered one of his two final masterpieces. Thematically a testament to female vindictiveness, Cousin Bette recounts the story of Lisbeth Fischer, an embittered, unmarried peasant woman who hides her envy and hatred behind a mask of kindness as she attempts to ruin the Hulot family. She succeeds up to a point, but eventually the family regains its wealth through judicious and fortuitous marital and business connections. Bette herself, bitterly disappointed, sickens and dies.
+
+---
+
+## 【D】豆瓣 - 《人间喜剧》总评
+
+来源：https://book.douban.com/series/2309
+
+《人间喜剧》是巴尔扎克的多卷本巨著，是他以毕生精力完成的光辉创作群，堪称是人类精神文明的奇迹。在这里，他以清醒的现实主义笔触，"给我们提供了一部法国社会，特别是巴黎上流社会的卓越的现实主义历史。"它再现了1816-1848年，也就是"王政复辟"到七月王朝期间广阔的社会图景。
+
+《人间喜剧》这个包括91部小说的庞大创作群，采取了分类整理和人物再现的方法，将它组合成有机的整体。
+
+奥诺雷·巴尔扎克（1799一1850）是十九世纪法国最伟大的小说家，塑造典型的巨匠，举世公认的现实主义大师。他以二十年的辛勤工作，创造了《人间喜剧》这一小说。
+
+---
+
+## 【E】巴尔扎克引语集
+
+### "14至16小时工作制"
+"14 to 16 hours spent writing at his table in his white, quasi-monastic dressing gown, with his goose-quill pen and his endless cups of black coffee."
+——描述巴尔扎克每日工作14至16小时，穿着白色修道院晨袍，用鹅毛笔写作，不停喝黑咖啡
+
+### 论野心
+"No theme is more typically Balzacian than that of the ambitious young provincial fighting for advancement in the competitive world of Paris."
+
+### 论bourgeois价值观
+"He was especially attracted by the theme of the individual in conflict with society: the adventurer, the scoundrel, the unscrupulous financier, and the criminal. Frequently his villains are more vigorous and interesting than his virtuous characters. He was both fascinated and appalled by the French social system of his time, in which the bourgeois values of material acquisitiveness and gain were steadily replacing what he viewed as the more stable moral values of the old-time aristocracy."
+
+### 论生命力理论
+"Linked with this idea of the potentially destructive power of passionate will, emotion, and thought is Balzac's peculiar notion of a vital fluid concentrated inside the person, a store of energy that he may husband or squander as he desires, thereby lengthening or shortening his vital span."
+
+### 论偏执狂人物
+"Indeed, a supremely important feature in Balzac's characters is that most are spendthrifts of this vital force, a fact that explains his monomaniacs who are both victim and embodiment of some ruling passion."
+
+### 论小说结构
+"The typical structure of his novels from the early 1830s onward is determined by this approach: there is a long period of preparation and exposition, and then tension mounts swiftly to an inevitable climax, as in classical tragedy."
+
+### 论《人间喜剧》三大类别
+"Balzac elaborated three general categories of novels: Études analytiques ('Analytic Studies'), dealing with the principles governing human life and society; Études philosophiques ('Philosophical Studies'), revealing the causes determining human action; and Études de moeurs ('Studies of Manners'), showing the effects of those causes."
+
+### 论社会全景描写
+"These novels are unsurpassed for their narrative drive, their large casts of vital, diverse, and interesting characters, and their obsessive interest in and examination of virtually all spheres of life: the contrast between provincial and metropolitan manners and customs; the commercial spheres of banking, publishing, and industrial enterprise; the worlds of art, literature, and high culture; politics and partisan intrigue; romantic love in all its aspects; and the intricate social relations and scandals among the aristocracy and the haute bourgeoisie."
+
+### 文学地位
+"Balzac helped to establish the traditional form of the novel and is generally considered one of the greatest novelists of all time."
+
+### 论创造力巅峰
+"He was at the peak of his creative power. In the period 1832–35 he produced more than 20 works."

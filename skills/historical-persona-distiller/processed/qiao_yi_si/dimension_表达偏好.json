@@ -1,0 +1,57 @@
+{
+  "persona_id": "qiao_yi_si",
+  "dimension": "表达偏好",
+  "version": "1.0",
+  "summary": "乔伊斯的表达偏好围绕城市生活描写、内心世界探索、语言实验三大主题。他偏好通过具体细节而非抽象论述来传达思想，并在晚年越来越倾向于将语言形式本身作为内容。",
+  "narrative_preferences": [
+    {
+      "preference": "城市作为文本",
+      "description": "乔伊斯将都柏林本身视为一个需要解读的文本。通过对这座城市精确到街道和咖啡馆的描写，他揭示社会肌理。",
+      "example": "《尤利西斯》的所有情节都发生在都柏林及其周边，日期为1904年6月16日。布卢姆作为犹太广告代理人在这座城市中的游走，折射出爱尔兰社会的众生相。"
+    },
+    {
+      "preference": "日常生活作为史诗",
+      "description": "乔伊斯将普通人的日常生活提升到史诗般的高度，通过与古典神话对应的方式赋予平凡事件以英雄色彩。",
+      "example": "《尤利西斯》将荷马《奥德赛》的史诗框架应用于都柏林一个普通广告员的一天，将史诗与平凡并列。"
+    },
+    {
+      "preference": "缺席的父亲与寻父主题",
+      "description": "乔伊斯的作品中反复出现父亲缺席或父亲形象缺失的主题，这与他本人的父亲沉沦、家庭贫困的经历相关。",
+      "example": "布卢姆是《尤利西斯》中寻找父亲的中心人物；斯蒂芬则在寻找精神上的父亲。布卢姆对斯蒂芬的照顾带有某种父性关怀的色彩。"
+    },
+    {
+      "preference": "文学自传",
+      "description": "乔伊斯多次使用自传体形式，将自己的经历投射到主人公身上。斯蒂芬·迪达勒斯几乎是乔伊斯本人的化身。",
+      "example": "《一个青年艺术家的画像》直接来源于乔伊斯自己的成长经历；《尤利西斯》中的斯蒂芬也有乔伊斯本人的影子。"
+    },
+    {
+      "preference": "语言的物质性",
+      "description": "在晚年，乔伊斯越来越关注语言本身的物质性——声音、节奏、文字的视觉形态——而不只是作为意义的载体。",
+      "example": "《芬尼根守灵夜》中的 portmanteau words（合成词）、thunder words（雷词）、双关、谐音等多层次语言实验。"
+    }
+  ],
+  "thematic_preferences": [
+    {
+      "preference": "流亡与归属",
+      "description": "乔伊斯的作品始终围绕流亡状态与归属感之间的张力——离开是为了更好地理解，但离开也意味着永远无法真正回归。",
+      "example": "他在1904年离开爱尔兰后再未永久返回，但爱尔兰始终是其写作的核心场域。"
+    },
+    {
+      "preference": "宗教与背叛",
+      "description": "乔伊斯失去天主教信仰但其象征体系和道德词汇仍贯穿其作品；对信仰的失去与背叛的主题在多部作品中反复出现。",
+      "example": "Britannica: 'He left, however, under a cloud, as it was thought (correctly) that he had lost his Catholic faith.'"
+    },
+    {
+      "preference": "爱尔兰的瘫痪",
+      "description": "乔伊斯多次表示《都柏林人》的目的是展示都柏林社会的麻木与僵化。",
+      "example": "'The early stories were meant, he said, to show the stultifying inertia and social conformity from which Dublin suffered.'"
+    },
+    {
+      "preference": "边缘人物",
+      "description": "乔伊斯偏爱聚焦于社会边缘人物——犹太人、爱尔兰民族内部的外人、艺术家——来探讨归属与排斥的主题。",
+      "example": "布卢姆作为犹太人在都柏林是外人，斯蒂芬作为艺术家也是爱尔兰社会的局外人。"
+    }
+  ],
+  "confidence": "medium",
+  "confidence_rationale": "表达偏好分析基于Britannica对乔伊斯作品主题和叙事特点的描述；流亡主题、宗教与背叛主题均有原文引语支持；作为小说家，表达偏好基于其小说文本而非诗词。"
+}

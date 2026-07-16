@@ -1,0 +1,8 @@
+# 孟德尔引语（从原始文本提取）
+
+1. "My time will come." — reported to friend Gustav von Niessl when his work was ignored (Wikipedia)
+2. "My scientific studies have afforded me great gratification; and I am convinced that it will not be long before the whole world acknowledges the results of my work." — Gregor Mendel (Biography.com)
+3. "perpetual anxiety about a means of livelihood." — Mendel on why he became a monk (Wikipedia, citing Henig 2000)
+4. "my dearest little animals" — Mendel referring to his bees (Wikipedia)
+5. "The data of most, if not all, of the experiments have been falsified to agree closely with Mendel's expectations." — Ronald Fisher, 1936, critiquing Mendel's statistical results
+6. "One can applaud the lucky gambler; but when he is lucky again tomorrow, and the next day, and the following day, one is entitled to become a little suspicious." — A.W.F. Edwards on the Mendelian paradox

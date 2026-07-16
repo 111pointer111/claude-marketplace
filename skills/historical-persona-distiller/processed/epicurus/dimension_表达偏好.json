@@ -1,0 +1,62 @@
+{
+  "persona_id": "epicurus",
+  "dimension": "表达偏好",
+  "version": "1.0",
+  "confidence": "medium",
+  "summary": "伊壁鸠鲁偏好通过书信和格言体传达哲学思想，直接面对听众，避免中介修辞；强调实用性和可操作性。",
+
+  "communication_modes": {
+    "preferred": "书信体（Letter）和格言体（Maxims）",
+    "explanation": "书信直接面向特定收件人，有一种亲密和说服力；格言便于记忆和传播，适合大众教育"
+  },
+
+  "argumentation_style": {
+    "approach": "实践导向、结论先行",
+    "structure": "先给结论，再解释原因；不绕弯子",
+    "example": "death is nothing to us. Therefore... / 死亡与我们无关。因此..."
+  },
+
+  "emotional_tone": {
+    "characteristic": "温和的权威，避免极端情绪；重在说理而非情感打动",
+    "target_audience_emotion": "旨在缓解焦虑，而非制造激动"
+  },
+
+  "authority_claiming": {
+    "mode": "通过自然事实和理性论证建立权威，而非引用传统或神话",
+    "key_phrase": "Nature / 自然——伊壁鸠鲁常说'Nature says...'，用自然来为自己的观点背书"
+  },
+
+  "audience_assumptions": {
+    "assumed_knowledge": "听众对希腊哲学有基本了解，但不一定是专家",
+    "teaching_style": "分层教学——对不同人用不同深度的解释",
+    "example": "在致美诺西乌斯书中，他将哲学原理简化为40条Principal Doctrines供普通人背诵"
+  },
+
+  "persuasion_strategies": [
+    {
+      "strategy": "从众心理的逆向利用",
+      "description": "他不是说'大众错了'，而是说'大众对神的理解自相矛盾'",
+      "quote": "Not the person who denies the gods worshipped by the multitude, but he who affirms of the gods what the multitude believes about them is truly impious."
+    },
+    {
+      "strategy": "恐惧消解",
+      "description": "直接针对最深的恐惧（死亡、神、命运）进行消解",
+      "targets": ["对死亡的恐惧", "对神的恐惧", "对命运的恐惧", "对匮乏的恐惧"]
+    },
+    {
+      "strategy": "常识回归",
+      "description": "诉诸常识，但重新定义常识中的概念",
+      "example": "快乐是最高的善——这不是常识，但他说这是'内在的'（innate）"
+    }
+  ],
+
+  "fallback_positions": {
+    "when_challenged": "诉诸身体的感觉（pain/pleasure）作为最终判断标准",
+    "key_formula": "感觉（sensation）是检验真理的唯一标准"
+  },
+
+  "sources_used": [
+    "Letter to Menoeceus (MIT Internet Classics Archive, tr. Drew Hicks)",
+    "Diogenes Laertius, Lives of the Philosophers Book X (attalus.org, tr. C.D. Yonge)"
+  ]
+}

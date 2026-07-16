@@ -1,0 +1,246 @@
+# 法拉第 Michael Faraday 原始语料
+
+## 来源1: Britannica (2026) - https://www.britannica.com/biography/Michael-Faraday
+
+Michael Faraday (born September 22, 1791, Newington, Surrey, England—died August 25, 1867, Hampton Court, Surrey) was an English physicist and chemist whose many experiments contributed greatly to the understanding of electromagnetism.
+
+Faraday, who became one of the greatest scientists of the 19th century, began his career as a chemist. He wrote a manual of practical chemistry that reveals his mastery of the technical aspects of his art, discovered a number of new organic compounds, among them benzene, and was the first to liquefy a "permanent" gas (i.e., one that was believed to be incapable of liquefaction). His major contribution, however, was in the field of electricity and magnetism. He was the first to produce an electric current from a magnetic field, invented the first electric motor and dynamo, demonstrated the relation between electricity and chemical bonding, discovered the effect of magnetism on light, and discovered and named diamagnetism, the peculiar behaviour of certain substances in strong magnetic fields. He provided the experimental, and a good deal of the theoretical, foundation upon which James Clerk Maxwell erected classical electromagnetic field theory.
+
+### Early life
+Michael Faraday was born in the country village of Newington, Surrey, now a part of South London. His father was a blacksmith who had migrated from the north of England earlier in 1791 to look for work. His mother was a country woman of great calm and wisdom who supported her son emotionally through a difficult childhood. Faraday was one of four children, all of whom were hard put to get enough to eat, since their father was often ill and incapable of working steadily. Faraday later recalled being given one loaf of bread that had to last him for a week. The family belonged to a small Christian sect, called Sandemanians, that provided spiritual sustenance to Faraday throughout his life. It was the single most important influence upon him and strongly affected the way in which he approached and interpreted nature.
+
+Faraday received only the rudiments of an education, learning to read, write, and cipher in a church Sunday school. At an early age he began to earn money by delivering newspapers for a book dealer and bookbinder, and at the age of 14 he was apprenticed to the man. Unlike the other apprentices, Faraday took the opportunity to read some of the books brought in for rebinding. The article on electricity in the third edition of the Encyclopædia Britannica particularly fascinated him. Using old bottles and lumber, he made a crude electrostatic generator and did simple experiments. He also built a weak voltaic pile with which he performed experiments in electrochemistry.
+
+Faraday's great opportunity came when he was offered a ticket to attend chemical lectures by Sir Humphry Davy at the Royal Institution of Great Britain in London. Faraday went, sat absorbed with it all, recorded the lectures in his notes, and returned to bookbinding with the seemingly unrealizable hope of entering the temple of science. He sent a bound copy of his notes to Davy along with a letter asking for employment, but there was no opening. Davy did not forget, however, and, when one of his laboratory assistants was dismissed for brawling, he offered Faraday a job. Faraday began as Davy's laboratory assistant and learned chemistry at the elbow of one of the greatest practitioners of the day. It has been said, with some truth, that Faraday was Davy's greatest discovery.
+
+When Faraday joined Davy in 1812, Davy was in the process of revolutionizing the chemistry of the day. Antoine-Laurent Lavoisier, the Frenchman generally credited with founding modern chemistry, had effected his rearrangement of chemical knowledge in the 1770s and 1780s by insisting upon a few simple principles. Among these was that oxygen was a unique element, in that it was the only supporter of combustion and was also the element that lay at the basis of all acids. Davy, after having discovered sodium and potassium by using a powerful current from a galvanic battery to decompose oxides of these elements, turned to the decomposition of muriatic (hydrochloric) acid, one of the strongest acids known. The products of the decomposition were hydrogen and a green gas that supported combustion and that, when combined with water, produced an acid. Davy concluded that this gas was an element, to which he gave the name chlorine, and that there was no oxygen whatsoever in muriatic acid. Acidity, therefore, was not the result of the presence of an acid-forming element but of some other condition.
+
+Faraday's second apprenticeship, under Davy, came to an end in 1820. By then he had learned chemistry as thoroughly as anyone alive. He had also had ample opportunity to practice chemical analyses and laboratory techniques to the point of complete mastery, and he had developed his theoretical views to the point that they could guide him in his researches. There followed a series of discoveries that astonished the scientific world.
+
+### Career as Chemist
+Faraday achieved his early renown as a chemist. His reputation as an analytical chemist led to his being called as an expert witness in legal trials and to the building up of a clientele whose fees helped to support the Royal Institution. In 1820 he produced the first known compounds of carbon and chlorine, C2Cl6 and C2Cl4. These compounds were produced by substituting chlorine for hydrogen in "olefiant gas" (ethylene), the first substitution reactions induced. In 1825, as a result of research on illuminating gases, Faraday isolated and described benzene. In the 1820s he also conducted investigations of steel alloys, helping to lay the foundations for scientific metallurgy and metallography. While completing an assignment from the Royal Society of London to improve the quality of optical glass for telescopes, he produced a glass of very high refractive index that was to lead him in 1845 to the discovery of diamagnetism. In 1821 he married Sarah Barnard, settled permanently at the Royal Institution, and began the series of researches on electricity and magnetism that were to revolutionize physics.
+
+### The Discovery of Electromagnetism
+In 1820 Hans Christian Ørsted had announced the discovery that the flow of an electric current through a wire produced a magnetic field around the wire. André-Marie Ampère showed that the magnetic force apparently was a circular one, producing in effect a cylinder of magnetism around the wire. No such circular force had ever before been observed, and Faraday was the first to understand what it implied. If a magnetic pole could be isolated, it ought to move constantly in a circle around a current-carrying wire. Faraday's ingenuity and laboratory skill enabled him to construct an apparatus that confirmed this conclusion. This device, which transformed electrical energy into mechanical energy, was the first electric motor.
+
+This discovery led Faraday to contemplate the nature of electricity. Unlike his contemporaries, he was not convinced that electricity was a material fluid that flowed through wires like water through a pipe. Instead, he thought of it as a vibration or force that was somehow transmitted as the result of tensions created in the conductor.
+
+In the spring of 1831, Faraday began to work with Charles (later Sir Charles) Wheatstone on the theory of sound, another vibrational phenomenon. He was particularly fascinated by the patterns (known as Chladni figures) formed in light powder spread on iron plates when these plates were thrown into vibration by a violin bow. Here was demonstrated the ability of a dynamic cause to create a static effect, something he was convinced happened in a current-carrying wire.
+
+On August 29, 1831, Faraday wound a thick iron ring on one side with insulated wire that was connected to a battery. He then wound the opposite side with wire connected to a galvanometer. What he expected was that a "wave" would be produced when the battery circuit was closed and that the wave would show up as a deflection of the galvanometer in the second circuit. He closed the primary circuit and, to his delight and satisfaction, saw the galvanometer needle jump. A current had been induced in the secondary coil by one in the primary. When he opened the circuit, however, he was astonished to see the galvanometer jump in the opposite direction. Somehow, turning off the current also created an induced current, equal and opposite to the original current, in the secondary circuit. This phenomenon led Faraday to propose what he called the "electrotonic" state of particles in the wire, which he considered a state of tension.
+
+In the fall of 1831, Faraday attempted to determine just how an induced current was produced. He discovered that when a permanent magnet was moved in and out of a coil of wire, a current was induced in the coil. Faraday saw the "lines of force" thus revealed as lines of tension in the medium, namely air, surrounding the magnet, and he soon discovered the law determining the production of electric currents by magnets: the magnitude of a current was dependent upon the number of lines of force cut by the conductor in unit time. He immediately realized that a continuous current could be produced by rotating a copper disk between the poles of a powerful magnet and taking leads off the disk's rim and centre. The outside of the disk would cut more lines than would the inside, and there would thus be a continuous current produced in the circuit linking the rim to the centre. This was the first dynamo. It was also the direct ancestor of electric motors, for it was only necessary to reverse the situation, to feed an electric current to the disk, to make it rotate.
+
+### Later Life
+Faraday was twice offered the presidency of the Royal Society, but declined it both times. In 1848, aged 54, and again in 1858 he was offered this highest honour in British science, and both times he refused. He was granted a grace and favour residential property in Hampton Court in Middlesex, by the Prince Consort.
+
+He died at the age of 75, on August 25, 1867, at his house at Hampton Court. He was offered a burial in Westminster Abbey, together with Britain's kings, queens, and scientists, but turned down the offer. His grave, beside his wife, can be found in London's Highgate Cemetery.
+
+---
+
+## 来源2: History Hit - https://www.historyhit.com/michael-faraday-the-british-scientist-who-transformed-electrical-power/
+
+Michael Faraday (1791-1867), discoverer of electromagnetic induction (1831) and formulator of Faraday's Law (1834)
+
+English physicist and chemist Michael Faraday (1791-1867) is widely regarded as one of the most influential scientists in history.
+
+His pioneering experiments over the course of the early to mid-19th century greatly contributed to the understanding of electromagnetism, and he ultimately became the first and foremost Fullerian Professor of Chemistry at the Royal Institution, a position which he held for his whole life. He was so celebrated that the unit of electrical capacitance is called the farad in his honour, and Albert Einstein kept a picture of him above his desk.
+
+His achievements are yet more remarkable when placed within the context of his life. Born into an impoverished family, he received little education and was largely self-taught, until a fortunate encounter started his journey towards discovery and success.
+
+### He grew up in poverty
+Born in Newington, now part of South London, Michael Faraday was one of four children born to a blacksmith and a country woman. His father was often ill and unable to work, meaning that the children were frequently hungry; Faraday later recalled once being given one loaf of bread to last him for a week.
+
+Faraday learned the basics such as reading, writing and ciphering in Sunday school. At an early age he worked as a newspaper deliverer and bookbinder, and from 14 was the bookbinder's apprentice. While there, he read many of the books that were brought in for rebinding. He found an article about electricity in the Encyclopaedia Britannica particularly fascinating.
+
+He used his meagre pay to buy chemicals and apparatus. For instance, he made a crude electrostatic generator using old bottles and lumber.
+
+### He got a job as a chemical assistant
+In 1812, Faraday was offered a ticket to hear well-known scientists John Tatum and Humphry Davy speak on natural philosophy (physics). The fee for the lecture was one shilling; however, his older brother, a blacksmith, was impressed by his brother's devotion to science so paid for him. Faraday went and was spellbound.
+
+Faraday recorded the lectures, and eventually made additions to his notes which totalled some 300 pages, which he then sent to Davy as tribute. Davy responded immediately and favourably, and Faraday did some work for him as a writer after Davy's eyesight was damaged in a chemical explosion. In 1813, when a formal opportunity to work in Davy's laboratory opened, Davy offered the then 21-year-old Faraday the job as a chemical assistant at the Royal Institution. It has been said that Faraday was Davy's greatest discovery.
+
+### He was subjected to snobbery because of his class
+A year into his work, Faraday was invited to accompany Davy and his wife on an 18-month tour across Europe that included France, Switzerland, Italy and Belgium. During this time, Faraday met many significant scientists such as André-Marie Ampère in Paris and Alessandro Volta in Milan, which worked as a kind of university education.
+
+However, in addition to his scientific and secretarial work, Faraday was required to be a personal secretary to Davy and his wife, which he did not enjoy: Davy's wife refused to treat him as an equal, because of his working class background.
+
+### He was extremely religious
+Faraday's family belonged to a small Christian sect called Sandemanians (an offshoot of the Church of Scotland), that provided spiritual guidance to Faraday throughout his life.
+
+In 1821, 29-year-old Faraday married Sarah Barnard, who he met through the Sandemanian church. The couple then lived in rooms in the Royal Institution for the next 46 years, including in the suite that Humphry Davy himself had once lived in.
+
+In later life, Faraday served two terms as an elder in the meeting house of his youth. It was repeatedly noted Faraday's religion was the single most important influence upon him and significantly affected the way he approached and interpreted nature.
+
+### He made significant scientific discoveries
+Faraday's research on the magnetic field around a conductor carrying a direct current established the fundamental concept of the electromagnetic field in physics. Faraday recorded that magnetism was able to affect rays of light, and that there was an underlying relationship between the two phenomena. He also developed electromagnetic rotary devices that formed the basis for electric motor technology, which allowed electricity to become practical for use in technology.
+
+Amongst Faraday's other achievements were the discovery of benzene, the invention of an early form of the Bunsen burner and the system of oxidation numbers and the popularisation of terms such as 'anode', 'cathode', 'electrode' and 'ion'.
+
+### He was twice offered the presidency of the Royal Society
+Faraday's esteemed career saw him involved with the Royal Institution for a total of 54 years. He held his first lecture aged 24, was made Superintendent of House and Laboratory aged 29, and was elected to the Royal Society aged 32. A year later, he became Director of the Royal Institution's Laboratory.
+
+Faraday ultimately became the first and most eminent Fullerian Professor of Chemistry at the Royal Institution, a position he held for his whole life. In 1848, aged 54, and again 1858 he was offered the Presidency of the Royal Society, but he turned down the role both times.
+
+---
+
+## 来源3: KidsKonnect - https://kidskonnect.com/people/michael-faraday/
+
+### Key Facts
+Michael Faraday was an English physicist and chemist who contributed to the understanding of electromagnetism, discovered Benzene, and built the first electric motor and generator. As a self-taught scientist, Faraday is one of the most influential thinkers in history.
+
+### Early Life
+Born on the 22nd of September, 1791 in a country village in Newington, Surrey in London, Michael Faraday was the third of four children from a poverty-stricken family.
+His father, James Faraday, was a blacksmith from England who suffered poor health, and his mother, Margaret Hastwell, a servant before marriage.
+He came from a family of Sandemanians, a small Christian sector, which had a great influence on him and affected his philosophies in life.
+
+### Education
+Due to poverty, Faraday's education was only limited to reading, writing, and mathematics. He stopped attending school at the age of 13.
+A year after, he began to work as a delivery boy for a bookshop owned by George Riebau. He got promoted and worked as an apprentice bookbinder for seven years. This apprenticeship gave him the opportunity to read soon-to-be binded books.
+He was particularly fascinated by science, and these two books got his attention: (1) The Encyclopedia Britannica, third edition – articles about electricity, and (2) Conversations on Chemistry by Jane Marcet.
+
+### Marriage
+On June 12, 1821, he married Sarah Barnard. They had no children.
+They lived in the comfortable suite Sir Humphry Davy used to live in, at the Royal Institution for 46 years, where Faraday started his research on electricity and magnetism.
+He met his wife through their families at the Sandemanian church.
+
+### Career Beginnings
+As soon as his apprenticeship ended in 1812, he began going to lectures at the Royal Institution, attending talks conducted by Sir Humphry Davy.
+William Dance, an English pianist and violinist, used to visit the bookshop. He provided Faraday with tickets for these lectures.
+Faraday attended four lectures about chemistry, watching how Davy performed experiments while taking down notes. As a tribute, he sent Davy his 300-page handwritten book, containing all his lectures plus some additional notes.
+In 1813, Sir Davy got into an accident with Nitrogen Trichloride, damaging his eyesight and his ability to write. His laboratory assistant, John Payne, got fired for misconduct, and Davy sent a message to Faraday asking him if he would like to work as his assistant.
+On March 1, 1813, at the age of 21, Faraday became Davy's chemical assistant at the Royal Institution of Great Britain.
+Seven months later, Davy took him as his secretary on an 18-month European tour, which in some ways, was like a university education. This gave Faraday the opportunity to meet other elite scientists, such as Andre-Marie Ampere in Paris and Alessandro Volta in Milan.
+Although this tour fueled his interest in chemistry, Davy's wife, Jane Apreece, treated him miserably because he came from a lower class family.
+After their excursion, his contract was renewed by the Royal Institution, thus, increasing his salary.
+At 24, he gave his first lecture about the properties of matter, to the City Philosophical Society. This same year, 1816, his first scholarly paper about his analysis of Calcium Hydroxide, got published in the Quarterly Journal of Science.
+
+### As a Chemist
+In 1820, he produced the first known compounds of Carbon and Chlorine: C2Cl6 (Hexachloroethane) and C2Cl4 (Tetrachloroethane).
+In 1823, he provided hard evidence on Dalton's belief that all gases could be liquefied under low temperature and/or high pressures. Faraday used high pressures to produce the first ever liquid samples of Chlorine and Ammonia.
+In 1825, Faraday discovered Benzene, C6H6, in the oily residue from producing gas for lighting in London.
+In 1834, he proposed the laws of electrolysis which are significant to the understanding of batteries and electrode reactions.
+
+### As a Physicist
+In 1821, he discovered the physics behind electromagnetic rotation. Electricity flows through the wires, with cups filled with Mercury.
+Ten years later, Faraday found out the difference in magnetic fields caused current flow in an electric circuit; thus, the discovery of electromagnetic induction. Faraday's laws of electromagnetic induction gives the behavior of a magnetic field in an electric circuit to produce an electromotive force (emf).
+That same year, in 1831, he built the first electric generator, known as the Faraday disk.
+In 1836, he conducted the ice pail experiment and noticed that when any electric conductor becomes charged, the rest of the extra charge remains outside of the conductor. This discovery was also used to offer protection for people who are sensitive to electrical or electrochemical experiments, and can also interrupt signals for mobile communications. Therefore, the invention of the Faraday Cage.
+In 1845, he stated that given a two-dimensional surface, vibrations of light waves rotate because of the magnetic field. This optical illusion is known as the Faraday effect.
+In the same year, he also discovered diamagnetism, a property of matter which opposes the direction of the magnetic field.
+
+### Honors
+In 1821, the same year he married his wife, Faraday got promoted to be the Superintendent of House and Laboratory of the Royal Institution.
+Three years later, he was elected a member of the Royal Society.
+In 1825, he became the Director of the Royal Institution's Laboratory, at the age of 33.
+In June 1832, he was granted an honorary Doctor of Civil Law degree by the University of Oxford. He was also elected a Foreign Honorary Member of the American Academy of Arts and Sciences.
+In 1833, Faraday became the first Fullerian Professor of Chemistry at the Royal Institution of Great Britain.
+After five years, he was chosen to be part of the Royal Swedish Academy of Sciences.
+In 1848 and 1858, Faraday was offered the presidency of the Royal Society, but rejected it twice.
+He was elected as an associated member to the Royal Institute of the Netherlands in 1849. Two years later, he got his foreign membership in the same organization which changed its name to Royal Netherlands Academy of Arts and Sciences.
+Faraday was awarded a grace and favour residential property in Hampton Court in Middlesex, by the Prince Consort.
+He died at the age of 75, on August 25, 1867, at his house at Hampton Court. He was offered a burial in Westminster Abbey, together with Britain's kings, queens, and scientists, but turned down the offer. His grave, beside his wife, can be found in London's Highgate Cemetery.
+In 2002, he ranked number 22 in the British Broadcasting Corporation's (BBC) list of the 100 Greatest Britons.
+Faraday Institute for Science and Religion, created in 2006, was built in order to carry out academic research in the two given fields.
+
+---
+
+## 来源4: Today In Science History (Quotes) - https://todayinsci.com/F/Faraday_Michael/FaradayMichael-Quotations.htm
+
+### Direct Quotes by Michael Faraday
+
+"I have a great distaste for controversy…. I have often seen it do great harm, and yet remember few cases in natural knowledge where it has helped much either to pull down error or advance truth. Criticism, on the other hand, is of much value."
+— Letter (6 May 1841) to Robert Hare
+
+"I have a strong conviction that controversial reply and rejoinder is but a vain occupation."
+— Letter (11 Mar 1843) to R. Taylor
+
+"The new term Physicist is both to my mouth and ears so awkward that I think I shall never use it. The equivalent of three separate sounds of i in one word is too much."
+— Quoted in Sydney Ross, Nineteenth-Century Attitudes: Men of Science (1991)
+
+"The object of education is to train the mind to ascertain the sequence of a particular conclusion from certain premises, to detect a fallacy, to correct undue generalisation, to prevent the growth of mistakes in reasoning. Everything in these must depend on the spirit and the manner in which the instruction itself is conveyed and honoured. If you teach scientific knowledge without honouring scientific knowledge as it is applied, you do more harm than good. I do think that the study of natural science is so glorious a school for the mind, that with the laws impressed on all these things by the Creator, and the wonderful unity and stability of matter, and the forces of matter, there cannot be a better school for the education of the mind."
+— Giving Evidence (18 Nov 1862) to the Public Schools Commission
+
+"Astonishing how great the precautions that are needed in these delicate experiments. Patience. Patience."
+— In Thomas Martin (ed.) Faraday's Diary: Sept. 6, 1847 - Oct. 17, 1851 (1934), 228
+
+"A lecturer should … give them [the audience] full reason to believe that all his powers have been exerted for their pleasure and instruction."
+— Letter to his friend Benjamin Abbott (11 Jun 1813)
+
+"Although we know nothing of what an atom is, yet we cannot resist forming some idea of a small particle, which represents it to the mind ... there is an immensity of facts which justify us in believing that the atoms of matter are in some way endowed or associated with electrical powers, to which they owe their most striking qualities, and amongst them their mutual chemical affinity."
+— Experimental Researches in Electricity (1839), section 852
+
+"As an answer to those who are in the habit of saying to every new fact, 'What is its use?' Dr. Franklin says to such, 'What is the use of an infant?' The answer of the experimentalist would be, 'Endeavour to make it useful.'"
+— From 5th Lecture in 1816
+
+"But I must confess I am jealous of the term atom; for though it is very easy to talk of atoms, it is very difficult to form a clear idea of their nature, especially when compounded bodies are under consideration."
+— 'On the Absolute Quantity of Electricity Associated with the Particles or Atoms of Matter,' (31 Dec 1833)
+
+"Electricity is often called wonderful, beautiful; but it is so only in common with the other forces of nature. The beauty of electricity or of any other force is not that the power is mysterious, and unexpected, touching every sense at unawares in turn, but that it is under law, and that the taught intellect can even govern it largely. The human mind is placed above, and not beneath it, and it is in such a point of view that the mental education afforded by science is rendered super-eminent in dignity, in practical application and utility; for by enabling the mind to apply the natural power through law, it conveys the gifts of God to man."
+— Notes for a Friday Discourse at the Royal Institution (1858)
+
+"Gravity. Surely this force must be capable of an experimental relation to electricity, magnetism, and the other forces, so as to bind it up with them in reciprocal action and equivalent effect."
+— Notebook entry (19 Mar 1849)
+
+"I express a wish that you may, in your generation, be fit to compare to a candle; that you may, like it, shine as lights to those about you; that, in all your actions, you may justify the beauty of the taper by making your deeds honourable and effectual in the discharge of your duty to your fellow-men."
+— The closing of the concluding lecture (8 Jan 1861)
+
+"I am busy just now again on Electro-Magnetism and think I have got hold of a good thing but can't say; it may be a weed instead of a fish that after all my labour I may at last pull up."
+— Letter to Richard Phillips, 23 Sep 1831
+
+"I could trust a fact and always cross-question an assertion."
+— Letter to De La Rive, 2 Oct 1858
+
+"I happen to have discovered a direct relation between magnetism and light, also electricity and light, and the field it opens is so large and I think rich."
+— Letter to Christian Schönbein (13 Nov 1845)
+
+"I have been driven to assume for some time, especially in relation to the gases, a sort of conducting power for magnetism. Mere space is Zero. One substance being made to occupy a given portion of space will cause more lines of force to pass through that space than before, and another substance will cause less to pass. The former I now call Paramagnetic & the latter are the diamagnetic."
+— Letter to William Whewell, 22 Aug 1850
+
+"I have been so electrically occupied of late that I feel as if hungry for a little chemistry: but then the conviction crosses my mind that these things hang together under one law & that the more haste we make onwards each in his own path the sooner we shall arrive, and meet each other, at that state of knowledge of natural causes from which all varieties of effects may be understood & enjoyed."
+— Letter to Eilhard Mitscherlich, 24 Jan 1838
+
+"I have long held an opinion, almost amounting to conviction, in common I believe with many other lovers of natural knowledge, that the various forms under which the forces of matter are made manifest have one common origin; or, in other words, are so directly related and mutually dependent, that they are convertible, as it were, one into another, and possess equivalents of power in their action."
+— Paper read to the Royal Institution (20 Nov 1845)
+
+"I have never had any student or pupil under me to aid me with assistance; but have always prepared and made my experiments with my own hands, working & thinking at the same time. I do not think I could work in company, or think aloud, or explain my thoughts at the time."
+— Letter to C. Ransteed, 16 Dec 1857
+
+"I require a term to express those bodies which can pass to the electrodes, or, as they are usually called, the poles. Substances are frequently spoken of as being electro-negative, or electro-positive, according as they go under the supposed influence of a direct attraction to the positive or negative pole. But these terms are much too significant for the use to which I should have to put them... I propose to distinguish these bodies by calling those anions which go to the anode of the decomposing body; and those passing to the cathode, cations; and when I have occasion to speak of these together, I shall call them ions."
+— Philosophical Transactions of the Royal Society of London, 1834
+
+"I will simply express my strong belief, that that point of self-education which consists in teaching the mind to resist its desires and inclinations, until they are proved to be right, is the most important of all, not only in things of natural philosophy, but in every department of dally life."
+— 'Observations On Mental Education', lecture before the Prince Consort and the Royal Institution, 6 May 1854
+
+"It is the great beauty of our science that advancement in it, whether in a degree great or small, instead of exhausting the subject of research, opens the doors to further and more abundant knowledge, overflowing with beauty and utility."
+— From 'Experimental Researches in Electricity: Series VII: § 13. On the absolute quantity of Electricity associated with the particles or atoms of Matter', 31 Dec 1833
+
+"Lectures which really teach will never be popular; lectures which are popular will never really teach."
+— (1846)
+
+"Magnetic lines of force convey a far better and purer idea than the phrase magnetic current or magnetic flood: it avoids the assumption of a current or of two currents and also of fluids or a fluid, yet conveys a full and useful pictorial idea to the mind."
+— Diary Entry for 10 Sep 1854
+
+"Nothing is too wonderful to be true if it be consistent with the laws of nature."
+— Laboratory notebook (19 Mar 1850)
+
+"The secret [of my success] is comprised in three words — Work, Finish, Publish."
+— Advice to a young chemist
+
+"The wise man, however, will avoid partial views of things... That which is convenient is that which is useful, and that which is useful is that which is valuable."
+— From 13th Lecture in 1818
+
+"The important thing is to know how to take all things quietly."
+— (widely cited)
+
+"Work, finish, publish."
+— Advice to a young chemist (recalled in obituary by William Crookes)
+
+"Nature is our kindest friend and best critic in experimental science if we only allow her intimations to fall unbiased on our minds."
+— (widely cited)
+
+"The book of nature which we have to read is written by the finger of God."
+— (widely cited)
+
+"But still try, for who knows what is possible?"
+— (widely cited)

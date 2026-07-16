@@ -1,0 +1,64 @@
+{
+  "语言类型": "学术数学语言（阿拉伯语古典学术语体）",
+  "媒介": "纯文字叙述，无符号系统（全部用文字描述数学概念和运算）",
+  "核心特征": "系统性、实用性、逻辑性、精确性",
+
+  "详细分析": {
+    "文白程度": {
+      "评分": 1,
+      "说明": "花拉子密的代数完全使用古典阿拉伯学术语言，典雅规范，无口语或白话成分。他的文字风格与当时智慧宫学者的标准学术写作一致。",
+      "佐证": "When I consider what people generally want in calculating, I found that it always is a number. I also observed that every number is composed of units, and that any number may be divided into units."
+    },
+    "雅俗程度": {
+      "评分": 2,
+      "说明": "虽然花拉子密的代数是学术性著作，但他明确表示目的是解决人们的日常实际问题（遗产分配、贸易、土地测量等），语言既保持学术严谨性，又具有实用导向，并非纯理论性的高雅学术写作。",
+      "佐证": "... what is easiest and most useful in arithmetic, such as men constantly require in cases of inheritance, legacies, partition, lawsuits, and trade..."
+    },
+    "骈散分布": {
+      "骈偶%": 20,
+      "散行%": 80,
+      "说明": "花拉子密的代数以散文叙述为主，偶尔使用对仗性表达。他的语言风格是逻辑性强的散体陈述，骈偶句主要用于强调重要概念或运算定义。",
+      "佐证": "Al-jabr means completion and is the process of removing negative terms from an equation. Al-muqabala means balancing and is the process of reducing positive terms of the same power when they occur on both sides of an equation."
+    },
+    "句长偏好": {
+      "短句(≤7字)%": 10,
+      "中句(8-15字)%": 60,
+      "长句(≥16字)%": 30,
+      "说明": "花拉子密的文字以中等长度句为主，擅长用复合句描述数学过程和论证。短句主要用于定义和简短声明，长句用于详细解释和举例。",
+      "佐证": "短句：'A square and 10 roots are equal to 39 units.' / 中句：'Therefore take 5, which multiplied by itself gives 25, an amount which you add to 39 giving 64.' / 长句：'The manner of solving this type of equation is to take one-half of the roots just mentioned. Now the roots in the problem before us are 10.'"
+    },
+    "语气": {
+      "主要": ["精确", "实用", "系统", "冷静"],
+      "次要": ["教学性", "逻辑性"],
+      "说明": "花拉子密的文字语气是冷静、精确、逻辑性强的教学语言。他不追求文学性修饰，而是专注于清晰传达数学知识。这种语气反映了他作为教师的角色和对实用性的追求。"
+    },
+    "修辞手法": {
+      "主要修辞": ["定义", "举例", "逻辑演绎", "类比"],
+      "说明": "花拉子密的文字主要使用定义性修辞（明确数学术语的含义）、举例性修辞（用具体数值说明运算步骤）和逻辑演绎（从已知推导未知）。他不使用隐喻、象征等文学修辞，而是以直接的数学语言进行叙述。",
+      "佐证": "He first reduces an equation (linear or quadratic) to one of six standard forms: [列举六种形式]"
+    },
+    "负面特征": {
+      "回避的表达": "花拉子密几乎不使用文学性修辞（隐喻、拟人、夸张等），不使用感叹性语气词，不表达个人情感或主观评价。",
+      "接近不存在": "花拉子密的文字中没有自嘲、讽刺、戏谑等表达。他的文字是纯粹的教学性和说明性文字，完全服务于数学知识的传递。"
+    },
+    "节奏韵律": {
+      "听觉感受": "平稳、均匀、像数学公式一样有节奏感",
+      "句读特点": "逗号和句号使用均匀，每个句子专注于一个完整的数学步骤或概念说明。段落结构清晰，从定义到举例到运算步骤，层层递进。",
+      "诵读感": "适合大声朗读来理解数学过程，但缺乏文学作品的韵律美，是一种功能性诵读感。"
+    },
+    "同时代独特性": {
+      "对比对象": "与丢番图（Diophantus）的抽象数论风格相比",
+      "最大特色": "花拉子密的代数是实用导向的、文字叙述的系统性方法，而非抽象符号系统。他解方程既有算术步骤又有几何证明，显示了阿拉伯数学融合希腊几何与印度代数的独特路径。",
+      "风格比喻": "花拉子密的数学语言风格像一位精于计算的家庭账房先生——精确、有条不紊、追求实用、绝不多余。"
+    }
+  },
+
+  "数学语言特有特征": {
+    "符号使用": "完全无符号，所有数学概念全部用文字描述（'根'代替x，'平方'代替x²，'单位'代替数字）",
+    "运算描述方式": "使用'al-jabr'（补全）和'al-muqābala'（平衡）等特定术语描述标准运算方法",
+    "证明方法": "既用算术步骤证明，也用几何图形辅助说明，体现了伊斯兰数学兼容并蓄的特点",
+    "语言精确性": "每个数学术语都有明确定义，不存在歧义性表达"
+  },
+
+  "总体评估": "花拉子密的语言风格是典型的古典阿拉伯学术语言服务于数学传播的产物：精确、实用、系统、有条理。他不追求文学修饰，而是以最清晰、最容易理解的方式将代数知识传授给读者。这种语言风格是他成功将数学从精英学问转变为社会实用工具的重要因素。"
+}

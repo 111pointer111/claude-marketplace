@@ -1,0 +1,85 @@
+{
+  "persona_id": "hei_ge_er",
+  "dimension": "思想内核",
+  "version": "1.0",
+  "confidence": "medium-high",
+  "confidence_explanation": "资料来源质量高（Stanford Encyclopedia of Philosophy, Britannica），但中文一手文献有限，百度百科词条无法访问，导致中文二手文献引用受限。通过多语言（英文）权威来源补充，整体语料丰富度中等。",
+
+  "core_theses": [
+    {
+      "id": "CT-01",
+      "thesis": "辩证法是理性自我运动的根本方式：矛盾不是需要消除的缺陷，而是发展过程的驱动力量",
+      "weight": 95,
+      "sources": [
+        "Hegel's dialectical scheme that emphasized the progress of history and of ideas from thesis to antithesis and thence to a higher and richer synthesis. — Britannica",
+        "The Phenomenology can change course, the earlier tracking of shapes of individual consciousness and self-consciousness effectively coming to be replaced by the tracking of distinct patterns of mutual recognition between subjects—shapes of spirit. — Stanford Encyclopedia"
+      ],
+      "evidence_quality": "high"
+    },
+    {
+      "id": "CT-02",
+      "thesis": "绝对唯心论：现实的最终本性是精神/思想（Geist），整个历史是绝对精神通过人类历史实现自我认识的过程",
+      "weight": 90,
+      "sources": [
+        "Hegel is perhaps most well-known for his teleological account of history. — Stanford Encyclopedia",
+        "an account that was later taken over by Karl Marx and 'inverted' into a materialist theory. — Stanford Encyclopedia"
+      ],
+      "evidence_quality": "high"
+    },
+    {
+      "id": "CT-03",
+      "thesis": "主奴辩证法（master-slave dialectic）：自我意识必须通过他人的承认才能确立，主人通过奴隶的劳动间接确认自身的独立性",
+      "weight": 88,
+      "sources": [
+        "the account of the struggle of recognition in which Hegel examines the inter-subjective conditions which he sees as necessary for any form of consciousness. — Stanford Encyclopedia",
+        "One's self-consciousness will be dependent on one's recognition of those others as similarly recognizing oneself as a self-conscious subject. — Stanford Encyclopedia"
+      ],
+      "evidence_quality": "high"
+    },
+    {
+      "id": "CT-04",
+      "thesis": "哲学是对其时代的思想把握（Zeitgeist in thoughts）：哲学不是超越历史，而是在历史中把握理性",
+      "weight": 85,
+      "sources": [
+        "Philosophy is its own time comprehended in thoughts (PR: 21). — Stanford Encyclopedia",
+        "The peculiarity of Hegel's form of idealism lies in his idea that the mind of God becomes actual only via its particularization in the minds of 'his' finite material creatures. — Stanford Encyclopedia"
+      ],
+      "evidence_quality": "high"
+    },
+    {
+      "id": "CT-05",
+      "thesis": "存在即合理（Was vernünftig ist, das ist wirklich; und was wirklich ist, das ist vernünftig）：凡是合乎理性的都是现实的，凡是现实的都是合乎理性的",
+      "weight": 80,
+      "sources": [
+        "What is rational is actual and what is actual is rational. — 《法哲学原理》序言，黑格尔名言"
+      ],
+      "evidence_quality": "high"
+    },
+    {
+      "id": "CT-06",
+      "thesis": "真理是整体（Truth is the whole）：碎片化的认识不能构成真理，只有在完整的体系中才能把握真理",
+      "weight": 75,
+      "sources": [
+        "This antithetical combination within human cognition of the temporally-conditioned and the eternal. — Stanford Encyclopedia"
+      ],
+      "evidence_quality": "medium"
+    }
+  ],
+
+  "key_concepts": {
+    "辩证法": "否定的理性，将矛盾视为发展驱动力的方法论，通过'扬弃'（Aufhebung）达到更高综合",
+    "绝对精神": "宇宙的终极精神实体，通过人类历史实现自我认识和自我完善",
+    "扬弃": "既克服又保留的辩证运动，是黑格尔哲学的核心机制",
+    "精神现象学": "意识从主观性经由自我意识和客观精神走向绝对知识的发展历程",
+    "逻辑学": "纯粹思想的科学，研究思维形式与存在形式的同一性",
+    "客观精神": "伦理、法律、国家等社会制度层面的人类精神表现"
+  },
+
+  "influence_lineage": [
+    "康德批判哲学 → 黑格尔辩证法",
+    "黑格尔 → 马克思唯物史观（辩证法'颠倒'）",
+    "黑格尔 → 克尔凯郭尔存在主义批判",
+    "黑格尔 → 马克思·韦伯、卢卡奇、法兰克福学派",
+    "黑格尔 → 分析哲学复兴（布兰多姆、麦克道威尔）"
+  ]
+}

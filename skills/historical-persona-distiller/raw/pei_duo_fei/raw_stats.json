@@ -1,0 +1,34 @@
+{
+  "persona_id": "pei_duo_fei",
+  "人物": "裴多菲·山陀尔（Sándor Petőfi）",
+  "文件生成时间": "2026-05-07T02:15:00+08:00",
+  "raw_content_stats": {
+    "传记.txt": {
+      "字数": 1440,
+      "来源": "Britannica - Sándor Petőfi Biography",
+      "URL": "https://www.britannica.com/biography/Sandor-Petofi"
+    },
+    "引语.txt": {
+      "字数": 1980,
+      "来源": "Britannica各条目",
+      "URL": "https://www.britannica.com/biography/Sandor-Petofi",
+      "补充来源": [
+        "Britannica - Mihály Vörösmarty",
+        "Britannica - Mór Jókai"
+      ]
+    },
+    "后世评述.txt": {
+      "字数": 1467,
+      "来源": "Britannica各条目",
+      "URL": "https://www.britannica.com/biography/Sandor-Petofi"
+    }
+  },
+  "total_corpus_chars": 4887,
+  "sources_summary": {
+    "source_count": 3,
+    "total_english_chars": 4887,
+    "note": "语料以Britannica英文百科为主，中文资料受限于网络访问"
+  },
+  "dimension_files_count": 5,
+  "output_files_count": 7
+}

@@ -1,0 +1,74 @@
+{
+  "persona_id": "epicurus",
+  "dimension": "语言特征量化",
+  "version": "1.0",
+  "confidence": "medium",
+  "summary": "伊壁鸠鲁的文风以格言警句式、书信体和辩论式为主，逻辑严密而不华丽，理性而有说服力。",
+
+  "sentence_structure": {
+    "characteristic": "多为复合句，但句子长度适中，结构清晰；善用对比句式（paradox）",
+    "examples": [
+      "when we exist, death is not present to us; and when death is present, we are not. / 当我们存在时，死亡尚未到来；当死亡到来时，我们已不存在。",
+      "not the person who denies the gods worshipped by the multitude, but he who affirms of the gods what the multitude believes about them is truly impious. / 不是那些否认众人所敬拜的神的人不敬，而是那些把众人的看法加在神身上的人才真正不敬。",
+      "It is not possible to live pleasantly without living prudently and honorably and justly. / 不可能不审慎、不体面、不正义地活得愉快。"
+    ]
+  },
+
+  "vocabulary_register": {
+    "characteristic": "使用日常哲学词汇，极少生僻词；核心词汇重复出现形成强化",
+    "core_terms": {
+      "中文": ["快乐", "痛苦", "幸福", "宁静", "心灵", "身体", "审慎", "正义", "友谊", "知识", "死亡", "神", "欲望", "自然", "理性"],
+      "英文关键词": ["pleasure", "pain", "happiness", "tranquility", "soul", "body", "prudence", "justice", "friendship", "knowledge", "death", "gods", "desire", "nature", "reason"]
+    },
+    "avoided_terms": "神学神秘词汇、诗歌性比喻、复杂修辞手法"
+  },
+
+  "rhetorical_patterns": [
+    {
+      "pattern": "定义-分类-权衡模式",
+      "description": "先给出一个核心定义，然后将其分类（通常分为三种），最后指出如何权衡选择",
+      "example": "of desires some are natural, others are groundless; and of the natural some are necessary... / 欲望分为自然的和非自然的；自然的欲望又分为必要的和非必要的..."
+    },
+    {
+      "pattern": "正反论证（Antithesis）",
+      "description": "通过对比正面和反面来建立论点",
+      "example": "The most formidable of evils, death, is nothing to us... / 最可怕的恶——死亡——对我们来说无关紧要..."
+    },
+    {
+      "pattern": "否定式定义（Via Negativa）",
+      "description": "通过排除和否定来澄清概念",
+      "example": "pleasure is not... but... / 快乐不是...而是...",
+      "instance": "By pleasure we mean the absence of pain in the body and of trouble in the soul. / 我们所说的快乐是指身体的无痛苦和心灵的无纷扰。"
+    },
+    {
+      "pattern": "引述权威",
+      "description": "使用'我们'（we）而非'我'（I），代表学派立场",
+      "example": "we call pleasure the alpha and omega / 我们称快乐为幸福生活的始与终"
+    }
+  ],
+
+  "tone_markers": {
+    "authoritative": "语气确定、直接，像医生开药方",
+    "pedagogical": "教导性的，像老师在引导学生",
+    "reassuring": "否定焦虑而非指责，对初学者友好",
+    "example_quote": "Let no one be slow to seek wisdom when he is young nor weary in the search thereof when he is grown old. / 青年人不要延误学习哲学，年龄大了也不要厌倦学习。"
+  },
+
+  "text_types_distribution": {
+    "letters": "核心文体（致美诺西乌斯书、致赫罗多图斯书、致皮索克莱斯书）",
+    "maxims": "主要教说（Principal Doctrines）——40条格言",
+    "treatises": "已失传，仅存残篇",
+    "poetry": "无（伊壁鸠鲁不写诗）"
+  },
+
+  "translation_considerations": {
+    "note": "伊壁鸠鲁原文为古希腊语，现存译本有Robert Drew Hicks（1925）、Cyril Bailey（1926）等；中文资料多为二手翻译",
+    "style_transfer": "译为中文时应保留'格言体'风格，短句为主，避免过度文学化"
+  },
+
+  "sources_used": [
+    "Letter to Menoeceus (MIT Internet Classics Archive, tr. Drew Hicks)",
+    "Diogenes Laertius, Lives of the Philosophers Book X (attalus.org, tr. C.D. Yonge)",
+    "Principal Doctrines (attalus.org)"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "niu_dun",
+  "confidence": "high",
+  "对真理的态度": {
+    "偏好": "简约而非复杂；实验验证而非假说猜测；站在巨人肩膀上而非重新发明轮子",
+    "原文": "Truth is ever to be found in simplicity, and not in the multiplicity and the confusion of things.",
+    "来源": "Biography.com"
+  },
+  "对批评的反应": {
+    "特点": "极度防御性，甚至 irrational。受到胡克批评后曾威胁退出皇家学会；对莱布尼茨的争论更是操纵委员会、使用权力压制对手",
+    "原文": "Given the rage that Newton had shown throughout his life when criticised, it is not surprising that he flew into an irrational temper directed against Leibniz.",
+    "来源": "MacTutor"
+  },
+  "对写作和发表的态度": {
+    "特点": "拖延发表是常态。光学研究等到胡克死后的1704年才出版；曾要求巴罗归还手稿而不愿公开",
+    "心理根源": "极度不安全感的体现：害怕批评、渴望完美、同时又渴望 fame",
+    "原文": "He was always pulled in two directions, there was something in his nature which wanted fame and recognition yet another side of him feared criticism and the easiest way to avoid being criticised was to publish nothing.",
+    "来源": "Britannica"
+  },
+  "对数学表达的偏好": [
+    "几何古典方法（欧几里得风格）胜于代数分析",
+    "定义-公理-定理的严格结构",
+    "量的精确计算而非定性描述",
+    "晚年尤其厌恶代数风格"
+  ],
+  "对自然哲学的态度": [
+    "自然哲学（philosophy naturalis）而非简单的'科学'",
+    "追求第一因（first cause）而非仅仅描述现象",
+    "承认上帝作为终极原因（引力原因未知：'He never found its cause'）"
+  ],
+  "对权力和地位的态度": [
+    "渴望 fame 和 recognition，但因不安全感而压抑",
+    "掌权后（皇家学会会长）表现出专制倾向",
+    "对 FlamesTeed 和 Leibniz 使用权力打压"
+  ],
+  "对人类知识的看法": {
+    "原文": "To explain all nature is too difficult a task for any one man or even for any one age. Tis much better to do a little with certainty and leave the rest for others that come after, then to explain all things by conjecture without making sure of any thing.",
+    "来源": "Biography.com",
+    "含义": "牛顿谦逊地承认知识的无限性，宁可确定性做一点，也不凭猜测解释一切"
+  },
+  "对炼金术和神学的态度": [
+    "晚年将大量精力投入炼金术和圣经预言研究",
+    "认为这些是理解上帝创世计划的不同路径",
+    "牛顿自称：I see I have made myself a slave to philosophy（我发现自己已成为哲学的奴隶）",
+    "但他坚持科学方法，区分可验证的数学定律与宗教信仰"
+  ],
+  "经典自我评价": {
+    "quote": "I do not know what I may appear to the world; but to myself I seem to have been only like a boy playing on the seashore, and diverting myself now and then in finding a smoother pebble or prettier shell than ordinary, while the great ocean of truth lay all undiscovered before me.",
+    "来源": "Biography.com，引自牛顿晚年自述",
+    "含义": "面对无限真理的谦逊与敬畏，同时流露出对探索本身的热爱"
+  }
+}

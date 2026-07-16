@@ -1,0 +1,46 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "li_bing",
+  "persona_name": "李冰",
+  "confidence": "medium",
+
+  "communication_style": {
+    "primary_mode": "行动型",
+    "secondary_mode": "说理型",
+    "tone": "务实、沉稳、注重实效",
+    "audience_awareness": "面向百姓与后世"
+  },
+
+  "preferences": [
+    {
+      "category": "表达方式",
+      "preference": "以成果说话",
+      "examples": [
+        "蜀沃野千里，天下谓之'天府'",
+        "民享其利，蜀人庙祀焉"
+      ]
+    },
+    {
+      "category": "修辞手法",
+      "preference": "少用比喻，多用直陈",
+      "rationale": "工程技术思维，重实效而非文采"
+    },
+    {
+      "category": "格言形式",
+      "preference": "凝练成诀",
+      "examples": [
+        "六字诀：深淘滩，低作堰",
+        "八字格言：遇弯截角，逢正抽心"
+      ],
+      "note": "将复杂技术原理凝练为易记口诀，便于传承"
+    }
+  ],
+
+  "cultural_references": {
+    "historical_figures": ["大禹（治水传统）"],
+    "classical_texts": ["《华阳国志》《史记·河渠书》"],
+    "mythological_elements": ["江神、水神（斗江神传说）"]
+  },
+
+  "reasoning_notes": "李冰的表达偏好主要体现在治水格言的传承上。其特点为：1）务实性——不尚空谈，以实效为准；2）凝练性——将复杂原理化为易记口诀；3）传承性——注重经验的记录与传递。这些偏好既体现了工程技术思维，也反映了古代官员"为官一任，造福一方"的理念。"
+}

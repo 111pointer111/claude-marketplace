@@ -1,0 +1,89 @@
+# 门捷列夫传记语料
+
+## 来源1: Britannica - Dmitri Mendeleev Biography
+## URL: https://www.britannica.com/biography/Dmitri-Mendeleev
+## 字符数: 约8842字
+
+Dmitri Mendeleev (born January 27 (February 8, New Style), 1834, Tobolsk, [Siberia](https://www.britannica.com/place/Siberia), Russian Empire—died January 20 (February 2), 1907, St. Petersburg, Russia) was a Russian chemist who developed the periodic [classification](https://www.britannica.com/dictionary/classification) of the elements. Mendeleev found that, when all the known [chemical elements](https://www.britannica.com/science/chemical-element) were arranged in order of increasing [atomic weight](https://www.britannica.com/science/atomic-weight), the resulting table displayed a recurring pattern, or periodicity, of properties within groups of elements. In his version of the [periodic table](https://www.britannica.com/science/periodic-table) of 1871, he left gaps in places where he believed unknown elements would find their place. He even predicted the likely properties of three of the potential elements. The subsequent proof of many of his predictions within his lifetime brought fame to Mendeleev as the founder of the [periodic law](https://www.britannica.com/science/periodic-table).
+
+## Early life and education
+Mendeleev was born in the small [Siberian](https://www.britannica.com/place/Siberia) town of [Tobolsk](https://www.britannica.com/place/Tobolsk) as the last of 14 surviving children (or 13, depending on the source) of Ivan Pavlovich Mendeleev, a teacher at the local gymnasium, and Mariya Dmitriyevna Kornileva. Dmitri's father became blind in the year of Dmitri's birth and died in 1847. To support the family, his mother turned to operating a small glass factory owned by her family in a nearby town. The factory burned down in December 1848, and Dmitri's mother took him to [St. Petersburg](https://www.britannica.com/place/St-Petersburg-Russia), where he enrolled in the Main [Pedagogical](https://www.merriam-webster.com/dictionary/Pedagogical) Institute. His mother died soon after, and Mendeleev graduated in 1855. He got his first teaching position at [Simferopol](https://www.britannica.com/place/Simferopol) in [Crimea](https://www.britannica.com/place/Crimea). He stayed there only two months and, after a short time at the lyceum of [Odessa](https://www.britannica.com/place/Odessa-Ukraine), decided to go back to St. Petersburg to continue his education. He received a [master's degree](https://www.britannica.com/topic/master-degree) in 1856 and began to conduct research in [organic chemistry](https://www.britannica.com/science/organic-chemistry). Financed by a government fellowship, he went to study abroad for two years at the [University of Heidelberg](https://www.britannica.com/topic/University-of-Heidelberg). Instead of working closely with the prominent chemists of the university, including [Robert Bunsen](https://www.britannica.com/biography/Robert-Bunsen), Emil Erlenmeyer, and [August Kekulé](https://www.britannica.com/biography/August-Kekule-von-Stradonitz), he set up a laboratory in his own apartment. In September 1860 he attended the International Chemistry Congress in [Karlsruhe](https://www.britannica.com/place/Karlsruhe-Germany), [convened](https://www.merriam-webster.com/dictionary/convened) to discuss such crucial issues as [atomic weights](https://www.britannica.com/science/atomic-weight), [chemical symbols](https://www.britannica.com/science/chemical-symbol), and [chemical formulas](https://www.britannica.com/science/chemical-formula). There he met and established contacts with many of Europe's leading chemists. In later years Mendeleev would especially remember a paper circulated by the Italian chemist [Stanislao Cannizzaro](https://www.britannica.com/biography/Stanislao-Cannizzaro) that clarified the notion of atomic weights. In 1861 Mendeleev returned to St. Petersburg, where he obtained a professorship at the Technological Institute in 1864. After the defense of his doctoral dissertation in 1865 he was appointed professor of chemical technology at the University of St. Petersburg (now [St. Petersburg State University](https://www.britannica.com/topic/Saint-Petersburg-State-University)). He became professor of general chemistry in 1867 and continued to teach there until 1890.
+
+## Formulation of the periodic law
+As he began to teach [inorganic chemistry](https://www.britannica.com/science/inorganic-chemistry), Mendeleev could not find a textbook that met his needs. Since he had already published a textbook on organic chemistry in 1861 that had been awarded the prestigious Demidov Prize, he set out to write another one. The result was Osnovy khimii (1868–71; [The Principles of Chemistry](https://www.britannica.com/topic/The-Principles-of-Chemistry)), which became a classic, running through many editions and many translations. When Mendeleev began to compose the chapter on the [halogen elements](https://www.britannica.com/science/halogen) ([chlorine](https://www.britannica.com/science/chlorine) and its analogs) at the end of the first volume, he compared the properties of this [group](https://www.britannica.com/science/group-periodic-table) of elements to those of the group of [alkali metals](https://www.britannica.com/science/alkali-metal) such as [sodium](https://www.britannica.com/science/sodium). Within these two groups of dissimilar elements, he discovered similarities in the progression of atomic weights, and he wondered if other groups of elements exhibited similar properties. After studying the [alkaline earths](https://www.britannica.com/science/alkaline-earth-metal), Mendeleev established that the order of atomic weights could be used not only to arrange the elements within each group but also to arrange the groups themselves. Thus, in his effort to make sense of the extensive knowledge that already existed of the chemical and physical properties of the chemical elements and their [compounds](https://www.merriam-webster.com/dictionary/compounds), Mendeleev discovered the [periodic law](https://www.britannica.com/science/periodic-table).
+
+His newly formulated law was announced before the Russian Chemical Society on March 6, 1869 with the statement "elements arranged according to the value of their atomic weights present a clear periodicity of properties." Mendeleev's law allowed him to build up a systematic table of all the 70 elements then known. He had such faith in the validity of the periodic law that he proposed changes to the generally accepted [values](https://www.britannica.com/dictionary/values) for the atomic weight of a few elements and predicted the locations within the table of unknown elements together with their properties. At first the periodic system did not raise interest among chemists. However, with the discovery of the predicted elements, notably [gallium](https://www.britannica.com/science/gallium) in 1875, [scandium](https://www.britannica.com/science/scandium) in 1879, and [germanium](https://www.britannica.com/science/germanium) in 1886, it began to win wide acceptance. Gradually the periodic law and table became the framework for a great part of chemical theory. By the time Mendeleev died in 1907, he enjoyed international recognition and had received distinctions and awards from many countries.
+
+##门捷列夫引语
+
+### 引语1: 做梦看到周期表
+"I saw in a dream a table where all elements fell into place as required. Awakening, I immediately wrote it down on a piece of paper, only in one place did a correction later seem necessary."
+— Mendeleev, as quoted by Inostrantzev
+
+### 引语2: 周期律陈述
+"Elements arranged according to the value of their atomic weights present a clear periodicity of properties."
+— 门捷列夫，1869年3月6日向俄罗斯化学学会的报告
+
+### 引语3: 关于元素的系统性
+"The elements which are the most widely diffused have small atomic weights."
+— 门捷列夫，周期律论述
+
+### 引语4: 关于科学预见
+"We must expect the discovery of many yet unknown elements — for example, two elements, analogous to aluminium and silicon, whose atomic weights would be between 65 and 75."
+— 门捷列夫，预测未知元素
+
+### 引语5: 关于科学研究
+"Mendeleev was raised as an Orthodox Christian, his mother encouraging him to 'patiently search divine and scientific truth'."
+— 门捷列夫母亲的教育理念（来源：Wikipedia引用）
+
+### 引语6: 关于水的化合物研究
+门捷列夫1865年的博士论文题目："On the Combinations of Water with Alcohol"（《论水与酒精的化合物》）
+
+### 引语7: 关于元素性质与原子重量
+"The magnitude of the atomic weight determines the character of the element, just as the magnitude of the molecule determines the character of a compound body."
+— 门捷列夫，周期律的核心论述
+
+### 引语8: 关于科学真理的追求
+门捷列夫的母亲鼓励他"耐心寻求神圣和科学的真理"（来源：Wikipedia）
+
+## 后世评述
+
+### 评述1: 门捷列夫的远见
+"His most brilliant achievement was his discovery of the periodic law of the elements. By arranging the elements in order of their atomic weights, Mendeleev created a systematic framework that revealed relationships between elements that had never been apparent before. The fact that he was able to predict the properties of elements that had not yet been discovered demonstrates the power of his insight."
+— 大英百科全书评价
+
+### 评述2: 元素周期表的意义
+"By the time Mendeleev died in 1907, he enjoyed international recognition and had received distinctions and awards from many countries."
+— 大英百科全书
+
+### 评述3: 门捷列夫的研究方法
+"When Mendeleev began to compose the chapter on the halogen elements at the end of the first volume, he compared the properties of this group of elements to those of the group of alkali metals such as sodium. Within these two groups of dissimilar elements, he discovered similarities in the progression of atomic weights."
+— 大英百科全书
+
+### 评述4: 门捷列夫的教育工作
+"He became professor of general chemistry in 1867 and continued to teach there until 1890."
+— 大英百科全书
+
+### 评述5: 门捷列夫的著作《化学原理》
+"Osnovy khimii (The Principles of Chemistry) became a classic, running through many editions and many translations."
+— 大英百科全书
+
+### 评述6: 门捷列夫的国际影响
+"With the discovery of the predicted elements, notably gallium in 1875, scandium in 1879, and germanium in 1886, it began to win wide acceptance. Gradually the periodic law and table became the framework for a great part of chemical theory."
+— 大英百科全书
+
+### 评述7: Wikipedia综合评价
+"Dmitri Ivanovich Mendeleev was a Russian chemist known for formulating the periodic law and creating a version of the periodic table of elements. He used the periodic law not only to correct the then-accepted properties of some known elements, such as the valence and atomic weight of uranium, but also to predict the properties of three elements that were yet to be discovered (germanium, gallium, and scandium)."
+— Wikipedia
+
+### 评述8: Wikipedia - 门捷列夫的信仰
+"Mendeleev was raised as an Orthodox Christian, his mother encouraging him to 'patiently search divine and scientific truth'. His son Ivan would later inform that Mendeleev had departed from the Church and embraced a form of 'romanticized deism'."
+— Wikipedia
+
+### 评述9: Wikipedia - 门捷列夫的早年经历
+"In 1849, his mother took Mendeleev across Russia from Siberia to Moscow with the aim of getting Mendeleev enrolled at the Moscow University. The university in Moscow did not accept him. The mother and son continued to Saint Petersburg to the father's alma mater."
+— Wikipedia
+
+### 评述10: 门捷列夫的妹妹
+"Unfortunately for the family's financial well-being, his father became blind and lost his teaching position. His mother was forced to work and she restarted her family's abandoned glass factory."
+— Wikipedia

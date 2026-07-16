@@ -1,0 +1,64 @@
+{
+  "persona_id": "epicurus",
+  "dimension": "一致性校验",
+  "version": "1.0",
+  "confidence": "high",
+  "summary": "伊壁鸠鲁的思想体系高度一致，核心论点（快乐是最高善、死亡无关紧要、神不干预人间）相互支撑，形成完整闭环。",
+
+  "consistency_checks": [
+    {
+      "check": "快乐作为最高善 → 需要宁静 → 需要消除恐惧（死亡、神、命运）",
+      "result": "PASS",
+      "explanation": "他的伦理学（快乐是目的）、物理学（原子论消解死后忧虑）、神学（神不干预）三者完全一致，共同支撑'心灵宁静'这一核心目标。"
+    },
+    {
+      "check": "感觉主义认识论 → 快乐/痛苦是最终判断标准 → 欲望分类理论",
+      "result": "PASS",
+      "explanation": "认识论（感觉是真理标准）与伦理学（快乐/痛苦是选择依据）通过欲望分类连接：自然必要的欲望 = 感觉告诉我们需要满足的。"
+    },
+    {
+      "check": "原子偏移理论 → 自由意志 → 对命运（necessity）的否定",
+      "result": "PASS",
+      "explanation": "原子偏移（clinamen）赋予物质世界不确定性，与他的名言'有些事源于必然，有些源于机遇，有些源于我们自身'完全一致。"
+    },
+    {
+      "check": "友谊是幸福生活的必需品 → 花园学派本身是友谊的实践",
+      "result": "PASS",
+      "explanation": "理论与实践完全统一：花园学派就是伊壁鸠鲁哲学的具体化——一个由友谊和共享快乐组成的共同体。"
+    },
+    {
+      "check": "简朴生活 → 最容易获得 → 自然欲望容易满足",
+      "result": "PASS",
+      "explanation": "'简朴带来幸福'不是禁欲主义，而是基于'自然欲望容易满足'这一事实论证的结论，逻辑自洽。"
+    }
+  ],
+
+  "internal_contradictions_identified": [
+    {
+      "issue": "友谊的工具化",
+      "description": "Diogenes Laertius记载伊壁鸠鲁说'友谊产生于需要'（Friendship arises from one's wants），但同时他又说友谊本身是目的（Friendship is the greatest good）。这两种说法在表述上有张力。",
+      "resolution": "从伊壁鸠鲁的整体哲学来看，友谊既是手段也是目的——它带来安全感和快乐，同时友谊本身就是幸福的组成部分。两者并不矛盾。"
+    },
+    {
+      "issue": "隐居 vs. 教学",
+      "description": "伊壁鸠鲁主张'隐居'（seclusion）以避免政治烦扰，但他又积极建立学校、招收弟子、写大量书信。这是否矛盾？",
+      "resolution": "他的隐居主张针对的是公共政治生活（避免卷入政治权力斗争），而非哲学教学。花园是他的私人空间，是友谊的共同体，不是公共舞台。"
+    }
+  ],
+
+  "confidence_assessment": {
+    "overall": "high",
+    "reasoning": "伊壁鸠鲁的著作保存相对完整（相比许多古代哲学家），有多种可靠的古代来源（Diogenes Laertius、Lucretius、西塞罗等），他的核心思想在不同文本中保持一致。书信体的直接性和格言体的凝练使他的观点容易辨识和引用。",
+    "main_uncertainties": [
+      "他的300多部著作绝大多数已失传，我们只能通过二手来源了解他的部分思想",
+      "不同译者对同一文本的翻译存在差异（如Robert Drew Hicks vs. Cyril Bailey），这可能影响对细微语义的理解"
+    ]
+  },
+
+  "sources_used": [
+    "Letter to Menoeceus (MIT Internet Classics Archive, tr. Drew Hicks)",
+    "Diogenes Laertius, Lives of the Philosophers Book X (attalus.org, tr. C.D. Yonge)",
+    "Principal Doctrines (attalus.org)",
+    "Stanford Encyclopedia of Philosophy - Epicurus"
+  ]
+}

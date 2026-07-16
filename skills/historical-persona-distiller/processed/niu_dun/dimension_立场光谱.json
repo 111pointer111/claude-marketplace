@@ -1,0 +1,36 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "niu_dun",
+  "confidence": "high",
+  "政治立场": {
+    "评分": -2,
+    "说明": "强烈的新教清教徒，反对天主教在英国的渗透。在 James II 国王试图将天主教引入剑桥大学时挺身而出，当选为剑桥在议会的代表。信仰虔诚但不接受正统三位一体教义。"
+  },
+  "宗教立场": {
+    "评分": "复杂（异见者）",
+    "说明": "强烈反对三位一体正统（Arianism，即阿里乌斯主义）。但同时虔诚地尊崇圣经，接受其创世记载。认为基督教在第4世纪尼西亚公会议时偏离正道。",
+    "引语": "The full extent of Newton's unorthodoxy was recognized only in the present century: but although a critic of accepted Trinitarian dogmas and the Council of Nicaea, he possessed a deep religious sense, venerated the Bible and accepted its account of creation.",
+    "来源": "Newton Institute"
+  },
+  "科学vs宗教": {
+    "评分": "在两者间保持张力",
+    "说明": "牛顿的科学工作与宗教信仰并不冲突——他相信上帝以数学法则创世，科学是揭示上帝设计的工作。但晚年从科学转向炼金术和神学，显示两者在他思想中的复杂关系。"
+  },
+  "方法论立场": {
+    "传统 vs 现代": -2,
+    "激进 vs 保守": 1,
+    "说明": "在科学方法论上极度现代（实验+数学）；在数学表达上极度保守（偏好古典几何，厌恶代数）。政治上支持新教改革。"
+  },
+  "对权威的态度": {
+    "评分": "矛盾",
+    "说明": "尊重Aristotle、Plato等古典权威（但不盲从——'Plato is my friend, Aristotle is my friend, but my best friend is truth'）；同时在掌权后对学术对手（Leibniz, Flamsteed）滥用权威。"
+  },
+  "精英 vs 大众": {
+    "评分": -2,
+    "说明": "极度精英主义。牛顿的《原理》和《光学》都是面向极少数受过高等数学教育的学者。他不追求大众读者，而是追求完美的同行认可。"
+  },
+  "道德 vs 功利": {
+    "评分": 0,
+    "说明": "牛顿本人是一个道德上有争议的人物——他可以为了保护自己的科学声誉而操纵皇家学会委员会，压制对手。这与他所描绘的宇宙的和谐形成鲜明对比。"
+  }
+}

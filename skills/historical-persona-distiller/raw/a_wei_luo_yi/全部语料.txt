@@ -1,0 +1,215 @@
+# 阿威罗伊 (Averroes / Ibn Rushd) — 原始语料
+
+## 基本信息
+- 全名：Abū al-Walīd Muḥammad ibn Aḥmad ibn Muḥammad ibn Rushd
+- 生卒：1126年4月14日—1198年12月10日
+- 出生地：科尔多瓦（Córdoba），西班牙（当时为Almohad帝国）
+- 逝世地：马拉喀什（Marakesh），摩洛哥
+- 身份：安达卢斯哲学家、法学家、医生、数学家
+- 拉丁名：Averroes
+
+## 家庭背景
+- 出身于马利克法学派著名法学家家族
+- 祖父Abū al-Walīd Muḥammad（1126年逝世）曾任科尔多瓦首席法官（Almoravid时期）
+- 父亲Abū al-Qasim Ahmad也担任同样职位，直到Almohad王朝取代Almoravid（1146年）
+
+## 教育背景
+- 学习内容：圣训（Hadith）、语言学、法学（fiqh）、经院神学（kalām）
+- 医学教育：师从Abu Jafar ibn Harun of Trujillo
+- 受哲学家Ibn Bājja（Avempace）影响，可能曾受其指导
+- 与Ibn Tufayl（Abubacer）为友
+
+## 职业生涯
+- 1153-1169年间：结识Ibn Tufayl，引入Almohad哈里发Abū Yaʿqūb Yūsuf
+- 1169年：受哈里发委托，对亚里士多德著作进行注释
+- 1160年：任塞维利亚法官（Qadi）
+- 约1162年：任科尔多瓦首席法官
+- 1182年：接替Ibn Tufayl成为哈里发Abū Yaʿqūb Yūsuf的御医
+- 1184年：继续担任哈里发Abū Yūsuf Yaʿqūb的御医
+
+## 晚年
+- 1195年：在宗教激进派压力下被放逐到Lucena
+- 1197年：召回科尔多瓦
+- 1198年：在马拉喀什逝世
+
+## 主要著作
+
+### 哲学著作
+1. **Faṣl al-Maqāl（决定性论文/信仰与理性）** — 论证哲学与伊斯兰教法一致性的经典论文
+2. **Tahāfut al-Tahāfut（哲学的悖论/反对Ghazali）** — 为哲学辩护，反驳al-Ghazali的《哲学家的悖论》
+3. **al-Kashf 'an manāhij al-adilla（揭示宗教教义的方法）** — 对Ashari、Mutazilite、Sufi和"literalist"神学家的批评
+
+### 医学著作
+4. **Kitab al-Kulyat fi al-Tibb（医学总论/Colliget）** — 医学百科全书，欧洲使用了数百年
+
+### 亚里士多德注疏（三类）
+- 短注释（jawāmiʿ/epitome）：职业生涯早期
+- 中注释（talkhīṣ/paraphrase）：贯穿职业生涯
+- 长注释（sharḥ/tafsīr/literal commentary）：晚年
+
+### 注疏范围
+覆盖亚里士多德《工具论》《论灵魂》《物理学》《形而上学》《动物部分论》《小自然》《修辞学》《诗学》《尼各马可伦理学》等；另有柏拉图《理想国》、Galen著作、Avicenna逻辑学等。
+
+## 核心哲学立场
+
+### 关于哲学与宗教的关系
+- 伊斯兰教法命令研究哲学（引用《古兰经》3:191等）
+- 三种认识真理的方式：证明性（哲学家）、辩证性（神学家）、修辞性（大众）
+- 表面冲突的经文应做隐喻性解释
+- 哲学真理不能与启示矛盾——如表面矛盾，必然只是表面矛盾
+
+### 对al-Ghazali的回应
+- al-Ghazali在《哲学家的悖论》中攻击Avicenna和al-Farabi
+- Ibn Rushd反驳：因果关系是事物本质属性，非习惯性联想
+- 拒绝"偶因论"（occasionalism）：火不是"碰巧"在特定条件下燃烧，而是本质必然
+
+### 形而上学
+- 追随亚里士多德：世界永恒存在，非从虚无创造
+- 第一因（Prime Mover）通过被追求而推动天体运转（目的因而非动力因）
+- 区分essential ordered causal series（必须有第一因）和accidental series（可以无限）
+- 天体是永恒的、不可腐败的，由独立理智（separate intellects）推动
+
+### 心理学/灵魂论
+- 灵魂分五层：营养的、感觉的、想象的、欲望的、理性的
+- 物质理智（material intellect）是单一、永恒、非物质的实体
+- 能动理智（agent intellect）照亮想象内容使其普遍化
+- 人类通过物质理智思考，但它与个体想象能力连接
+
+### 上帝知识论
+- 上帝作为第一因知道特殊事物，因其永远已经知道将要发生的事
+- 上帝知识不同于人类知识——不是从结果推导原因，而是作为原因本身
+- 时间只在物理宇宙中存在
+
+## 历史影响
+
+### 在伊斯兰世界
+- 其辩护未能恢复哲学的昔日地位
+- 安达卢斯和北非的哲学氛围对其不利
+
+### 在基督教西方
+- 12世纪起，通过拉丁翻译，亚里士多德作品得以在西欧复兴
+- 巴黎大学"阿威罗伊主义者"（Siger of Brabant等）引发争议
+- 托马斯·阿奎那既受其影响又批评其错误
+- 但丁在《神曲》中将其置于炼狱
+
+### 在犹太思想界
+- 通过希伯来语翻译影响Maimonides、Moses Narboni、Abraham ibn Ezra等
+
+## 著名引语
+- "研究哲学是宗教命令" — Fasl al-Maqāl
+- "火当木头靠近时燃烧不是习惯，而是本质" — Tahāfut al-Tahāfut
+- "哲学与宗教在真理上不可能冲突" — Fasl al-Maqāl# 阿威罗伊 (Ibn Rushd / Averroes) — 关键引语
+
+## 哲学与宗教关系
+
+### "哲学研究是宗教命令"
+"Law commands the study of philosophy... Many Quranic verses, such as 'Reflect, you have a vision' (59.2) and 'they give thought to the creation of heaven and earth' (3:191), command human intellectual reflection upon God and his creation."
+
+— Fasl al-Maqāl (Decisive Treatise), trans. Butterworth
+
+"Since, therefore, such obligation exists in religion, then a person who has the capacity of 'natural intelligence' and 'religious integrity' must begin to study philosophy."
+
+— Fasl al-Maqāl
+
+### 真理的层次
+"The Law speaks of three ways for humans to discover truth: the demonstrative, the dialectical and the rhetorical. These, for Ibn Rushd, divide humanity into philosophers, theologians and the common masses."
+
+— Fasl al-Maqāl (Decisive Treatise)
+
+### 哲学与宗教不可能真正冲突
+"Any conflict between scripture (the Qur'an) and demonstrative truth is only apparent, due to an incomplete understanding. If there is a disagreement between scripture and demonstrative truth, an allegorical interpretation of the scripture should be used."
+
+— Fasl al-Maqāl
+
+"Demonstrative truth cannot conflict with scripture, since Islam is ultimate truth and the nature of philosophy is the search for truth."
+
+— Fasl al-Maqāl
+
+### 经文隐喻解释
+"Many scriptures had an apparent meaning and a hidden, inner meaning which should only be taught to educated people."
+
+— Fasl al-Maqāl
+
+## 对al-Ghazali的反驳
+
+### 因果关系不是习惯
+"Things have essences and attributes that determine the special functions of each thing and through which the essences and names of things are differentiated. If a thing did not have its specific nature, it would not have a special name nor a definition, and all things would be one."
+
+— Tahāfut al-Tahāfut (Incoherence of the Incoherence), II.1
+
+"When a man moves a stone by leaning against it and pushing it, he does not push it, but it is the Agent who creates the motion."
+— al-Ghazali's position, cited in Ibn Rushd's Tahāfut al-Tahāfut
+
+"Fire burns when a spark is placed near wood... not from habit but from the nature of fire."
+
+— Tahāfut al-Tahāfut
+
+### 上帝不创造奇迹需要因果
+"Ghazzali... offered a number of lengthy proofs to challenge the philosopher's assertions... [Ibn Rushd replies that] the eternal works differently than the temporal. As humans, we can willfully decide to perform some action and then wait a period of time before completing it. For God, on the other hand, there can be no gap between decision and action."
+
+— Tahāfut al-Tahāfut
+
+## 形而上学
+
+### 宇宙永恒
+"Since it is itself unmoved—that is, wholly changeless—its causal agency must likewise be eternal. 'A thing lacking the potential for change and alteration cannot be changed at any time, since if it were then its alteration would be by cause of itself, and so there would be alteration without the possibility for it.'"
+
+— Long Commentary on De Caelo I.103
+
+"'The effect of a cause cannot be delayed after the causation.'"
+
+— Tahāfut al-Tahāfut I.1
+
+### 第一因
+"There is a moved thing that is first by nature, which moves the whole, and which terminates every movement whose mover is external…. The mover of this [first] moved thing is, of itself, not a body and is absolutely and essentially unmoved."
+
+— Epitome of Physics 8.242
+
+"The spheres move eternally in majestic circles simply because it befits their lofty existence to do so."
+
+— Epitome of Metaphysics 4.152
+
+## 心理学/灵魂论
+
+### 物质理智
+"this claim came to me after long reflection and intense care, and I have not seen it in anyone else before me"
+
+— Commentator on Alexander, p.30; on material intellect being single and eternal
+
+"The material intellect is analogous to prime matter, in that it is pure potentiality able to receive universal forms."
+
+— Long Commentary on De Anima III
+
+### 认知过程
+"The soul never thinks without an image."
+
+— Aristotle, De anima 431a17, cited in Ibn Rushd's commentaries
+
+## 上帝知识
+
+### 上帝知道特殊事物
+"God knows particulars because he is the cause of such things... God, being the cause of the universe, has knowledge based on being its cause; while humans have knowledge based on the effects of such causes."
+
+— Fasl al-Maqāl / Decisive Treatise
+
+"The divine mind's 'thinking its own self is identical with its thinking all existence.'"
+
+— Tahāfut al-Tahāfut I.11
+
+"The First Form thinks of nothing outside itself."
+
+— Long Commentary on De Anima III.5
+
+## 辩证法
+
+### 辩证法是共同体事业
+"The communal enterprise can be achieved in its utmost perfection only by both partners. They can have something in common when their aim is the assessment and the deduction of the truth, or the realization of their training... If their aim is to struggle against and defeat the other, then they will have nothing in common…. This is not the method of dialectic."
+
+— Paraphrase of Topics 8.132D
+
+## 法理学
+
+### 法律推理不是严格三段论
+"every science has its own characteristics; therefore, anyone who tried to study logic while studying jurisprudence would fail at studying both."
+
+— Abridgement of Logic, p.123

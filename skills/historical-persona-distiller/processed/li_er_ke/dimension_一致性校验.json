@@ -1,0 +1,68 @@
+{
+  "persona_id": "li_er_ke",
+  "dimension": "一致性校验",
+  "version": "1.0",
+  "confidence_overall": "high",
+  "consistency_checks": [
+    {
+      "dimension": "思想内核",
+      "check": "存在之谜与死亡的接受",
+      "consistent_across_stages": true,
+      "evidence_chain": [
+        "早期（1894-1896）：第一本诗集已有孤独与脆弱主题——百度百科",
+        "中期（1905-1914）：布里格笔记中'Only a step, and my deepest misery could turn into bliss'——Britannica",
+        "晚期（1922-1926）：杜伊诺哀歌以存在边界为主题——Britannica",
+        "墓碑铭文：'Rose, o pure contradiction'——rilkepoetry.com"
+      ],
+      "confidence_delta": "稳定"
+    },
+    {
+      "dimension": "语言特征",
+      "check": "从浪漫主义到雕塑精确性的演变",
+      "consistent_across_stages": true,
+      "evidence_chain": [
+        "早期：浪漫主义抒情传统——Britannica",
+        "中期：新诗派'事物诗'Ding-Gedicht——Britannica",
+        "晚期：启示录式庄严——Britannica",
+        "演变有清晰脉络，无矛盾"
+      ],
+      "confidence_delta": "高置信度"
+    },
+    {
+      "dimension": "上帝观",
+      "check": "内在宇宙性上帝 vs. 基督教会的批判",
+      "consistent_across_stages": true,
+      "evidence_chain": [
+        "《祈祷书》（1905）：上帝是生命内在化神——Britannica",
+        "百度百科：'将基督教的上帝和众神分离开来'",
+        "Rilke Archive：'venomous about organized religion'，但充满天使意象",
+        "晚期哀歌：继续内在性神学路径"
+      ],
+      "confidence_delta": "高置信度"
+    },
+    {
+      "dimension": "孤独观",
+      "check": "孤独作为创造性前提",
+      "consistent_across_stages": true,
+      "evidence_chain": [
+        "布里格笔记中的巴黎孤独——Britannica",
+        "《给青年诗人的信》——百度百科作品列表",
+        "Rilke Archive评述：'lonely unloving homeless boy'——rilkepoetry.com"
+      ],
+      "confidence_delta": "高置信度"
+    }
+  ],
+  "confidence_rating": "high",
+  "confidence_rationale": "里尔克的思想在各阶段保持高度一致性，对死亡、孤独、上帝、艺术的看法形成连贯的整体。所有来源（Britannica、百度百科、诗歌基金会档案）提供一致证据。",
+  "potential_contradictions": [
+    {
+      "issue": "脆弱敏感的外在形象 vs. 十年坚持完成杜伊诺哀歌的韧性",
+      "resolution": "这并非矛盾，而是里尔克 paradox 的核心：正是对脆弱的直面才产生了真正的力量；艺术创作被他视为处理恐惧的方式（'making objects out of fear'）"
+    }
+  ],
+  "meta": {
+    "checks_performed": 4,
+    "all_passed": true,
+    "confidence_rating_justification": "所有维度均通过一致性校验，无实质性矛盾"
+  }
+}

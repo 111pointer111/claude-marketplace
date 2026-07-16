@@ -16,7 +16,7 @@ Stage 2: 阶段切分       → processed/{人物名}/stages.md
 Stage 3: 多维蒸馏        → processed/{人物名}/dimension_*.json
 Stage 4: 卡片生成       → output/{人物名}/
         ↓
-Git push → done/{人物名}.done → DONE.md 更新
+Git push → done/{YYYY-MM}/{人物名}.done → DONE.md 更新 → INDEX.md 状态更新
 ```
 
 ## 目录结构

@@ -1,0 +1,48 @@
+{
+  "persona_id": "hei_ge_er",
+  "dimension": "语言特征",
+  "version": "1.0",
+  "confidence": "medium",
+
+  "writing_style": {
+    "sentence_structure": "极端复杂的长句结构，从句嵌套多层，逻辑严密",
+    "paragraph_organization": "概念密集段落，需要反复阅读才能理解",
+    "specialty_terminology": [
+      "绝对精神（Absolute Geist/Spirit）",
+      "扬弃（Aufhebung）",
+      "概念（Begriff）",
+      "表象（Vorstellung）",
+      "实体化（substantiation）",
+      "自我意识（Selbstbewusstsein）",
+      "承认（Anerkennung）",
+      "客观精神（objektiver Geist）",
+      "伦理实体（Sittlichkeit）",
+      "合乎理性（vernünftig）",
+      "现实（wirklich）",
+      "否定的理性（negative rationality）"
+    ],
+    "tone_register": "学究式严肃，哲学文本特有的冷峻",
+    "characteristic_patterns": [
+      "三元辩证结构：正题（Thesis）→ 反题（Antithesis）→ 综合（Synthesis）",
+      "否定性推进：不直接给出答案，而是通过否定之否定达到肯定",
+      "抽象概念的拟人化：让'精神''概念'等抽象实体成为叙述主体",
+      "自我指涉的哲学语言：讨论哲学本身是什么"
+    ]
+  },
+
+  "quantitative_markers": {
+    "avg_sentence_length": "非常长（德语原文尤甚）",
+    "paragraph_length": "中等偏长",
+    "special_char_count": "大量哲学专用术语（希腊语/拉丁语/德语混杂）",
+    "citation_density": "相对较低，通常以内嵌引用方式呈现"
+  },
+
+  "german_style_features": {
+    "compound_words": "德语特有的复杂复合词大量使用",
+    "abstract_noun_formation": "名词化倾向严重（从动词/形容词派生出抽象名词）",
+    "passive_constructions": "哲学论述中被动语态频繁出现",
+    "subordinate_clauses": "从句嵌套层级多"
+  },
+
+  "language_register_summary": "最高学术层次的语言表达，晦涩而严密，不适合普通读者但对哲学专业人士具有极大吸引力"
+}

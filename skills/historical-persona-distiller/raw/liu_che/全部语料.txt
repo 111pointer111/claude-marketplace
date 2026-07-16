@@ -1,0 +1,96 @@
+# 刘彻（汉武帝）全部语料
+# 已抓取的所有来源合并文本
+
+## 来源一：百度百科刘彻传记
+
+刘彻（公元前156年—公元前87年），西汉第七位皇帝（含前后少帝）。
+在位时间：公元前141年—公元前87年。
+公元前156年出生，公元前87年崩于五柞宫，享年约七十岁。
+谥号"孝武皇帝"，庙号"世宗"。
+
+刘彻是汉景帝刘启的第十子，母亲是王美人（后被尊为王皇后）。
+他自幼聪颖，景帝后三年（前141年）即帝位，年仅十六岁。
+
+刘彻即位后，西汉经历了文景之治的积累，国力强盛。
+他决心改变汉初以来消极防御的政策，主动出兵反击匈奴，同时积极开拓西南夷和东南越。
+
+发动三次大规模反击匈奴战争：
+① 元光二年（前133年）马邑之谋
+② 元朔二年（前127年）收复河套地区
+③ 元狩二年（前121年）河西之战，大破匈奴
+④ 元狩四年（前119年）漠北之战，重创匈奴主力
+
+派张骞出使西域，开通丝绸之路。
+征服南越国（今广东、广西、海南及越南北部）。
+征服朝鲜半岛北部，设立四郡。
+开拓西南夷，设立郡县。
+
+刘彻接受主父偃建议，颁布"推恩令"，巧妙削弱诸侯封国势力，永久解决了西汉的王国问题。
+
+元光元年（前134年），刘彻接受董仲舒建议，"罢黜百家，独尊儒术"，确立儒家学说为官方正统思想，并建立太学，推广儒学教育。
+
+实施盐铁酒官营政策，由国家垄断重要战略物资的经营。
+
+晚年多次微行，神仙信仰浓厚，大兴土木。
+因"巫蛊之祸"牵连甚众，皇后卫子夫、太子刘据均受其害。
+临终前立刘弗陵为太子，命霍光等人辅政。
+
+重大事件：
+前156年 出生
+前141年 即皇帝位
+前139年 第一次微行
+前136年 设立五经博士
+前134年 罢黜百家，独尊儒术
+前133年 马邑之谋
+前130年 遣唐蒙通夜郎
+前127年 收复河套
+前124年 实行推恩令
+前121年 河西之战
+前119年 漠北之战
+前115年 张骞第二次出使西域
+前112年 平定南越
+前111年 开拓西南夷
+前110年 封禅泰山
+前104年 改历法，造太初历
+前100年 苏武出使匈奴
+前99年 征伐匈奴
+前91年 巫蛊之祸
+前87年 驾崩
+
+主要文臣：董仲舒、主父偃、张骞、司马迁、东方朔、刘安、桑弘羊、霍光
+主要武将：卫青、霍去病、李广、张骞、路博德、赵破奴
+
+历史影响：
+- 军事上彻底击败匈奴，解除了匈奴对中原的威胁
+- 外交上开通丝绸之路，使汉朝影响力远播中亚
+- 政治上推恩令加强了中央集权
+- 文化上独尊儒术确立了中华文明此后两千年的主流价值
+- 经济上盐铁官营增加了国家财政收入
+
+## 来源二：不列颠百科全书-汉朝（摘要）
+
+Han dynasty, the second great imperial dynasty of China (206 bce–220 ce), after the Zhou dynasty (1046–256 bce).
+It succeeded the Qin dynasty (221–207 bce).
+So thoroughly did the Han dynasty establish what was thereafter considered Chinese culture that "Han" became the Chinese word denoting someone who is ethnically Chinese.
+
+The dynasty was founded by Liu Bang, later the Gaozu emperor (reigned 206–195 bce), a man of humble birth who led the revolt against the repressive policies of the preceding short-lived Qin dynasty.
+
+So successful was that policy that the Han lasted longer than any other Chinese empire, reigning—with a short interruption when Wang Mang temporarily usurped the throne and established the Xin dynasty (9–25 ce)—for more than 400 years.
+
+## 来源三：不列颠百科全书-儒学（摘要）
+
+Confucianism, the way of life propagated by Confucius in the 6th–5th century bce and followed by the Chinese people for more than two millennia.
+Although transformed over time, it is still the substance of learning, the source of values, and the social code of the Chinese.
+
+Confucianism may be understood as an all-encompassing way of thinking and living that entails ancestor reverence and a profound human-centred religiousness.
+
+Confucius considered himself a transmitter who consciously tried to reanimate the old in order to attain the new.
+
+Heaven (tian) to the Zhou kings, although also ancestral, was a more-generalized anthropomorphic god. The Zhou belief in the mandate of heaven (the functional equivalent of the will of the Lord on High) differed from the divine right of kings.
+
+Confucius's response was to address himself to the issue of learning to be human.
+
+Confucius felt that virtue (de), both as a personal quality and as a requirement for leadership, was essential for individual dignity, communal solidarity, and political order.
+
+---
+语料合并完成

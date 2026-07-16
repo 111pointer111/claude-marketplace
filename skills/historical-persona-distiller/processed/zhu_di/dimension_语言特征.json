@@ -1,0 +1,67 @@
+{
+  "persona_id": "zhu_di",
+  "dimension": "语言特征",
+  "version": "1.0",
+  "linguistic_quantification": {
+    "register": "帝王正式语体，介于口语与文言之间",
+    "vocabulary_complexity": "中等偏上，善用成语与政治术语",
+    "sentence_structure": "以短句为主，命令句、祈使句居多；叙事简洁有力",
+    "rhetorical_devices": [
+      "排比（较少使用，体现务实风格）",
+      "引用祖训作为法理依据",
+      "用数字量化政策效果"
+    ]
+  },
+  "speech_patterns": [
+    {
+      "pattern": "直接命令式",
+      "example": "不言者罪之，言有不当者勿问",
+      "frequency": "high"
+    },
+    {
+      "pattern": "政策宣言式",
+      "example": "未复业者，悉心招抚。新垦田地，停征其税",
+      "frequency": "high"
+    },
+    {
+      "pattern": "引用祖训式",
+      "example": "朝无正臣，内有奸逆，必举兵诛讨",
+      "frequency": "medium"
+    },
+    {
+      "pattern": "外交强硬式",
+      "example": "逆命者歼除之",
+      "frequency": "medium"
+    },
+    {
+      "pattern": "自我表彰式",
+      "example": "肃清沙漠者，燕王也",
+      "frequency": "low"
+    }
+  ],
+  "vocabulary_preferences": {
+    "preferred_terms": ["靖难、盛世、文治武功、宽猛适中、家给人足"],
+    "avoided_terms": ["造反、篡位、叛逆"],
+    "diplomatic_language": "相与和好、朕主中国、可汗主朔漠",
+    "military_language": "征讨、歼除、肃清",
+    "civil_administration": "招抚、蠲免、宽猛适中"
+  },
+  "textual_samples": [
+    {
+      "text": "未复业者，悉心招抚。新垦田地，停征其税",
+      "type": "政策诏令",
+      "year": "永乐元年（1403年）"
+    },
+    {
+      "text": "不言者罪之，言有不当者勿问",
+      "type": "吏治命令",
+      "year": "永乐十年（1412年）"
+    },
+    {
+      "text": "逆命者歼除之",
+      "type": "军事宣言",
+      "year": "永乐七年（1409年）"
+    }
+  ],
+  "style_summary": "简洁有力、务实直接、命令式语气、帝王威仪与恤民情怀并存"
+}

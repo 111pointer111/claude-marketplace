@@ -1,0 +1,33 @@
+# 大卫·李嘉图后世评述
+
+## 百度百科评价
+李嘉图是英国古典政治经济学的完成者，古典学派的最后一名代表，最有影响力的古典经济学家。他的理论达到资产阶级界限内的高峰，对后来的经济思想有重大影响。
+
+李嘉图在《政治经济学及赋税原理》中辟出专章，集中讨论了国际贸易问题，提出了著名的比较优势贸易理论（Comparative Advantage Theory）。
+
+李嘉图以边沁的功利主义为出发点，建立起了以劳动价值论为基础，以分配论为中心的理论体系。他继承了斯密理论中的科学因素，坚持商品价值由生产中所耗费的劳动决定的原理，并批评了斯密价值论中的错误。他提出决定价值的劳动是社会必要劳动，决定商品价值的不仅有活劳动，还有投在生产资料中的劳动。
+
+他认为全部价值由劳动产生，并在3个阶级间分配：工资由工人的必要生活资料的价值决定，利润是工资以上的余额，地租是工资和利润以上的余额。由此说明了工资和利润、利润和地租的对立，从而实际上揭示了无产阶级和资产阶级、资产阶级和地主阶级之间的对立。
+
+## Britannica评价
+David Ricardo gave systematized, classical form to the rising science of economics in the 19th century. His laissez-faire doctrines were typified in his Iron Law of Wages, which stated that all attempts to improve the real income of workers were futile and that wages perforce would remain near the subsistence level.
+
+Despite his relatively short career and the fact that most of it was preoccupied with business affairs, Ricardo achieved a leading position among the economists of his time. His views won considerable support in England despite the abstract style in which he set them forth and in the face of heavy counterfire from his opponents. 
+
+Although his ideas have long since been superseded or modified by other work and by new theoretical approaches, Ricardo retains his eminence as the thinker who first systematized economics. He also treated monetary questions and taxation at length. Writers of various persuasions drew heavily upon his ideas, including those who favoured laissez-faire capitalism and those, such as the German philosopher and economist Karl Marx and the British social reformer Robert Owen, who opposed it.
+
+## 维基百科评价
+Ricardo is recognized as one of the most influential classical economists, alongside figures such as Thomas Malthus, Adam Smith and James Mill. His most famous work is his Principles of Political Economy and Taxation (1817).
+
+Ricardo advanced a labour theory of value: "The value of a commodity, or the quantity of any other commodity for which it will exchange, depends on the relative quantity of labour which is necessary for its production, and not on the greater or less compensation which is paid for that labour."
+
+Ricardian theory of international trade challenges the mercantilist concept of accumulating gold or silver by promoting industry specialization and free trade. Ricardo introduced the concept of "comparative advantage".
+
+## 学术史评价
+- 约翰·穆勒（John Stuart Mill）："如果不是我父亲恳切的请求与热情鼓励，恐怕这本书永远不会出版，或者永远不会写出。"
+- 马尔萨斯："除了自己的家属外，我从来没有这样爱戴过任何人。"
+- 约瑟夫·斯彭格勒（Joseph J. Spengler）：Ricardo retains his eminence as the thinker who first systematized economics.
+- 经济思想史学家：Ricardo是大器晚成的奇才，27岁读《国富论》，37岁发表第一篇经济学论文，在14年短暂的学术生涯中留下了大量著作。
+
+## 比较优势理论的历史地位
+比较优势理论为自由贸易提供了坚实的理论基础。李嘉图认为，国际分工与国际交换的利益，只有在政府不干涉对外贸易，实行自由贸易的条件下，才能最有效地实现。这一理论成为19世纪自由贸易与税收政策辩论的理论框架，李嘉图也因此被公认为古典经济学集大成者。

@@ -1,0 +1,72 @@
+{
+  "核心价值观": [
+    {
+      "条目": "智慧与知识追求",
+      "描述": "但丁毕生追求智慧，认为哲学是通往救赎的道路。他系统学习亚里士多德逻辑、自然哲学和神学，用俗语向普通读者传播知识，认为知识的光芒能够驱散无知的黑暗。",
+      "原文引用": [
+        "He was one of the most learned Italian laymen of his day, intimately familiar with Aristotelian logic and natural philosophy, theology, and classical literature. —— Stanford Encyclopedia of Philosophy",
+        "Philosophy itself is the 'love of wisdom,' and Dante's central metaphor for representing it is the poetic celebration of a noble lady. —— Stanford Encyclopedia of Philosophy"
+      ]
+    },
+    {
+      "条目": "精神之爱与超越",
+      "描述": "但丁将贝雅特丽齐从世俗的爱人升华为神圣之爱的象征，通过对她的精神之爱达到灵魂的净化与提升。爱情不仅是情感，更是通往上帝的道路。",
+      "原文引用": [
+        "And when she finds someone worthy to behold her, he experiences her power, for what she gives him turns into salvation, and so humbles him that he forgets every offense. God has given her an even greater grace: that one cannot end in evil who has spoken to her. —— Vita Nuova",
+        "Beatrice... as a guide in the final part of the Divine Comedy. —— World History Encyclopedia"
+      ]
+    },
+    {
+      "条目": "政治正义与皇权秩序",
+      "描述": "但丁认为意大利的混乱源于教皇对世俗权力的干预，只有神圣罗马帝国皇帝才能恢复秩序。但丁在《帝制论》中系统阐述了世俗皇权的正当性。",
+      "原文引用": [
+        "If the principle of freedom is explained, it will be apparent that the human race is ordered for the best when it is most free. Observe, then, those words which are on the lips of many but in the minds of few, that the basic principle of our freedom is freedom of the will. —— De Monarchia, Chapter XII",
+        "He was further disillusioned with Rome following the Pope's enforced exile to Avignon in 1309. Dante began to support, instead, the ambitions of the Holy Roman Emperor. —— World History Encyclopedia"
+      ]
+    },
+    {
+      "条目": "俗语与民族语言",
+      "描述": "但丁坚信托斯卡纳俗语有能力承载最高深的哲学和神学思想，因此主动选择用俗语写作，反对只有拉丁文才能表达学术思想的偏见。",
+      "原文引用": [
+        "By choosing to write his poem in the Italian vernacular rather than in Latin, Dante decisively influenced the course of literary development. —— Britannica",
+        "The Convivio and the De vulgari eloquentia preserve also the somewhat idealized memory of the Neapolitan court of Frederick II of Sicily. —— Stanford Encyclopedia of Philosophy"
+      ]
+    }
+  ],
+  "政治立场": {
+    "描述": "但丁坚定反对教皇干预世俗政治，认为教皇的灵性权威不应延伸到对世俗政府的控制。他支持世俗皇权作为维护意大利统一和秩序的力量，但对神圣罗马帝国皇帝的实际能力有着不切实际的幻想。流放经历加深了他对教皇腐败的认识，也使其政治立场更趋激烈。",
+    "原文引用": [
+      "Dante wanted to see his city free from papal interference, which he saw as a morally corrupt institution. —— World History Encyclopedia",
+      "Several popes find themselves in Dante's version of Hell, accused of being shepherds who have favoured gold over their flocks. —— World History Encyclopedia",
+      "Ah, Italy, thou slave, thou inn of woe, ship without pilot in a mighty storm, not queen of provinces, but house of shame! —— Purgatorio, Canto VI"
+    ]
+  },
+  "底线清单": [
+    {
+      "条目": "信仰的纯洁性不容妥协",
+      "描述": "但丁虽然批判教皇的政治行为，但始终保持对基督教基本教义的虔诚。《神曲》中对地狱的描绘体现了他对罪的严肃态度和对神圣正义的坚定信仰。",
+      "原文引用": "[无直接语料，但《神曲》整体结构体现此底线]"
+    },
+    {
+      "条目": "真理与自由不可剥夺",
+      "描述": "但丁坚持人类意志自由的本质，认为这是上帝赋予人的最宝贵礼物。在《帝制论》中他明确指出自由是人类道德选择的基础。",
+      "原文引用": [
+        "the basic principle of our freedom is freedom of the will. —— De Monarchia, Chapter XII"
+      ]
+    },
+    {
+      "条目": "对腐败绝不沉默",
+      "描述": "流放经历并未使但丁变得沉默，反而使他的批判更加尖锐。他在《神曲》中毫不留情地将腐败的教皇和主教放入地狱，用文学完成了政治上无法完成的审判。",
+      "原文引用": [
+        "Dante had 'three gifts hampering to the career of the practical politician: an unaccommodating temper, a blistering tongue, and an indecent superfluity of brains.' —— D.L. Sayers, translator's introduction"
+      ]
+    }
+  ],
+  "自我定位": {
+    "描述": "但丁自视为上帝派来人间的警告者，用诗歌揭露腐败、传播真理。他既是古典文化的继承者，也是基督教信仰的捍卫者，同时还是意大利民族语言之父。他通过《神曲》宣称诗人的使命是引导人类从黑暗走向光明。",
+    "原文引用": [
+      "Dante's engagement with philosophy cannot be studied apart from his vocation as a poet, in which capacity he sought to raise the level of public discourse by educating his countrymen and inspiring them to pursue happiness in the contemplative life. —— Stanford Encyclopedia of Philosophy",
+      "In the Divine Comedy, we see for the first time a powerful thinker, solidly grounded in Aristotle, patristic theology, and thirteenth-century scholastic debate, synthesizing and bringing these resources to bear on educating his countrymen in their own vernacular with the intention of inspiring them to pursue the happiness that rewards the philosopher. —— Stanford Encyclopedia of Philosophy"
+    ]
+  }
+}

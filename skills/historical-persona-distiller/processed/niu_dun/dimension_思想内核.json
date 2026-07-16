@@ -1,0 +1,71 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "niu_dun",
+  "confidence": "high",
+  "sources": [
+    "Britannica - Isaac Newton (britannica.com)",
+    "MacTutor History of Mathematics - Isaac Newton (mathshistory.st-andrews.ac.uk)",
+    "Newton Institute (Microsoft Encarta) - Isaac Newton's Life (newton.ac.uk)",
+    "Biography.com - Isaac Newton (biography.com)",
+    "History.com - Isaac Newton (history.com)"
+  ],
+  "核心命题": [
+    {
+      "id": 1,
+      "命题": "宇宙由数学定律统治——自然界的规律可以用精确的数学语言表达和理解",
+      "英文原文": "Newton's Philosophiae Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy, 1687) was one of the most important single works in the history of modern science.",
+      "来源": "Britannica",
+      "引语": "In mathematics... he was the original discoverer of the infinitesimal calculus.",
+      "引语来源": "Britannica"
+    },
+    {
+      "id": 2,
+      "命题": "实验与数学的结合是揭示自然真理的唯一可靠方法",
+      "英文原文": "Newton helped establish the framework of the Scientific Revolution through his combination of experimental observation and mathematical formulation.",
+      "来源": "Britannica + Newton Institute",
+      "引语": "He investigated the refraction of light by a glass prism; developing over a few years a series of increasingly elaborate, refined, and exact experiments, Newton discovered measurable, mathematical patterns in the phenomenon of colour.",
+      "引语来源": "Newton Institute"
+    },
+    {
+      "id": 3,
+      "命题": "上帝作为造物主，其作品以最简单的数学方式运行",
+      "英文原文": "It is the perfection of God's works that they are all done with the greatest simplicity.",
+      "来源": "Biography.com (牛顿语录)",
+      "引语": "He possessed a deep religious sense, venerated the Bible and accepted its account of creation. In late editions of his scientific works he expressed a strong sense of God's providential role in nature.",
+      "引语来源": "Newton Institute"
+    },
+    {
+      "id": 4,
+      "命题": "万有引力统一天地——天上和地下的物理定律是同一套",
+      "英文原文": "all matter attracts all other matter with a force proportional to the product of their masses and inversely proportional to the square of the distance between them",
+      "来源": "MacTutor, Principia 1687",
+      "引语": "Newton identified gravitation as the fundamental force controlling the motions of the celestial bodies. He never found its cause.",
+      "引语来源": "Newton Institute"
+    }
+  ],
+  "次级命题": [
+    {
+      "命题": "光的粒子说（微粒说）——光由微小粒子流组成",
+      "来源": "Britannica, Biography.com"
+    },
+    {
+      "命题": "炼金术与化学统一于对物质终极结构的探索",
+      "来源": "Newton Institute",
+      "引语": "He sought understanding of the nature and structure of all matter, formed from the 'solid, massy, hard, impenetrable, movable particles' that he believed God had created."
+    },
+    {
+      "命题": "亚里士多德传统的机械哲学与赫尔墨斯传统的张力构成了科学思想的内在张力",
+      "来源": "Britannica",
+      "引语": "The two traditions of natural philosophy, the mechanical and the Hermetic, antithetical though they appear, continued to influence his thought and in their tension supplied the fundamental theme of his scientific career."
+    },
+    {
+      "命题": "基督教在第4世纪尼西亚公会议时开始偏离正道，沦为错误的三位一体教义",
+      "来源": "Newton Institute",
+      "引语": "Its message was that Christianity went astray in the 4th century AD, when the first Council of Nicaea propounded erroneous doctrines of the nature of Christ."
+    }
+  ],
+  "上帝观": "牛顿是强烈的一神论者，相信上帝作为造物主以最简洁的数学法则维系宇宙运行。他对当时的三位一体正统教义持异见（Arianism），但同时虔诚地尊崇圣经作为最高权威。",
+  "自然观": "自然界是一部巨大、 impersonal、精确运转的机器，由数学定律统治。这与笛卡尔机械哲学一脉相承，但牛顿同时保留了赫尔墨斯传统的某些神秘主义倾向。",
+  "知识观": "真理在于简约而非复杂（Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things）。追求真理需要站在巨人的肩膀上（If I have seen further it is by standing on the shoulders of giants）。",
+  "人生观": "个人面对浩瀚真理如孩童在海边拾取卵石，伟大真理的海洋永远未被完全发现。物理学解释了天体运动，却无法解释人心的疯狂（I can calculate the motion of heavenly bodies but not the madness of people）。"
+}

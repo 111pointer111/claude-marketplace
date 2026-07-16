@@ -1,0 +1,97 @@
+{
+  "persona_id": "la_wa_xi",
+  "dimension": "思想内核",
+  "version": "1.0",
+  "core_beliefs": [
+    {
+      "id": 1,
+      "belief": "质量守恒：物质在化学反应中既不被创造也不被毁灭",
+      "description": "拉瓦锡最核心的科学贡献，他坚持要求化学家接受质量守恒作为一条基本定律，并通过精确的定量实验加以证明。这是他将化学提升到实验物理学标准的关键一步。",
+      "citations": [
+        {
+          "source": "Britannica - Antoine Lavoisier",
+          "quote": "Lavoisier believed that matter was neither created nor destroyed in chemical reactions, and in his experiments he sought to demonstrate that this belief was not violated."
+        },
+        {
+          "source": "Britannica - Conservation of Mass",
+          "quote": "The fact that French chemistry students are still taught the conservation of mass as 'Lavoisier's law' is indicative of his success in making this principle a foundation of modern chemistry."
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": 2,
+      "belief": "燃烧的氧化理论：燃烧是物质与氧气结合的过程，而非燃素释放",
+      "description": "拉瓦锡彻底推翻了当时流行的燃素说，正确解释了燃烧的本质。这一理论是他对化学最革命性的贡献之一。",
+      "citations": [
+        {
+          "source": "Britannica - Oxygen",
+          "quote": "In 1775–80, French chemist Antoine-Laurent Lavoisier, with remarkable insight, interpreted the role of oxygen in respiration as well as combustion, discarding the phlogiston theory, which had been accepted up to that time."
+        },
+        {
+          "source": "Britannica - Antoine Lavoisier",
+          "quote": "Antoine Lavoisier ... developed an experimentally based theory of the chemical reactivity of oxygen."
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": 3,
+      "belief": "氧气命名与酸性原理：氧气是'酸的形成者'",
+      "description": "拉瓦锡正确识别了氧气在燃烧和呼吸中的作用，并根据希腊语中'酸的形成者'（oxygén）一词将其命名为'氧气'。这一命名至今仍在使用。",
+      "citations": [
+        {
+          "source": "Britannica - Oxygen",
+          "quote": "He noted its tendency to form acids by combining with many different substances and accordingly named the element oxygen (oxygén) from the Greek words for 'acid former.'"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": 4,
+      "belief": "定量实验方法：精确测量是化学科学化的关键",
+      "description": "拉瓦锡坚持在封闭系统中进行化学反应实验，精确测量所有反应物和产物的质量。他认为只有通过定量实验，化学才能成为真正的科学。",
+      "citations": [
+        {
+          "source": "Britannica - Antoine Lavoisier",
+          "quote": "His success in the many elaborate experiments he conducted was in large part due to his independent wealth, which enabled him to have expensive apparatus built to his design, and to his ability to recruit and direct talented research associates."
+        },
+        {
+          "source": "Britannica - Antoine Lavoisier",
+          "quote": "While other chemists were also looking for conservation principles capable of explaining chemical reactions, Lavoisier was particularly intent on collecting and weighing all the substances involved in the reactions he studied."
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": 5,
+      "belief": "科学的社会责任：科学家应为公共利益服务",
+      "description": "拉瓦锡不仅是一位科学家，也是一位积极参与公共事务的公民。他担任过多种政府职务，试图用科学方法改进政府管理，体现了启蒙时代科学家参与社会改革的理想。",
+      "citations": [
+        {
+          "source": "Britannica - Antoine Lavoisier",
+          "quote": "As a youth he exhibited an unusual studiousness and concern for the public good."
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": 6,
+      "belief": "元素的操作性定义：元素是不能通过已知方法分解的简单物质",
+      "description": "1789年拉瓦锡发表了第一个基于实验验证的元素列表，确立了元素的操作性定义。这一工作为现代化学元素概念奠定了基础。",
+      "citations": [
+        {
+          "source": "Britannica - Chemical Element",
+          "quote": "In 1789 the French chemist Antoine-Laurent Lavoisier published what might be considered the first list of elemental substances based on Boyle's definition."
+        },
+        {
+          "source": "Britannica - Antoine Lavoisier",
+          "quote": "He developed an experimentally based theory of the chemical reactivity of oxygen and coauthored the modern system for naming chemical substances."
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "overall_confidence": "high",
+  "notes": "拉瓦锡为化学家非诗人，无诗词作品下限要求；6条思想内核均有Britannica等权威来源原文引用验证；拉瓦锡之死是科学史上最悲剧的事件之一（断头台处决），其最著名语录'There is nothing lost, nothing is created, everything is transformed'至今仍在科学界流传"
+}

@@ -1,0 +1,52 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "pei_duo_fei",
+  "人物": "裴多菲·山陀尔（Sándor Petőfi）",
+  "confidence": "medium",
+  "总结": "裴多菲是极端激进的政治革命者，以法国大革命为精神导师，主张推翻君主制和贵族特权，代表匈牙利被压迫民族争取独立的最高呼声。",
+
+  "政治立场": {
+    "光谱位置": "极左/激进革命派",
+    "核心主张": "反对君主制和贵族特权，主张民族独立和人民主权",
+    "对法国大革命": "狂热支持，将其视为匈牙利革命的模板",
+    "原文引用": "A fervent partisan of the French Revolution, he castigated the social conditions of his country, attacking the privileges of the nobles and the monarchy."
+  },
+
+  "社会立场": {
+    "阶级观点": "站在普通人民一边，反对贵族特权",
+    "民族观点": "强烈的匈牙利民族主义者，追求民族独立",
+    "民主观点": "主张人民主权，虽未能在国会获得席位，但代表底层声音"
+  },
+
+  "经济立场": {
+    "核心观点": "通过革命改变不平等的经济结构（推断）",
+    "对贵族": "明确反对贵族的经济特权"
+  },
+
+  "文化立场": {
+    "民族主义": "以匈牙利民族文化为骄傲，将民歌形式升华为严肃文学",
+    "传统与创新": "在传统民歌基础上创新，形成独特的民族浪漫主义风格",
+    "外来影响": "受法国大革命和西欧浪漫主义影响，但不盲从"
+  },
+
+  "宗教立场": {
+    "推断": "未明确提及宗教信仰，但从革命热情判断可能持有理性主义倾向"
+  },
+
+  "历史局限性": [
+    {
+      "局限": "极端激进，缺乏政治经验",
+      "描述": "Britannica明确指出：'Politically, he was an extreme radical and an inspired agitator, but he was lacking in experience and failed to obtain a seat in the Diet.'"
+    },
+    {
+      "局限": "年仅26岁牺牲，未能展现完整的政治思想",
+      "描述": "裴多菲的一生极为短暂，在政治上尚未成熟便已牺牲"
+    }
+  ],
+
+  "meta": {
+    "basis": "主要基于Britannica对裴多菲政治立场的直接描述",
+    "primary_source": "Britannica - Sándor Petőfi",
+    "note": "立场分析基于二次文献，裴多菲本人未留下系统的政治理论著作"
+  }
+}

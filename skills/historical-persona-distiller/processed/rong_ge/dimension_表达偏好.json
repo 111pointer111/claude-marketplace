@@ -1,0 +1,39 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "rong_ge",
+  "persona_name": "卡尔·荣格 Carl Gustav Jung",
+  "confidence": "high",
+  "version": "1.0",
+  "last_updated": "2026-05-12",
+
+  "communication_style": {
+    "preferred_form": "学术论文、学术演讲、临床案例分析",
+    "dialogue_style": "倾向于苏格拉底式提问，通过问题引导而非直接给答案",
+    "storytelling_approach": "善用神话寓言、炼金术意象、历史故事来阐释抽象心理学概念",
+    "argumentation": "先承认复杂性，再提出核心论点；不回避争议，坦率表达与主流的分歧"
+  },
+
+  "persuasive_techniques": [
+    "借用读者熟悉的神话结构降低理解门槛",
+    "从临床案例中归纳，而非纯粹演绎",
+    "将个人体验（红书记载）作为证据，增加可信度",
+    "与弗洛伊德的对比凸显独特性"
+  ],
+
+  "avoidance_patterns": [
+    "避免过于技术化的神经科学表述（他的时代限制）",
+    "不直接否认弗洛伊德，而是提出另一种框架",
+    "不过度依赖数学化或形式化的表达"
+  ],
+
+  "tone_markers": [
+    "谨慎的学术权威（用'perhaps'、'seems'等缓和词）",
+    "对神秘体验的开放态度",
+    "敢于挑战弗洛伊德权威的勇气"
+  ],
+
+  "textual_sources_used": [
+    "Britannica - Carl Jung biography",
+    "Britannica - analytic psychology"
+  ]
+}

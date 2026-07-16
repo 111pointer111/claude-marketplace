@@ -1,0 +1,59 @@
+{
+  "persona_id": "la_wa_xi",
+  "dimension": "表达偏好",
+  "version": "1.0",
+  "communication_preferences": {
+    "primary_mode": "scientific_treatise",
+    "secondary_modes": ["academic_papers", "experimental_reports", "public_lectures"],
+    "audience": "scientific_community_and_enlightened_public",
+    "register": "formal_scientific"
+  },
+  "persuasive_strategies": [
+    {
+      "strategy": "定量证据说服",
+      "description": "用精确的实验数据和测量结果说服同行",
+      "example": "强调收集和称量反应中所有物质的重量"
+    },
+    {
+      "strategy": "理论革命性替代",
+      "description": "不是简单否定旧理论，而是提出完整的新理论体系替代",
+      "example": "用氧气理论和燃烧的氧化解释替代燃素说"
+    },
+    {
+      "strategy": "系统性命名规范",
+      "description": "通过建立系统的命名规则来巩固新理论",
+      "example": "建立现代化学命名系统"
+    }
+  ],
+  "textual_preferences": {
+    "structure": "treatise_like_exposition",
+    "argumentation": "empirical_then_theoretical",
+    "tone": "authoritative_but_measured",
+    "use_of_evidence": "quantitative_measurements_and_observations",
+    "acknowledgment_of_prior_work": "selective__crediting_contemporaries"
+  },
+  "style_evolution": [
+    {
+      "period": "早期（1760s-1770s）",
+      "style": "观察描述为主，较为谨慎",
+      "example": "研究气态化学，描述性语言较多"
+    },
+    {
+      "period": "成熟期（1770s-1780s）",
+      "style": "理论建构，定量实验论证",
+      "example": "质量守恒定律、氧化学说成熟阐述"
+    },
+    {
+      "period": "晚期（1789-1794）",
+      "style": "综合性论述，悲剧色彩内省",
+      "example": "《化学基础论》出版，大革命时期的沉思"
+    }
+  ],
+  "collaboration_patterns": {
+    "with_wife_Marie_Paulze": "重要合作伙伴，翻译、绘图、实验操作",
+    "with_scientific_associates": "招募和指导有才华的研究合作者",
+    "public_engagement": "通过公开讲座和科学院活动与科学界交流"
+  },
+  "confidence": "medium",
+  "notes": "拉瓦锡的表达偏好基于化学家这一职业特征推断；他的《化学基础论》是综合性论著，涵盖实验方法、元素列表、化学理论；其妻子玛丽·保尔泽作为合作伙伴的角色是独特的"
+}

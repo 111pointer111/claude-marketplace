@@ -1,0 +1,50 @@
+# Louis Pasteur Biography
+# Source: Britannica (britannica.com/biography/Louis-Pasteur)
+
+## Basic Facts
+
+Louis Pasteur (born December 27, 1822, Dole, France—died September 28, 1895, Saint-Cloud) was a French chemist and microbiologist who was one of the most important founders of medical microbiology. Pasteur's contributions to science, technology, and medicine are nearly without precedent. He pioneered the study of molecular asymmetry; discovered that microorganisms cause fermentation and disease; originated the process of pasteurization; saved the beer, wine, and silk industries in France; and developed vaccines against anthrax and rabies.
+
+## Early Education
+
+Pasteur's father, Jean-Joseph Pasteur, was a tanner and a sergeant major decorated with the Legion of Honour during the Napoleonic Wars. This fact probably instilled in the younger Pasteur the strong patriotism that later was a defining element of his character. Louis Pasteur was an average student in his early years, but he was gifted in drawing and painting. His pastels and portraits of his parents and friends, made when he was 15, were later kept in the museum of the Pasteur Institute in Paris. After attending primary school in Arbois, where his family had moved, and secondary school in nearby Besançon, he earned his bachelor of arts degree (1840) and bachelor of science degree (1842) at the Royal College of Besançon.
+
+## Academic Career
+
+Pasteur then spent several years researching and teaching at Dijon Lycée. In 1848, he became a professor of chemistry at the University of Strasbourg, where he met Marie Laurent, the daughter of the university's rector. They wed on May 29, 1849, and had five children, though only two survived childhood.
+
+In 1854, Pasteur was appointed professor of chemistry and dean of the science faculty at the University of Lille. There, he worked on finding solutions to the problems with the manufacture of alcoholic drinks.
+
+## First Major Contribution: Tartaric Acid and Stereochemistry
+
+In 1849, Pasteur was attempting to resolve a problem concerning the nature of tartaric acid — a chemical found in the sediments of fermenting wine. Scientists were using the rotation of polarized light as a means for studying crystals. When polarized light is passed through a solution of dissolved tartaric acid, the angle of the plane of light is rotated. Pasteur observed that another compound called paratartaric acid, also found in wine sediments, had the same composition as tartaric acid. Most scientists assumed the two compounds were identical. However, Pasteur observed that paratartaric acid did not rotate plane-polarized light. He deduced that although the two compounds had the same chemical composition, they must somehow have different structures.
+
+Looking at the paratartaric acid under a microscope, Pasteur observed there were two different types of tiny crystals. Though they looked almost identical, the two were actually mirror images of each other. He separated the two types of crystals into two piles and made solutions of each. When polarized light was passed through each, he discovered that both solutions rotated, but in opposite directions. When the two crystals were together in the solution the effect of polarized light was canceled. This experiment established that just studying the composition is not enough to understand how a chemical behaves. The structure and shape is also important and led to the field of stereochemistry.
+
+## Commercial Achievements
+
+Working with the germ theory, which Pasteur did not invent but further developed through experiments and eventually convinced most of Europe of its truth, he demonstrated that organisms such as bacteria were responsible for souring wine, beer and even milk. He then invented a process where bacteria could be removed by boiling and then cooling liquid. He completed the first test on April 20, 1862. Today the process is known as pasteurization.
+
+Shifting focus, in 1865, Pasteur helped save the silk industry. He proved that microbes were attacking healthy silkworm eggs, causing an unknown disease and that the disease would be eliminated if the microbes were eliminated. He eventually developed a method to prevent their contamination and it was soon used by silk producers throughout the world.
+
+## Vaccines
+
+Pasteur's first vaccine discovery was in 1879, with a disease called chicken cholera. After accidentally exposing chickens to the attenuated form of a culture, he demonstrated that they became resistant to the actual virus. Pasteur went on to extend his germ theory to develop causes and vaccinations for diseases such as anthrax, cholera, TB and smallpox.
+
+In 1881 French microbiologist Louis Pasteur demonstrated immunization against anthrax by injecting sheep with a preparation containing attenuated forms of the bacillus that causes the disease. Four years later he developed a protective suspension against rabies.
+
+On July 6, 1885, Pasteur vaccinated Joseph Meister, a 9-year-old boy who had been bitten by a rabid dog. The success of Pasteur's vaccine brought him immediate fame. This began an international fundraising campaign to build the Pasteur Institute in Paris, which was inaugurated on November 14, 1888.
+
+## Germ Theory
+
+In the mid-19th century Pasteur showed that fermentation and putrefaction are caused by organisms in the air; his experiments disproved the idea of spontaneous generation and provided evidence that microorganisms arise from other microorganisms.
+
+## Honors
+
+Pasteur's academic positions were numerous, and his scientific accomplishments earned him France's highest decoration, the Legion of Honour, as well as election to the Académie des Sciences and many other distinctions. Today there are some 30 institutes and an impressive number of hospitals, schools, buildings, and streets that bear his name—a set of honours bestowed on few scientists.
+
+In 1873, Pasteur was elected as an associate member of the Académie de Médecine. In 1882, the year of his acceptance into the Académie Française, he decided to focus his efforts on the problem of rabies.
+
+## Personal Life and Death
+
+Pasteur had been partially paralyzed since 1868, due to a severe brain stroke, but he was able to continue his research. He celebrated his 70th birthday at the Sorbonne, which was attended by several prominent scientists, including British surgeon Joseph Lister. At that time, his paralysis worsened, and he died on September 28, 1895. Pasteur's remains were transferred to a Neo-Byzantine crypt at the Pasteur Institute in 1896.

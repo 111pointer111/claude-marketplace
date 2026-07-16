@@ -1,0 +1,268 @@
+# 花拉子密（Al-Khwarizmi，约780-850）传记
+
+## 基本信息
+
+全名：穆罕默德·伊本·穆萨·花拉子密（ Muhammad ibn Mūsā al-Khwārizmī）
+出生：约780年
+逝世：约850年
+职业：数学家、天文学家、地理学家
+主要活动地：巴格达智慧宫（House of Wisdom）
+活跃时期：伊斯兰黄金时代（8-9世纪）
+
+## 生平
+
+### 早年背景
+花拉子密生于约780年，具体出生地存在争议。历史学家伊本·纳迪姆（Ibn al-Nadim）在《书目》（Al-Fihrist）中记载他来自花剌子模（Khwarazm，南里海东北岸的阿穆尔海地区，现今乌兹别克斯坦和土库曼斯坦）。也有历史学家如阿尔-塔巴里（al-Tabari）称他来自Qutrubbull，是底格里斯河与幼发拉底河之间靠近巴格达的地区。尽管其名字表明他来自非阿拉伯背景（可能为波斯花剌子模人），但他用阿拉伯语撰写全部科学著作。
+
+关于其宗教信仰，历史学家图默（Toomer）记载，阿尔-塔巴里曾称其为"al-Majūsī"（祆教徒/拜火教徒），这表明他或他的祖先曾信奉古波斯祆教。然而，花拉子密在《代数学》开篇的虔诚祈祷文表明他是一位正统穆斯林，因此阿尔-塔巴里的称呼可能仅意味着他的祖先，或他年轻时曾是祆教徒。
+
+### 在智慧宫的职业生涯
+花拉子密的大部分工作集中在813至833年期间。伊斯兰征服波斯后，巴格达成为科学研究和贸易中心。约820年，他被任命为智慧宫的占星家和图书馆负责人。智慧宫由阿拔斯王朝哈里发阿尔-马蒙（al-Ma'mun，813-833年在位）建立，是翻译希腊哲学和科学著作的学术机构。
+
+花拉子密在智慧宫的工作包括：翻译希腊科学手稿；研究代数、几何和天文学；撰写数学论文。他还在阿拔斯王朝哈里发阿尔-瓦提格（al-Wathiq）统治期间，被派往可萨人（Khazars）的第一次外交使团中担任占星家。
+
+### 主要著作
+
+#### 1. 《代数学》（Al-Jabr，830年）
+《代数学》（al-Kitāb al-mukhtaṣar fī ḥisāb al-jabr wa-l-muqābala，意为"关于通过补全与平衡进行计算的简明书"）是花拉子密最著名和重要的著作，约写于820-830年间。这本书首次将代数作为独立学科系统呈现，提供了线性方程和二次方程的一般解法。
+
+花拉子密在书中将方程化为六种标准形式：
+1. 平方等于根（ax² = bx）
+2. 平方等于数（ax² = c）
+3. 根等于数（bx = c）
+4. 平方加根等于数（ax² + bx = c）
+5. 平方加数等于根（ax² + c = bx）
+6. 根加数等于平方（bx + c = ax²）
+
+他使用两种运算方法："al-jabr"（补全，即从方程中消除负项）和"al-muqābala"（平衡，即化简方程两边同类项）。"algebra"（代数）一词正是来自"al-jabr"。
+
+书中不仅有代数方法，还有几何证明。例如，他用几何方法证明如何通过"完成平方"来解二次方程x² + 10x = 39（答案是x=3）。
+
+#### 2. 《印度计算法》（On the Calculation with Hindu Numerals，825年）
+这部著作介绍了印度-阿拉伯数字系统和十进制位值记数法，在12世纪被翻译成拉丁文引入欧洲。原著阿拉伯文已失传，但拉丁译本仍存。
+
+这部著作让欧洲接触到数字0-9和位值系统的概念，对西方数学发展产生了深远影响。书中介绍的计算方法（包括求平方根的方法，虽然在拉丁译本中缺失）后来通过拉丁译本传播到整个欧洲。
+
+"algorithm"（算法）一词正是来自这部著作书名的拉丁文音译"Algoritmi"。
+
+#### 3. 《地球图像》（Kitāb ṣūrat al-Arḍ，833年）
+《地球图像》（"The Image of the Earth"）是对托勒密地理学的修订和更新，列出了2402个地点的经纬度坐标，是制作世界地图的基础。这项工程在哈里发阿尔-马蒙的资助下完成，由70名地理学家参与。
+
+花拉子密修正了托勒密关于非洲和中东地区的数据，特别是提高了地中海长度和亚洲、非洲城市位置的准确性。
+
+#### 4. 天文著作
+花拉子密还编写了一套天文表（Zīj），基于印度和希腊资料，包括正弦表。余弦表等。这些天文表成为后来天文学家的重要工具，对航海和计时具有关键意义。
+
+他还研究了星盘（astrolabe）和日晷（sundial），并参与测量地球周长的项目。
+
+## 学术影响与评价
+
+### 历史评价
+花拉子密被历史学家萨顿（Sarton）称为"当时最伟大的数学家，如果考虑所有情况，可以说是历史上最伟大的数学家之一"。
+
+数学史学家拉什德（Rashed）评价花拉子密的代数："不可能过度强调其概念和风格上的原创性"。
+
+然而，也有学者提出不同看法。克罗斯利（Crossley）认为花拉子密"可能不太具有原创性"。图默也评论说花拉子密的科学成就"最多只是平平"。
+
+甘斯（Gandz）在《花拉子密代数学的来源》中写道："花拉子密的代数学被认为是科学的基石和台阶。某种意义上，花拉子密比丢番图更配得上'代数学之父'的称号，因为花拉子密是第一个以基础形式为代数本身而教授代数的人，丢番图主要关注的是数论。"
+
+穆罕默德·汗（Mohammad Khan）在《穆斯林对数学的贡献》中写道："在所有时代最伟大的数学家排名中，花拉子密名列前茅。他创作了关于算术和代数的最古老的著作。它们是几个世纪以来东方和西方数学知识的主要来源。算术方面的著作首次将印度数字引入欧洲，正如算法一词所表明的那样；代数方面的著作给欧洲世界的这个重要数学分支起了名字……"
+
+### 在西方的影响
+花拉子密的代数学著作在12世纪被罗伯特·切斯特（Robert of Chester）翻译成拉丁文，一直作为欧洲大学的标准数学教材使用到16世纪。他的算术著作通过拉丁文译本引入十进制位值系统，对欧洲数学发展产生了深远影响。
+
+## 个人特点与学术风格
+
+花拉子密的代数完全是文字叙述，没有使用符号。他用"单位"（a number）、"根"（a root，即x）和"平方"（a square，即x²）来描述方程，完全通过文字而非符号进行运算。
+
+他追求实用，代数书的目的是解决人们在日常事务中遇到的实际问题：遗产分配、诉讼、贸易、土地测量、运河挖掘等。
+
+花拉子密既是理论家也是实践者，他在数学、天文学、地理学、制图学等多个领域都有贡献。
+
+## 历史争议
+
+关于花拉子密的生平，历史资料非常有限。有学者曾试图根据极少的证据进行推测，图默曾基于"al-Majūsi"和"al-Qutrubbulli"等称呼构建了一个关于花拉子密背景的完整幻想。但历史学家拉什德指出，阿尔-塔巴里的文字实际上可能指的是两个人（花拉子密和al-Majūsi al-Qutrubbulli），早期抄本中遗漏了连词"wa"（和）。
+
+## 总结
+
+花拉子密是伊斯兰黄金时代最具影响力的学者之一。他的主要贡献包括：
+1. 代数学：建立了第一个系统性代数学科，"代数"一词来源于他的书名
+2. 算术：介绍了印度-阿拉伯数字系统，"算法"一词来源于他的名字
+3. 地理学：修订托勒密地理学，制作更精确的世界地图
+4. 天文学：编写天文表，对后来航海和计时产生重要影响
+
+花拉子密的工作在8-9世纪连接了希腊、印度和伊斯兰科学传统，并通过12世纪的拉丁翻译传播到欧洲，对文艺复兴和现代数学的发展产生了深远影响。
+
+--- 后世评述 ---
+
+# 花拉子密（Al-Khwarizmi）后世评述
+
+## 1. 学术史上的地位
+
+花拉子密通常被称为"代数学之父"（Father of Algebra），这一称号在数学史界得到广泛认可。他的代数学著作《Al-Jabr》（代数学）是第一本系统性地处理线性方程和二次方程的著作，建立了代数作为一个独立数学学科的基础。
+
+然而，对于花拉子密是否应该被称为"代数学之父"，学者们存在不同看法。一些学者认为古希腊数学家丢番图（Diophantus）更配得上这个称号，因为丢番图的工作更具抽象性。但花拉子密的代数学更具有基础性和实用性，他是第一个将代数作为独立学科并用于解决实际问题的人。
+
+"algorithm"（算法）一词直接来自花拉子密的阿拉伯语名字 al-Khwarizmi 的拉丁化形式 "Algoritmi"，这一命名体现了他的算术工作对西方数学的深远影响。
+
+## 2. 对西方数学的影响
+
+花拉子密的两部主要著作在12世纪被翻译成拉丁文，对欧洲数学产生了深远影响：
+
+### 《代数学》（Al-Jabr）
+- 由罗伯特·切斯特（Robert of Chester）于1145年在塞哥维亚翻译成拉丁文
+- 由杰拉德·克雷莫纳（Gerard of Cremona）翻译
+- 作为欧洲大学的标准数学教材使用到16世纪
+- "algebra"一词来源于书名中的 "al-jabr"
+
+### 《印度计算法》
+- 由阿德拉德·巴思（Adelard of Bath）于12世纪翻译成拉丁文
+- 引入印度-阿拉伯数字系统（0-9）和十进制位值记数法
+- "algorithm"一词来源于书名中的 "Algoritmi"
+
+## 3. 智慧宫（House of Wisdom）的角色
+
+花拉子密在巴格达智慧宫工作，这是阿拔斯王朝哈里发建立的一个学术机构，用于翻译希腊哲学和科学著作。智慧宫收集了来自拜占庭的重要手稿，设立了天文台，是8-9世纪伊斯兰学术繁荣的象征。
+
+花拉子密在智慧宫不仅翻译古代著作，还进行原创研究，在数学、天文学、地理学等领域都有重要贡献。
+
+## 4. 花拉子密与零的概念
+
+花拉子密在介绍印度数字系统的著作中，虽然没有发明零的概念，但他系统地介绍和推广了零在位值系统中的作用。"sifr"（阿拉伯语的零）后来传入欧洲成为 "zenero"，最终演变为英语 "zero"（零）。
+
+## 5. 地理学贡献
+
+花拉子密的《地球图像》（Kitāb ṣūrat al-Arḍ）在833年完成，是修订托勒密地理学的重要著作。他列出了2402个地点的经纬度坐标，制作了更精确的世界地图。他主持了70名地理学家的工作，在哈里发阿尔-马蒙的支持下制作了已知世界的地图。
+
+## 6. 历史争议
+
+关于花拉子密的生平，历史资料极其有限。学者们对他是否真的是花剌子模人、是否曾信仰祆教等问题存在争议。图默（G. J. Toomer）曾基于一些不确定的史料构建了一个关于花拉子密背景的完整描述，但后来被其他学者（如Roshdi Rashed）指出其中的错误。
+
+伊本·纳迪姆在《书目》（Al-Fihrist）中记载花拉子密来自花剌子模，但也有历史学家认为他来自靠近巴格达的Qutrubbull地区。
+
+## 7. 波斯背景
+
+尽管花拉子密的名字表明他来自波斯花剌子模地区（现乌兹别克斯坦和土库曼斯坦），但他用阿拉伯语撰写全部科学著作。在伊斯兰黄金时代，许多来自波斯的学者用阿拉伯语进行学术写作，这是当时学术界的普遍做法。
+
+## 8. 数学史中的原创性问题
+
+关于花拉子密代数学的原创性问题，学者们有不同的看法：
+
+- 甘斯（Gandz）认为花拉子密的代数基础来自巴比伦数学，但以系统和独创的方式呈现
+- 拉什德（Rashed）认为花拉子密很可能熟悉欧几里得的《几何原本》
+- 也有学者认为花拉子密主要是一位综合者和传播者，而非原创思想家
+
+## 9. 花拉子密对后世数学家的影响
+
+花拉子密的工作对后世数学家产生了深远影响，包括：
+- 阿布·卡米尔（Abu Kamil of Egypt）
+- 尼科洛·塔尔塔利亚（Nicolo Tartaglia）
+- 斐波那契（Fibonacci）在《算盘书》中介绍了印度-阿拉伯数字系统
+- 欧洲文艺复兴时期的数学家们
+
+## 10. 遗产与纪念
+
+- 1983年苏联发行了纪念花拉子密约1200周年诞辰的邮票
+- 2020年在马德里建立了花拉子密雕像
+- 1001号小行星被命名为花拉子密
+- 101号元素"鿏"（Meitnerium）的命名者为了纪念他，建议以"Al-Khwarizmi"命名，但最终未获批准
+
+--- 引语 ---
+
+# 花拉子密（Al-Khwarizmi）引语集
+
+## 直接引语
+
+### 1. 关于代数学的目的（来自《代数学》原文）
+
+"When I consider what people generally want in calculating, I found that it always is a number. I also observed that every number is composed of units, and that any number may be divided into units. Moreover, I found that every number which may be expressed from one to ten, surpasses the preceding by one unit: afterwards the ten is doubled or tripled just as before the units were: thus arise twenty, thirty, etc. until a hundred: then the hundred is doubled and tripled in the same manner as the units and the tens, up to a thousand; ... so forth to the utmost limit of numeration."
+
+（当我考虑人们在计算中通常需要什么时，我发现总是需要一个数。我也观察到每个数都是由单位组成的，任何数都可以分成单位。我还发现从一到十的每个数都比前一个多一个单位：然后十被加倍或三倍，就像之前对单位的处理一样：由此产生二十、三十等，直到一百；然后一百就像单位和十一样被加倍或三倍，直到一千……以此类推，直至计算的最远极限。）
+
+—— Al-Khwarizmi, Algebra (Rosen translation)
+
+### 2. 代数学实践导向的声明
+
+"... what is easiest and most useful in arithmetic, such as men constantly require in cases of inheritance, legacies, partition, lawsuits, and trade, and in all their dealings with one another, or where the measuring of lands, the digging of canals, geometrical computations, and other objects of various sorts and kinds are concerned."
+
+（……算术中最容易和最有用的部分，比如人们在遗产继承、遗嘱分割、诉讼、贸易以及所有相互交往中经常需要的，或者土地测量、运河挖掘、几何计算和各种其他事务中需要的。）
+
+—— Al-Khwarizmi, Algebra (Rosen translation)
+
+### 3. 关于解二次方程的描述
+
+"... a square and 10 roots are equal to 39 units. The question therefore in this type of equation is about as follows: what is the square which combined with ten of its roots will give a sum total of 39? The manner of solving this type of equation is to take one-half of the roots just mentioned. Now the roots in the problem before us are 10. Therefore take 5, which multiplied by itself gives 25, an amount which you add to 39 giving 64. Having taken then the square root of this which is 8, subtract from it half the roots, 5 leaving 3. The number three therefore represents one root of this square, which itself, of course is 9. Nine therefore gives the square."
+
+（……一个平方和10个根等于39个单位。这类方程的问题大致如下：什么平方与它的10个根相加会得到39的总和？解这类方程的方法是取所述根的一半。现在我们面前的问题中根是10。因此取5，5自乘得25，将其加到39得64。然后取其平方根8，从中减去根的一半5，剩下3。因此数字3代表这个平方的一个根，而这个平方本身是9。因此9就是该平方。）
+
+—— Al-Khwarizmi, Algebra (Rosen translation)
+
+### 4. "Dixit algorizmi"（拉丁译本开篇语）
+
+"Dixit algorizmi" — 拉丁文意思是"So said al-Khwarizmi"，是花拉子密算术著作拉丁译本的开篇语。"Algorithm"（算法）一词正是从"Algoritmi"（花拉子密名字的拉丁文形式）演化而来。
+
+### 5. 关于零的传播
+
+花拉子密在介绍印度数字的著作中，介绍了零的概念和使用方法，虽然他没有直接发明零的概念，但他系统化了零在位值系统中的作用。
+
+## 后世评价引语
+
+### 6. 萨顿（Sarton）的评价
+
+"... the greatest mathematician of the time, and if one takes all the circumstances into account, one of the greatest of all time...."
+
+（……当时最伟大的数学家，如果考虑所有情况，可以说是历史上最伟大的数学家之一……）
+
+—— George Sarton, 引用自 MacTutor History of Mathematics
+
+### 7. 拉什德（Rashed）的评价
+
+"It is impossible to overstress the originality of the conception and style of al-Khwarizmi's algebra..."
+
+（不可能过度强调花拉子密代数学的概念和风格的原创性……）
+
+—— Roshdi Rashed, The Development of Arabic Mathematics: Between Arithmetic and Algebra (London, 1994)
+
+### 8. 甘斯（Gandz）的评价
+
+"Al-Khwarizmi's algebra is regarded as the foundation and cornerstone of the sciences. In a sense, al-Khwarizmi is more entitled to be called 'the father of algebra' than Diophantus because al-Khwarizmi is the first to teach algebra in an elementary form and for its own sake, Diophantus is primarily concerned with the theory of numbers."
+
+（花拉子密的代数学被认为是科学的基石和台阶。某种意义上，花拉子密比丢番图更配得上"代数学之父"的称号，因为花拉子密是第一个以基础形式为代数本身而教授代数的人，丢番图主要关注的是数论。）
+
+—— Solomon Gandz, The Sources of Al-Khwarizmi's Algebra (Osiris, 1936)
+
+### 9. 穆罕默德·汗（Mohammad Khan）的评价
+
+"In the foremost rank of mathematicians of all time stands Al-Khwarizmi. He composed the oldest works on arithmetic and algebra. They were the principal source of mathematical knowledge for centuries to come in the East and the West. The work on arithmetic first introduced the Hindu numbers to Europe, as the very name algorism signifies; and the work on algebra ... gave the name to this important branch of mathematics in the European world..."
+
+（在所有时代最伟大的数学家排名中，花拉子密名列前茅。他创作了关于算术和代数的最古老的著作。它们是几个世纪以来东方和西方数学知识的主要来源。算术方面的著作首次将印度数字引入欧洲，正如算法一词所表明的那样；代数方面的著作给欧洲世界的这个重要数学分支起了名字……）
+
+—— Mohammad Khan, 引用自 A. A. al'Daffa, The Muslim Contribution to Mathematics (London, 1978)
+
+### 10. 图默（Toomer）的评价
+
+"... the decimal place-value system was a fairly recent arrival from India and ... al-Khwarizmi's work was the first to expound it systematically. Thus, although elementary, it was of seminal importance."
+
+（……十进制位值系统是从印度相当近期传入的……花拉子密的著作是第一个系统阐述它的。因此，虽然是基础性的，但它具有开创性的重要性。）
+
+—— G. J. Toomer, Biography in Dictionary of Scientific Biography
+
+### 11. 帕肖尔（Parshall）的评价
+
+"... because his treatment of practical geometry so closely followed that of the Hebrew text, Mishnat ha Middot, which dated from around 150 AD, the evidence of Semitic ancestry exists."
+
+（……因为他对实用几何的处理与约公元150年的希伯来文本《Mishnat ha Middot》非常相似，这证明了闪族血统的证据存在。）
+
+—— K. H. Parshall, The Art of Algebra from Al-Khwarizmi to Viète (Hist. of Sci. 26, 1988)
+
+### 12. 阿里·伊本·里沙德（Ali ibn al-Rashid）的评价
+
+花拉子密在哈里发阿尔-马蒙的资助下，主持了70名地理学家的工作，制作了当时已知世界的地图。
+
+### 13. 历史学家关于花拉子密的不确定性
+
+"We know few details of Abu Ja'far Muhammad ibn Musa al-Khwarizmi's life. One unfortunate effect of this lack of knowledge seems to be the temptation to make guesses based on very little evidence."
+
+（我们对阿布·贾法尔·穆罕默德·伊本·穆萨·花拉子密的生平知之甚少。这种知识匮乏的一个不幸后果似乎是，基于极少证据进行猜测的诱惑。）
+
+—— J. J. O'Connor and E. F Robertson, MacTutor History of Mathematics

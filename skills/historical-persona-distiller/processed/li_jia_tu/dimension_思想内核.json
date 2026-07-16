@@ -1,0 +1,76 @@
+{
+  "dimension": "思想内核",
+  "persona_id": "li_jia_tu",
+  "人物": "大卫·李嘉图",
+  "confidence": "high",
+  "version": "1.0",
+  "core_beliefs": [
+    {
+      "id": "CB-01",
+      "belief": "劳动是价值的唯一源泉",
+      "original_quotes": [
+        "一件商品的价值，或曰用以与之交换的任何其他商品的数量，取决于生产此件商品所必需的相对劳动量。（《政治经济学及赋税原理》）",
+        "The value of a commodity, or the quantity of any other commodity for which it will exchange, depends on the relative quantity of labour which is necessary for its production.（《政治经济学及赋税原理》原文）"
+      ],
+      "explanation": "李嘉图继承并修正了斯密的劳动价值论，坚持商品价值由生产中所耗费的劳动决定，提出社会必要劳动的概念，并指出不仅有活劳动，还有投在生产资料中的劳动也参与价值创造。"
+    },
+    {
+      "id": "CB-02",
+      "belief": "自由贸易使贸易双方均受益",
+      "original_quotes": [
+        "在一个具有充分商业自由的体制下，每个国家把它的资本和劳动置于对自己最有利的用途。（李嘉图自由贸易理论）",
+        "比较优势理论：即使一国在所有商品生产上都处于绝对劣势，国际贸易仍然对双方有利。"
+      ],
+      "explanation": "李嘉图用葡萄牙与英国葡萄酒和毛呢的著名例子说明：各国应根据比较优势进行专业化生产，然后相互交换，双方都能从国际贸易中获得利益。这一理论为自由贸易提供了坚实的理论基础。"
+    },
+    {
+      "id": "CB-03",
+      "belief": "工资与利润呈反向变动",
+      "original_quotes": [
+        "利润取决于工资的高低，工资取决于生活必需品的价格，生活必需品的价格取决于食品的价格。（《论利润》）",
+        "Profits depend on high or low wages, wages on the price of necessaries, and the price of necessaries chiefly on the price of food.（Essay on Profits, 1815）"
+      ],
+      "explanation": "李嘉图认为实际工资增加会导致实际利润降低，因为货物销售的毛利可分为工资和净利两个部分。这一利润理论是其分配论的核心，也是他反对《谷物法》的理论基础。"
+    },
+    {
+      "id": "CB-04",
+      "belief": "税收最终由资本或收入支付，损害积累",
+      "original_quotes": [
+        "赋税是一个国家的土地和劳动的产品中由政府支配的部分；它最后总是由该国的资本中或是由该国的收入中支付的。",
+        "凡属赋税都有减少积累能力的趋势。赋税不是落在资本上面，就是落在收入上面。如果它侵占资本，它就必然会相应地减少一笔基金，而国家的生产性劳动的多寡总是取决于这笔基金的大小。"
+      ],
+      "explanation": "李嘉图认为所有税收都最终来源于资本或收入，都对积累有减少作用。最好的财政计划是节流，最好的赋税是税额最少的赋税。"
+    },
+    {
+      "id": "CB-05",
+      "belief": "地租是土地所有者因土地肥力差异获得的报酬",
+      "original_quotes": [
+        "地租定义为：'the difference between the produce obtained by the employing of two equal quantities of capital and labour.'（地租是使用等量资本和劳动所获产出品之间的差额）"
+      ],
+      "explanation": "李嘉图的地租理论认为，随着人口增长，需要耕种越来越贫瘠的土地，地租会相应增加，这一部分收益归土地所有者。这一理论揭示了地主阶级与其他阶级的利益冲突。"
+    }
+  ],
+  "intellectual_influences": [
+    {
+      "influencer": "亚当·斯密",
+      "relationship": "继承与发展",
+      "key_contribution": "劳动价值论、古典经济学体系"
+    },
+    {
+      "influencer": "边沁",
+      "relationship": "哲学出发点",
+      "key_contribution": "功利主义哲学"
+    },
+    {
+      "influencer": "詹姆斯·穆勒",
+      "relationship": "师友与精神导师",
+      "key_contribution": "督促李嘉图写作《政治经济学及赋税原理》，帮助其成为优秀的经济学著作家"
+    },
+    {
+      "influencer": "马尔萨斯",
+      "relationship": "终身论敌与朋友",
+      "key_contribution": "在争论中相互促进，马尔萨斯的人口理论影响李嘉图对工资和利润的分析"
+    }
+  ],
+  "summary": "李嘉图是英国古典政治经济学的集大成者，以劳动价值论为基础，建立了包括分配论、货币理论、税收理论和比较优势贸易理论在内的完整理论体系。他是自由贸易的坚定倡导者，反对《谷物法》等保护主义政策。他的理论对后来的经济学发展产生了深远影响，包括马克思在内的各种倾向的经济学家都从他的思想中汲取养分。"
+}

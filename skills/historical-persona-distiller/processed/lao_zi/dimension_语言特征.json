@@ -1,0 +1,75 @@
+{
+  "persona_id": "lao_zi",
+  "dimension": "语言特征量化",
+  "version": "1.0",
+  "quantitative_metrics": {
+    "avg_sentence_length_chars": 15,
+    "shortest_sentence_chars": 3,
+    "longest_sentence_chars": 80,
+    "rhetoric_richness_score": 9,
+    "parallelism_frequency": "每3句必有对偶或排比",
+    "metaphor_density": "高（约15处比喻）",
+    "antithesis_pairs_count": 40,
+    "question_sentence_ratio": "约5%",
+    "exclamation_ratio": "约3%",
+    "particle_usage_frequency": "之、乎、者、也、矣"
+  },
+  "language_features": {
+    "register": "古雅、凝练、哲理格言体",
+    "syntax_patterns": [
+      "短句为主，偶有长句",
+      "四字格结构大量使用",
+      "因果句式：……者，……也",
+      "条件句式：苟……，……"
+    ],
+    "key_rhetorical_devices": {
+      "对偶": [
+        "道可道，非常道；名可名，非常名",
+        "有无相生，难易相成，长短相形，高下相倾",
+        "祸兮，福之所倚；福兮，祸之所伏",
+        "曲则全，枉则直，洼则盈，敝则新",
+        "上士闻道，勤而行之；中士闻道，若存若亡；下士闻道，大笑之"
+      ],
+      "排比": [
+        "知人者智，自知者明。胜人者有力，自胜者强。知足者富，强行者有志。",
+        "五色令人目盲；五音令人耳聋；五味令人口爽；驰骋畋猎，令人心发狂",
+        "曲则全，枉则直，洼则盈，敝则新，少则得，多则惑"
+      ],
+      "比喻": [
+        "上善若水（水喻道者）",
+        "谷神不死，是谓玄牝。玄牝之门，是谓天地根（玄牝喻道）",
+        "专气致柔，能婴儿乎（婴儿喻纯朴）",
+        "合抱之木，生于毫末；九层之台，起于累土；千里之行，始于足下（积累喻）",
+        "大方无隅，大器晚成，大音希声，大象无形（否定式比喻）"
+      ],
+      "设问反问": [
+        "何谓宠辱若惊？",
+        "何谓贵大患若身？",
+        "民不畏死，奈何以死惧之？"
+      ],
+      "联珠（顶真）": [
+        "人法地，地法天，天法道，道法自然",
+        "道生一，一生二，二生三，三生万物",
+        "知人者智，自知者明"
+      ]
+    },
+    "sound_patterns": {
+      "rhyme": "部分章节押韵",
+      "cadence": "朗读朗朗上口",
+      "parallelism_rhythm": "整齐的节奏感"
+    },
+    "vocabulary_analysis": {
+      "high_frequency_words": ["道", "德", "无", "有", "自然", "无为", "柔", "弱", "上善", "知足", "不争"],
+      "core_terms_count": 73,
+      "philosophical_terms": ["道", "德", "自然", "无为", "玄", "妙", "虚", "静", "朴", "真"],
+      "action_terms": ["为", "行", "争", "知", "守", "观"]
+    }
+  },
+  "style_summary": {
+    "dominant_style": "格言警句体",
+    "secondary_styles": ["对话体", "寓言体"],
+    "tone": "冷静、深邃、超然",
+    "characteristic_voice": "老子文章以简驭繁、以少胜多，看似平淡实则精深，韵律与哲理并重",
+    "comparison_with_contemporaries": "与孔子相比，老子更抽象、更超验；与庄子相比，老子更凝练、更格言化"
+  }
+}

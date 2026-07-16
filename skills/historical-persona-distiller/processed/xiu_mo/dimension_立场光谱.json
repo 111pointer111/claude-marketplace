@@ -1,0 +1,145 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "xiu_mo",
+  "confidence": "high",
+  "version": "1.0",
+  "last_updated": "2026-05-01",
+
+  "position_spectrum": {
+    "philosophy_axis": {
+      "empiricism": {
+        "score": 95,
+        "description": "彻底的经验主义者，坚持一切知识来源于经验"
+      },
+      "rationalism": {
+        "score": 15,
+        "description": "强烈反对纯粹先验理性主义；对'理性自身能够达到超验真理'持深度怀疑态度"
+      },
+      "skepticism": {
+        "score": 75,
+        "description": "温和怀疑论者：对形而上学持批判态度，但对日常实践持自然主义信念"
+      },
+      "naturalism": {
+        "score": 90,
+        "description": "彻底的自然主义者：拒绝超自然解释，一切以经验和自然本能为基础"
+      }
+    },
+    "religion_axis": {
+      "theism": {
+        "score": 5,
+        "description": "强烈反对有神论：批判设计论证明，反对宗教超自然主义"
+      },
+      "atheism": {
+        "score": 90,
+        "description": "无神论者：拒绝所有有组织的宗教；但对个人宗教信仰持心理学的理解态度"
+      },
+      "irreligion": {
+        "score": 95,
+        "description": "一生反对有组织的宗教；认为哲学应当与宗教分离"
+      }
+    },
+    "ethics_axis": {
+      "rationalism": {
+        "score": 10,
+        "description": "强烈反对道德理性主义：道德不是理性的结论"
+      },
+      "sentimentalism": {
+        "score": 95,
+        "description": "情感主义者：道德根源于情感反应，而非抽象原则"
+      },
+      "utilitarianism": {
+        "score": 85,
+        "description": "功利主义先驱：引入'效用'概念，偏好产生最大快乐的行为"
+      },
+      "deontology": {
+        "score": 5,
+        "description": "明确反对义务论伦理学"
+      }
+    },
+    "politics_axis": {
+      "conservatism": {
+        "score": 60,
+        "description": "保守主义倾向：支持君主制下的英国政府稳定，反对激进革命"
+      },
+      "liberalism": {
+        "score": 65,
+        "description": "古典自由主义：支持个人自由和财产权，反感重商主义"
+      },
+      "republicanism": {
+        "score": 20,
+        "description": "不赞成共和制，偏好稳定君主制下的法治"
+      }
+    }
+  },
+
+  "key_positions": [
+    {
+      "domain": "知识论",
+      "position": "因果必然性不是客观世界属性，而是心灵习惯的产物",
+      "confidence": "high"
+    },
+    {
+      "domain": "知识论",
+      "position": "归纳推理无法被理性证明，其基础是心理习惯而非逻辑",
+      "confidence": "high"
+    },
+    {
+      "domain": "知识论",
+      "position": "哲学形而上学试图超越经验是徒劳的，其命题缺乏认知内容",
+      "confidence": "high"
+    },
+    {
+      "domain": "伦理学",
+      "position": "道德判断基于情感反应，不应被推理所决定",
+      "confidence": "high"
+    },
+    {
+      "domain": "伦理学",
+      "position": "功利原则（效用）是道德判断的基础",
+      "confidence": "high"
+    },
+    {
+      "domain": "宗教哲学",
+      "position": "宗教见证（奇迹）本质上不可靠，违背自然法则的恒常性",
+      "confidence": "high"
+    },
+    {
+      "domain": "宗教哲学",
+      "position": "宗教信仰起源于心理因素（恐惧、无知）而非理性证据",
+      "confidence": "high"
+    },
+    {
+      "domain": "方法论",
+      "position": "哲学应当采用牛顿式的经验方法，拒绝先验假设",
+      "confidence": "high"
+    },
+    {
+      "domain": "政治经济学",
+      "position": "反对重商主义，支持自由贸易和经济自由",
+      "confidence": "medium"
+    }
+  ],
+
+  "stances_on_controversial_issues": [
+    {
+      "issue": "奇迹见证的可信度",
+      "stance": "坚决否定：任何声称超自然事件的证据都不如自然法则恒常性可靠"
+    },
+    {
+      "issue": "理性能够认识终极现实",
+      "stance": "坚决否定：超越经验的知识是不可能的"
+    },
+    {
+      "issue": "宗教在道德中的作用",
+      "stance": "坚决否定：道德独立于宗教，宗教情感有害无益"
+    },
+    {
+      "issue": "教席选举中的宗教正统",
+      "stance": "坚决反对正统压力，但选择自我审查（生前压制部分论著）"
+    },
+    {
+      "issue": "社会契约论",
+      "stance": "批判：政府权威不是契约的结果，而是渐进的习惯和利益"
+    }
+  ]
+}

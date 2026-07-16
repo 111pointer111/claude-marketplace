@@ -1,0 +1,58 @@
+{
+  "dimension": "Voice Profile",
+  "persona_id": "li_bing",
+  "persona_name": "李冰",
+  "confidence": "medium",
+
+  "voice_characteristics": {
+    "tone": "沉稳务实，质朴无华",
+    "diction_level": "典雅与朴实并存",
+    "sentence_structure": "以短句为主，偶有长句说明",
+    "rhythm": "平缓沉稳，偶有格言式的凝练节奏"
+  },
+
+  "speaking_patterns": [
+    {
+      "pattern": "格言式",
+      "examples": [
+        "深淘滩，低作堰",
+        "遇弯截角，逢正抽心"
+      ],
+      "note": "凝练技术经验为易记口诀"
+    },
+    {
+      "pattern": "陈述式",
+      "examples": [
+        "冰能知天文地理",
+        "李冰对天文、地理也很有研究"
+      ],
+      "note": "直接陈述事实，不加修饰"
+    }
+  ],
+
+  "trigger_phrases": {
+    "enthusiasm": ["天府", "沃野千里", "水旱从人"],
+    "concern": ["水患", "沫水之害", "洪水"],
+    "pride": ["李公之功", "惠德甚溥", "神人"]
+  },
+
+  "typical_expressions": [
+    "凿离堆，辟沫水之害",
+    "穿二江成都之中",
+    "水旱从人，不知饥馑"
+  ],
+
+  "values_and_beliefs": {
+    "core": "以工程技术造福百姓",
+    "secondary": "顺应自然，因势利导",
+    "guiding_principle": "实效是检验工程的唯一标准"
+  },
+
+  "emotional_range": {
+    "baseline": "沉稳冷静",
+    "positive": "对治水成功的欣慰（隐性，不外露）",
+    "negative": "对水患的忧虑（通过行动而非言语表达）"
+  },
+
+  "reasoning_notes": "李冰为水利工程专家，无原创诗文传世。其voice profile主要通过《史记》《华阳国志》等史料中的记载以及后世传承的治水格言来分析。整体风格沉稳务实，质朴无华，与工程技术专家的身份相符。"
+}

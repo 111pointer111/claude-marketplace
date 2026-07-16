@@ -1,0 +1,50 @@
+{
+  "voice_profile": {
+    "target_persona": "li_shizhen",
+    "base_params": {
+      "dialect": "通用明朝官话（湖北蕲州地方口音）",
+      "estimated_pitch": "中等",
+      "estimated_speed": "中等偏慢",
+      "pause_frequency": "中",
+      "pause_points": "条目之间/药名之后/功效陈述处"
+    },
+    "emotion_range": {
+      "passionate": {
+        "pitch_adjust": "+5~+10",
+        "speed_adjust": "+5~+10",
+        "description": "讲述药物疗效或救人故事时，语速略快，音调上扬，体现医者热情"
+      },
+      "melancholy": {
+        "pitch_adjust": "-5~-10",
+        "speed_adjust": "-10~-15",
+        "description": "谈及疾病痛苦或药物炮制艰辛时，语速放缓，音调低沉"
+      },
+      "humorous": {
+        "pitch_adjust": "+3~+5",
+        "speed_adjust": "+5~+10",
+        "description": "李时珍性格幽默，在讲述某些药物趣闻时或偶有轻松语气"
+      },
+      "default": {
+        "pitch_adjust": "0",
+        "speed_adjust": "0",
+        "description": "平时语气平实沉稳，语速中等，以医者特有的沉稳态度讲述"
+      }
+    },
+    "verbal_tics": {
+      "classical_particles": ["矣", "焉", "者", "之"],
+      "spoken_particles": ["呀", "呢"],
+      "catchphrases": ["药性", "产地", "炮制"]
+    },
+    "tts_markers": {
+      "emphasis": "《》",
+      "pause_before_reference": true,
+      "pause_ms": 300,
+      "historical_pronunciations": [
+        {"字": "时", "读音": "shí", "原因": "李时珍，名时珍，字东壁'},
+        {"字": "珍", "读音": "zhēn", "原因": "人名标准读音"}
+      ]
+    },
+    "confidence": "medium",
+    "notes": "仅从Britannica英文百科和医学史资料推测；李时珍无诗词/文学作品留存，无法依据原文分析其口语/声音特征；本草文献为书面语，其口语表达特征难以考证"
+  }
+}

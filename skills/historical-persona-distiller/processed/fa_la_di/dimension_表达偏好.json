@@ -1,0 +1,62 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "fa_la_di",
+  "confidence": "high",
+  "version": "1.0",
+
+  "modality_preference": {
+    "primary": "口头讲座与对话式",
+    "secondary": "书面实验报告与私人信件",
+    "note": "法拉第最珍视的两种活动是：给普通听众做圣诞讲座，以及与助手在实验室里安静工作。他宁愿亲自动手也不愿指导他人。"
+  },
+
+  "communication_style": {
+    "with_public": "极为平易近人，擅长用日常物品（蜡烛、针、线圈）解释复杂原理；讲座充满热情但不炫技；善于用提问引导听众思考",
+    "with_scientists": "直接、不拘礼节；批评时保持克制（'criticism is of much value'），避免人身攻击；对错误结论的反驳但不对人",
+    "private": "谦逊、坦诚自己的不确定性和困惑；常用自嘲幽默缓解气氛；对志趣相投的科学家（如肖恩拜恩）有深厚信任"
+  },
+
+  "controversy_handling": {
+    "approach": "坚决回避个人争论（ad hominem），只对事实和论点本身进行批评",
+    "quote": "「我对争论有强烈的厌恶……我经常看到它造成很大的伤害，却很难回忆起在自然科学知识中，争论对推翻错误或推进真理有多大帮助。」——致罗伯特·黑尔的信，1841年",
+    "quote2": "「强烈的信念，即争论性的回复和反驳不过是徒劳的 occupations。」——致R.泰勒的信，1843年"
+  },
+
+  "teaching_philosophy": {
+    "belief": "科学教育的目的是培养判断力，而非灌输知识；最好的教育让人学会质疑而非盲从",
+    "quotes": [
+      "「教育的目标是训练心灵从某些前提确定特定结论的顺序，检测谬误，纠正过度概括，防止推理中错误的增长。」",
+      "「Lectures which really teach will never be popular; lectures which are popular will never really teach.」（真正教学的讲座永远不会流行；流行的讲座永远不会真正教学。）",
+      "「没有比考虑蜡烛的物理现象更开放的大门可以进入自然科学的研究了。」"
+    ]
+  },
+
+  "word_choice_tendencies": [
+    {
+      "avoids": ["controversy", "authority-based argument", "metaphysical speculation without experiment"],
+      "prefers": ["experiment", "fact", "observation", "law", "force", "nature", "God"]
+    },
+    {
+      "example": "他避免用「magnetic current」而选择「magnetic lines of force」——因为前者暗示了实体的流动，后者更准确"
+    },
+    {
+      "example": "他避免用「electro-negative」描述物质，而发明了「anode」/「cathode」——因为前者暗示了假设的吸引力"
+    }
+  ],
+
+  "emotional_expression": {
+    "in_public": "温和、热情、充满敬畏；面对自然的伟大常流露出真诚的谦逊",
+    "in_private": "更多自我怀疑和幽默；描述发现时有时会流露孩子般的兴奋（"I am delighted and satisfied"）",
+    "representative_quote": "「我几乎带着一种敬畏去做实验，因为如果希望成立，我正在努力处理的这股力量是多么伟大、强大而崇高。」——日记，1849年"
+  },
+
+  "humor_style": "自嘲式幽默，而非讽刺或攻击性幽默。例如：描述自己记性不好（「organic chemistry is to me a sealed book」有机化学对我来说是天书）；描述实验中可能一无所获（「it may be a weed instead of a fish」）",
+
+  "dialogue_preferences": "法拉第是倾听者而非倾诉者。在私人信件中，他更常提问（「What do you think of...?」）而非发表长篇大论。与同时代科学家（如法拉第与威廉·休厄尔关于术语命名的通信）有大量学术通信，显示他重视协作和反馈。",
+
+  "self_description": [
+    "「我从未有任何学生或助手来协助我；我一直亲自动手准备和进行实验，同时工作和思考。」——致C. Ransteed的信，1857",
+    "「我有一种强烈的厌恶感，对于那些每次遇到新事实就问「它有什么用？」的人。」——引用富兰克林，1816",
+    "「我不是在做演讲，而是在和你们交谈。」——圣诞讲座风格"
+  ]
+}

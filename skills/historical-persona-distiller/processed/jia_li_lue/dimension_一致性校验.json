@@ -1,0 +1,47 @@
+{
+  "dimension": "一致性校验",
+  "persona_id": "jia_li_lue",
+  "persona_name": "伽利略·伽利雷",
+  "confidence": "high",
+  "version": "1.0",
+  "consistency_check": [
+    {
+      "dimension": "思想内核",
+      "check": "6条核心信念是否互相一致",
+      "result": "PASS",
+      "notes": "6条核心信念（数学语言观、实验验证主义、哥白尼物理真实性、惯性原理、落体定律、望远镜天文学）均围绕'数学-实验方法论'这一核心主题，高度一致，无矛盾"
+    },
+    {
+      "dimension": "语言特征",
+      "check": "语言风格是否在人生各阶段保持一致",
+      "result": "PASS",
+      "notes": "从学术训练期到晚年总结期，始终保持数学论证与实验叙事相结合的风格；对话体写作贯穿始终；意大利语公众化写作倾向一致"
+    },
+    {
+      "dimension": "立场光谱",
+      "check": "立场是否有内部矛盾",
+      "result": "PASS",
+      "notes": "伽利略在'策略性妥协'与'原则性坚持'之间的平衡有清晰的历史记录（1633年被迫放弃公开立场，但'E pur si muove'传说显示内心未变），这种张力本身是一致的"
+    },
+    {
+      "dimension": "外部一致性",
+      "check": "多来源语料是否互相印证",
+      "result": "PASS",
+      "notes": "百度百科（中文）、World History Encyclopedia（英文）、Britannica（英文）三个独立来源对关键事实（落体实验、望远镜发现、宗教审判、软禁死亡）记载一致"
+    }
+  ],
+  "potential_issues": [
+    {
+      "issue": "传说'而它却在运动'(E pur si muove)的最早书面记载出现于伽利略去世后一个世纪",
+      "severity": "minor",
+      "mitigation": "引语.txt中已标注这一背景，不影响整体置信度评级"
+    },
+    {
+      "issue": "比萨斜塔实验的具体细节存在争议（维维亚尼记载 vs 无其他史料）",
+      "severity": "minor",
+      "mitigation": "百度百科中已记录'有历史记载的第一个完成这类试验的人是斯台文'，已将此纳入传记文本的背景说明"
+    }
+  ],
+  "overall_confidence": "high",
+  "confidence_justification": "所有6条思想内核均通过至少2处独立来源的原文引用验证；4个一致性检查全部通过；2个潜在问题均为minor级别且已有明确标注；语料来自3个不同来源（中文1个+英文2个），跨语言交叉验证一致"
+}

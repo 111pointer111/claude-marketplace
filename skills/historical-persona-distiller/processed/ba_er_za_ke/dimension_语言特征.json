@@ -1,0 +1,52 @@
+{
+  "persona_id": "ba_er_za_ke",
+  "dimension": "语言特征",
+  "confidence": "high",
+  "version": "1.0",
+  "last_updated": "2026-05-05",
+
+  "叙事风格": {
+    "客观写实": "以冷静的现实主义笔触描写社会，拒绝浪漫主义的理想化",
+    "细节堆砌": "对 domestic background（家庭背景）细致入微的描写是巴尔扎克标志性的手法",
+    "全知视角": "叙述者以社会观察者的身份，对人物进行深度心理分析",
+    "百科全书式": "涉及银行业、出版业、工业企业、艺术、文学、政治、贵族与资产阶级社交等各个社会层面"
+  },
+
+  "句式特征": {
+    "长句为主": "句子结构复杂，善于用从句和分句进行多层因果关系的表达",
+    "排比句": "频繁使用排比结构列举社会的多个层面",
+    "例子": "the contrast between provincial and metropolitan manners and customs; the commercial spheres of banking, publishing, and industrial enterprise; the worlds of art, literature, and high culture"
+  },
+
+  "词汇特征": {
+    "社会学术语": "频繁使用 bourgeoisie, aristocracy, dandy, financier, bankrupt 等社会阶层与金融词汇",
+    "心理学术语": "monomaniac, vital fluid, passion, obsession 等描述人物内心状态",
+    "物质意象": "大量使用与金钱、财产、房产相关的意象",
+    "咖啡与写作": "黑色咖啡、鹅毛笔、修道院晨袍成为他个人形象的符号"
+  },
+
+  "重复主题词": [
+    "vital force / vital fluid（生命力）",
+    "bourgeois / bourgeoisie（资产阶级）",
+    "aristocracy（贵族）",
+    "ambition（野心）",
+    "passion / obsession（激情/偏执）",
+    "debauchery / self-destructive（放荡/自我毁灭）",
+    "monomaniac（偏执者）",
+    "social climbing（向上爬）",
+    "material acquisitiveness（物质获取）"
+  ],
+
+  "标志性意象": {
+    "黑色咖啡": "无尽的黑咖啡是他写作燃料，也是对生命的消耗",
+    "修道院晨袍": "quasi-monastic dressing gown，白色，象征苦修式写作生活",
+    "鹅毛笔": "goose-quill pen，传统与执着",
+    "生命力之流": "vital fluid 既是生理概念也是精神概念"
+  },
+
+  "与其他作家对比": {
+    "vs_浪漫主义": "浪漫主义逃避现实，巴尔扎克直面现实；浪漫主义理想化，巴尔扎克冷峻写实",
+    "vs_福楼拜": "福楼拜追求文字的完美形式，巴尔扎克追求社会的完整再现",
+    "vs_雨果": "雨果有强烈的道德立场，巴尔扎克更中性观察；雨果有政治理想，巴尔扎克只描述不说教"
+  }
+}

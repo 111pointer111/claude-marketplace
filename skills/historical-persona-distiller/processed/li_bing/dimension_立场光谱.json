@@ -1,0 +1,35 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "li_bing",
+  "persona_name": "李冰",
+  "confidence": "medium",
+
+  "political_orientation": {
+    "summary": "秦帝国技术官僚，服务于中央集权的统一战略",
+    "alignment": "秦王朝忠臣，技术立功",
+    "evidence": ["秦昭襄王任命李冰为蜀郡太守", "李冰修筑都江堰服务于秦国的统一战略（提供兵源、财力）"]
+  },
+
+  "governance_philosophy": {
+    "primary": "实用主义",
+    "secondary": "民本思想",
+    "description": "以工程技术解决民生问题，不尚空谈，注重实效"
+  },
+
+  "cultural_stance": {
+    "summary": "兼收并蓄",
+    "evidence": [
+      "吸收蜀地原有治水经验",
+      "结合秦地技术优势",
+      "融通华夏与蜀地文化"
+    ]
+  },
+
+  "social_values": {
+    "hierarchy": "维护秦帝国统治",
+    "equality": "以民生为准，不问贵贱",
+    "innovation": "技术创新，火烧水击法等"
+  },
+
+  "note": "李冰为水利工程专家，其立场主要体现在服务于秦帝国统一战略和以民生为本的治水理念上。由于史料有限，部分分析依赖后世记载反推。"
+}

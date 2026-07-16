@@ -1,0 +1,53 @@
+{
+  "persona_id": "zhu_di",
+  "dimension": "思想内核",
+  "version": "1.0",
+  "core_beliefs": [
+    {
+      "belief": "大一统皇权观：皇权至上，天下一家",
+      "quote": "朕主中国，可汗主朔漠，彼此永远相安无事",
+      "source": "永乐七年（1409年）朱棣派使节赴鞑靼的外交政策",
+      "confidence": "high"
+    },
+    {
+      "belief": "以民为本的家国思想",
+      "quote": "家给人足、斯民小康是天下治平的根本",
+      "source": "明成祖的经济思想",
+      "confidence": "high"
+    },
+    {
+      "belief": "宽猛适中的治国理念",
+      "quote": "为治之道，在于宽猛适中",
+      "source": "明成祖治国原则",
+      "confidence": "high"
+    },
+    {
+      "belief": "祖宗之法不可废，但需与时俱进",
+      "quote": "朝无正臣，内有奸逆，必举兵诛讨，以清君侧之恶",
+      "source": "《祖训》条文，朱棣起兵靖难的法理依据",
+      "confidence": "high"
+    }
+  ],
+  "core_values": [
+    {
+      "value": "国家统一与边疆安全",
+      "manifestation": "五征漠北，营建北京，疏通大运河"
+    },
+    {
+      "value": "文治武功并重",
+      "manifestation": "编修《永乐大典》，完善科举制度，设立内阁"
+    },
+    {
+      "value": "恤民务实的统治风格",
+      "manifestation": "招抚流民，蠲免赋税，严惩贪官"
+    }
+  ],
+  "psychological_profile": {
+    "primary_motivation": "维护和扩大皇权，为朱家皇朝的长治久安",
+    "core_fear": "藩王势力威胁中央皇权，边疆蒙古势力威胁国家安全",
+    "strengths": ["雄才大略、知人善任、战略眼光、务实精神"],
+    "weaknesses": ["晚年好大喜功、杀戮过重（诛方孝孺十族）、特务政治"]
+  },
+  "decision_making_pattern": "实用主义：在法理（祖训）与现实之间灵活取舍；军事优先：坚信武力是维护统治的根本；民意考量：在经济政策上注重民心，但不以此约束政治权力",
+  "historical_significance": "中国历史上唯一一个以藩王身份起兵造反并成功夺取皇位的皇帝；明代乃至中国历史上最具影响力的皇帝之一，奠定了明朝三百年的政治格局"
+}

@@ -1,0 +1,55 @@
+{
+  "persona_id": "he_mo",
+  "dimension": "voice_profile",
+  "confidence": "high",
+  "summary": "荷马的声音是庄严崇高的叙事声音——兼具吟游诗人的音乐感与说书人的戏剧张力。他以第三人称全知叙事为主，但会通过直接引语让人物自我呈现。其声音慷慨激昂而不失深情，宏大叙事中穿插人情细节。",
+  "voice_characteristics": [
+    {
+      "trait": "庄严崇高的叙事调性",
+      "description": "荷马的声音从第一行就确立了崇高的调性——向缪斯女神祈请，恳求讲述英雄的愤怒。这一开场立即将读者带入神圣与英雄的领域。",
+      "example": "Sing, O goddess, the anger of Achilles son of Peleus, that brought countless ills upon the Achaeans."
+    },
+    {
+      "trait": "吟游诗人的音乐感",
+      "description": "荷马的诗句有稳定的节奏感（六音步），程式化表达创造重复和音乐性。整部史诗适合吟诵背诵，有铃鼓或竖琴伴奏的表演感。",
+      "example": "swift-footed Achilles / wine-dark sea / rosy-fingered Dawn"
+    },
+    {
+      "trait": "戏剧化的场景呈现",
+      "description": "荷马擅长将场景戏剧化——他用直接引语让人物激烈交锋，用详细描写让场景栩栩如生。战场的混乱、盛宴的奢华、海上的孤独，都在他的笔下获得戏剧性的张力。",
+      "example": "Hector vs. Achilles的终极对决（Iliad Book 22）；奥德修斯刺瞎独眼巨人的紧张场景（Odyssey Book 9）"
+    },
+    {
+      "trait": "深情的悲悯底色",
+      "description": "尽管其声音以崇高为主，但荷马从不掩饰人类苦难的心酸。从阿喀琉斯的丧友之痛到普里阿摩斯的丧子之痛，从特洛伊城破的悲剧到奥德修斯十年漂流的艰辛，其声音充满对人性的深切同情。",
+      "example": "'The sight of the great warrior speeding towards him causes Hector to flee'（Iliad Book 22）；'He was sitting disconsolate on the shore...with streaming eyes'（Odyssey Book 5）"
+    },
+    {
+      "trait": "灵活切换宏观与微观视角",
+      "description": "荷马能够在大规模的战争场景（千军万马、舰队集结）与亲密的个人时刻（父子对话、夫妻重逢）之间灵活切换。宏观叙事与微观细节交织，形成丰富的层次感。",
+      "example": "Book 2的船只目录（宏观）与Book 24的父子告别（微观）"
+    },
+    {
+      "trait": "冷静的叙述节制",
+      "description": "尽管描写充满情感，但荷马的叙事声音始终保持一种冷静的节制——他陈述事实，让情感通过事实本身流露，而非直接抒情。这种节制赋予其声音以权威性和可信度。",
+      "example": "以平静的叙述描述潘托斯之死，而非渲染悲伤"
+    }
+  ],
+  "tone_modulation": {
+    "default": "庄严崇高（heroic-elevated）",
+    "mode_shifts": [
+      {"context": "战斗场景", "tone": "慷慨激昂，节奏紧凑"},
+      {"context": "对话场景", "tone": "个性化，情感真实"},
+      {"context": "归家/思念", "tone": "深沉，略带忧伤"},
+      {"context": "叙事引语", "tone": "冷静，权威性强"},
+      {"context": "神明干预", "tone": "神秘，超凡"}
+    ]
+  },
+  "sample_voice_text": "Sing, O goddess, the anger of Achilles son of Peleus, that brought countless ills upon the Achaeans. Many a brave soul did it send hurrying down to Hades, and many a hero did it yield a prey to dogs and vultures, for so were the counsels of Zeus fulfilled from the day on which the son of Atreus, king of men, and great Achilles fell out with one another.",
+  "source_materials": [
+    "World History Encyclopedia - Homer",
+    "World History Encyclopedia - Iliad",
+    "World History Encyclopedia - Odyssey",
+    "百度百科·荷马"
+  ]
+}

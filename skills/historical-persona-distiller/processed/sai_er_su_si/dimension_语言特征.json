@@ -1,0 +1,82 @@
+{
+  "persona_id": "sai_er_su_si",
+  "dimension": "语言特征",
+  "version": "1.0",
+  "confidence": "high",
+  "confidence_rationale": "Celsus的拉丁文风格受到古典文学学者的一致认可，有明确的文学史评价支撑。",
+
+  "quantitative_features": {
+    "sentence_structure": "以复杂长句为主，但逻辑清晰",
+    "平均句长": "中等偏长（拉丁语古典风格）",
+    "paragraph_length": "中等，结构对称",
+    "vocabulary_register": "学术/文学拉丁语，介于日常与诗歌之间"
+  },
+
+  "stylistic_markers": [
+    {
+      "feature": "对称性",
+      "description": "整部著作以对称性和完整性著称",
+      "example": "Prooemium中对医学史的叙述呈现出时间上的对称结构",
+      "source": "LacusCurtius Introduction"
+    },
+    {
+      "feature": "清晰明快",
+      "description": "语言有力、明晰，与西塞罗哲学散文相近",
+      "example": "Prooemium第13节中清晰列举Dogmatic学派和Empiric学派的论点",
+      "source": "LacusCurtius Introduction"
+    },
+    {
+      "feature": "实用性词汇优先",
+      "description": "尽管文风优雅，但优先使用表达明确、操作性强的词汇",
+      "example": "描述药物制备和手术步骤时使用精确术语",
+      "source": "De Medicina Books V-VIII"
+    },
+    {
+      "feature": "格言式总结",
+      "description": "重要观点以简洁有力的格言形式呈现",
+      "example": "It is not by eloquence but by remedies that diseases are treated.",
+      "source": "Prooemium"
+    },
+    {
+      "feature": "教学式结构",
+      "description": "采用分步骤、有序的阐述方式，适合教学",
+      "example": "Book I中对健康人生活规则的逐条描述",
+      "source": "De Medicina Book I"
+    }
+  ],
+
+  "latin_style": {
+    "period": "Augustan Age (1st century AD)",
+    "characteristics": [
+      "纯正优雅，接近Cicero和Caesar的散文风格",
+      "避免过度修饰和堆砌华丽辞藻",
+      "逻辑性强，善于使用对比和类比",
+      "适度使用希腊语术语但不滥用"
+    ],
+    "comparison": "被比为'为科学写作的西塞罗'"
+  },
+
+  "translation_quality_note": "Celsus的拉丁文已被多次翻译，英文译本（W.G. Spencer Loeb版）被认为可靠，但存在一些术语翻译不一致的问题。",
+
+  "key_linguistic_choices": [
+    {
+      "term": "ars medicinae / Art of Medicine",
+      "choice_rationale": "使用'艺术'而非'科学'，反映古典时代对实践技艺的定位"
+    },
+    {
+      "term": "natura / Nature",
+      "choice_rationale": "核心概念，指身体的自然自愈能力，大写Nature表示，将其视为治疗的主导力量"
+    },
+    {
+      "term": "ratio / reasoned theory",
+      "choice_rationale": "指系统化的理论知识，与纯粹经验相对"
+    },
+    {
+      "term": "experientia / experience",
+      "choice_rationale": "指来自实践观察的知识"
+    }
+  ],
+
+  "notable_quotation_style": "Celsus常通过具体案例场景（'如果某人…'）引出一般性规则，体现归纳与演绎的结合"
+
+}

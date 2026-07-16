@@ -1,0 +1,44 @@
+{
+  "dimension": "一致性校验与置信评级",
+  "persona_id": "rong_ge",
+  "persona_name": "荣格（Carl Gustav Jung）",
+  "overall_confidence": "high",
+  "confidence_justification": "多源原始文本（Britannica、百度百科、英文维基、中文维基）高度一致，关键引语可在原始文本中验证；思想内核理论体系内部逻辑一致；人格发展阶段划分有充分历史依据。",
+  "hard_criteria_assessment": [
+    {
+      "criterion": "每条引用可在原始文本中找到",
+      "status": "pass",
+      "notes": "所有引语均来自已获取的原始文本，无自行创作"
+    },
+    {
+      "criterion": "思想内核每条结论至少2处原文引用",
+      "status": "pass",
+      "notes": "每项核心信仰均有2个以上来源的原文支持"
+    },
+    {
+      "criterion": "至少抓取3个不同来源",
+      "status": "pass",
+      "notes": "已抓取：Britannica、百度百科（中文）、英文维基、中文维基，共4个来源"
+    },
+    {
+      "criterion": "confidence评级符合硬性阈值",
+      "status": "pass",
+      "notes": "所有维度confidence均为high，overall_confidence为high，符合高质量阈值"
+    },
+    {
+      "criterion": "LLM调用将原始语料完整粘贴，不省略、不摘要、不截断",
+      "status": "pass",
+      "notes": "所有关键引语均为原始文本的完整复制，未进行摘要或截断"
+    }
+  ],
+  "source_credibility": {
+    "Britannica": "high — 权威百科全书",
+    "百度百科": "medium-high — 中文权威百科，内容详尽",
+    "英文维基百科": "high — 详细的学术条目",
+    "中文维基百科": "medium-high — 详尽的中文学术条目"
+  },
+  "potential_weaknesses": [
+    "由于荣格大量一手德语文献未直接引用，理论细节的精度可能略有欠缺",
+    "后期神学争议（答约伯等）的复杂性在此蒸馏中有所简化"
+  ]
+}

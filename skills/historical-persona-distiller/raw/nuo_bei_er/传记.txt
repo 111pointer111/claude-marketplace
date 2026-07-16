@@ -1,0 +1,60 @@
+# Britannica - Alfred Nobel Biography (Main Source)
+# Source: https://www.britannica.com/biography/Alfred-Nobel
+# ~13,594 characters
+
+Alfred Nobel | Inventions, Dynamite, Prizes, & Facts
+
+### What is Alfred Nobel famous for?
+Alfred Nobel was a Swedish chemist, engineer, and industrialist who invented dynamite and other more powerful explosives and who also founded the Nobel Prizes.
+
+### Why was Alfred Nobel called "the merchant of death"?
+A French newspaper erroneously published Nobel's obituary instead of his brother's and condemned Nobel for his invention of dynamite, calling him "the merchant of death."
+
+### Why did Alfred Nobel create the Nobel Prizes?
+To honor those who conferred the greatest benefit to humankind, inspired partly by his friendship with pacifist Bertha von Suttner and partly by his desire to avoid a posthumous reputation as a "merchant of death."
+
+### When was Alfred Nobel born?
+October 21, 1833, in Stockholm, Sweden.
+
+### How was Alfred Nobel educated?
+He was educated by private tutors in St. Petersburg, Russia. He was fluent in English, French, German, and Russian as well as Swedish by age 16.
+
+### How did Alfred Nobel die?
+He died of a cerebral hemorrhage on December 10, 1896, in San Remo, Italy.
+
+### How did Alfred Nobel found the Nobel Prizes?
+He left the bulk of his fortune in his 1895 will to establish prizes in physics, chemistry, physiology or medicine, literature, and peace.
+
+---
+
+## Full Biography Text
+
+Alfred Nobel (born October 21, 1833, Stockholm, Sweden—died December 10, 1896, San Remo, Italy) was a Swedish chemist, engineer, and industrialist who invented dynamite and other more powerful explosives and who also founded the Nobel Prizes.
+
+## Early life
+
+Alfred Nobel was the fourth son of Immanuel and Caroline Nobel. Immanuel was an inventor and engineer who had married Caroline Andrietta Ahlsell in 1827. The couple had eight children, of whom only Alfred and three brothers reached adulthood. Alfred was prone to illness as a child, but he enjoyed a close relationship with his mother and displayed a lively intellectual curiosity from an early age. He was interested in explosives, and he learned the fundamentals of engineering from his father. Immanuel, meanwhile, had failed at various business ventures until moving in 1837 to St. Petersburg in Russia, where he prospered as a manufacturer of explosive mines and machine tools. The Nobel family left Stockholm in 1842 to join the father in St. Petersburg. Alfred's newly prosperous parents were now able to send him to private tutors, and he proved to be an eager pupil. He was a competent chemist by age 16 and was fluent in English, French, German, and Russian as well as Swedish.
+
+Alfred Nobel left Russia in 1850 to spend a year in Paris studying chemistry and then spent time in the United States working under the direction of John Ericsson, the builder of the ironclad warship Monitor. Upon his return to St. Petersburg, in 1852, Nobel worked in his father's factory, which made military equipment during the Crimean War. After the war ended in 1856, the company had difficulty switching to the peacetime production of steamboat machinery, and it went bankrupt in 1859.
+
+## Inventions: blasting caps and dynamite
+
+Alfred and his parents returned to Sweden, while his brothers Robert and Ludvig stayed behind in Russia to salvage what was left of the family business. Alfred soon began experimenting with explosives in a small laboratory on his father's estate. At the time, the only dependable explosive for use in mines was black powder, a form of gunpowder. A recently discovered liquid compound, nitroglycerin, was a much more powerful explosive, but it was so unstable that it could not be handled with any degree of safety. Nevertheless, Nobel in 1862 built a small factory to manufacture nitroglycerin, and at the same time he undertook research in the hope of finding a safe way to control the explosive's detonation. In 1863 he invented a practical detonator consisting of a wooden plug inserted into a larger charge of nitroglycerin held in a metal container; the explosion of the plug's small charge of black powder serves to detonate the much more powerful charge of liquid nitroglycerin. This detonator marked the beginning of Nobel's reputation as an inventor as well as the fortune he was to acquire as a maker of explosives. In 1865 Nobel invented an improved detonator called a blasting cap; it consisted of a small metal cap containing a charge of mercury fulminate that can be exploded by either shock or moderate heat. The invention of the blasting cap inaugurated the modern use of high explosives.
+
+Nitroglycerin itself, however, remained difficult to transport and extremely dangerous to handle. So dangerous, in fact, that Nobel's nitroglycerin factory blew up in 1864, killing his younger brother Emil and several other people. Undaunted by this tragic accident, Nobel built several factories to manufacture nitroglycerin for use in concert with his blasting caps. These factories were as safe as the knowledge of the time allowed, but accidental explosions still occasionally occurred. Nobel's second important invention was that of dynamite in 1867. By chance, he discovered that nitroglycerin was absorbed to dryness by kieselguhr, a porous siliceous earth, and the resulting mixture was much safer to use and easier to handle than nitroglycerin alone. Nobel named the new product dynamite (from Greek dynamis, "power") and was granted patents for it in Great Britain (1867) and the United States (1868). Dynamite established Nobel's fame worldwide and was soon put to use in blasting tunnels, cutting canals, and building railways and roads.
+
+In the 1870s and '80s Nobel built a network of factories throughout Europe to manufacture dynamite, and he formed a web of corporations to produce and market his explosives. He also continued to experiment in search of better ones, and in 1875 he invented a more powerful form of dynamite, blasting gelatin, which he patented the following year. Again by chance, he had discovered that mixing a solution of nitroglycerin with a fluffy substance known as nitrocellulose results in a tough, plastic material that has a high water resistance and greater blasting power than ordinary dynamites. In 1887 Nobel introduced ballistite, one of the first nitroglycerin smokeless powders and a precursor of cordite. Although Nobel held the patents to dynamite and his other explosives, he was in constant conflict with competitors who stole his processes, a fact that forced him into protracted patent litigation on several occasions.
+
+Nobel's brothers Ludvig and Robert, in the meantime, had developed newly discovered oilfields near Baku (now in Azerbaijan) along the Caspian Sea and had themselves become immensely wealthy. Alfred's worldwide interests in explosives, along with his own holdings in his brothers' companies in Russia, brought him a large fortune. In 1893 he became interested in Sweden's arms industry, and the following year he bought an ironworks at Bofors near Varmland that became the nucleus of the well-known Bofors arms factory. Besides explosives, Nobel made many other inventions, such as artificial silk and leather, and altogether he registered more than 350 patents in various countries.
+
+## Personality and later years
+
+Nobel's complex personality puzzled his contemporaries. Although his business interests required him to travel almost constantly, he remained a lonely recluse who was prone to fits of depression. He led a retired and simple life and was a man of ascetic habits, yet he could be a courteous dinner host, a good listener, and a man of incisive wit. He never married, and apparently preferred the joys of inventing to those of romantic attachment. He had an abiding interest in literature and wrote plays, novels, and poems, almost all of which remained unpublished. He had amazing energy and found it difficult to relax after intense bouts of work. Among his contemporaries, he had the reputation of a liberal or even a socialist, but he actually distrusted democracy, opposed suffrage for women, and maintained an attitude of benign paternalism toward his many employees. Though Nobel was essentially a pacifist and hoped that the destructive powers of his inventions would help bring an end to war, his view of mankind and nations was pessimistic.
+
+By 1895 Nobel had developed angina pectoris, and he died of a cerebral hemorrhage at his villa in San Remo, Italy, in 1896. At his death his worldwide business empire consisted of more than 90 factories manufacturing explosives and ammunition. The opening of his will, which he had drawn up in Paris on November 27, 1895, and had deposited in a bank in Stockholm, contained a great surprise for his family, friends, and the general public. He had always been generous in humanitarian and scientific philanthropies, and he left the bulk of his fortune in trust to establish what came to be the most highly regarded of international awards, the Nobel Prizes.
+
+We can only speculate about the reasons for Nobel's establishment of the prizes that bear his name. He was reticent about himself, and he confided in no one about his decision in the months preceding his death. The most plausible assumption is that a bizarre incident in 1888 may have triggered the train of reflection that culminated in his bequest for the Nobel Prizes. That year Alfred's brother Ludvig had died while staying in Cannes, France. The French newspapers reported Ludvig's death but confused him with Alfred, and one paper sported the headline "Le marchand de la mort est mort" ("The merchant of death is dead.") Perhaps Alfred Nobel established the prizes to avoid precisely the sort of posthumous reputation suggested by this premature obituary. It is certain that the actual awards he instituted reflect his lifelong interest in the fields of physics, chemistry, physiology, and literature. There is also abundant evidence that his friendship with the prominent Austrian pacifist Bertha von Suttner inspired him to establish the prize for peace.
+
+Quick Facts:
+- In full: Alfred Bernhard Nobel
+- Nobel himself, however, remains a figure of paradoxes and contradictions: a brilliant, lonely man, part pessimist and part idealist, who invented the powerful explosives used in modern warfare but also established the world's most prestigious prizes for intellectual services rendered to humanity.

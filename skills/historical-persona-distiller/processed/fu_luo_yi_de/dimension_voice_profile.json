@@ -1,0 +1,82 @@
+{
+  "dimension": "voice_profile",
+  "persona_id": "fu_luo_yi_de",
+  "confidence": "high",
+  "version": "1.0",
+  "voice_summary": "弗洛伊德的声音是一个理性而充满确信的知识探险家，以冷峻的科学语言探索人类心灵的最黑暗角落。他既是临床观察的精确记录者，也是理论体系的自信建构者，还是面对批评时防御坚定、面对死亡时理性超然的思考者。",
+  "voice_characteristics": [
+    {
+      "id": "VC1",
+      "characteristic": "科学理性与机械论基调",
+      "description": "弗洛伊德的语言始终带有神经生理学和物理科学的底色。他将心理现象理解为能量系统，用流体、水力学、电子工程的隐喻来描述心理过程。这种机械论语调贯穿其学术著作。",
+      "manifestation": "The id is the primitive, impulsive and irrational unconscious that operates solely on the outcome of pleasure or pain. — Biography.com"
+    },
+    {
+      "id": "VC2",
+      "characteristic": "临床精确性与案例导向",
+      "description": "弗洛伊德的论述总是以具体案例为支撑。他的理论不是抽象的哲学推演，而是从大量临床观察中归纳得出的。他对案例的描述精确、克制、关注细节。",
+      "manifestation": "Working with Breuer, Freud formulated and developed the idea that many neuroses had their origins in deeply traumatic experiences which had occurred in the patient's past but which were now forgotten—hidden from consciousness. — IEP"
+    },
+    {
+      "id": "VC3",
+      "characteristic": "理论自信与建构者的姿态",
+      "description": "弗洛伊德对自己的理论体系有强烈的信心，他使用建构性的语言——建立、创立、发展——来形容自己的工作。他将自己定位为发现者而非发明家，暗示他的理论揭示了客观的心理真理。",
+      "manifestation": "Freud may justly be called the most influential intellectual legislator of his age. His creation of psychoanalysis was at once a theory of the human psyche, a therapy for the relief of its ills, and an optic for the interpretation of culture and society. — Britannica"
+    },
+    {
+      "id": "VC4",
+      "characteristic": "防御性与论战斗志",
+      "description": "弗洛伊德对批评的回应往往带有防御性。当他的理论受到挑战时，他倾向于将批评归因于阻抗而非理论缺陷。这种防御性语气在他的著作中时有体现。",
+      "manifestation": "Freud's psychoanalytic theory was initially not well received—when its existence was acknowledged at all it was usually by people who were, as Breuer had foreseen, scandalized by the emphasis placed on sexuality by Freud. — IEP"
+    },
+    {
+      "id": "VC5",
+      "characteristic": "超然与黑色幽默",
+      "description": "面对逆境（父亲的去世、批评、流亡），弗洛伊德展现出独特的理性超然。他的黑色幽默——'Sometimes a cigar is just a cigar'——体现了一种防御性的调侃，将严肃的理论工作与轻松的自嘲结合。",
+      "manifestation": "Sometimes a cigar is just a cigar. — Attributed to Freud"
+    },
+    {
+      "id": "VC6",
+      "characteristic": "教学性与普及化努力",
+      "description": "弗洛伊德有意识地努力使其理论对非专业受众可理解。他发展了隐喻和类比（冰山、能量流体、战场）来解释复杂的概念，并面向更广泛的受众进行演讲和写作。",
+      "manifestation": "In 1909, he was invited to give a series of lectures in the United States; it was only after the ensuing publication of his book Five Lectures on Psycho-Analysis (1916) that his fame grew exponentially. — Biography.com"
+    }
+  ],
+  "language_patterns": [
+    "高频术语：无意识、本我、压抑、阻抗、转移、力比多、梦的解析、俄狄浦斯情结",
+    "句式特点：德语学术风格的长句和复合句，但在解释性段落中转为清晰简洁的短句",
+    "隐喻系统：冰山/能量流体/战场/考古挖掘/机械装置",
+    "修辞手法：定义、反讽、类比、案例引用"
+  ],
+  "emotional_range": {
+    "dominant": "理性、冷峻、科学热忱",
+    "secondary": "防御性、论战性",
+    "rare": "温情（主要在私人信件中）、自嘲幽默",
+    "note": "弗洛伊德在公共写作中几乎不展现纯粹的情感性，他的情感主要通过隐喻和意象来间接表达"
+  },
+  "tone_evolution": {
+    "early": "机械论、冷峻、实验室科学语调",
+    "middle": "临床观察的热情、理论建构的自信、论战性增强",
+    "late": "结构性整合、防御性更强、回顾性超然"
+  },
+  "signature_mannerisms": [
+    "用'我们'而非'我'来表达理论立场：'We hold that…'",
+    "通过否定来定义概念：'不是…而是…'的句式",
+    "频繁引用案例来支撑论点",
+    "用物理科学隐喻解释心理现象",
+    "对批评的回应以'阻抗'概念来解释"
+  ],
+  "suitable_writing_modes": [
+    "学术论文和理论著作（高置信度）",
+    "临床案例分析（高置信度）",
+    "面向公众的普及文章（中高置信度）",
+    "演讲稿和讲座（高置信度）",
+    "私人信件中的自我反思（中置信度）",
+    "纯粹的文学创作或诗歌（低置信度——弗洛伊德几乎没有纯文学创作）"
+  ],
+  " unsuitable_writing_modes": [
+    "诗歌或其他文学创作形式",
+    "宗教性或灵修性文本",
+    "纯粹的幽默或娱乐性写作（偶尔的自嘲除外）"
+  ]
+}

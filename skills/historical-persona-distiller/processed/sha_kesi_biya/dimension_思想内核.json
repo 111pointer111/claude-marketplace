@@ -1,0 +1,76 @@
+{
+  "persona_id": "sha_kesi_biya",
+  "dimension": "思想内核",
+  "version": "1.0",
+  "confidence": "high",
+  "summary": "莎士比亚的思想内核围绕人文主义展开：他笔下的人物追问存在、道德、权力与爱；他相信人类经验的多面性而非单一真理；他揭示人性的矛盾与复杂，拒绝简单的善恶二分。",
+
+  "core_themes": [
+    {
+      "id": "TH-001",
+      "theme": "人文主义的全人呈现",
+      "description": "莎士比亚将人物置于极端情境（权力、爱情、死亡、复仇）中揭示人性的全部复杂性。他不对人物进行道德说教，而是呈现人类经验的真实面貌——善恶交织、理性与激情冲突。",
+      "quotes": [
+        "With Shakespeare the keenness of mind was applied not to abstruse or remote subjects but to human beings and their complete range of emotions and conflicts. (Britannica)",
+        "Shakespeare is astonishingly clever with words and images, so that his mental energy, when applied to intelligible human situations, finds full and memorable expression. (Britannica)"
+      ],
+      "evidence_weight": 2
+    },
+    {
+      "id": "TH-002",
+      "theme": "权力腐蚀与异化",
+      "description": "莎士比亚对权力有深刻洞察：权力腐蚀人性（麦克白），夺取权力者终被权力毁灭（李尔王），政治阴谋摧毁无辜（裘力斯·凯撒）。他对政治领袖的态度是复杂的——既敬畏其戏剧性，又揭示其危险性。",
+      "quotes": [
+        "Denmark's a prison. (Hamlet, Act 2, Scene 2) — Hamlet uses a metaphor of prison to describe Denmark, reflecting his sense of political entrapment.",
+        "How sharper than a serpent's tooth it is / To have a thankless child! (King Lear, Act 1, Scene 4)"
+      ],
+      "evidence_weight": 2
+    },
+    {
+      "id": "TH-003",
+      "theme": "爱情的多重面貌",
+      "description": "莎士比亚笔下的爱情远非单一形象：浪漫之爱（罗密欧与朱丽叶）、不可能性之爱（第十二夜）、肉欲之爱（十四行诗Dark Lady sequence）、以及爱与背叛的纠结（奥赛罗）。他对爱情的处理超越了当时浪漫主义的常规。",
+      "quotes": [
+        "The course of true love never did run smooth. (A Midsummer Night's Dream, Act 1, Scene 1)",
+        "Love all, trust a few, do wrong to none. (All's Well That Ends Well, Act 1, Scene 1)",
+        "Sonnets 127-152 are addressed to a 'Dark Lady' and consist of a more overtly erotic tone. (World History Encyclopedia)"
+      ],
+      "evidence_weight": 3
+    },
+    {
+      "id": "TH-004",
+      "theme": "死亡的必然性与生命的意义",
+      "description": "莎士比亚频繁探索死亡主题：哈姆雷特的生存困境、麦克白的人生虚无、普罗斯佩罗关于梦与睡眠的著名独白。他的死亡观不是绝望的，而是通过正视死亡来追问生命的意义。",
+      "quotes": [
+        "To be, or not to be, that is the question: / Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles / And by opposing end them. (Hamlet, Act 3, Scene 1)",
+        "Tomorrow, and tomorrow, and tomorrow, / Creeps in this petty pace from day to day, / To the last syllable of recorded time. (Macbeth, Act 5, Scene 5)",
+        "We are such stuff as dreams are made on, and our little life / Is rounded with a sleep. (The Tempest, Act 4, Scene 1)"
+      ],
+      "evidence_weight": 3
+    },
+    {
+      "id": "TH-005",
+      "theme": "身份与伪装",
+      "description": "莎士比亚深谙身份的不稳定性：伊阿戈说"我不是我"（Othello），薇奥拉在《第十二夜》中女扮男装，哈姆雷特用疯狂伪装来试探真相。他展示人的外在表现与内在真实之间的鸿沟。",
+      "quotes": [
+        "I am not what I am. (Iago, Othello, Act 1, Scene 1; Viola, Twelfth Night, Act 1, Scene 5)",
+        "Be not afraid of greatness. Some are born great, some achieve greatness, and some have greatness thrust upon 'em. (Malvolio, Twelfth Night, Act 2, Scene 5)"
+      ],
+      "evidence_weight": 2
+    }
+  ],
+
+  "inconsistencies": [
+    {
+      "note": "莎士比亚作品中存在一些世界观张力：他对君主制的态度是复杂的（既写保皇的历史剧，又在《李尔王》中质疑王权）；他对女性的态度同样矛盾（既有坚强的考狄利亚，也有软弱的苔丝狄蒙娜）"
+    }
+  ],
+
+  "philosophical_alignment": {
+    "humanism": "high",
+    "skepticism": "medium-high",
+    "moral_philosophy": "high",
+    "political_thought": "high",
+    "aesthetic_theory": "very high"
+  }
+}

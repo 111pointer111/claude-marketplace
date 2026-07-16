@@ -1,0 +1,52 @@
+# 帕斯卡（Blaise Pascal）后世评述
+
+## 来源：Stanford Encyclopedia of Philosophy
+
+### 关于帕斯卡作为哲学家的争议
+Cole (1995, Chapter 15) argues that Pascal exhibited signs of manic depression and an almost infantile dependence on his family in his mature years. In addition, many of the reported details of his personal life suggest a fundamentalist interpretation of religious belief that is difficult to reconcile with the critical reflection that defines philosophy as a discipline.
+
+### 关于帕斯卡的文学声誉
+Pascal did not publish any philosophical works during his relatively brief lifetime. His status in French literature today is based primarily on the posthumous publication of a notebook in which he drafted or recorded ideas for a planned defence of Christianity.
+
+### 关于阅读帕斯卡为哲学家的谨慎
+There is a complementary reason for urging caution about reading Pascal as a philosopher. He wrote much but published little, none of which was philosophy in the sense in which that term is used today.
+
+### 关于帕斯卡科学工作的遗产
+Edwards explains (Hammond, 2003: Chapter 3) that Pascal's contribution to probability theory was not recognised until it was used by Bernoulli in the early eighteenth century.
+
+## 来源：World History Encyclopedia
+
+### 关于帕斯卡的文学成就
+Both Lettres provinciales and Pensées have been praised for Pascal's taut and eminently readable writing style, quite different from what was then the norm in religious-themed texts.
+
+### 关于帕斯格的独特历史地位
+Pascal is the only major scientist of the Scientific Revolution to "attain greatness in both science and literature" (Burns, 171).
+
+### 关于帕斯卡的影响
+Pascal's thoughts on religious belief were influential, too, especially on Jean-Jacques Rousseau (1712-1778). More recently, for his contribution to early computing machines, Pascal has been honoured by having a programming language named after him.
+
+### 关于帕斯卡赌注的批评
+Some critics, notably W. K. Clifford (1845-1879), have pointed out that Pascal seems to be putting truth in a subordinate position to self-interest. Under Pascal's wager, the believer is only believing because it seems the best thing to do. Further, God would know this, and so one risked being damned forever anyway.
+
+Another criticism is that Pascal's bet has only two outcomes, and it is presented as a 50:50 chance, when in reality, there may be more possible outcomes, and the bet is not even. For example, there may be a God, but he/she may be nothing like the Christian one, and so believing in that version of the supreme deity may not be sufficient to gain a blissful afterlife.
+
+## 来源：Britannica
+
+### 关于帕斯格的遗产
+The establishment of his principle of intuitionism had an impact on such later philosophers as Jean-Jacques Rousseau and Henri Bergson and also on the Existentialists.
+
+### 关于帕斯卡的工作方法
+帕斯卡的论战方法（in Les Provinciales）利用了Jansenists的逻辑和Montaigne的怀疑论，对17世纪下半叶法国宗教思想产生了决定性影响。
+
+## 综合评价
+
+帕斯卡在西方思想史上的地位极为独特：他是17世纪科学革命时期唯一同时在科学和文学两方面都达到顶峰的人物。他被称为"会思想的芦苇"，这句话概括了他对人类有限性的深刻洞察。
+
+帕斯卡对后世哲学的影响是多方面的：
+1. 他的概率论研究为现代数学奠定了基础
+2. 他的Pascal's Wager成为宗教哲学的经典论证
+3. 他的"心灵有理性所不知道的理由"成为理性主义和情感主义对话中的重要命题
+4. 他的存在主义先驱色彩影响了帕斯卡后的存在主义哲学家
+5. 以他命名的编程语言Pascal体现了计算机科学对他的纪念
+
+帕斯格的写作风格以简洁、尖锐、富有格言性著称，《致外省人书》和《思想录》都是法国文学的经典之作。

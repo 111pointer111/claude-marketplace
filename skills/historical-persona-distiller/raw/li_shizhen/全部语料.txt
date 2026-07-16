@@ -1,0 +1,112 @@
+# 李时珍全部语料
+
+## 一、传记原文
+
+### Britannica 简介
+
+Li Shizhen (born 1518, China—died 1593) was a Chinese scholar of the Ming dynasty (1368–1644) who compiled a highly influential materia medica, the Bencao gangmu (Compendium of Materia Medica), which described 1,892 drugs and presented directions for preparing some 11,000 prescriptions. Completed in 1578, the book was in part a compilation of other smaller works of the same kind. It contained descriptions of 1,094 herbs and 444 animal and 275 mineral substances. Li described such seemingly modern processes as distillation and the uses of mercury, ephedrine, chaulmoogra oil, iodine, and even smallpox inoculation. A revised edition of the work published in the 1600s contained more than 1,100 illustrations.
+
+### Britannica — Bencao gangmu 条目
+
+Bencao gangmu (Compendium of Materia Medica) — completed in 1578, the book was in part a compilation of other smaller works of the same kind. It contained descriptions of 1,094 herbs and 444 animal and 275 mineral substances.
+
+In China: Literature and scholarship: "produced great illustrated encyclopedias, including Bencao gangmu (late 16th century; 'Index of Native Herbs'), a monumental materia medica listing 1,892 herbal concoctions and their applications"
+
+In history of medicine: "note was the compilation of Pencao kangmu ('Great Pharmacopoeia'), a valuable volume on herbs and medicine that was the fruit of 26 years of labour. This work, in 52 volumes, has been frequently revised and reprinted and is still authoritative. The use of drugs is mainly to restore the harmony of the yin and the yang and is also related to such matters as the five organs, the five planets, and the five colors."
+
+From the China education article: "Shijen in the compilation of Bencao gangmu (the 'Great Pharmacopoeia') in the 16th century ce. This work, in 52 volumes, has been frequently revised and reprinted and is still authoritative."
+
+### 生平基本信息
+
+- 生于：1518年（中国）
+- 卒于：1593年
+- 朝代：明朝（1368-1644）
+- 主要成就：编纂《本草纲目》
+- 《本草纲目》完成时间：1578年
+- 历时：26年
+- 记载药物：1892种
+- 收录处方：约11000个
+- 包含：1094种草药、444种动物药、275种矿物药
+- 52卷
+- 1600年代修订版含1100多幅插图
+
+### 《本草纲目》历史地位
+
+- 16世纪完成
+- 被誉为"Great Pharmacopoeia"（伟大药典）
+- 52卷
+- 多次修订再版，至今仍具权威性
+- 涵盖了蒸馏工艺、汞、麻黄碱、大风子油、碘等现代药物的记载
+- 甚至记载了天花接种方法
+
+### 李时珍在医学史上的地位
+
+From Britannica医学史: "There were famous herbals from ancient times, but all these, to the number of about 1,000, were embodied by Li Shijen in the compilation of Bencao gangmu (the 'Great Pharmacopoeia') in the 16th century ce."
+
+## 二、引语
+
+1. "Li Shizhen (born 1518, China—died 1593) was a Chinese scholar of the Ming dynasty (1368–1644) who compiled a highly influential materia medica, the Bencao gangmu (Compendium of Materia Medica), which described 1,892 drugs and presented directions for preparing some 11,000 prescriptions."
+——Britannica百科
+
+2. "Completed in 1578, the book was in part a compilation of other smaller works of the same kind. It contained descriptions of 1,094 herbs and 444 animal and 275 mineral substances."
+——Britannica百科 Bencao gangmu条目
+
+3. "There were famous herbals from ancient times, but all these, to the number of about 1,000, were embodied by Li Shijen in the compilation of Bencao gangmu (the 'Great Pharmacopoeia') in the 16th century ce."
+——Britannica医学史
+
+4. "This work, in 52 volumes, has been frequently revised and reprinted and is still authoritative."
+——Britannica医学史
+
+5. "The use of drugs is mainly to restore the harmony of the yin and the yang and is also related to such matters as the five organs, the five planets, and the five colors."
+——Britannica医学史
+
+6. "Li described such seemingly modern processes as distillation and the uses of mercury, ephedrine, chaulmoogra oil, iodine, and even smallpox inoculation."
+——Britannica百科
+
+7. "A revised edition of the work published in the 1600s contained more than 1,100 illustrations."
+——Britannica百科
+
+8. "Produced great illustrated encyclopedias, including Bencao gangmu (late 16th century; 'Index of Native Herbs'), a monumental materia medica listing 1,892 herbal concoctions and their applications."
+——Britannica中国文学与学术条目
+
+9. "A valuable volume on herbs and medicine that was the fruit of 26 years of labour."
+——Britannica教育条目
+
+## 三、后世评述
+
+### Britannica 评价
+
+- Li Shizhen是明朝（中国1368-1644年代）的一位学者，编纂了极具影响力的药典《本草纲目》（Compendium of Materia Medica）
+- 该书描述了1892种药物，并提供了约11000个处方的制备方法
+- 该书部分是对其他同类小型著作的汇编
+- 包含1094种草药、444种动物药和275种矿物药的描述
+- 李时珍描述了诸如蒸馏等看似现代的工艺，以及汞、麻黄碱、大风子油、碘甚至天花接种的使用
+
+### 医学史评价
+
+- 从古代开始就有著名的本草著作，但所有这些（约1000种）都被李时珍在16世纪编纂的《本草纲目》（"Great Pharmacopoeia"）所收录
+- 这部52卷的作品被多次修订和再版，至今仍具权威性
+- 药物的使用主要是为了恢复阴阳的和谐
+
+### 学术史评价
+
+- 明朝学者生产了大量严肃的学术著作
+- 包括《本草纲目》（16世纪后期；"Index of Native Herbs"），这是一部里程碑式的药典，列出了1892种草药配伍及其应用
+
+### 教育史评价
+
+- 《本草纲目》（"Great Pharmacopoeia"）是一部关于草药和医学的宝贵著作，是26年劳动的成果
+- 这部52卷的作品被多次修订和再版，至今仍具权威性
+
+### 与其他明朝学者的比较
+
+- 在明朝学者中，杨慎是代表性的全才型文人
+- 李时珍作为医学家和博物学家，与杨慎等文人学者并列为明代学术的代表人物之一
+- 明朝学者Producing great illustrated encyclopedias，包括《本草纲目》
+
+### 历史地位
+
+- 《本草纲目》完成于1578年
+- 历时26年
+- 1600年代修订版含1100多幅插图
+- 被誉为"Great Pharmacopoeia"（伟大药典）

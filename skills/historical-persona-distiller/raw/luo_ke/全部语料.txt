@@ -1,0 +1,266 @@
+# John Locke — Raw Materials Corpus
+# Sources: Stanford Encyclopedia of Philosophy, World History Encyclopedia, Britannica, Internet Encyclopedia of Philosophy
+# Compiled: 2026-05-01
+
+================================================
+SOURCE 1: Stanford Encyclopedia of Philosophy
+URL: https://plato.stanford.edu/entries/locke/
+================================================
+
+John Locke (b. 1632, d. 1704) was a British philosopher, Oxford academic and medical researcher. Locke's monumental An Essay Concerning Human Understanding (1689) is one of the first great defenses of modern empiricism and concerns itself with determining the limits of human understanding in respect to a wide spectrum of topics.
+
+John Locke (1632–1704) was one of the greatest philosophers in Europe at the end of the seventeenth century. Locke grew up and lived through one of the most extraordinary centuries of English political and intellectual history. It was a century in which conflicts between Crown and Parliament and the overlapping conflicts between Protestants, Anglicans and Catholics swirled into civil war in the 1640s.
+
+Locke was born in Wrington to Puritan parents of modest means. His father was a country lawyer who served in a cavalry company on the Puritan side in the early stages of the English Civil War. His father's commander, Alexander Popham, became the local MP, and it was his patronage which allowed the young John Locke to gain an excellent education. In 1647 Locke went to Westminster School in London.
+
+From Westminster school he went to Christ Church, Oxford, in the autumn of 1652 at the age of twenty. As Westminster school was the most important English school, so Christ Church was the most important Oxford college. Education at Oxford was medieval. Locke, like Hobbes before him, found the Aristotelian philosophy he was taught at Oxford of little use. There was, however, more at Oxford than Aristotle. The new experimental philosophy had arrived.
+
+Locke received his B.A. in February 1656. His career at Oxford, however, continued beyond his undergraduate days. In June of 1658, Locke qualified as a Master of Arts and was elected a Senior Student of Christ Church College. Locke had yet to determine what his career was to be. Locke was elected Lecturer in Greek at Christ Church in December of 1660 and he was elected Lecturer in Rhetoric in 1663. At this point, Locke needed to make a decision. The statutes of Christ Church laid it down that fifty five of the senior studentships should be reserved for men in orders or reading for orders. Since his graduation Locke had been studying medicine. Locke decided to become a doctor.
+
+John Wilkins had left Oxford with the Restoration of Charles II. The new leader of the Oxford scientific group was Robert Boyle. He was also Locke's scientific mentor. Boyle (with the help of his astonishing assistant Robert Hooke) built an air pump which led to the formulation of Boyle's law and devised a barometer as a weather indicator.
+
+Locke read Boyle before he read Descartes. When he did read Descartes, he saw the great French philosopher as providing a viable alternative to the sterile Aristotelianism he had been taught at Oxford.
+
+In the Epistle to the Reader at the beginning of the Essay Locke remarks:
+
+"The commonwealth of learning is not at this time without master-builders, whose mighty designs, in advancing the sciences, will leave lasting monuments to the admiration of posterity: but everyone must not hope to be a Boyle or a Sydenham; and in an age that produces such masters as the great Huygenius and the incomparable Mr. Newton, with some others of that strain, it is ambition enough to be employed as an under-labourer in clearing the ground a little, and removing some of the rubbish that lies in the way to knowledge…."
+
+Locke knew all of these men and their work. Locke, Boyle and Newton were all founding or early members of the English Royal Society. It is from Boyle that Locke learned about atomism (or the corpuscular hypothesis) and it is from Boyle's book The Origin of Forms and Qualities that Locke took the language of primary and secondary qualities. Sydenham was an English physician and Locke did medical research with him. Sydenham championed careful observation of disease and rejected appeal to underlying causes.
+
+In 1666 Lord Ashley, one of the richest men in England, came to Oxford in order to drink some medicinal waters there. He had asked Dr. Thomas to provide them. Thomas had to be out of town and asked Locke to see that the water was delivered. As a result of this encounter, Ashley invited Locke to come to London as his personal physician. In 1667 Locke did move to London becoming not only Lord Ashley's personal physician, but secretary, researcher, political operative and friend.
+
+Locke's chief work while living at Lord Ashley's residence, Exeter House, in 1668 was as Ashley's physician. Locke used his medical training to organize a successful operation on Ashley. This was perhaps the most carefully documented operation in the 17th century. In doing so he saved his patron's life and thus changed English history.
+
+Locke had a number of other jobs. He worked as secretary of the Board of Trade and Plantations and Secretary to the Lords Proprietors of the Carolinas. Lord Ashley was one of the advocates of the view that England would prosper through trade and that colonies could play an important role in promoting trade.
+
+While living in London at Exeter House, Locke continued to be involved in philosophical discussions. He tells us that:
+
+"Were it fit to trouble thee with the history of this Essay, I should tell thee, that five or six friends meeting at my chamber, and discoursing on a subject very remote from this, found themselves quickly at a stand, by the difficulties that rose on every side. After we had awhile puzzled ourselves, without coming any nearer a resolution of those doubts which perplexed us, it came into my thoughts that we took a wrong course; and that before we set ourselves upon inquiries of that nature, it was necessary to examine our own abilities, and see what objects our understandings were, or were not, fitted to deal with. This I proposed to the company, who all readily assented; and thereupon it was agreed that this should be our first inquiry."
+
+In 1674 after Shaftesbury had left the government, Locke went back to Oxford, where he acquired the degree Bachelor of medicine, and a license to practice medicine, and then went to France (Cranston 1957: 160). In France Locke went from Calais to Paris, Lyons and on to Montpellier, where he spent the next fifteen months.
+
+While Locke was in France, Shaftesbury's fortunes fluctuated. In 1676 Shaftesbury was imprisoned in the tower. His imprisonment lasted for a year.
+
+At this point some of the Country Party leaders began plotting an armed insurrection. Eventually Shaftesbury, who was moving from safe house to safe house, gave up and fled to Holland in November 1682. He died there in January 1683. Locke stayed in England until the Rye House Plot was discovered in June of 1683. Locke left for the West country to put his affairs in order the very week the plot was revealed to the government and by September he was in exile in Holland.
+
+While in exile, Locke finished An Essay Concerning Human Understanding and published a fifty-page advanced notice of it in French. He also wrote and published his Epistola de Tolerentia in Latin.
+
+Ultimately, however, the rebels were successful. James II alienated most of his supporters, and William of Orange was invited to bring a Dutch force to England. After William's army landed, James II, realizing that he could not mount an effective resistance, fled the country to exile in France. This became known as the Glorious Revolution of 1688. It is a watershed in English history. For it marks the point at which the balance of power in the English government passed from the King to the Parliament. Locke returned to England in February 1689.
+
+After his return from exile, Locke published An Essay Concerning Human Understanding and The Two Treatises of Government. In addition, Popple's translation of Locke's A Letter Concerning Toleration was also published. It is worth noting that the Two Treatises and the Letter Concerning Toleration were published anonymously.
+
+Locke took up residence in the country at Oates in Essex, the home of Sir Francis and Lady Masham (Damaris Cudworth). Locke had met Damaris Cudworth in 1682 and became involved intellectually and romantically with her. She was the daughter of Ralph Cudworth, the Cambridge Platonist, and a philosopher in her own right.
+
+During the remaining years of his life, Locke oversaw four more editions of the Essay and engaged in controversies over the Essay most notably in a series of published letters with Edward Stillingfleet, Bishop of Worcester.
+
+Nor was Locke finished with public affairs. In 1696 the Board of Trade was revived. Locke played an important part in its revival and served as the most influential member on it until 1700. During these last eight years of his life, Locke was asthmatic, and he suffered so much from it that he could only bear the smoke of London during the four warmer months of the year.
+
+After his retirement from the Board of Trade in 1700, Locke remained in retirement at Oates until his death on Sunday 28 October 1704.
+
+---
+
+Locke is often classified as the first of the great English empiricists (ignoring the claims of Bacon and Hobbes). This reputation rests on Locke's greatest work, the monumental An Essay Concerning Human Understanding.
+
+For I thought that the first Step towards satisfying the several Enquiries, the Mind of Man was apt to run into, was, to take a Survey of our own Understandings, examine our own Powers, and see to what Things they were adapted. Till that was done, I suspected that we began at the wrong end, and in vain sought for Satisfaction in a quiet and secure Possession of Truths, that most concern'd us whilst we let loose our Thoughts into the vast Ocean of Being, as if all the boundless Extent, were the natural and undoubted Possessions of our Understandings…
+
+In the four books of the Essay Locke considers the sources and nature of human knowledge. Book I argues that we have no innate knowledge. (In this he resembles Berkeley and Hume, and differs from Descartes and Leibniz.) So, at birth, the human mind is a sort of blank slate on which experience writes.
+
+Locke describes innate ideas as "some primary notions…Characters as it were stamped upon the Mind of Man, which the Soul receives in its very first Being; and brings into the world with it" (I.2.1, N: 48).
+
+It seems to me a near Contradiction to say that there are truths imprinted on the Soul, which it perceives or understands not; imprinting if it signify anything, being nothing else but the making certain Truths to be perceived.
+
+For if any one [proposition] may [be in the mind but not be known]; then, by the same Reason, all Propositions that are true, and the Mind is ever capable of assenting to, may be said to be in the Mind, and to be imprinted: since if any one can be said to be in the Mind, which it never yet knew, it must be only because it is capable of knowing it; and so the Mind is of all Truths it ever shall know.
+
+In Book II Locke claims that ideas are the materials of knowledge and all ideas come from experience. The term 'idea', Locke tells us "…stands for whatsoever is the Object of the Understanding, when a man thinks" (I.1.8, N: 47). Experience is of two kinds, sensation and reflection.
+
+The mind is a tabula rasa or blank sheet until experience in the form of sensation and reflection provide the basic materials—simple ideas—out of which most of our more complex knowledge is constructed.
+
+Locke makes this distinction in Book II Chapter 8 of the Essay and using Boyle's terminology calls the two different classes of properties the primary and secondary qualities of an object.
+
+The primary qualities of an object are properties which the object possesses independent of us—such as occupying space, being either in motion or at rest, having solidity and texture. The secondary qualities are powers in bodies to produce ideas in us like color, taste, smell and so on that are caused by the interaction of our particular perceptual apparatus with the primary qualities of the object.
+
+In Book III Locke devotes Book III of An Essay Concerning Human Understanding to language. This is a strong indication that Locke thinks issues about language were of considerable importance in attaining knowledge.
+
+"Words in their primary or immediate Signification, stand for nothing, but the Ideas in the Mind of him that uses them."
+
+================================================
+SOURCE 2: World History Encyclopedia
+URL: https://www.worldhistory.org/john-locke/
+================================================
+
+John Locke (1632-1704) was an English philosopher responsible for laying the foundation of the European Enlightenment. Locke believed that each branch of government should have separate powers, that liberty must be protected from state interference, and that the state must protect the private property of its citizens.
+
+John Locke was born on 29 August 1632 in Wrington, in the county of Somerset, England, into a modest Puritan family of traders. In the troubled times of the English Civil Wars (1642-1651), John's father had fought in the army of the Parliamentarians, the ultimate victors who abolished the monarchy. John was educated at the Westminster School, then the best school in England. In 1652, he enrolled at the University of Oxford, with his father ambitious that he join the Church. As it turned out, although John maintained a life-long interest in ecclesiastical matters, he much preferred to study medicine.
+
+Isaiah Berlin gives the following summary of Locke's character:
+
+"He was a man of gentle, shy and amiable disposition, widely liked and esteemed, without enemies, and endowed with an astonishing capacity for absorbing and interpreting in simple language some of the original and revolutionary ideas in which his time was singularly rich."
+
+Locke's big break came in 1667 when he became the personal physician and secretary to Anthony Ashley Cooper, who later became the Earl of Shaftesbury. The earl's policies would influence Locke's thinking since Shaftesbury was a staunch believer in restoring Catholicism as England's main religion and that the powers of the monarchy should be checked by those of Parliament. Locke resided in London and remained with the earl until 1683.
+
+Locke became active in English politics, but more turmoil came with the restoration of the monarchy in 1660 when the increasingly undemocratic reign of Oliver Cromwell and his successor, Richard Cromwell, came to an end. Charles II of England (r. 1660-1685) became the new monarch and so continued the Stuart line. Locke was involved in the formal establishment of the British Empire in North America. On 24 March 1663, Charles granted the lands of 'Carolina' in North America to eight noblemen. The colony's constitution was written by Locke, although it was surprisingly feudal in nature.
+
+Locke's political system is based on his confidence in humanity's ability to work together for collective goals.
+
+Locke's anti-Stuart politics and his close association with Earl Shaftesbury eventually meant that he found it necessary to self-exile between 1683 and 1689 in the Netherlands. Locke did not waste his time but spent much of this period writing the works that would establish his name as one of the foremost philosophers of the 17th century.
+
+Locke returned to England following the Glorious Revolution of 1688, which saw Protestant William of Orange invade England but then peacefully take the throne of Catholic James II of England.
+
+Locke published Two Treatises on Government in 1689. The second treatise became "a key text in the development of modern liberalism" and justified the Glorious Revolution by arguing that political legitimacy depended on the consent of the governed and asserting a right of resistance. The treatises expound the belief that individuals are more important than institutions like absolute monarchs and the Church. Individual liberty must be protected from an overbearing collective authority.
+
+Locke presents the idea of a separation of powers for the various parts of government (monarch, upper and lower houses of the legislature, and judiciary) in his Second Treatise on Government. Locke proposed a government with three parts: an executive, a legislative, and a federative.
+
+Locke argues that even in a state of nature, humanity abides by the universal law that "no one ought to harm another in his life, health, liberty or possessions." A state or political apparatus is required in those cases where these rights have been infringed upon by other individuals or by another society.
+
+If that political apparatus steps beyond this function of protecting individual liberty and the common good, say, for example, when a despotic monarch does not respect the laws or who is corrupt, then the people are perfectly correct if they collectively decide to try and overthrow that monarch since he or she has broken the social contract.
+
+A careful study of the Declaration of Independence and the American Constitution reveals both documents to be replete with phrases such as 'All men are created equal', 'Life, liberty, and the pursuit of happiness', 'We hold these truths to be self-evident', and so forth, which are culled almost literally from the Second Treatise.
+
+As Thomas Jefferson once noted: "as to the general principles of liberty, and the rights of man… the doctrines of Locke… and of Sidney… may be considered as those generally approved by our fellow citizens."
+
+The most important right for Locke was the right to own private property. The state should not interfere here since Locke considered property to be actually a part of that individual since they had (in most cases) laboured for it.
+
+In his Essay Concerning Human Understanding, Locke presents more thoughts on how people can live and learn together. Indeed, during his own lifetime, it was this work rather than his treatises on government that gained him an international reputation as a philosopher with something to say.
+
+In the essay, Locke also discusses how we should improve our knowledge by not believing in things that cannot be tested by the senses; in this, he was influenced by the work of Francis Bacon (1561-1626). This approach, the foundation of the new Scientific Method, actually limited knowledge as thinkers began to exclude certain things as simply unknowable because they could not be empirically tested as true.
+
+For Locke, there are no innate ideas since the human brain of an infant is a blank slate or white paper, everything we know is learnt through using our senses, experience, and reflection.
+
+Further, Locke's "argument that knowledge enters our minds through our senses and that these sensations are combined in our minds into complex ideas would become the basis of eighteenth-century psychology."
+
+Locke proposed that we should be sceptical of what others say is true and learn to think for ourselves. In his assessment of the work of academics, Locke states that it is often "learned gibberish" since they wish to "cover their Ignorance with a curious and unexplicable Web of perplexed Words."
+
+Locke answers this criticism by dividing knowledge into two groups based on what he calls primary and secondary qualities.
+
+Locke wrote: "we more certainly know that there is a GOD than that there is any thing else without us" (Essay, iv, 10). In short, for Locke, humans have an ability to gain knowledge because God has given them such an ability, a belief that classifies him as a pre-Enlightenment figure.
+
+Locke's thoughts on knowledge had three lasting consequences for thinkers who followed, and for societies in general. The first was that if knowledge is not innate, then all humans must be equal because they all start with the same blank slate. Second, if knowledge and norms of behaviour are acquired through one's environment, then there should be toleration of different worldviews since no one is to blame for their beliefs; everyone is simply the product of their environment. Thirdly, society, and in particular rulers, have a responsibility to create an environment that fosters good moral behaviour.
+
+Locke continued in active politics, serving as secretary to the Council of Trade. In 1697, Locke's recommendations for dealing with the poor and unemployed were harsh indeed since he believed poverty was principally caused by what he called 'debauchery', most especially too much consumption of alcohol.
+
+John Locke died at Oates on 28 October 1704. His work had a lasting influence on political philosophy, beginning with the Enlightenment thinkers, who further developed Locke's ideas on the limits of state power and individual liberty based on a new vision of human nature and knowledge acquisition.
+
+Major Works by John Locke:
+- Essay Concerning Human Understanding (1689)
+- First Treatise on Government (1689)
+- Second Treatise on Government (1689)
+- Letters on Toleration (1689-92)
+- Thoughts Concerning Education (1693)
+- The Reasonableness of Christianity (1695)
+- Of the Conduct of the Understanding (1706)
+
+================================================
+SOURCE 3: Britannica
+URL: https://www.britannica.com/biography/John-Locke
+================================================
+
+John Locke (born August 29, 1632, Wrington, Somerset, England—died October 28, 1704, High Laver, Essex) was an English philosopher whose works lie at the foundation of modern philosophical empiricism and political liberalism, classical liberalism in particular. He was an inspirer of both the European Enlightenment and the Constitution of the United States.
+
+Locke's family was sympathetic to Puritanism but remained within the Church of England, a situation that colored Locke's later life and thinking. Raised in Pensford, near Bristol, Locke was 10 years old at the start of the English Civil Wars between the monarchy of Charles I and parliamentary forces under the eventual leadership of Oliver Cromwell. Locke's father, a lawyer, served as a captain in the cavalry of the parliamentarians and saw some limited action. From an early age, one may thus assume, Locke rejected any claim by the king to have a divine right to rule.
+
+After the first Civil War ended in 1646, Locke's father was able to obtain for his son, who had evidently shown academic ability, a place at Westminster School in distant London. It was to this already famous institution that Locke went in 1647, at age 14.
+
+In January 1649, just half a mile away from Westminster School, Charles was beheaded on the order of Cromwell. The boys were not allowed to attend the execution, though they were undoubtedly well aware of the events taking place nearby.
+
+In 1650 Locke was elected a King's Scholar, an academic honor and financial benefit that enabled him to buy several books, primarily classic texts in Greek and Latin. Although Locke was evidently a good student, he did not enjoy his schooling; in later life he attacked boarding schools for their overemphasis on corporal punishment and for the uncivil behavior of pupils.
+
+In his enormously influential work Some Thoughts Concerning Education (1693), he would argue for the superiority of private tutoring for the education of young gentlemen.
+
+In the autumn of 1652 Locke, at the comparatively late age of 20, entered Christ Church, the largest of the colleges of the University of Oxford and the seat of the court of Charles I during the Civil Wars.
+
+Locke later reported that he found the undergraduate curriculum at Oxford dull and unstimulating. It was still largely that of the medieval university, focusing on Aristotle (especially his logic) and largely ignoring important new ideas about the nature and origins of knowledge that had been developed in writings by Francis Bacon (1561–1626), René Descartes (1596–1650), and other natural philosophers.
+
+Although their works were not on the official syllabus, Locke was soon reading them. He graduated with a bachelor's degree in 1656 and a master's two years later, about which time he was elected a student (the equivalent of fellow) of Christ Church.
+
+At Oxford Locke made contact with some advocates of the new science, including Bishop John Wilkins, the astronomer and architect Christopher Wren, the physicians Thomas Willis and Richard Lower, the physicist Robert Hooke, and, most important of all, the eminent natural philosopher and theologian Robert Boyle. Locke attended classes in iatrochemistry (the early application of chemistry to medicine), and before long he was collaborating with Boyle on important medical research on human blood. Medicine from now on was to play a central role in his life.
+
+In his first substantial political work, Two Tracts on Government (composed in 1660 but first published three centuries later, in 1967), Locke defended a very conservative position: in the interest of political stability, a government is justified in legislating on any matter of religion that is not directly relevant to the essential beliefs of Christianity.
+
+In 1663 Locke was appointed senior censor in Christ Church, a post that required him to supervise the studies and discipline of undergraduates and to give a series of lectures. The resulting Essays on the Law of Nature (first published in 1954) constitutes an early statement of his philosophical views, many of which he retained more or less unchanged for the rest of his life.
+
+Of these probably the two most important were, first, his commitment to a law of nature, a natural moral law that underpins the rightness or wrongness of all human conduct, and, second, his subscription to the empiricist principle that all knowledge, including moral knowledge, is derived from experience and therefore not innate.
+
+These claims were to be central to his mature philosophy, both with regard to political theory and epistemology.
+
+================================================
+SOURCE 4: Internet Encyclopedia of Philosophy
+URL: https://iep.utm.edu/locke/
+================================================
+
+John Locke was among the most famous philosophers and political theorists of the 17th century. He is often regarded as the founder of a school of thought known as British Empiricism, and he made foundational contributions to modern theories of limited, liberal government.
+
+In his most important work, the Essay Concerning Human Understanding, Locke set out to offer an analysis of the human mind and its acquisition of knowledge. He offered an empiricist theory according to which we acquire ideas through our experience of the world.
+
+Locke's emphasis on the philosophical examination of the human mind as a preliminary to the philosophical investigation of the world and its contents represented a new approach to philosophy, one which quickly gained a number of converts, especially in Great Britain.
+
+In politics, Locke is best known as a proponent of limited government. He uses a theory of natural rights to argue that governments have obligations to their citizens, have only limited powers over their citizens, and can ultimately be overthrown by citizens under certain circumstances. He also provided powerful arguments in favor of religious toleration.
+
+John Locke was born in 1632 in Wrington, a small village in southwestern England. His father, also named John, was a legal clerk and served with the Parliamentary forces in the English Civil War. His family was well-to-do, but not of particularly high social or economic standing. Locke spent his childhood in the West Country and as a teenager was sent to Westminster School in London.
+
+Locke was successful at Westminster and earned a place at Christ Church, Oxford. He was to remain in Oxford from 1652 until 1667. Although he had little appreciation for the traditional scholastic philosophy he learned there, Locke was successful as a student and after completing his undergraduate degree he held a series of administrative and academic posts in the college.
+
+Much of Locke's intellectual effort and energy during his time at Oxford, especially during his later years there, was devoted to the study of medicine and natural philosophy (what we would now call science). Locke read widely in these fields, participated in various experiments, and became acquainted with Robert Boyle and many other notable natural philosophers. He also undertook the normal course of education and training to become a physician.
+
+Locke left Oxford for London in 1667 where he became attached to the family of Anthony Ashley Cooper (then Lord Ashley, later the Earl of Shaftesbury). Locke may have played a number of roles in the household, mostly likely serving as tutor to Ashley's son.
+
+He made a number of contacts within the newly formed Royal Society and became a member in 1668. He also acted as the personal physician to Lord Ashley. Indeed, on one occasion Locke participated in a very delicate surgical operation which Ashley credited with saving his life.
+
+Through his patronage Locke was able to hold a series of governmental posts. Most of his work related to policies in England's American and Caribbean colonies. Most importantly, this was the period in Locke's life when he began the project which would culminate in his most famous work, the Essay Concerning Human Understanding. The two earliest drafts of that work date from 1671. He was to continue work on this project intermittently for nearly twenty years.
+
+Locke travelled in France for several years starting in 1675. When he returned to England it was only to be for a few years. The political scene had changed greatly while Locke was away. Shaftesbury (as Ashley was now known) was out of favor and Locke's association with him had become a liability.
+
+It was around this time that Locke composed his most famous political work, the Two Treatises Concerning Government. Although the Two Treatises would not be published until 1689 they show that he had already solidified his views on the nature and proper form of government.
+
+Following Shaftesbury's death Locke fled to the Netherlands to escape political persecution. While there Locke travelled a great deal (sometimes for his own safety) and worked on two projects. First, he continued work on the Essay. Second, he wrote a work entitled Epistola de Tolerantia, which was published anonymously in 1689.
+
+Locke's experiences in England, France, and the Netherlands convinced him that governments should be much more tolerant of religious diversity than was common at the time.
+
+Following the Glorious Revolution of 1688-1689 Locke was able to return to England. He published both the Essay and the Two Treatises (the second anonymously) shortly after his return. He initially stayed in London but soon moved to the home of Francis and Damaris Masham in the small village of Oates, Essex.
+
+Damaris Masham, who was the daughter of a notable philosopher named Ralph Cudworth, had become acquainted with Locke several years before. The two formed a very close friendship which lasted until Locke's death.
+
+Locke engaged in a number of controversies during his life, including a notable one with Jonas Proast over toleration. But Locke's most famous and philosophically important controversy was with Edward Stillingfleet, the Bishop of Worcester.
+
+In his later years Locke devoted much of his attention to theology. His major work in this field was The Reasonableness of Christianity, published (again anonymously) in 1695. This work was controversial because Locke argued that many beliefs traditionally believed to be mandatory for Christians were unnecessary. Locke argued for a highly ecumenical form of Christianity.
+
+Closer to the time of his death Locke wrote a work on the Pauline Epistles. The work was unfinished, but published posthumously. A short work on miracles also dates from this time and was published posthumously.
+
+Locke suffered from health problems for most of his adult life. In particular, he had respiratory ailments which were exacerbated by his visits to London where the air quality was very poor.
+
+His health took a turn for the worse in 1704 and he became increasingly debilitated. He died on 28 October 1704 while Damaris Masham was reading him the Psalms. He was buried at High Laver, near Oates. He wrote his own epitaph which was both humble and forthright.
+
+According to Locke's own account the motivation for writing the Essay came to him while debating an unrelated topic with friends. He reports that they were able to make little headway on this topic and that they very quickly met with a number of confusions and difficulties. Locke realized that to make progress on this topic it was first necessary to examine something more fundamental: the human understanding.
+
+It was "necessary to examine our own Abilities, and see, what Objects our Understandings were, or were not fitted to deal with." (Epistle, 7).
+
+Locke's insight was that before we can analyze the world and our access to it we have to know something about ourselves. We need to know how we acquire knowledge. We also need to know which areas of inquiry we are well suited to and which are epistemically closed to us.
+
+At the very outset of the Essay Locke writes that it is his "Purpose to enquire into the Original, Certainty, and Extent of humane Knowledge; together, with the Grounds and Degrees of Belief, Opinion, and Assent." (1.1.2, 42).
+
+Locke thinks that it is only once we understand our cognitive capabilities that we can suitably direct our researches into the world. This may have been what Locke had in mind when he claimed that part of his ambition in the Essay was to be an "Under-Laborer" who cleared the ground and laid the foundations for the work of famous scientists like Robert Boyle and Isaac Newton.
+
+The Essay is divided into four books with each book contributing to Locke's overall goal of examining the human mind with respect to its contents and operations. In Book I Locke rules out one possible origin of our knowledge. He argues that our knowledge cannot have been innate. This sets up Book II in which Locke argues that all of our ideas come from experience.
+
+The nativist view which Locke attacks in Book I holds that human beings have mental content which is innate in the human mind, rather than received in experience.
+
+Locke attacks both the view that we have any innate principles (for example, the whole is greater than the part, do unto others as you would have done unto you, etc.) as well as the view that there are any innate singular ideas (for example, God, identity, substance, and so forth).
+
+He notes that children and the mentally disabled, for example, do not have in their minds an allegedly innate complex thought like "equals taken from equals leave equals". He also uses evidence from travel literature to point out that many non-Europeans deny what were taken to be innate moral maxims and that some groups even lack the idea of a God.
+
+There is one misunderstanding which it is important to avoid when considering Locke's anti-nativism. The misunderstanding is, in part, suggested by Locke's claim that the mind is like a tabula rasa (a blank slate) prior to sense experience. This makes it sound as though the mind is nothing prior to the advent of ideas. In fact, Locke's position is much more nuanced. He makes it clear that the mind has any number of inherent capacities, predispositions, and inclinations prior to receiving any ideas from sensation. His anti-nativist point is just that none of these is triggered or exercised until the mind receives ideas from sensation.
+
+Experience: In that, all our Knowledge is founded; and from that it ultimately derives itself. Our Observation employ'd either about external, sensible Objects; or about the internal Operations of our Minds, perceived and reflected on by ourselves, is that, which supplies our Understandings with all the material of thinking. These two are the Fountains of Knowledge, from whence all the Ideas we have, or can naturally have, do spring.
+
+In the above passage Locke allows for two distinct types of experience. Outer experience, or sensation, provides us with ideas from the traditional five senses. Inner experience, or reflection, is slightly more complicated. Locke thinks that the human mind is incredibly active; it is constantly performing what he calls operations.
+
+Ideas are the fundamental units of mental content and so play an integral role in his explanation of the human mind and his account of our knowledge.
+
+By "idea" he means "whatsoever is the Object of the Understanding when a Man thinks…whatever is meant by Phantasm, Notion, Species, or whatever it is, which the Mind can be employ'd about in thinking." (1.1.8, 47).
+
+Our complex ideas are classified into three different groups: substances, modes, and relations. Ideas of substances are ideas of things which are thought to exist independently.
+
+Ideas of modes are ideas of things which are dependent on substances in some way.
+
+Ideas of relations are ideas that involve more than one substance.
+
+Throughout his discussion of the different kinds of complex ideas Locke is keen to emphasize that all of our ideas can ultimately be broken down into simple ideas received in sensation and reflection.

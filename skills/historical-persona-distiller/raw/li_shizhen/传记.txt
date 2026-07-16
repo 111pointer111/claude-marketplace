@@ -1,0 +1,42 @@
+# 李时珍传记（英文百科来源）
+
+## Britannica 简介
+
+Li Shizhen (born 1518, China—died 1593) was a Chinese scholar of the Ming dynasty (1368–1644) who compiled a highly influential materia medica, the Bencao gangmu (Compendium of Materia Medica), which described 1,892 drugs and presented directions for preparing some 11,000 prescriptions. Completed in 1578, the book was in part a compilation of other smaller works of the same kind. It contained descriptions of 1,094 herbs and 444 animal and 275 mineral substances. Li described such seemingly modern processes as distillation and the uses of mercury, ephedrine, chaulmoogra oil, iodine, and even smallpox inoculation. A revised edition of the work published in the 1600s contained more than 1,100 illustrations.
+
+## Britannica — Bencao gangmu 条目
+
+Bencao gangmu (Compendium of Materia Medica) — completed in 1578, the book was in part a compilation of other smaller works of the same kind. It contained descriptions of 1,094 herbs and 444 animal and 275 mineral substances.
+
+In China: Literature and scholarship: "produced great illustrated encyclopedias, including Bencao gangmu (late 16th century; 'Index of Native Herbs'), a monumental materia medica listing 1,892 herbal concoctions and their applications"
+
+In history of medicine: "note was the compilation of Pencao kangmu ('Great Pharmacopoeia'), a valuable volume on herbs and medicine that was the fruit of 26 years of labour. This work, in 52 volumes, has been frequently revised and reprinted and is still authoritative."
+
+From the China education article: "Shijen in the compilation of Bencao gangmu (the 'Great Pharmacopoeia') in the 16th century ce. This work, in 52 volumes, has been frequently revised and reprinted and is still authoritative. The use of drugs is mainly to restore the harmony of the yin and the yang and is also related to such matters as the five organs, the five planets, and the five colors."
+
+## 生平基本信息
+
+- 生于：1518年（中国）
+- 卒于：1593年
+- 朝代：明朝（1368-1644）
+- 主要成就：编纂《本草纲目》
+- 《本草纲目》完成时间：1578年
+- 历时：26年
+- 记载药物：1892种
+- 收录处方：约11000个
+- 包含：1094种草药、444种动物药、275种矿物药
+- 52卷
+- 1600年代修订版含1100多幅插图
+
+## 《本草纲目》历史地位
+
+- 16世纪完成
+- 被誉为"Great Pharmacopoeia"（伟大药典）
+- 52卷
+- 多次修订再版，至今仍具权威性
+- 涵盖了蒸馏工艺、汞、麻黄碱、大风子油、碘等现代药物的记载
+- 甚至记载了天花接种方法
+
+## 李时珍在医学史上的地位
+
+来自Britannica医学史："There were famous herbals from ancient times, but all these, to the number of about 1,000, were embodied by Li Shijen in the compilation of Bencao gangmu (the 'Great Pharmacopoeia') in the 16th century ce."

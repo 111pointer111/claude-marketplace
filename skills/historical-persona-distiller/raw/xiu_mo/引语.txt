@@ -1,0 +1,70 @@
+# 休谟 David Hume 引语
+
+## 来源1: Stanford Encyclopedia of Philosophy
+
+### 论哲学项目
+"the science of human nature" — Hume defines moral philosophy as the science of human nature, and his aim is to bring the scientific method to bear on the study of human nature.
+
+"a compleat system of the Sciences, built on a foundation entirely new" — In the Introduction to the Treatise, Hume proposes nothing less than a complete system of the sciences built on a foundation entirely new — the scientific study of human nature.
+
+"Hypotheses non fingo" — Newton's maxim that Hume adopts: "I do not do hypotheses". Any laws discovered must be established by observation and experiment.
+
+### 论古代哲学的错误
+"endless Disputes" — When he was only 18, Hume complained that anyone familiar with philosophy realizes it is embroiled in endless disputes.
+
+"entirely Hypothetical" — He found that ancient philosophers advanced theories that were entirely Hypothetical, depending more upon Invention than Experience.
+
+"without regarding human Nature, upon which every moral Conclusion must depend" — He objected that they consulted their imagination in constructing their views about virtue and happiness, without regarding human Nature, upon which every moral Conclusion must depend.
+
+"the common prejudice against metaphysical reasonings of all kinds" — The ancient philosophers gave rise to the common prejudice against metaphysical reasonings of all kinds, that is, every kind of argument which is in any way abstruse and requires some attention to be comprehended.
+
+### 论复制原则 (Copy Principle)
+"All our simple ideas in their first appearance are deriv'd from simple impressions, which are correspondent to them, and which they exactly represent." — Treatise 1.1.1.7/4 — Hume's first principle in the science of human nature.
+
+### 论因果关系
+"all reasonings concerning matters of fact seem to be founded on the relation of Cause and Effect" — EHU 4.1.4/26
+
+### 论习惯与因果
+"Custom or Habit" — "whenever the repetition of any particular act or operation produces a propensity to renew the same act or operation … we always say, that this propensity is the effect of Custom." — EHU 5.1.5/43
+
+"Custom … makes us expect for the future, a similar train of events with those which have appeared in the past" — EHU 5.1.6/44
+
+### 论信念
+"All these operations are species of natural instincts, which no reasoning … is able either to produce or prevent" — EHU 5.1.8/46–47
+
+## 来源2: Britannica
+
+### 论知识
+"He concluded that no theory of reality is possible; there can be no knowledge of anything beyond experience."
+
+### 论《人性论》的命运
+"it fell dead-born from the press, without reaching such distinction, as even to excite a murmur among the zealots." — From Hume's Autobiography
+
+### 论因果关系的感觉理论
+"The idea of causality is alleged to assert a 'necessary connexion' among matters of fact. From what impression, then, is it derived? Hume states that no causal relation among the data of the senses can be observed, for, when people regard any events as causally connected, all that they do and can observe is that they frequently and uniformly go together. In this sort of togetherness it is a fact that the impression or idea of the one event brings with it the idea of the other. A habitual association is set up in the mind; and, as in other forms of habit, so in this one, the working of the association is felt as compulsion. This feeling, Hume concludes, is the only discoverable impressional source of the idea of causality."
+
+## 来源3: Internet Encyclopedia of Philosophy
+
+### 论哲学在同时代文化中的地位
+"Hume is our Politics, Hume is our Trade, Hume is our Philosophy, Hume is our Religion, — it wants little but that Hume is even our Taste." — James Hutchison Stirling (19th century philosopher)
+
+### 论写作《人性论》
+"Tis not long ago that I burn'd an old Manuscript Book, wrote before I was twenty; which contain'd, Page after Page, the gradual Progress of my Thoughts on that head [i.e. religious belief]. It begun with an anxious Search after Arguments, to confirm the common Opinion: Doubts stole in, dissipated, return'd, were again dissipated, return'd again." — Letter to Gilbert Elliot of Minto, March 10, 1751
+
+### 论复制原则的证明
+"to shew a simple impression, that has not a correspondent idea, or a simple idea, that has not a correspondent impression" — Treatise 1.1.1 (Hume challenges anyone who denies the copy thesis)
+
+### 论休谟的叉子 (Hume's Fork)
+"When we run over libraries, persuaded of these principles, what havoc must we make? If we take in our hand any volume; of divinity or school metaphysics, for instance; let us ask, Does it contain any abstract reasoning concerning quantity or number? No. Does it contain any experimental reasoning concerning matter of fact and existence? No. Commit it then to the flames: For it can contain nothing but sophistry and illusion." — Enquiry, Section 12
+
+### 论道德理论
+"Hume's moral theory is the immediate forerunner to the classic utilitarian views of Jeremy Bentham and John Stuart Mill. He introduced the term 'utility' into our moral vocabulary."
+
+## 直接引语汇总
+
+1. "there seem'd to be open'd up to me a new Scene of Thought" — Hume on discovering his philosophical calling
+2. "a Murmur among the Zealots" — On the reaction to the Treatise
+3. "incomparably the best" — Hume on his Enquiry concerning the Principles of Morals
+4. "the great infidel" — How contemporaries labeled Hume
+5. "company was not unacceptable to the young and careless" — On his social life in old age
+6. "peaceful cheer that characterized his life" — On facing his death from cancer

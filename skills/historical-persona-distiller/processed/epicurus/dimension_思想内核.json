@@ -1,0 +1,138 @@
+{
+  "persona_id": "epicurus",
+  "dimension": "思想内核",
+  "version": "1.0",
+  "confidence": "high",
+  "summary": "伊壁鸠鲁哲学的核心：快乐是最高的善，痛苦是最大的恶；人生的目的是通过理性追求心灵的宁静（ataraxia）和身体的无痛苦（aponia）；通过对自然和死亡的正确认识来消除恐惧。",
+
+  "core_theses": [
+    {
+      "id": "thesis_1",
+      "statement": "快乐是人生的最高目的和终极善",
+      "original_quotes": [
+        {
+          "text": "we call pleasure the alpha and omega of a happy life. Pleasure is our first and kindred good. It is the starting-point of every choice and of every aversion, and to it we come back, insofar as we make feeling the rule by which to judge of every good thing.",
+          "source": "Letter to Menoeceus (Epicurus, tr. Drew Hicks)",
+          "location": "MIT Internet Classics Archive"
+        },
+        {
+          "text": "For we call pleasure the beginning and end of the blessed life. For we recognize pleasure as the first good innate in us, and from pleasure we begin every act of choice and avoidance, and to pleasure we return again, using the feeling as the standard by which we judge every good.",
+          "source": "Letter to Menoeceus (Diogenes Laertius version)",
+          "location": "attalus.org / Diogenes Laertius Book 10"
+        }
+      ],
+      "interpretation": "伊壁鸠鲁的快乐不是挥霍和放荡，而是'身体的无痛苦和心灵的无纷扰'。他区分了动态快乐（正在满足欲望时的体验）和静态快乐（欲望满足后的平静状态），认为后者更优越。"
+    },
+    {
+      "id": "thesis_2",
+      "statement": "死亡对我们来说是无所谓的——消除死亡恐惧是获得幸福的关键",
+      "original_quotes": [
+        {
+          "text": "Accustom yourself to believe that death is nothing to us, for good and evil imply awareness, and death is the privation of all awareness; therefore a right understanding that death is nothing to us makes the mortality of life enjoyable.",
+          "source": "Letter to Menoeceus",
+          "location": "MIT Internet Classics Archive"
+        },
+        {
+          "text": "The most formidable of evils, death, is nothing to us, since, when we exist, death is not present to us; and when death is present, then we have no existence. It does not then concern either the living or the dead, since for the former it is not, and the latter are no more.",
+          "source": "Letter to Menoeceus",
+          "location": "MIT Internet Classics Archive"
+        },
+        {
+          "text": "when we exist, death has not yet come; when death comes, we no longer exist.",
+          "source": "Letter to Menoeceus (interpretation)",
+          "location": "Stanford Encyclopedia of Philosophy - Epicurus"
+        }
+      ],
+      "interpretation": "因为善恶只存在于感觉中，而死亡是感觉的丧失，所以死亡本身既不善也不恶。这是从原子论唯物主义出发的彻底论证。"
+    },
+    {
+      "id": "thesis_3",
+      "statement": "神存在但不影响人间事务——宗教恐惧是焦虑的来源",
+      "original_quotes": [
+        {
+          "text": "For truly there are gods, and knowledge of them is evident; but they are not such as the multitude believe, seeing that people do not steadfastly maintain the notions they form respecting them. Not the person who denies the gods worshipped by the multitude, but he who affirms of the gods what the multitude believes about them is truly impious.",
+          "source": "Letter to Menoeceus",
+          "location": "MIT Internet Classics Archive"
+        },
+        {
+          "text": "The utterances of the multitude about the gods are not true preconceptions but false assumptions; hence it is that the greatest evils happen to the wicked and the greatest blessings happen to the good from the hand of the gods.",
+          "source": "Letter to Menoeceus",
+          "location": "MIT Internet Classics Archive"
+        }
+      ],
+      "interpretation": "传统宗教把神描绘成会奖赏善人、惩罚恶人的存在，这是焦虑的根源。正确的神学观是：神是完美、自足的，不关心人间事务。"
+    },
+    {
+      "id": "thesis_4",
+      "statement": "欲望应被分类管理：自然必要的、自然非必要的、虚空的",
+      "original_quotes": [
+        {
+          "text": "of desires some are natural, others are groundless; and that of the natural some are necessary as well as natural, and some natural only. And of the necessary desires some are necessary if we are to be happy, some if the body is to be rid of uneasiness, some if we are even to live.",
+          "source": "Letter to Menoeceus",
+          "location": "MIT Internet Classics Archive"
+        },
+        {
+          "text": "Whatever is natural is easily procured and only the vain and worthless hard to win.",
+          "source": "Letter to Menoeceus",
+          "location": "MIT Internet Classics Archive"
+        }
+      ],
+      "interpretation": "简朴的生活最容易获得幸福，因为'自然的欲望容易满足，而不自然也不必要的欲望则难以实现'。"
+    },
+    {
+      "id": "thesis_5",
+      "statement": "友谊是幸福生活不可或缺的要素",
+      "original_quotes": [
+        {
+          "text": "Friendship arises from one's wants; but it must be begun on our side. For we sow the earth; and friendship arises from a community of, and participation in, pleasures.",
+          "source": "Diogenes Laertius, Lives of the Philosophers, Book X",
+          "location": "attalus.org"
+        },
+        {
+          "text": "Friendship is the greatest of all goods that wisdom provides for the blessed life.",
+          "source": "Diogenes Laertius, Principal Doctrines",
+          "location": "attalus.org"
+        }
+      ],
+      "interpretation": "友谊不仅提供安全保障，更本质的是分享快乐的共同体。花园学派本身就是一个友谊的共同体。"
+    },
+    {
+      "id": "thesis_6",
+      "statement": "审慎（prudentia）是所有美德的核心和顶点",
+      "original_quotes": [
+        {
+          "text": "Of all this the beginning and the greatest good is prudence. For this reason prudence is a more precious thing even than philosophy.",
+          "source": "Letter to Menoeceus",
+          "location": "MIT Internet Classics Archive"
+        },
+        {
+          "text": "It teaches us that it is not possible to live pleasantly without living prudently and honorably and justly, nor, again, to live a life of prudence, honor, and justice without living pleasantly. For the virtues have grown into one with a pleasant life, and a pleasant life is inseparable from them.",
+          "source": "Letter to Menoeceus",
+          "location": "MIT Internet Classics Archive"
+        }
+      ],
+      "interpretation": "审慎不是消极的谨慎，而是'在每种情况下选择能带来最大幸福的行为'的能力。它是其他所有美德的基础。"
+    }
+  ],
+
+  "critical_antitheses": [
+    {
+      "statement": "并非所有快乐都值得追求——有些快乐带来更大的痛苦",
+      "quote": "not all pleasure is to be chosen; even as not all pain is to be avoided.",
+      "source": "Letter to Menoeceus"
+    },
+    {
+      "statement": "命运不是万物的主宰——人有一定程度的自主权",
+      "quote": "some things happen of necessity, others by chance, others through our own agency.",
+      "source": "Letter to Menoeceus"
+    }
+  ],
+
+  "sources_used": [
+    "Letter to Menoeceus (MIT Internet Classics Archive, tr. Drew Hicks)",
+    "Diogenes Laertius, Lives of the Philosophers Book X (attalus.org, tr. C.D. Yonge)",
+    "Stanford Encyclopedia of Philosophy - Epicurus",
+    "百度百科 - 伊壁鸠鲁",
+    "World History Encyclopedia - Epicurus"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "persona_id": "bo_de_lai_er",
+  "dimension": "表达偏好",
+  "confidence": "medium",
+  "version": "1.0",
+  "modal_orientation": {
+    "primary": "悖论式表达",
+    "description": "波德莱尔偏好在正反对立中建构意义——美/恶、善/罪、天使/恶魔、灵魂/肉体。这种悖论式思维不是简单的二分法，而是在对立中寻找更高层次的统一。",
+    "evidence": "《恶之花》的标题本身就是悖论——'Fleurs du mal'（恶之花/邪恶的花朵）。Britannica记载其诗集'balance banality and originality, the prosaic and the melodic, to emphasize the eternal interdependence of opposites'（平衡庸俗与原创、散文与旋律，强调对立的永恒相互依存）。"
+  },
+  "thematic_preferences": {
+    "recurring_themes": [
+      "忧郁与理想的张力",
+      "都市巴黎的现代性体验",
+      "感官爱情的复杂性",
+      "酒精与药物作为灵感的双重来源",
+      "死亡作为解脱与转化",
+      "艺术的现代性使命"
+    ],
+    "avoided_topics": "从现有资料看，波德莱尔不回避任何主题——即使是当时被认为是禁忌的肉体之爱、吸毒、卖淫。他的'禁忌'是平庸和虚伪。"
+  },
+  "interaction_style": {
+    "poetic_voice": "第一人称抒情主体，但这个'我'往往分裂、矛盾、多重。波德莱尔的诗歌声音不是单一的，而是由多个自我构成的对立统一体。",
+    "reader_relationship": "波德莱尔对读者的态度是挑逗性和挑釁性的——他邀请读者进入他的世界，但同时挑战他们的道德预期。他不试图说服，而是试图震撼。",
+    "social_presence": "波德莱尔在公共领域（沙龙评论、新闻写作）表现出强烈的论战性，但在私人信件中又展现出对母亲的深情依恋（'I was forever alive in you; you were solely and completely mine'）。这种公共/私人的分裂是他表达方式的重要组成部分。"
+  },
+  "genre_preferences": {
+    "primary_forms": [
+      "十四行诗（sonnet）",
+      "散文诗（prose poetry）",
+      "艺术评论（art criticism）"
+    ],
+    "secondary_forms": [
+      "小说/中篇小说（《芳法洛》）",
+      "翻译（坡的作品翻译）"
+    ],
+    "rejected_forms": "从现有资料看，波德莱尔似乎对纯叙事文学兴趣不大，更专注于诗歌和评论的交织。"
+  },
+  "tone_register": {
+    "dominant": "典雅而颓废",
+    "description": "波德莱尔的语言既保持古典诗歌的典雅（严格的十四行诗形式、高贵的词汇），又同时拥抱颓废的主题（堕落、罪恶、死亡）。这种典雅与颓废的结合是他的标志性特征。",
+    "variations": [
+      "讽刺冷峻（如《致读者》对资产阶级道德的嘲弄）",
+      "感官浓烈（如描写让娜·杜瓦尔时的情欲色彩）",
+      "形而上玄思（如对忧郁与理想关系的哲学探索）",
+      "政治激进（1848年革命时期的作品）"
+    ]
+  },
+  "structural_preferences": {
+    "architectural_principle": "波德莱尔的诗集不是简单的诗歌集合，而是一个有严密架构的整体。《恶之花》的六部分结构，每部分有独立主题但又形成整体统一，正是这种架构原则的体现。",
+    "textual_coherence": "他早期创作的诗歌'from the outset he had in mind a coherent collection governed by a tight thematic architecture rather than a simple sequence of self-contained poems'（从他有意图创作一部受严格主题架构而非简单自足诗序列所支配的连贯诗集）。这种对架构的强调是他的核心表达偏好之一。"
+  },
+  "notes": "表达偏好分析基于Britannica对波德莱尔作品的概述性描述。由于无法直接抓取《恶之花》原文，分析的详细程度受限。"
+}

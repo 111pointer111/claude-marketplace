@@ -1,0 +1,168 @@
+# 波普尔（Karl Popper）全部语料
+
+## 传记信息（Britannica）
+
+Karl Popper (born July 28, 1902, Vienna, Austria—died September 17, 1994, Croydon, Greater London, England) was an Austrian-born British philosopher of natural and social science who subscribed to anti-determinist metaphysics, believing that knowledge evolves from experience of the mind.
+
+Although his first book, Logik der Forschung (1934; The Logic of Scientific Discovery), was published by the Vienna Circle of logical positivists, Popper rejected their inductive empiricism and developmental historicism. After studying mathematics, physics, and psychology at the University of Vienna, he taught philosophy at Canterbury University College, New Zealand (1937–45). In 1945 he became a reader in logic at the London School of Economics, and he served there as professor of logic and scientific method from 1949 until his retirement in 1969.
+
+Popper's principal contribution to the philosophy of science rests on his rejection of the inductive method in the empirical sciences. According to this traditional view, a scientific hypothesis may be tested and verified by obtaining the repeated outcome of substantiating observations. As the Scottish empiricist David Hume had shown, however, only an infinite number of such confirming results could prove the theory correct. Popper argued instead that hypotheses are deductively validated by what he called the "falsifiability criterion."
+
+Under this method, a scientist seeks to discover an observed exception to his postulated rule. The absence of contradictory evidence thereby becomes corroboration of his theory. According to Popper, such pseudosciences as astrology, metaphysics, Marxist history, and Freudian psychoanalysis are not empirical sciences, because of their failure to adhere to the principle of falsifiability.
+
+Popper's later works included The Open Society and Its Enemies (1945), The Poverty of Historicism (1957), and Postscript to the Logic of Scientific Discovery, 3 vol. (1981–82). He was knighted in 1965.
+
+## SEP 传记详情
+
+Karl Popper is generally regarded as one of the greatest philosophers of science of the twentieth century. He was also a social and political philosopher of considerable stature, a self-professed critical-rationalist, a dedicated opponent of all forms of scepticism and relativism in science and in human affairs generally and a committed advocate and staunch defender of the "Open Society".
+
+The young Karl attended the local Realgymnasium, where he was unhappy with the standards of the teaching, and, after an illness he left to attend the University of Vienna in 1918, matriculating four years later. In 1919 he became heavily involved in left-wing politics and became for a time a Marxist. However, he was quickly disillusioned with the doctrinaire character of the latter, and soon abandoned it entirely. He also discovered the psychoanalytic theories of Freud and Adler, and heard Einstein lecture on relativity theory. The dominance of the critical spirit in Einstein, and its total absence in Marx, Freud and Adler, struck Popper as being of fundamental importance.
+
+The annexation of Austria in 1938 became the catalyst which prompted Popper to refocus his writings on social and political philosophy. He published The Open Society and Its Enemies, his critique of totalitarianism, in 1945.
+
+In later years Popper came under philosophical criticism for his prescriptive approach to science and his emphasis on the logic of falsification. This was superseded in the eyes of many by the socio-historical approach taken by Thomas Kuhn in The Structure of Scientific Revolutions (1962).
+
+Popper was knighted in 1965, and retired from the University of London in 1969, remaining active as a writer, broadcaster and lecturer until his death in 1994.
+
+## 关键引语
+
+### 关于科学与非科学的划界
+
+"Real support can be obtained only from observations undertaken as tests (by 'attempted refutations'); and for this purpose criteria of refutation have to be laid down beforehand: it must be agree which observable situations, if actually observed, mean that the theory is refuted." (1963: 38, footnote 3)
+
+### 关于爱因斯坦与精神分析的对比
+
+Einstein's theory was highly "risky", in the sense that it was possible to deduce consequences from it which were, in the light of the then dominant Newtonian physics, highly improbable (e.g., that light is deflected towards solid bodies—confirmed by Eddington's experiments in 1919), and which would, if they turned out to be false, falsify the whole theory, nothing could, even in principle, falsify psychoanalytic theories. They were, Popper argues, "simply non-testable, irrefutable. There was no conceivable human behaviour which could contradict them" (1963: 38).
+
+### 关于基本陈述与约定
+
+"Every test of a theory, whether resulting in its corroboration or falsification, must stop at some basic statement or other which we decide to accept. If we do not come to any decision, and do not accept some basic statement or other, then the test will have led nowhere."
+
+"Experiences can motivate a decision, and hence an acceptance or a rejection of a statement, but a basic statement cannot be justified by them—no more than by thumping the table." (2002: 87–88)
+
+### 关于知识成长
+
+"…my thesis is that our world 3 theories and our world 3 plans causally influence the physical objects of world 1; that they have a causal action upon world 1." (1980: 164)
+
+### 关于归纳问题
+
+"I approached the problem of induction through Hume. Hume, I felt, was perfectly right in pointing out that induction cannot be logically justified." (Popper 1962)
+
+### 关于证伪的逻辑不对称性
+
+"Every genuine scientific theory then, in Popper's view, is prohibitive, because the theories of natural science take the form of universal statements. 'All As are X' is equivalent to 'No A is not-X' which is falsified if 'Some A is not-X' turns out to be true."
+
+### 关于开放社会
+
+"an association of free individuals respecting each other's rights within the framework of mutual protection supplied by the state, and achieving, through the making of responsible, rational decisions, a growing measure of humane and enlightened life." (R. B. Levinson 1953: 17)
+
+### 关于容忍悖论
+
+"Unlimited tolerance must lead to the disappearance of tolerance. If we extend unlimited tolerance even to those who are intolerant, if we are not prepared to defend a tolerant society against the onslaught of the intolerant, then the tolerant will be destroyed, and tolerance with them."
+
+### 关于三个世界
+
+"The world of the products of the human mind, such as languages; tales and stories and religious myths; scientific conjectures or theories, and mathematical constructions; songs and symphonies; paintings and sculptures." (1980: 144)
+
+"Criticism of world 3 objects is of the greatest importance, both in art and especially in science. Science can be said to be largely the result of the critical examination and selection of conjectures, of thought contents." (1980: 160)
+
+### 关于科学方法
+
+"There is no logical path leading to [the highly universal laws of science]. They can only be reached by intuition, based upon something like an intellectual love of the objects of experience." (Einstein, cited by Popper 2002: 8–9)
+
+### 关于知识的演进
+
+"… real support can be obtained only from observations undertaken as tests (by 'attempted refutations'); and for this purpose criteria of refutation have to be laid down beforehand: it must be agreed which observable situations, if actually observed, mean that the theory is refuted." (1963: 38, footnote 3)
+
+### 关于概率与信息内容
+
+"The more improbable a theory is the better it is scientifically, because the probability and informative content of a theory vary inversely—the higher the informative content of a theory the lower will be its probability."
+
+### 关于休谟的归纳问题
+
+"I approached the problem of induction through Hume. Hume, I felt, was perfectly right in pointing out that induction cannot be logically justified."
+
+### 关于证伪主义
+
+"I do think that we should not conclude from the failure of my attempts to solve the problem that the problem cannot be solved. Perhaps it cannot be solved by purely logical means but only by a relativization to relevant problems or even by bringing in the historical problem situation" (1979, 372).
+
+### 关于历史主义批判
+
+"the dream of prophecy, the idea that we can know what the future has in store for us, and that we can profit from such knowledge by adjusting our policy to it." (1963: 338)
+
+### 关于进化认识论
+
+The growth of human knowledge is an objective evolutionary process which involves the creation and promulgation of new problem-solving theories, which are then subjected to the challenge of criticism, modification, elimination and replacement. These latter activities are seen by Popper as growth-promoting in the evolution of knowledge, which he represents by means of a tetradic schema (1979: 287):
+
+P1 → TT → EE → P2
+
+Here "P1" stands for the "initial problem"; "TT" stands for "tentative theory" designed to solve it, "EE" stands for "attempts at error-elimination", and "P2" represents further problems that arise out of the critical process.
+
+### 关于玻尔的评论
+
+"Bohr was 'a marvelous physicist, one of the greatest of all time, but he was a miserable philosopher, and one couldn't talk to him. He was talking all the time, allowing practically only one or two words to you and then at once cutting in.'"
+
+## Wikipedia 关键内容
+
+### 划界问题
+
+"Popper is known for his rejection of the classical inductivist views on the scientific method in favour of empirical falsification made possible by his falsifiability criterion, and for founding the Department of Philosophy at the London School of Economics and Political Science."
+
+### 早年经历
+
+"Popper left the Realgymnasium at the age of 16 and began attending lectures in mathematics, physics, philosophy, psychology and the history of music as a guest student at the University of Vienna."
+
+"After the street battle in the Hörlgasse on 15 June 1919, when police shot eight of his unarmed party comrades, he turned away from what he saw as the philosopher Karl Marx's historical materialism, abandoned the ideology, and remained a supporter of social liberalism throughout his life."
+
+### 科学哲学
+
+"Logically, no number of positive outcomes at the level of experimental testing can confirm a scientific theory, but a single counterexample is logically decisive; it shows the theory, from which the implication is derived, to be false."
+
+### 政治哲学
+
+"His political thought resides within the camp of Enlightenment rationalism and humanism. He was a dogged opponent of totalitarianism, communism, nationalism, fascism, historicism, and other kinds of (in Popper's view) reactionary and irrational ideas."
+
+### 证伪的重要性
+
+"For Popper, it is in the interplay between the tentative theories (conjectures) and error elimination (refutation) that scientific knowledge advances toward greater and greater problems."
+
+### 关于达尔文主义
+
+"Darwinism is not a testable scientific theory, but a metaphysical research program—a possible framework for testable scientific theories."
+
+### 关于创造论争议
+
+"It allows us to study adaptation to a new environment (such as a penicillin-infested environment) in a rational way: it suggests the existence of a mechanism of adaptation, and it allows us even to study in detail the mechanism at work."
+
+## LSE 来源
+
+"The importance of openness to criticism and revision also characterized his social and political philosophy, which offered an extended, passionate defense of an 'Open Society': a society which respects individuals' rights, in which policies are based on the best evidence available and always subject to public scrutiny and revision, and in which rational argument is the mode through which individuals seek to resolve their differences."
+
+## 重要著作摘要
+
+### 《科学发现的逻辑》(1934)
+批评心理主义、自然主义、归纳主义和逻辑实证主义，提出可证伪性作为划界标准。
+
+### 《开放社会及其敌人》(1945)
+批判极权主义，为民主自由辩护，分析柏拉图、黑格尔和马克思的历史主义哲学基础。
+
+### 《历史主义的贫困》(1957)
+继续批判历史主义，认为历史无法被科学预测。
+
+### 《猜想与反驳》(1963)
+整合真理概念与内容，提出"逼真性"（verisimilitude）概念。
+
+### 《客观知识》(1972)
+提出三个世界本体论，论述客观知识进化论。
+
+### 《无尽的探索》(1976)
+波普尔自传，记录其思想发展历程。
+
+## 核心观点总结
+
+1. **可证伪性标准**：科学的标志是能够被证伪
+2. **反归纳主义**：科学不使用归纳法，而是通过猜测与反驳
+3. **批判理性主义**：理性是对批评的开放
+4. **开放社会**：尊重个人权利、政策基于最佳证据、理性讨论解决分歧
+5. **三个世界**：物理世界（1）、精神世界（2）、客观知识世界（3）
+6. **容忍悖论**：无限容忍导致不容忍，因此必要时可以压制不容忍者

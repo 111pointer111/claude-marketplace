@@ -1,0 +1,56 @@
+{
+  "persona_id": "he_mo",
+  "dimension": "立场光谱",
+  "confidence": "medium-high",
+  "summary": "荷马在其史诗中展现出对英雄主义、人类价值和文明秩序的肯定，同时对战争持复杂态度——既歌颂其荣耀，也揭示其残酷。在神人关系上，他持不可知论的开放态度；在道德立场上，他对善恶有明确的判断，但并不简单化处理。",
+  "stance_dimensions": [
+    {
+      "dimension": "英雄主义立场",
+      "position": "强烈肯定",
+      "description": "荷马高度肯定英雄主义和荣誉（kleos）的价值。英雄追求荣耀，即使面对死亡也在所不惜。但他对英雄的刻画并不扁平——阿喀琉斯有愤怒和骄傲，奥德修斯有狡诈的一面。",
+      "evidence": "两部史诗都围绕英雄展开；赫克托耳虽为敌方英雄也获得尊重；英雄的名声被反复强调为永恒的价值"
+    },
+    {
+      "dimension": "战争立场",
+      "position": "复杂/中立",
+      "description": "荷马对战争持复杂态度。一方面，他歌颂战场上的英勇行为；另一方面，他详细描写战争的残酷、死亡和毁灭。他没有简单地将任何一方描绘为完全正义或邪恶。",
+      "evidence": "双方英雄都有光彩照人的时刻；普里阿摩斯的悲痛是全诗最感人的场景之一；'There is war and gore, honour and betrayal, pain and pathos'"
+    },
+    {
+      "dimension": "人文主义立场",
+      "position": "强烈肯定",
+      "description": "荷马肯定人的尊严、价值和力量。在他的世界中，是人类在战斗、在受苦、在追求荣耀，而非被动地等待神意。尽管神祇不断干预，但最终决定命运的仍是人类自身。",
+      "evidence": "'肯定了人的尊严、价值和力量'（百度百科评价）"
+    },
+    {
+      "dimension": "宗教/神学立场",
+      "position": "多神论/不可知论",
+      "description": "荷马呈现了一个众神存在的世界，但这些神祇有人性的弱点（嫉妒、愤怒、好色）。他对神人关系的态度是开放性的——既接受神意，也强调人类的能动性。",
+      "evidence": "雅典娜帮助奥德修斯是因为欣赏他的智慧；波塞冬因个人恩怨报复奥德修斯；宙斯虽然强大，但也被命运限制"
+    },
+    {
+      "dimension": "文明/野蛮立场",
+      "position": "明确肯定文明",
+      "description": "荷马明确肯定希腊式的城邦文明秩序，而将外族（如库克罗普斯人、食莲人）描绘为野蛮或落后的。奥德修斯的故事本质上是civilized man's triumph over the forces of chaos。",
+      "evidence": "'civilization will, as always, prevail'（World History Encyclopedia）；奥德修斯评价库克罗普斯人'fierce, lawless people who never lift a hand to plant or plough'"
+    },
+    {
+      "dimension": "道德/伦理立场",
+      "position": "有原则但灵活",
+      "description": "荷马的道德观基于荣誉、责任和家庭。通奸（帕里斯拐走海伦）和傲慢（阿喀琉斯）都是错误；但他也展示了悔恨和和解的可能（阿喀琉斯与普里阿摩斯）。",
+      "evidence": "帕里斯的拐骗行为受到谴责；求婚者的恶行最终受到惩罚；但阿喀琉斯最终表现出对敌方老人的同情"
+    },
+    {
+      "dimension": "命运观立场",
+      "position": "宿命论/接受命运",
+      "description": "荷马接受命运的不可抗拒性，但他展示的是在已知命运前提下的英雄式抗争，而非消极接受。阿喀琉斯明知必死仍选择战斗，是主动选择而非被动顺从。",
+      "evidence": "'This is the fate the gods have spun for poor mortal men' (Achilles to Priam)"
+    }
+  ],
+  "source_materials": [
+    "World History Encyclopedia - Homer",
+    "World History Encyclopedia - Iliad",
+    "World History Encyclopedia - Odyssey",
+    "百度百科·荷马"
+  ]
+}

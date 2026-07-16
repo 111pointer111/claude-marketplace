@@ -1,0 +1,133 @@
+# 孟德尔全部语料（合并）
+
+## 来源1：Britannica 传记
+来源：https://www.britannica.com/biography/Gregor-Mendel
+
+Gregor Mendel (born July 20, 1822, Heinzendorf, Silesia, Austrian Empire [now Hynčice, Czech Republic]—died January 6, 1884, Brünn, Austria-Hungary [now Brno, Czech Republic]) was a botanist, teacher, and Augustinian prelate, the first person to lay the mathematical foundation of the science of genetics, in what came to be called Mendelism.
+
+Born to a family with limited means in German-speaking Silesia, Mendel was raised in a rural setting. His academic abilities were recognized by the local priest, who persuaded his parents to send him away to school at the age of 11. His Gymnasium (grammar school) studies completed in 1840, Mendel entered a two-year program in philosophy at the Philosophical Institute of the University of Olmütz (Olomouc, Czech Republic), where he excelled in physics and mathematics, completing his studies in 1843.
+
+His initial years away from home were hard, because his family could not sufficiently support him. He tutored other students to make ends meet, and twice he suffered serious depression and had to return home to recover. As his father's only son, Mendel was expected to take over the small family farm, but he preferred a different solution to his predicament, choosing to enter the Altbrünn monastery as a novitiate of the Augustinian order, where he was given the name Gregor.
+
+The move to the monastery took him to Brünn, the capital of Moravia, where for the first time he was freed from the harsh struggle of former years. He was also introduced to a diverse and intellectual community. As a priest, Mendel found his parish duty to visit the sick and dying so distressing that he again became ill. Abbot Cyril Napp found him a substitute-teaching position at Znaim (Znojmo, Czech Republic), where he proved very successful.
+
+However, in 1850 Mendel failed an exam—introduced through new legislation for teacher certification—and was sent to the University of Vienna for two years to benefit from a new program of scientific instruction. As at Olmütz, Mendel devoted his time at Vienna to physics and mathematics, working under Austrian physicist Christian Doppler and mathematical physicist Andreas von Ettinghausen. He also studied the anatomy and physiology of plants and the use of the microscope under botanist Franz Unger, an enthusiast for the cell theory and a supporter of the developmentalist (pre-Darwinian) view of the evolution of life.
+
+In the summer of 1853, Mendel returned to the monastery in Brünn, and in the following year he was again given a teaching position, this time at the Brünn Realschule (secondary school), where he remained until elected abbot 14 years later. He attempted the teacher exam again in 1856, although the event caused a nervous breakdown and a second failure. However, these years were his greatest in terms of success both as teacher and as consummate experimentalist.
+
+In 1854 Abbot Cyril Napp permitted Mendel to plan a major experimental program in hybridization at the monastery. The aim of this program was to trace the transmission of hereditary characters in successive generations of hybrid progeny.
+
+Previous authorities had observed that progeny of fertile hybrids tended to revert to the originating species, and they had therefore concluded that hybridization could not be a mechanism used by nature to multiply species. On the other hand, plant and animal breeders had long shown that crossbreeding could indeed produce a multitude of new forms.
+
+Mendel chose to conduct his studies with the edible pea (Pisum sativum) because of the numerous distinct varieties, the ease of culture and control of pollination, and the high proportion of successful seed germinations. From 1854 to 1856 he tested 34 varieties for constancy of their traits. In order to trace the transmission of characters, he chose seven traits that were expressed in a distinctive manner, such as plant height (short or tall) and seed colour (green or yellow).
+
+He crossed varieties that differed in one trait—for instance, tall crossed with short. The first generation of hybrids (F1) displayed the character of one variety but not that of the other. In Mendel's terms, one character was dominant and the other recessive. In the numerous progeny that he raised from these hybrids (the second generation, F2), however, the recessive character reappeared, and the proportion of offspring bearing the dominant to offspring bearing the recessive was very close to a 3 to 1 ratio.
+
+Study of the descendants (F3) of the dominant group showed that one-third of them were true-breeding and two-thirds were of hybrid constitution. The 3:1 ratio could hence be rewritten as 1:2:1, meaning that 50 percent of the F2 generation were true-breeding and 50 percent were still hybrid. This was Mendel's major discovery, and it was unlikely to have been made by his predecessors, since they did not grow statistically significant populations, nor did they follow the individual characters separately to establish their statistical relations.
+
+Mendel's approach to experimentation came from his training in physics and mathematics, especially combinatorial mathematics. The latter served him ideally to represent his result. If A represents the dominant characteristic and a the recessive, then the 1:2:1 ratio recalls the terms in the expansion of the binomial equation: (A + a)2 = A2 + 2Aa + a2.
+
+Mendel realized further that he could test his expectation that the seven traits are transmitted independently of one another. Crosses involving first two and then three of his seven traits yielded categories of offspring in proportions following the terms produced from combining two binomial equations, indicating that their transmission was independent of one another. Mendel's successors have called this conclusion the law of independent assortment.
+
+After he was elevated as abbot in 1868, his scientific work largely ended, as Mendel became overburdened with administrative responsibilities, especially a dispute with the civil government over its attempt to impose special taxes on religious institutions. Mendel died on 6 January 1884, at the age of 61, in Brno, from chronic nephritis.
+
+Mendel presented his paper, Versuche über Pflanzenhybriden ("Experiments on Plant Hybridization"), at two meetings of the Natural History Society of Brno in Moravia on 8 February and 8 March 1865. It generated a few favorable reports in local newspapers, but was ignored by the scientific community. When Mendel's paper was published in 1866 in Verhandlungen des naturforschenden Vereines in Brünn, it was seen as essentially about hybridization rather than inheritance, had little impact, and was cited only about three times over the next thirty-five years.
+
+About forty scientists listened to Mendel's two groundbreaking lectures, but it would appear that they failed to understand the implications of his work. Later, he also carried on a correspondence with Carl Nägeli, one of the leading biologists of the time, but Nägeli also failed to appreciate Mendel's discoveries.
+
+By 1900, research aimed at finding a successful theory of discontinuous inheritance rather than blending inheritance led to independent duplication of his work by Hugo de Vries and Carl Correns and the rediscovery of Mendel's writings and laws.
+
+## 来源2：Wikipedia 详细条目
+来源：https://en.wikipedia.org/wiki/Gregor_Mendel
+
+Mendel was born into a German-speaking family in Heinzendorf bei Odrau, in Silesia, Austrian Empire. He was the son of Anton and Rosine (Schwirtlich) Mendel and had one older sister, Veronika, and one younger, Theresia. They lived and worked on a farm which had been owned by the Mendel family for at least 130 years. During his childhood, Mendel worked as a gardener and studied beekeeping. As a young man, he attended gymnasium in Troppau. Due to illness, he had to take four months off during his gymnasium studies. From 1840 to 1843, he studied practical and theoretical philosophy and physics at the Philosophical Institute of the University of Olomouc, taking another year off because of illness. He also struggled financially to pay for his studies, and Theresia gave him her dowry. Later he helped support her three sons, two of whom became doctors.
+
+He became a monk partly because it enabled him to obtain an education without paying for it himself. As the son of a struggling farmer, the monastic life, in his words, spared him the "perpetual anxiety about a means of livelihood."
+
+Born Johann Mendel, he was given the name "Gregor" when he joined the Order of Saint Augustine.
+
+When Mendel entered the Faculty of Philosophy, the Department of Natural History and Agriculture was headed by Johann Karl Nestler, who conducted extensive research on hereditary traits of plants and animals, especially sheep. Upon recommendation of his physics teacher Friedrich Franz, Mendel entered the Augustinian St Thomas's Abbey in Brno and began his training as a Catholic priest.
+
+In 1850, he failed his exams' oral part, the last of three parts, to become a certified high school teacher. In 1851, he was sent to the University of Vienna to study under the sponsorship of Abbot Cyril František Napp so that he could get a more formal education. At Vienna, his professor of physics was Christian Doppler.
+
+Mendel returned to his abbey in 1853 as a teacher, principally of physics. In 1854 he met Aleksander Zawadzki who encouraged his research in Brno. In 1856, he took the exam to become a certified teacher and again failed the oral part. In the summer of 1862, he joined an organised group tour to Paris and London, where he visited the International Exhibition and major scientific sites, a trip that may have influenced the final stage of his hybridisation research. In 1867, he succeeded Napp as abbot of the monastery.
+
+After he was elevated as abbot in 1868, his scientific work largely ended, as Mendel became overburdened with administrative responsibilities, especially a dispute with the civil government over its attempt to impose special taxes on religious institutions. Mendel died on 6 January 1884, at the age of 61, in Brno, from chronic nephritis. Czech composer Leoš Janáček played the organ at his funeral. After his death, the succeeding abbot burned all papers in Mendel's collection, to mark an end to the disputes over taxation.
+
+Mendel, known as the "father of modern genetics," chose to study variation in plants in his monastery's 2 hectares (4.9 acres) experimental garden. Between 1856 and 1863 Mendel cultivated and tested some 28,000 plants, the majority of which were pea plants (Pisum sativum). This study showed that, when true-breeding different varieties were crossed to each other, in the second generation, one in four pea plants had purebred recessive traits, two out of four were hybrids, and one out of four were purebred dominant.
+
+His experiments led him to make two generalizations, the Law of Segregation and the Law of Independent Assortment, which later came to be known as Mendel's Laws of Inheritance.
+
+Mendel reported that he told a friend, Gustav von Niessl: "My time will come."
+
+During his lifetime, most biologists held the idea that all characteristics were passed to the next generation through blending inheritance. Charles Darwin tried unsuccessfully to explain inheritance through a theory of pangenesis. It was not until the early 20th century that the importance of Mendel's ideas was realized.
+
+In 1936, Ronald Fisher, a prominent statistician and population geneticist, reconstructed Mendel's experiments, analyzed results from the F2 generation, and found the ratio of dominant to recessive phenotypes to be implausibly and consistently too close to the expected ratio of 3 to 1. Fisher asserted that "the data of most, if not all, of the experiments have been falsified to agree closely with Mendel's expectations."
+
+A. W. F. Edwards remarks: "One can applaud the lucky gambler; but when he is lucky again tomorrow, and the next day, and the following day, one is entitled to become a little suspicious."
+
+However, Daniel L. Hartl and Daniel J. Fairbanks reject outright Fisher's statistical argument. They conclude: "Fisher's allegation of deliberate falsification can finally be put to rest, because on closer analysis it has proved to be unsupported by convincing evidence."
+
+Mendel also experimented with hawkweed (Hieracium). He published a report on his work with hawkweed. However, the results of Mendel's inheritance study in hawkweeds were unlike those for peas; the first generation was very variable, and many of their offspring were identical to the maternal parent. It was not appreciated until the end of the nineteenth century that many hawkweed species were apomictic, producing most of their seeds through an asexual process.
+
+Mendel appears to have kept animals at the monastery, breeding bees in custom-designed bee hives. All that is known definitely is that he used Cyprian and Carniolan bees, which were particularly aggressive, to the annoyance of other monks and visitors of the monastery, such that he was asked to get rid of them. Mendel, on the other hand, was fond of his bees and referred to them as "my dearest little animals."
+
+Mendel also studied astronomy and meteorology, founding the 'Austrian Meteorological Society' in 1865. The majority of his published works were related to meteorology.
+
+## 来源3：Biography.com
+来源：https://www.biography.com/scientists/gregor-mendel
+
+Gregor Mendel, known as the "father of modern genetics," was born in Austria in 1822. A monk, Mendel discovered the basic principles of heredity through experiments in his monastery's garden. His experiments showed that the inheritance of certain traits in pea plants follows particular patterns, subsequently becoming the foundation of modern genetics.
+
+Gregor Johann Mendel was born Johann Mendel on July 20, 1822, to Anton and Rosine Mendel, on his family's farm, in what was then Heinzendorf, Austria. He spent his early youth in that rural setting, until age 11, when a local schoolmaster who was impressed with his aptitude for learning recommended that he be sent to secondary school in Troppau to continue his education.
+
+Following his graduation, Mendel enrolled in a two-year program at the Philosophical Institute of the University of Olmütz. There, he again distinguished himself academically, particularly in the subjects of physics and math, and tutored in his spare time to make ends meet. Despite suffering from deep bouts of depression that, more than once, caused him to temporarily abandon his studies, Mendel graduated from the program in 1843.
+
+That same year, against the wishes of his father, who expected him to take over the family farm, Mendel began studying to be a monk: He joined the Augustinian order at the St. Thomas Monastery in Brno, and was given the name Gregor.
+
+In 1849, when his work in the community in Brno exhausted him to the point of illness, Mendel was sent to fill a temporary teaching position in Znaim. However, he failed a teaching-certification exam the following year, and in 1851, he was sent to the University of Vienna, at the monastery's expense, to continue his studies in the sciences. While there, Mendel studied mathematics and physics under Christian Doppler; he studied botany under Franz Unger, who had begun using a microscope in his studies, and who was a proponent of a pre-Darwinian version of evolutionary theory.
+
+In 1853, upon completing his studies at the University of Vienna, Mendel returned to the monastery in Brno and was given a teaching position at a secondary school, where he would stay for more than a decade. It was during this time that he began the experiments for which he is best known.
+
+Around 1854, Mendel began to research the transmission of hereditary traits in plant hybrids. At the time of Mendel's studies, it was a generally accepted fact that the hereditary traits of the offspring of any species were merely the diluted blending of whatever traits were present in the "parents." It was also commonly accepted that, over generations, a hybrid would revert to its original form. However, the results of such studies were often skewed by the relatively short period of time during which the experiments were conducted, whereas Mendel's research continued over as many as eight years (between 1856 and 1863), and involved tens of thousands of individual plants.
+
+Mendel chose to use peas for his experiments due to their many distinct varieties, and because offspring could be quickly and easily produced. He cross-fertilized pea plants that had clearly opposite characteristics—tall with short, smooth with wrinkled, those containing green seeds with those containing yellow seeds, etc.—and, after analyzing his results, reached two of his most important conclusions: the Law of Segregation, and the Law of Independent Assortment.
+
+In 1865, Mendel delivered two lectures on his findings to the Natural Science Society in Brno, who published the results of his studies in their journal the following year, under the title Experiments on Plant Hybrids. Mendel did little to promote his work, however, and the few references to his work from that time period indicated that much of it had been misunderstood. It was generally thought that Mendel had shown only what was already commonly known at the time—that hybrids eventually revert to their original form.
+
+Of course, his system eventually proved to be of general application and is one of the foundational principles of biology.
+
+In 1868, Mendel was elected abbot of the school where he had been teaching for the previous 14 years, and both his resulting administrative duties and his gradually failing eyesight kept him from continuing any extensive scientific work. He traveled little during this time and was further isolated from his contemporaries as the result of his public opposition to an 1874 taxation law that increased the tax on the monasteries to cover Church expenses.
+
+Gregor Mendel died on January 6, 1884, at the age of 61. He was laid to rest in the monastery's burial plot and his funeral was well attended. His work, however, was still largely unknown.
+
+It was not until decades later, when Mendel's research informed the work of several noted geneticists, botanists and biologists conducting research on heredity, that its significance was more fully appreciated, and his studies began to be referred to as Mendel's Laws. Hugo de Vries, Carl Correns and Erich von Tschermak-Seysenegg each independently duplicated Mendel's experiments and results in 1900.
+
+## 来源4：Genome.gov 词条
+来源：https://www.genome.gov/genetics-glossary/Gregor-Johann-Mendel
+
+Gregor Mendel was an Austrian monk in the 19th century who worked out the basic laws of inheritance through experiments with pea plants. In his monastery garden, Mendel performed thousands of crosses with pea plants, discovering how characteristics are passed down from one generation to the next — namely, dominant and recessive traits.
+
+## 来源5：Britannica - The Work of Mendel
+来源：https://www.britannica.com/science/genetics/The-work-of-Mendel
+
+Before Gregor Mendel, theories for a hereditary mechanism were based largely on logic and speculation, not on experimentation. In his monastery garden, Mendel carried out a large number of cross-pollination experiments between variants of the garden pea, which he obtained as pure-breeding lines. He crossed peas with yellow seeds to those with green seeds and observed that the progeny seeds (the first generation, F1) were all yellow. When the F1 individuals were self-pollinated or crossed among themselves, their progeny (F2) showed a ratio of 3:1 (3/4 yellow and 1/4 green).
+
+He deduced that, since the F2 generation contained some green individuals, the determinants of greenness must have been present in the F1 generation, although they were not expressed because yellow is dominant over green. From the precise mathematical 3:1 ratio (of which he found several other examples), he deduced not only the existence of discrete hereditary units (genes) but also that the units were present in pairs in the pea plant and that the pairs separated during gamete formation.
+
+Mendel's success can be attributed in part to his classic experimental approach. He chose his experimental organism well and performed many controlled experiments to collect data. From his results, he developed brilliant explanatory hypotheses and went on to test these hypotheses experimentally. Mendel's methodology established a prototype for genetics that is still used today for gene discovery and understanding the genetic properties of inheritance.
+
+Mendel's publications lay unmentioned in the research literature until 1900, when the same conclusions were reached by several other investigators.
+
+## 来源6：Biographyhost.com
+来源：https://biographyhost.com/p/gregor-mendel-biography.html
+
+Gregor Mendel, often recognized as the "father of modern genetics," made groundbreaking contributions to the understanding of heredity in the mid-19th century.
+
+He distinguished himself academically, eventually joining the Augustinian monastery in Brno, where he was given the name Gregor. At the monastery, Mendel accessed extensive resources and cultivated an environment conducive to research, leading to his pivotal work with pea plants.
+
+Through meticulous experimentation from 1856 to 1863, Mendel discovered fundamental principles of inheritance, including the Law of Segregation and the Law of Independent Assortment.
+
+Despite his significant findings being published in 1866, they went largely unrecognized during his lifetime. It wasn't until the turn of the 20th century that geneticists recognized Mendel's work as foundational to the field of genetics.
+
+In 1868, Gregor Mendel's dedication to education and his contributions to the scientific community culminated in his election as the abbot of the St. Thomas Monastery. His administrative responsibilities grew, coupled with a decline in his eyesight. The combination of these factors limited his ability to conduct further research, isolating him from the vibrant scientific discussions of his time, particularly after he publicly opposed a taxation law affecting monasteries in 1874.

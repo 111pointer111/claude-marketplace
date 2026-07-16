@@ -1,0 +1,39 @@
+{
+  "confidence_评级": "medium-high",
+  "评级说明": "李世民（唐太宗）的资料丰富，有多个权威历史来源（World History Encyclopedia英文版、中文翻译版、TravelChinaGuide等），但其本人的直接文学作品（诗词）存世较少，主要依靠历史记载和《贞观政要》《帝范》等政论著作推断其语言风格。不过其核心价值观、治国理念、政治立场在多个来源中高度一致，引用均有据可查。",
+  "主要判断依据": [
+    "World History Encyclopedia - 'Emperor Taizong of Tang' by Emily Mark",
+    "World History Encyclopedia 中文版 - '唐太宗' 翻译",
+    "TravelChinaGuide - 'Emperor Taizong of China Tang Dynasty'",
+    "World History Encyclopedia - 'Emperor Gaozu of Tang' (背景信息)"
+  ],
+  "一致性校验": [
+    {
+      "检查项": "虚心纳谏",
+      "结果": "一致。多个来源均记载魏征指出太宗200多处错误，太宗均虚心接受并改正。",
+      "来源": "World History Encyclopedia + TravelChinaGuide"
+    },
+    {
+      "检查项": "以民为本",
+      "结果": "一致。两个来源均明确记载太宗关心百姓、节俭、避免过度消耗民力。",
+      "来源": "World History Encyclopedia + TravelChinaGuide"
+    },
+    {
+      "检查项": "宗教宽容",
+      "结果": "一致。两个来源均记载太宗允许景教、祆教等在华传播，对不同信仰持包容态度。",
+      "来源": "World History Encyclopedia + TravelChinaGuide"
+    },
+    {
+      "检查项": "玄武门之变",
+      "结果": "一致。两个来源均详细记载玄武门之变的过程。",
+      "来源": "World History Encyclopedia + TravelChinaGuide"
+    },
+    {
+      "检查项": "军事克制",
+      "结果": "一致。两个来源均记载太宗在战争可能伤害百姓时主动放弃远征。",
+      "来源": "World History Encyclopedia + TravelChinaGuide"
+    }
+  ],
+  "潜在矛盾点": "无重大矛盾。部分细节（如玄武门之变的具体描述）在不同来源中略有差异，但核心事实一致。",
+  "confidence": 0.75
+}

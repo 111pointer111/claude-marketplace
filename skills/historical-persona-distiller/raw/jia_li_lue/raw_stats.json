@@ -1,0 +1,47 @@
+{
+  "人物": "伽利略",
+  "persona_id": "jia_li_lue",
+  "抓取来源": [
+    {
+      "来源": "MacTutor History of Mathematics",
+      "URL": "https://mathshistory.st-andrews.ac.uk/Biographies/Galileo/",
+      "状态": "成功",
+      "字数": 25617,
+      "分类": ["传记", "后世评述"]
+    },
+    {
+      "来源": "Stanford Encyclopedia of Philosophy",
+      "URL": "https://plato.stanford.edu/entries/galileo/",
+      "状态": "成功",
+      "字数": 3504,
+      "分类": ["后世评述"]
+    },
+    {
+      "来源": "SerpAPI Google搜索",
+      "URL": "https://serpapi.com/search?q=伽利略+传记",
+      "状态": "成功",
+      "字数": 约500,
+      "分类": ["后世评述"]
+    },
+    {
+      "来源": "Britannica",
+      "URL": "https://www.britannica.com/biography/Galileo",
+      "状态": "失败(404页面不存在)",
+      "原因": "需要订阅或页面已删除"
+    },
+    {
+      "来源": "百度百科",
+      "URL": "https://baike.baidu.com/item/伽利略",
+      "状态": "失败(内容未加载)",
+      "原因": "页面内容未正确返回，仅获取到导航结构"
+    },
+    {
+      "来源": "英文维基百科",
+      "URL": "https://en.wikipedia.org/wiki/Galileo_Galilei",
+      "状态": "失败(fetch failed)",
+      "原因": "网络错误"
+    }
+  ],
+  "总字数": 29644,
+  "抓取时间": "2026-05-08T04:20"
+}

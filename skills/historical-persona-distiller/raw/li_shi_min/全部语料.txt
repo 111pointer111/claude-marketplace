@@ -1,0 +1,187 @@
+# 李世民（唐太宗）全部语料
+# 收集时间：2026-04-28
+# persona_id: li_shi_min
+
+---
+
+## 语料一：World History Encyclopedia - Emperor Taizong of Tang（英文）
+
+Taizong (birth name, Li-Shimin, l. 598-649 CE, r. 626-649 CE) was the second emperor of the Tang Dynasty and is considered one of the greatest rulers in Chinese history for his reforms of the government and the laws, his religious tolerance, and the prosperity China enjoyed under his reign.
+
+Taizong set the standard for rulers of the Tang Dynasty, regarded as the Golden Age of Chinese history, which his successors were measured by. Taizong's reign became legendary to the extent that the last good emperor of the Tang Dynasty, Xuanzong II (r. 846-859 CE) modeled his own reign after that of Taizong's and was remembered after his death as "Little Taizong".
+
+Taizong was the son of the first emperor of the Tang Dynasty, Gaozu (r. 618-626 CE) and had served under him as a general in overthrowing the rule of the corrupt Sui Dynasty (589-618 CE). Taizong was passed over for succession in favor of his older brother but staged a coup in which he murdered his brother and other siblings to seize the throne and imperial power. He proved himself such an effective ruler that these crimes were forgiven and he reigned successfully until his death when he was succeeded by his son, Gaozong (r. 649-683 CE) and then his former concubine Wu Zetian (r. 683-704 CE), the only female monarch in China's history, who learned her skills as empress from Taizong.
+
+### Li-Shimin Becomes Qin Wang
+
+Taizong's birth name was Li-Shimin and he was born in 598 CE in modern-day Shaanxi Province, the second son of Li-Yuan. Li-Yuan was the Duke of Tang and a general in the army of the Sui Dynasty which had become more and more corrupt. In the final years, the last emperors of the Sui drained the imperial treasury on military campaigns while ignoring the needs of the people. Li-Yuan joined with other rebels to lead a revolt which overthrew the Sui Dynasty and established himself as Gaozu, first emperor of the Tang Dynasty.
+
+Taizong was a brilliant strategist & charismatic leader whose contributions to the overthrow of the Sui were rewarded when his father named him Duke of the state of Qin.
+
+According to Taizong's later personal history, he was instrumental in the most important aspects of the Tang victory by providing the tactics for his father. Taizong was a brilliant strategist and charismatic leader whose contributions to the overthrow of the Sui were rewarded when his father named him Qinguogong, a vassal of the state, and later Qin Wang, Duke of the state of Qin. As Qin Wang, he crushed the resistance to Gaozu's rule and stabilized the country.
+
+Gaozu was a good emperor who continued the best policies of the Sui Dynasty while reducing the abuses and reforming those policies which had allowed them. It was Gaozu who implemented the bureaucratic practices which Taizong later modified and which are still used in China today. Although he ruled well, Qin Wang was becoming more popular among the people for his military actions against Sui loyalists and this concerned his brothers. Qin Wang was only the duke, not the crown prince, and his older brother Li-Jiancheng worried that he might try to replace him as heir so Li-Jiancheng conspired with the other brothers to eliminate Qin Wang.
+
+Gaozu seemed oblivious to these problems and continued to rule well, creating the Tang Legal Code in 624 CE which would be used by future dynasties and was even copied by other nations like Japan, Korea, and Vietnam. He also reformed the aristocracy to prevent over-taxation of the peasant farmers and re-distributed land parcels. While he was busy governing the country, his sons were working on various plots to get rid of Qin Wang and secure the rightful succession. Qin Wang was told of his brothers' plans and let his father know about them. Just before this, Gaozu had named Li-Jiancheng his heir and this decree was more than Qin Wang could bear. He believed he deserved better than the position of Duke of Qin because of his efforts in putting down the Sui rebellions and due to his popularity among the people.
+
+### Qin Wang Becomes Taizong
+
+Qin Wang heard his brothers were going to stage a coup to remove Gaozu and take the throne. They would then be able to easily murder him and Li-Jiancheng would become emperor with the brothers elevated to high court positions. Qin Wang placed soldiers loyal to him near the Xuanwu Gate of the palace, the route he knew his brothers would take, who then attacked as they were passing by and killed them all. Qin Wang was made crown prince, forced his father to abdicate to him, and was made emperor of China.
+
+Once he was emperor, he took the name Taizong, had his opponents executed and then used the concept of ancestor worship to his advantage and declared that all those who had been killed were now his celestial advisors. Taizong had shown himself to be such an effective general and statesman under his father's administration that no one challenged him once he took control.
+
+### Taizong's Reign
+
+One of the first things Taizong did was to create the History Commission to chronicle the Sui Dynasty's rise and fall and how he, Taizong, had founded the Tang Dynasty. In Taizong's version of history, he had been the power behind his father all along. He then dedicated himself to proving his account by becoming a greater emperor than his father. By 630 CE he had defeated the Göktürks and taken back control of territories they had seized.
+
+As a security measure, he banned all unauthorized foreign travel to limit the possibility of spies in the country. How effective this ban was is not known but the famous Buddhist monk and travel writer Xuanzang (602-664 CE) writes about how many checkpoints there were along the borders and how he had to talk his way past the guards at the Yumen Pass on his way to India.
+
+Taizong was a devout Buddhist & believed all faiths should be able to live together peacefully.
+
+In 634 CE Taizong signed a peace treaty with Tibet and gave the Tibetan king his adopted daughter as a bride. Religious tolerance and diversity in China flourished under Taizong's reign. Buddhism became widely practiced, surpassing Confucianism and curbing the popularity of Taoism. Taizong allowed the Christian missionary Alopen to preach his religion in China in 635 CE, introducing Christian concepts to the country and in 638 CE a Persian mission was allowed to establish Zoroastrian groups.
+
+Between 638-645 CE delegates from a number of governments, including the Byzantine, came to Taizong requesting aid in stopping the militant spread of Islam but Taizong refused because he did not want to get involved in religious wars. Taizong was a devout Buddhist and believed all faiths should be able to live together peacefully.
+
+In the same way that he welcomed all different faiths, he embraced diverse ethnicities and elevated people of different ethnic groups to positions at the imperial court. He was open to advice and listened carefully to the wisdom of his counselors. When his chancellor, Wei Zheng, pointed out over 200 mistakes the emperor had made thus far in his reign, Taizong accepted the criticism and corrected them. When he was told a military expedition would be too costly for the people, he abandoned it. He enjoyed his own company and was an accomplished poet and writer who wrote two books, Di Fan and Zhen Guan Zheng Yao (Model of an Emperor and The Emperor's Government Strategy), which would become important resources for later rulers.
+
+### Taizong & Wu Zhao
+
+In c. 638 CE Taizong selected a beautiful 14-year-old girl, Wu Zhao, as one of his concubines. The term 'concubine' is often associated with sex, but, actually, concubines at the imperial court performed many services for the emperor such as singing, dancing, cleaning, and doing laundry. Wu Zhao was assigned laundry duty and performed her tasks well.
+
+She knew, though, that she was meant for better things than washing other people's dirty clothes and linens and, one day, when she found herself alone with Taizong, she began talking to him as though he were anyone else in the laundry, not the most powerful man in China. Taizong was surprised that his laundress was so well-informed on Chinese history and so skilled in conversation. He soon found out she could also sing, dance, play music, write poetry, and had interesting insights on government and history. He took Wu Zhao out of the laundry and made her his personal secretary.
+
+Wu Zhao became Taizong's constant companion at court and was involved in all of the meetings and conferences the emperor held with his counselors and foreign dignitaries. Taizong called her Mei-Niang, "beautiful girl" and kept her in attendance during all his business transactions as well as his leisure time. Wu Zhao was a keen observer who absorbed everything she experienced during these meetings and learned the skills Taizong used to govern so effectively.
+
+She was clever and intelligent but also beautiful and she attracted the attention of many men at court. One of these men was Li Zhi, Taizong's son, who was already married at the time but fell deeply in love with Wu Zhao. She began an affair with him while still holding her position as Taizong's favorite concubine.
+
+### Military Campaigns
+
+Taizong's military campaigns were carried out primarily between 640-649 CE against the so-called Oasis States of the Göktürks. Taizong understood that a professional military force was necessary for defense and also for expansion of his realm. Historian Justin Wintle writes:
+
+"Under Taizong, a total of 600 militia units were formed consisting of between 800 and 1200 men. Militamen, exempted from taxes, might serve either on short-term secondments to the capital or at border garrisons or in their own provinces. They were overseen by a professional corps of officers, rotated around the empire to preclude the possibility of their forming personal power bases. The Tang also maintained a standing force, the elite 'Northern Army', barracked outside the capital. These and related measures were costly, but for 150 years they paid for themselves by enabling the empire to expand commercially as well as territorially without the distractions of internal revolt. (143)"
+
+Taizong sent his army against the Eastern Turkic Khaganate in the Tarim Basin after diplomatic measures failed. Originally, relations between the Tang Dynasty and the city of Gaochang had been warm. The king of Gaochang, Qu Wentai, visited Taizong at Chang'an in 630 CE but a dispute arose between Gaochang and a neighboring town of Yanqi which erupted into hostilities and caused Taizong to declare war.
+
+The town of Yanqi was on a trade road which wound through the desert to important centers in China. The road was closed by Taizong to prevent its use by spies or rebels and the merchants from Yanqi had to travel through Gaochang to reach China. These merchants began trading in Gaochang instead of making the longer journey into China. The king of Yanqi, Long Tuqizhi, sent an emissary to Taizong requesting the road be re-opened because his merchants were not getting the kinds of prices for their goods in Gaochang that they used to in Chang'an.
+
+Taizong agreed to the request and the road was re-opened but this angered Gaochang who attacked Yanqi. King Qu Wentai of Gaochang then allied himself with tribes hostile to the Tang Dynasty and raided further Yanqi settlements, destroying towns, and capturing citizens for ransom or sale as slaves.
+
+Taizong sent an emissary to Gaochang asking Qu Wentai to send an emissary in return to discuss the situation. Instead of honoring Taizong by sending the emissary specifically requested, he sent a lower official and entered into further treaties with cities hostile to Tang rule. In 640 CE, Taizong sent his general Hou Junji to break the power of Gaochang and force Qu Wentai to obey Tang edicts. When Qu Wentai heard that the great Tang army was marching on his city he died, most likely from a heart attack. His son Qu Zhisheng succeeded him and quickly wrote to General Hou apologizing for Gaochang's past behavior and promising better relations in the future. Hou Junji rejected this appeal and demanded that Qu Zhisheng surrender unconditionally. Qu Zhisheng refused and General Hou attacked Gaochang.
+
+The army of Qu Zhisheng was no match for the highly trained Tang army and the city fell quickly. Taizong then annexed the territories and garrisoned them with troops. The problems with Gaochang were solved but now the Yanqi allied themselves with the Western Turkic Khaganate and declared themselves hostile to Tang interests in c. 644 CE. Taizong defeated them and claimed their land and then sent the army further to subdue the Eastern Turks, finally claiming the whole of the Tarim Basin as part of his realm by 648 CE.
+
+### Taizong's Death & Legacy
+
+Taizong contracted dysentery and died in 649 CE. He was buried with great ceremony in his home province in a tomb known as the Zhao Mausoleum. Li Zhi succeeded him as emperor and took the name Gaozong. Gaozong would have to continue his father's wars in the Tarim Basin as the Turks revolted and the Tang army was sent to put the rebellions down. Following Taizong's death, all of his concubines had their heads shaved and were sent to live out the rest of their lives in a monastery. Gaozong was so in love with Wu Zhao, though, that he had her brought back to the palace and made her his first concubine. She became the power behind the throne from as early as 660 CE and when Gaozong died in 683 CE Wu Zhao seized power and became the empress Wu Zetian.
+
+Even though many aspects of her reign were harshly criticized by later Chinese historians, Wu Zetian followed Taizong's example in many ways and improved on his policies. Wu Zetian laid the foundation for the next great emperor of China, Xuanzong (r. 712-756 CE), under whose reign the Tang Dynasty would reach its greatest height. Although her accomplishments were all her own, she had learned her skills from Taizong.
+
+Taizong became the model emperor who set the standard for every other successful ruler who followed him. His name was always invoked in praise for his policies and he is still considered one of the greatest rulers in Chinese history. The other emperors of the Tang Dynasty were measured by how closely they met the standards of Taizong and very few, possibly none, ever exceeded them.
+
+Almost every other Tang ruler, including the successful Wu Zetian and Xuanzong who followed directly after him, lost sight of their responsibility to the people and the land and indulged in their own private pleasures. Taizong remained faithful to his responsibilities from the time he assumed control of the government until his death and so continues to be regarded with honor as the model of a great emperor.
+
+---
+
+## 语料二：TravelChinaGuide - Emperor Taizong of China Tang Dynasty
+
+Being a skilled politician, a master strategist and even an excellent calligrapher, seventh century ruler Li Shimin epitomized success and versatility. As a founding father of the Tang Dynasty he ruled the country in an open minded and humane manner. He was ambitious, intelligent, adroit and diligent. He would become Emperor Taizong, co-founder with his father of the Tang Dynasty, ruling from 629 to 649.
+
+Born in 598 in Wugong County in the current Shaanxi Province, Li Shimin was the second son of Li Yuan, then the chief officer of Taiyuan City. As a young boy, he has extraordinary courage and keen insight. In 615 when Emperor Yang of the Sui Dynasty (581-618) was besieged by the Tujue's army, Li volunteered to lead a rescue operation thus making quite a name for himself at the age of sixteen. In 517, seeing that the Sui regime was near collapse, he encouraged and assisted his father in plotting the establishment of a new dynasty. After the war started in Jinyang by Li Yuan, he and his elder brother Li Jiancheng fought abreast with the Sui army. Not long afterwards, Li's army conquered the capital Chang'an (currently Xian). Then, Li Yuan proclaimed himself to be King of Tang. Meanwhile, Li was installed as Qinguogong (a vassal to his father). Later when Li Yuan founded the Tang Dynasty and was crowned as Emperor Gaozu, Li Shimin was given the title of Qin Wang (Duke of Qin) while Li Jiancheng as entitled as Prince.
+
+As Qin Yang, he launched many military expeditions against his rivals. He eradicated the tensions in the northwest part of Tang by defeating the local military force in Gansu; his army crushed Song Jingang's troops and recovered Bingzhou and Fenzhou cities; he also annihilated the military forces of Wang Shichong and Dou Jiande and conquered the central plains. These successes allowed broad expansion of Tang territory. However, as his military power grew stronger and stronger, Li's two brothers grew envious and concerned. Prince Li Jiancheng specifically feared that Li Shimin would replace him. The fear drove him to fashion a plot to eliminate Li and grasp his military power. Hearing of the plot, Li Shimin informed against his two brothers to his father. Meanwhile he deployed his soldiers inside the Xuanwu Gate through which his two brothers would go to meet Li Yuan the next day. On July 2nd, 626 the brothers attempted a coup. Eventually it failed and Li Shimin and his forces killed the two brothers. Chinese history refers to this as the Xuanwu Gate Incident. Three days later, he became Prince. Two months later, Li Yuan abdicated in favor of Li, the latter becoming Emperor Taizong. This marked the start of the Zhenguan Reign considered one of the golden ages of Chinese history.
+
+As Emperor Taizong, Li Shimin's military talents were brought to fruition. Successively, he defeated the Tujue in the north and captured Tuguhun and Gaochangguo in the west. This made Tang the dominant power in eastern Asia and Emperor Taizong subsequently took the title of 'Heavenly Khan'. In 638, he defeated Tufan leader Sontzen Gampo's army, but later allowed Princess Wencheng to marry Gampo. In dealing with state affairs however, Li Shimin learned hard lessons about the reasons of the Sui's downfall. One example was the war he launched against Gaoli in his later years that proved to be a waste of money and manpower. But Li was also smart and modest enough to invite criticism from his advisers. A loyal chancellor named Wei Zheng actually pointed our more than 200 mistakes made over time by the emperor who ultimately corrected all of them. The emperor proved to be eventually thrifty and cared a great deal about his people. Additionally, he gave equal treatment to ethnic minorities. He appointed many of them as high officials in his court. As a politician, he enhanced the former political systems, cuach and Jun Tian System (Land Equalization System); Keju Educational System and the Three Departments and Six Ministries System. Trying to rule the country by law, he also promulgated Da Tang Lv (state law of Tang) which had a profound influence in Chinese history.
+
+Li Shimin also had highly developed literary taste. He composed many poems and was an accomplished calligrapher. In order to teach his offspring and memorialize his imperial experience, he wrote a book called Di Fan (model of an emperor). Another important book called Zhen Guan Zheng Yao catalogued all of his administrative experience and became a reference book for monarchs and leaders in many other countries. During Emperor Taizong's twenty years' reign, the national economy became prosperous, society was reasonably stable and people lived in peaceful harmony. This is why his reign is remembered as Zhen Guan and as the foundation for the later glorious period of the Tang Dynasty.
+
+As he grew older, Li Shimin has difficulty selecting his successor. At first he chose his eldest son Li Chengqian as Prince. Later, he put his fourth son Li Tai into an important position which made Li Chengqian suspicious. The latter launched a coup and attempted to kill Li Tai. The plot failed and Li Chengqian was demoted to plebeian status. For fear that the tragedy of Xuanwu Gate might be replayed, Li Shimin then demoted Li Tai and chose his ninth son Li Zhi as Prince. He later would become Emperor Gaozong.
+
+In 649, Emperor Taizong contracted dysentery and soon after died at Hanfeng Palace in Chang'an. Later he was buried in northeast Liquan County in Shaanxi Province. His tomb is called Zhao Ling (Zhao Mausoleum).
+
+---
+
+## 语料三：World History Encyclopedia 中文版 - 唐太宗（翻译）
+
+太宗（出生名，李世民，生於公元598-649年，在位於公元626-649年）是唐朝的第二位皇帝，因其對政府和政體的改革,而認為是歷史上最偉大的統治者, 法律、宗教寬容以及在他治下享有的繁榮。
+
+太宗為唐朝的統治者設定了標準，被視為中國歷史上的黃金時代，他的繼任者以此為標準。 太宗的統治成為傳奇，以至於唐朝最後一位好皇帝玄宗二世（公元846-859年在位）以太宗的統治為榜樣，在他死後被稱為"小太宗"。
+
+太宗是唐朝開國皇帝高祖（公元618-626年在位）的兒子，曾在他手下擔任將軍,推翻腐敗的隋朝統治（公元589-618年）。 太宗的繼承權讓給了他的哥哥，但他發動政變，謀殺了他的兄弟和其他兄弟姐妹，以奪取王位和皇權。 他證明自己是一位如此有效的統治者，以至於這些罪行都得到寬恕，他成功地統治直到去世，他的兒子高宗（公元649-683年在位）繼位，然後是他的前妃子武則天（公元683-704年在位），中國歷史上唯一女王，她的皇后本領是跟太宗學的。
+
+### 李世民變秦王
+
+太宗本名李世民，公元598年出生於今陝西省，是李淵的次子。 李淵是唐國公，隋朝軍隊中的將軍，腐敗越來越嚴重。 末年，隋朝末代皇帝大肆征戰，不顧百姓生死，耗盡國庫。 李淵與其他叛軍領導推翻隋朝,並自立為唐朝開國皇帝高祖。
+
+太宗是一位才華橫溢的戰略家和富有魅力的領袖，當他的父親任命他為秦國公時，他對推翻隋朝的貢獻得到回報。
+
+據太宗後來的個人經歷，他為父親提供戰術，在唐朝勝利的最重要方面發揮重要作用。 太宗是一位才華橫溢的戰略家和富有魅力的領袖，他對推翻隋朝的貢獻得到回報，他的父親封他為秦國諸侯，後來又封他為秦國公秦王。 作為秦王，他粉碎對高祖統治的抵抗，穩定了國家。
+
+高祖是一位好皇帝，他繼承隋朝的最佳政策，同時減少弊端,並改革它們的政策。 正是高祖實施了太宗後來修改,並在今天仍在使用的官僚制度。 雖然他統治得很好，但秦王因其對隋效忠者的軍事行動,而越來越受到人民的歡迎，這關係到他的兄弟們。 秦王只是公爵，不是太子，他的哥哥李建成擔心,他可能取代他成為繼承人，所以李建成與其他兄弟,密謀消滅秦王。
+
+高祖似乎對這些問題視而不見，並繼續統治良好，於公元624年制定了《唐朝法典》，該法典被後代沿用，甚至被日本、韓國和越南等其他國家效仿。 他還改革了貴族制，以防止對農民過度徵稅，並重新分配了地塊。 在他忙於治理國家之際，他的兒子們卻千方百計想除掉秦王，奪回王位。 秦王得知兄弟們的打算，便讓父親知道。 就在這之前，高祖已經立李建成為繼承人，這旨意是秦王無法承受。 他認為，由於他平定隋叛亂的努力以及他在民間的聲望，他配得上比秦公更高的地位。
+
+### 秦王稱太宗
+
+秦王聽說他的兄弟們要發動政變，推翻高祖，奪取皇位。 然後他們就可以很容易地謀殺他，李建成將成為皇帝，兄弟們被提升到高位。 秦王派忠於他的士兵靠近宮殿的玄武門，他知道他的兄弟們會走這條路，然後在他們經過的時候進攻，把他們都殺了。 秦王被立為太子，逼迫父親退位，成為中國皇帝。
+
+當上皇帝后，他自稱太宗，處死對手，然後利用祖先崇拜概念,為自己謀利，並宣布所有被殺的,現都是他的天師。 太宗在他父親治下,表現得非常有能力，以至於在他掌權後沒有人挑戰他。
+
+### 太宗時期
+
+太宗做的第一件事,就是創建歷史,記錄隋朝的興衰以及他，太宗如何建立唐朝。 在太宗的歷史版本中，他一直是父親的得力助手。 然後，他致力行動成為比他父親更偉大,證明自己的說法。 到公元630年，他擊敗東突厥,奪回他們佔領的領土。
+
+作為安全措施，他禁止所有未經授權國外旅行，以限制間諜活動。 禁令效果如何,不得而知，但著名的取經佛教,玄奘（公元602-664年）寫道，邊境沿線有多少檢查站，以及他如何在他的玉門關口通過, 向守衛說 去印度的路。
+
+太宗是一個虔誠的佛教徒，相信所有的信仰,都應該能夠和平共處。
+
+公元634年，太宗與西藏簽訂和約，將養女(文成公主的父母究竟是誰，史料無記載)許配給吐蕃國王。 在太宗統治下，中华的宗教寬容和多元化蓬勃發展。 佛教得到廣泛實踐，超越了儒家並遏制了道教的流行。 太宗於公元635年允許基督教支派景教,傳教士亞羅本在中國傳播他的宗教，將基督教引入中國，並於公元638年允許波斯傳教士建立祆教團體。
+
+在638-645年間，包括拜占庭在內的許多政府代表,來到太宗,請求幫助阻止伊斯蘭教的激進傳播，但太宗拒絕，因不想捲入宗教戰爭。 太宗是一位虔誠的佛教徒，認為所有信仰都應該能夠和平共處。
+
+正如他歡迎各種不同的信仰一樣，他包容不同的民族，將們提升到朝廷官職。 他樂於接受建議，並認真兼聽智慧諫言。 當他的宰相魏徵指出皇帝在位期間所犯的200多個錯誤時，太宗接受了批評並改正。 當他告知軍事遠征對人民來說,成本太高時，他放棄了。 他喜歡自己的幕僚，是一位多才多藝的詩人和作家，寫了兩本書《帝範》和《甄官正要》（皇帝的模範和皇帝的政府策略），這些書成為後來統治者的重要資源。
+
+### 太宗與武昭
+
+在公元638年，太宗選了一位美麗的十四歲少女吳昭為妃子。"妃子"常與性聯繫在一起，但實際上宮廷中的妃子,為皇帝提供許多服務，如唱歌、跳舞、打掃衛生、洗衣服等。 吳曌被分派去洗衣，她的工作也做得很好。
+
+不過，她知道自己注定要做,比洗別人的髒衣服和床單更好的事情，有天，當自己單獨和太宗在一起時，她開始和他說話，就好像他是其他人，而不是洗衣服的人中國最有權勢的人。 太宗很驚訝洗衣工對歷史如此了解，而且能說會道。 他很快發現她還能唱歌、跳舞、演奏音樂、寫詩，並且對政府和歷史有著有趣的見解。 他把吳曌從洗衣房裡抱了出來，讓她做自己的貼身文書。
+
+吳曌成為太宗在朝中的常伴，參與了皇帝與他的謀士和外國政要舉行的所有會議。 太宗稱她為媚娘，"美人"，無論是政務還是閒暇，都讓她侍候。 吳曌是位敏銳的觀察者，她吸收會議所經歷的一切，並學會太宗有效治理的技巧。
+
+她聰明伶俐，美麗動人，在宮廷中吸引了很多男人的注意。 其中一位是太宗的兒子李治，當時他已婚，但深深地愛上了吳昭。 她在擔任太宗寵妃的時候就開始了與他的私情。
+
+### 軍事戰役
+
+太宗的軍事行動主要是在公元640-649年間針對所謂的東突厥綠洲國家進行。 太宗明白專業的軍力,對於防禦和擴張領域是必要。 歷史學家賈斯汀·溫特爾寫道：
+
+"在太宗統治下，共組建六百個民兵部隊，由八百到千二人組成。 免稅的民兵可以短期借調到首都,或在邊境駐軍,或在自己的省份服役。 他們由專業軍官團監督，在各地輪換，以排除他們形成個人權力基礎的可能。 唐朝還保留了一支常備部隊，精銳的'北方軍'，駐紮在京城外。 這些措施代價高昂，但在150年的時間裡，使帝國能夠在商業和領土上擴張，而不會因內部叛亂而分心，從而收回成本。"
+
+外交措施失敗後，太宗派大軍攻打,塔里木盆地的東突厥汗國。 本來，唐朝與高昌城的關係一直很融洽。 公元630年，高昌王麴文泰到長安拜見太宗，但高昌與鄰近的焉耆鎮發生爭執，爆發敵對行動，太宗宣戰。
+
+焉耆鎮位於一條蜿蜒,穿過沙漠通往中國,重要中心的貿易道路上。 這條路被太宗封閉，防止被間諜或叛亂分子利用，而焉耆的商人,不得不通過高昌,到達中國。 商人開始在高昌進行貿易，而不是長途跋涉進入中國。 延期王龍圖啟之派遣使者,到太宗請求重開這條路，因為他的商人在高昌無法像在長安得到商品的價格。
+
+太宗應允，道路重開，但這激怒了攻打焉耆的高昌。 高昌王麴文泰隨後與敵視唐朝的部落結盟，進一步襲擊焉耆定居點，摧毀城鎮，並俘虜公民,以贖回或出售為奴隸。
+
+太宗派使者到高昌，要麴文泰派使者回話，商量情況。 沒有派出特別要求的使者來尊敬太宗，而是派了一名下級官員，並與敵視唐朝統治的城市簽訂了進一步的條約。 公元640年，太宗派他的將軍侯君集打破高昌，並迫使麴文泰服從唐詔。 當麴文泰聽說大唐,正向他的城市進軍時，他死了，很可能是心臟病發作。 他的兒子麴智盛接替他，並迅速寫信給侯將軍，為高昌過去的行為道歉，並承諾未來會改善關係。 侯君集駁回了這一申訴，要求麴智盛無條件自首。 他不從，侯將軍攻打高昌。
+
+麴智盛的軍隊敵不過訓練有素的唐軍，城池很快淪陷。 太宗遂兼併各地，駐軍駐守。 高昌問題已經解決，但現在焉耆與西突厥汗國結盟，並宣布他們對唐朝的利益懷有敵意。 公元644年。 太宗打敗了他們，奪取了他們的土地，然後派軍隊進一步征服東突厥，最終在公元648年宣布整個塔里木盆地為他的領土。
+
+### 太宗逝世與聲望
+
+公元649年，太宗患痢疾去世。 在他的家鄉舉行隆重的葬禮，葬於一座名為趙陵的陵墓中。 李治繼位為帝，號高宗。 高宗將不得不繼續他父親在塔里木盆地的戰爭，因為突厥人起義，唐軍派去鎮壓叛亂。 太宗死後，太宗的妃子們都被剃光頭，送入寺院度過餘生。 高宗非常喜歡吳曌，將她帶回宮中，立為第一個妃子。 早在公元660年，她就成為了皇位背後的力量，當高宗於公元683年去世時，武昭奪取了權力，成為了武則天皇后。
+
+儘管她統治的許多方面,受到後來歷史學家的嚴厲批評，但武則天在許多方面效仿了太宗的榜樣,並改進他的政策。 武則天為中國的下一位偉大皇帝玄宗（公元712-756年在位）奠定基礎，唐朝在其統治下達到了鼎盛時期。 雖然她的功績都是自己的，但本領卻是跟太宗學的。
+
+太宗成為模範皇帝，為他之後的統治者,樹立了樣。 他的名字總是用來讚美他的政策，他仍認為是中史上最偉大的統治者。 唐朝其他皇帝的衡量標準是與太宗標準的接近度，很少（可能沒有）超過他。
+
+幾乎所有的唐朝統治者，包括功成名就的武則天和緊隨其後的玄宗，都忘記了他們對人民和土地的責任，沉迷於個人享樂。 太宗從掌權到去世都忠於自己的職責，因此一直被尊為偉大皇帝的楷模,使得社會出現國泰民安，開創史上著名的貞觀之治。
+
+---
+
+## 语料四：World History Encyclopedia - Emperor Gaozu of Tang（背景）
+
+Emperor Gaozu (also Kao-tsu, formerly Li Yuan, r. 618-626 CE) was a Sui military commander who led a rebellion against his former masters, seized control of the state, and founded the Tang Dynasty (618-906 CE). Overshadowed in the ancient history books by his son Taizong, who succeeded him as emperor, Gaozu was, nevertheless, responsible for unifying China and laying the political, social, and economic foundations for one of the golden eras of Chinese history.
+
+These character traits, however, should not be allowed to obscure his solid and impressive achievement: the re-establishment of a strong and highly centralised state which endured for almost three centuries. Under Gaozu the Tang successfully established political, economic and military institutions which became the hallmarks of the Tang age, which in many cases continued to influence deeply Chinese civilization down to the present century, and which provided the basic institutional models for the newly emergent states of Chinese-dominated east Asia - Japan, Korea and Vietnam.
+
+— Historian H. J. Wechsler, in Twitchett

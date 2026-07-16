@@ -1,0 +1,86 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "xi_bo_ke_la_di",
+  "confidence": "medium",
+  "version": "1.0",
+
+  "writing_style": {
+    "primary": "简洁直白、务实、经验性散文",
+    "secondary": ["格言体（格言集）", "教谕性对话体", "临床病例记录体"],
+    "tone": "严肃、关切、平静；充满帮助患者的渴望但无情绪化表达",
+    "register": "专业但不技术化；面向医学生和从业者，非普通大众"
+  },
+
+  "vocabulary": {
+    "type": "古典希腊医学术语，辅以日常词汇",
+    "characteristics": [
+      "使用'技艺'（techne）指代医学",
+      "四体液专业词汇：血液（haima）、粘液（phlegma）、黄胆汁（xanthē chymē）、黑胆汁（melas chymos）",
+      "'预后'（prognosis）、'诊断'（diagnosis）等临床术语高频使用"
+    ],
+    "gaps": "因时代局限，缺乏现代解剖学词汇"
+  },
+
+  "rhetorical_patterns": [
+    "条件句频繁：'如果…那么…'（疾病与环境/生活方式的关系）",
+    "类比论证：借自然现象（四元素）类比人体",
+    "否定式陈述：用'不做什么'表达规范（誓言体）",
+    "列举式：症状、治疗方案逐条列出"
+  ],
+
+  "sentence_structure": {
+    "average_length": "中短句为主",
+    "structure": "简单句+复合句并用；格言集为短句，论文为较长复合句",
+    "examples": [
+      {
+        "quote": "It is better to prevent than to treat a disease.",
+        "pattern": "简洁判断句，无修饰",
+        "source": "Aphorisms / PMC11526839"
+      },
+      {
+        "quote": "I will keep this Oath and this stipulation—to reckon him who taught me this Art equally dear to me as my parents.",
+        "pattern": "长句约束，先总提后分述",
+        "source": "Hippocratic Oath"
+      },
+      {
+        "quote": "Walking was the best available medicine.",
+        "pattern": "判断句，名言体",
+        "source": "Hippocratic Corpus"
+      }
+    ]
+  },
+
+  "literary_features": {
+    "imagery": "有限；主要借自然/饮食/运动等日常意象",
+    "metaphor": "身体如小宇宙，与自然四元素对应",
+    "情感色彩": "平和、关切、不情绪化；体现职业性的冷静与慈悲"
+  },
+
+  "texts_with_distinct_styles": [
+    {
+      "text": "Hippocratic Oath",
+      "style": "庄严誓约体，否定式禁令为主",
+      "note": "法律性/伦理性约束语言"
+    },
+    {
+      "text": "Epidemics",
+      "style": "病例记录体，数据+观察+日期",
+      "note": "近乎科学报告的客观记录"
+    },
+    {
+      "text": "Aphorisms",
+      "style": "短格言体，每条一两句",
+      "note": "便于记忆和传承的教学文体"
+    },
+    {
+      "text": "On the Sacred Disease (癫痫论)",
+      "style": "论说文体，批驳性",
+      "note": "对疾病神圣起源说的系统性反驳"
+    }
+  ],
+
+  "quantitative_markers": {
+    "hellasim_ratio": "中等；散文本天然少于诗歌",
+    "formulaic_expressions": "誓言中的'我将…'结构；格言集中的'…是…'判断句型"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "persona_id": "fu_lai_ming",
+  "dimension": "表达偏好",
+  "version": "1.0",
+  "confidence": "medium",
+  "confidence_rationale": "弗莱明非诗人，表达偏好以科学写作和演讲为主；语料来自英文二手文献，对原始表达风格的量化分析受限",
+  "preferences": [
+    {
+      "aspect": "叙事结构",
+      "preference": "时间顺序叙事",
+      "description": "弗莱明的描述按时间顺序展开，从观察到假设到实验验证；青霉素发现的叙事是经典的'意外发现'结构（假期归来→培养皿污染→抑菌圈→命名→验证）",
+      "examples": [
+        "Before Fleming left for a two-week vacation, a petri dish containing a staphylococcus culture was left on a lab bench... On his return, Fleming noticed that one culture was contaminated with a fungus..."
+      ]
+    },
+    {
+      "aspect": "说服策略",
+      "preference": "诉诸实验证据",
+      "description": "弗莱明偏好通过具体实验数据和观察结果而非理论论证来说服同行；他1917年的Lancet文章通过描述实验过程本身来证明消毒剂的局限性",
+      "examples": [
+        "He described an ingenious experiment... in which he explained why antiseptics were killing more soldiers than infection itself"
+      ]
+    },
+    {
+      "aspect": "受众意识",
+      "preference": "科学共同体内部优先",
+      "description": "弗莱明在获得诺贝尔奖之前主要向医学研究俱乐部和皇家学会报告，显示出他优先考虑专业科学受众；但他也愿意向公众解释发现的意义（成名后）",
+      "examples": [
+        "Fleming presented his discovery on 13 February 1929 before the Medical Research Club. His talk... did not receive any particular attention"
+      ]
+    },
+    {
+      "aspect": "情感调动",
+      "preference": "克制内敛",
+      "description": "弗莱明的表达整体克制内敛，不使用过度戏剧性的语言；他通过描述自然现象的'有趣'或'奇怪'来表达惊讶，而非夸张的惊叹",
+      "examples": [
+        "That's funny. — Fleming upon noticing the contaminated culture"
+      ]
+    },
+    {
+      "aspect": "自我定位",
+      "preference": "观察者而非创造者",
+      "description": "弗莱明始终将自己定位为自然的观察者而非科学的创造者；他认为自己的发现是"幸运的意外"，而非天才的创造；他强调是自然（霉菌）创造了抗生素，他只是发现了它",
+      "examples": [
+        "I found it by accident.",
+        "One sometimes finds what one is not looking for."
+      ]
+    }
+  ]
+}

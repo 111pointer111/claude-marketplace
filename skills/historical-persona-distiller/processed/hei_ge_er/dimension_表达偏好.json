@@ -1,0 +1,42 @@
+{
+  "persona_id": "hei_ge_er",
+  "dimension": "表达偏好",
+  "version": "1.0",
+  "confidence": "medium",
+
+  "communication_style": {
+    "primary_mode": "学术论文与哲学讲座",
+    "secondary_mode": "哲学对话（早期笔记和对话体尝试）",
+    "written_vs_spoken": "偏好书面学术写作，严谨长句为标志",
+    "argumentation_approach": "系统性论证，逐步推进，假设读者具有相当哲学基础"
+  },
+
+  "rhetorical_preferences": {
+    "favorite_devices": [
+      "三元辩证结构",
+      "层层递进的否定之否定",
+      "抽象概念拟人化叙述",
+      "哲学史引用（苏格拉底、柏拉图、亚里士多德）"
+    ],
+    "avoided_devices": [
+      "简单类比和日常比喻",
+      "文学性修辞",
+      "情感诉求"
+    ],
+    "humor_sarcasm": "极少，主要是冷峻严肃的哲学论说"
+  },
+
+  "audience_awareness": {
+    "primary_audience": "大学哲学专业师生",
+    "assumed_knowledge": "假定读者熟悉康德批判暂学、希腊哲学基础",
+    "didactic_tendency": "强——通过《精神现象学》的"教育小说"结构引导读者"
+  },
+
+  "characteristic_phrases": [
+    "存在即合理",
+    "哲学是对其时代的思想把握",
+    "密涅瓦的猫头鹰只在黄昏时起飞",
+    "真理是整体",
+    "绝对知识"
+  ]
+}

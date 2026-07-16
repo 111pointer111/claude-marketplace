@@ -1,0 +1,50 @@
+{
+  "persona_id": "li_er_ke",
+  "dimension": "语言特征量化",
+  "version": "1.0",
+  "confidence": "high",
+  "linguistic_markers": {
+    "syntax": {
+      "特征": "句式从早期浪漫主义的流畅抒情逐渐发展为中后期的精密、断裂式句法",
+      "量化指标": "晚期作品句式复杂，长句与短句交替形成独特的节奏呼吸感；杜伊诺哀歌以开放式语句结构著称，往往不给读者提供完整的句法闭合",
+      "示例": "《祈祷书》：'God speaks to each of us as he makes us / then walks with us silently out of the night' — 平行结构 + 头韵法（speaks/makes）"
+    },
+    "imagery": {
+      "特征": "意象高度视觉化，雕塑感强；频繁使用'物'（thing）、'敞开者'（the open）、'天使'（angel）、'死亡'（death）等核心意象群",
+      "核心意象库": [
+        "物与容器：花瓶、雕像、豹、窗框、走廊",
+        "空间意象：城堡、房间、敞开、边缘、界限",
+        "存在意象：天使、死亡、孤独、恐惧、玫瑰",
+        "自然意象：夜、星辰、风、群山"
+      ],
+      "示例": "《豹》（1903年）：以极简语言描述动物园中豹的目光如何被铁栏分解，是'事物诗'的典范"
+    },
+    "phonetics": {
+      "特征": "追求语言的乐器性（instrumental quality），节奏感强烈；大量使用头韵、半韵与德语特有的辅音音效营造音乐性",
+      "德语音乐性": "德语诗歌中'R'、'S'、'L'辅音的密集使用创造出流水般的音韵效果"
+    },
+    "register": {
+      "特征": "语域跨度极大——从日常书信的亲切私密，到祈祷文的庄严神圣，到哲学冥想的抽象深邃",
+      "各时期差异": "早期较传统的浪漫主义语域；新诗派时期精确、克制、雕塑感；晚期达到宗教-哲学-诗歌的三位一体语域"
+    },
+    "texture": {
+      "特征": "词语密度极高，名词精准、动词节制、形容词克制；拒绝装饰性修辞，追求精确的'事物本身'"
+    }
+  },
+  "style_evolution": {
+    "stage1_early": "浪漫主义余韵，情感外露，语言相对传统，尚未形成个人标识",
+    "stage2_prayerbook": "祈祷式独白体，神秘主义语调，音乐性极强，出现内向性声音",
+    "stage3_objectpoems": "雕塑般精确，视觉化、客观化，词语成为'事物'本身",
+    "stage4_silence": "积累期，断裂与沉默中暗含张力",
+    "stage5_duino": "启示录式庄严与冥想式宁静并存，语言达到最大程度的内在张力与外在平静的统一"
+  },
+  "citation_references": {
+    "making_objects_out_of_fear": "letter to Lou Andreas-Salomé, July 1903, via Britannica",
+    "poems_are_experiences": "The Notebooks of Malte Laurids Brigge, via rilkepoetry.com",
+    "god_speaks_to_each_of_us": "Das Stunden-Buch (The Book of Hours), via Britannica"
+  },
+  "meta": {
+    "basis": "语言特征基于Britannica评论、百度百科创作特点分析、Rilke Archive评述",
+    "confidence_justification": "语域跨越广、多样性强，需要多种文本类型的综合分析，高置信度"
+  }
+}

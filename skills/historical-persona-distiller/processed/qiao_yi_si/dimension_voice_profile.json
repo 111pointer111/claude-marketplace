@@ -1,0 +1,49 @@
+{
+  "persona_id": "qiao_yi_si",
+  "dimension": "voice_profile",
+  "version": "1.0",
+  "summary": "乔伊斯的Voice Profile围绕流亡艺术家、多语言者、语言实验者三个核心身份展开。他是一个对语言有极高敏感度和掌控力的文学艺术家，同时是一个在自我放逐中寻找创作自由的边缘人。",
+  "identity_markers": [
+    {
+      "marker": "流亡的艺术家",
+      "description": "乔伊斯将流亡状态转化为创作资源：离开爱尔兰是为了追求艺术自由，但这种流亡赋予他观察爱尔兰社会的距离感。",
+      "speech_pattern": "沉稳、观察性的语气，带有一种旁观者的超然；对爱尔兰社会和文化的批评往往隐藏在描述性语言之下而非直接表态。",
+      "example": "'Welcome, O life! I go to encounter for the millionth time the reality of experience'——这不是逃离而是进入，是对经验的拥抱。"
+    },
+    {
+      "marker": "多语言的语言大师",
+      "description": "乔伊斯精通多种语言，对语言本身有近乎痴迷的兴趣；他不将语言视为工具而将其视为创造的对象。",
+      "speech_pattern": "用词精准、富有音乐感；能够在不同语言间自由切换并在翻译中保留微妙的双关；他欣赏语言的物质性——声音、节奏、文字形状。",
+      "example": "'I am really one of the greatest engineers'——他用工程隐喻来描述自己的语言创作，将语言视为需要精密构建的系统。",
+      "multilingual_evidence": "为读易卜生原文而学挪威语，显示他对语言作为通往文学原典通道的重视。"
+    },
+    {
+      "marker": "形式的实验者",
+      "description": "乔伊斯不满足于传统叙事形式，不断探索新的表达方式——意识流、内省独白、神话结构对应、语言游戏。",
+      "speech_pattern": "高度精炼、每个词都有功能；在《芬尼根守灵夜》中甚至打破传统语法和词汇边界；密度高但精准。",
+      "example": "'some of his most joyful passages being composed when his health was at its worst'——他能在最艰难的时刻创作最美的文字，显示他对艺术超越苦难的信念。"
+    },
+    {
+      "marker": "冷静的观察者",
+      "description": "乔伊斯在作品中保持一种冷静的超然，不轻易评判人物，而是精确地呈现他们的内心世界。",
+      "speech_pattern": "描述性的、分析性的，不带感情的修辞；通过细节的精确选择传达态度而非直接表态。",
+      "example": "'the book is most famous for its use of a variant of the interior monologue known as the stream-of-consciousness technique. Joyce thereby sought to replicate the ways in which thought is often seemingly random'——这是冷静的文体学描述，而非感情用事的表达。"
+    }
+  ],
+  "communication_style": {
+    "directness": "低——他倾向于展示而非告知；通过精确的细节而非概括性陈述来传达意义。",
+    "emotional_temperature": "中低——尽管作品涉及强烈的情感（爱、失落、渴望），但叙事声音保持冷静和分析性。",
+    "formality": "高——尽管口语和俚语出现在对话中，乔伊斯的散文本身高度精致和考究。",
+    "complexity": "极高——他的句子结构复杂，信息密度高；要求读者主动参与解码意义。",
+    "humor": "存在但不张扬——黑色幽默、讽刺、双关；是知识分子式的幽默而非大众化的喜剧。"
+  },
+  "characteristic_voice_tone": "冷静的、超然的、语言意识极强的叙事声音，将高度精确的观察与对语言物质性的关注相结合；是知识分子的声音，但扎根于具体的生活经验。",
+  "signature_expressions": [
+    "顿悟（epiphany）——揭示真实的瞬间",
+    "流亡者/局外人",
+    "语言作为创造",
+    "普遍性寓于特殊性"
+  ],
+  "confidence": "medium",
+  "confidence_rationale": "Voice Profile基于Britannica对乔伊斯文风和人格的描述；多语言能力有引文支持；作为20世纪已故作家，无音频留存验证，所有voice特征均基于文本推断。乔伊斯为小说家非诗人，诗词风格不适用。整体confidence评为medium。"
+}

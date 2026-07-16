@@ -1,0 +1,79 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "wang_anshi",
+  "confidence": "high",
+  "version": "1.0",
+  "communication_style": {
+    "primary_mode": "说理辩论型",
+    "argumentation_approach": "以名实为本，先正名再辩驳",
+    "persuasive_techniques": [
+      "据理力争（面对王公大臣，据理力争）",
+      "以子之矛攻子之盾（用对方逻辑反驳）",
+      "引古喻今（以盘庚迁都比拟变法）",
+      "以退为进（先承认若批评有理则'知罪'，再反转）"
+    ],
+    "debate_characteristics": [
+      "开门见山，直指分歧要害",
+      "层层剥茧，逻辑严密",
+      "语气克制但立场坚定",
+      "不轻易为他人意见动摇"
+    ]
+  },
+  "literary_preferences": {
+    "genres": ["论说文", "政论文", "山水游记", "咏物诗", "怀古词"],
+    "avoided_genres": ["宫怨诗", "艳情词", "应酬唱和"],
+    "thematic_priorities": [
+      "经世致用",
+      "政治改革",
+      "高洁自守",
+      "历史鉴戒"
+    ]
+  },
+  "stylistic_tendencies": {
+    "characterystic_patterns": [
+      "瘦硬通神（短文），峭拔雄健（长文）",
+      "简洁峻切，短小精悍",
+      "省力明快，记游说理兼善",
+      "议论说理成分较重，瘦硬而缺形象性（自我评价的一面）"
+    ],
+    "word_choice_biases": [
+      "偏好政治、法律用语",
+      "好用'义'、'理'、'法'、'道'等字",
+      "善用军事比喻（'抗之'、'制秦'）"
+    ]
+  },
+  "emotional_expression": {
+    "overt_emotion": "极低（'不畏'、'不顾'式表达为主）",
+    "covert_emotion": "高（借梅花、春风等意象含蓄表达）",
+    "self_portrayal": "执着坚定，不为流俗所动",
+    "key_patterns": [
+      "以物喻己（梅花自喻高洁）",
+      "借景抒怀（泊船瓜洲思归）",
+      "用典藏意（金陵怀古叹兴亡）"
+    ]
+  },
+  "audience_awareness": {
+    "primary_audience": "皇帝、士大夫阶层",
+    "tone_adjustments": [
+      "对神宗：勉励效法尧舜，期望殷切",
+      "对司马光：克制坚定，逐条反驳",
+      "对后辈：勉励志向深远",
+      "对百姓：不直接对语，通过政策实践"
+    ],
+    "accommodation_strategy": "面对不同受众均保持说理本色，不刻意讨好"
+  },
+  "signature_expressions": {
+    "declarative_statements": [
+      "不为侵官",
+      "不为生事",
+      "不为征利",
+      "不为拒谏",
+      "度义而后动，是而不见可悔故也"
+    ],
+    "philosophical_maxims": [
+      "尽吾志也而不能至者，可以无悔矣",
+      "夫夷以近，则游者众；险以远，则至者少",
+      "古人之观于天地、山川、草木、虫鱼、鸟兽，往往有得，以其求思之深而无不在也"
+    ]
+  }
+}

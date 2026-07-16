@@ -1,0 +1,42 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "pei_gen",
+  "persona_name": "弗朗西斯·培根",
+  "confidence": "high",
+  "expression_patterns": [
+    {
+      "pattern": "以小见大——从具体案例引出普遍结论",
+      "description": "培根喜欢用具体、形象的小事例说明大道理。例如用蜜蜂采蜜比喻归纳法，用蚂蚁蜘蛛比喻不同哲学方法",
+      "example": "蜜蜂采蜜的比喻：从花园采集材料，然后转化消化——这是真正的自然哲学家应有的方法",
+      "source_ref": "raw/pei_gen/传记.txt"
+    },
+    {
+      "pattern": "警句收尾——段落以格言式总结终结",
+      "description": "培根的段落结构通常是：先论述，以一个精炼的警句作为结论或转折。这种手法使文章读来如同睿智的人生忠告",
+      "example": "在《随笔》的每一篇中，培根都以某种生活智慧作为结尾",
+      "source_ref": "raw/pei_gen/引语.txt"
+    },
+    {
+      "pattern": "二元对立构建论证",
+      "description": "培根频繁使用二元对立结构来构建论点：古与今、理论与实践、思辨与行动、权威与经验",
+      "example": "亚里士多德派（蜘蛛）与经验主义者（蚂蚁）的对立；真理与效用的同一性",
+      "source_ref": "raw/pei_gen/传记.txt"
+    },
+    {
+      "pattern": "反讽性自我引用",
+      "description": "培根经常在随笔中以反讽方式引用自己的经历或观点，制造一种理性审视自身的人格形象",
+      "example": "关于他在法庭上接受贿赂的审判，他写道：'I acknowledge the sentence just'——这既是认罪，也是对自身处境的讽刺性超然",
+      "source_ref": "raw/pei_gen/引语.txt"
+    },
+    {
+      "pattern": "帝国隐喻——知识的领土扩张",
+      "description": "培根将知识追求比作帝国的扩张：知识的疆界需要不断扩展，征服自然如同征服领土",
+      "example": "Human knowledge and human power come to the same thing; 知识的 sovereign sovereignty",
+      "source_ref": "raw/pei_gen/引语.txt"
+    }
+  ],
+  "formality_scale": "随笔(低) ↔ 哲学论著(高)",
+  "emotional_tone": "理性克制、审慎、偶尔带有冷峻的讽刺",
+  "audience_awareness": "面向受过教育的精英受众，包括君主、议员、法律专业人士",
+  "summary": "培根的表达偏好体现了其理性和实用性。他的论证从具体到抽象，结论以警句收尾；大量使用二元对立构建论点；在讽刺中保持超然；以帝国隐喻描绘知识追求。"
+}

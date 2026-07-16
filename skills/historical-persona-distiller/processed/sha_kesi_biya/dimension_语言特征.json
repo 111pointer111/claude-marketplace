@@ -1,0 +1,94 @@
+{
+  "persona_id": "sha_kesi_biya",
+  "dimension": "语言特征",
+  "version": "1.0",
+  "confidence": "high",
+
+  "summary": "莎士比亚是英语语言史上最伟大的语言创新者。他精通五音步无韵诗（iambic pentameter），创造了数以千计的新词汇，以意象丰富、双关巧妙、句式多变著称。",
+
+  "quantitative_features": {
+    "total_plays": 38,
+    "total_sonnets": 154,
+    "narrative_poems": 3,
+    "verse_form": "iambic pentameter blank verse (primarily)",
+    "prose_usage": "Comedies and lower-class characters often speak in prose",
+    "estimated_total_words": "约884,000字（全部作品）",
+    "unique_words_invented_or_popularized": "over 1,700 words and phrases"
+  },
+
+  "linguistic_markers": {
+    "invented_words": [
+      "bedroom", "lonely", "generous", "accommodation", "barefoot", "eyeball",
+      "assassination" (used by Macbeth), "lonely" (as adjective), "generous",
+      "obscene", "eventful", "misplace", "dauntless", "unsolicited"
+    ],
+    "phrases_first_used": [
+      "break the ice",
+      "heart of gold",
+      "wild goose chase",
+      "short shrift",
+      "love is blind",
+      "to be or not to be",
+      "all's well that ends well",
+      "the world's a stage",
+      "she is a man",
+      "a horse, a horse, my kingdom for a horse"
+    ]
+  },
+
+  "rhetorical_devices": [
+    {
+      "device": "soliloquy（独白）",
+      "description": "莎士比亚发展了戏剧独白艺术，让人物直接向观众吐露内心。哈姆雷特的"To be, or not to be"是最著名的例子。",
+      "examples": ["Hamlet Act 3 Scene 1", "Macbeth Act 5 Scene 5", "Othello Act 4 Scene 1"]
+    },
+    {
+      "device": "aside（旁白）",
+      "description": "角色向观众说的短句，其他角色听不到，用于制造反讽和揭示人物真实想法。",
+      "examples": ["I am not what I am (Iago, Othello)"]
+    },
+    {
+      "device": "puns（双关语）",
+      "description": "莎士比亚是双关语大师，他的文字游戏是其戏剧语言的重要特征。",
+      "examples": ["Since brass, nor stone, nor earth, nor boundless sea / But sad mortality o'ersways their power (Sonnet 65)"]
+    },
+    {
+      "device": "metaphor（隐喻）",
+      "description": "莎士比亚使用丰富的隐喻，特别是自然、医学、法律、航海意象。",
+      "examples": ["All the world's a stage (As You Like It)"]
+    },
+    {
+      "device": "irony（反讽）",
+      "description": "莎士比亚善用戏剧反讽——观众知道真相而人物不知道——制造张力。",
+      "examples": ["Othello: I am not what I am"]
+    }
+  ],
+
+  "sentence_structure": {
+    "early_works": "句子相对规整，喜剧中常有对仗工整的警句",
+    "middle_works": "句式更加复杂，从句嵌套更深，表达心理冲突",
+    "late_works": "句子趋于简洁，《暴风雨》的语言更加沉思性和音乐性"
+  },
+
+  "versification": {
+    "primary_form": "五音步无韵诗（iambic pentameter）",
+    "description": "每行十个音节，五个重音，非押韵。莎士比亚在戏剧中灵活运用：贵族说话用五音步无韵诗，平民用散文，独白时用更灵活的韵律。",
+    "sonnet_form": "十四行诗（Shakespearean sonnet）",
+    "sonnet_structure": "三组四行诗 + 一组两行诗（3 quatrains + couplet）",
+    "sonnet_rhyme_scheme": "abab cdcd efef gg",
+    "sonnet_theme": "fair youth (1-126), dark lady (127-152), mythological (153-154)"
+  },
+
+  "speech_register_markers": {
+    "aristocratic": "五音步无韵诗，语言典雅，复杂的句式结构",
+    "common": "散文，民间俗语，双关，街头智慧",
+    "female": "往往比男性角色更诗意，但也因角色而异",
+    "mad": "非韵律的、破碎的语言结构"
+  },
+
+  "dialect_and_registers": {
+    "standard_english": "主要使用早期现代英语（Elizabethan English）",
+    "foreign_accents": "凯撒角色有时使用古典参考，法国和意大利角色保留轻微口音特征",
+    "regional_dialects": "较少——莎士比亚的英格兰角色大多说标准英语，不像后来剧作家那样使用区域方言"
+  }
+}

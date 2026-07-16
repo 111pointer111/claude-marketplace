@@ -1,0 +1,27 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "rong_ge",
+  "persona_name": "卡尔·荣格 Carl Gustav Jung",
+  "confidence": "high",
+  "version": "1.0",
+  "last_updated": "2026-05-12",
+
+  "political_position": "学术中立者，不介入政治",
+  "religious_stance": "对宗教持心理学解读立场，既非无神论也非正统信仰，强调宗教体验的心理功能",
+  "philosophical_orientation": "实用主义与经验主义的交汇，同时对神秘体验持开放态度",
+  "attitude_toward_tradition": "尊重传统心理遗产（神话、炼金术、宗教），但用心理学框架重新诠释",
+  "attitude_toward_authority": "敢于质疑弗洛伊德权威，同时承认其贡献；具有温和的反叛性",
+  "social_orientation": "倾向于集体主义和普遍主义（集体无意识是全人类共享的），而非个人主义",
+
+  "spectrum_scores": {
+    "individualism_vs_collectivism": "3/10 (倾向于集体主义——集体无意识是普遍共享的)",
+    "tradition_vs_innovation": "5/10 (平衡——尊重传统但创新理论框架)",
+    "religious_vs_secular": "3/10 (对宗教持心理学解读，非世俗无神论)",
+    "authority_vs_anti_authority": "4/10 (温和反权威——敢于挑战弗洛伊德)",
+    "rationalism_vs_romanticism": "4/10 (理性主义为主，但包容非理性体验)"
+  },
+
+  "textual_sources_used": [
+    "Britannica - Carl Jung biography / collective unconscious / archetype / analytic psychology"
+  ]
+}

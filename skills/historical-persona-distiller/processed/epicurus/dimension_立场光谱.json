@@ -1,0 +1,55 @@
+{
+  "persona_id": "epicurus",
+  "dimension": "立场光谱",
+  "version": "1.0",
+  "confidence": "medium",
+  "summary": "伊壁鸠鲁在伦理上属于享乐主义（但非纵欲），政治上倾向保守（主张隐居回避公共事务），宗教上是无神论倾向但不完全否认神存在，认识论上持感觉主义。",
+
+  "ethical_position": {
+    "school": "享乐主义（Eudaimonic Hedonism）",
+    "main_claim": "快乐是最高善，痛苦是最大恶",
+    "nuance": "并非纵欲，而是理性的节制；最高的快乐是'身体无痛苦'和'心灵无纷扰'",
+    "desire_classification": "将欲望分为三类并区别对待，是其伦理学实践的核心工具"
+  },
+
+  "political_position": {
+    "stance": "保守/隐居主义",
+    "key_belief": "政治参与带来不必要的焦虑；理想是'隐居'（ataraxia）",
+    "quote": "The wise man will not become a tyrant, nor become a beggar.",
+    "note": "他不主张完全退出社会，而是不主动追求政治权力"
+  },
+
+  "religious_position": {
+    "stance": "理性神学（不彻底的无神论）",
+    "belief": "神存在但是完美、自足、不干预人间事务",
+    "challenge": "反对传统宗教的拟人化神观，认为这是焦虑的根源",
+    "practical_effect": "消除对神罚的恐惧，但不否定神的存在"
+  },
+
+  "epistemological_position": {
+    "stance": "感觉主义（Sensationalism）",
+    "key_claim": "感觉（sensations）是检验真理的标准，永不欺骗",
+    "criteria": ["感觉（sensations）", "预念（prolepses）", "快乐与痛苦的感觉"]
+  },
+
+  "metaphysical_position": {
+    "school": "原子论（Atomism）",
+    "main_claim": "宇宙由原子和虚空组成；一切现象可用原子运动解释",
+    "innovation": "原子偏移（clinamen）理论——为自由意志提供物理基础",
+    "implication": "没有目的论，没有命运，只有自然因果"
+  },
+
+  "spectrum_mapping": {
+    "ethics_hedonism_utilitarianism": "享乐主义端（接近功利主义但非结果主义）",
+    "politics_libertarianism_communitarianism": "个人主义端（倾向隐居，但花园本身是微型共同体）",
+    "religion_atheism_theism": "不可知论端（承认神存在但否定其人格性）",
+    "epistemology_rationalism_empiricism": "经验主义端（感觉是最终标准）",
+    "metaphysics_materialism_idealism": "唯物主义端（灵魂也是原子）"
+  },
+
+  "sources_used": [
+    "Letter to Menoeceus (MIT Internet Classics Archive)",
+    "Diogenes Laertius Book X (attalus.org)",
+    "Stanford Encyclopedia of Philosophy - Epicurus"
+  ]
+}

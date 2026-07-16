@@ -1,0 +1,58 @@
+{
+  "dimension": "语言特征量化",
+  "persona_id": "kai_pu_le",
+  "version": "1.0",
+  "confidence": "high",
+  "summary": "开普勒的写作融合了拉丁学术语、几何学语言、神学语言和实用天文表语言。他的语言风格从早期的神秘主义几何语言发展到后期的经验数学语言，但始终贯穿宗教虔诚和对上帝数学计划性的强调。",
+
+  "linguistic_markers": {
+    "dominant_patterns": [
+      {
+        "pattern": "几何-数学隐喻",
+        "frequency": "high",
+        "examples": [
+          "elliptical orbits / 椭圆轨道",
+          "areas swept in equal times / 等时面积",
+          "proportion between periodic times and mean distances / 周期与距离的比例关系"
+        ],
+        "function": "用几何量描述天体运动，量化物理现象"
+      },
+      {
+        "pattern": "神学-宇宙论框架",
+        "frequency": "high",
+        "examples": [
+          "God's design for the universe / 上帝对宇宙的设计",
+          "celestial harmonies / 天体和谐",
+          "fulfilment of Christian duty / 履行基督徒的职责"
+        ],
+        "function": "为科学发现提供形而上学合法性"
+      },
+      {
+        "pattern": "军事-劳动隐喻",
+        "frequency": "medium",
+        "examples": [
+          "my war with Mars / 我与火星的战争",
+          "stormed the darkness of my mind / 攻破我心灵的黑暗",
+          "labour of seventeen years / 十七年的劳动"
+        ],
+        "function": "表达数学探索的艰辛与坚持"
+      }
+    ],
+    "sentence_structure": "以复杂长句为主，从句嵌套较多；学术论文式论证风格；常以数学或神学陈述开篇，随后逐步展开推导",
+    "vocabulary_specialization": "数学（geometry, ellipse, proportion）、天文学（orbit, planets, Sun, sphere）、神学（God, divine, harmony, Trinity）、物理学（force, magnetism, corporeal）",
+    "register_shift": {
+      "early_格拉茨时期": "神秘主义-几何语言，宗教热情高于经验证据",
+      "middle_布拉格时期": "经验数学语言，从几何假设转向物理机制",
+      "late_林茨/晚年": "实用天文表语言，兼具政治灵活性"
+    }
+  },
+
+  "key_terms": {
+    "celestial_harmonies": "天体和谐——开普勒宇宙论核心概念，宇宙的数学秩序反映上帝创造之美",
+    "ellipse": "椭圆——开普勒第一定律核心，突破2000年圆形轨道教条的关键数学概念",
+    "magnetic_force": "磁力——开普勒设想的太阳推动行星的神秘力量，虽然概念模糊，但其用物理机制而非几何假设解释宇宙的思路具有革命性",
+    "observational_error": "观测误差——开普勒首次明确提出这一概念，成为现代科学方法论基础"
+  },
+
+  "文体特征总结": "拉丁学术散文体；数学-神学二元语言；长句复合结构；典型早期现代科学家写作风格——在神学框架内追求数学真理"
+}

@@ -1,0 +1,85 @@
+{
+  "persona_id": "ya_dang_smi",
+  "dimension": "立场光谱",
+  "confidence": "high",
+  "version": "1.0",
+  "last_updated": "2026-05-13",
+  "political_economy_stance": {
+    "economic_system": "古典自由主义（自由市场资本主义理论的奠基人）",
+    "position_on_spectrum": "liberal /自由放任倾向（但非极端）",
+    "key_positions": [
+      {
+        "issue": "政府与市场关系",
+        "position": "市场在大多数情况下能自我调节；政府应仅限于：司法（保护产权和契约）、公共工程（道路、桥梁）、教育（尤其是工人教育）",
+        "citations": "World History Encyclopedia: 'Smith believed that the state should interfere in economic markets only when it is necessary to prevent a situation of unfair competition.' 且'he supported state intervention in important areas like the education of workers.'"
+      },
+      {
+        "issue": "国际贸易",
+        "position": "坚决反对重商主义的保护性关税，倡导自由贸易",
+        "citations": "World History Encyclopedia: 'Smith believed in free international trade and was against such common policies as protecting domestic industries using import duties in the face of cheap imports (mercantilism).'"
+      },
+      {
+        "issue": "劳动与工资",
+        "position": "支持市场竞争决定工资，但认为应有保障工人基本生存的'自然工资'水平",
+        "citations": "Wikipedia引用：哈奇森主张工人应获得足以维持生计的工资，斯密后来将其发展为更完整的自然工资理论"
+      },
+      {
+        "issue": "私有财产",
+        "position": "承认私有财产是社会秩序的基础，但揭示其阶级保护本质——'Civil government...is in reality instituted for the defence of the rich against the poor'",
+        "citations": "Britannica: The Wealth of Nations"
+      },
+      {
+        "issue": "垄断与竞争",
+        "position": "激烈反对垄断和特权利益集团，认为竞争才是真正服务于公共利益的力量",
+        "citations": "Britannica: 'competition' as the mechanism that turns 'a desire that comes with us from the womb' into a 'socially beneficial agency'"
+      }
+    ]
+  },
+  "moral_philosophy_stance": {
+    "framework": "情感主义伦理学（而非功利主义或义务论）",
+    "key_positions": [
+      {
+        "issue": "道德判断的基础",
+        "position": "相互同情（mutual sympathy）和想象性地置身他人处境的能力，而非理性的道德法则或上帝的意志",
+        "citations": "Wikipedia: 'He based his explanation...on mutual sympathy...the capacity to recognise feelings that are being experienced by another being.'"
+      },
+      {
+        "issue": "理性与情感的关系",
+        "position": "理性为情感服务（而非相反）；人通过'公正旁观者'的内化声音进行自我约束",
+        "citations": "World History Encyclopedia: 'This positive view of an individual's use of reason, restraint, and sympathy and empathy for others was encouraged by what Smith called an \"inner person\" or \"impartial spectator\"'"
+      },
+      {
+        "issue": "个人道德修养",
+        "position": "推崇斯多葛美德，尤其是'自我控制'（self-command）；完美美德的人是'在完美地控制自身自私情感的同时，对他人原始的和同情的情感具有最敏锐的感受力'",
+        "citations": "World History Encyclopedia引用Blackburn"
+      }
+    ]
+  },
+  "historical_philosophy_stance": {
+    "framework": "哲学历史主义（历史阶段论）",
+    "key_positions": [
+      {
+        "issue": "社会发展规律",
+        "position": "人类社会经历四个必然阶段（猎民→游牧→农业封建→商业），商业阶段是发展的顶峰",
+        "citations": "Britannica: 'four main stages of organization through which society is impelled...the original rude state of hunters; a second stage of nomadic agriculture; a third stage of feudal...and a fourth and final stage of commercial interdependence.'"
+      },
+      {
+        "issue": "历史进步观",
+        "position": "历史是向前进步的，商业文明是人类迄今为止最繁荣、最自由的状态",
+        "citations": "World History Encyclopedia: 'Smith is realistic, unsentimental, and optimistic in his determination to improve the human condition. He believes in progress.'"
+      },
+      {
+        "issue": "与马克思历史观的区别",
+        "position": "历史动力是'人性'（对自我改善的追求）而非阶级斗争；理性可以引导历史而非仅受物质基础决定",
+        "citations": "Britannica对比Marx与Smith的历史动力论"
+      }
+    ]
+  },
+  "social_stance": {
+    "on_inequality": "承认不平等存在，但认为商业社会中'让富人变富通常有助于所有人'——这反映了他的时代局限性",
+    "on_religion": "以理性自然神论为基础，反对无神论也反对狂热宗教信仰；将财富追求去道德化",
+    "on_education": "高度重视教育，认为国家有责任对工人进行教育投资",
+    "on_reform": "渐进主义而非激进革命——主张通过制度改革而非暴力革命来实现社会进步"
+  },
+  "summary": "斯密的立场在政治经济学上属古典自由主义（反对重商主义、支持自由市场、承认私有财产的阶级性）；在道德哲学上属情感主义伦理学（以同情和公正旁观者为基础）；在历史观上是进步主义的哲学历史主义者（历史四阶段论）。他最核心的政治经济学立场是：自由竞争的市场机制在个体追求私利的同时，通过'看不见的手'实现了社会公共福利的最大化。"
+}

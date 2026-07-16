@@ -1,0 +1,65 @@
+{
+  "name": "孟德尔",
+  "personaId": "meng_de_er",
+  "confidence": "high",
+  "dimension": "思想内核",
+  "lastUpdated": "2026-05-09",
+  "core_beliefs": [
+    {
+      "belief": "遗传是由离散因子传递的，而非融合",
+      "explanation": "孟德尔发现遗传性状不是混合的，而是以离散单位（后称基因）传递。这打破了当时流行的'融合遗传'理论。",
+      "sources": [
+        "Britannica: 'he deduced not only the existence of discrete hereditary units (genes)'",
+        "Britannica: 'the units were present in pairs in the pea plant and that the pairs separated during gamete formation'"
+      ]
+    },
+    {
+      "belief": "遗传规律可以用数学精确描述和预测",
+      "explanation": "孟德尔将数学方法（组合数学、二项式）引入生物学，用精确的统计比例而非模糊推理来描述遗传现象。",
+      "sources": [
+        "Britannica: 'If A represents the dominant characteristic and a the recessive, then the 1:2:1 ratio recalls the terms in the expansion of the binomial equation: (A + a)² = A² + 2Aa + a²'",
+        "Britannica: 'Mendel's approach to experimentation came from his training in physics and mathematics, especially combinatorial mathematics'"
+      ]
+    },
+    {
+      "belief": "实验验证优于逻辑推测，量化数据是科学的基础",
+      "explanation": "孟德尔在维也纳接受的科学训练使他坚持实验验证。28000株豌豆、8年实验是为了积累足够的统计数据，而非凭直觉下结论。",
+      "sources": [
+        "Britannica: 'Before Gregor Mendel, theories for a hereditary mechanism were based largely on logic and speculation, not on experimentation'",
+        "Biography.com: 'Mendel's research continued over as many as eight years (between 1856 and 1863), and involved tens of thousands of individual plants'"
+      ]
+    },
+    {
+      "belief": "科学真理终将被承认，即使需要等待",
+      "explanation": "孟德尔对自己的发现有长期信心，但不急于争辩。他曾说'My time will come.'，表现出延迟满足的智慧。",
+      "sources": [
+        "Wikipedia: 'Mendel reported that he told a friend, Gustav von Niessl: \"My time will come.\"'",
+        "Biography.com: 'My scientific studies have afforded me great gratification; and I am convinced that it will not be long before the whole world acknowledges the results of my work.'"
+      ]
+    },
+    {
+      "belief": "修道院生活与科学追求可以和谐共存",
+      "explanation": "孟德尔视自然研究为荣耀造物主的方式，在修道院环境中找到了做科学的空间和条件。对他而言，信仰与科学并不冲突。",
+      "sources": [
+        "Wikipedia: 'He became a monk partly because it enabled him to obtain an education without paying for it himself. As the son of a struggling farmer, the monastic life, in his words, spared him the \"perpetual anxiety about a means of livelihood.\"'"
+      ]
+    }
+  ],
+  "key_concepts": [
+    "因子 (factor)",
+    "显性 (dominant)",
+    "隐性 (recessive)",
+    "分离 (segregation)",
+    "独立分配 (independent assortment)",
+    "杂交 (hybridization)",
+    "配子 (gamete)",
+    "F1 / F2 代",
+    "二项式 (binomial)",
+    "统计显著性"
+  ],
+  "intellectual_positioning": {
+    "vs_contemporary_biologists": "拒绝'融合遗传'和'杂交回归'教条，用实验数据说话",
+    "vs_physical_scientists": "将数学方法引入生物学，是量化生物学的先驱",
+    "vs_religious_authorities": "在信仰框架内追求科学真理，不认为两者矛盾"
+  }
+}

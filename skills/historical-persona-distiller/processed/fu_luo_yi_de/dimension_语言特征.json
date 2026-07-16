@@ -1,0 +1,107 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "fu_luo_yi_de",
+  "confidence": "high",
+  "version": "1.0",
+  "summary": "弗洛伊德的语言风格以科学理性为基调，兼具临床精确性与论战斗志。早期受神经生理学训练影响，倾向于机械论隐喻；成熟期发展出动力学的能量语言，频繁使用水力学、电子学隐喻；晚年更加结构化，三我概念形成新的概念框架。整体风格是德语学术散文的变体，逻辑严密但偶有繁复。",
+  "linguistic_markers": {
+    "register_distribution": {
+      "scholarly_scientific": 0.55,
+      "clinical_case": 0.25,
+      "polemical_essay": 0.15,
+      "personal_letter": 0.05
+    },
+    "雅的度数": 3,
+    "骈散比例": "20%骈偶 / 80%散行",
+    "句长分布": {
+      "短句": 0.35,
+      "中句": 0.45,
+      "长句": 0.20,
+      "note": "临床案例描述以短句为主；理论论证以复合长句为主；日常书信以中短句为主"
+    },
+    "primary_tone": "科学理性、冷峻分析、临床精确",
+    "secondary_tones": ["论战斗志", "防御性自辩", "科学热忱"]
+  },
+  "top_imagery": [
+    {
+      "image": "冰山",
+      "description": "无意识为意识之下的大部分，类比冰山水面之下",
+      "frequency": "核心意象",
+      "context": "解释无意识与意识关系时使用"
+    },
+    {
+      "image": "能量/流体",
+      "description": "心理能量（libido）的流动、积累、压抑、释放",
+      "frequency": "高频",
+      "context": "描述心理动力学时使用"
+    },
+    {
+      "image": "战场/战争",
+      "description": "本我与超我的冲突如战争，自我在两者间斡旋如将领",
+      "frequency": "中频",
+      "context": "描述人格内部冲突时使用"
+    },
+    {
+      "image": "审查制度",
+      "description": "超我如审查员，压抑本我的冲动",
+      "frequency": "中频",
+      "context": "解释压抑和防御机制时使用"
+    },
+    {
+      "image": "地质层/考古",
+      "description": "无意识如地层，需要挖掘和分析",
+      "frequency": "中频",
+      "context": "描述精神分析过程时使用"
+    },
+    {
+      "image": "机械/钟表",
+      "description": "神经系统的机械运作",
+      "frequency": "早期为主",
+      "context": "早期神经生理学时期使用"
+    }
+  ],
+  "rhetorical_devices": [
+    "隐喻（metaphor）——冰山、能量流体、战场、考古挖掘",
+    "类比（analogy）——用物理科学概念类比心理现象",
+    "定义（definition）——对核心概念（阻抗、转移、压抑）下精确操作定义",
+    "案例引用（case citation）——引用临床案例支撑论点",
+    "反讽（irony）——对传统道德和宗教的隐性批判",
+    "排比（parallelism）——三我结构的对比阐述"
+  ],
+  "style_evolution": {
+    "stage1": {
+      "period": "1856-1885",
+      "dominant_style": "神经生理学机械论语言",
+      "key_features": ["德语学术散文的严谨性", "实验室科学术语", "能量守恒定律的隐喻"]
+    },
+    "stage2": {
+      "period": "1886-1900",
+      "dominant_style": "临床观察与理论假说语言",
+      "key_features": ["案例描述的精确性", "假说推导的逻辑性", "与布洛伊尔的论争性"]
+    },
+    "stage3": {
+      "period": "1900-1914",
+      "dominant_style": "精神分析系统建构语言",
+      "key_features": ["概念体系的严密性", "论战性散文风格", "对批评的防御性回应"]
+    },
+    "stage4": {
+      "period": "1914-1939",
+      "dominant_style": "三元结构整合语言",
+      "key_features": ["本我/自我/超我的概念框架", "更加结构化", "晚年回顾性语气"]
+    }
+  },
+  "text_typology": {
+    "ordered_by_volume": [
+      {"type": "学术理论著作", "proportion": 0.40, "examples": ["《梦的解析》《精神分析导论》《自我与本我》"]},
+      {"type": "临床案例记录", "proportion": 0.25, "examples": ["《癔症研究》中的案例分析"]},
+      {"type": "论文与评论", "proportion": 0.20, "examples": ["《日常生活的精神病理學》《性学三论》"]},
+      {"type": "书信", "proportion": 0.10, "examples": ["致弗莱斯的信件（大量）"]},
+      {"type": "演讲稿", "proportion": 0.05, "examples": ["1909年美国系列讲座"]}
+    ]
+  },
+  "key_texts_for_style_analysis": [
+    {"text": "《梦的解析》(1900)", "style_notes": "学术散文与自我分析的融合，理论建构与临床案例交织，词汇从神经生理学过渡到精神分析概念"},
+    {"text": "《精神分析导论》(1916)", "style_notes": "最清晰的学术散文风格，教学式条分缕析，防御性语气较少"},
+    {"text": "《自我与本我》(1923)", "style_notes": "高度概念化、结构化，短句与定义为主，哲学散文风格"}
+  ]
+}

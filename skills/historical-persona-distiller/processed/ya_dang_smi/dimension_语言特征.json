@@ -1,0 +1,52 @@
+{
+  "persona_id": "ya_dang_smi",
+  "dimension": "语言特征量化",
+  "confidence": "medium-high",
+  "version": "1.0",
+  "last_updated": "2026-05-13",
+  "quantitative_features": {
+    "sentence_structure": {
+      "average_length": "中等偏长（斯密常以复杂从句结构表达因果关系和条件限定）",
+      "characteristics": [
+        "大量使用从句和条件句（'if... then...', 'so far as...', 'in proportion as...'）",
+        "频繁使用'although', 'however', 'nevertheless'等转折和让步结构",
+        "长段落写作，一个段落往往包含多个论点层次"
+      ],
+      "example": "'Civil government, so far as it is instituted for the security of property, is in reality instituted for the defence of the rich against the poor, or of those who have some property against those who have none at all.'"
+    },
+    "vocabulary_register": {
+      "moral_philosophy": "使用日常词汇与哲学概念混合，如'sympathy', 'passion', 'self-interest', 'sentiment'",
+      "economics": "大量使用政治经济学专门术语：'productive labour', 'unproductive labour', 'natural price', 'market price', 'rent', 'profit', 'wage'",
+      "historical": "使用历史阶段描述词汇：'rude state', 'nomadic', 'feudal', 'commercial interdependence'",
+      "tone_markers": "大量使用'perhaps', 'probably', 'in some degree', 'to a certain extent'等限定词，体现谨慎的学术态度"
+    },
+    "rhetorical_devices": {
+      "metaphors": [
+        "'看不见的手'（Invisible Hand）——将抽象市场机制拟人化",
+        "'公正旁观者'（Impartial Spectator）——将道德判断内在化为一个心理角色",
+        "日常职业隐喻：'butcher'（屠夫）、'brewer'（酿酒师）、'baker'（面包师）来说明交换关系"
+      ],
+      "examples_from_source": [
+        "'a desire that comes with us from the womb, and never leaves us until we go into the grave'（一种从摇篮开始伴随我们、直到进入坟墓才离开的渴望）——描述人类永不满足的进取心",
+        "'In the University of Oxford, the greater part of the public professors have, for these many years, given up altogether even the pretence of teaching.'——讽刺性陈述"
+      ]
+    },
+    "argumentation_style": {
+      "approach": "归纳与演绎并用；以大量具体历史案例和日常经验为依据，归纳出一般性结论",
+      "structure": "先举例说明，再引出核心论点，最后附加条件和例外",
+      "characteristic_qualification": "几乎不在未加限定的情况下作绝对性陈述——这使他的论点具有高度说服力和学术可辩护性"
+    },
+    "textual_examples": [
+      {
+        "source": "《道德情感论》（1759）",
+        "style_note": "文笔更流畅、更富哲学思辨性，强调道德情感的微妙之处，较多使用日常生活的道德场景"
+      },
+      {
+        "source": "《国富论》（1776）",
+        "style_note": "文风更冷峻、经验性和分析性，大量使用具体数据、历史案例和制度分析；经济术语密度显著提高"
+      }
+    ]
+  },
+  "linguistic_summary": "斯密的语言风格可概括为：学术严谨但不晦涩，善于用日常比喻说明抽象原理；句式复杂但逻辑清晰；用大量限定词和条件句表现出高度的知识谦逊；修辞上偏好具体化（屠夫、酿酒师、面包师）与抽象化（看不见的手）交替使用，形成论证的独特力量。",
+  "style_evolution": "从早期道德哲学写作（《道德情感论》）到成熟期政治经济学写作（《国富论》）：文风从温情的道德说理转向冷峻的经验分析；词汇从日常哲学语言过渡到政治经济学专门术语；论证方式从道德哲学的微妙情感分析转向更直接的历史归纳和制度比较。"
+}

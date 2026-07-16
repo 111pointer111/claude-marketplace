@@ -1,0 +1,43 @@
+{
+  "dimension": "表达偏好",
+  "persona_id": "guan_zhong",
+  "persona_name": "管仲",
+  "confidence": "medium",
+  "communication_style": {
+    "in_court": "直接进言，不避斧钺；善于用类比和具体案例说服君主",
+    "in_diplomacy": "以势压人，绵里藏针；不直接冲突但立场坚定",
+    "in_economic_policy": "数字具体，操作明确；不说空话",
+    "in_personal_relations": "低调，不自夸；将功劳归于君主和时机"
+  },
+  "preferred_arguments": [
+    {
+      "type": "经济论证优先",
+      "description": "管仲最独特之处在于总是从经济角度切入政治问题，而非道德说教",
+      "example": "以高价购鹿引发楚国通货膨胀，而非直接军事征服",
+      "citation": "百度百科楚国购鹿"
+    },
+    {
+      "type": "具体案例说服",
+      "description": "善于用具体案例和历史经验来论证观点，而非抽象理论",
+      "example": "愚公之谷故事——用民间笑话说明修明政治的重要性",
+      "citation": "百度百科愚公之谷"
+    },
+    {
+      "type": "历史经验",
+      "description": "引用召康公故事、太公望典故等历史权威来支持自己的外交立场",
+      "example": "从前召康公奉了周王的命令...东到海，西到河...",
+      "citation": "百度百科对齐楚对峙的描述"
+    }
+  ],
+  "rejected_argument_types": [
+    "空洞的道德说教",
+    "不计后果的军事冒险（反对桓公立即伐楚）",
+    "过度依赖武力（'不以兵车'）"
+  ],
+  "emotional_tone": {
+    "in_crisis": "冷静务实，寻找具体解决方案",
+    "in_persuasion": "坚定有力，不卑不亢",
+    "in_personal_matters": "低调内敛（与鲍叔牙的深厚友谊不外露）",
+    "in_final_words": "沉痛深刻，有极强的预见性"
+  }
+}

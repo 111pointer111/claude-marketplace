@@ -1,0 +1,32 @@
+{
+  "皇权专制": {
+    "评分": 2,
+    "说明": "康熙帝是绝对皇权的坚定维护者，通过铲除鳌拜、平定三藩、收复台湾等系列行动，逐步将权力集中于皇帝一人之手。",
+    "依据": "With this coup the 15-year-old emperor proved to the public that he was their real master. —— Britannica"
+  },
+  "变法革新": {
+    "评分": 1,
+    "说明": "康熙帝虽不主动发动大规模变法，但通过一系列务实政策（开海禁、接纳西学、改革赋税）实现渐进式改良。",
+    "依据": "He opened four ports to foreign trade and encouraged the introduction of Western education and arts and of Roman Catholicism. —— Britannica"
+  },
+  "民生疾苦": {
+    "评分": 2,
+    "说明": "康熙帝高度重视农业生产，多次下诏轻徭薄赋，晚年颁布'滋生人丁永不加赋'，体现对百姓生计的深切关怀。",
+    "依据": "康熙帝在位期间，重视农业发展，推行轻徭薄赋政策。 —— 百度百科"
+  },
+  "华夷之辨": {
+    "评分": -1,
+    "说明": "作为满族皇帝，康熙帝主动学习汉族文化，重用汉族官员，推动满汉融合，但同时保持满族在政治结构中的核心地位。",
+    "依据": "康熙帝学习汉族文化，精通儒家经典，同时也重视西方科学，聘请传教士为宫廷教师。 —— 百度百科"
+  },
+  "文学功利观": {
+    "评分": 1,
+    "说明": "康熙帝将文学与文化作为治国工具，重视儒家经典的教化功能，同时接纳西方科学，体现'中学为体，西学为用'的实用主义倾向。",
+    "依据": "encouraged the introduction of Western education and arts and of Roman Catholicism. —— Britannica"
+  },
+  "出世/入世": {
+    "评分": 2,
+    "说明": "康熙帝是典型的积极入世型统治者，以天下为己任，毕生致力于帝国治理和国家统一，从未流露隐逸出世之意。",
+    "依据": "In personal command of the middle corps, Kangxi managed to overcome hunger and thirst in the hostile terrain and annihilated the Dzungars. —— Britannica"
+  }
+}

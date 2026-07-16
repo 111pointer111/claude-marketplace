@@ -1,0 +1,86 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "wang_anshi",
+  "confidence": "high",
+  "version": "1.0",
+  "political_position": {
+    "spectrum_range": "进步改良派（改革家）",
+    "economic_stance": "国家干预主义（以官僚资本刺激商品生产流通）",
+    "reform_or_conservative": "坚决主张变法改革，反对因循守旧"
+  },
+  "ideological_alignment": {
+    "primary_tradition": "儒家经世致用派",
+    "secondary_influence": "法家务实精神",
+    "rejected_positions": [
+      "士大夫苟且偷安",
+      "泥古不化",
+      "不问国事、同俗媚众"
+    ]
+  },
+  "policy_positions": [
+    {
+      "issue": "变法",
+      "position": "坚决支持",
+      "intensity": "extremely_high",
+      "rationale": "积贫积弱非变法不可，先王之政法度可变"
+    },
+    {
+      "issue": "理财",
+      "position": "国家应主动理财",
+      "intensity": "high",
+      "rationale": "不加赋而国用足，通过流通增值"
+    },
+    {
+      "issue": "科举改革",
+      "position": "废除诗赋，恢复经义",
+      "intensity": "high",
+      "rationale": "经术文章经济合一之学方为真才"
+    },
+    {
+      "issue": "人才观",
+      "position": "真才当以道德经济为己任",
+      "intensity": "high",
+      "rationale": "以真才立国，不以门客多为能"
+    },
+    {
+      "issue": "皇权",
+      "position": "辅弼君主，共成有为",
+      "intensity": "medium_high",
+      "rationale": "受命人主，议法度以授有司"
+    }
+  ],
+  "factional_position": {
+    "group": "变法派（新党）",
+    "opponents": "保守派（旧党），以司马光为首",
+    "conflict_essence": "要不要改革法度的根本分歧"
+  },
+  "philosophical_stance": {
+    "cosmology": "天人关系：天变不足畏，人事为本",
+    "ethics": "道德与经济并重，不可偏废",
+    "epistemology": "求思之深，无不在也（强调深入探究）",
+    "political_philosophy": "法度可变，古可法今可变，唯有百姓乐生之心不可失"
+  },
+  "controversial_positions": [
+    {
+      "issue": "变法手段",
+      "description": "引用奸邪、躁迫强戾",
+      "critics": "朱熹等理学家"
+    },
+    {
+      "issue": "理财方式",
+      "description": "青苗法等新法被指与民争利",
+      "critics": "司马光、苏辙等"
+    },
+    {
+      "issue": "用人",
+      "description": "急功近利，未能审慎识人",
+      "critics": "历代史家"
+    }
+  ],
+  "historical_verdict": {
+    "pro_reform_view": "进步力量的失败，为近代变革先声（漆侠、列宁等）",
+    "anti_reform_view": "乱天下之法（杨慎、王夫之等）",
+    "moderate_view": "法本身不错，但执行有弊，推行失当（吕思勉、黄仁宇等）",
+    "modern_synthesis": "具有近代变革特点的改革家，其经济思想与现代国家理财原理相通（黄仁宇）"
+  }
+}

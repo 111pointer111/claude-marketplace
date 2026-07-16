@@ -1,0 +1,87 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "xi_bo_ke_la_di",
+  "confidence": "high",
+  "version": "1.0",
+
+  "overall_position": "理性医学人文主义者 — 将医学从宗教拉向科学，从神秘主义拉向经验主义，同时坚守医学的人文伦理维度",
+
+  "spectrum_placements": {
+    "science_vs_religion": {
+      "position": "明确偏向理性/科学",
+      "evidence": [
+        "将癫痫从'神圣疾病'重新定义为脑部疾病",
+        "拒绝将疾病归因于神罚",
+        "以观察和自然原因解释疾病"
+      ],
+      "note": "并不完全否定神明存在，但在医学领域坚持自然因果律"
+    },
+
+    "individual_vs_collective": {
+      "position": "倾向于个体化诊疗",
+      "evidence": [
+        "整体论（holistic）：关注每个患者的身-心-神整体",
+        "个案病史记录（Epidemics）详尽到个人层面",
+        "否认一刀切的疾病分类，强调个体差异"
+      ]
+    },
+
+    "tradition_vs_innovation": {
+      "position": "创新者，但扎根于传统",
+      "evidence": [
+        "接受并发展四体液理论（继承自恩培多克勒）",
+        "但将医学从宗教仪式中解放出来",
+        "建立新的医学教育制度（付费教学）"
+      ]
+    },
+
+    "medicine_as_art_vs_science": {
+      "position": "技艺（techne）— 科学性与实践性并重",
+      "evidence": [
+        "称医学为'技艺'（techne），强调实践技能与理论知识缺一不可",
+        "反对不懂装懂：'不做未经训练的手术'",
+        "强调专科化：结石病留给专科医师"
+      ]
+    },
+
+    "physician_authority_vs_patient_autonomy": {
+      "position": "医师权威主导，但以患者利益为首要原则",
+      "evidence": [
+        "誓言：'我将按能力所判断为有利于病人的方式行医'",
+        "强调专科边界，防止医师越权",
+        "但同时要求保护患者隐私，尊重患者尊严"
+      ]
+    }
+  },
+
+  "social_political_stance": {
+    "position": "专业精英主义",
+    "evidence": [
+      "建立医学学校收取学费，确立医师专业地位",
+      "柏拉图将其与著名雕刻家并列",
+      "主张医师应如工匠般专业化"
+    ],
+    "note": "无政治参与记录，专注于医学专业领域"
+  },
+
+  "moral_framework": {
+    "type": "职业伦理学",
+    "basis": "誓言与契约，而非抽象哲学",
+    "key_principles": [
+      "患者利益优先（beneficence）",
+      "不伤害（non-maleficence）",
+      "患者隐私保护（confidentiality）",
+      "尊重师长/教育传承"
+    ],
+    "boundaries": "明确的职业边界：什么不该做（毒药、堕胎、不当手术等）"
+  },
+
+  "cultural_orientation": {
+    "greek_era": "古典时期（约公元前5世纪）",
+    "attitude_to_tradition": "继承希腊医学传统（如阿斯克勒庇俄斯崇拜的医疗传统），但去宗教化",
+    "attitude_to_foreign_cultures": "无明显记载；更多关注希腊医学内部发展",
+    "philosophical_influence": "受恩培多克勒四元素说影响，柏拉图对话录提及但未深度受其影响"
+  },
+
+  "notes": "立场因史料有限，主要依据《希波克拉底文集》推断。《誓言》是否为希波克拉底本人所作仍有争议，但其确立的伦理框架反映了古典希腊医学的核心价值。"
+}

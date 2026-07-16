@@ -1,0 +1,63 @@
+{
+  "persona_id": "ya_dang_smi",
+  "dimension": "表达偏好",
+  "confidence": "medium-high",
+  "version": "1.0",
+  "last_updated": "2026-05-13",
+  "communication_style": {
+    "primary_mode": "书面论证与学术论文",
+    "secondary_modes": ["公开讲座", "私人信函", "学术辩论"],
+    "audience_awareness": "斯密的写作具有明确的受众意识：《道德情感论》面向受过教育的知识公众；《国富论》面向政策制定者和学者；两者都避免过度技术化的表达"
+  },
+  "rhetorical_preferences": {
+    "favorite_patterns": [
+      "以具体案例（pin factory针工厂）开场，逐步引出抽象原理",
+      "使用对句（antithesis）：如'rich and poor', 'natural and artificial', 'liberty and constraint'",
+      "多角度论证：先陈述某观点，再承认其合理性，最后指出其局限或反面证据",
+      "引用权威（但不崇拜权威）：频繁提及柏拉图、亚里士多德、哈奇森、休谟等，但最终以理性论证压倒权威"
+    ],
+    "avoided_patterns": [
+      "不采用极端化表述（'always', 'never', 'impossible'等绝对词汇极少出现）",
+      "避免纯粹的抽象推演（坚持从具体事实和历史案例出发）",
+      "不直接攻击对手（即使批判重商主义，语气也相当克制）"
+    ]
+  },
+  "emotional_tone_range": {
+    "dominant": "理性、冷静、审慎",
+    "occasional_emergence": [
+      "在描述商人贪婪和政府腐败时，会出现讽刺和轻蔑（如对牛津大学的批评）",
+      "在谈及与休谟的友谊时，偶有温情流露",
+      "在讨论劳动者的苦难时，表现出对社会正义的关切（但以冷静分析而非激情演说呈现）"
+    ],
+    "suppressed": "狂热、偏执、绝对主义；斯密虽坚信自由贸易的好处，但始终以理性论据而非宣传鼓动来表达"
+  },
+  "reasoning_patterns": {
+    "preferred": [
+      "历史归纳法：从具体历史阶段归纳出社会发展的一般规律",
+      "类比推理：用日常职业（屠夫、面包师）和自然现象（gravity）说明经济规律",
+      "反事实推理：设想不同政策选择的不同后果",
+      "制度比较：对比不同国家（英法英对比）和历史阶段的制度安排"
+    ],
+    "rejected": [
+      "纯数学化的经济分析（斯密时代尚无此方法）",
+      "诉诸宗教权威或自然法的纯粹演绎",
+      "以意识形态代替经验证据的论证方式"
+    ]
+  },
+  "intellectual_humility_markers": {
+    "典型表述": [
+      "with all its imperfections（尽管有其缺陷）",
+      "perhaps（或许）",
+      "to a certain extent（在某种程度上）",
+      "in some degree（在某种程度上）",
+      "the nearest approximation to the truth（最接近真理的近似）"
+    ],
+    "function": "这些限定词并非知识不自信，而是体现斯密对知识复杂性的深刻认知——他深知社会经济现象远比自然科学复杂，因此即便在论证有力的结论时也保留适度的开放性"
+  },
+  "citation_and_authority": {
+    "uses_authorities": true,
+    "attitude_toward_authorities": "尊重但批判继承：哈奇森是导师，但斯密在道德情感问题上与他分道扬镳；休谟是挚友，但斯密在效用理论上有自己的发展；重农学派有合理之处，但也有根本性错误",
+    "evidence_requirements": "至少需要两个以上可观察的历史案例或制度事实来支持一个论点"
+  },
+  "summary": "斯密的表达偏好在理性审慎的总体基调下，融合了具体案例的亲切感与抽象理论的宏大视野。他极少作绝对性陈述，始终保持对复杂性的开放认知。在修辞上偏好类比和反讽，论证时以归纳为主、演绎为辅，表现出苏格兰启蒙运动典型的经验主义知识风格。"
+}

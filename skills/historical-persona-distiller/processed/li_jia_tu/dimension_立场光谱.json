@@ -1,0 +1,70 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "li_jia_tu",
+  "人物": "大卫·李嘉图",
+  "confidence": "high",
+  "version": "1.0",
+  "ideological_position": {
+    "economic_stance": "古典自由主义经济学",
+    "political_orientation": "自由主义改革派（辉格党）",
+    "core_ideology": "自由放任（laissez-faire）、功利主义、自由贸易"
+  },
+  "stance_on_key_issues": {
+    "free_trade": {
+      "position": "强烈支持",
+      "intensity": "非常强烈",
+      "evidence": "反对《谷物法》，提出比较优势理论，坚信自由贸易使所有参与国均受益"
+    },
+    "role_of_government": {
+      "position": "最小化干预",
+      "intensity": "强烈",
+      "evidence": "认为政府干预（如《谷物法》）会损害经济效率，最好的政府是管得最少的政府"
+    },
+    "taxation": {
+      "position": "反对重税",
+      "intensity": "强烈",
+      "evidence": "'最好的财政计划就是节流，最好的赋税就是税额最少的赋税'"
+    },
+    "landowners_vs_industrialists": {
+      "position": "站在工业资产阶级一边",
+      "intensity": "明确",
+      "evidence": "认为《谷物法》有利于地主而不利于工业资产阶级，租金上涨以利润为代价"
+    },
+    "technological_change": {
+      "position": "关注短期负面影响",
+      "intensity": "moderate",
+      "evidence": "1821年写道：'机器替代人工劳动对工人阶级利益常常是有害的'"
+    },
+    "slavery": {
+      "position": "坚决反对",
+      "intensity": "非常强烈",
+      "evidence": "1823年在东印度公司会议上说：'奴隶制是这个国家性格的污点'"
+    },
+    "parliamentary_reform": {
+      "position": "支持",
+      "intensity": "支持",
+      "evidence": "1819年当选议员后支持议会改革，在1821年威斯敏斯特改革晚宴上发言支持"
+    },
+    "criminal_law_reform": {
+      "position": "支持废除死刑",
+      "intensity": "支持",
+      "evidence": "1821年投票支持废除伪造罪死刑"
+    }
+  },
+  "influences": {
+    "philosophical": ["边沁功利主义"],
+    "economic": ["亚当·斯密国富论"],
+    "intellectual_circle": ["詹姆斯·穆勒", "杰里米·边沁", "托马斯·马尔萨斯"]
+  },
+  "contradictions": [
+    {
+      "issue": "李嘉图等价",
+      "description": "虽然这一理论以他命名，但他本人似乎并不相信这个理论"
+    },
+    {
+      "issue": "理论与实践的距离",
+      "description": "他的朋友John Louis Mallett评价他：'他的头脑有一种奇特的品质，他对经验和实践的完全漠视，使我怀疑他在政治经济学上的观点'"
+    }
+  ],
+  "summary": "李嘉图是古典自由主义经济学的代表，坚定支持自由贸易、最小化政府干预。他站在工业资产阶级立场反对地主阶级的《谷物法》，支持议会改革和废除死刑。他是功利主义的信徒，主张理性分析和量化论证。他的理论被后来各种倾向的经济学家（包括马克思）广泛引用，显示了其思想的持久影响。"
+}

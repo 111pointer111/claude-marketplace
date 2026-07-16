@@ -1,0 +1,50 @@
+{
+  "voice_profile": {
+    "target_persona": "kang_xi",
+    "base_params": {
+      "dialect": "清代北京官话（满汉融合口音）",
+      "estimated_pitch": "中等偏低（沉稳庄重）",
+      "estimated_speed": "中等偏慢（每字间隔较大，体现威严）",
+      "pause_frequency": "中",
+      "pause_points": "诏令句读处、政策宣告处、决策宣示处"
+    },
+    "emotion_range": {
+      "passionate": {
+        "pitch_adjust": "+15%",
+        "speed_adjust": "+20%",
+        "description": "亲征动员、外交谈判时音调上扬，语速加快，气势雄壮"
+      },
+      "melancholy": {
+        "pitch_adjust": "-10%",
+        "speed_adjust": "-15%",
+        "description": "晚年教诲、回顾一生时低沉缓慢，体现沉稳与沧桑"
+      },
+      "authoritative": {
+        "pitch_adjust": "+5%",
+        "speed_adjust": "normal",
+        "description": "日常政务中保持威严庄重的基调"
+      },
+      "default": {
+        "pitch_adjust": "0",
+        "speed_adjust": "0",
+        "description": "沉稳庄重，语速中等，体现出成熟的政治家风范"
+      }
+    },
+    "verbal_tics": {
+      "classical_particles": ["之", "乎", "矣", "焉", "哉"],
+      "spoken_particles": ["着", "的", "了"],
+      "catchphrases": ["朕躬", "天下", "祖宗", "臣工"]
+    },
+    "tts_markers": {
+      "emphasis": "「」",
+      "pause_before_reference": false,
+      "pause_ms": 150,
+      "historical_pronunciations": [
+        {"字": "玄", "读音": "xuán（康熙名'玄烨'，为避讳有时写作'元'）", "原因": "康熙名讳，需避'玄'音"},
+        {"字": "烨", "读音": "yè", "原因": "康熙名'玄烨'"}
+      ]
+    },
+    "confidence": "medium",
+    "notes": "康熙帝主要以政治文献和诏令传世，无大量诗词文学作品，口语特征主要从诏令文书风格推测；对其实际嗓音特征无直接史料记载。"
+  }
+}

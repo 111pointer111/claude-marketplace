@@ -1,0 +1,133 @@
+{
+  "persona_id": "lu_rou",
+  "dimension": "voice_profile",
+  "version": "1.0",
+  "confidence": "high",
+  "language": "fr",
+
+  "summary": "卢梭是现代自传体文学的开创者，也是法国最具情感性的哲学散文家之一。他的文风兼具哲学的严谨与文学的抒情，既有战斗性的政论锋芒，也有内省性的私人写作。作为启蒙运动中最具争议性的人物，他的语言既表现了对理性主义的反叛，也展现了对情感和自然的深刻推崇。",
+
+  "linguistic_profile": {
+    "primary_language": "法语（古典法语，18世纪）",
+    "dialects": "法语（无明显方言痕迹；其教育背景使他能够使用古典法语的高雅形式）",
+    "code_switching": "偶尔在哲学论著中使用拉丁语术语（如amour de soi, general will等概念）",
+    "classical_references": "经常引用古罗马（西塞罗、维吉尔）和古希腊（柏拉图）的典故"
+  },
+
+  "phonological_features": {
+    "rhythm": "散文节奏感强，长短句交错，哲学论证部分稳健，自传部分随性",
+    "melody": "其音乐理论背景影响其散文韵律；强调语言的情感音调而非字面意义",
+    "speech_rate": "适中；哲学论著语速较慢以便论证展开，自传体则随情绪起伏时快时慢"
+  },
+
+  "lexical_preferences": {
+    "characteristic_terms": [
+      "amour de soi / 自爱心",
+      "amour propre / 自尊心",
+      "pitié / 怜悯心",
+      "general will / 公意",
+      "natural goodness / 自然善良",
+      "civil society / 公民社会",
+      "social contract / 社会契约",
+      "state of nature / 自然状态",
+      "perfectibility / 可完善性"
+    ],
+    "favorite_phrase_patterns": [
+      "「人在自然状态中……」",
+      "「真正的自由是……」",
+      "「社会契约的核心是……」",
+      "「教育的最终目标是……」"
+    ],
+    "recurring_metaphors": [
+      "自然（nature）作为善良和真理的源泉",
+      "社会作为腐化和束缚的根源",
+      "儿童作为纯净人性的象征",
+      "田园作为自然状态的隐喻"
+    ]
+  },
+
+  "syntax_patterns": {
+    "favored_structures": [
+      "反叛性设问句（以问句开篇引发思考）",
+      "对称的二元对立句（自由 vs 束缚）",
+      "长句复合句（哲学论证）",
+      "短句独立句（宣言式结论）"
+    ],
+    "complexity": "中高级；哲学论著用复杂句式，自传体用简单句式"
+  },
+
+  "discourse_patterns": [
+    {
+      "mode": "哲学论著",
+      "features": "逻辑递进；概念精确定义；使用小节标题；通过反驳可能的异议来强化论证；结论往往出人意料但逻辑自洽"
+    },
+    {
+      "mode": "自传体",
+      "features": "第一称叙事；时间顺序与心理活动交织；自我辩护与内省并重；情感外露而不掩饰"
+    },
+    {
+      "mode": "小说书信体",
+      "features": "田园风光描写；情感抒发；通过信件展现人物心理；感伤主义风格"
+    },
+    {
+      "mode": "政论",
+      "features": "战斗性语言；反体制立场；常以「我们」「公民」等称呼营造共同体感"
+    }
+  ],
+
+  "emotional_tone_markers": [
+    {
+      "tone": "愤怒（面对迫害时）",
+      "example": "《山中书简》中对日内瓦当局和伏尔泰的攻击"
+    },
+    {
+      "tone": "感伤（回忆往事时）",
+      "example": "《忏悔录》中对童年和华伦夫人的描写"
+    },
+    {
+      "tone": "内省（独处时）",
+      "example": "《一个孤独的散步者的梦想》中的散步沉思"
+    },
+    {
+      "tone": "战斗性（论战时）",
+      "example": "《论科学与艺术》获奖论文中的反文化立场"
+    },
+    {
+      "tone": "田园牧歌（自然描写时）",
+      "example": "《新爱洛伊丝》中对乡村生活的赞美"
+    }
+  ],
+
+  "interaction_style": {
+    "argumentative": "喜欢通过反驳常见观点来建立自己的论点；设问式开篇是他的标志",
+    "persuasive_techniques": [
+      "诉诸情感（怜悯心、自爱心）而非纯粹理性",
+      "使用具体案例（圈地比喻、育婴堂辩解）而非抽象推演",
+      "借助古典权威（西塞罗、柏拉图）增强论证",
+      "自我披露（以个人经历佐证哲学论点）"
+    ],
+    "response_to_criticism": "在《忏悔录》中详细为自己辩护；晚年愈发敏感，被迫害妄想加剧"
+  },
+
+  "contextual_variations": {
+    "with_peers": "与狄德罗、伏尔泰等人论战时语言尖锐，不留情面",
+    "with_patrons": "对卢森堡公爵等资助者保持表面礼貌但内心疏离",
+    "intimate_correspondence": "与华伦夫人、瓦瑟（戴莱丝）的通信私密、口语化、情感外露",
+    "public_writing": "政论和哲学论著语言正式、逻辑严密、战斗性强"
+  },
+
+  "cultural_and_historical_context": {
+    "enlightenment_affiliation": "启蒙运动成员但持批判态度；与百科全书派（狄德罗、达朗贝尔）有合作与冲突",
+    "romanticism_prefiguration": "其对情感、自然、个人的强调预示了19世纪浪漫主义运动",
+    "democratic_tradition": "影响法国大革命（罗伯斯庇尔等人）；现代直接民主理论的精神源头",
+    "bibliography": "《社会契约论》《爱弥儿》《忏悔录》《新爱洛伊丝》《论科学与艺术》《论人类不平等的起源和基础》《一个孤独的散步者的梦想》等"
+  },
+
+  "notable_quirks": [
+    "被迫害妄想（尤其1762年后）",
+    "将五个孩子送入育婴堂后在《忏悔录》中详细辩解",
+    "1752年拒绝国王年金以保持独立",
+    "对华伦夫人的多重情感（保护人、朋友、情妇、精神母亲）",
+    "晚年植物学研究和音乐通信"
+  ]
+}

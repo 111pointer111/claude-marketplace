@@ -1,0 +1,79 @@
+{
+  "dimension": "语言特征量化",
+  "persona_id": "wang_anshi",
+  "confidence": "high",
+  "version": "1.0",
+  "quantitative_traits": {
+    "vocabulary_register": "雅俗兼融，以雅为主",
+    "avg_sentence_length_poetry": "5-7字（近体诗）",
+    "avg_sentence_length_prose": "15-30字（古文）",
+    "parallel_frequency": "极高（对仗、用典频繁）",
+    "reference_density": "每篇3-8处用典",
+    "emotion_temperature": "理性克制，冷峻内敛",
+    "concrete_vs_abstract": "善以具体意象承载抽象哲理",
+    "rhetorical_preference": ["用典精当", "对偶工整", "托古喻今", "以物言志"]
+  },
+  "poetry_specific": {
+    "rhyme_system": "近体诗为主（绝句、律诗），韵律严谨",
+    "imagery_categories": ["自然山水", "政治抱负", "历史古迹", "梅花/春风等高洁意象"],
+    "common_techniques": [
+      "炼字（一字千金，春风又绿江南岸）",
+      "托物言志",
+      "借古讽今",
+      "以动写静",
+      "白描"
+    ],
+    "linguistic_markers": {
+      "high_frequency_words": ["春风", "江南", "明月", "青山", "寒", "绿"],
+      "signature_expressions": ["春风又绿江南岸", "不畏浮云遮望眼", "凌寒独自开", "总把新桃换旧符"]
+    },
+    "wang_jigong_style_elements": [
+      "清空一体，意趣高远",
+      "含蓄深沉，不直说破",
+      "下字工，用事切，对偶精",
+      "丰神远韵"
+    ]
+  },
+  "prose_specific": {
+    "sentence_patterns": [
+      "短句峻切（《读孟尝君传》全文不足百字）",
+      "长句铺陈，层层转进（《上仁宗皇帝言事书》）",
+      "夹叙夹议（《游褒禅山记》）"
+    ],
+    "structure_preference": [
+      "先叙后议（伤仲永）",
+      "起承转合（读孟尝君传）",
+      "借事说理（游褒禅山记）"
+    ],
+    "classical_references": [
+      "《孟子》",
+      "《尚书》",
+      "《史记》",
+      "先秦诸子",
+      "商鞅、申不害等法家人物"
+    ],
+    "key_phrases": [
+      "受命于人主",
+      "议法度而修之于朝廷",
+      "以授之于有司",
+      "举先王之政",
+      "兴利除弊",
+      "辟邪说，难壬人"
+    ]
+  },
+  "ci_poetry_specific": {
+    "style": "瘦削雅素，一洗五代旧习",
+    "themes": ["怀古伤今", "登临感怀", "政治抱负", "佛理自遣"],
+    "representative_techniques": [
+      "用典化句（化用杜牧诗意）",
+      "景象阔大（千里澄江，翠峰如簇）",
+      "沉郁顿挫"
+    ],
+    "comparison": "与范仲淹《渔家傲》共开豪放词先声"
+  },
+  "linguistic_evolution": {
+    "early_period": "立论高深奇丽，旁征博引，少年意气",
+    "middle_period": "峭拔雄健，说理透彻，政治色彩浓厚",
+    "late_period": "丰神远韵，含蓄深沉，清空省净"
+  }
+}

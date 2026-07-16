@@ -1,0 +1,43 @@
+{
+  "persona_id": "hei_ge_er",
+  "dimension": "立场光谱",
+  "version": "1.0",
+  "confidence": "medium",
+
+  "political_spectrum": {
+    "self_placement": "渐进改良派（非革命派）",
+    "historical_reception": "19世纪德国保守主义，但被左右两派争夺",
+    "position_explanation": "黑格尔支持进步但非革命的政治，倾向于通过现存国家机构的渐进改革实现自由"
+  },
+
+  "ideological_affiliations": {
+    "primary": "德国唯心主义（German Idealism）",
+    "secondary": "绝对唯心论（Absolute Idealism）",
+    "related_traditions": ["康德批判哲学", "新柏拉图主义", "斯宾诺莎泛神论"]
+  },
+
+  "controversial_positions": [
+    {
+      "issue": "国家观",
+      "hegel_position": "国家是客观精神的最高表现，个人只有在国家中才能实现自由",
+      "criticism": "卡尔·波普尔批评这一观点预演了20世纪极权主义"
+    },
+    {
+      "issue": "历史观",
+      "hegel_position": "历史有内在目的论方向，自由的实现是人类历史的终极目的",
+      "criticism": "被指责为历史决定论，忽视人类历史的偶然性"
+    },
+    {
+      "issue": "宗教观",
+      "hegel_position": "哲学是理性的神学，哲学的唯一对象是上帝",
+      "criticism": "被指责为将基督教理性化，削弱宗教信仰的超越性"
+    }
+  ],
+
+  "positioning_on_key_issues": {
+    "freedom": "自由不是抽象的，而是在社会和历史中具体实现的",
+    "rationality": "理性是历史发展的核心动力，但不是工具理性，而是辩证理性",
+    "individuality": "个体通过社会和历史才能实现自我，但最终与绝对精神合一",
+    "progress": "历史是进步的，但通过矛盾和斗争实现，而非平滑发展"
+  }
+}

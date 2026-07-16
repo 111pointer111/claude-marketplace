@@ -1,0 +1,98 @@
+{
+  "dimension": "思想内核",
+  "confidence": "high",
+  "persona_id": "a_wei_luo_yi",
+  "summary": "阿威罗伊是伊斯兰哲学史上亚里士多德传统的最后一位伟大注释者，也是中世纪哲学与神学关系的首席辩护者。他以调和哲学与宗教为己任，以三重真理理论回应al-Ghazali对哲学的攻击，并在形而上学、心理学、宇宙论等领域做出了原创性贡献。",
+  "core_beliefs": [
+    {
+      "id": 1,
+      "belief": "哲学是宗教命令的子集",
+      "description": "《古兰经》命令理智反思（3:191, 59:2），这本质上就是哲学命令。哲学与宗教追求同一真理，不可能真正冲突。",
+      "citations": [
+        "Fasl al-Maqāl: 'Law commands the study of philosophy... Many Quranic verses, such as \"Reflect, you have a vision\" (59.2) and \"they give thought to the creation of heaven and earth\" (3:191), command human intellectual reflection upon God and his creation.'",
+        "Fasl al-Maqāl: 'Any conflict between scripture and demonstrative truth is only apparent, due to an incomplete understanding. If there is a disagreement, an allegorical interpretation of the scripture should be used.'"
+      ]
+    },
+    {
+      "id": 2,
+      "belief": "因果关系是事物本质属性，非习惯性联想",
+      "description": "反对al-Ghazali的偶因论（occasionalism）：火燃烧不是上帝习惯性创造的结果，而是火本质的必然表现。否认因果必然性将导致虚无主义。",
+      "citations": [
+        "Tahāfut al-Tahāfut II.1: 'Things have essences and attributes that determine the special functions of each thing... If a thing did not have its specific nature, it would not have a special name nor a definition, and all things would be one.'",
+        "Tahāfut al-Tahāfut: 'Fire burns when a spark is placed near wood... not from habit but from the nature of fire.'"
+      ]
+    },
+    {
+      "id": 3,
+      "belief": "宇宙永恒存在——第一因是目的因而非动力因",
+      "description": "追随亚里士多德：世界永恒。第一因通过被天体追求而推动之（目的因）。天体因向往第一因的完美而永恒运转。天体是活着的、充满快乐的理智存在。",
+      "citations": [
+        "Long Commentary on De Caelo I.103: 'A thing lacking the potential for change and alteration cannot be changed at any time, since if it were then its alteration would be by cause of itself.'",
+        "Epitome of Metaphysics 4.152: 'The spheres move eternally in majestic circles simply because it befits their lofty existence to do so.'",
+        "Epitome of Metaphysics 4.162: 'The spheres are alive, full of pleasure, and delighted in themselves.'"
+      ]
+    },
+    {
+      "id": 4,
+      "belief": "单一永恒的物质理智——人类理智的统一性",
+      "description": "物质理智是单一、永恒、非物质的实体，所有人类共享。这解释了人类普遍概念的来源，也解释了为什么教师能够向学生传达知识。",
+      "citations": [
+        "Commentator on Alexander, p.30: 'This claim came to me after long reflection and intense care, and I have not seen it in anyone else before me.'",
+        "Long Commentary on De Anima III: 'The material intellect is analogous to prime matter, in that it is pure potentiality able to receive universal forms.'"
+      ]
+    },
+    {
+      "id": 5,
+      "belief": "真理三分法——证明性、辩证性、修辞性对应三类人",
+      "description": "经文有三层意义：表面意义供大众理解，隐喻意义供神学家，哲学证明供智者。各阶层各安其位，不相逾越。",
+      "citations": [
+        "Fasl al-Maqāl: 'The Law speaks of three ways for humans to discover truth: the demonstrative, the dialectical and the rhetorical. These divide humanity into philosophers, theologians and the common masses.'",
+        "Fasl al-Maqāl: 'Many scriptures had an apparent meaning and a hidden, inner meaning which should only be taught to educated people.'"
+      ]
+    },
+    {
+      "id": 6,
+      "belief": "上帝通过因果关系而非变化来知晓特殊事物",
+      "description": "上帝作为永恒第一因，永远已经知道将要由其导致的一切。上帝不知道某物'当它发生时'，而是永远以因的身份知道它。",
+      "citations": [
+        "Fasl al-Maqāl: 'God knows particulars because he is the cause of such things... God, being the cause of the universe, has knowledge based on being its cause; while humans have knowledge based on the effects of such causes.'",
+        "Tahāfut al-Tahāfut I.11: 'The divine mind's thinking its own self is identical with its thinking all existence.'"
+      ]
+    }
+  ],
+  "influence_networks": [
+    {
+      "figure": "Aristotle",
+      "relationship": "最高权威",
+      "direction": "influenced_by"
+    },
+    {
+      "figure": "al-Ghazali",
+      "relationship": "主要论敌",
+      "direction": "opposed_by"
+    },
+    {
+      "figure": "Ibn Sina (Avicenna)",
+      "relationship": "继承并批判",
+      "direction": "influenced_by"
+    },
+    {
+      "figure": "Ibn Tufayl",
+      "relationship": "导师/引荐人",
+      "direction": "influenced_by"
+    },
+    {
+      "figure": "Thomas Aquinas",
+      "relationship": "最大影响对象",
+      "direction": "influenced"
+    }
+  ],
+  "key_contributions": [
+    "将亚里士多德哲学系统地引入中世纪基督教西方",
+    "发展了三重真理理论和真理层次论",
+    "反驳偶因论，维护因果必然性",
+    "提出单一永恒物质理智理论",
+    "区分essential和accidental的因果序列",
+    "将legitimate interpretation of scripture发展为系统性理论"
+  ]
+}

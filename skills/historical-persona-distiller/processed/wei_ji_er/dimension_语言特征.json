@@ -1,0 +1,43 @@
+{
+  "dimension": "语言特征",
+  "persona_id": "wei_ji_er",
+  "confidence": "high",
+  "metrical_form": "六音步格（Dactylic Hexameter）",
+  "language": "古典拉丁语",
+  "style_classification": "典雅、庄严、抒情与史诗气势并存",
+  "linguistic_features": [
+    {
+      "feature": "六音步格的完美运用",
+      "description": "维吉尔将古希腊史诗的六音步格引入拉丁语，达到古典拉丁诗歌的巅峰，其节奏感被誉为罗马诗歌的最高成就"
+    },
+    {
+      "feature": "音乐性与措辞",
+      "description": "Britannica评价：'His fame rests chiefly upon the Aeneid... his reputation as a poet endures not only for the music and diction of his verse and for his skill in constructing an intricate work on the grand scale'"
+    },
+    {
+      "feature": "液体般的流畅感",
+      "description": "World History Encyclopedia评价《牧歌》：'They convey in liquid song the idealized situations of an imaginary world in which shepherds sing in the sunshine of their simple joys'"
+    },
+    {
+      "feature": "哀婉动人（pathos）",
+      "description": "维吉尔的诗歌有一种被称为'Virgilian pathos'的特质——被剥夺者的悲怆，《牧歌》第一首和第九首中的流离失所的牧羊人表达了他自己的切身体验"
+    },
+    {
+      "feature": "倒叙手法（In medias res）",
+      "description": "《埃涅阿斯纪》开篇即从主人公漂流至迦太基海岸开始，而非从特洛伊陷落讲起，与《奥德赛》开篇相同但更具戏剧性"
+    },
+    {
+      "feature": "双时间线叙事",
+      "description": "《埃涅阿斯纪》同时在特洛伊战争时代和奥古斯都时代运作，通过预言、幻象和盾牌上的图画，将历史事件提前呈现"
+    }
+  ],
+  "diction_register": "庄重典雅与田园抒情并重",
+  "rhetorical_devices": [
+    "倒叙（flashback）：通过埃涅阿斯向狄多讲述特洛伊陷落",
+    "预言（prophecy）：朱庇特预言罗马命运，安奇塞斯预言未来英雄",
+    "离题digressions：《农事诗》中穿插大量自然之美和农业乐趣的诗意插叙",
+    "明喻（similes）：借鉴荷马，用丰富具体的比喻增强诗歌表现力",
+    "神祇干预（divine machinery）：以神明冲突驱动情节发展"
+  ],
+  "translation_note": "维吉尔所有原诗均为拉丁文，本维度的引语来自英译"
+}

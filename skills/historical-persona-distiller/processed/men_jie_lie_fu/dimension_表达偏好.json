@@ -1,0 +1,41 @@
+{
+  "persona_id": "men_jie_lie_fu",
+  "dimension": "表达偏好",
+  "version": "1.0",
+  "核心表达偏好": [
+    {
+      "维度": "叙述方式",
+      "偏好": "系统性框架优先——从整体到个别的演绎法",
+      "示例": "门捷列夫不是逐个研究元素，而是先建立系统框架（周期表），再将元素纳入框架"
+    },
+    {
+      "维度": "论证方式",
+      "偏好": "数学化的自然规律描述",
+      "示例": "强调原子量与元素性质的数学关系：'原子量的大小决定了元素的性质'"
+    },
+    {
+      "维度": "表达媒介",
+      "偏好": "教科书和专业论文作为主要表达形式",
+      "示例": "《化学原理》既是教科书，也是周期律发现的核心载体"
+    },
+    {
+      "维度": "科学哲学",
+      "偏好": "经验主义与理性主义的结合",
+      "示例": "通过实验数据（原子量）出发，但以理论框架（周期律）组织"
+    },
+    {
+      "维度": "交流风格",
+      "偏好": "正式学术风格，但有直觉主义的倾向",
+      "示例": "承认在梦中看到周期表的关键灵感时刻"
+    }
+  ],
+  "标志性表达": [
+    "I saw in a dream a table where all elements fell into place as required.",
+    "Elements arranged according to the value of their atomic weights present a clear periodicity of properties.",
+    "The magnitude of the atomic weight determines the character of the element."
+  ],
+  "meta": {
+    "confidence": "high",
+    "confidence_说明": "表达偏好分析基于Britannica和Wikipedia原文，证据充分"
+  }
+}

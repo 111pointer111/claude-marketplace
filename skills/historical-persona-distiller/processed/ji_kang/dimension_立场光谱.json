@@ -1,0 +1,28 @@
+{
+  "dimension": "立场光谱",
+  "persona_id": "ji_kang",
+  "confidence": "high",
+  "political_stance": {
+    "affiliation": "曹魏宗室（妻为曹操曾孙女），但不参与政治",
+    "attitude_to_sima_clan": "坚决不合作，公开拒绝司马昭征辟，被杀亦不屈",
+    "attitude_to_caowei": "因婚姻关系隶属曹魏，但对政治淡漠",
+    "manifesto": "《与山巨源绝交书》明确表达'七不堪二不可'，拒绝出仕"
+  },
+  "ideological_stance": {
+    "confucianism": "批判：反对名教礼法，'非汤武而薄周孔'",
+    "daoism": "皈依：老庄为师，'托好老庄，贱物贵身'",
+    "legalism": "疏离",
+    "school": "玄学（以道家为体，以名教为靶）"
+  },
+  "social_stance": {
+    "attitude_to_power": "藐视权贵，锻铁于柳树下，不理钟会",
+    "attitude_to_commoners": "亲近隐者、志同道合者（竹林七贤）",
+    "attitude_to_tradition": "反传统，非圣无法",
+    "class_stance": "士族出身，但行为近于隐士"
+  },
+  "artistic_stance": {
+    "literary": "清峻派代表，四言诗成就最高",
+    "musical": "音乐大家，精通琴艺，'丝竹特妙'",
+    "aesthetic": "追求自然之美，反对人工矫饰"
+  }
+}
