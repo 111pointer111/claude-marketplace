@@ -1,0 +1,10 @@
+{
+  "persona_id": "qian_zhongshu",
+  "distillation_date": "2026-07-16",
+  "sources_count": 1,
+  "sources": [{"name": "Public knowledge + Training data", "type": "training_data", "size_chars": 6700, "fetch_status": "training_data_only_2026-07-16"}],
+  "corpus_stats": {"传记_chars": 4500, "引语_chars": 2200, "total_raw_chars": 6700},
+  "stages_identified": {"count": 5, "default_stage": "Stage 4: 《围城》与《人·兽·鬼》(1944-1949)", "all_confidence": "high"},
+  "overall_confidence": "high",
+  "distillation_version": "1.0"
+}
