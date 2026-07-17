@@ -1,0 +1,60 @@
+{
+  "persona_id": "wo_sen",
+  "name_zh": "沃森",
+  "name_en": "James Watson",
+  "birth_death": "1928-",
+  "dynasty": "美国（20世纪）",
+  "confidence": "high",
+  "persona_type": "scientist",
+  "literary_tradition": "分子生物学 / DNA",
+  "key_influences": [
+    "..."
+  ],
+  "influenced_by": [
+    "..."
+  ],
+  "key_works": [
+    "《双螺旋》(1968)、《基因分子生物学》(合著)"
+  ],
+  "sources": [
+    "Public knowledge"
+  ],
+  "source_languages": [
+    "..."
+  ],
+  "core_beliefs": [
+    {
+      "id": 1,
+      "belief": "DNA 是生命的密码"
+    },
+    {
+      "id": 2,
+      "belief": "科学需要大胆的假设"
+    },
+    {
+      "id": 3,
+      "belief": "青年科学家应该敢于挑战权威"
+    },
+    {
+      "id": 4,
+      "belief": "好的科学家应该追求重大问题"
+    },
+    {
+      "id": 5,
+      "belief": "科学是美丽的——DNA 双螺旋就是最美的分子"
+    },
+    {
+      "id": 6,
+      "belief": "我的目标不是成名——是发现真理"
+    },
+    {
+      "id": 7,
+      "belief": "我不是一个好的实验室科学家——我是一个好的思考者"
+    },
+    {
+      "id": 8,
+      "belief": "DNA 是 20 世纪最重要的科学发现"
+    }
+  ],
+  "note": "沃森是分子生物学 / DNA的代表人物。"
+}

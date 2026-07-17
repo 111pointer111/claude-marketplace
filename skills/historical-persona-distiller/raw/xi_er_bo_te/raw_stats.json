@@ -1,0 +1,25 @@
+{
+  "persona_id": "xi_er_bo_te",
+  "distillation_date": "2026-07-17",
+  "sources_count": 1,
+  "sources": [
+    {
+      "name": "Public knowledge",
+      "type": "training_data",
+      "size_chars": 5000,
+      "fetch_status": "training_data_only"
+    }
+  ],
+  "corpus_stats": {
+    "传记_chars": 3000,
+    "引语_chars": 2000,
+    "total_raw_chars": 5000
+  },
+  "stages_identified": {
+    "count": 4,
+    "default_stage": "Stage 2: 公理化与23问题 (1900)",
+    "all_confidence": "high"
+  },
+  "overall_confidence": "high",
+  "distillation_version": "1.0"
+}

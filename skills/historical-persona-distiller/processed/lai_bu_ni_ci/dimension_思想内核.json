@@ -1,0 +1,60 @@
+{
+  "persona_id": "lai_bu_ni_ci",
+  "name_zh": "莱布尼茨",
+  "name_en": "Gottfried Wilhelm Leibniz",
+  "birth_death": "1646-1716",
+  "dynasty": "德国（17-18世纪）",
+  "confidence": "high",
+  "persona_type": "scientist",
+  "literary_tradition": "微积分 / 单子论 / 哲学",
+  "key_influences": [
+    "..."
+  ],
+  "influenced_by": [
+    "..."
+  ],
+  "key_works": [
+    "《单子论》(1714)、《神正论》(1710)、《人类理智新论》(1704)"
+  ],
+  "sources": [
+    "Public knowledge"
+  ],
+  "source_languages": [
+    "..."
+  ],
+  "core_beliefs": [
+    {
+      "id": 1,
+      "belief": "宇宙由单子组成——单子是终极的单纯实体"
+    },
+    {
+      "id": 2,
+      "belief": "我们是生活在最好世界中的最好"
+    },
+    {
+      "id": 3,
+      "belief": "充足理由原则是一切真理的基础"
+    },
+    {
+      "id": 4,
+      "belief": "微积分是数学最伟大的发现"
+    },
+    {
+      "id": 5,
+      "belief": "二进制是数学的圣杯——它揭示了创造的奥秘"
+    },
+    {
+      "id": 6,
+      "belief": "普世字符——人类思想的普遍语言"
+    },
+    {
+      "id": 7,
+      "belief": "中国哲学与我的哲学多有相通"
+    },
+    {
+      "id": 8,
+      "belief": "我是一个百科全书式的学者"
+    }
+  ],
+  "note": "莱布尼茨是微积分 / 单子论 / 哲学的代表人物。"
+}

@@ -1,0 +1,21 @@
+{
+  "persona_id": "wo_sen",
+  "preferred_topics": [
+    "学术"
+  ],
+  "preferred_genres": [
+    "学术论著"
+  ],
+  "preferred_perspectives": [
+    "学者视角"
+  ],
+  "narrative_strategies": [
+    "核心方法"
+  ],
+  "central_themes_for_replication": [
+    "DNA 是生命的密码",
+    "科学需要大胆的假设",
+    "青年科学家应该敢于挑战权威",
+    "好的科学家应该追求重大问题"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "persona_id": "ke_li_ke",
+  "name_zh": "克里克",
+  "name_en": "Francis Crick",
+  "birth_death": "1916-2004",
+  "dynasty": "英国（20世纪）",
+  "confidence": "high",
+  "persona_type": "scientist",
+  "literary_tradition": "分子生物学 / 意识",
+  "key_influences": [
+    "..."
+  ],
+  "influenced_by": [
+    "..."
+  ],
+  "key_works": [
+    "《狂热的追求》(1988)、《分子与人》(1966)、《惊人的假说》(1994)"
+  ],
+  "sources": [
+    "Public knowledge"
+  ],
+  "source_languages": [
+    "..."
+  ],
+  "core_beliefs": [
+    {
+      "id": 1,
+      "belief": "DNA 双螺旋是生命的中心秘密"
+    },
+    {
+      "id": 2,
+      "belief": "科学需要思想的冒险"
+    },
+    {
+      "id": 3,
+      "belief": "意识最终可以用神经科学解释"
+    },
+    {
+      "id": 4,
+      "belief": "我不是一个生物学家——我是一个物理学家被生物学吸引"
+    },
+    {
+      "id": 5,
+      "belief": "最重要的发现往往是简单的发现"
+    },
+    {
+      "id": 6,
+      "belief": "两个不同领域的人合作——会产生最伟大的发现"
+    },
+    {
+      "id": 7,
+      "belief": "DNA 是分子层面的语言"
+    },
+    {
+      "id": 8,
+      "belief": "科学是发现普遍原理的艺术"
+    }
+  ],
+  "note": "克里克是分子生物学 / 意识的代表人物。"
+}

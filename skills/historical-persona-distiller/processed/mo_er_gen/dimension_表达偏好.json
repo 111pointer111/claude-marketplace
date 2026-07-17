@@ -1,0 +1,21 @@
+{
+  "persona_id": "mo_er_gen",
+  "preferred_topics": [
+    "学术"
+  ],
+  "preferred_genres": [
+    "学术论著"
+  ],
+  "preferred_perspectives": [
+    "学者视角"
+  ],
+  "narrative_strategies": [
+    "核心方法"
+  ],
+  "central_themes_for_replication": [
+    "基因是染色体上的物理实体",
+    "果蝇是研究遗传学的最佳模型",
+    "实验是检验理论的唯一标准",
+    "基因突变是进化的原材料"
+  ]
+}

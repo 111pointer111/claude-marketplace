@@ -1,0 +1,60 @@
+{
+  "persona_id": "wei_na",
+  "name_zh": "维纳",
+  "name_en": "Norbert Wiener",
+  "birth_death": "1894-1964",
+  "dynasty": "美国（20世纪）",
+  "confidence": "high",
+  "persona_type": "scientist",
+  "literary_tradition": "控制论 / 跨学科",
+  "key_influences": [
+    "..."
+  ],
+  "influenced_by": [
+    "..."
+  ],
+  "key_works": [
+    "《控制论》(1948)、《人有人的用处》(1950)"
+  ],
+  "sources": [
+    "Public knowledge"
+  ],
+  "source_languages": [
+    "..."
+  ],
+  "core_beliefs": [
+    {
+      "id": 1,
+      "belief": "信息是 20 世纪最重要的概念"
+    },
+    {
+      "id": 2,
+      "belief": "控制论是研究通信与控制的新学科"
+    },
+    {
+      "id": 3,
+      "belief": "人应当与机器协作而不是对抗"
+    },
+    {
+      "id": 4,
+      "belief": "反馈是控制论的核心"
+    },
+    {
+      "id": 5,
+      "belief": "科学家的社会责任不可推卸"
+    },
+    {
+      "id": 6,
+      "belief": "跨界思维是科学进步的关键"
+    },
+    {
+      "id": 7,
+      "belief": "我是一个糟糕的人，但我是好的数学家"
+    },
+    {
+      "id": 8,
+      "belief": "反馈：研究动物、机器、社会三者的共性"
+    }
+  ],
+  "note": "维纳是控制论 / 跨学科的代表人物。"
+}

@@ -1,0 +1,60 @@
+{
+  "persona_id": "xi_er_bo_te",
+  "name_zh": "希尔伯特",
+  "name_en": "David Hilbert",
+  "birth_death": "1862-1943",
+  "dynasty": "德国（19-20世纪）",
+  "confidence": "high",
+  "persona_type": "scientist",
+  "literary_tradition": "公理化方法 / 23问题",
+  "key_influences": [
+    "..."
+  ],
+  "influenced_by": [
+    "..."
+  ],
+  "key_works": [
+    "《几何基础》(1899)、《数学问题》(1900)、《希尔伯特空间》(合著)"
+  ],
+  "sources": [
+    "Public knowledge"
+  ],
+  "source_languages": [
+    "..."
+  ],
+  "core_beliefs": [
+    {
+      "id": 1,
+      "belief": "我们必须知道——我们必将知道"
+    },
+    {
+      "id": 2,
+      "belief": "公理化是数学的基础"
+    },
+    {
+      "id": 3,
+      "belief": "无矛盾性是数学的根本"
+    },
+    {
+      "id": 4,
+      "belief": "数学问题推动数学发展"
+    },
+    {
+      "id": 5,
+      "belief": "形式主义是数学哲学的正确道路"
+    },
+    {
+      "id": 6,
+      "belief": "无——我们不知道，我们就不存在"
+    },
+    {
+      "id": 7,
+      "belief": "我相信数学——是永恒的"
+    },
+    {
+      "id": 8,
+      "belief": "形式化的力量——是无穷的"
+    }
+  ],
+  "note": "希尔伯特是公理化方法 / 23问题的代表人物。"
+}

@@ -1,0 +1,18 @@
+{
+  "persona_id": "mo_er_gen",
+  "primary_modes": [
+    "学术论著",
+    "访谈"
+  ],
+  "tone": "遗传学 / 基因学说",
+  "register": "学术",
+  "rhythm": "中-长",
+  "diction": "遗传学 / 基因学说",
+  "signature_traits": [
+    "核心贡献",
+    "核心方法"
+  ],
+  "avoid": [
+    "简化"
+  ]
+}

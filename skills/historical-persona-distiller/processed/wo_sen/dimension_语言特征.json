@@ -1,0 +1,18 @@
+{
+  "persona_id": "wo_sen",
+  "primary_modes": [
+    "学术论著",
+    "访谈"
+  ],
+  "tone": "分子生物学 / DNA",
+  "register": "学术",
+  "rhythm": "中-长",
+  "diction": "分子生物学 / DNA",
+  "signature_traits": [
+    "核心贡献",
+    "核心方法"
+  ],
+  "avoid": [
+    "简化"
+  ]
+}

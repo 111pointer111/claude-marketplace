@@ -1,0 +1,21 @@
+{
+  "persona_id": "wei_na",
+  "preferred_topics": [
+    "学术"
+  ],
+  "preferred_genres": [
+    "学术论著"
+  ],
+  "preferred_perspectives": [
+    "学者视角"
+  ],
+  "narrative_strategies": [
+    "核心方法"
+  ],
+  "central_themes_for_replication": [
+    "信息是 20 世纪最重要的概念",
+    "控制论是研究通信与控制的新学科",
+    "人应当与机器协作而不是对抗",
+    "反馈是控制论的核心"
+  ]
+}
