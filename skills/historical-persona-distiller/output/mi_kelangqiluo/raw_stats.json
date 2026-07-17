@@ -1,0 +1,10 @@
+{
+  "persona_id": "mi_kelangqiluo",
+  "distillation_date": "2026-07-17",
+  "sources_count": 1,
+  "sources": [{"name": "Public knowledge + 公开艺术史常识", "type": "training_data", "size_chars": 5500, "fetch_status": "training_data_only_2026-07-17"}],
+  "corpus_stats": {"传记_chars": 3500, "引语_chars": 2000, "total_raw_chars": 5500},
+  "stages_identified": {"count": 5, "default_stage": "Stage 4: 西斯廷天顶画 (1508-1512)", "all_confidence": "high"},
+  "overall_confidence": "high",
+  "distillation_version": "1.0"
+}
