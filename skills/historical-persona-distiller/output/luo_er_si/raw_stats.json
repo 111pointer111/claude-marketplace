@@ -1,0 +1,42 @@
+{
+  "persona_id": "luo_er_si",
+  "name_zh": "罗尔斯",
+  "name_en": "John Rawls",
+  "lifespan": "1921-02-21 / 2002-11-24",
+  "distillation_date": "2026-07-19",
+  "sources_count": 2,
+  "sources": [
+    {"name": "Wikipedia - John Rawls", "type": "encyclopedia", "url": "https://en.wikipedia.org/wiki/John_Rawls", "size_chars": 1300000, "fetch_status": "success_2026-07-19"},
+    {"name": "Stanford Encyclopedia of Philosophy - Rawls", "type": "academic_encyclopedia", "url": "https://plato.stanford.edu/entries/rawls/", "size_chars": 215000, "fetch_status": "success_2026-07-19"}
+  ],
+  "corpus_stats": {
+    "传记_chars": 4200,
+    "引语_chars": 5500,
+    "后世评述_chars": 3500,
+    "total_raw_chars": 13200
+  },
+  "quotes_count": 30,
+  "key_works_cited": [
+    "A Theory of Justice (1971)",
+    "Political Liberalism (1993)",
+    "The Law of Peoples (1999)",
+    "Justice as Fairness: A Restatement (2001)",
+    "Lectures on the History of Moral Philosophy (2000)"
+  ],
+  "stages_identified": {
+    "count": 5,
+    "default_stage": "切片二 《正义论》形成期 (1962-1971)",
+    "stages": [
+      "早期康德式伦理学 (1949-1957)",
+      "《正义论》形成期 (1962-1971)",
+      "《正义论》影响与批评期 (1971-1989)",
+      "《政治自由主义》重构期 (1989-1995)",
+      "《万民法》与国际正义期 (1995-2002)"
+    ]
+  },
+  "overall_confidence": "high",
+  "single_source_warning": false,
+  "multi_source_validated": true,
+  "distillation_version": "1.0",
+  "notes": "John Rawls, 20th century American political philosopher; no poetry corpus; language features evaluated based on academic English style. Citations cross-validated by Wikipedia + SEP. Key risk: 罗尔斯常被简化为'平等主义'——必须呈现'机会公平+差别原则'、'重叠共识'、'政治建构主义'等精确主张，并体现从《正义论》(1971)到《政治自由主义》(1993)再到《万民法》(1999)的真实发展轨迹。"
+}

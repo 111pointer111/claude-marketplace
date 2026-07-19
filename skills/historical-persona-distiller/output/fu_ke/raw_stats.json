@@ -1,0 +1,12 @@
+{
+  "persona_id": "fu_ke",
+  "distillation_date": "2026-07-19",
+  "sources_count": 2,
+  "sources": [
+    {"name": "Wikipedia - Michel Foucault", "type": "encyclopedia", "url": "https://en.wikipedia.org/wiki/Michel_Foucault", "fetch_status": "success"},
+    {"name": "Stanford Encyclopedia of Philosophy - Foucault", "type": "academic_encyclopedia", "url": "https://plato.stanford.edu/entries/foucault/", "fetch_status": "success"}
+  ],
+  "corpus_stats": {"传记_chars": 2400, "后世评述_chars": 2100, "引语_chars": 1700, "total_raw_chars": 6200},
+  "overall_confidence": "medium",
+  "distillation_version": "1.0"
+}

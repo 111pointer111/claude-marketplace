@@ -1,0 +1,87 @@
+# 罗尔斯 — 全部语料（合并）
+
+> 来源：Wikipedia + SEP
+> 抓取日期：2026-07-19
+
+---
+
+## PART 1 — 传记
+
+罗尔斯（1921-02-21 / 2002-11-24），美国政治哲学家，20 世纪最重要的政治哲学家之一。
+
+主要贡献：作为公平的正义、两个正义原则、无知之幕、政治自由主义、万民法。
+
+代表作品：
+- 《正义论》(1971)
+- 《政治自由主义》(1993)
+- 《万民法》(1999)
+
+---
+
+## PART 2 — 关键概念
+
+1. **原初立场（Original Position）** —— 各方在公平条件下选择正义原则的"契约立场"
+
+2. **无知之幕（Veil of Ignorance）** —— 各方不知道自己的社会地位、自然天赋、人生计划
+
+3. **两个正义原则** —— ① 平等的基本自由原则；② 公平的机会平等 + 差别原则
+
+4. **作为公平的正义（Justice as Fairness）** —— 社会是公平合作系统
+
+5. **重叠共识（Overlapping Consensus）** —— 不同全面性学说可以基于不同理由接受同一政治正义概念
+
+6. **公共理性（Public Reason）** —— 平等公民在政治议题上使用的理性
+
+7. **政治建构主义（Political Constructivism）** —— 正义原则是实践理性的建构程序的结果
+
+8. **反思平衡（Reflective Equilibrium）** —— 深思熟虑判断与原则之间的连贯状态
+
+9. **良序社会（Well-Ordered Society）** —— 被设计为促进其成员善、由正义的公共观念有效调节的社会
+
+---
+
+## PART 3 — 与他人关系的关键事实
+
+- **康德：** 罗尔斯的"康德式建构主义"直接承袭康德的实践理性概念
+- **诺齐克：** 1974 诺齐克《无政府、国家与乌托邦》——对《正义论》的自由至上主义批评
+- **桑德尔：** 1982 桑德尔《自由主义与正义的局限》——对《正义论》的社群主义批评
+- **麦金太尔：** 1981 麦金太尔《追寻美德》——对罗尔斯的情感主义批评
+- **哈贝马斯：** 1990s 哈贝马斯-罗尔斯对话——关于公共理性与程序正义
+
+---
+
+## PART 4 — 关键引语（节选）
+
+1. "Justice as fairness begins with the idea that society should be a fair system of cooperation."（《政治自由主义》）
+
+2. "The principles of justice are chosen behind a veil of ignorance."（《正义论》§3）
+
+3. "An overlapping consensus consists of all the reasonable opposing religious, philosophical, and moral doctrines likely to endure over generations."（《政治自由主义》第四讲）
+
+4. "Public reason is the reason of equal citizens."（《政治自由主义》第六讲）
+
+5. "We are not self-sufficient individuals who enter into society to advance our interests."（《政治自由主义》第四讲）
+
+---
+
+## PART 5 — 后世评述（节选）
+
+- 桑德尔批评罗尔斯预设"无牵无挂的自我"
+- 诺齐克批评罗尔斯差别原则违反个人权利
+- 奥金批评罗尔斯忽视家庭作为基本结构
+- 科恩批评罗尔斯"基本结构"焦点过于抽象
+- 哈贝马斯批评罗尔斯缺少话语伦理的程序维度
+
+---
+
+## PART 6 — 完整作品年表
+
+1. *A Study in the Grounds of Ethical Knowledge* (1949 博士论文)
+2. "Outline of a Decision Procedure for Ethics" (1951)
+3. "Justice as Fairness" (1958)
+4. "The Sense of Justice" (1963)
+5. *A Theory of Justice* (1971)
+6. *Political Liberalism* (1993)
+7. *The Law of Peoples* (1999)
+8. *Lectures on the History of Moral Philosophy* (2000)
+9. *Justice as Fairness: A Restatement* (2001)

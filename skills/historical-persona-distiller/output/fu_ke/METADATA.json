@@ -1,0 +1,63 @@
+{
+  "persona_id": "fu_ke",
+  "name_zh": "福柯",
+  "name_en": "Michel Foucault",
+  "lifespan": "1926-10-15 / 1984-06-25",
+  "dynasty": "20世纪法国",
+  "persona_type": "historical_figure",
+  "distillation_date": "2026-07-19",
+  "distillation_version": "1.0",
+  "sources_count": 3,
+  "sources": [
+    {"name": "Wikipedia - Michel Foucault", "type": "encyclopedia", "url": "https://en.wikipedia.org/wiki/Michel_Foucault"},
+    {"name": "Stanford Encyclopedia of Philosophy - Foucault", "type": "academic_encyclopedia", "url": "https://plato.stanford.edu/entries/foucault/"},
+    {"name": "Wikiquote - Michel Foucault", "type": "quote_collection", "url": "https://en.wikiquote.org/wiki/Michel_Foucault"}
+  ],
+  "stages_identified": {
+    "count": 4,
+    "default_stage": "切片二 谱系学时代 (1969-1975)",
+    "stages": [
+      {"id": "S1", "name": "结构主义训练期", "period": "1961-1969", "confidence": "high"},
+      {"id": "S2", "name": "谱系学时代", "period": "1969-1975", "confidence": "high"},
+      {"id": "S3", "name": "权力-生命政治", "period": "1976-1980", "confidence": "medium"},
+      {"id": "S4", "name": "晚期伦理学转向", "period": "1980-1984", "confidence": "high"}
+    ]
+  },
+  "overall_confidence": "medium-high",
+  "single_source_warning": false,
+  "multi_source_validated": true,
+  "key_works_cited": [
+    "Folie et déraison / Madness and Civilization (1961)",
+    "The Birth of the Clinic (1963)",
+    "The Order of Things (1966)",
+    "The Archaeology of Knowledge (1969)",
+    "Discipline and Punish (1975)",
+    "The History of Sexuality, Vol. 1: The Will to Knowledge (1976)",
+    "The Use of Pleasure (1984)",
+    "The Care of the Self (1984)"
+  ],
+  "corpus_stats": {
+    "传记_chars": 3209,
+    "引语_chars": 3762,
+    "后世评述_chars": 3911,
+    "total_raw_chars": 17514,
+    "quotes_count": 30
+  },
+  "key_concepts": [
+    "power-knowledge",
+    "discipline",
+    "panopticon",
+    "biopower",
+    "governmentality",
+    "discourse analysis",
+    "archaeology",
+    "genealogy",
+    "subjectivation",
+    "technologies of the self",
+    "parrhesia",
+    "epimeleia heautou",
+    "carceral archipelago",
+    "heterotopia"
+  ],
+  "notes": "Western philosopher; no poetry corpus; language features evaluated based on academic French style. Citations cross-validated by Wikipedia + SEP + Wikiquote."
+}

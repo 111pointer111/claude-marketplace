@@ -1,0 +1,87 @@
+# Michel Foucault — Combined Corpus
+
+Sources:
+- https://en.wikipedia.org/wiki/Michel_Foucault
+- https://plato.stanford.edu/entries/foucault/
+- https://en.wikiquote.org/wiki/Michel_Foucault
+
+================================================================
+PART 1 — BIOGRAPHY (Wikipedia)
+================================================================
+
+Paul-Michel Foucault (15 October 1926 – 25 June 1984) was a French historian of ideas and philosopher, also an author, literary critic, political activist, and teacher. His theories primarily addressed relationships between power, knowledge, and liberty, analyzing how they are used as social control through multiple institutions.
+
+Life chronology:
+- Born in Poitiers, France into upper-middle-class family
+- Educated at Lycée Henri-IV, École Normale Supérieure, University of Paris
+- Came under influence of Jean Hyppolite and Louis Althusser
+- Joined French Communist Party in 1950; left in 1953
+- Obtained DES in Philosophy 1949; agrégation in 1951
+- Worked as psychology instructor at ENS (1951–55)
+- Taught at Université de Lille (1953–54)
+- Cultural diplomat at University of Uppsala, Sweden
+- Worked at University of Warsaw, Poland (1958)
+- Director of Institut français Hamburg (1958–1960)
+- Published *Madness and Civilization* (1961)
+- Taught at University of Clermont-Ferrand (1960–1966)
+- Published *The Birth of the Clinic* (1963) and *The Order of Things* (1966)
+- Lectured at University of Tunis (1966–1968)
+- Head of philosophy at Paris VIII/Vincennes
+- Elected to Collège de France (1970)
+- Published *Discipline and Punish* (1975)
+- Published *The History of Sexuality* Vol. 1 (1976)
+- Reported on Iranian Revolution (1978)
+- Died in Paris from HIV/AIDS complications
+
+Notable ideas: biopower, disciplinary institution, discourse analysis, discursive formation, dispositif, épistémè, archaeology, genealogy, carceral archipelago, governmentality, heterotopia, gaze, power-knowledge, panopticism, subjectivation, parrhesia, epimeleia heautou, regimes of truth, Foucault's boomerang.
+
+Influences: Hegel, Marx, Kant, Husserl, Heidegger, Nietzsche, Freud, Binswanger, Canguilhem, Althusser, Hyppolite.
+
+================================================================
+PART 2 — LATER ASSESSMENT (SEP, head 2000 chars)
+================================================================
+
+French historian and philosopher born in Poitiers. Studied at the École Normale Supérieure (1946). Held positions at French universities; elected to the Collège de France (1969). Active politically; founded the Groupe d'information sur les prisons. Lectured frequently in the U.S., including at Berkeley. Died of AIDS in Paris.
+
+Influenced by Merleau-Ponty, Heidegger, Hegel, and Marx (via Hyppolite and Althusser). Turned away from existentialism and Marxism. Canguilhem was a key supporter, providing a model of history of science. Engaged with structuralist linguistics (Saussure) and psychoanalysis (Lacan). Enthralled by Bataille and Blanchot's "limit-experiences."
+
+Major works:
+- *History of Madness* (1961): medical concept of "mental illness" masked social control of deviance from bourgeois norms.
+- *The Birth of the Clinic* (1963): a more standard history of clinical medicine's emergence.
+- *The Order of Things* (1966): "An Archaeology of the Human Sciences." Inverts Kant: asks what appears necessary might be contingent. Traces shifts from Renaissance resemblance to Classical representation to modern man/language.
+- *The Archaeology of Knowledge* (1969): methodological treatise on "discursive formations" operating beneath subject consciousness.
+- *Discipline and Punish* (1975): genealogy of the modern prison; introduces the Panopticon as a model of disciplinary power through surveillance, normalization, and examination. Power/knowledge are inseparable.
+- *History of Sexuality, Vol. 1* (1976): rejects the "repressive hypothesis"; argues sexuality is *produced* by power through discourses (medical, psychological). Introduces biopower.
+- *The Use of Pleasure* / *Care of the Self* (1984): studies ancient Greek/Roman ethics as an "aesthetics of existence."
+
+Key concepts: archaeology, genealogy, power/discipline, biopolitics/biopower, governmentality, subjectivity, ancient ethics.
+
+Posthumous materials: lectures at the Collège de France (1970–84) and *Les aveux de la chair* (2018) expanded his corpus, particularly on governmentality, neoliberalism, biopolitics, and the ancient idea of philosophy as a way of life.
+
+Influence: major impact on feminist philosophy, queer theory (Butler's *Gender Trouble* builds on his work), political theory, sociology, and history of science.
+
+================================================================
+PART 3 — QUOTES (head ~1000 chars)
+================================================================
+
+"We should admit rather that power produces knowledge... power and knowledge directly imply one another."
+"The soul is the prison of the body."
+"Is it surprising that prisons resemble factories, schools, barracks, hospitals, which all resemble prisons?"
+"Do not ask who I am and do not ask me to remain the same."
+"Marxism exists in nineteenth-century thought as a fish exists in water."
+"My point is not that everything is bad, but that everything is dangerous."
+"The gesture that divides madness is the constitutive one."
+"Unreason is to reason as dazzlement is to daylight."
+"There are more ideas on earth than intellectuals imagine."
+"The most defenseless tenderness and the bloodliest of powers have a similar need of confession. Western man has become a confessing animal."
+"The 'Enlightenment', which discovered the liberties, also invented the disciplines."
+"Maybe the target nowadays is not to discover what we are but to refuse what we are."
+"Our society is one not of spectacle, but of surveillance."
+"Power is everywhere: not that it engulfs everything, but that it comes from everywhere."
+"Discipline 'makes' individuals; it is the specific technique of a power that regards individuals both as objects and as instruments of its exercise."
+"The judges of normality are present everywhere. We are in the society of the teacher-judge, the doctor-judge, the educator-judge."
+"A real subjection is born mechanically from a fictitious relation."
+"He who is subjected to a field of visibility... assumes responsibility for the constraints of power."
+"Parrhesia... the parrhesiastes is the one who speaks the truth."
+"The game is worthwhile insofar as we don't know what will be the end."
+"A critique is not a matter of saying that things are not right as they are."

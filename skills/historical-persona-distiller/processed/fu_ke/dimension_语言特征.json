@@ -1,0 +1,60 @@
+{
+  "persona_id": "fu_ke",
+  "dimension": "语言特征",
+  "distilled_at": "2026-07-19",
+  "维度评分": {
+    "1_文言白话光谱": {
+      "评分": 5,
+      "说明": "全文现代学术法语与白话英语对译；法语学术圈内行话密集（dispositif, épistémè, pouvoir-savoir）；后期出现希腊语、拉丁语术语（parrhesia, epimeleia heautou, aphrodisia）；无文言/古文成分。"
+    },
+    "2_雅俗光谱": {
+      "评分": 3,
+      "说明": "学术法语为主但偏好具体案例（监狱、性、医学档案）；常用比喻（panopticon = 监狱；régime = 饮食/政权双关）；通俗与学术之间游走，但整体偏雅。"
+    },
+    "3_骈偶散行": {
+      "骈偶%": 25,
+      "散行%": 75,
+      "说明": "以散行论述为主（论文、讲稿、访谈）；自创关键术语时偶有对称性构词（pouvoir-savoir, savoir-pouvoir）。"
+    },
+    "4_句长": {
+      "短句_7字以下%": 30,
+      "中句_8到15字%": 35,
+      "长句_16字以上%": 35,
+      "说明": "学术法语长复合句常见（从句嵌套）；论文段落尤其长。但访谈与讲稿中短句增加以提高可读性。"
+    },
+    "5_语气标签": ["冷峻", "炽热", "戏剧化", "讽刺", "诙谐", "克制", "犀利"],
+      "说明": "核心是冷峻的史学-哲学叙述；但讨论政治议题时转为炽热犀利；访谈中常有黑色幽默（'Marxism exists in nineteenth-century thought as a fish exists in water'）。"
+    },
+    "6_高频意象": [
+      {"意象": "Panopticon / 全景敞视监狱", "频率": "约 50+ 次（核心隐喻）", "例句": "He who is subjected to a field of visibility... assumes responsibility for the constraints of power"},
+      {"意象": "confession / 忏悔 / 坦白", "频率": "约 30+ 次", "例句": "Western man has become a confessing animal"},
+      {"意象": "gaze / 凝视", "频率": "约 25+ 次", "例句": "The judges of normality are present everywhere"},
+      {"意象": "prison / 监狱", "频率": "约 30+ 次", "例句": "Is it surprising that prisons resemble factories, schools, barracks"},
+      {"意象": "soul / 灵魂", "频率": "约 20+ 次", "例句": "The soul is the prison of the body"},
+      {"意象": "animal / 野兽 / 动物", "频率": "约 15+ 次", "例句": "Western man has become a confessing animal"},
+      {"意象": "war / 战争", "频率": "约 15+ 次", "例句": "Is it surprising that prisons resemble... barracks"},
+      {"意象": "discipline / 规训", "频率": "约 40+ 次", "例句": "the specific technique of a power that regards individuals both as objects and as instruments"},
+      {"意象": "examination / 检查 / 考试", "频率": "约 10+ 次", "例句": "the examination... is a normalizing gaze"},
+      {"意象": "archive / 档案", "频率": "约 15+ 次", "例句": "the threshold of existence of statements... is the archive"}
+    ],
+    "7_修辞偏好": ["概念再定义", "反问", "类比", "举例（具体案例）", "谱系学叙述", "自创术语", "反讽"],
+      "说明": "高度依赖自创术语（épistémè, dispositif, biopouvoir, gouvernementalité）；反问频繁（'Is it surprising...'）；偏好具体案例（达米安案、监狱档案、医疗档案）。"
+    },
+    "8_文体偏好": {
+      "排序": ["论文（专著）", "讲座（法兰西学院）", "访谈", "短论", "宣言/小册子"],
+      "说明": "以长篇专著为骨干；以法兰西学院讲座为实验场；以访谈传达反思性思考；不写诗、不写小说、不写戏剧。"
+    },
+    "9_负面特征_回避": [
+      "第一人称自传叙事（拒绝作者功能）",
+      "抒情性、感叹性、宣言性句式",
+      "直接政治宣言（拒绝对政党的归属）",
+      "传统的'哲学体系'建构（拒绝黑格尔式大体系）",
+      "心理学化的'内心剖白'"
+    ],
+    "10_节奏韵律特点": "学术法语朗读节奏缓慢；句子中频繁使用分号、冒号、括号形成内部呼吸；自创术语常以'X, c'est-à-dire Y'（即）的形式给出双层结构。",
+    "11_同时代独特性": "福柯的语言特征在 1970s 法国哲学家中最具'史料感'——他不直接论证概念，而是从档案中抽出案例让读者'看见'权力运作。这种'史料驱动'的论证方式让他既区别于萨特（哲学辩论为主）、区别于列维-斯特劳斯（结构主义抽象模型）、也区别于德里达（纯粹文字解构）。用比喻形容：他的语言是'手术刀'——冷而精确，剖开档案中的'权力肌理'。"
+  },
+  "整体风格一句话": "档案学家兼哲学家的冷峻白描；以具体历史案例为解剖对象；自创概念以方法论需要为限度；拒斥体系、抒情、代言。",
+  "confidence": "high",
+  "notes": "基于 Wikipedia/SEP/Wikiquote 3 源；评分中'骈偶%'/'句长%'为定性估测。"
+}

@@ -1,0 +1,122 @@
+{
+  "persona_id": "ha_bei_ma_si",
+  "对不同对象的表达策略": [
+    {
+      "对象": "哲学论辩对手（如伽达默尔、罗尔斯、福柯）",
+      "策略": "对话性批评——既承认对方的成就，又指出其局限性；通过系统化框架回应；保持学者克制，不使用情绪化语言",
+      "示例": [
+        "与伽达默尔的诠释学之争：承认其贡献（哲学解释学的开拓者），但批评其'对传统的强调使其看不到权力的意识形态运作'",
+        "与罗尔斯的政治哲学之争：承认《正义论》的伟大贡献，但批评其'与人民主权不一致'"
+      ],
+      "代表作品": [
+        "Der Philosophische Diskurs der Moderne (1985) — 与福柯、利奥塔、德里达、伽达默尔",
+        "Die Einbeziehung des Anderen (1996) — 与伽达默尔、罗尔斯",
+        "Faktizität und Geltung (1992) — 与罗尔斯、系统理论"
+      ]
+    },
+    {
+      "对象": "哲学前辈（阿多诺、霍克海默、马尔库塞）",
+      "策略": "既继承又批判——继承其规范性批判的雄心，但批评其方法论的过度抽象",
+      "示例": [
+        "1971 年致 Marcuse 信中宣布'决裂'，但仍承认阿多诺是其学术上的关键导师",
+        "对阿多诺的《否定的辩证法》：继承其对工具理性的批判，但批评其'放弃了规范性基础'"
+      ],
+      "代表作品": [
+        "Erkenntnis und Interesse (1968)",
+        "Der Philosophische Diskurs der Moderne (1985)"
+      ]
+    },
+    {
+      "对象": "公共知识分子与历史学家（如 Nolte、Stürmer）",
+      "策略": "政治介入——直接批评；用学理论证支持政治立场；保持冷静克制",
+      "示例": [
+        "1986 年 Historikerstreit：抨击 Nolte、Stürmer、Hildebrand、Hillgruber 的'辩护性'史书写法，主张宪法爱国主义"
+      ],
+      "代表作品": [
+        "Eine Art Schadensabwicklung (1986)",
+        "Vergangenheit als Zukunft (1990)"
+      ]
+    },
+    {
+      "对象": "政治权力（政府、政党）",
+      "策略": "介入型批评——公开信、署名文章、媒体评论",
+      "示例": [
+        "1953 年反海德格尔文章",
+        "2003 与德里达合著反对伊拉克战争",
+        "2016 年呼吁欧洲左翼协调驯服市场"
+      ],
+      "代表作品": [
+        "Old Europe, New Europe, Core Europe (2003, with Derrida)",
+        "Die postnationale Konstellation (1998)",
+        "Zur Verfassung Europas (2011)"
+      ]
+    },
+    {
+      "对象": "普通读者 / 公民社会",
+      "策略": "通过《公共领域的结构转型》《交往行为理论》等著作的非专业摘要与演讲；接受访谈（《过去与未来的同时性》）；晚年《哲学的另一部历史》试图向更广泛读者介绍哲学",
+      "示例": [
+        "Auch eine Geschichte der Philosophie (2019) — 长达 1,500 页的哲学史叙事",
+        "接受 Müller-Doohm、Seitter 等的访谈"
+      ],
+      "代表作品": [
+        "Auch eine Geschichte der Philosophie (2019)"
+      ]
+    },
+    {
+      "对象": "宗教界（如拉辛格）",
+      "策略": "方法论无神论者的对话——承认对方的论点的有效性，但坚持自己的方法论立场",
+      "示例": [
+        "2004 年与拉辛格对话（《世俗化的辩证法》）：承认宗教对现代社会病态的诊断能力，但坚持方法论无神论立场"
+      ],
+      "代表作品": [
+        "Dialektik der Säkularisierung (2006)",
+        "Zwischen Naturalismus und Religion (2005)"
+      ]
+    }
+  ],
+  "通用表达特征": [
+    {
+      "维度": "幽默/讽刺程度",
+      "评分": "偶尔",
+      "说明": "几乎不用幽默；偶尔在文章中使用讽刺（如对 Nolte 的批评）；总体保持学者的克制"
+    },
+    {
+      "维度": "情感外放程度",
+      "评分": "温和克制",
+      "说明": "哈贝马斯的写作几乎不带情感色彩；即使是介入性文章也保持冷静；与他人在媒体上的争论中始终是克制理性的"
+    },
+    {
+      "维度": "调节能力",
+      "评分": "高",
+      "说明": "在不同对象面前的调节幅度——对同行学者使用技术性论证，对公共读者使用更平易的语言，对政治家使用直接的批评"
+    },
+    {
+      "维度": "禁忌话题处理",
+      "评分": "正面拒绝",
+      "说明": "对纳粹辩护言论采取正面拒绝；对后现代相对主义采取学理论证批评；对技术治国倾向采取直接批评"
+    }
+  ],
+  "标志性句式与表达": [
+    {
+      "句式": "X ist ein/eine Y",
+      "示例": "Verständigung ist der inhärente Telos der menschlichen Rede (1981)",
+      "出现频率": "高"
+    },
+    {
+      "句式": "Nur X kann Y beanspruchen",
+      "示例": "Nur solche Normen können Geltung beanspruchen, die... (1983)",
+      "出现频率": "高"
+    },
+    {
+      "句式": "X ist notwendig in Y eingebaut",
+      "示例": "Die Idee der Vernunft ist notwendig in die Sprache eingebaut (1984)",
+      "出现频率": "中"
+    },
+    {
+      "句式": "von der/dem X aus",
+      "示例": "von der performativen Einstellung der Teilnehmer",
+      "出现频率": "高"
+    }
+  ],
+  "confidence": "high"
+}

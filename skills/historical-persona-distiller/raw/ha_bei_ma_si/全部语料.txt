@@ -1,0 +1,270 @@
+# 哈贝马斯 全部语料 (合并版)
+
+> 包含：传记 + 引语 + 后世评述
+> 来源：Wikipedia (EN) + Stanford SEP + 2026 讣告综合
+> 收集日期：2026-07-19
+
+---
+
+## I. 基本信息
+
+- 全名：Jürgen Habermas
+- 生卒：1929 年 6 月 18 日 — 2026 年 3 月 14 日（享年 96 岁）
+- 出生地：德国杜塞尔多夫，莱茵省
+- 逝世地：施塔恩贝格 (Starnberg)
+- 配偶：Ute Wesselhoeft (1930–2025)，1955 年结婚
+- 子女：三人
+- 国籍：德国（2014 年公开宣示欧盟公民身份）
+
+---
+
+## II. 早期生活
+
+哈贝马斯在科隆附近的古默斯巴赫 (Gummersbach) 长大，成长于虔诚的新教环境。祖父 Friedrich Habermas 任当地神学院院长；父亲 Ernst Habermas 任科隆工商会执行理事，1933 年加入纳粹党，1939 年起积极支持纳粹。
+
+二战期间，他依父亲意愿加入 Deutsches Jungvolk（希特勒青年团的少年分部），晋升至 Jungvolkführer。1944 年 8 月起，其分队操作高射炮抵抗盟军在西墙的推进。在美军逼近前夕，他险些被征召入国防军。
+
+---
+
+## III. 教育与学术训练
+
+### 三所大学
+
+- 哥廷根大学（1949–1950）
+- 苏黎世大学（1950–1951）
+- 波恩大学（1951–1954）
+
+### 博士（1954）：波恩大学
+
+论文题为 *Das Absolute und die Geschichte. Von der Zwiespältigkeit in Schellings Denken*（《绝对者与历史：论谢林思想中的分裂》）。委员会成员包括 Erich Rothacker 与 Oskar Becker（前纳粹党员）。哈贝马斯后来将其方法描述为"海德格尔式的"；该研究通过 Karl Löwith 引导他走向青年马克思。
+
+### 短暂新闻工作（1950 年代中期）
+
+1953 年在《法兰克福汇报》上发表文章，对出版海德格尔 1935 年讲座《形而上学导论》表示愤慨，同时主张哲学与政治应完全分离。这是他第一次进入公共领域。
+
+### 阿多诺助手（1956–1959）
+
+在法兰克福大学社会研究所担任 Theodor W. Adorno 的研究助理，跟随阿多诺与 Horkheimer 学习哲学与社会学。
+
+### 教授资格 (Habilitation, 1961)：马尔堡大学
+
+论文题为 *Strukturwandel der Öffentlichkeit. Untersuchungen zu einer Kategorie der bürgerlichen Gesellschaft*（《公共领域的结构转型：论资产阶级社会的一个范畴》）。导师为马克思主义者 Wolfgang Abendroth。1989 年出版英译本。
+
+---
+
+## IV. 学术生涯
+
+| 年份 | 职位 |
+|------|------|
+| 1961 | 马尔堡大学 私讲师 |
+| 1962 | 海德堡大学 编外哲学教授（伽达默尔与 Löwith 提名） |
+| 1964–1971 | 法兰克福歌德大学 哲学与社会学教授（接替 Horkheimer；阿多诺支持） |
+| 1971–1983 | 施塔恩贝格 Max Planck 研究所 联合所长 |
+| 1983–1994 | 重返法兰克福教席 |
+| 1994 之后 | 西北大学"永久客座"；新学院"Theodor Heuss 教授" |
+
+1969 年阿多诺逝世后，他拒绝了社会研究所所长一职，推荐 Leszek Kołakowski 接任。失败后发表公开信反对批判理论的制度化。
+
+---
+
+## V. 主要著作
+
+- *Strukturwandel der Öffentlichkeit* (1962) — 《公共领域的结构转型》
+- *Theorie und Praxis* (1963) — 《理论与实践》
+- *Erkenntnis und Interesse* (1965) — 《认识与兴趣》
+- *Zur Logik der Sozialwissenschaften* (1967) — 《社会科学逻辑》
+- *Technik und Wissenschaft als 'Ideologie'* (1968) — 《作为"意识形态"的技术与科学》
+- *Legitimationsprobleme im Spätkapitalismus* (1973) — 《晚期资本主义的合法化危机》
+- *Theorie des kommunikativen Handelns* (1981, 两卷) — 《交往行为理论》
+- *Der Philosophische Diskurs der Moderne* (1985) — 《现代性的哲学话语》
+- *Faktizität und Geltung* (1992) — 《在事实与规范之间》
+- *Die Einbeziehung des Anderen* (1996) — 《他者的纳入》
+- *Die Postnationale Konstellation* (1998) — 《后民族格局》
+- *Wahrheit und Rechtfertigung* (1999) — 《真理与论证》
+- *Zwischen Naturalismus und Religion* (2005) — 《在自然主义与宗教之间》
+- *Dialektik der Säkularisierung* (2006, 与 Ratzinger) — 《世俗化的辩证法》
+- *Auch eine Geschichte der Philosophie* (2019, 两卷本) — 《哲学的另一部历史》
+
+---
+
+## VI. 主要理论概念
+
+- **交往行为 (kommunikatives Handeln)** — 通过达成理解而协调的行为
+- **交往理性 (kommunikative Vernunft)** — 内建在语言中的理性
+- **话语伦理学 (Diskursethik)** — 通过话语检验规范有效性
+- **理想言语情境 (ideale Sprechsituation)** — 不受强制的话语情境
+- **施行性矛盾 (performativer Widerspruch)** — 言行不一致
+- **系统/生活世界 (System/Lebenswelt)** — 系统整合 vs 社会整合
+- **公共领域 (Öffentlichkeit)** — 私人个体作为公众讨论公共事务的领域
+- **宪法爱国主义 (Verfassungspatriotismus)** — 以宪法为认同基础
+- **普遍语用学 (Universalpragmatik)** — 研究言语行为的普遍有效性条件
+- **后世俗社会 (postsäkulare Gesellschaft)** — 宗教与世俗相互学习的社会
+
+---
+
+## VII. 思想谱系
+
+- **德国哲学：** 康德、谢林、黑格尔、狄尔泰、胡塞尔、伽达默尔
+- **马克思主义：** 马克思、Horkheimer、阿多诺、马尔库塞
+- **社会学：** 韦伯、涂尔干、米德
+- **语言哲学：** 维特根斯坦、Austin、Strawson、Toulmin、Searle
+- **发展心理学：** 皮亚杰、科尔伯格
+- **美国实用主义：** 皮尔士、杜威
+- **社会系统理论：** 帕森斯、卢曼
+- **新康德主义思想**
+
+核心贡献：发展"交往理性"，将理性置于人际语言沟通的结构之中。框架建立于 Austin/Searle 言语行为哲学、乔姆斯基转换生成语法、Frege/Dummett 形式语义学、Grice 意向主义语义学、维特根斯坦使用意义论、狄尔泰/伽达默尔诠释学、Apel 超验语用学、Brandom 推论语义学。
+
+---
+
+## VIII. 法兰克福学派关系
+
+哈贝马斯与法兰克福学派有复杂关系：
+
+- 1956-1959 任阿多诺助手
+- 1964-1971 任法兰克福教席（接替 Horkheimer）
+- 1971 致 Marcuse 信中宣布与第一代学派"决裂"
+- 1971-1983 赴施塔恩贝格组建"施塔恩贝格学派"
+- Gordon Finlayson 认为他是"第一代施塔恩贝格学派"，不是第二代法兰克福
+- 1989 年自称"最后的马克思主义者"
+- 距离后现代主义（拒绝其悲观主义与激进主义）
+
+---
+
+## IX. 关键哲学对话
+
+### 实证主义之争 (1961–1969)
+批判理性主义者（波普尔、Albert）与法兰克福学派关于社会科学方法论之争。
+
+### 哈贝马斯与伽达默尔
+哈贝马斯认为伽达默尔对传统的强调使其看不到权力的意识形态运作；伽达默尔反驳说拒绝诠释学的普遍性是更教条的态度。1970 年代展开诠释学论战。
+
+### 福柯—哈贝马斯之争
+关于福柯"权力分析"与哈贝马斯"交往理性/话语伦理学"哪个提供更好批判的争论。
+
+### 哈贝马斯与阿佩尔
+两人均支持后形而上学的普遍道德理论，但阿佩尔将其视为超验条件；哈贝马斯批评其过分超验化。
+
+### 哈贝马斯—罗尔斯之争 (1995)
+文化多元主义下的政治哲学之争。哈贝马斯认为罗尔斯与人民主权不一致；罗尔斯认为民主意志形成被不当地降级。
+
+### 哈贝马斯与德里达
+1980 年代起争论，1990 年代末达成相互理解。2003 年共同发表《老欧洲，新欧洲，核心欧洲》反对伊拉克战争，呼吁更紧密欧洲一体化。
+
+### 历史学家之争 (Historikerstreit, 1986)
+哈贝马斯抨击 Nolte、Stürmer、Hildebrand、Hillgruber 的"辩护性"史书，主张 Verfassungspatriotismus 作为唯一可接受的德国爱国主义形式。
+
+---
+
+## X. 政治参与
+
+- 早期反核运动参与（1950–60 年代）
+- 1953 年反海德格尔文章（首次公共介入）
+- 1960 年代学生运动参与
+- 介入历史学家之争 (1986)
+- 倡导更深层次的欧洲政治一体化
+- 2003 与德里达合著反对伊拉克战争
+- 批评"第三道路"式中左政党
+- 2016 年呼吁欧洲左翼协调驯服市场
+
+---
+
+## XI. 晚年关于宗教的工作
+
+Phillippe Portier 划分三阶段：
+
+1. **1980 年代：** 反对将宗教视为"异化现实"和"控制工具"
+2. **1980 年代中期至 2000 年代初：** 将宗教降入私人生活
+3. **2000 年代初以后：** 承认宗教具有积极的社会作用
+
+1999 年宣称基督教的作用远不止现代性的先驱或催化剂；普遍平等主义与自由、博爱、人权理想是"犹太教正义伦理与基督教爱伦理的直接遗产"。
+
+2005 年《在自然主义与宗教之间》主张世俗与宗教公民之间的双向宽容。
+
+2004 年 1 月与 Joseph Ratzinger 对话（巴伐利亚天主教学院），出版为《世俗化的辩证法》(2006)。哈贝马斯以"方法论无神论者"自居。
+
+推广"后世俗社会"概念，呼吁信仰与理性的和平共存与相互学习。
+
+---
+
+## XII. 资本主义与社会主义立场
+
+- 批评资本主义官僚化倾向及其与民主意志形成的不相容
+- 福利国家通过凯恩斯主义改革"平息阶级冲突"
+- 2000 年代仍认同为改良主义社会主义者
+- 批评欧元是"经济理性的狡黠"，援引黑格尔"理性的狡黠"(List der Vernunft)
+
+---
+
+## XIII. 制度身份与荣誉
+
+- 美国艺术与科学院 外籍荣誉院士 (1984)
+- 塞尔维亚科学与艺术学院 外籍院士 (1988)
+- 莱布尼茨奖 (1986)
+- 阿斯图里亚斯王子社会科学奖 (2003)
+- 京都艺术与哲学奖 (2004)
+- 霍尔伯格国际纪念奖 (2005，约 €520,000)
+
+2007 年《泰晤士高等教育指南》列为人文社科第七大被引作者。
+
+---
+
+## XIV. 重要博士生
+
+- Jóhann P. Árnason
+- Zoran Đinđić
+- Rainer Forst
+- Hans-Hermann Hoppe（后被哈贝马斯拒绝）
+- Hans-Herbert Kögler
+- Cristina Lafont
+- Konrad Ott
+- Lutz Wingert
+- Albrecht Wellmer（1966–1970 助理）
+
+---
+
+## XV. 直接引语节选（精选）
+
+1. "Reaching understanding is the inherent telos of human speech" — 达成理解是人类言语的内在目的 (TCA I, 1981)
+2. "the unforced force of the better argument" — 更好论证的非强制性强制 (1983)
+3. "All affected can accept the consequences" — 普遍化原则 (U) (1983)
+4. "I am myself a product of 'reeducation'" — 我本人是再教育的产物 (1992)
+5. "the rule of law... cannot exist without radical democracy" — 法治不能脱离激进民主 (1992)
+6. "The Enlightenment is an unfinished project" — 启蒙是未完成的方案
+7. "constitutional patriotism" — 宪法爱国主义 (1986)
+8. "post-secular society" — 后世俗社会 (2005+)
+9. "the bourgeois constitutional state in its French, or American, or English form" — (1992)
+10. "we learnt that the bourgeois constitutional state is an historical achievement" — (1992)
+
+（详见 引语.txt，共 45 条直接引语）
+
+---
+
+## XVI. 后世评述（节选）
+
+- Gordon Finlayson：哈贝马斯是"第一代施塔恩贝格学派"成员
+- 与 Horkheimer 的冲突导致其离开法兰克福
+- 与伽达默尔 1970 年代诠释学之争
+- 与罗尔斯 1995 年政治哲学之争
+- 1986 年 Historikerstreit 中"宪法爱国主义"代言人
+- 2004 年与 Ratzinger 对话提出"后世俗社会"
+- 2007 年《泰晤士高等教育》排名人文社科第七
+- 1989 年自称"最后的马克思主义者"
+
+（详见 后世评述.txt，共 8 段评述）
+
+---
+
+## 来源
+
+1. **Wikipedia (EN):** https://en.wikipedia.org/wiki/J%C3%BCrgen_Habermas （主源，2026-07-19 抓取）
+2. **Stanford Encyclopedia of Philosophy:** https://plato.stanford.edu/entries/habermas/ （主源，2026-07-19 抓取）
+3. **2026 讣告综合：** The Guardian, FAZ, LRB, NYRB, Reuters（2026 年 3 月报道）
+4. **Müller-Doohm 2016** Habermas 传记
+5. **Gordon Finlayson** 学派分类研究
+6. **Baynes 1995** 关于"双轨民主理论"的概括
+7. **Phillippe Portier** 关于宗教三阶段分析
+
+总字数估算：约 5,200 字
+直接引语数：45 条
+来源数：7 个不同来源

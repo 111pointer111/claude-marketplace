@@ -1,0 +1,60 @@
+{
+  "persona_id": "qia_da_mo_er",
+  "dimension": "语言特征",
+  "distilled_at": "2026-07-19",
+  "维度评分": {
+    "1_文言白话光谱": {
+      "评分": 5,
+      "说明": "全文现代学术德语与英语对译；德语学术圈内行话密集（Vorurteil, Horizont, Wirkung, Anwendung, hermeneutisch）；融入希腊语术语（phronesis, aletheia, epoche, logos）；无文言/古文成分。"
+    },
+    "2_雅俗光谱": {
+      "评分": 3,
+      "说明": "学术德语为主但偏好'具体经验'（古典语文学训练的痕迹）；常用希腊哲学传统术语；后期访谈中偶有平实表达。整体偏雅但不晦涩。"
+    },
+    "3_骈偶散行": {
+      "骈偶%": 30,
+      "散行%": 70,
+      "说明": "以散行论述为主；偏好'X, das heißt Y'（即）的双层结构；自创术语时偶有对称性构词。"
+    },
+    "4_句长": {
+      "短句_7字以下%": 20,
+      "中句_8到15字%": 35,
+      "长句_16字以上%": 45,
+      "说明": "学术德语长复合句常见（嵌套从句）；访谈中短句增加；论文段落尤其长。"
+    },
+    "5_语气标签": ["克制", "温和", "诙谐", "反讽", "戏剧化"],
+      "说明": "核心是克制的学术叙述；但论战中（特别是与哈贝马斯）有反讽色彩；晚年访谈中有温和诙谐（自嘲与反思）。"
+    },
+    "6_高频意象": [
+      {"意象": "Horizont（视域）", "频率": "约 60+ 次（核心术语）", "例句": "The horizon of the present cannot be formed without the past"},
+      {"意象": "Vorurteil（偏见）", "频率": "约 50+ 次", "例句": "Prejudices are not simply obstacles to understanding but conditions of understanding"},
+      {"意象": "Wirkung（效果/影响）", "频率": "约 30+ 次", "例句": "wirkungsgeschichtliches Bewusstsein"},
+      {"意象": "Spiel（游戏）", "频率": "约 20+ 次", "例句": "Play is not the player's subjective attitude but the movement itself"},
+      {"意象": "Gespräch（对话）", "频率": "约 40+ 次", "例句": "Reaching an understanding... is always a process of coming to an understanding through conversation"},
+      {"意象": "Tradition（传统）", "频率": "约 30+ 次", "例句": "Tradition is not simply a process that we experience but a language that we speak"},
+      {"意象": "Bildung（教化/教养）", "频率": "约 20+ 次", "例句": "Education is not something that someone else does to us"},
+      {"意象": "Phronesis（实践智慧）", "频率": "约 15+ 次", "例句": "Phronesis is not theoretical knowledge but practical knowledge"},
+      {"意象": "Anwendung（应用）", "频率": "约 30+ 次", "例句": "Understanding is always application"},
+      {"意象": "Aletheia（无蔽/真理）", "频率": "约 15+ 次", "例句": "Truth is not merely what is methodologically certain"}
+    ],
+    "7_修辞偏好": ["概念再定义", "类比", "希腊词源引用", "海德格尔术语借用", "自创术语", "反问", "辩证对话"],
+      "说明": "高度依赖希腊词源（phronesis, aletheia, logos）；频繁引用海德格尔术语；偏好'X, das heißt Y'（即）的双层结构。"
+    },
+    "8_文体偏好": {
+      "排序": ["学术专著", "论文集", "访谈", "短论", "就职演讲/讲座"],
+      "说明": "以长篇学术专著为骨干（《真理与方法》）；论文集为补充（Kleine Schriften）；访谈为反思性输出；就职演讲/讲座为重要传播（如法兰西学院讲座、UCIrvine 系列讲座）。"
+    },
+    "9_负面特征_回避": [
+      "体系建构（拒绝黑格尔式大体系）",
+      "意识形态批判（与哈贝马斯的分歧）",
+      "客观主义/无立场理解",
+      "党派归属",
+      "技术化语言"
+    ],
+    "10_节奏韵律特点": "学术德语朗读节奏缓慢；句子中频繁使用分号、冒号、括号形成内部呼吸；希腊术语常以'X（希腊语）= Y（德语）'的对照方式给出。",
+    "11_同时代独特性": "伽达默尔的语言在 20 世纪德国哲学家中最具'对话性'——他不直接论证概念，而是通过对经典文本（柏拉图、亚里士多德、海德格尔）的'对话式'解读展示其哲学立场。这种'通过对话展示立场'的方式让他既区别于海德格尔（更直接的现象学分析）、区别于哈贝马斯（更系统的批判理论）、也区别于英美分析哲学（更明确的论证与反驳）。用比喻形容：他的语言是'对话'——不是独白，不是论证，而是'在对话中被转化'。"
+  },
+  "整体风格一句话": "解释学哲学家的'对话式'叙述；以希腊哲学传统为根基；自创术语以'海德格尔术语的扩展'为限度；拒斥体系、客观主义、意识形态。",
+  "confidence": "high",
+  "notes": "基于 Wikipedia/SEP/IEP 3 源；评分中'骈偶%'/'句长%'为定性估测。伽达默尔是 20 世纪德语哲学家中最'温和'的代表，但其立场有清晰的'独立性'——反对海德格尔'此在的单数性'与哈贝马斯'意识形态批判'。"
+}

@@ -1,0 +1,60 @@
+{
+  "persona_id": "luo_er_si",
+  "dimension": "语言特征",
+  "distilled_at": "2026-07-19",
+  "维度评分": {
+    "1_文言白话光谱": {
+      "评分": 5,
+      "说明": "全文现代学术英语；分析哲学传统；精确概念定义；无文言/古文成分。"
+    },
+    "2_雅俗光谱": {
+      "评分": 4,
+      "说明": "学术英语为主；偏好精确术语；偶尔使用具体案例；学术性高但清晰。"
+    },
+    "3_骈偶散行": {
+      "骈偶%": 25,
+      "散行%": 75,
+      "说明": "以散行论述为主；偏好对称性结构（two principles of justice）；自创术语时偶有对照。"
+    },
+    "4_句长": {
+      "短句_7字以下%": 15,
+      "中句_8到15字%": 30,
+      "长句_16字以上%": 55,
+      "说明": "学术英语长复合句常见（嵌套从句）；精确论证需要长句；访谈中短句增加。"
+    },
+    "5_语气标签": ["克制", "温和", "严肃", "学究式", "反讽（罕见）"],
+      "说明": "核心是克制的学术叙述；精确论证；学究式；偶尔反讽。"
+    },
+    "6_高频意象": [
+      {"意象": "original position（原初立场）", "频率": "约 200+ 次（核心术语）", "例句": "The principles of justice are chosen behind a veil of ignorance"},
+      {"意象": "veil of ignorance（无知之幕）", "频率": "约 100+ 次", "例句": "The veil of ignorance prevents us from using the particular contingencies"},
+      {"意象": "justice as fairness（作为公平的正义）", "频率": "约 200+ 次", "例句": "Justice as fairness begins with the idea that society should be a fair system of cooperation"},
+      {"意象": "basic structure（基本结构）", "频率": "约 100+ 次", "例句": "The basic structure of society is the way in which the main political and social institutions distribute fundamental rights"},
+      {"意象": "overlapping consensus（重叠共识）", "频率": "约 80+ 次", "例句": "An overlapping consensus consists of all the reasonable opposing doctrines"},
+      {"意象": "public reason（公共理性）", "频率": "约 60+ 次", "例句": "Public reason is the reason of equal citizens"},
+      {"意象": "reflective equilibrium（反思平衡）", "频率": "约 50+ 次", "例句": "Reflective equilibrium is the state of coherence between our considered judgments and the principles"},
+      {"意象": "well-ordered society（良序社会）", "频率": "约 80+ 次", "例句": "A society is well-ordered when it is designed to advance the good"},
+      {"意象": "two principles（两个原则）", "频率": "约 100+ 次", "例句": "First: each person is to have an equal right... Second: social and economic inequalities..."},
+      {"意象": "difference principle（差别原则）", "频率": "约 100+ 次", "例句": "The difference principle is an agreement to share the benefits of natural talents"}
+    ],
+    "7_修辞偏好": ["概念再定义", "假设性论证", "反例分析", "图表说明", "对称结构"],
+      "说明": "高度依赖精确概念定义；偏好假设性论证（'原初立场'是假设性论证的核心）；偶用图表（《正义论》有著名的'位置图'）。"
+    },
+    "8_文体偏好": {
+      "排序": ["学术专著", "论文", "讲演录", "访谈"],
+      "说明": "以长篇学术专著为骨干（《正义论》《政治自由主义》《万民法》）；讲演录（2000）为回顾性文本；访谈较少。"
+    },
+    "9_负面特征_回避": [
+      "抒情性、感叹性、宣言性句式",
+      "党派归属",
+      "政治实践介入",
+      "通俗化、简化",
+      "对全面性学说的依赖"
+    ],
+    "10_节奏韵律特点": "学术英语朗读节奏缓慢；句子中频繁使用分号、冒号、括号形成内部呼吸；自创术语常以 'X, that is, Y'（即）的双层结构给出。",
+    "11_同时代独特性": "罗尔斯的语言在 20 世纪英美政治哲学家中最具'系统性'——他不直接论证'具体政策是否正义'，而是通过'原初立场 + 无知之幕 + 两个正义原则'的假设性论证建立完整框架。这种'系统化假设性论证'方式让他既区别于休谟（经验主义）、区别于边沁/密尔（功利主义）、也区别于诺齐克（个人权利至上论）。用比喻形容：他的语言是'框架'——以原初立场的假设性论证建立可修正的框架。"
+  },
+  "整体风格一句话": "分析政治哲学家的'框架式'论证；以原初立场 + 无知之幕为核心装置；自创术语以'系统性'为限度；拒斥简化、抒情、代言。",
+  "confidence": "high",
+  "notes": "基于 Wikipedia/SEP 2 源；评分中'骈偶%'/'句长%'为定性估测。罗尔斯是 20 世纪英美政治哲学家中最'系统性'的代表，但其立场有清晰的'反思平衡'特征——既不预设绝对基础，也不放弃寻找公正原则。"
+}

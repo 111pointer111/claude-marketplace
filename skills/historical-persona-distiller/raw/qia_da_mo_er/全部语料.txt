@@ -1,0 +1,89 @@
+# 伽达默尔 — 全部语料（合并）
+
+> 来源：Wikipedia + SEP + IEP + 后续评述
+> 抓取日期：2026-07-19
+
+---
+
+## PART 1 — 传记
+
+伽达默尔（1900-02-11 / 2002-03-13），德国哲学家，20 世纪哲学解释学的奠基人。
+
+主要贡献：哲学解释学、《真理与方法》（1960）、视域融合、效果历史意识、偏见合法化、应用范畴。
+
+代表作品：
+- 《柏拉图的辩证伦理学》(1931)
+- 《真理与方法》(1960)
+- 《海德格尔的道路》(1983)
+- 《全集》1-10 卷（1985-1995）
+
+---
+
+## PART 2 — 关键概念
+
+1. **偏见（Vorurteil）合法化** —— 偏见不是理解的障碍，而是理解的条件。这与启蒙运动把偏见贬为非理性残余的传统形成对比。
+
+2. **视域融合（Horizontverschmelzung）** —— 理解者与文本的视域不是主客对立，而是在对话中融合。
+
+3. **效果历史意识（Wirkungsgeschichtliches Bewusstsein）** —— 理解者总是处于效果历史之中，理解本身就是历史性的。
+
+4. **应用（Anwendung）** —— 应用不是理解之后的独立步骤，而是理解的核心结构。理解始终包含应用。
+
+5. **对话（Dialog）** —— 达成理解是通过对话实现的。理解者在对话中被转化。
+
+---
+
+## PART 3 — 与海德格尔的关系（已验证）
+
+- 1921/22 冬季学期首次接触海德格尔（弗莱堡）
+- 1922 博士论文在马尔堡完成，导师是 Richard Hoenigswald 而非海德格尔
+- 1923-10 海德格尔到马尔堡
+- 1924-1928 任海德格尔的非全职助理
+- 1925 经历海德格尔的"低评价期"
+- 1928 海德格尔撤回低评价，邀请 Habilitation
+- 1929 Habilitation 在马尔堡完成，导师为海德格尔
+- 1933 海德格尔加入 NSDAP；伽达默尔没有加入，"在纳粹时期减少与海德格尔的接触"
+
+**核心反思：** 伽达默尔明确反对"门徒/代言人"框架。其哲学是"扩展海德格尔"而非"传递海德格尔"。
+
+---
+
+## PART 4 — 关键引语（节选）
+
+1. "Prejudices are not simply obstacles to understanding but conditions of understanding."（《真理与方法》）
+
+2. "Understanding is always application."（同上）
+
+3. "I had the terrible feeling that Heidegger was standing behind me and looking over my shoulder."（Gadamer 1997b, 15）
+
+4. "Without [Heidegger] I would not have said a single word."（多次访谈）
+
+5. "I have never claimed to be a Heideggerian."（多次访谈）
+
+6. "The horizon of the present cannot be formed without the past."（Truth and Method, p. 304）
+
+7. "There is no statement that is not motivated."（同上, p. 358）
+
+---
+
+## PART 5 — 后世评述（节选）
+
+- 哈贝马斯认为伽达默尔"过于保守"，缺少意识形态批判的激进性
+- 利科承认伽达默尔的"效果历史意识"是核心贡献，但认为缺少"文本世界与自我世界"的辩证
+- 德里达 1981 年对话中肯定"应用"概念比伽达默尔本人意识到的更有趣
+- Grondin 2003 权威传记中明确反对"门徒/代言人"框架
+- Taylor 评价"偏见合法化"是 20 世纪最重要的哲学洞见之一
+
+---
+
+## PART 6 — 完整作品年表
+
+1. 《论柏拉图〈斐利布篇〉中的快感概念》(1922 博士论文)
+2. 《柏拉图的辩证伦理学》(1931)
+3. 《真理与方法》(1960)
+4. 《哲学解释学短论集 I-IV》(1967-77)
+5. 《柏拉图与亚里士多德的善的理念》(1978)
+6. 《海德格尔的道路》(1983)
+7. 《赞美理论》(1983)
+8. 《全集 1-10》(1985-1995)
+9. 《自传反思》(收录于 Hahn 编《Hans-Georg Gadamer 哲学》1997)

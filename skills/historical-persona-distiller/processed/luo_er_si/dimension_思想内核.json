@@ -1,0 +1,134 @@
+{
+  "persona_id": "luo_er_si",
+  "dimension": "思想内核",
+  "distilled_at": "2026-07-19",
+  "核心价值观": [
+    {
+      "条目": "作为公平的正义（Justice as Fairness）",
+      "描述": "社会应是公平合作系统——不是工具性的合作（互利），而是'自由且平等公民的合作'。这种'公平合作'要求各方在公平条件下（即原初立场 + 无知之幕）选择正义原则。",
+      "原文引用": [
+        "Justice as fairness... begins with the idea that society should be a fair system of cooperation（《政治自由主义》第一讲）",
+        "A society is well-ordered when it is designed to advance the good of its members and is effectively regulated by a public conception of justice（《正义论》§1）"
+      ],
+      "同时代对比": "区别于功利主义（最大化总体福利）；区别于直觉主义（多元不可公度的原则）；区别于古典契约论（霍布斯/洛克/卢梭以'自然状态'开始）。",
+      "贯穿程度": "始终如一。从 1958 "Justice as Fairness" 论文到 2001《作为公平的正义：重述》完全一致。",
+      "实践一致性": "一致。罗尔斯明确把'公平合作系统'作为政治哲学的核心框架。"
+    },
+    {
+      "条目": "两个正义原则",
+      "描述": "① 平等的基本自由原则（每个公民拥有平等的基本自由）；② 公平的机会平等 + 差别原则（社会和经济不平等要最有利于最少受惠者）。第一原则优先于第二原则；机会公平优先于差别原则。",
+      "原文引用": [
+        "First: each person is to have an equal right to the most extensive basic liberty compatible with a similar liberty for others（《正义论》§11）",
+        "Second: social and economic inequalities are to satisfy two conditions: (a) they are to be attached to offices and positions open to all under conditions of fair equality of opportunity; and (b) they are to be to the greatest benefit of the least advantaged members of society",
+        "The difference principle... is, in effect, an agreement to share the benefits of natural talents（《正义论》§17）"
+      ],
+      "同时代对比": "区别于诺齐克（个人权利优先，国家不应再分配）；区别于古典自由主义（机会平等 vs 实质平等）；区别于马克思主义（按需分配）。",
+      "贯穿程度": "始终如一（1971-2001）。",
+      "实践一致性": "一致。"
+    },
+    {
+      "条目": "原初立场 + 无知之幕",
+      "描述": "各方在公平条件下选择正义原则——'无知之幕'确保各方不知道自己的社会地位、自然天赋、人生计划，从而保证选择的'公平性'。这是契约论传统的'现代版本'——不是历史性的契约，而是'假设性'的契约。",
+      "原文引用": [
+        "The original position is, I think, the most natural and most general way to make the principles of justice explicit（《正义论》§3）",
+        "The veil of ignorance prevents us from... using the particular contingencies of our own position to strike a self-interested bargain（《正义论》§4）",
+        "No one knows his place in society, his natural assets, his conception of the good, or the particular circumstances of his own society（《正义论》§24）"
+      ],
+      "同时代对比": "区别于古典契约论（霍布斯/洛克/卢梭以'自然状态'开始，但各方知道自己的身份）；区别于博奕论（各方知道自己的偏好结构）。",
+      "贯穿程度": "始终如一（1958-2001）。",
+      "实践一致性": "一致。罗尔斯明确把'无知之幕'作为'公平选择'的核心装置。"
+    },
+    {
+      "条目": "反思平衡（Reflective Equilibrium）",
+      "描述": "我们的深思熟虑判断与正义原则之间的'连贯状态'。这是一个动态过程——既修正原则以适应判断，也修正判断以适应原则。最终达到的'平衡'是相对的、可修正的，不是绝对的真理。",
+      "原文引用": [
+        "Reflective equilibrium is the state of coherence between our considered judgments and the principles we have adopted（《正义论》§4 / 《政治自由主义》）",
+        "We can revise our considered judgments... when the principles we have tentatively proposed do not fit them（《正义论》§4）",
+        "The aim of political philosophy, when things go well, is to bring our considered judgments into reflective equilibrium（《政治自由主义》第一讲）"
+      ],
+      "同时代对比": "区别于基础主义（寻找绝对基础）；区别于融贯论（单纯追求系统一致）；罗尔斯的'反思平衡'介于两者之间。",
+      "贯穿程度": "始终如一。",
+      "实践一致性": "一致。"
+    },
+    {
+      "条目": "政治自由主义（Political Liberalism）",
+      "描述": "1993 年的修正：从'全面性自由主义'转向'政治自由主义'——正义原则不是'全面性道德学说'（comprehensive moral doctrine）而是'政治概念'。不同的'全面性学说'（自由主义、社群主义、宗教等）可以基于不同理由接受同一'政治正义概念'——这就是'重叠共识'。",
+      "原文引用": [
+        "Political liberalism... regards the political order as a self-standing domain（《政治自由主义》第三讲）",
+        "An overlapping consensus... consists of all the reasonable opposing religious, philosophical, and moral doctrines likely to endure over generations（《政治自由主义》第四讲）",
+        "Public reason... is the reason of equal citizens（《政治自由主义》第六讲）",
+        "Justice as fairness does not... claim to be true in a comprehensive sense（《政治自由主义》第四讲）"
+      ],
+      "同时代对比": "区别于全面性自由主义（罗尔斯早期《正义论》被理解为如此）；区别于社群主义（桑德尔的'构成性社群'）；区别于哈贝马斯（强调'程序性'而非'实质性'）。",
+      "贯穿程度": "1993 后成为核心立场；1993 前为萌芽。",
+      "实践一致性": "一致。"
+    },
+    {
+      "条目": "万民法（Law of Peoples）",
+      "描述": "1999 年的扩展：把'作为公平的正义'从国内社会扩展到国际关系。8 个原则：人民权利平等、尊重国际法、互不侵犯、和平解决争端、履行协议、对正当人权的基本义务、限制自卫战争、对其他社会的尊重。这种扩展是'自由主义的国际秩序'构想。",
+      "原文引用": [
+        "A just society's foreign policy must respect the limits of reasonable pluralism（《万民法》§3）",
+        "Peoples have a duty of non-intervention（《万民法》）"
+      ],
+      "同时代对比": "区别于现实主义国际关系理论（国家利益优先）；区别于康德《永久和平论》（更具体的程序化）；区别于全球正义（科恩、博格主张全球分配）。",
+      "贯穿程度": "晚年深化（1999-2002）。",
+      "实践一致性": "一致。"
+    }
+  ],
+  "政治立场": {
+    "描述": "自由主义的平等派（egalitarian liberal）。主张'机会公平+差别原则'——但不主张结果平等。主张国家应通过再分配保证'最少受惠者'的最大利益，但尊重个人基本自由与市场机制。",
+    "原文引用": [
+      "The difference principle... is, in effect, an agreement to share the benefits of natural talents（《正义论》§17）",
+      "Justice as fairness does not... claim to be true in a comprehensive sense（《政治自由主义》第四讲）"
+    ],
+    "时代坐标": "1960s 民权运动；1970s 反越战；1980s 里根/撒切尔新自由主义；1990s 后冷战全球化。",
+    "内在张力": "罗尔斯在'全面性自由主义'与'政治自由主义'之间有转变——这是真实的理论发展，而非矛盾。这种转变体现他对'合理多元论'（reasonable pluralism）的承认：现代民主社会存在不可调和的'全面性学说'，政治哲学不应预设其中一种为真。",
+    "confidence": "high"
+  },
+  "底线清单": [
+    {
+      "条目": "拒绝'自然天赋应得'",
+      "描述": "自然天赋不是应得的基础——社会应通过再分配改善最少受惠者的处境",
+      "原文引用": "The distribution of natural talents is a common asset",
+      "是否有例外": "无"
+    },
+    {
+      "条目": "拒绝'纯粹程序正义'",
+      "描述": "正义不只是程序——必须有实质性的'两个正义原则'",
+      "原文引用": "Justice as fairness is not purely procedural",
+      "是否有例外": "无"
+    },
+    {
+      "条目": "拒绝'全面性学说'立场",
+      "描述": "政治哲学不是'全面性道德学说'，而是'政治概念'——可以与不同全面性学说兼容",
+      "原文引用": "Justice as fairness does not claim to be true in a comprehensive sense",
+      "是否有例外": "无"
+    },
+    {
+      "条目": "承认'合理多元论'",
+      "描述": "现代民主社会存在不可调和的合理全面性学说——政治哲学必须正视这种多元",
+      "原文引用": "the fact of reasonable pluralism",
+      "是否有例外": "无"
+    },
+    {
+      "条目": "承认'公共理性'",
+      "描述": "公民在政治议题上应使用公共理性而非个人全面性学说",
+      "原文引用": "Public reason is the reason of equal citizens",
+      "是否有例外": "无"
+    }
+  ],
+  "自我定位": {
+    "描述": "政治哲学家（political philosopher）而非'全面性道德学家'。把自己定位为'反思平衡'的实践者——既不预设绝对基础，也不放弃寻找公正原则。",
+    "原文引用": [
+      "The aim of political philosophy, when things go well, is to bring our considered judgments into reflective equilibrium（《政治自由主义》第一讲）",
+      "I do not claim to be a comprehensive liberal... my view is a political conception that can be supported by different comprehensive doctrines（多次访谈与论文）"
+    ],
+    "与时代关系": "既属于英美分析哲学传统（与 J. S. Mill、Cohen、Singer 关联），又批判这一传统的某些预设（如纯粹程序正义）。始终保持内部批判距离。"
+  },
+  "思想内部张力": {
+    "主要矛盾": "(1) 全面性自由主义 vs 政治自由主义：1993 年的转向——这是真实发展而非矛盾。(2) 个人权利 vs 差别原则：第一原则（基本自由）优先于第二原则（差别原则），但这种'词典式序列'是否合理仍有争议。(3) 国内正义 vs 国际正义：《万民法》是否充分处理全球正义（科恩、博格批评）是开放问题。",
+    "深层原因": "罗尔斯的'反思平衡'立场本身就是对'绝对基础'与'相对主义'的双重拒绝——既不预设绝对真理，也不放弃寻找公正原则。这种立场让他的理论始终保持'可修正'与'可对话'的特征。",
+    "对人格的影响": "罗尔斯本人极度谨慎、不夸张；与诺齐克、桑德尔、哈贝马斯等保持尊重的对话关系；在《政治自由主义》中明确承认自己不是'全面性自由主义者'，而是'政治自由主义者'。"
+  },
+  "distillation_method": "Wikipedia + SEP（2 源交叉验证）；所有结论均有原文支撑。"
+}

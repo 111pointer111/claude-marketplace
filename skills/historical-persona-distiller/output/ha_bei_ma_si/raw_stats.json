@@ -1,0 +1,99 @@
+{
+  "persona_id": "ha_bei_ma_si",
+  "name": "哈贝马斯 (Jürgen Habermas)",
+  "lifespan": "1929-06-18 — 2026-03-14",
+  "dynasty": "20-21世纪德国",
+  "priority": "high",
+  "persona_type": "historical_figure",
+  "language": "德语 (German)",
+  "distilled_at": "2026-07-19",
+  "persona_version": "1.0",
+  "stats": {
+    "biography_words": 4500,
+    "direct_quotes_count": 45,
+    "commentary_segments": 8,
+    "primary_sources": 7,
+    "stages": 5,
+    "dimensions": 6,
+    "raw_files": [
+      "raw/ha_bei_ma_si/传记.txt",
+      "raw/ha_bei_ma_si/引语.txt",
+      "raw/ha_bei_ma_si/后世评述.txt",
+      "raw/ha_bei_ma_si/全部语料.txt"
+    ],
+    "output_files": [
+      "output/ha_bei_ma_si/SKILL.md",
+      "output/ha_bei_ma_si/README.md",
+      "output/ha_bei_ma_si/METADATA.json",
+      "output/ha_bei_ma_si/CITATIONS.md",
+      "output/ha_bei_ma_si/EVENTS.md",
+      "output/ha_bei_ma_si/VOICE.md",
+      "output/ha_bei_ma_si/raw_stats.json"
+    ],
+    "processed_files": [
+      "processed/ha_bei_ma_si/stages.md",
+      "processed/ha_bei_ma_si/dimension_思想内核.json",
+      "processed/ha_bei_ma_si/dimension_语言特征.json",
+      "processed/ha_bei_ma_si/dimension_表达偏好.json",
+      "processed/ha_bei_ma_si/dimension_立场光谱.json",
+      "processed/ha_bei_ma_si/dimension_voice_profile.json",
+      "processed/ha_bei_ma_si/consistency_check.md"
+    ]
+  },
+  "primary_sources": [
+    "Wikipedia (EN) — https://en.wikipedia.org/wiki/J%C3%BCrgen_Habermas",
+    "Stanford Encyclopedia of Philosophy — https://plato.stanford.edu/entries/habermas/",
+    "Müller-Doohm 2016 哈贝马斯传记",
+    "Gordon Finlayson 学派分类研究",
+    "Baynes 1995 '双轨民主理论' 概括",
+    "Phillippe Portier 宗教三阶段分析",
+    "2026 年 3 月讣告综合（The Guardian, FAZ, LRB, NYRB, Reuters）"
+  ],
+  "key_works": [
+    "Strukturwandel der Öffentlichkeit (1962)",
+    "Erkenntnis und Interesse (1965)",
+    "Theorie des kommunikativen Handelns (1981, 2 Bände)",
+    "Moralbewußtsein und kommunikatives Handeln (1983)",
+    "Der Philosophische Diskurs der Moderne (1985)",
+    "Faktizität und Geltung (1992)",
+    "Die Einbeziehung des Anderen (1996)",
+    "Die Postnationale Konstellation (1998)",
+    "Zwischen Naturalismus und Religion (2005)",
+    "Dialektik der Säkularisierung (2006, mit Ratzinger)",
+    "Auch eine Geschichte der Philosophie (2019, 2 Bände)"
+  ],
+  "key_concepts": [
+    "交往行为 (kommunikatives Handeln)",
+    "交往理性 (kommunikative Vernunft)",
+    "话语伦理学 (Diskursethik)",
+    "公共领域 (Öffentlichkeit)",
+    "生活世界 (Lebenswelt)",
+    "系统 (System)",
+    "宪法爱国主义 (Verfassungspatriotismus)",
+    "后世俗社会 (postsäkulare Gesellschaft)",
+    "普遍语用学 (Universalpragmatik)",
+    "理想言语情境 (ideale Sprechsituation)",
+    "施行性矛盾 (performativer Widerspruch)",
+    "后形而上学思维 (nachmetaphysisches Denken)"
+  ],
+  "key_debates": [
+    "实证主义之争 (1961–1969) — Popper, Albert",
+    "与伽达默尔的诠释学之争 (1970s)",
+    "与福柯的权力/理性之争 (1980s)",
+    "与罗尔斯的政治哲学之争 (1995)",
+    "与德里达 1980-90s 论战 → 2003 共识",
+    "Historikerstreit 历史学家之争 (1986)",
+    "与 Ratzinger 的世俗化辩证法对话 (2004)"
+  ],
+  "stage_confidence": {
+    "overall": "high",
+    "rationale": "7 个不同来源交叉验证，包含 45 条直接引语，5,200 字综合语料，足以支撑 high confidence 评级"
+  },
+  "quality_check": {
+    "quotes_traceable": true,
+    "stage_confidence_appropriate": true,
+    "cross_validation_count": 7,
+    "single_source_risk": false,
+    "llm_overinterpretation_risk": "low"
+  }
+}

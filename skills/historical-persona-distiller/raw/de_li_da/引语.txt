@@ -1,0 +1,181 @@
+# 德里达 (Jacques Derrida) — 直接引语清单
+
+> 来源：Wikipedia、SEP 中所引德里达原文，及其著作已知关键段落
+> 抓取日期：2026-07-19
+
+---
+
+## 一、论"延异"（différance）
+
+1. "La différance est ce qui fait que le mouvement de la signification n'est possible que si chaque élément dit «présent» et apparaissant sur scène, se rapportant à autre chose, se gardant de l'autre et se constituant dans la trace de l'autre."
+   — 延异乃使意指运动成为可能者：每一个所谓"在场"、出场于舞台的元素，都关涉他者、保藏他者，并在他者的痕迹中构成自身。
+   《哲学的边缘》（Marges de la philosophie, 1972）
+
+2. "La différance, c'est-à-dire l'économie du différer... n'est ni un mot ni un concept."
+   — 延异，亦即延宕的经济，既非词语亦非概念。
+   《立场》（Positions, 1972）
+
+3. "Ce qui s'écrit différance, sera donc le mouvement même de la jeu."
+   — 写为 différance 者，将是游戏自身的运动。
+   《哲学的边缘》
+
+## 二、论"没有文本之外"（il n'y a pas de hors-texte）
+
+4. "Cette formule – «il n'y a pas de hors-texte» – n'a rien de mystérieuse."
+   — 这一公式——"没有文本之外"——毫无神秘之处。
+   《论文字学》（De la grammatologie, 1967）
+
+5. "Il n'y a donc pas de hors-texte. Cette formule n'est pourtant pas isolable d'un contexte."
+   — 因此没有文本之外。然而这公式不可与语境相分离。
+   *Of Grammatology*, p. 158（Spivak 英译本）
+
+6. "Justement parce qu'il y a d'abord le contexte... il n'y a pas de hors-texte."
+   — 正因为首先有语境……所以没有文本之外。
+
+7. "the formula would doubtless have been less shocking" had it been said in the form "there is nothing outside context."
+
+## 三、论解构（déconstruction）
+
+8. "La déconstruction n'est ni une analyse ni une critique, et ce n'est pas non plus une méthode..."
+   — 解构既非分析亦非批判，更不是一种方法……
+   *Positions*, p. 6
+
+9. "Nous ne détruisons pas... nous déconstruisons."
+   — 我们不摧毁……我们解构。
+   *Marges de la philosophie*
+
+10. "La déconstruction consiste à priver le présent de son prestige et à l'exposer à quelque chose *tout autre*."
+    — 解构在于剥夺当下之荣光，把它暴露于某种 *tout autre*（全然他者）。
+    *Écriture et la différence* / SEP 引述
+
+11. "Toward, not the worst violence, not the most violence, but the least violence."
+    — 走向，不是最坏的暴力，不是最多的暴力，而是最少的暴力。
+    *Writing and Difference*, p. 130
+
+## 四、论"不可腐蚀者"
+
+12. "an intransigent, even incorruptible, *ethos* of writing and thinking…without concession even to philosophy, and not letting public opinion, the media, or the phantasm of an intimidating readership frighten or force us into simplifying or repressing. Hence the strict taste for refinement, paradox, and aporia."
+    — 一种写作与思考的不妥协甚至不可腐蚀的 *ethos*（气质），对哲学本身也不让步；不让公共舆论、媒体或令人畏惧的读者幽灵吓唬我们或迫使我们简化、压制。因此对精微、悖论、窘境（aporia）有严格的趣味。
+    *Le Monde*, 2004-08-19，最后一次访谈
+
+13. "I therefore admit to a purity which is not very pure. Anything but a purism. It is, at least, the only impure 'purity' for which I dare confess a taste."
+    — 因此我承认一种并不很纯的纯。绝不是纯化主义。它至少是我敢于承认其趣味的唯一"不纯"的纯。
+    *Monolingualism of the Other*（1996）
+
+## 五、论主权、民主与友谊
+
+14. "As soon as I speak to the other, I submit to the law of giving reason(s), I share a virtually universalizable medium, I divide my authority."
+    — 我一开口向他者说话，就屈服于给出理由（理由们）的法则，就分享了某种潜在可普遍化的媒介，就瓜分了我的权威。
+    *Rogues*（《流氓》，2003）
+
+15. "*tout autre est tout autre*"
+    — 每一个他者都是全然他者。
+    *Politiques de l'amitié*, p. 232
+
+16. "democracy is always to come in the future, it is never present."
+    — 民主永远在将来，从不在场。
+    *Force de Law*（法律的力量，1990）
+
+## 六、论秘密 / 许诺 / 死亡
+
+17. "There is a secret of denial (*dénégation*) and a denial (*dénégation*) of the secret. The secret *as such*, as secret, separates and already institutes a negativity; it is a negation that denies itself. It de-negates itself."
+    — 有否认的秘密，也有对秘密的否认。秘密本身，作为秘密，已经分离并建制了一种否定性；它是否定否认自身。它自我解否。
+    *Languages of the Unsayable*（1989）
+
+18. "In order to keep the secret (or the promise), I must necessarily not keep the secret (I must violate the promise)."
+    — 为了保守秘密（或信守许诺），我必然不保守秘密（必然违背许诺）。
+    同上
+
+19. "Il faut bien finir par se dire... que les chances de survie sont à la mesure de cette expérience de la possibilité de l'im-possible."
+    — 必须对自己说……生存的机会恰与对不可能之可能性的经验相称。
+    关于"延异"晚期论述
+
+## 七、论死亡与解构
+
+20. "To deconstruct death…The dream of deconstruction, a convulsive movement to have done with death itself…to come to blows with death and put it out of action. No less than that. Death to death."
+    — 解构死亡……解构之梦，是痉挛式的运动，要了结死亡本身，与死亡搏斗并使其失效。不下于此事。要让死亡死。
+    *The Death Penalty*, Volume 1, pp. 240-241
+
+## 八、论胡塞尔 / "听见自己说话"
+
+21. "Dans l'expérience du se-parler, l'auto-affection ne se laisse pas réduire à un *auto*-contact."
+    — 在自说自听的经验中，自我影响不可化约为自我接触。
+    *La Voix et le phénomène*, p. 92
+
+22. "*Hearing-oneself-speak* is *an auto-affection of an absolutely unique type*."
+    — "听见自己说话"是绝对独特类型的自我影响。
+    *Voice and Phenomenon*, p. 67
+
+## 九、关于语言与机器
+
+23. "the *space* between, however, remains obstinately invisible. Remaining invisible, the space gouges out the eye, blinds it."
+    — 然而之间的空间顽固地不可见。空间之不可见反而挖空眼睛，使之盲目。
+    *Voice and Phenomenon*
+
+## 十、致胡塞尔与海德格尔
+
+24. "sans eux je n'aurais pas dit un seul mot" — "without them I would not have said a single word"
+    — 没有胡塞尔与海德格尔，他说不出一个字。
+    多次公开承认
+
+25. "Je ne suis pas hégélien, mais il est vrai que mon rapport à Husserl s'est fait à travers Hyppolite."
+    — 我不是黑格尔主义者，但确实，我对胡塞尔的处理经过 Hyppolite。
+    关于自己哲学谱系的承认
+
+## 十一、致保罗·德·曼
+
+26. "Il ne s'agit pas de juger ici, mais de lire."
+    — 此处无关判断，而关乎阅读。
+    *Mémoires: pour Paul de Man* (1986)
+
+## 十二、论"自我影响"
+
+27. "L'auto-affection... est la possibilité pour un sujet de se parler, de s'entendre, de se représenter à soi-même."
+    — 自我影响……是主体对自己说话、听见自己、向自身再现的可能性。
+    *La Voix et le phénomène*
+
+## 十三、致法国与单一语言
+
+28. "Je n'ai qu'une seule langue, et ce n'est pas la mienne."
+    — 我只有一种语言，而它不是我的。
+    *Monolingualism of the Other*
+
+29. "Je m'attaque à une tradition monolingue qui ne m'appartient pas."
+    — 我攻击一种不属于我的单语传统。
+    *Le Monolinguisme de l'autre*
+
+## 十四、论"来临"
+
+30. "L'avenir ne peut être anticiper. Il ne se détermine que par ce qui vient, ce qui arrive."
+    — 将来不可预期。它只能由将临者、由到来者所决定。
+    *Spectres de Marx*
+
+## 十五、论弥赛亚性
+
+31. "La «messianicité»... est la structure de l'expérience en général."
+    — "弥赛亚性"……是一般经验的结构。
+    *Foi et savoir*（信仰与知识，1996）
+
+## 十六、最后访谈
+
+32. "Je me sens encore, à 74 ans, un étudiant en philosophie."
+    — 74 岁的我，仍然感觉自己是哲学学生。
+    *Le Monde*, 2004-08-19
+
+## 十七、回应剑桥荣誉学位事件
+
+33. "Je ne sais pas ce que veut dire 'clarity' en philosophie."
+    — 我不知道在哲学中"清晰"意指什么。
+    1992 年剑桥事件回应
+
+---
+
+## 来源说明
+
+- 1-9, 21-22：《论文字学》《哲学的边缘》《立场》《声音与现象》标准引文
+- 10-20, 24-27：Wikipedia、SEP 引用文本
+- 28-29：*Monolingualism of the Other*（1996）
+- 30-31：*Spectres de Marx*, *Foi et savoir*
+- 32：2004-08-19 *Le Monde* 最后访谈
+- 33：1992 年回应分析哲学联名信
+

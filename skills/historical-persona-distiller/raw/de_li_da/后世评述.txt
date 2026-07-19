@@ -1,0 +1,72 @@
+# 德里达 (Jacques Derrida) — 后世评述
+
+> 来源：综合 Wikipedia、SEP、剑桥事件文件、媒体报道
+> 抓取日期：2026-07-19
+
+---
+
+## 一、Searle 评述 / 论争背景
+
+John Searle 在 1977 年发表"Reiterating the Differences: A Reply to Derrida"，强烈反驳德里达在 1971 年《签名事件语境》一文中对 Austin 言语行为理论的解读。Searle 指控德里达误读了 Austin 的 intention/meaning 概念，并将解构简化为"任何东西都可以是任何东西"的相对主义。
+
+德里达以长达 90 页的《Limited Inc a b c》（英文，发表于 *Glyph* 期刊）回应。在文中他将 Searle 称为"Sarl"——用戏谑的方式（甚至在结构上）挪用了 Searle 文本的句法，演示了 Searle 自身论证中的"衍指"（referential）运作。
+
+这场论争的实质：分析哲学传统（以 Searle 为代表）认为意义由说话者的意图与言语行为的真诚性条件（sincerity conditions）所固定；解构传统则论证任何"在场"的意图都已经被差异、痕迹、引用所中介，必然包含"自我解构"。
+
+> Searle 的核心指控："Derrida's approach to Austin seems to me to be an inverted sort of Austin. He has taken a performative utterance, attributed to it an illocutionary force that I never intended, and then criticized me for not having given it the correct interpretation."（大致：德里达颠倒了 Austin，将一个我从无此意的施为力量归给了他，然后又批评我未给出正确解释。）
+
+## 二、Cixous / "不可腐蚀者"评述
+
+Hélène Cixous 将这一代法国哲学家（德里达、福柯、阿尔都塞、利奥塔、巴特等）称为"不可腐蚀者"。她在自传体作品及访谈中反复描述德里达为：
+- 一个"思考自我（moi）的极端孤独者"
+- 在公开场合显得"几乎是怯懦的温柔"，但写作中却"以极其锐利的精确性切割概念"
+- 是一位"既害怕又渴望友谊"的哲学家——这一形象贯穿他的《友谊政治学》《哀悼的工作》
+
+Cixous 回忆在 ENS 时期与德里达、巴特的散步时光："他们能在咖啡馆坐八小时，只为了找到一个名字能否容纳一个概念的恰当证据。"
+
+## 三、剑桥事件与英语世界分析哲学的反弹
+
+1992 年剑桥大学授予德里达荣誉学位，Quine（蒯因）、Marcus、Armstrong 等联名致信《泰晤士报》：
+
+> "Derrida's work does not meet accepted standards of clarity and rigour…academic status based on what seems to us to be little more than semi-intelligible attacks upon the values of reason, truth, and scholarship is not, we submit, sufficient grounds for the awarding of an honorary degree."
+
+这成为英语分析哲学与欧陆哲学分歧的标志性事件之一。德里达回应（也在 *Limited Inc* 风格的访谈中）"我不知道在哲学中'清晰'意味着什么"。
+
+后期理查德·罗蒂公开为德里达辩护："哲学不是非要把一切变得容易，它是要给事物重新命名。"
+
+## 四、Paul de Man 事件（1987）
+
+1987 年发现保罗·德·曼在 1940-42 年比利时被占领期间，曾在通敌的 *Le Soir* 副刊上发表了数十篇含反犹、亲纳粹倾向的文学评论。德里达此时已在写作《Mémoires: pour Paul de Man》（1986）和论文 "Like the Sound of the Sea Deep within a Shell: Paul de Man's War"（1988）。
+
+争议焦点：
+- 批评者（如 Barbara Johnson 后期、Christopher Norris 早期等部分论者）认为德里达"最小化"了 de Man 反犹文字的严重性
+- 辩护者指出德里达从未否认 de Man 的政治污点，而是强调"在文本内部，文本的'政治'与'文学'无法完全分离"
+- 这场争议本身成为"作者意图 / 文本阅读"问题的一个具体案例，揭示了德里达自身理论的伦理边界
+
+## 五、对马克思/福山的回应
+
+1993 年 *Specters of Marx*（《马克思的幽灵》）出版，正值福山《历史的终结》风行。德里达论证：福山的"自由民主胜利"叙事本身是"幽灵的缺席"——它试图否认黑格尔—马克思所揭示的"时代精神"（*Zeitgeist*）始终包含未解的债务（hauntology）。
+
+马克思的"幽灵般在场"（"Un spectre hante l'Europe"）在德里达读来不是修辞，而是形而上学陈述：任何在场都已经包含对过去的债务，未来永远受到未兑现许诺的纠缠。
+
+## 六、海德格尔"精神"问题（《论精神》1987）
+
+1987 年 *De l'esprit*（论精神）发表，介入当时法国学界关于海德格尔的政治问题（Victor Farías 1987 *Heidegger et le nazisme* 出版引发争论）。德里达精细追溯"Geist"（精神）一词在海德格尔思想中的命运：早期被推崇、1930 年代后被压抑——海德格尔试图压抑"精神"以避免人类学与人文主义的危险，而德里达认为这种压抑本身是"对精神的另一种精神"。
+
+## 七、Hommelhoff / 海德堡校长的悼词
+
+> "Beyond the boundaries of philosophy as an academic discipline he was a leading intellectual figure not only for the humanities but for the cultural perception of a whole age."
+
+## 八、对"解构"的常见误解（重要正本清源）
+
+1. **"解构 = 摧毁"** —— 错误。解构不是"否定"或"破坏"，而是一种"双重阅读"（double reading）：既保留被解构文本的"在场"主张，又暴露其内部的"延异"运作。
+2. **"解构 = 相对主义/什么都可以"** —— 错误。德里达反复强调"延异不是相对主义"，而是"条件"——解构是严格的、文本内的、针对文本自身逻辑的工作。
+3. **"解构 = 怀疑论"** —— 错误。德里达不"怀疑"真理，而是追问"真理"作为在场（présence à soi）的形而上学预设。
+4. **"解构 = 文学游戏"** —— 错误。晚期著作（《法律的力量》《死亡的馈赠》《马克思的幽灵》）证明解构完全介入伦理学、政治学、神学与法学。
+
+## 九、对中国的接受
+
+德里达 2001 年访问中国大陆与上海社会科学院、华东师大等机构对话。在中国学界，他与现象学、解释学一同被作为"欧陆哲学"代表；他的"延异"概念在汉语翻译中经历了"延异 / 异延 / 差延"等不同译法，反映出概念本身的不可译性。
+
+中国学者多认为：德里达理论在中文语境中容易"形而上学化"或"文学化"，但他晚期的伦理学、政治哲学转向（友谊、款待、宽恕、死亡）反而更具现实意义。
+

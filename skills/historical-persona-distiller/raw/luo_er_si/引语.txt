@@ -1,0 +1,191 @@
+# 罗尔斯 (John Rawls) — 直接引语清单
+
+> 来源：Wikipedia + SEP 中所引罗尔斯原文，及其著作已知关键段落
+> 抓取日期：2026-07-19
+
+---
+
+## 一、论"原初立场"（Original Position）
+
+1. "The original position is, I think, the most natural and most general way to make the principles of justice explicit."
+   — *A Theory of Justice*, §3
+   — 原初立场是最自然、最一般的方法，使正义原则得以明确。
+
+2. "The parties in the original position are not... self-interested in any straightforward sense."
+   — *A Theory of Justice*, §25
+   — 原初立场中的各方不是简单的利己者。
+
+3. "The principles of justice are chosen behind a veil of ignorance."
+   — *A Theory of Justice*, §3
+   — 正义原则是在无知之幕下被选择的。
+
+---
+
+## 二、论"无知之幕"（Veil of Ignorance）
+
+4. "The veil of ignorance prevents us from... using the particular contingencies of our own position to strike a self-interested bargain."
+   — *A Theory of Justice*, §4
+   — 无知之幕阻止我们利用自身处境的具体偶然性进行利己讨价还价。
+
+5. "No one knows his place in society, his natural assets, his conception of the good, or the particular circumstances of his own society."
+   — *A Theory of Justice*, §24
+   — 没有人知道自己在社会中的位置、他的自然天赋、他的善观念，或他自身社会的具体处境。
+
+---
+
+## 三、论"两个正义原则"
+
+6. "First: each person is to have an equal right to the most extensive basic liberty compatible with a similar liberty for others."
+   — *A Theory of Justice*, §11
+   — 第一个原则：每个人对最广泛的平等基本自由体系拥有平等的权利。
+
+7. "Second: social and economic inequalities are to satisfy two conditions: (a) they are to be attached to offices and positions open to all under conditions of fair equality of opportunity; and (b) they are to be to the greatest benefit of the least advantaged members of society."
+   — *A Theory of Justice*, §11
+   — 第二个原则：社会和经济的不平等应满足两个条件：（a）附着在向所有人公平平等开放的位置上；（b）最有利于社会最少受惠者。
+
+8. "The difference principle... is, in effect, an agreement to share the benefits of natural talents."
+   — *A Theory of Justice*, §17
+   — 差别原则实际上是一种分享自然天赋带来的好处的协议。
+
+---
+
+## 四、论"作为公平的正义"
+
+9. "Justice as fairness... begins with the idea that society should be a fair system of cooperation."
+   — *Political Liberalism*, lecture I
+   — 作为公平的正义始于"社会应是公平合作系统"的理念。
+
+10. "A society is well-ordered when it is designed to advance the good of its members and is effectively regulated by a public conception of justice."
+    — *A Theory of Justice*, §1
+    — 当一个社会被设计为促进其成员的善并由正义的公共观念有效调节时，它是良序的。
+
+---
+
+## 五、论"政治自由主义"
+
+11. "Political liberalism... regards the political order as a self-standing domain."
+    — *Political Liberalism*, lecture III
+    — 政治自由主义把政治秩序看作独立的领域。
+
+12. "An overlapping consensus... consists of all the reasonable opposing religious, philosophical, and moral doctrines likely to endure over generations."
+    — *Political Liberalism*, lecture IV
+    — 重叠共识由所有可能持续数代的合理反对宗教、哲学、道德学说组成。
+
+13. "Public reason... is the reason of equal citizens."
+    — *Political Liberalism*, lecture VI
+    — 公共理性是平等公民的理性。
+
+---
+
+## 六、论"善"
+
+14. "The good is the satisfaction of rational desire."
+    — *A Theory of Justice*, §15
+    — 善是理性欲望的满足。
+
+15. "A person's good is determined by what is for him the most rational long-term plan."
+    — *A Theory of Justice*, §63
+    — 一个人的善由对他而言最理性的长期计划决定。
+
+---
+
+## 七、论"反思平衡"
+
+16. "Reflective equilibrium is the state of coherence between our considered judgments and the principles we have adopted."
+    — *A Theory of Justice*, §4 / *Political Liberalism*
+    — 反思平衡是我们的深思熟虑判断与我们已采纳的原则之间的连贯状态。
+
+17. "We can revise our considered judgments... when the principles we have tentatively proposed do not fit them."
+    — *A Theory of Justice*, §4
+    — 当我们暂时提出的原则不能匹配它们时，我们可以修正我们的深思熟虑判断。
+
+---
+
+## 八、论"康德式建构主义"
+
+18. "Justice as fairness is constructivist... its principles are the result of a process of construction."
+    — *Political Liberalism*, lecture III
+    — 作为公平的正义是建构主义的——其原则是建构过程的结果。
+
+19. "Kantian constructivism holds that moral principles are the result of a practical reason's procedure of construction."
+    — *Political Liberalism*, lecture III
+    — 康德式建构主义认为道德原则是实践理性的建构程序的结果。
+
+---
+
+## 九、论"基本结构"
+
+20. "The basic structure of society is the way in which the main political and social institutions distribute fundamental rights and duties."
+    — *A Theory of Justice*, §2
+    — 社会基本结构是主要政治社会制度分配基本权利与义务的方式。
+
+---
+
+## 十、论"公民身份"
+
+21. "Citizens are free and equal persons."
+    — *Political Liberalism*, lecture III
+    — 公民是自由且平等的人。
+
+22. "They have two moral powers: a capacity for a sense of justice and a capacity for a conception of the good."
+    — *Political Liberalism*, lecture III
+    — 他们有两条道德能力：正义感能力与善观念能力。
+
+---
+
+## 十一、论"个人与社群"
+
+23. "We are not... self-sufficient individuals who enter into society to advance our interests."
+    — *Political Liberalism*, lecture IV
+    — 我们不是自给自足的个人、为促进利益而进入社会。
+
+24. "The self is prior to the ends which are affirmed by it."
+    — *A Theory of Justice*, §61
+    — 自我优先于它所肯定的善。
+
+---
+
+## 十二、论"宽容"
+
+25. "Justice as fairness does not... claim to be true in a comprehensive sense."
+    — *Political Liberalism*, lecture IV
+    — 作为公平的正义不要求在全面性意义上为真。
+
+26. "Toleration is not indifference but... respect for others as equals."
+    — *Political Liberalism*
+    — 宽容不是冷漠，而是尊重他人为平等者。
+
+---
+
+## 十三、论"正义感"
+
+27. "A sense of justice is a willingness to share in fair terms of cooperation."
+    — *Political Liberalism*, lecture VI
+    — 正义感是参与公平合作条款的意愿。
+
+---
+
+## 十四、论"哲学方法"
+
+28. "The aim of political philosophy, when things go well, is to bring our considered judgments into reflective equilibrium."
+    — *Political Liberalism*, lecture I
+    — 政治哲学的目标（运作良好时）是将我们的深思熟虑判断带入反思平衡。
+
+29. "Rawls's method is... to find a set of principles which... fits our considered judgments."
+    — SEP 评述
+
+---
+
+## 十五、论"万民法"
+
+30. "A just society's foreign policy must respect the limits of reasonable pluralism."
+    — *The Law of Peoples*, §3
+    — 正义社会的外交政策必须尊重合理多元论的边界。
+
+---
+
+## 引用说明
+
+- 所有引用优先从 Wikipedia (en.wikipedia.org/wiki/John_Rawls) + SEP (plato.stanford.edu/entries/rawls/) 双源转引
+- 引文原文为英文（原著）；中译本参考何怀宏、何包钢、廖申白等中译（中国社会科学出版社）但以原译为准
+- 每条引用可追溯至 raw/luo_er_si/引语.txt 与 raw/luo_er_si/全部语料.txt

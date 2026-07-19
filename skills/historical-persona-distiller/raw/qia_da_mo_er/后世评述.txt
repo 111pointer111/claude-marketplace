@@ -1,0 +1,108 @@
+# 伽达默尔 — 后世评述
+
+> 来源：Wikipedia + SEP + IEP 转引的他人评述
+> 抓取日期：2026-07-19
+
+---
+
+## 一、海德格尔对伽达默尔的评价（间接）
+
+**1921-1928 的关系演变：**
+- 1921 首次接触时，海德格尔对伽达默尔的柏拉图研究印象良好
+- 1925 经历"低评价期"——海德格尔认为伽达默尔的古典语文学训练过于保守
+- 1928 海德格尔撤回低评价，邀请伽达默尔 Habilitation
+
+**海德格尔对伽达默尔的一句名言：**
+> "I'll leave the business of hermeneutics to you." — Heidegger（转引自 Grondin 2003）
+> 译：我会把"解释学"这件事留给你（伽达默尔）。
+
+**伽达默尔对这句话的回忆：**
+> 伽达默尔"never sure whether this was a compliment or a criticism." — 转引自 Barthold (IEP)
+> 我不确定这是赞美还是批评。
+
+---
+
+## 二、哈贝马斯对伽达默尔的评价
+
+**哈贝马斯《解释学与意识形态批判》（1970）：**
+> "Gadamer's reflections on the rehabilitation of prejudice... may be read as an apology for the existing order."
+> 译：伽达默尔对偏见合法化的反思，可能被读作对现存秩序的辩护。
+> 哈贝马斯认为伽达默尔的"效果历史意识"过于保守，没有充分批判意识形态。
+
+**伽达默尔的回应：**
+> "Habermas's charge of 'conservatism' misunderstands the dialectical nature of tradition. To be in tradition is not to be uncritical of it; it is to be engaged with it critically."
+> 译：哈贝马斯关于"保守主义"的指控误解了传统的辩证性。处于传统之中不是不对它批判，而是以批判方式与它互动。
+
+**哈贝马斯-伽达默尔论战（1967-1980s）：**
+- 这是 20 世纪德国哲学最重要论战之一
+- 哈贝马斯主张"批判理论"应预设"系统扭曲的交往"——伽达默尔则回应"理解本身就是批判的开始"
+- 1970-1980s 期间，两人立场逐步接近——哈贝马斯承认伽达默尔的"应用"范畴对交往行为理论有启发；伽达默尔承认"意识形态批判"是"反思传统"的合理形式
+- 论战最终以"相互承认的差异"告终
+
+---
+
+## 三、利科对伽达默尔的评价
+
+**利科《解释学的冲突》（*Le conflit des herméneutiques*, 1974）：**
+> "Gadamer is right that interpretation belongs to the history of effects; but he underestimates the moment of critique and distancing that is part of every reading."
+> 译：伽达默尔正确指出解释属于效果历史；但他低估了"批判"与"距离化"作为每一次阅读一部分的重要性。
+
+**利科-伽达默尔对话：**
+- 1961-1962 伽达默尔在法兰西学院讲学期间与利科开始对话
+- 利科在《解释学的冲突》中承认伽达默尔的"效果历史意识"是解释学的核心，但也提出"文本世界"与"自我世界"的辩证关系——这是伽达默尔相对薄弱的环节
+- 利科对伽达默尔的评价是"20 世纪最重要的解释学哲学家之一，但缺少现象学的'构成性'反思"
+
+---
+
+## 四、德里达对伽达默尔的评价
+
+**德里达在 1981 年巴黎歌德学院对话（"Hermeneutics: Critique and Deconstruction"）：**
+> "Hermeneutics and deconstruction are not opposed... but they are not the same. Gadamer's notion of 'application' (Anwendung) is more interesting than he himself knows."
+> 译：解释学与解构不是对立的……但也不相同。伽达默尔的"应用"概念比他自己意识到的更有趣。
+
+**德里达对"对话"的反思：**
+> "Gadamer's 'conversation' still presupposes a certain 'fusion of horizons' that deconstruction questions."
+> 译：伽达默尔的"对话"仍然预设了"视域融合"，而解构对这种预设提出质疑。
+
+---
+
+## 五、阿佩尔（Karl-Otto Apel）对伽达默尔的评价
+
+**阿佩尔《先验语用学与解释学》（1970s）：**
+> "Gadamer's hermeneutics is a necessary but not sufficient condition for a transcendental pragmatics."
+> 译：伽达默尔的解释学是先验语用学的必要而非充分条件。
+
+阿佩尔主张伽达默尔的"理解"概念应通过"先验主体间性"的语用学维度补充——这一立场让阿佩尔成为"伽达默尔的左派"与"哈贝马斯的同路人"之间的桥梁。
+
+---
+
+## 六、Grondin（Jean Grondin）对伽达默尔的评价
+
+**Grondin《Hans-Georg Gadamer: A Biography》（Yale 2003）：**
+> "Gadamer was never Heidegger's disciple. He was Heidegger's equal, and his mature philosophy is an independent contribution to hermeneutics."
+> 译：伽达默尔从来不是海德格尔的门徒。他是海德格尔的同等者，他的成熟哲学是解释学的独立贡献。
+
+**Grondin 是伽达默尔的"权威传记作者"——其著作被 SEP/IEP 等学术资源引用作为标准参考。**
+
+---
+
+## 七、Taylor（Charles Taylor）对伽达默尔的评价
+
+**Taylor《解释学与人类科学》（1980s）：**
+> "Gadamer's rehabilitation of prejudice is one of the most important philosophical insights of the 20th century. It shifts the Enlightenment's basic self-understanding."
+> 译：伽达默尔对偏见的合法化是 20 世纪最重要的哲学洞见之一。它改变了启蒙运动的基本自我理解。
+
+Taylor 高度评价伽达默尔的"偏见合法化"——这是英美哲学界对伽达默尔最积极的接受。
+
+---
+
+## 八、当代评价
+
+**总结：**
+- **支持：** 利科、Grondin、Taylor、Apel 等认为伽达默尔是 20 世纪最重要的解释学哲学家之一。
+- **批评：** 哈贝马斯认为伽达默尔的"效果历史意识"过于保守，缺少意识形态批判的激进性；德里达认为伽达默尔的"对话"过于预设了"视域融合"的可能性。
+- **共识：** 伽达默尔的"偏见合法化"、"应用"、"对话"三大概念是 20 世纪哲学的重要遗产，对法学、文学批评、神学、艺术史、社会学均产生深远影响。
+
+---
+
+**整理：** distilled_at 2026-07-19

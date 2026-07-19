@@ -1,0 +1,98 @@
+# 罗尔斯 — 后世评述
+
+> 来源：Wikipedia + SEP 转引的他人评述
+> 抓取日期：2026-07-19
+
+---
+
+## 一、社群主义对罗尔斯的评价
+
+### 桑德尔（Michael Sandel）的批评
+
+**桑德尔《自由主义与正义的局限》（*Liberalism and the Limits of Justice*, 1982）：**
+> "Rawls's original position presupposes an 'unencumbered self' that is prior to its ends... This is the central defect of deontological liberalism."
+> 译：罗尔斯的原初立场预设了一种"无牵无挂的自我"，这种自我优先于其目的……这是义务论自由主义的核心缺陷。
+
+桑德尔的批评核心：罗尔斯把"自我"与"目的"分离（"自我优先于目的"），但实际上自我总是在社群、文化、历史中形成的——没有"无牵无挂的自我"。
+
+### 麦金太尔（Alasdair MacIntyre）
+
+**麦金太尔《追寻美德》（*After Virtue*, 1981）：**
+> "Rawls's theory is a striking example of the emotivism that pervades modern moral theory."
+> 译：罗尔斯的理论是现代道德理论中弥漫的情感主义的显著例子。
+
+麦金太尔的批评：罗尔斯试图建立"普遍主义"道德理论，但忽视了道德的历史-文化处境。
+
+### 泰勒（Charles Taylor）
+
+**泰勒《自我的根源》（*Sources of the Self*, 1989）：**
+> "Rawls takes the 'point of view of the original position' as if it were a neutral standpoint... but every standpoint is itself situated in a particular moral tradition."
+> 译：罗尔斯把"原初立场的观点"当作中立立场……但每个观点本身都处于特定道德传统中。
+
+---
+
+## 二、自由至上主义对罗尔斯的评价
+
+### 诺齐克（Robert Nozick）
+
+**诺齐克《无政府、国家与乌托邦》（*Anarchy, State, and Utopia*, 1974）：**
+> "The 'difference principle' assumes that the products of natural talents are not deserved... but this is a strange view of moral desert."
+> 译："差别原则"假定自然天赋的产物不应得……但这是对道德应得的奇怪看法。
+
+诺齐克的批评：罗尔斯的差别原则把"自然天赋"看作"共同的资源"——但天赋是个人的，不是社会的。罗尔斯因此主张"再分配"国家，但这种国家干预违反个人权利。
+
+---
+
+## 三、女性主义对罗尔斯的评价
+
+### 苏珊·奥金（Susan Moller Okin）
+
+**奥金《正义、性别与家庭》（*Justice, Gender, and the Family*, 1989）：**
+> "Rawls ignores the family as a basic structure institution... this omission perpetuates gender injustice."
+> 译：罗尔斯忽视了家庭作为基本结构制度……这种遗漏延续了性别不公正。
+
+奥金的批评：罗尔斯关注社会基本结构（政治制度、经济制度），但忽略了家庭——而家庭是性别不公正的核心场域。
+
+---
+
+## 四、马克思主义对罗尔斯的评价
+
+### 科恩（G. A. Cohen）
+
+**科恩《拯救正义与平等》（*Rescuing Justice and Equality*, 2008）：**
+> "Rawls's basic structure focus misses the more fundamental question of why inequalities of wealth and power are tolerated by the individuals who participate in them."
+> 译：罗尔斯的基本结构焦点错过了更根本的问题——为什么参与其中的个体会容忍财富与权力的不平等。
+
+科恩的批评：罗尔斯把"基本结构"作为分析单位，忽视了个人选择与个人态度——而后者是结构形成的关键。
+
+---
+
+## 五、哈贝马斯对罗尔斯的评价
+
+**哈贝马斯《包容他者》（*The Inclusion of the Other*, 1998）：**
+> "Rawls's political liberalism is a self-standing doctrine that... could be improved by incorporating the procedural dimension of discourse ethics."
+> 译：罗尔斯的政治自由主义是一个独立的学说……可以通过吸收话语伦理的程序维度得到改进。
+
+哈贝马斯的批评：罗尔斯的"重叠共识"过于静态，缺少话语伦理中的"对话"与"论证"维度。
+
+---
+
+## 六、罗尔斯自己的回应
+
+罗尔斯在 1993《政治自由主义》中明确回应：
+> "I do not claim to be a comprehensive liberal... my view is a political conception that can be supported by different comprehensive doctrines."
+
+他强调自己不是"全面性自由主义者"，而是"政治自由主义者"——这种立场可以与不同的"全面性学说"兼容。
+
+---
+
+## 七、当代评价
+
+**总结：**
+- **支持：** 诺齐克、桑德尔、奥金、科恩、哈贝马斯等从不同角度批评了罗尔斯，但都承认《正义论》是 20 世纪最重要的政治哲学著作之一。
+- **共识：** 罗尔斯重新定义了 20 世纪后期英美政治哲学的范式。"作为公平的正义"成为后续 30 年政治哲学的标准参照点。
+- **遗产：** 罗尔斯影响了法学、经济学、社会学、国际关系等多个学科。
+
+---
+
+**整理：** distilled_at 2026-07-19

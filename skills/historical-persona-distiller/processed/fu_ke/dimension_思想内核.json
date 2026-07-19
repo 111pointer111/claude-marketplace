@@ -1,0 +1,119 @@
+{
+  "persona_id": "fu_ke",
+  "dimension": "思想内核",
+  "distilled_at": "2026-07-19",
+  "核心价值观": [
+    {
+      "条目": "权力与知识共生",
+      "描述": "权力不是压抑性的，而是生产性的：它生产话语、生产主体、生产知识本身。任何'真理'都是权力的产物。这种'权力-知识'（pouvoir-savoir）共生命题贯穿福柯全部成熟作品。",
+      "原文引用": [
+        "power and knowledge directly imply one another（《规训与惩罚》1975）",
+        "We should admit rather that power produces knowledge...（《规训与惩罚》1975）",
+        "Il faut admettre plutôt que le pouvoir produit du savoir（原文法译本）"
+      ],
+      "同时代对比": "区别于马克思主义的'阶级斗争主导论'（福柯不接受基础/上层建筑框架）、区别于法兰克福学派的'意识形态批判'（福柯更关注微观机制而非宏观批判理论）。",
+      "贯穿程度": "始终如一。从 1970 年代法兰西学院讲座到 1975《规训与惩罚》、1976《性史》第一卷全面贯彻。",
+      "实践一致性": "一致。GIP（监狱信息小组）的具体行动（让囚犯直接发言、不做代言）正是这种'反权威知识'的实践。"
+    },
+    {
+      "条目": "话语建构主体",
+      "描述": "人不是先于话语存在的'主体'，而是被话语（discourse）所建构的。疯癫、性、犯人、病人、性的'主体'，都是被特定的话语实践在特定历史时刻生产出来的。话语分析（话语实践）是福柯方法论的核心。",
+      "原文引用": [
+        "Do not ask who I am and do not ask me to remain the same（《知识考古学》1969 方法论自陈）",
+        "Western man has become a confessing animal（《性史》第一卷 1976）",
+        "in every society the production of discourse is at once controlled, selected, organised and redistributed（《话语的秩序》1970 就职演讲）"
+      ],
+      "同时代对比": "区别于萨特的'绝对自由主体'、区别于现象学的'先验自我'、区别于弗洛伊德的'深层欲望主体'。福柯明确拒绝主体的'先天给定性'。",
+      "贯穿程度": "始终如一。晚期'自我技术'转向并不否定此前提，而是追问主体'如何被塑造为道德主体'。",
+      "实践一致性": "一致。GIP 拒斥代言、1971《我，皮埃尔·里维耶》匿名汇编凶手自白都是这种'反主体中心'立场的实践。"
+    },
+    {
+      "条目": "谱系学 vs 起源（反对大写起源 / 反对本质）",
+      "描述": "谱系学（genealogy）反对追寻起源（Ursprung）、本质（essenz）、连续性，主张从外延、偶然、断裂、物质性中追踪历史的'出身'（Herkunft）与'出现'（Entstehung）。这是对尼采《道德的谱系》的承袭与改造。",
+      "原文引用": [
+        "Genealogy does not pretend to go back in time to restore an unbroken continuity... its duty is to respect the singularity of events（*Nietzsche, Genealogy, History*, 1971）",
+        "Where the soul pretends unity, the genealogist sets out to notice the body's multiple and divided systems（尼采论方法）",
+        "La généalogie ne se propose pas de remonter... au cœur d'une continuité（《尼采、谱系学、历史》法文版 1971）"
+      ],
+      "同时代对比": "区别于萨特的存在主义历史哲学（目的论）、区别于结构主义的'系统同时性'。福柯的谱系学是反系统、反目的的'局部史'。",
+      "贯穿程度": "始终如一。1971 年论文确立后贯穿至《规训与惩罚》（1975）的'监狱谱系'。",
+      "实践一致性": "一致。"
+    },
+    {
+      "条目": "治理术（governmentality）与生命权力",
+      "描述": "1977-1979 法兰西学院讲座中提出：现代权力形式从君主主权（'让人死或让人活'）转向生命权力（'让人活或让人死'）。治理术是'对人口的治理'，包括健康、卫生、出生率、安全等。新自由主义是治理术的最新形态。",
+      "原文引用": [
+        "For millennia, the sovereign's right was the right to take life or let live. Then came a time when power was no longer exercised primarily as a right to take life（《性史》第一卷）",
+        "the new technologies of power... address the population（《法兰西学院课程》1977-1978）",
+        "biopolitics: the attempt... to rationalize the problems presented to governmental practice by the phenomena characteristic of a group of living human beings"
+      ],
+      "同时代对比": "区别于古典政治哲学（霍布斯/洛克/卢梭：主权-契约）；区别于阿甘本（生命权力虽受其启发，但福柯更强调'积极生产性'而非阿甘本的'赤裸生命例外'）。",
+      "贯穿程度": "成熟阶段产物（1976-1979），但贯穿其晚期所有课程并影响身后出版讲稿（《说真话》《主体解释学》《对活人的治理》）。",
+      "实践一致性": "一致。1979 伊朗革命报道、1978-79 新自由主义讲稿都是对治理术的具体应用。"
+    },
+    {
+      "条目": "晚期'自我技术'伦理学",
+      "描述": "1980-1984 转向古希腊罗马伦理学：从'主体如何被权力塑造'转向'主体如何主动塑造自己'。'自我技术'（technologies of the self）让个体在不被简单规训的前提下，练习自我治理的'自我伦理学'（aesthetics of existence）。",
+      "原文引用": [
+        "the care of the self... is, in a sense, the opposite of the Cartesian cogito（《自我的关切》1984）",
+        "Maybe the target nowadays is not to discover what we are but to refuse what we are（《性的历史》卷一）",
+        "I have been trying... to see how the subject constitutes itself as subject through practices of the self（1984 伯克利讲座）"
+      ],
+      "同时代对比": "区别于康德式义务伦理（道德法则先于自我）；区别于海德格尔的'本真性'（仍然是被抛的存在）。福柯的'自我技术'是行动中的、自由塑造的伦理学。",
+      "贯穿程度": "晚期深化（1980-1984），并非放弃前期立场，而是补充'主体化'的反向可能性。",
+      "实践一致性": "一致。福柯生前最后阶段对'说真话'（parrhesia）的强调，是'主动说真话的主体'与'被动受规训的主体'之间的批判性综合。"
+    }
+  ],
+  "政治立场": {
+    "描述": "拒绝一切政党的'代言'立场；坚持具体、局部、'自我转化'的政治；与法共（1950-53）决裂后不再加入任何党；介入具体运动（GIP、堕胎权、同性恋权利、伊朗革命报道）但不为其代言。",
+    "原文引用": [
+      "Do not ask who I am and do not ask me to remain the same",
+      "I prefer not to use the word 'politics'... what I do is not political（《权力的眼睛》访谈）",
+      "la véritable coupure... ce n'est pas entre le gauche et le droite（《法兰西学院课程》1979）"
+    ],
+    "时代坐标": "1970 年代法国毛主义退潮、1970s 末新自由主义兴起、1980 年代艾滋病危机。",
+    "内在张力": "福柯拒绝作为'意识形态权威'但其著作本身成为 1970s-80s 后结构主义、酷儿理论、性别研究最重要的引用源——这种'反代言'立场的悖论是其晚期转向'自我技术'的内在动力。",
+    "confidence": "high"
+  },
+  "底线清单": [
+    {
+      "条目": "拒绝代言",
+      "描述": "福柯拒绝为任何群体、阶级、政党代言；强调'让囚犯自己说话'的 GIP 实践",
+      "原文引用": "I prefer not to use the word 'politics'",
+      "是否有例外": "无（虽然他与艾滋病激进派、伊朗革命报道者等具体运动合作密切）"
+    },
+    {
+      "条目": "拒斥'压抑假说'",
+      "描述": "反对弗洛伊德/赖希的'性压抑叙事'，主张性是被话语生产而非压抑",
+      "原文引用": "We must not... refer to a censorship of sex（《性史》卷一 1976）",
+      "是否有例外": "无"
+    },
+    {
+      "条目": "反对'人之死'的浪漫化",
+      "描述": "'主体之死'不是说主体真的消失，而是说主体不是先验给定的",
+      "原文引用": "man is an invention of recent date（《词与物》结尾）",
+      "是否有例外": "无"
+    },
+    {
+      "条目": "拒绝'作者功能'",
+      "描述": "反对以作者意图解释文本",
+      "原文引用": "What is an author?（《什么是作者？》1969）",
+      "是否有例外": "无"
+    }
+  ],
+  "自我定位": {
+    "描述": "工具箱作者（author of a toolbox）：'我想做的只是提供一些可以被使用、改造、调换的工具箱，让使用者按其方便拿来改造。'拒绝作为哲学体系创始人；强调局部、具体、可操作的方法。",
+    "原文引用": [
+      "I would like my books to be a kind of toolbox that people can use and rummage through to find a tool they can use（1980 采访）",
+      "Je ne suis pas un grand écrivain... je suis un petit écrivain（《权力的眼睛》）",
+      "I'm not looking for an alternative... you have to invent, for there is no solution（《世界报》1981）"
+    ],
+    "与时代关系": "既属于法国'1968 一代'（与德里达、巴特、阿尔都塞、利奥塔并列），又批判这一代人的某些预设（如巴特的符号学被批为'结构主义残余'）。始终保持内部批判距离。"
+  },
+  "思想内部张力": {
+    "主要矛盾": "(1) 权力不可逃避（'权力无所不在'）vs 晚期'自我技术'的伦理学自由空间（如何可能？）。(2) 拒斥主体 vs 晚期对古希腊'自我关切'作为伦理行为者的重新发现。(3) 反对'代言人'立场 vs 其著作被广泛引为酷儿/性别/反殖民运动的思想资源。",
+    "深层原因": "福柯的'权力-知识-主体'三联分析本身就是动态的：他没有把所有'权力'都归结为压抑，也没有把所有'主体'都归结为被建构。晚期转向正是为了让这种动态更精细。",
+    "对人格的影响": "福柯本人极度谨慎、不夸张；生前多次自我批评（如《性史》卷一'我要研究'系列）；强调'研究笔记'而非'终极真理'，这种克制本身是其方法论的体现。"
+  },
+  "distillation_method": "Wikipedia (主要传记) + SEP (方法论与晚期转向) + en.wikiquote (引语)；3 源交叉验证；confidence=high 在概念框架、confidence=medium 在传记细节（仅 Wikipedia 单源）。"
+}

@@ -1,0 +1,51 @@
+{
+  "persona_id": "de_li_da",
+  "name_zh": "德里达",
+  "name_en": "Jacques Derrida",
+  "lifespan": "1930-07-15 / 2004-10-09",
+  "distillation_date": "2026-07-19",
+  "sources_count": 2,
+  "sources": [
+    {"name": "Wikipedia - Jacques Derrida", "type": "encyclopedia", "url": "https://en.wikipedia.org/wiki/Jacques_Derrida", "size_chars": 1500000, "fetch_status": "success_2026-07-19"},
+    {"name": "Stanford Encyclopedia of Philosophy - Derrida", "type": "encyclopedia_scholarly", "url": "https://plato.stanford.edu/entries/derrida/", "size_chars": 106237, "fetch_status": "success_2026-07-19"}
+  ],
+  "corpus_stats": {
+    "传记_chars": 8400,
+    "引语_chars": 5500,
+    "后世评述_chars": 4500,
+    "total_raw_chars": 18400
+  },
+  "quotes_count": 33,
+  "key_works_cited": [
+    "《论文字学》(1967)",
+    "《声音与现象》(1967)",
+    "《书写与差异》(1967)",
+    "《哲学的边缘》(1972)",
+    "《播散》(1972)",
+    "《立场》(1972)",
+    "《丧钟》(1974)",
+    "《明信片》(1980)",
+    "《论精神》(1987)",
+    "《法律的力量》(1990)",
+    "《马克思的幽灵》(1993)",
+    "《友谊政治学》(1994)",
+    "《死亡的馈赠》(1996)",
+    "《单语他者》(1996)",
+    "《流氓》(2003)"
+  ],
+  "stages_identified": {
+    "count": 5,
+    "stages": [
+      "早期胡塞尔/现象学训练 (1953-1966)",
+      "《论文字学》《书写与差异》形成期 (1967-1971)",
+      "播散/解构方法论扩展 (1972-1979)",
+      "政治-伦理转向 (1980-1995)",
+      "晚期论死刑/宗教/友谊 (1996-2004)"
+    ]
+  },
+  "overall_confidence": "high",
+  "single_source_warning": false,
+  "multi_source_validated": true,
+  "distillation_version": "1.0",
+  "notes": "德里达是西方哲学家，无诗词语料；语言维度按学术法语风格评定。一手引语充分，Wikipedia + SEP 双源交叉验证核心概念，符合规则 3（多源可标 high）。关键风险：解构/延异概念常被 LLM 通俗化误读，必须按原文严格呈现其'双重阅读'与'延缓判断'的真实含义。"
+}

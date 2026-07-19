@@ -1,0 +1,44 @@
+# Michel Foucault — Stanford Encyclopedia of Philosophy Entry
+
+Source: https://plato.stanford.edu/entries/foucault/
+Authorship: Gary Gutting and Johanna Oksala; © 2026 Stanford University / Metaphysics Research Lab.
+
+## Life (1926–1984)
+
+French historian and philosopher born in Poitiers. Studied at the École Normale Supérieure (1946). Held positions at French universities; elected to the Collège de France (1969). Active politically; founded the Groupe d'information sur les prisons. Lectured frequently in the U.S., including at Berkeley. Died of AIDS in Paris.
+
+## Intellectual Background
+
+Influenced by Merleau-Ponty, Heidegger, Hegel, and Marx (via Hyppolite and Althusser). Turned away from existentialism and Marxism. Canguilhem was a key supporter, providing a model of history of science. Engaged with structuralist linguistics (Saussure) and psychoanalysis (Lacan). Enthralled by Bataille and Blanchot's "limit-experiences."
+
+## Major Works
+
+- *History of Madness* (1961): Argues the medical concept of "mental illness" masked social control of deviance from bourgeois norms.
+- *The Birth of the Clinic* (1963): A more standard history of clinical medicine's emergence.
+- *The Order of Things* (1966): "An Archaeology of the Human Sciences." Inverts Kant: asks what appears necessary might be contingent. Traces shifts from Renaissance resemblance to Classical representation to modern man/language.
+- *The Archaeology of Knowledge* (1969): Methodological treatise on "discursive formations" operating beneath subject consciousness.
+- *Discipline and Punish* (1975): Genealogy of the modern prison; introduces the Panopticon as a model of disciplinary power through surveillance, normalization, and examination. Power/knowledge are inseparable.
+- *History of Sexuality, Vol. 1* (1976): Rejects the "repressive hypothesis"; argues sexuality is *produced* by power through discourses (medical, psychological). Introduces biopower.
+- *The Use of Pleasure* / *Care of the Self* (1984): Studies ancient Greek/Roman ethics as an "aesthetics of existence."
+
+## Key Concepts
+
+- **Archaeology:** Uncovers rules governing systems of thought without appealing to subjects' intentions.
+- **Genealogy:** (From Nietzsche) Traces contingent, inglorious origins of present arrangements.
+- **Power/Discipline:** Power is productive, not merely repressive; operates through bodies via surveillance, normalization, and examination.
+- **Biopolitics/Biopower:** Modern power manages populations' life processes (health, reproduction) rather than threatening death.
+- **Governmentality:** "The way one conducts the conduct of men." Modern state combines centralized administration with pastoral/individualizing power. Analyzed neoliberalism as a novel rationality producing an economic subject.
+- **Subjectivity:** Subjects are constituted by power/knowledge, but also actively shape themselves through "practices of the self."
+- **Ancient Ethics:** Greek ethics emphasized style of existence and self-formation, not detailed codes — contrasting with Christianity's systematic moral law.
+
+## Posthumous Materials
+
+Lectures at the Collège de France (1970–84) and *Les aveux de la chair* (2018) expanded his corpus, particularly on governmentality, neoliberalism, biopolitics, and the ancient idea of philosophy as a way of life.
+
+## Influence
+
+Major impact on feminist philosophy, queer theory (Butler's *Gender Trouble* builds on his work), political theory, sociology, and history of science. The entry cites Oksala, McNay, McWhorter, Davidson, and others on his legacy.
+
+## SEP Assessment
+
+Foucault is treated as a major figure of post-structuralist continental philosophy, whose genealogical and archaeological methods transformed historical epistemology, political philosophy, ethics, and the study of subjectivity. His work resists systematic reading in favor of historically situated problematizations.

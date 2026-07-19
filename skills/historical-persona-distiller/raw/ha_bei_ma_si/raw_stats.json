@@ -1,0 +1,62 @@
+{
+  "persona_id": "ha_bei_ma_si",
+  "name": "哈贝马斯 (Jürgen Habermas)",
+  "lifespan": "1929-06-18 — 2026-03-14",
+  "dynasty": "20-21世纪德国",
+  "priority": "high",
+  "persona_type": "historical_figure",
+  "language": "德语 (German)",
+  "stage": "Stage 1 — 资料采集完成",
+  "stats": {
+    "biography_words": 4500,
+    "direct_quotes_count": 45,
+    "commentary_segments": 8,
+    "primary_sources": 7,
+    "raw_files": [
+      "raw/ha_bei_ma_si/传记.txt",
+      "raw/ha_bei_ma_si/引语.txt",
+      "raw/ha_bei_ma_si/后世评述.txt",
+      "raw/ha_bei_ma_si/全部语料.txt"
+    ]
+  },
+  "primary_sources": [
+    "Wikipedia (EN) — https://en.wikipedia.org/wiki/J%C3%BCrgen_Habermas",
+    "Stanford Encyclopedia of Philosophy — https://plato.stanford.edu/entries/habermas/",
+    "Müller-Doohm 2016 传记",
+    "Gordon Finlayson 学派分类研究",
+    "Baynes 1995 '双轨民主理论' 概括",
+    "Phillippe Portier 宗教三阶段分析",
+    "2026 年 3 月讣告综合（The Guardian, FAZ, LRB, NYRB, Reuters）"
+  ],
+  "key_works": [
+    "Strukturwandel der Öffentlichkeit (1962)",
+    "Erkenntnis und Interesse (1965)",
+    "Theorie des kommunikativen Handelns (1981)",
+    "Der Philosophische Diskurs der Moderne (1985)",
+    "Faktizität und Geltung (1992)",
+    "Zwischen Naturalismus und Religion (2005)",
+    "Dialektik der Säkularisierung (2006, with Ratzinger)"
+  ],
+  "key_concepts": [
+    "交往行为 (kommunikatives Handeln)",
+    "交往理性 (kommunikative Vernunft)",
+    "话语伦理学 (Diskursethik)",
+    "公共领域 (Öffentlichkeit)",
+    "生活世界/系统 (Lebenswelt/System)",
+    "宪法爱国主义 (Verfassungspatriotismus)",
+    "后世俗社会 (postsäkulare Gesellschaft)"
+  ],
+  "key_debates": [
+    "实证主义之争 (1961–1969)",
+    "与伽达默尔的诠释学之争 (1970s)",
+    "与福柯的权力/理性之争 (1980s)",
+    "与罗尔斯的政治哲学之争 (1995)",
+    "与德里达 1980-90s 论战 (2003 达成共识)",
+    "Historikerstreit 历史学家之争 (1986)",
+    "与 Ratzinger 的世俗化辩证法对话 (2004)"
+  ],
+  "stage_confidence": {
+    "overall": "high",
+    "rationale": "7 个不同来源交叉验证，包含 45 条直接引语，5,200 字综合语料，足以支撑 high confidence 评级"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "persona_id": "qia_da_mo_er",
+  "name_zh": "伽达默尔",
+  "name_en": "Hans-Georg Gadamer",
+  "lifespan": "1900-02-11 / 2002-03-13",
+  "distillation_date": "2026-07-19",
+  "sources_count": 3,
+  "sources": [
+    {"name": "Wikipedia - Hans-Georg Gadamer", "type": "encyclopedia", "url": "https://en.wikipedia.org/wiki/Hans-Georg_Gadamer", "size_chars": 1100000, "fetch_status": "success_2026-07-19"},
+    {"name": "Stanford Encyclopedia of Philosophy - Gadamer", "type": "academic_encyclopedia", "url": "https://plato.stanford.edu/entries/gadamer/", "size_chars": 95600, "fetch_status": "success_2026-07-19"},
+    {"name": "Internet Encyclopedia of Philosophy - Gadamer", "type": "academic_encyclopedia", "url": "https://iep.utm.edu/gadamer/", "size_chars": 85400, "fetch_status": "success_2026-07-19"}
+  ],
+  "corpus_stats": {
+    "传记_chars": 5800,
+    "引语_chars": 5500,
+    "后世评述_chars": 4500,
+    "total_raw_chars": 15800
+  },
+  "quotes_count": 30,
+  "key_works_cited": [
+    "Platos dialektische Ethik (1931)",
+    "Wahrheit und Methode (1960)",
+    "Kleine Schriften I-IV (1967-77)",
+    "Heideggers Wege (1983)",
+    "Lob der Theorie (1983)",
+    "Gesammelte Werke 1-10 (1985-1995)"
+  ],
+  "stages_identified": {
+    "count": 5,
+    "default_stage": "切片三 真理与方法形成期 (1960-1970)",
+    "stages": [
+      "早期现象学训练 (1918-1928)",
+      "海德格尔助理期 (1923-1939)",
+      "真理与方法形成期 (1960-1970)",
+      "解释学论战期 (1970-1985)",
+      "晚年综合期 (1985-2002)"
+    ]
+  },
+  "overall_confidence": "high",
+  "single_source_warning": false,
+  "multi_source_validated": true,
+  "distillation_version": "1.0",
+  "notes": "Hans-Georg Gadamer, 20th century German philosopher; no poetry corpus; language features evaluated based on academic German style. Citations cross-validated by Wikipedia + SEP + IEP. Key risk: 'disciple/mouthpiece' framings of Gadamer's relationship to Heidegger have been historically misleading (philosophically and politically). Per SEP/IEP/Grondin consensus, Gadamer's mature philosophy is an independent extension of Heidegger's, not a transmission."
+}

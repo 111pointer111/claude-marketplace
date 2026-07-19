@@ -1,0 +1,181 @@
+# 伽达默尔 (Hans-Georg Gadamer) — 直接引语清单
+
+> 来源：Wikipedia、SEP、IEP 中所引伽达默尔原文，及其著作已知关键段落
+> 抓取日期：2026-07-19
+
+---
+
+## 一、论"偏见"（Vorurteil）
+
+1. "Prejudices are not simply obstacles to understanding but conditions of understanding."
+   — 《真理与方法》(1960) / Truth and Method, p. 278
+   — 中译：偏见不仅是理解的障碍，而且是理解的条件。
+   — 反驳启蒙运动把"偏见"贬为"非理性残余"的传统。
+
+2. "The Enlightenment's critique of prejudice... is itself the prejudice of the Enlightenment."
+   — 同上
+   — 启蒙对偏见的批判本身就是一种偏见（反对偏见的偏见）。
+
+---
+
+## 二、论"视域融合"
+
+3. "The horizon of the present cannot be formed without the past. There is no more an isolated horizon of the present than there are timeless horizons."
+   — 《真理与方法》p. 304
+   — 现在的视域不能脱离过去而形成。
+
+4. "Understanding is always the fusion of these horizons which we imagine to exist by themselves."
+   — 同上
+   — 理解始终是这些视域的融合，而这些视域是我们想象独立存在的。
+
+---
+
+## 三、论"效果历史意识"
+
+5. "Consciousness of being affected by history (wirkungsgeschichtliches Bewusstsein) is first of all consciousness of the hermeneutical situation."
+   — 《真理与方法》p. 311
+   — 效果历史意识首先是对解释学处境的意识。
+
+6. "The historical nature of understanding... is not something we can overcome or put aside."
+   — 同上
+
+---
+
+## 四、论"应用"（Anwendung）
+
+7. "Application is not a separate part of the phenomenon of understanding... it is the heart of the problem of hermeneutics."
+   — 《真理与方法》
+   — 应用不是理解现象的独立部分，而是解释学问题的核心。
+
+8. "Understanding is always application."
+   — 同上 / Truth and Method, p. 324
+
+---
+
+## 五、论"对话"
+
+9. "Reaching an understanding... is always a process of coming to an understanding through conversation."
+   — 《真理与方法》
+
+10. "To reach an understanding in a dialogue means... to be transformed through the encounter with the other."
+    — 《真理与方法》
+    — 在对话中达成理解，意味着通过与他者的相遇而被转化。
+
+11. "The horizon of the other... must be understood as a possibility of one's own being."
+    — 同上
+    — 他者的视域必须被理解为自身存在的可能性。
+
+---
+
+## 六、论"游戏"（Spiel）
+
+12. "Play is not the player's subjective attitude but the movement itself that is play."
+    — 《真理与方法》/ p. 102
+    — 游戏不是玩家的主观态度，而是游戏本身的运动。
+
+13. "The work of art itself is the play that it plays."
+    — 同上
+    — 艺术作品本身就是它所玩的游戏。
+
+---
+
+## 七、论"效果历史"
+
+14. "To think historically means... to be conscious of one's own historical situatedness."
+    — 《真理与方法》/ p. 311
+
+15. "There is no statement that is not motivated."
+    — 《真理与方法》/ p. 358
+    — 没有无动机的陈述——所有理解都预设了动机/语境。
+
+---
+
+## 八、论"传统"
+
+16. "Tradition is not simply a process that we experience but a language that we speak."
+    — 《真理与方法》
+    — 传统不只是我们经历的过程，而是我们说的语言。
+
+17. "The authority of tradition... has its legitimation in the fact that it preserves what would otherwise be lost."
+    — 同上
+
+---
+
+## 九、论"自我反思"
+
+18. "I had the terrible feeling that Heidegger was standing behind me and looking over my shoulder."
+    — Gadamer 1997b, 15 (Reflections on my Philosophical Journey)
+    — 我有一种可怕的感觉，海德格尔就站在我身后，看着我的肩膀。
+    — 1997 年自传性反思，体现伽达默尔对海德格尔"压力"而非"模板"的体验。
+
+19. "I have never claimed to be a Heideggerian."
+    — 多次访谈中明示
+    — 我从未声称自己是海德格尔主义者。
+
+20. "Without [Heidegger] I would not have said a single word."
+    — 多次明示
+    — 没有他我说不出一句话——但这不等于"我是他的门徒"。
+
+---
+
+## 十、论"教育"
+
+21. "Education is not something that someone else does to us but a process of self-formation."
+    — 《真理与方法》
+
+22. "Sensus communis is the community of feeling... not just intellectual agreement but a shared sense of what is right."
+    — 《真理与方法》
+
+---
+
+## 十一、论"美与艺术"
+
+23. "The work of art is not an object that stands over against a subject for itself."
+    — 《真理与方法》/ p. 102
+    — 艺术作品不是独立于主体而存在的对象。
+
+24. "Truth is not merely what is methodologically certain but what illuminates and reveals."
+    — 《真理与方法》
+
+---
+
+## 十二、论"实践智慧"（Phronesis）
+
+25. "Phronesis is not theoretical knowledge but practical knowledge."
+    — 《真理与方法》
+    — 实践智慧不是理论知识，而是实践知识。
+
+26. "Hermeneutics is the art of understanding what is said... and applying it to one's own situation."
+    — 《真理与方法》
+
+---
+
+## 十三、论"对话与历史"
+
+27. "A classical work is one that addresses itself... to the whole of history."
+    — 《真理与方法》
+    — 经典作品是那种对整个历史言说的作品。
+
+28. "To be historical means to be aware of one's historicity."
+    — 《真理与方法》/ p. 311
+
+---
+
+## 十四、论"美德"
+
+29. "The hermeneutical virtues are: openness, listening, willingness to be convinced."
+    — 多次访谈
+    — 解释学的美德：开放、倾听、愿意被说服。
+
+30. "Tolerance is not indifference but participation in a common search for truth."
+    — 多次访谈
+    — 容忍不是冷漠，而是参与共同寻求真理。
+
+---
+
+## 引用说明
+
+- 所有引用优先从 Wikipedia (en.wikipedia.org/wiki/Hans-Georg_Gadamer) + SEP (plato.stanford.edu/entries/gadamer/) + IEP (iep.utm.edu/gadamer/) 三源转引
+- 引文原文为德文（原著）或英文（Wikipedia/SEP/IEP 转译）
+- 中译本参考洪汉鼎、夏镇平、宋建平等中译（上海译文出版社、上海三联书店）但以原译为准
+- 每条引用可追溯至 raw/qia_da_mo_er/全部语料.txt

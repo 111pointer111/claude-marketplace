@@ -1,0 +1,169 @@
+# 德里达 (Jacques Derrida) — 传记
+
+> 主源：Wikipedia (https://en.wikipedia.org/wiki/Jacques_Derrida)
+> 补充：Stanford Encyclopedia of Philosophy (https://plato.stanford.edu/entries/derrida/)
+> 抓取日期：2026-07-19
+
+---
+
+## 一、基本信息
+
+**全名：** Jacques Derrida（出生登记名为 Jackie Élie Derrida）
+**生卒：** 1930-07-15（El Biar，阿尔及利亚，法属阿尔及利亚）— 2004-10-09（巴黎，胰腺癌手术中去世；2002 年确诊）
+**身份：** 法国哲学家，解构主义创始人，文学理论家
+**地位：** 20 世纪后半叶最具影响力的哲学家之一；与福柯、德勒兹、利奥塔、巴特、阿尔都塞同属"1968 一代"
+
+**家世：**
+- 父亲 Haïm Aaron Prosper Charles Derrida
+- 母亲 Georgette Sultana Esther（娘家姓 Safar，Moïse Safar 之女）
+- 西班牙裔犹太人（Sephardic）家族，原籍西班牙托莱多，1870 年依据 Crémieux 法令归化为法国公民
+- 五兄妹中排行第三，长兄 Paul Moïse 在他出生前夭折
+- 1942 年因维希政权的反犹配额被中学开除（他当时 12 岁）
+
+## 二、学历
+
+- 1949 年从阿尔及尔前往巴黎
+- Lycée Louis-le-Grand 师从 Étienne Borne
+- 1952 年通过 ENS（巴黎高等师范学校）入学考试（第一次未中），结识 Louis Althusser
+- 1953-54 硕士论文《胡塞尔哲学中的发生问题》（*Le problème de la genèse dans la philosophie de Husserl*），赴比利时鲁汶胡塞尔档案馆研究
+- 1956 通过 agrégation（中学教师资格会考）
+- 1956-57 哈佛大学 Widener 图书馆，阅读 James Joyce《尤利西斯》
+- 1980 年获巴黎大学国家博士（doctorat d'État），以已出版的十本书为论文，题为"哲学的铭刻"（*L'inscription de la philosophie*）
+
+## 三、教学生涯
+
+- 1957-59 阿尔及利亚战争期间为军人子女教书
+- 1960-64 巴黎大学（Sorbonne）哲学讲师，师从 Suzanne Bachelard、Georges Canguilhem、Paul Ricœur、Jean Wahl
+- 1964 经 Althusser 与 Hyppolite 推荐，获 ENS 终身职位（maître-assistant），任至 1984
+- 1983 与 François Châtelet 共建 Collège international de philosophie（国际哲学学院，CIPH），任首任院长
+- 1984 任 École des Hautes Études en Sciences Sociales 研究主任（directeur d'études）
+- 1986 起任加州大学欧文分校（UC Irvine）人文教授，直至逝世
+
+## 四、核心著作
+
+**1967 年 "annus mirabilis"（奇迹之年）三书：**
+- 《书写与差异》（*L'Écriture et la différence*）
+- 《声音与现象》（*La Voix et le phénomène*）
+- 《论文字学》（*De la grammatologie*）
+
+**1970 年代：**
+- 《播散》（*La Dissémination*, 1972）
+- 《哲学的边缘》（*Marges de la philosophie*, 1972）
+- 《立场》（*Positions*, 1972，访谈集）
+- 《丧钟》（*Glas*, 1974）
+
+**1980 年代：**
+- 《明信片》（*La Carte postale*, 1980）
+- 《论精神：海德格尔与问题》（*De l'esprit: Heidegger et la question*, 1987）
+
+**1990 年代：**
+- 《法律的力量》（*Force de loi*, 1990）
+- 《另一航向》（*L'Autre cap*, 1991）
+- 《马克思的幽灵》（*Spectres de Marx*, 1993）
+- 《友谊政治学》（*Politiques de l'amitié*, 1994）
+- 《死亡的馈赠》（*Donner la mort*）
+
+**2000 年代：**
+- 《哀悼的工作》（*Le Travail du deuil*, 2001）
+- 《死亡的惩罚》（多卷本）
+- 2001 年获法兰克福大学 Adorno-Preis 奖
+
+## 五、哲学核心
+
+### 解构（la déconstruction）
+"解构"指揭露西方形而上学中的二元对立（言语/文字、本质/现象、在场/缺席），并颠覆其中被偏好的术语。
+> "deprives the present of its prestige and exposes it to something *tout autre*, 'wholly other', beyond what is foreseeable from the present, beyond the horizon of the 'same.'"（剥夺当下的荣光，把它暴露于 *tout autre*，即'全然他者'）
+
+### 延异（la différance）
+1968 年所造"延异"，故意与"差异"（différence）拼写不同（替换 e 为 a）。既指空间上的"差异化"，也指时间上的"延缓"。它没有自身存在，只能在文本中"运作"。
+> 延异是"使在场之形而上学成为可能的条件"。它"既非词语亦非概念"，而是一种"游戏"。
+
+### 文字学 / 替补（grammatologie / supplément）
+挑战"语音中心主义"（phonocentrism），论证"文字"（écriture）不是言语的堕落复制，而是原初的"铭刻"。
+> "there is nothing outside context"（没有什么在语境之外），澄清了"il n'y a pas de hors-texte"（没有文本之外的事物）的真正含义。
+
+### 痕迹（la trace）
+在场之所以可能，正因为它从一开始就已被不在场"刻痕"。痕迹既非在场也非缺席，而是二者的游戏。
+
+### 他者与"全然他者"（*tout autre*）
+> "*tout autre est tout autre*"（每一个他者都是全然他者）（《友谊政治学》第 232 页）
+
+### 来临 / 将要到来的民主
+民主"永远在来临之中"，是 *à-venir*（将要到来的），永远不会完全"在场"。他称之为"无弥赛亚的弥赛亚性"（messianicité sans messie）。
+
+## 六、政治参与
+
+- 1968 年五月风暴参与者
+- 1977 年签署反对法定强奸年龄界线的请愿书（与萨特、福柯等）
+- 1981 年在捷克斯洛伐克举办未经授权会议，被当局以"贩毒"罪名逮捕（他坚称毒品为栽赃），经密特朗与福柯斡旋获释
+- 1981 年成立 Jan Hus 协会，援助捷克异见者
+- 1980 年代后期起介入废除死刑运动（Mumia Abu-Jamal 等个案）
+- 反对南非种族隔离；支持核裁军
+- 2002 年法国总统大选第二轮拒绝在希拉克与勒庞之间投票
+- 2003 年反对伊拉克战争，与 Baudrillard 公开辩论
+- 1992 年剑桥大学荣誉学位事件：Quine、Marcus、Armstrong 等分析哲学家联名反对，《泰晤士报》刊出公开信
+
+## 七、私人生活
+
+- 1957 年 6 月在波士顿与精神分析师 Marguerite Aucouturier 结婚
+- 三子：Pierre（1963 年生，与 Marguerite）、Jean（1967 年生）、Daniel（1985 年生，与 Sylviane Agacinski）
+- 2004 年接受访谈时承认"无怨无悔的友谊"
+
+## 八、去世与遗产
+
+2004-10-08/09 因胰腺癌手术并发症在巴黎逝世。海德堡大学校长 Peter Hommelhoff（德里达已同意出任伽达默尔客座教授）写道：
+> "Beyond the boundaries of philosophy as an academic discipline he was a leading intellectual figure not only for the humanities but for the cultural perception of a whole age."
+
+**主要学生：** Catherine Malabou、Bernard Stiegler、Sarah Kofman、Jean-Luc Marion、Jean-Luc Nancy、Francis Fukuyama（修过其课）
+
+---
+
+## 九、与同时代哲学家的关系（SEP 节选）
+
+### 与胡塞尔
+《声音与现象》（1967）批评胡塞尔"一切原则之原则"——直觉的明见性，论证"听见自己说话"必然包含差异与延宕。
+> "In Husserl's description of the 'thick' living present (with retention and protention), *difference* is in the very middle of it."
+
+### 与海德格尔
+1964 年起持续对话。1987 年《论精神》处理"精神"一词在海德格尔思想中的命运。1964-65 年讲座《海德格尔：存在与历史之问题》。
+
+### 与莱维纳斯
+1964 年《暴力与形而上学》开启与莱维纳斯"终生友谊"，但保持距离；在动物性议题上最终与莱维纳斯决裂。
+
+### 与福柯
+1963 年《疯癫史》研讨会上作《我思与疯癫史》，引发两人永久决裂。
+
+### 与黑格尔
+在 Hyppolite 门下受黑格尔主义训练；《丧钟》（1974）以左栏写黑格尔、右栏写 Jean Genet。
+
+---
+
+## 十、"不可腐蚀者"（les incorruptibles）
+
+Hélène Cixous 命名这一代法国哲学家为"不可腐蚀者"。德里达在 2004 年最后一次访谈（*Le Monde*, 8 月 19 日）描述这是"一种写作与思考的不妥协甚至不可腐蚀的气质"——"不向哲学本身妥协，也不让公共舆论、媒体或令人畏惧的读者幽灵吓唬我们或迫使我们简化、压制"。
+
+**关键引语：**
+> "an intransigent, even incorruptible, *ethos* of writing and thinking…without concession even to philosophy, and not letting public opinion, the media, or the phantasm of an intimidating readership frighten or force us into simplifying or repressing. Hence the strict taste for refinement, paradox, and aporia."
+
+**关于机器与事件：**
+> "in truth, against the background and at the horizon of our present possibilities, this new figure would resemble a monster. The project of his generation is to give up neither the event nor the machine, to subordinate neither one to the other."
+
+**关于不纯之纯：**
+> "I therefore admit to a purity which is not very pure. Anything but a purism. It is, at least, the only impure 'purity' for which I dare confess a taste."（*Monolingualism of the Other*）
+
+**关于主权与民主（*Rogues*）：**
+> "As soon as I speak to the other, I submit to the law of giving reason(s), I share a virtually universalizable medium, I divide my authority."
+> "since [sovereignty] never succeeds in [not sharing] except in a critical, precarious, and unstable fashion, sovereignty can only *tend*, for a limited time, to reign without sharing."
+
+**关于解构的暴力：**
+> "towards, not the worst violence, not the most violence, but the least violence"（*Writing and Difference*, p. 130）
+
+**关于死亡与解构：**
+> "To deconstruct death…The dream of deconstruction, a convulsive movement to have done with death itself…to come to blows with death and put it out of action. No less than that. Death to death"
+
+**关于友谊：**
+> "*tout autre est tout autre*"
+
+**关于无弥赛亚的弥赛亚性：**
+> "l'avenir"（将来）刻意避开当下
+

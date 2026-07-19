@@ -1,0 +1,123 @@
+{
+  "核心价值观": [
+    {
+      "条目": "交往理性作为现代性的规范基础",
+      "描述": "哈贝马斯认为理性不是内在于个体主体（康德/黑格尔）或历史过程（黑格尔/马克思），而是内建在语言中的'交往理性'。理性通过主体间的语言沟通得到实现，规范的有效性通过话语（Diskurs）中的论证得到检验。这一立场贯穿其整个学术生涯。",
+      "原文引用": [
+        "Reaching understanding is the inherent telos of human speech (1981 [1984a: 280])",
+        "The idea of reason... is necessarily built into language (1984b [2001d: 85])",
+        "the unforced force of the better argument (1983 [1990: 87–8])"
+      ],
+      "同时代对比": "与阿多诺/霍克海默不同：他们将批判理论建立在'否定的辩证法'和'工具理性批判'上，对理性持悲观态度；哈贝马斯则试图'拯救'理性的规范性内涵，将其从主体哲学转向主体间性 (Intersubjektivität)。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致",
+      "confidence": "high"
+    },
+    {
+      "条目": "话语伦理学作为普遍规范基础",
+      "描述": "哈贝马斯认为道德规范的有效性不依赖于形而上学（如康德的'绝对命令'的形而上学基础），而依赖于'所有受影响者'通过话语程序达成共识的能力。'普遍化原则 (U)' 和'话语原则 (D)' 是其伦理学核心。",
+      "原文引用": [
+        "Only those norms can claim to be valid that meet approval in discourse (1983 [1990: 66])",
+        "All affected can accept the consequences of general observance (1983 [1990: 65])",
+        "I must submit my maxim to all others for discursively testing (1983 [1990: 67])"
+      ],
+      "同时代对比": "与阿佩尔不同：阿佩尔将其作为先验哲学；哈贝马斯将其作为'程序性的'（verfahrensrational）道德理论。与罗尔斯不同：罗尔斯强调'政治中立性'；哈贝马斯强调'民主意志形成'的实质作用。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致",
+      "confidence": "high"
+    },
+    {
+      "条目": "公共领域与民主合法性",
+      "描述": "哈贝马斯认为现代民主的合法性 (Legitimität) 不依赖于民族文化或历史延续性，而是依赖于'公共领域' (Öffentlichkeit) 中公民通过理性-批判性辩论形成公共舆论的能力。这一立场贯穿其学术生涯。",
+      "原文引用": [
+        "a realm of private individuals assembled into a public body (1964 [1974: 53])",
+        "public opinion is formed through rational-critical debate (1962 [1989])",
+        "the rule of law... cannot exist without radical democracy (1992b [1996b: xlii])",
+        "civil society as informal public sphere (1992b [1996b: 307])"
+      ],
+      "同时代对比": "与自由主义者不同：哈贝马斯强调民主意志形成的实质作用，而不是程序上的中立性；与社群主义者（Taylor、MacIntyre）不同：他不诉诸民族文化或共同善 (common good)，而是诉诸程序性的论证。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致",
+      "confidence": "high"
+    },
+    {
+      "条目": "宪法爱国主义作为后民族认同基础",
+      "描述": "在 1986 年历史学家之争中，哈贝马斯主张德国的政治认同不应建立在民族历史或文化传统之上，而应建立在'宪法原则'（民主、人权、法治）之上。这一立场回应了战后德国的身份危机。",
+      "原文引用": [
+        "Verfassungspatriotismus (constitutional patriotism)",
+        "we learnt that the bourgeois constitutional state is an historical achievement (1992a)",
+        "the bourgeois constitutional state in its French, or American, or English form (1992a)"
+      ],
+      "同时代对比": "与'新右派'历史学家（Nolte、Stürmer 等）不同：他们试图通过相对化大屠杀来重塑民族认同；哈贝马斯则主张放弃民族文化认同，转向宪法认同。",
+      "贯穿程度": "始终如一（1986 年提出后持续到晚期）",
+      "实践一致性": "一致",
+      "confidence": "high"
+    }
+  ],
+  "政治立场": {
+    "描述": "改良主义社会主义者；批评资本主义的官僚化倾向，认同福利国家与凯恩斯主义；支持欧洲一体化与民主深化；坚持方法论无神论，晚年承认宗教的公共认识地位",
+    "原文引用": [
+      "the welfare state had 'pacified class conflict' through Keynesian reforms since 1945",
+      "I am myself a product of 'reeducation' (1992a: interview 3, 79)",
+      "methodological atheist",
+      "in November 2016, called on European left-leaning parties to 'go on the offensive against social inequality by embarking upon a coordinated and cross-border taming of unregulated markets'"
+    ],
+    "时代坐标": "在 1989 年仍自称'最后的马克思主义者'，但到 2000 年代其社会主义是改良主义的；批评资本主义的官僚化，但抛弃历史唯物主义的形而上学框架",
+    "内在张力": "改良主义与'最后的马克思主义者'自我认同的张力；方法论无神论者与承认宗教公共地位的张力",
+    "confidence": "high"
+  },
+  "底线清单": [
+    {
+      "条目": "反对相对主义",
+      "描述": "坚持理性论证的普遍有效性，反对后现代主义的相对主义与怀疑论",
+      "原文引用": [
+        "he distanced himself from the Frankfurt School and postmodernist thought for excessive pessimism, radicalism, and exaggerations"
+      ],
+      "是否有例外": "无"
+    },
+    {
+      "条目": "反对纳粹意识形态",
+      "描述": "1953 年起反对任何为纳粹辩护的言论；1986 年在历史学家之争中坚持大屠杀的不可相对化",
+      "原文引用": [
+        "Habermas attacked historians Ernst Nolte, Michael Stürmer, Klaus Hildebrand, and Andreas Hillgruber for what he called 'apologistic' history writing",
+        "1953 年在《法兰克福汇报》对海德格尔《形而上学导论》出版表示愤慨"
+      ],
+      "是否有例外": "无（即使对海德格尔哲学成就，他也坚持其政治错误不可辩护）"
+    },
+    {
+      "条目": "坚持哲学的规范性",
+      "描述": "反对实证主义与科学主义将哲学还原为经验科学的企图",
+      "原文引用": [
+        "That we disavow reflection is positivism (1968b: 9 [1971a: vii])",
+        "实证主义之争 (1961–1969) 中明确反对 Popper 和 Albert 的'批判理性主义'"
+      ],
+      "是否有例外": "无"
+    },
+    {
+      "条目": "坚持民主合法性优先",
+      "描述": "坚持民主的合法性高于技术专家统治，反对'技术治国'倾向",
+      "原文引用": [
+        "the rule of law cannot exist without radical democracy (1992b [1996b: xlii])",
+        "Habermas criticized capitalism's technocratic tendencies and its incompatibility with democratic will-formation"
+      ],
+      "是否有例外": "无"
+    }
+  ],
+  "自我定位": {
+    "描述": "哈贝马斯将自己定位为'批判理论'传统的修正主义者与'启蒙的修正者'——既不抛弃启蒙的普遍主义雄心，也不接受法兰克福学派第一代的悲观主义。在制度上，他既不完全认同法兰克福学派（Gordon Finlayson 视他为'第一代施塔恩贝格学派'），也不完全认同英美分析哲学传统。",
+    "原文引用": [
+      "Critical Theory, at Frankfurt School—there was no such thing (1992a: interview 4, 98)",
+      "the Enlightenment is an unfinished project",
+      "the difficulty of giving an account of its own normative foundations (1984a: 374)",
+      "particles and fragments of an 'existing reason' already incorporated (1992b [1996b: 287])"
+    ],
+    "与时代关系": "作为'介入型知识分子'(engaged intellectual)，他持续介入德国与欧洲的政治争论（反核、Historikerstreit、伊拉克战争、欧元危机）",
+    "confidence": "high"
+  },
+  "思想内部张力": {
+    "主要矛盾": "（1）普遍主义 vs 多元主义：坚持普遍规范基础，但接受多元主义社会；（2）系统理论 vs 生活世界：使用系统理论（卢曼、帕森斯）但批评系统对生活世界的殖民；（3）改良主义 vs 马克思主义自我认同：自称'最后的马克思主义者'但接受福利国家；（4）方法论无神论 vs 后世俗社会：方法论上无神论，但承认宗教的公共地位",
+    "深层原因": "这些张力的深层原因是哈贝马斯试图综合多个传统（德国观念论、马克思主义、社会学、语言哲学、实用主义、系统理论），每个传统都要求不同的方法论与价值立场。哈贝马斯的独特贡献正是通过'交往理性'与'话语伦理学'框架对这些张力作出系统性调和。",
+    "对人格的影响": "使哈贝马斯成为一个'系统性调和者'——他很少采取单边立场，而是试图在张力中寻求程序性的解决",
+    "confidence": "high"
+  }
+}
