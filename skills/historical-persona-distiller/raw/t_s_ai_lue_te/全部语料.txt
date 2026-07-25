@@ -1,0 +1,22 @@
+# T.S. 艾略特 全部语料 (合并)
+
+> 合并自 传记.txt + 引语.txt + 后世评述.txt
+
+---
+
+# 一、传记
+- **T.S. 艾略特** (1888-09-26 至 1965-01-04)
+- 美-英诗人/评论家/剧作家
+- **1922 《荒原》**
+- **1927 入英国籍**
+- **1948 诺奖**
+- 1965 伦敦去世
+
+## 关键引语
+- "April is the cruellest month"
+- "This is the way the world ends / Not with a bang but a whimper."
+
+## 后世评述
+- 现代主义诗歌代表
+- 1948 诺奖
+- New Criticism

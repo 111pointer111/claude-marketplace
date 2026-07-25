@@ -1,0 +1,9 @@
+{
+  "核心价值观": [
+    {"条目": "现代主义诗歌", "description": "《荒原》《四个四重奏》《空心人》", "贯穿程度": "始终如一"},
+    {"条目": "客观对应物 (Objective Correlative)", "description": "美学核心概念; 通过情感对应物表达情感", "贯穿程度": "始终如一"},
+    {"条目": "传统与个人才能", "description": "New Criticism; 个人才能融入传统", "贯穿程度": "始终如一"},
+    {"条目": "经典主义/英国国教", "description": "classicist in literature, royalist in politics, and anglo-catholic in religion", "贯穿程度": "始终如一"}
+  ],
+  "政治立场": {"description": "君主主义; 文学古典主义; 基督教", "confidence": "high"}
+}

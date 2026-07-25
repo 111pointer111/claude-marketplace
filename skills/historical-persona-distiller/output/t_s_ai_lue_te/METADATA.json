@@ -1,0 +1,15 @@
+{
+  "persona_id": "t_s_ai_lue_te",
+  "name_zh": "T.S. 艾略特",
+  "name_en": "T. S. Eliot",
+  "birth_death": "1888-09-26 / 1965-01-04",
+  "dynasty": "19-20世纪美-英",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "poet / critic / playwright",
+  "key_works": ["《普鲁弗洛克》(1915)", "《荒原》(1922)", "《空心人》(1925)", "《圣灰星期三》(1930)", "《大教堂凶杀案》(1935)", "《四个四重奏》(1943)", "《鸡尾酒会》(1949)"],
+  "core_concepts": ["现代主义诗歌", "客观对应物", "传统与个人才能", "经典主义", "英国国教", "New Criticism"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - T. S. Eliot"],
+  "default_stage": "切片三: 转向与英国化 (1925-1944)"
+}
