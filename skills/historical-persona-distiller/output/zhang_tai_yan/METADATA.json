@@ -1,0 +1,15 @@
+{
+  "persona_id": "zhang_tai_yan",
+  "name_zh": "章太炎",
+  "name_en": "Zhang Taiyan (Zhang Binglin)",
+  "birth_death": "1869-01-12 / 1936-06-14",
+  "dynasty": "清末民初",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "philologist / revolutionary",
+  "key_works": ["《訄书》(1900-01, 1904修订)", "《文始》", "《驳康有为论革命书》", "《五无论》(1907)", "《制言》(1934起主编)"],
+  "core_concepts": ["中华民国 (创此名)", "朴学传统", "唯识学", "道家融合", "现代语言文字学", "光复会"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Zhang Taiyan"],
+  "default_stage": "切片二: 改革与革命 (1895-1906)"
+}
