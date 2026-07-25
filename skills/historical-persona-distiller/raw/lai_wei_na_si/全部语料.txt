@@ -1,0 +1,86 @@
+# Emmanuel Levinas 全部语料 (合并)
+
+> 合并自 传记.txt + 引语.txt + 后世评述.txt
+> 抓取日期: 2026-07-26
+
+---
+
+# 一、传记
+
+## 基本信息
+- **Emanuelis Levinas** (1906-01-12 至 1995-12-25)
+- 立陶宛-法国犹太人哲学家, 毕生以法文写作
+
+## 教育
+- 1923 Strasbourg 始修哲学, 结识 Blanchot
+- 1928 Freiburg 两学期, 师从 Husserl, 结识 Heidegger
+- 1929 Strasbourg 博士论文 *The Theory of Intuition in Husserl's Phenomenology*
+
+## 与 Heidegger
+- 早期推崇, 30 年代为法国最早译介 Heidegger/Husserl 之一
+- 1939 入法国籍
+- Heidegger 加入纳粹后 "came to regret his early enthusiasm"
+- 成熟期著作明确框架为对 Heidegger 的伦理回应
+
+## 二战
+- 1939 法德宣战
+- 1940-45 Fallingbostel 战俘营 (犹太人特殊营)
+- 全家被纳粹杀害
+- 狱中笔记成为 *De l'Existence* (1947) 与 *Le Temps* (1948) 的素材
+
+## 战后学术
+- 1961-67 Poitiers
+- 1967-76 Nanterre (Paris X)
+- 1976-79 Sorbonne (Paris IV)
+- 1979 退休
+
+## 主要著作
+- *Théorie de l'intuition dans la phénoménologie de Husserl* (1930)
+- 译 Husserl *Méditations cartésiennes* (1931)
+- *De l'Existence à l'Existant* (1947)
+- *Le Temps et l'Autre* (1948)
+- *Totalité et Infini* (1961)
+- *Difficult Freedom* (1963)
+- *Autrement qu'être ou au-delà de l'essence* (1974)
+- *Carnets de captivité* (2009, 身后出版)
+
+## 核心思想
+1. 伦理学作为第一哲学
+2. 他者哲学与面容
+3. 对本体论传统的批判 (Heidegger, Hegel)
+4. il y a ("有") 与存在论批判
+5. 《总体与无限》→ 《异于存在》
+6. 取代与"说"/"所说"
+7. 回应与时间性
+8. 现象学方法的改造
+9. 他者、第三方与正义
+10. 犹太哲学影响
+
+---
+
+# 二、直接引语
+
+- "Levinas argued that it is ethics that should be so conceived."
+- "the encounter with the other is an encounter with a visible thing...But this other speaks to me, implores or commands me."
+- "Naked and defenseless, the face signifies... 'Do not kill me'."
+- "to think the infinite, the transcendent, the Stranger, is hence not to think an object."
+- "'The horror of the night, as an experience of the there-is, does not then reveal to us a danger of death'"
+- "the interruption of our immanent consciousness, qua time-flow, by the other"
+- "In this work...responsibility...as relationality in immanence rather than as 'my' response to the face"
+- "Communication would be impossible if it should have to begin in the ego..."
+- "in responding, the subject...engages in an act that opens the possibility of dialogue"
+- "an enlarged conception of lived embodiment and a powerful extension of Husserl's technique of suspending conceptualization"
+- "in the face-to-face, the third party (humanity) looks at me through the eyes of the other"
+- "Rosenzweig...substituting the limited community forged by Sprachdenken for Hegel's idealist political philosophy"
+
+---
+
+# 三、后世评述
+
+- 20 世纪最重要的法国哲学家之一
+- 把伦理学从形而上学中解放出来 (伦理学先于本体论)
+- 把"他者"提升为哲学第一范畴
+- 把现象学从意识哲学转向伦理哲学
+- Derrida 写作 *Violence and Metaphysics* (1964) 评 Levinas
+- Ricoeur 评 Levinas 与希伯来圣经的关系
+- 全家被纳粹杀害 — 个人悲剧塑造其哲学伦理转向

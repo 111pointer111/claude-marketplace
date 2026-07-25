@@ -1,0 +1,41 @@
+{
+  "persona_id": "lai_wei_na_si",
+  "name_zh": "莱维纳斯",
+  "name_en": "Emmanuel Levinas (Emanuelis Levinas)",
+  "birth_death": "1906-01-12 / 1995-12-25",
+  "dynasty": "19-20世纪立陶宛-法国",
+  "confidence": "medium",
+  "priority": "medium",
+  "persona_type": "philosopher / phenomenologist / Jewish philosopher",
+  "key_works": [
+    "《Théorie de l'intuition dans la phénoménologie de Husserl》(1930, 博士论文)",
+    "译 Husserl 《Méditations cartésiennes》(1931)",
+    "《Quelques réflexions sur la philosophie de l'hitlérisme》(1934)",
+    "《De l'Existence à l'Existant》(1947)",
+    "《Le Temps et l'Autre》(1948)",
+    "《Totalité et Infini》(1961) / 《总体与无限》",
+    "《Difficult Freedom》(1963) / 《困难的自由》",
+    "《Autrement qu'être》(1974) / 《异于存在》",
+    "《Entre Nous》(1998, 身后出版)",
+    "《Carnets de captivité》(2009, 战俘营笔记身后出版)"
+  ],
+  "core_concepts": [
+    "伦理学作为第一哲学 (Ethics as First Philosophy)",
+    "他者哲学 (Philosophy of the Other)",
+    "面容 (le visage)",
+    "无限 (l'infini)",
+    "il y a",
+    "总体与无限 (Totality and Infinity)",
+    "取代 (substitution)",
+    "为他 (pour l'autre)",
+    "说/所说 (le dire/le dit)",
+    "第三方与正义 (Third Party and Justice)",
+    "现象学方法的伦理改造"
+  ],
+  "distillation_date": "2026-07-26",
+  "sources_used": [
+    "Stanford Encyclopedia of Philosophy - Emmanuel Levinas",
+    "Wikipedia - Emmanuel Levinas"
+  ],
+  "default_stage": "切片三: 战俘营与存在论转向 (1940-1947)"
+}

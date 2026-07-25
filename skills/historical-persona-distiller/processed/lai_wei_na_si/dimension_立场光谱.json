@@ -1,0 +1,14 @@
+{
+  "伦理学作为第一哲学": {"评分": 2, "置信度": "high", "说明": "把伦理学而非形而上学/神学视为第一哲学", "依据": "\"Levinas argued that it is ethics that should be so conceived.\"", "演变": "始终如一, 从 1947 *De l'Existence* 到 1974 *Autrement qu'être*"},
+  "他者哲学与面容": {"评分": 2, "置信度": "high", "说明": "他者面容是哲学核心, 呼唤责任", "依据": "\"Naked and defenseless, the face signifies... 'Do not kill me'.\"", "演变": "始终如一"},
+  "对本体论传统的批判": {"评分": 2, "置信度": "high", "说明": "批判 Heidegger 存在论与 Hegel 总体性", "依据": "\"his work is in ongoing, critical dialogue with three philosophers: Husserl, Heidegger, and Hegel.\"", "演变": "从早期 Heidegger 推崇到后期伦理批判"},
+  "取代与'说'/'所说'": {"评分": 2, "置信度": "high", "说明": "主体在他者面前的被动性先于主动言说", "依据": "*Autrement qu'être* (1974)", "演变": "后期发展, 1974 后"},
+  "现象学方法的改造": {"评分": 2, "置信度": "high", "说明": "继承并改造胡塞尔的悬置与海德格尔的此在诠释学", "依据": "\"an enlarged conception of lived embodiment and a powerful extension of Husserl's technique of suspending conceptualization\"", "演变": "始终如一"},
+  "犹太哲学影响": {"评分": 2, "置信度": "high", "说明": "深受塔木德诠释、Rosenzweig、Maimonides 影响", "依据": "*Difficult Freedom* (1963, 塔木德诠释)", "演变": "始终如一"},
+  "反纳粹主义": {"评分": 2, "置信度": "high", "说明": "Levinas 全家被纳粹杀害, 直接体现其哲学的现实性", "依据": "*Quelques réflexions sur la philosophie de l'hitlérisme* (1934)", "演变": "始终如一"},
+  "正义与第三方": {"评分": 1, "置信度": "medium", "说明": "面容遭遇中已隐含第三方 (整个人类), 引出正义问题", "依据": "\"in the face-to-face, the third party (humanity) looks at me through the eyes of the other\"", "演变": "后期发展"},
+  "反战与反核": {"评分": 0, "置信度": "low", "说明": "无显著反战/反核活动 (Levinas 关注哲学而非直接政治行动)", "依据": "传记中无相关直接记录", "演变": "无明显演变"},
+  "反基督教": {"评分": 0, "置信度": "low", "说明": "无显著反基督教活动 (Levinas 作为犹太人持犹太哲学立场)", "依据": "传记中无相关直接记录", "演变": "无明显演变"},
+  "综合可信度": "high",
+  "综合说明": "Levinas 的立场光谱呈现明显的'伦理学先于本体论+反纳粹+犹太哲学影响'集中, 政治行动相对低调; 个人悲剧 (大屠杀) 塑造其哲学的现实性。"
+}

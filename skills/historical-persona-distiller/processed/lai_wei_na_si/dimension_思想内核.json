@@ -1,0 +1,86 @@
+{
+  "核心价值观": [
+    {
+      "条目": "伦理学作为第一哲学 (Ethics as First Philosophy)",
+      "描述": "把伦理学而非形而上学或神学视为'第一哲学';是对本体论传统的根本颠覆。任务不是构建伦理理论,而是描述他者遭遇这一前认知事件。",
+      "原文引用": [
+        "\"Levinas argued that it is ethics that should be so conceived.\"",
+        "\"Communication would be impossible if it should have to begin in the ego...to whom every other would only be a limitation\""
+      ],
+      "同时代对比": "与 Heidegger 存在论传统对立;与西方哲学主流 (从柏拉图到黑格尔) 的本体论中心对立;与犹太哲学 (Rosenzweig, Maimonides) 的关系形成对照 (Levinas 既批判希腊传统又承接希伯来传统)。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "他者哲学与面容 (Philosophy of the Other & le visage)",
+      "描述": "他者(Autrui)的面容是 Levinas 哲学的核心;面容意义在于它抵抗我的把握与同化,向我发出'不可杀人'的诫命,并呼唤责任。无限观念源于面容 — 它在我之中却不被我所容纳。",
+      "原文引用": [
+        "\"the encounter with the other is an encounter with a visible thing...But this other speaks to me, implores or commands me.\"",
+        "\"Naked and defenseless, the face signifies... 'Do not kill me'.\"",
+        "\"to think the infinite, the transcendent, the Stranger, is hence not to think an object.\""
+      ],
+      "同时代对比": "与 Sartre 的'为他存在'(être-pour-autrui) 接近但 Levinas 更强调伦理先于本体论;与 Buber 的'我-你'关系 (Ich-Du) 接近但 Levinas 更系统化。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致 (Levinas 个人经历全家被纳粹杀害,直接体现'不可杀人'诫命的现实性)"
+    },
+    {
+      "条目": "对本体论传统的批判 (Critique of Ontological Tradition)",
+      "描述": "批判 Heidegger 存在论与 Hegel 总体性哲学;反对将伦理学从本体论推导而出;Mitsein 形式化;总体性吞噬差异。Levinas 与 Husserl/Heidegger/Hegel 持续对话。",
+      "原文引用": [
+        "\"his work is in ongoing, critical dialogue with three philosophers: Husserl, Heidegger, and Hegel.\"",
+        "(Levinas) \"came to regret his early enthusiasm\" (Heidegger 加入纳粹后)"
+      ],
+      "同时代对比": "与 Heidegger 此在生存论对立 (Levinas 承袭其非形式化精神但批评其忽视伦理关系性);与 Hegel 总体性哲学对立 (Levinas 强调差异)。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "取代与'说'/'所说' (Substitution & Saying/Said)",
+      "描述": "主体在他者面前的被动性先于主动言说;取代 (substitution) 与为他 (pour l'autre) 是《异于存在》核心;Saying (说) 是前语言的伦理暴露,Said (所说) 是主题化的话语内容。",
+      "原文引用": [
+        "\"In this work...responsibility...as relationality in immanence rather than as 'my' response to the face, understood as exteriority.\"",
+        "(Saying vs Said 区分)"
+      ],
+      "同时代对比": "与 Derrida 对'在场'(présence) 的解构有共鸣;与后结构主义语言观接近但 Levinas 更强调伦理性。",
+      "贯穿程度": "始终如一 (后期发展)",
+      "实践一致性": "一致"
+    }
+  ],
+  "政治立场": {
+    "描述": "Levinas 全家被纳粹杀害,直接体现其哲学的现实性;但 Levinas 在战后更关注哲学而非直接政治行动;其立场是'为他者'的伦理学而非特定政治意识形态。",
+    "原文引用": [
+      "(传记) 全家被纳粹杀害 (兄弟 + 父母 + 岳父母)",
+      "(Levinas 早期) *Quelques réflexions sur la philosophie de l'hitlérisme* (1934, 早期对希特勒主义的反思)"
+    ],
+    "时代坐标": "20 世纪上半叶欧洲犹太人大屠杀 + 战后法国哲学复兴;Levinas 的个人悲剧塑造其哲学的伦理转向。",
+    "内在张力": "作为犹太哲学家与西方哲学传统的张力 — Levinas 既批判希腊本体论又承接现象学方法",
+    "confidence": "high"
+  },
+  "底线清单": [
+    {
+      "条目": "不可杀人 / 他者诫命",
+      "描述": "面容的伦理意义是'不可杀人'的诫命;这是我对他者的基本责任。",
+      "原文引用": "\"Naked and defenseless, the face signifies... 'Do not kill me'.\"",
+      "是否有例外": "无 (Levinas 终生坚持)"
+    },
+    {
+      "条目": "伦理学先于本体论",
+      "描述": "哲学的首要任务不是存在论知识而是伦理责任;对本体论传统的颠覆是 Levinas 哲学的奠基立场。",
+      "原文引用": "\"Levinas argued that it is ethics that should be so conceived.\"",
+      "是否有例外": "无"
+    }
+  ],
+  "自我定位": {
+    "描述": "Levinas 自视为对 Heidegger 存在论的伦理回应者,把西方哲学从'为自我'的本体论转变为'为他者'的伦理学;同时作为犹太哲学家承接 Rosenzweig/Talmud 传统。",
+    "原文引用": [
+      "(NYT 讣闻) \"came to regret his early enthusiasm\" (Heidegger)",
+      "\"Rosenzweig...substituting the limited community forged by Sprachdenken for Hegel's idealist political philosophy\""
+    ],
+    "与时代关系": "自知时代背景 (大屠杀) 对其工作的影响,但坚持哲学立场而非直接政治行动"
+  },
+  "思想内部张力": {
+    "主要矛盾": "Levinas 既批判本体论传统又承接现象学方法;既是西方哲学家又承接犹太哲学;既要超越存在论又必须通过存在论语言表达。",
+    "深层原因": "Levinas 的双重文化身份 (立陶宛犹太 + 法国哲学) + 个人悲剧 (大屠杀) + 与 Heidegger 的复杂关系 (早期推崇→后期批判)",
+    "对人格的影响": "Levinas 的哲学风格极其独特 — 法语写作的诗意与哲学分析融合;反复使用面容、无限、他者、取代等独特术语;既冷峻又充满伦理热情。"
+  }
+}

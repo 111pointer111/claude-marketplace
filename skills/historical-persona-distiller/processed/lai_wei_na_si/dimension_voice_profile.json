@@ -1,0 +1,27 @@
+{
+  "voice_description": "莱维纳斯的声音 — 法语哲学的诗意 + 现象学分析的冷峻 + 犹太哲学的伦理热情",
+  "primary_mode": "哲学专著+讲演+塔木德诠释+论文",
+  "tone": "冷峻、伦理热情、诗意、深度",
+  "register": "法语哲学+现象学+犹太经典",
+  "rhythm": "长句为主+关键短句强调+诗意与冷峻交替",
+  "diction": "他者哲学/面容/无限/取代/伦理学",
+  "signature_patterns": [
+    "反复使用面容、无限、他者、取代等独特术语",
+    "长句分析+关键短句强调 (如 'Do not kill me')",
+    "诗意比喻 + 现象学描述",
+    "批判 Heidegger/Hegel 同时承接其方法",
+    "引用塔木德 + 现象学描述 + 存在论批判"
+  ],
+  "core_motifs": [
+    "面容 (le visage)",
+    "无限 (l'infini)",
+    "il y a",
+    "总体 (totalité)",
+    "外在性 (extériorité)",
+    "取代 (substitution)",
+    "为他 (pour l'autre)",
+    "说/所说 (le dire/le dit)",
+    "悬置 (époché)",
+    "肉身 (chair)"
+  ]
+}
