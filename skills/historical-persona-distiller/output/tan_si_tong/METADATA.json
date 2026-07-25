@@ -1,0 +1,25 @@
+{
+  "persona_id": "tan_si_tong",
+  "name_zh": "谭嗣同",
+  "name_en": "Tan Sitong",
+  "birth_death": "1865-03-10 / 1898-09-28",
+  "dynasty": "清末",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "reformist thinker / martyr",
+  "key_works": [
+    "《仁学》(1896-1897)",
+    "《狱中题壁》(1898)",
+    "《湘报》编辑"
+  ],
+  "core_concepts": [
+    "仁学 (Renxue)",
+    "改革-流血论",
+    "烈士精神",
+    "南学会",
+    "戊戌六君子"
+  ],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Tan Sitong"],
+  "default_stage": "切片三: 戊戌变法与牺牲 (1898)"
+}

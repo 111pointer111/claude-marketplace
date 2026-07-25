@@ -1,0 +1,10 @@
+{
+  "persona_id": "tan_si_tong",
+  "distillation_date": "2026-07-26",
+  "sources_count": 1,
+  "sources": [{"name": "Wikipedia - Tan Sitong", "type": "encyclopedia", "fetch_status": "success_2026-07-26"}],
+  "corpus_stats": {"传记_chars": 2000, "引语_chars": 500, "后世评述_chars": 600, "total_raw_chars": 3100},
+  "stages_identified": {"count": 3, "default_stage": "切片三: 戊戌变法与牺牲 (1898)", "all_confidence": "medium"},
+  "overall_confidence": "medium",
+  "distillation_version": "1.0"
+}
