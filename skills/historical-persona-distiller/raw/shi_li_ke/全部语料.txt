@@ -1,0 +1,90 @@
+# Moritz Schlick 全部语料 (合并)
+
+> 合并自 传记.txt + 引语.txt + 后世评述.txt
+> 抓取日期: 2026-07-26
+
+---
+
+# 一、传记
+
+## 基本信息
+- **Friedrich Albert Moritz Schlick** (1882-04-14 至 1936-06-22)
+- 德国哲学家、物理学家、逻辑实证主义创始人之一、维也纳学派领袖
+- 1936-06-22 被前学生 Johann Nelböck 刺杀,享年 54
+
+## 教育
+- 16 岁读 Descartes + Schopenhauer;深受 Nietzsche 影响
+- 海德堡大学、洛桑大学、柏林大学 (师从 Max Planck) 修物理学
+- 1904 柏林大学博士,导师 Planck
+- 坚信只有数学物理能提供精确知识
+
+## 学术生涯
+- 1907 与 Blanche Hardy 结婚
+- 1908 *Lebensweisheit* (幸福论)
+- 1910 Habilitation at Rostock,《真理的本质》
+- 1917 *Raum und Zeit* — Einstein 赞其清晰
+- 1922 接任维也纳大学 Naturphilosophie 教席 (Boltzmann → Mach → Schlick)
+
+## 维也纳学派
+- 1924 由 Feigl 和 Waismann 发起讨论组
+- 1929 成为公开的维也纳学派
+- 成员: Hahn, Carnap, Feigl, Gödel, Neurath, Waismann
+- 议题:Frege, Russell, Wittgenstein
+- Schlick 影响 Wittgenstein 重返哲学
+- 1929 维也纳学派宣言 (Carnap/Hahn/Neurath 起草)
+- *Erkenntnis* 期刊 (1930 起)
+
+## 核心思想
+1. 认识论 — 批评综合先验,形而上学 = 无意义
+2. 证实主义 — 命题意义在于证实方法
+3. 基础主义 / 科学统一 — Beobachtungssatz 基础
+4. 拒斥形而上学 — 通过语法规则处理
+5. 因果实在论 — point-coincidences 构造客观时空秩序
+6. 自由意志 — 伪问题
+7. 伦理学 — 经验主义幸福论
+8. 维特根斯坦解读 — 哲学 = 建立命题意义
+
+## 主要著作
+- *Lebensweisheit* (1908)
+- *Das Wesen der Wahrheit nach der modernen Logik* (1910)
+- *Raum und Zeit in der gegenwärtigen Physik* (1917)
+- *Allgemeine Erkenntnislehre* (1918, 2nd ed. 1925)
+- *Fragen der Ethik* / *Problems of Ethics* (1930)
+- "The Turning Point in Philosophy" (1930)
+- "Über das Fundament der Erkenntnis" (1934)
+- "Unanswerable Questions?" (1935)
+- "Meaning and Verification" (1936)
+
+## 逝世
+- 1936-06-22 上午 9:20 在维也纳大学 Philosophenstiege 被 Nelböck 开 4 枪
+- 现场死亡
+- Nelböck 判 10 年,1938 Anschluss 后 2 年假释
+- 案件成为 cause célèbre
+
+## 历史评价
+- Feigl and Blumberg: "No other thinker was so well prepared to give new impetus to the philosophical questings of the younger generation."
+
+---
+
+# 二、直接引语
+
+- "the meaning of every proposition is exhaustively determined by its verification of the given"
+- "consistent empiricism"
+- "solipsism is a contingent truth which is treated by its defenders as unfalsifiable"
+- "synonymous with meaningless"
+- "Universal validity is something altogether different from 'compulsion'."
+- "Increase your happiness!"
+- (哲学) "the alpha and omega of all scientific knowledge"
+- "The scientific world-conception serves life, and life receives it."
+
+---
+
+# 三、后世评述
+
+- 维也纳学派创立者与名义领袖
+- 逻辑实证主义创始人之父之一
+- 维也纳学派影响 Quine, Sellars, Ayer
+- 刺杀事件标志欧洲大陆分析哲学的终结
+- 维也纳学派流亡 (Carnap/Ayer/Neurath/Feigl 赴美)
+- Karl Popper 反对可证实性 (但 Popper 自列 Schlick 博士生)
+- Neurath 在物理主义 vs 现象主义上与 Schlick 有分歧

@@ -1,0 +1,117 @@
+# Moritz Schlick 传记
+
+> 来源: Stanford Encyclopedia of Philosophy + Wikipedia
+> 抓取日期: 2026-07-26
+
+## 基本信息
+
+- **Friedrich Albert Moritz Schlick** (1882-04-14 至 1936-06-22)
+- 德国哲学家、物理学家、逻辑实证主义创始人之一、维也纳学派领袖
+- 1936-06-22 被前学生 Johann Nelböck 在维也纳大学楼梯 (Philosophenstiege) 上刺杀身亡,享年 54
+
+## 教育
+
+- 16 岁读 Descartes《第一哲学沉思集》与 Schopenhauer;深受 Nietzsche《查拉图斯特拉如是说》影响
+- 海德堡大学、洛桑大学、柏林大学 (师从 Max Planck) 修物理学
+- 1904 柏林大学博士,论文《Über die Reflexion des Lichts in einer inhomogenen Schicht》(非均匀介质中的光反射),导师 Max Planck
+- 坚信只有数学物理能提供精确知识;不信任形而上学思辨
+
+## 学术生涯
+
+- 1907 与 Blanche Hardy 结婚
+- 1908 *Lebensweisheit* (幸福论)
+- 1910 Habilitation at Rostock,《真理的本质》(现代逻辑)
+- 1915 发表 Einstein 狭义相对论相关文章
+- 1917 *Raum und Zeit in der gegenwärtigen Physik* (时空观) — 应用 Poincaré 几何约定论于广义相对论,Einstein 赞其清晰
+- 1922 接任维也纳大学 Naturphilosophie 教席 (此前由 Boltzmann 和 Mach 担任)
+- 罗斯托克大学 → 基尔大学 → 维也纳大学
+
+## 维也纳学派 (Vienna Circle)
+
+- 1924 由学生 Feigl 和 Waismann 发起讨论组 ("Schlick Zirkel")
+- 1929 成为公开的"维也纳学派"
+- 早:数学家 Hans Hahn;后: Carnap, Feigl, Gödel, Neurath, Waismann 加入
+- 前身:Ernst Mach Association
+- 议题:Frege, Russell, Wittgenstein
+- Schlick 影响 Wittgenstein 重返哲学 (此前近十年离开)
+- 后因 Carnap 文章使用 Wittgenstein 思想未注明,与 Wittgenstein 关系破裂
+- 出版物: *Erkenntnis* (1930 起)
+
+## 核心思想
+
+### 1. 认识论 (Allgemeine Erkenntnislehre 1918/1925)
+- 批评综合先验知识
+- 只有定义上自明的真理 (逻辑、数学) 不需要经验检验
+- 既非定义又非经验可检验的陈述是"形而上学" — 等于无意义
+
+### 2. 证实主义 (Verificationism)
+- 命题意义在于其被证实的方法
+- > "the meaning of every proposition is exhaustively determined by its verification of the given"
+- 伦理学陈述无法被证实,故非真正的知识陈述
+- 维也纳学派 + Wittgenstein 共同坚持:有意义的命题必须可被经验证实或证伪
+
+### 3. 基础主义 / 科学统一
+- Beobachtungssatz (观察陈述) 作为一般认识论基础
+- 内部规则 vs 应用规则
+
+### 4. 拒斥形而上学
+- 1932-33 *Positivism and Realism* 定义实证主义为"否认形而上学可能性"
+- 1936 *Meaning and Verification* — 通过语法规则处理形而上学
+
+### 5. 因果实在论
+- 日常经验自然导向因果实在论
+- 反对 Helmholtz 符号理论的最早因果诠释
+- point-coincidences (点重合) 方法构造客观时空秩序
+
+### 6. 自由意志 (伪问题)
+- 把自由意志视为"哲学最大丑闻之一" — 伪问题
+- 区分法律"规律" (国家规定) vs 科学"规律" (事物如何运行的描述)
+- 自然规律非规定性,无"强制"
+- > "Universal validity is something altogether different from 'compulsion'"
+
+### 7. 伦理学 (Fragen der Ethik 1930)
+- 少数关注伦理学的维也纳学派成员 (令同侪惊讶)
+- 伦理陈述 = 关于幸福最大化的经验主张
+- > "Increase your happiness!"
+- 反对康德绝对命令
+- 区分"善的伦理学"vs"义务的伦理学"
+
+### 8. 维特根斯坦解读
+- 哲学 = 建立命题意义的活动 — "the alpha and omega of all scientific knowledge"
+
+## 主要著作
+
+- *Lebensweisheit* (1908, 幸福论)
+- *Das Wesen der Wahrheit nach der modernen Logik* (1910)
+- *Raum und Zeit in der gegenwärtigen Physik* (1917, 4th ed. 1922)
+- *Allgemeine Erkenntnislehre* / *General Theory of Knowledge* (1918, 2nd ed. 1925)
+- *Fragen der Ethik* / *Problems of Ethics* (1930)
+- "The Turning Point in Philosophy" (*Erkenntnis*, 1930)
+- "Über das Fundament der Erkenntnis" (*Erkenntnis*, 1934)
+- "Unanswerable Questions?" (1935)
+- "Meaning and Verification" (1936)
+
+## 关系
+
+- **Max Planck**: 博士导师
+- **Ludwig Wittgenstein**: Schlick 鼓励其重返哲学;后关系破裂 (因 Carnap)
+- **Rudolf Carnap**: 维也纳学派成员;后与 Wittgenstein 争执焦点
+- **Albert Einstein**: 通信;Einstein 赞 *Raum und Zeit*
+- **Karl Popper**: 列 Schlick 博士生
+- **Hans Hahn, Neurath, Feigl, Waismann, Gödel**: 维也纳学派成员
+- **Boltzmann, Mach**: 维也纳大学前任教席持有者
+
+## 逝世
+
+- 1936-06-22 上午 9:20,Schlick 走上 Philosophenstiege (哲学阶梯) 准备讲课时
+- Johann Nelböck 用 6.35mm 手枪开 4 枪
+- 现场死亡
+- Nelböck 精神正常,两个动机叙事: (1) Schlick 反形而上学哲学"干扰了他的道德约束" (2) 因 Sylvia Borowicka 嫉妒妄想
+- 判 10 年,1938 Anschluss 后 2 年假释
+- 案件成为民族主义与反犹太宣传的 cause célèbre (但 Schlick 非犹太人)
+
+## 历史评价
+
+- "No other thinker was so well prepared to give new impetus to the philosophical questings of the younger generation." — Herbert Feigl and Albert Blumberg
+- 维也纳学派名义领袖
+- 维也纳学派宣言 (1929) 实际起草人为 Carnap/Hahn/Neurath,但 Schlick 是精神领袖

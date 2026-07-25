@@ -1,0 +1,72 @@
+{
+  "核心价值观": [
+    {
+      "条目": "证实主义 (Verificationism)",
+      "描述": "命题的意义在于其被证实的方法;无意义的命题 (形而上学命题) 既不可证实也不可证伪。Schlick 把意义从真理转向证实,完成了从 Bolzmann/Mach 到 Wittgenstein 的关键转向。",
+      "原文引用": [
+        "\"the meaning of every proposition is exhaustively determined by its verification of the given\" ——《Positivism and Realism》(1932-33)",
+        "\"synonymous with meaningless\" ——《Allgemeine Erkenntnislehre》(1918/1925, 论形而上学命题)"
+      ],
+      "同时代对比": "与传统的形而上学传统 (黑格尔/Bradley) 和 Moore 式常识哲学对立;与 Wittgenstein 早期 *Tractatus* 接近但不及后者激进 (Wittgenstein 主张'对于不可言说之物必须保持沉默',Schlick 更注重通过证实方法处理意义)。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "彻底经验主义 / 一致经验主义 (Consistent Empiricism)",
+      "描述": "Schlick 拒斥先验综合判断,把一切知识根植于经验观察;接受数学与逻辑作为定义性真理,但反对其他先验主张。其立场融合结构实在论与语言转向。",
+      "原文引用": [
+        "\"consistent empiricism\" (Schlick 自定位)",
+        "\"Beobachtungssatz\" 作为一般认识论基础 ——《Über das Fundament der Erkenntnis》(1934)"
+      ],
+      "同时代对比": "与康德式先验综合判断对立;与 Hume 经验主义接近但加入现代逻辑工具;后期 Quine 进一步放松 (拒分析/综合区分)。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "科学统一 / 拒斥形而上学",
+      "描述": "形而上学是语言误用;哲学应作为确立命题意义的活动,服务于科学统一 (Unity of Science)。这是维也纳学派 1929 宣言的核心立场。",
+      "原文引用": [
+        "(哲学) \"the alpha and omega of all scientific knowledge\" —— Schlick 解读 Wittgenstein",
+        "\"The scientific world-conception serves life, and life receives it.\" ——《Vienna Circle Manifesto》(1929)"
+      ],
+      "同时代对比": "与 Husserl 现象学传统对立 (后者把形而上学重新合法化);与海德格尔式存在论对立;维也纳学派通过 Neurath 继续推进,Quine 自然化认识论是其后裔。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    }
+  ],
+  "政治立场": {
+    "描述": "Schlick 不深入政治哲学;但其科学世界观和伦理学经验主义立场暗含一种开明理性主义 (rational humanism) — 通过科学方法改善人类福祉。其伦理学把道德根植于幸福最大化,与边沁式功利主义接近。",
+    "原文引用": [
+      "\"Increase your happiness!\" ——《Problems of Ethics》(1930)"
+    ],
+    "时代坐标": "20 世纪上半叶德语世界与维也纳,正值纳粹兴起与战前欧洲动荡;Schlick 本人是自由派学者,1936 遇刺时案件被民族主义者利用。",
+    "内在张力": "科学世界观与纳粹意识形态的对立是 Schlick 个人悲剧的宏观背景",
+    "confidence": "medium"
+  },
+  "底线清单": [
+    {
+      "条目": "形而上学命题的无意义性",
+      "描述": "形而上学命题既非定义性 (逻辑/数学) 又非经验可检验,故无意义;Schlick 把这视为不可动摇的基础。",
+      "原文引用": "\"synonymous with meaningless\" ——《Allgemeine Erkenntnislehre》(1918/1925)",
+      "是否有例外": "无 (Schlick 终生坚持)"
+    },
+    {
+      "条目": "自然规律的非规定性",
+      "描述": "自然规律是描述性的,非规定性;无'强制'可言。这一观点排除'自然律的强制'语义。",
+      "原文引用": "\"Universal validity is something altogether different from 'compulsion'.\"",
+      "是否有例外": "无"
+    }
+  ],
+  "自我定位": {
+    "描述": "Schlick 自视为科学哲学的领导者与维也纳学派的精神核心;其角色介于物理学-哲学转译者与哲学方法论奠基者之间。",
+    "原文引用": [
+      "Feigl and Blumberg: \"No other thinker was so well prepared to give new impetus to the philosophical questings of the younger generation.\""
+    ],
+    "与时代关系": "自知影响重大但谦逊;被同行尊为'学派领袖'但本人较少参与宣言起草 (1929 宣言实际起草人为 Carnap/Hahn/Neurath)"
+  },
+  "思想内部张力": {
+    "主要矛盾": "Schlick 强调'证实'作为意义标准,但同时接受结构实在论 — 这两者如何调和?其内部规则 vs 应用规则的区分部分解决了张力,但仍留下问题。",
+    "深层原因": "Schlick 物理学家出身与维也纳学派语言转向的张力;他比 Carnap 更保留实在论,但比 Neurath 更接受意义问题。",
+    "对人格的影响": "Schlick 的人格体现'物理学家+哲学家'双重性:冷静、精确、追求清晰定义;维也纳学派成员尊他为精神领袖,但实际起草工作主要由 Carnap/Hahn/Neurath 完成。"
+  }
+}

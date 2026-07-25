@@ -1,0 +1,36 @@
+{
+  "persona_id": "shi_li_ke",
+  "name_zh": "石里克",
+  "name_en": "Moritz Schlick (Friedrich Albert Moritz Schlick)",
+  "birth_death": "1882-04-14 / 1936-06-22",
+  "dynasty": "19-20世纪德语-奥地利",
+  "confidence": "medium",
+  "priority": "medium",
+  "persona_type": "philosopher / physicist / Vienna Circle leader",
+  "key_works": [
+    "《Lebensweisheit》(1908)",
+    "《Das Wesen der Wahrheit nach der modernen Logik》(1910)",
+    "《Raum und Zeit in der gegenwärtigen Physik》(1917, 4th ed. 1922)",
+    "《Allgemeine Erkenntnislehre》(1918, 2nd ed. 1925)",
+    "《Fragen der Ethik》/《Problems of Ethics》(1930)",
+    "\"The Turning Point in Philosophy\" (1930)",
+    "\"Über das Fundament der Erkenntnis\" (1934)",
+    "\"Meaning and Verification\" (1936)"
+  ],
+  "core_concepts": [
+    "证实主义 (Verificationism)",
+    "一致经验主义 (Consistent Empiricism)",
+    "拒斥形而上学",
+    "科学统一 / 维也纳学派",
+    "因果实在论",
+    "伦理学经验主义 (eudemonism)",
+    "拒斥自由意志",
+    "Beobachtungssatz (观察陈述)"
+  ],
+  "distillation_date": "2026-07-26",
+  "sources_used": [
+    "Stanford Encyclopedia of Philosophy - Moritz Schlick",
+    "Wikipedia - Moritz Schlick"
+  ],
+  "default_stage": "切片三: 维也纳学派领袖与证实主义 (1924-1934)"
+}

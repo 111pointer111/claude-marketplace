@@ -1,0 +1,14 @@
+{
+  "证实主义": {"评分": 2, "置信度": "high", "说明": "Schlick 把证实作为意义标准, 形而上学命题无意义", "依据": "\"the meaning of every proposition is exhaustively determined by its verification of the given\" ——《Positivism and Realism》(1932-33)", "演变": "始终如一, 从 1918 *Allgemeine Erkenntnislehre* 到 1936 *Meaning and Verification*"},
+  "经验主义 / 拒斥先验综合": {"评分": 2, "置信度": "high", "说明": "Schlick 拒斥先验综合判断, 把一切知识根植于经验观察", "依据": "*Allgemeine Erkenntnislehre* (1918/1925) 批评先验综合", "演变": "始终如一"},
+  "拒斥形而上学": {"评分": 2, "置信度": "high", "说明": "形而上学 = 无意义; 通过语法规则处理", "依据": "\"synonymous with meaningless\" ——《Allgemeine Erkenntnislehre》(1918/1925)", "演变": "始终如一, 1929 维也纳学派宣言系统化"},
+  "科学统一 / 物理主义": {"评分": 2, "置信度": "high", "说明": "维也纳学派追求科学统一; Neurath 物理主义是延伸", "依据": "*Erkenntnis* 期刊 (1930 起) + 维也纳学派宣言 (1929)", "演变": "始终如一"},
+  "因果实在论": {"评分": 1, "置信度": "medium", "说明": "Schlick 持因果实在论立场 (受 Einstein 影响), 反对 Helmholtz 符号理论", "依据": "*Raum und Zeit in der gegenwärtigen Physik* (1917)", "演变": "始终如一"},
+  "功利主义伦理学 (eudemonism)": {"评分": 1, "置信度": "medium", "说明": "Schlick 接受功利主义形式的伦理学, 反对康德绝对命令", "依据": "\"Increase your happiness!\" ——《Problems of Ethics》(1930)", "演变": "始终如一, 从 1908 *Lebensweisheit* 到 1930 *Fragen der Ethik*"},
+  "拒斥自由意志 (伪问题)": {"评分": 1, "置信度": "medium", "说明": "Schlick 把自由意志视为伪问题, 自然规律无强制", "依据": "\"Universal validity is something altogether different from 'compulsion'.\"", "演变": "始终如一"},
+  "维特根斯坦解读": {"评分": 1, "置信度": "medium", "说明": "Schlick 解读哲学 = 建立命题意义的活动 (受 Wittgenstein *Tractatus* 影响)", "依据": "(哲学) \"the alpha and omega of all scientific knowledge\"", "演变": "后期发展, 1929 后"},
+  "反战与反核": {"评分": 0, "置信度": "low", "说明": "无显著反战/反核活动", "依据": "传记中无相关直接记录", "演变": "无明显演变"},
+  "反基督教": {"评分": 0, "置信度": "low", "说明": "无显著反基督教活动", "依据": "传记中无相关直接记录", "演变": "无明显演变"},
+  "综合可信度": "high",
+  "综合说明": "Schlick 的立场光谱呈现明显的'科学哲学+拒斥形而上学'集中, 伦理与政治议题相对低调; 这一格局与其物理学家出身 + 维也纳学派领袖角色一致。"
+}

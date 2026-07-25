@@ -1,0 +1,26 @@
+{
+  "voice_description": "石里克的声音 — 物理学家的精确性 + 维也纳学派的语言转向",
+  "primary_mode": "学术论文+教科书+宣言+讲演",
+  "tone": "冷静、精确、清晰、权威但不独断",
+  "register": "德语哲学+物理学哲学+分析论证",
+  "rhythm": "短句+中等句+清晰论证",
+  "diction": "证实主义/科学世界观/经验主义",
+  "signature_patterns": [
+    "用定义+分类+逻辑推演 (不靠隐喻)",
+    "把哲学问题归约到语法规则或经验证实",
+    "冷静陈述形而上学 = 无意义",
+    "物理学精确性 + 维也纳学派清晰度"
+  ],
+  "core_motifs": [
+    "证实 (verification)",
+    "观察陈述 (Beobachtungssatz)",
+    "形而上学 (metaphysics)",
+    "点重合 (point-coincidences)",
+    "幸福 (happiness)",
+    "强制 (compulsion)",
+    "科学世界观 (scientific world-conception)",
+    "因果实在论 (causal realism)",
+    "语言规则 (rules of language)",
+    "逻辑真理 (logical truth)"
+  ]
+}

@@ -1,0 +1,45 @@
+# Moritz Schlick 后世评述
+
+> 来源: SEP + Wikipedia + 公开西方哲学常识
+> 抓取日期: 2026-07-26
+
+## 历史定位
+
+- 维也纳学派 (Vienna Circle) 创立者与名义领袖
+- 逻辑实证主义 (Logical Positivism) 创始人之父之一 (与 Carnap 一同)
+- 物理学家转哲学家 — 数学物理背景塑造其经验主义
+- 维也纳大学 Naturphilosophie 教席 — 自 Boltzmann → Mach → Schlick
+
+## 思想史意义
+
+- 1929 维也纳学派宣言:开启 20 世纪分析哲学的"科学世界观"运动
+- 维也纳学派影响:英语世界逻辑实证主义传播 (通过 Carnap 1936 赴美 + 1939 维也纳学派流亡)
+- 把哲学从形而上学拉向语言与意义问题
+- 维也纳学派影响了 Quine、Sellars、Ayer 等
+
+## 主要批评者
+
+- **Karl Popper**: 反对可证实性,提出可证伪性 (但 Popper 自列 Schlick 博士生)
+- **Wittgenstein**: 后期关系破裂 (Carnap 文章事件)
+- **Neurath**: 与 Schlick 在物理主义 vs 现象主义上有分歧
+- **Gödel**: 不接受维也纳学派的反形而上学立场
+
+## 刺杀事件历史评价
+
+- 1936-06-22 刺杀成为维也纳学派转折点
+- 刺杀案被纳粹/民族主义者利用 (尽管 Schlick 非犹太人)
+- 维也纳学派流亡 (1938 Anschluss 后 Carnap/Ayer/Neurath/Feigl 赴美)
+- 标志欧洲大陆分析哲学的终结,转向英语世界
+
+## 后世影响
+
+- 维也纳学派:Quine, Sellars, Carnap (后期) 传承
+- 证实主义:Ayer *Language, Truth and Logic* 传播到英语世界
+- 物理主义:Neurath → 维也纳学派流亡后建立 unified science 运动
+- 因果实在论:被 Einstein 赞赏,影响科学哲学
+
+## 思想史意义
+
+- 把"哲学作为意义确定的活动"系统化 — 维特根斯坦解读
+- 把伦理学纳入可讨论范畴 (尽管非认知)
+- 为科学哲学奠定经验主义基础
