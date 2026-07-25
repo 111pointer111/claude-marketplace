@@ -1,0 +1,29 @@
+{
+  "persona_id": "yan_fu",
+  "name_zh": "严复",
+  "name_en": "Yan Fu",
+  "birth_death": "1854-01-08 / 1921-10-27",
+  "dynasty": "清末民初",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "translator / enlightenment thinker",
+  "key_works": [
+    "《天演论》(Huxley, 1898)",
+    "《原富》(Adam Smith, 1901)",
+    "《群学肄言》(Spencer, 1903)",
+    "《群己权界论》(Mill《论自由》, 1903)",
+    "《穆勒名学》(Mill《逻辑体系》, 1903)",
+    "《法意》(Montesquieu, 1904-09)",
+    "《名学浅说》(Jevons, 1909)"
+  ],
+  "core_concepts": [
+    "信达雅翻译原则",
+    "社会达尔文主义",
+    "天演/物竞天择",
+    "群学",
+    "西方思想系统引入"
+  ],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Yan Fu"],
+  "default_stage": "切片二: 启蒙翻译 (1895-1909)"
+}

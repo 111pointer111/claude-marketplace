@@ -1,0 +1,8 @@
+{
+  "persona_id": "yan_fu",
+  "distillation_date": "2026-07-26",
+  "sources_count": 1,
+  "sources": [{"name": "Wikipedia - Yan Fu", "type": "encyclopedia", "fetch_status": "success_2026-07-26"}],
+  "overall_confidence": "medium",
+  "distillation_version": "1.0"
+}
