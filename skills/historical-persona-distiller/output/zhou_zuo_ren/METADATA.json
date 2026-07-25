@@ -1,0 +1,15 @@
+{
+  "persona_id": "zhou_zuo_ren",
+  "name_zh": "周作人",
+  "name_en": "Zhou Zuoren",
+  "birth_death": "1885-01-16 / 1967-05-06",
+  "dynasty": "民国-当代",
+  "confidence": "medium",
+  "priority": "medium",
+  "persona_type": "essayist / translator",
+  "key_works": ["《人的文学》(1918)", "美文小品"],
+  "core_concepts": ["人的文学", "美文小品", "翻译 (希腊/日本文学)", "与鲁迅对照的'另一面'"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Zhou Zuoren"],
+  "default_stage": "切片二: 新文化与散文 (1911-1923)"
+}
