@@ -1,0 +1,30 @@
+{
+  "persona_id": "liang_qi_chao",
+  "name_zh": "梁启超",
+  "name_en": "Liang Qichao",
+  "birth_death": "1873-02-23 / 1929-01-19",
+  "dynasty": "清末民初",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "enlightenment thinker / journalist / historian",
+  "key_works": [
+    "《新民说》(1902)",
+    "《饮冰室合集》(148卷)",
+    "《清代学术概论》(1920)",
+    "《中国近三百年学术史》(1924)",
+    "《新中国未来记》(1902, 政治小说)"
+  ],
+  "core_concepts": [
+    "新民 (New Citizen)",
+    "启蒙 (Enlightenment)",
+    "维新 (Reform)",
+    "新史学 (New Historiography)",
+    "五族共和",
+    "三世说",
+    "政治演变 (君主立宪 → 共和)",
+    "现代新闻业"
+  ],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Liang Qichao"],
+  "default_stage": "切片二: 戊戌变法与流亡海外 (1895-1911)"
+}

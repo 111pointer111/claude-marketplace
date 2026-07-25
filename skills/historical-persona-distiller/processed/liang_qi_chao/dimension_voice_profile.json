@@ -1,0 +1,25 @@
+{
+  "voice_description": "梁启超的声音 — 新民体的雄辩 + 启蒙热情 + 现代新闻业奠基",
+  "primary_mode": "政论+学术专著+新闻+诗词",
+  "tone": "雄辩、启蒙热情、改革、关怀",
+  "register": "现代汉语+半文半白+新民体",
+  "rhythm": "中等句为主",
+  "diction": "新民/启蒙/维新/饮冰",
+  "signature_patterns": [
+    "用新民体雄辩 + 启蒙论证",
+    "反复使用 '新民'、'饮冰'、'三世说' 等独特术语",
+    "政论+学术混合风格"
+  ],
+  "core_motifs": [
+    "新民 (New Citizen)",
+    "饮冰 (Ice-Drinker)",
+    "三世说 (Three Ages)",
+    "维新",
+    "新史学 (New Historiography)",
+    "五族共和",
+    "戊戌变法",
+    "公车上书",
+    "启蒙 (Enlightenment)",
+    "小说界革命"
+  ]
+}

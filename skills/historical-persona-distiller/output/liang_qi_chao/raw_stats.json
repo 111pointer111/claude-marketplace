@@ -1,0 +1,10 @@
+{
+  "persona_id": "liang_qi_chao",
+  "distillation_date": "2026-07-26",
+  "sources_count": 1,
+  "sources": [{"name": "Wikipedia - Liang Qichao", "type": "encyclopedia", "fetch_status": "success_2026-07-26"}],
+  "corpus_stats": {"传记_chars": 3000, "引语_chars": 600, "后世评述_chars": 800, "total_raw_chars": 4400},
+  "stages_identified": {"count": 4, "default_stage": "切片二: 戊戌变法与流亡海外 (1895-1911)", "all_confidence": "medium"},
+  "overall_confidence": "medium",
+  "distillation_version": "1.0"
+}
