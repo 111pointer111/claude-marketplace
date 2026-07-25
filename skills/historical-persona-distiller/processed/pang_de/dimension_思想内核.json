@@ -1,0 +1,9 @@
+{
+  "核心价值观": [
+    {"条目": "意象主义", "description": "现代主义诗歌运动; \"make it new\"", "贯穿程度": "始终如一"},
+    {"条目": "《诗章》 (Cantos)", "description": "未完成的史诗; 现代主义经典", "贯穿程度": "始终如一"},
+    {"条目": "导师/编辑", "description": "Eliot/Joyce/Hemingway/Frost", "贯穿程度": "始终如一"},
+    {"条目": "中国诗翻译 (Cathay)", "description": "中国古典诗翻译; T.S. Eliot 受影响", "贯穿程度": "始终如一"}
+  ],
+  "政治立场": {"description": "争议 (墨索里尼广播); 叛国罪", "confidence": "high"}
+}

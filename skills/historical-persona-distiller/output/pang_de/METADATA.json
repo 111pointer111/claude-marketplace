@@ -1,0 +1,15 @@
+{
+  "persona_id": "pang_de",
+  "name_zh": "庞德",
+  "name_en": "Ezra Pound",
+  "birth_death": "1885-10-30 / 1972-11-01",
+  "dynasty": "19-20世纪美国",
+  "confidence": "medium",
+  "priority": "medium",
+  "persona_type": "poet / critic / translator",
+  "key_works": ["《In a Station of the Metro》(1913)", "《Cathay》(1915)", "《Hugh Selwyn Mauberley》(1920)", "《诗章》(1915-1962)"],
+  "core_concepts": ["意象主义", "《诗章》", "导师/编辑", "中国诗翻译", "make it new"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Ezra Pound"],
+  "default_stage": "切片二: 巴黎与意大利 (1921-1942)"
+}
