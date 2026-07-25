@@ -1,0 +1,15 @@
+{
+  "persona_id": "qian_mu",
+  "name_zh": "钱穆",
+  "name_en": "Qian Mu (Ch'ien Mu)",
+  "birth_death": "1895-07-30 / 1990-08-30",
+  "dynasty": "民国-当代",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "historian / New Confucian",
+  "key_works": ["《国史大纲》(1940)", "《朱子新学案》", "《宋明理学》"],
+  "core_concepts": ["民族文化守护", "新儒家", "史学", "新亚书院"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Qian Mu"],
+  "default_stage": "切片三: 抗战与《国史大纲》(1937-1949)"
+}
