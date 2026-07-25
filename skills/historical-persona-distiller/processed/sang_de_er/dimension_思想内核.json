@@ -1,0 +1,92 @@
+{
+  "核心价值观": [
+    {
+      "条目": "社群主义 (Communitarianism)",
+      "描述": "批判 Rawls 式自由主义对'无负担的自我'的假设;实际上, 家庭纽带等不是选择的, 不能假设性地摆脱。Sandel 自称对此标签不太舒服, 但其立场是社群主义传统。",
+      "原文引用": [
+        "Rawls 的'无知之幕'把人们视为 \"unencumbered selves\"",
+        "(实际上, 家庭纽带等不是选择的, 不能假设性地摆脱)"
+      ],
+      "同时代对比": "与 Rawls 自由主义对立;与 Charles Taylor, Alasdair MacIntyre, Michael Walzer 等社群主义同列;与 Dworkin/Nozick 自由主义同侪形成对照。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "正义 vs 共同善 (Justice vs Common Good)",
+      "描述": "区分'作为公平的正义'(Rawls) vs '共同善'(Sandel);自由主义强调分配正义, 社群主义强调共同善。Sandel 主张民主政治必须关注共同善而非仅仅分配正义。",
+      "原文引用": [
+        "(共同善) discontent takes \"the form of inchoate anxieties—a growing sense that we were losing control of the forces that govern our lives\" ——《Democracy's Discontent》(1996)"
+      ],
+      "同时代对比": "与 Rawls 自由主义对立 (Rawls 强调分配正义);与 Sandel 同代的 Taylor/MacIntyre/Walzer 形成社群主义联盟;与 Aristotle 政治哲学传统接近。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "市场的道德边界 (Moral Limits of Markets)",
+      "描述": "捍卫道德边界, 反对把一切都市场化;批评市场逻辑对教育、医疗、家庭等领域的不当渗透。这是 Sandel 21 世纪最具影响力的立场之一。",
+      "原文引用": [
+        "*What Money Can't Buy: The Moral Limits of Markets* (2012) — 整书主题"
+      ],
+      "同时代对比": "与自由市场主义者对立 (后者认为市场是中性的);与 Walzer 复杂平等理论形成对话。",
+      "贯穿程度": "始终如一 (后期发展)",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "精英统治批判 / 共同善 (Tyranny of Merit / Common Good)",
+      "描述": "精英与'更广泛共同善观念'脱节;精英统治造成广泛不满;Sandel 主张重新思考 meritocracy 与共同善的关系。",
+      "原文引用": [
+        "\"elites have been insulated from the accountability that a broader conception of the common good requires\" ——《The Tyranny of Merit》(2020)"
+      ],
+      "同时代对比": "与自由主义 meritocracy 辩护者对立;与 Pope Francis 共同关注社会不公;与 Sandel 自己的社群主义立场一致。",
+      "贯穿程度": "始终如一 (后期发展)",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "反完美主义 (Against Perfection)",
+      "描述": "对基因工程与人类增强的伦理批评;主张对生物技术设定道德边界。",
+      "原文引用": [
+        "*The Case Against Perfection* (2007) — 整书主题"
+      ],
+      "同时代对比": "与 Fukuyama 等生物伦理保守派接近;与超人类主义者对立;与 Bush 总统生物伦理委员会 (2001-2009) 工作一致。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    }
+  ],
+  "政治立场": {
+    "描述": "Sandel 自称自由主义传统内部对'无负担自我'的批判者;主张回归 Aristotle 式共同善;批评市场过度扩张与精英统治。政治立场偏左 (社会民主主义方向), 但拒绝 pure libertarianism。",
+    "原文引用": [
+      "(传记) 社群主义代表, 公共哲学倡导者",
+      "(精英批判) \"elites have been insulated from the accountability that a broader conception of the common good requires\""
+    ],
+    "时代坐标": "21 世纪美国政治极化、全球化、技术变革背景下;Sandel 把哲学带入公共讨论的代表;在中国 (2011 *China Newsweek*) 与全球持续影响。",
+    "内在张力": "自称自由主义者但批判 Rawls 自由主义;社群主义者但不太舒服于此标签",
+    "confidence": "high"
+  },
+  "底线清单": [
+    {
+      "条目": "正义不能脱离共同善",
+      "描述": "正义的概念必须考虑共同善,而非仅仅分配正义;这是 Sandel 对 Rawls 的核心批判。",
+      "原文引用": "(共同善) discontent takes \"the form of inchoate anxieties\" ——《Democracy's Discontent》(1996)",
+      "是否有例外": "无"
+    },
+    {
+      "条目": "市场有道德边界",
+      "描述": "市场逻辑不能渗透所有领域 (教育、医疗、家庭);有些东西不能用钱买。",
+      "原文引用": "*What Money Can't Buy: The Moral Limits of Markets* (2012)",
+      "是否有例外": "无 (Sandel 终生坚持)"
+    }
+  ],
+  "自我定位": {
+    "描述": "Sandel 自视为公共哲学家,把道德反思带入民主政治;批判 Rawls 式自由主义但仍属自由主义传统内部;在全球范围内推广*Justice*课程。",
+    "原文引用": [
+      "(课程) \"the university's first course to be made freely available online and on television\", \"tens of millions of people around the world\"",
+      "(中国) *China Newsweek* 评为 2011 \"most influential foreign figure of the year\""
+    ],
+    "与时代关系": "自知时代背景对其工作的影响,坚持把哲学带入公共领域;在中国等全球范围内推广哲学"
+  },
+  "思想内部张力": {
+    "主要矛盾": "Sandel 自称自由主义但批判 Rawls 自由主义;社群主义者但不太舒服于此标签;市场批判但仍支持自由市场在合适领域的作用。",
+    "深层原因": "Sandel 试图在自由主义传统内部寻找更丰富的政治哲学;其社群主义批判是对自由主义的'内部修正'而非'外部拒斥'。",
+    "对人格的影响": "Sandel 的写作风格清晰、亲切、富有原则性;在课堂上展现良好的公共沟通能力;在全球范围内推广哲学。"
+  }
+}

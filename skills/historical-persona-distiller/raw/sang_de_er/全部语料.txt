@@ -1,0 +1,68 @@
+# Michael Sandel 全部语料 (合并)
+
+> 合并自 传记.txt + 引语.txt + 后世评述.txt
+> 抓取日期: 2026-07-26
+
+---
+
+# 一、传记
+
+## 基本信息
+- **Michael Sandel** (1953-03-05 出生)
+- 美国政治哲学家, 社群主义代表
+
+## 教育
+- Brandeis University, B.A. in politics, 1975 (Phi Beta Kappa)
+- Rhodes Scholar, Balliol College, Oxford; DPhil under Charles Taylor, 1981
+
+## 学术生涯
+- Harvard 1981 起
+- Anne T. and Robert M. Bass Professor of Government
+- *Justice* 课程 15,000+ 学生, 全球数千万观众
+
+## 核心思想
+1. 社群主义 (但不太舒服于此标签)
+2. 对 Rawls 的批判
+3. 正义 vs 共同善
+4. 市场与道德
+5. 反完美主义
+6. 公共哲学
+7. 精英统治批判
+
+## 主要著作
+- *Liberalism and the Limits of Justice* (1982)
+- *Democracy's Discontent* (1996, new edition 2022)
+- *Public Philosophy* (2005)
+- *The Case Against Perfection* (2007)
+- *Justice: What's the Right Thing to Do?* (2009)
+- *What Money Can't Buy* (2012)
+- *The Tyranny of Merit* (2020)
+
+## 公共服务
+- 2001-2009 Bush 总统生物伦理委员会成员
+
+## 荣誉
+- 1985 Harvard-Radcliffe Phi Beta Kappa Teaching Prize
+- 2012 *Foreign Policy* Top Global Thinker
+- 2018 Premio Princesa de Asturias
+- 2025 Berggruen Prize
+
+---
+
+# 二、直接引语
+
+- discontent takes "the form of inchoate anxieties—a growing sense that we were losing control of the forces that govern our lives" ——《Democracy's Discontent》(1996)
+- "elites have been insulated from the accountability that a broader conception of the common good requires" ——《The Tyranny of Merit》(2020)
+- Rawls 的"无知之幕"把人们视为 "unencumbered selves"
+
+---
+
+# 三、后世评述
+
+- 当代最有影响力的政治哲学家之一
+- 社群主义代表
+- 公共哲学的倡导者
+- 1982 对 Rawls 的经典批判
+- 2020 精英统治批判
+- 在中国极具影响力 (2011 *China Newsweek*)
+- *Justice* 课程全球数千万观众

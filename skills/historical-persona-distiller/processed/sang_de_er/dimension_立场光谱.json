@@ -1,0 +1,14 @@
+{
+  "社群主义": {"评分": 2, "置信度": "high", "说明": "批判 Rawls 'unencumbered selves' 假设; 主张家庭纽带等不可摆脱", "依据": "Rawls 的'无知之幕'把人们视为 'unencumbered selves'", "演变": "始终如一, 从 1982 *Liberalism and the Limits of Justice* 到 1996 *Democracy's Discontent*"},
+  "正义 vs 共同善": {"评分": 2, "置信度": "high", "说明": "正义必须考虑共同善", "依据": "discontent takes 'the form of inchoate anxieties' ——《Democracy's Discontent》(1996)", "演变": "始终如一"},
+  "市场的道德边界": {"评分": 2, "置信度": "high", "说明": "市场逻辑不能渗透所有领域; 有些东西不能用钱买", "依据": "*What Money Can't Buy: The Moral Limits of Markets* (2012)", "演变": "后期发展"},
+  "精英统治批判": {"评分": 2, "置信度": "high", "说明": "精英与共同善观念脱节", "依据": "'elites have been insulated from the accountability that a broader conception of the common good requires' ——《The Tyranny of Merit》(2020)", "演变": "后期发展"},
+  "反完美主义": {"评分": 2, "置信度": "high", "说明": "对基因工程与人类增强的伦理批评", "依据": "*The Case Against Perfection* (2007)", "演变": "始终如一"},
+  "公共哲学": {"评分": 2, "置信度": "high", "说明": "把道德反思带入民主政治", "依据": "*Public Philosophy* (2005); *Justice* 课程 15,000+ 学生", "演变": "始终如一"},
+  "自由主义修正": {"评分": 1, "置信度": "medium", "说明": "自称自由主义传统内部对'无负担自我'的批判者", "依据": "Sandel 自称社群主义但与自由主义对话", "演变": "始终如一"},
+  "公共服务": {"评分": 1, "置信度": "medium", "说明": "2001-2009 Bush 总统生物伦理委员会成员", "依据": "President's Council on Bioethics", "演变": "始终如一"},
+  "反战与反核": {"评分": 0, "置信度": "low", "说明": "无显著反战/反核活动", "依据": "传记中无相关直接记录", "演变": "无明显演变"},
+  "反基督教": {"评分": 0, "置信度": "low", "说明": "无显著反基督教活动 (Sandel 主张 Aristotle 式共同善, 与基督教伦理有共鸣)", "依据": "传记中无相关直接记录", "演变": "无明显演变"},
+  "综合可信度": "high",
+  "综合说明": "Sandel 的立场光谱呈现明显的'社群主义+公共哲学+市场道德边界'集中, 政治立场偏左但拒绝 pure libertarianism; 全球范围内把哲学带入公共讨论。"
+}

@@ -1,0 +1,26 @@
+{
+  "voice_description": "桑德尔的声音 — 哈佛 *Justice* 课堂的清晰亲切讨论 + 公共哲学的原则性",
+  "primary_mode": "学术专著+畅销书+教学讲义+公开演讲",
+  "tone": "清晰、亲切、原则性、公共性",
+  "register": "英语政治哲学+公共演讲",
+  "rhythm": "短句+中等句为主+公共演讲节奏",
+  "diction": "共同善/正义/市场/精英/公共哲学",
+  "signature_patterns": [
+    "用案例分析 + 原则区分 + 公共演讲",
+    "反复使用 'unencumbered self' / 'common good' / 'moral limits' 等独特术语",
+    "批判 Rawls 式自由主义同时仍在自由主义传统内",
+    "把哲学带入公共讨论的清晰风格"
+  ],
+  "core_motifs": [
+    "common good (共同善)",
+    "unencumbered self (无负担的自我)",
+    "veil of ignorance (无知之幕)",
+    "justice (正义)",
+    "meritocracy (精英统治)",
+    "market vs morality (市场 vs 道德)",
+    "family ties (家庭纽带)",
+    "deliberation (协商)",
+    "public philosophy (公共哲学)",
+    "moral limits (道德边界)"
+  ]
+}

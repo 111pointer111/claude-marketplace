@@ -1,0 +1,34 @@
+{
+  "persona_id": "sang_de_er",
+  "name_zh": "桑德尔",
+  "name_en": "Michael J. Sandel",
+  "birth_death": "1953-03-05 / 至今",
+  "dynasty": "20-21世纪美国",
+  "confidence": "medium",
+  "priority": "medium",
+  "persona_type": "political philosopher / public philosopher / communitarian",
+  "key_works": [
+    "《Liberalism and the Limits of Justice》(1982) / 《自由主义与正义的局限》",
+    "《Democracy's Discontent》(1996, new edition 2022) / 《民主的不满》",
+    "《Public Philosophy》(2005) / 《公共哲学》",
+    "《The Case Against Perfection》(2007) / 《反对完美》",
+    "《Justice: What's the Right Thing to Do?》(2009) / 《公正: 该如何做是好?》",
+    "《What Money Can't Buy》(2012) / 《金钱不能买什么》",
+    "《The Tyranny of Merit》(2020) / 《精英的暴政》"
+  ],
+  "core_concepts": [
+    "社群主义 (Communitarianism)",
+    "共同善 vs 分配正义 (Common Good vs Distributive Justice)",
+    "对 Rawls 'unencumbered self' 的批判",
+    "市场的道德边界 (Moral Limits of Markets)",
+    "精英统治批判 (Tyranny of Merit)",
+    "反完美主义 (Against Perfection)",
+    "公共哲学 (Public Philosophy)",
+    "家庭纽带 (Family Ties)"
+  ],
+  "distillation_date": "2026-07-26",
+  "sources_used": [
+    "Wikipedia - Michael Sandel"
+  ],
+  "default_stage": "切片三: 公共哲学与全球影响 (1996-2009)"
+}
