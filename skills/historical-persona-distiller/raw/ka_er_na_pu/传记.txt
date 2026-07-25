@@ -1,0 +1,110 @@
+# Rudolf Carnap 传记
+
+> 来源: SEP + Wikipedia
+> 抓取日期: 2026-07-26
+
+## 基本信息
+
+- **Rudolf Carnap** (1891-05-18 至 1970-09-14)
+- 德国-美国哲学家,逻辑经验主义奠基人之一
+- 1891-05-18 生于德国 Ronsdorf (今 Wuppertal)
+- 1970-09-14 卒于加州 Santa Monica,享年 79
+
+## 教育
+
+- 耶拿大学 1910-1914, B.A. (1914), Ph.D. (1921), 导师 Bruno Bauch
+- 弗莱堡大学 1911-12 旁听生
+- 柏林大学 1917-18 研究生
+- 维也纳大学 Dr. phil. hab. (1926), 导师 Moritz Schlick
+- 师从 Gottlob Frege、Heinrich Rickert
+
+## 维也纳学派
+
+- 1926 由 Schlick 招入维也纳,加入 Vienna Circle
+- 与 Hans Hahn、Friedrich Waismann、Otto Neurath、Herbert Feigl 共事
+- Kurt Gödel 偶尔来访;Wittgenstein 访维也纳时会面
+- 1929 与 Hahn、Neurath 合著学派宣言
+- 与 Reichenbach 创办《Erkenntnis》杂志
+
+## 1935 赴美
+
+- 因社会主义与和平主义信仰,1935 移居美国
+- 1941 入籍美国
+- 芝加哥大学哲学教授 1936-1952
+- 哈佛大学 1939-41 (与 Tarski 重聚)
+- 普林斯顿高等研究院 1952-1954
+- UCLA 哲学系 1954 起 (拒伯克利职位, 因拒签忠诚誓言)
+
+## 主要著作
+
+- 1922 *Der Raum* (博士论文)
+- 1926 *Physikalische Begriffsbildung*
+- 1928 *Der Logische Aufbau der Welt* / *Scheinprobleme*
+- 1929 *Abriss der Logistik*
+- 1929 《维也纳学派宣言》(与 Hahn/Neurath 合著)
+- 1931 "Überwindung der Metaphysik"
+- 1934 *Logische Syntax der Sprache* / 《语言的逻辑句法》
+- 1936-37 《可检验性与意义》— 转向更宽松的可检验性
+- 1939 *Foundations of Logic and Mathematics*
+- 1942 *Introduction to Semantics*
+- 1943 *Formalization of Logic*
+- 1947 *Meaning and Necessity*
+- 1950 *Logical Foundations of Probability*
+- 1952 *The Continuum of Inductive Methods*
+- 1956 *Meaning and Necessity* (enlarged)
+- 1958 *Introduction to Symbolic Logic*
+- 1963 "Intellectual Autobiography"
+- 1966 *Philosophical Foundations of Physics*
+- 2019- 牛津大学出版社《Carnap 全集》14 卷出版中
+
+## 核心思想
+
+### 1. 逻辑经验主义 / 逻辑实证主义
+- 哲学命题为科学语言的逻辑分析,非真假判断
+- 哲学目标 = "conceptual engineering" (设计更好的语言框架) 而非发现真理
+
+### 2. 反形而上学
+- 形而上学 = "伪装成知识的失败艺术形式", 既是假艺术也是假知识
+- "the elimination of metaphysics through logical analysis of language"
+- 晚年承认形而上学可视为"构建最一般框架"的有益步骤
+
+### 3. 《世界的逻辑构造》(Aufbau, 1928)
+- 所有科学概念可基于"直接所与"的知觉经验建构等级体系 (构造理论)
+- 基本要素是"基本经验",基本关系是"相似回忆"
+- 通过 Russell 的"抽象原则"将经验归入等价类
+
+### 4. 《语言的逻辑句法》(1934)
+- 逻辑是句法的 (关于语言符号形式理论)
+- 受 Hilbert 元数学影响
+- 发展了两种语言框架 (Language I 和 II)
+- 容忍原则 (Tolerance Principle): "we are not in the business of setting up prohibitions but of arriving at conventions…In logic there are no morals"
+
+### 5. 意义标准
+- 区分有意义的陈述与空洞的形而上学
+- 早期受维也纳学派影响采用"分子式"语言
+- 1936-37 转向更宽松的可检验性概念
+
+### 6. 内在与外在问题
+- 拒斥一般性的"存在"概念
+- 存在断言仅在**框架内部**有意义
+- 形而上学问题是语言选择产生的伪问题
+
+### 7. 模态逻辑与语义学
+- 1935 接受 Tarski 语义学
+- 1947 《意义与必然性》:内涵语义学和模态逻辑
+- 句法学、语义学、语用学三分
+
+## 关系
+
+- **Moritz Schlick**: 维也纳大学导师 + 维也纳学派领袖
+- **Otto Neurath**: 1924 维也纳世界语大会相识
+- **Rudolf Carnap-Quine**: 1933 布拉格会面;Quine 后期强烈反对 (《Two Dogmas of Empiricism》1951)
+- **Alfred Tarski**: 1930 学习其模型论语义学
+- **Wittgenstein**: 访维也纳时会面,但 Carnap 拒绝接受 *Tractatus* 全部观点
+- **Hans Hahn, Neurath, Feigl**: 维也纳学派同事
+- **Reichenbach**: 合办 *Erkenntnis*
+
+## 个人生活
+
+- 首妻 Elizabeth Schöndube (1929 离婚,育四子女)
+- 续弦 Elizabeth Ina Stöger (1933 结婚,1964 自杀)

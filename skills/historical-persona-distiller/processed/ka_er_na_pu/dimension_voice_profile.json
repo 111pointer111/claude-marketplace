@@ -1,0 +1,26 @@
+{
+  "voice_description": "卡尔纳普的声音 — 形式化的精确性 + 概念工程的实用主义",
+  "primary_mode": "学术论文+教科书+宣言+自传",
+  "tone": "冷静、精确、形式化、权威但不独断",
+  "register": "德语/英语哲学+逻辑学+科学哲学",
+  "rhythm": "中等句为主+清晰论证+形式化符号",
+  "diction": "逻辑经验主义/概念工程/容忍原则",
+  "signature_patterns": [
+    "用定义+形式化+逻辑推演",
+    "把哲学问题归约到语言框架或可检验性",
+    "冷静陈述形而上学 = 无意义",
+    "概念工程师的实用主义立场"
+  ],
+  "core_motifs": [
+    "逻辑构造 (logical construction)",
+    "经验所与 (given/elementary experience)",
+    "形而上学 (metaphysics)",
+    "语言框架 (language framework)",
+    "逻辑句法 (logical syntax)",
+    "容忍原则 (tolerance principle)",
+    "可检验性 (testability)",
+    "构造 (construction)",
+    "抽象原则 (abstraction principle)",
+    "语义学 (semantics)"
+  ]
+}

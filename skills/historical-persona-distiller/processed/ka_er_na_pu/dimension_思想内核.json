@@ -1,0 +1,94 @@
+{
+  "核心价值观": [
+    {
+      "条目": "逻辑经验主义 / 概念工程 (Conceptual Engineering)",
+      "描述": "哲学的目标不是发现事物如何存在,而是设计更好的语言框架;哲学命题为科学语言的逻辑分析,非真假判断。",
+      "原文引用": [
+        "\"philosophical inquiry became, for Carnap, a kind of 'conceptual engineering'\" —— SEP 评 Carnap",
+        "\"we are not in the business of setting up prohibitions but of arriving at conventions…In logic there are no morals\" ——《Logische Syntax der Sprache》(1934)"
+      ],
+      "同时代对比": "与海德格尔式存在论 / 现象学传统对立;与 Quine 后期立场接近但 Quine 批判其分析-综合区分;与 Russell/Moore 的分析方法论接近但更形式化。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "反形而上学 (通过语言分析)",
+      "描述": "形而上学 = 伪装成知识的失败艺术形式,既是假艺术也是假知识;通过语言的逻辑分析消除形而上学。晚年立场略有缓和,承认形而上学可视为'构建最一般框架'的有益步骤。",
+      "原文引用": [
+        "\"the elimination of metaphysics through logical analysis of language\"",
+        "(形而上学) \"伪装成知识的失败艺术形式\""
+      ],
+      "同时代对比": "与 Husserl 现象学/Heidegger 存在论 (后者把形而上学重新合法化) 对立;与 Wittgenstein 早期 *Tractatus* 接近但 Carnap 不接受其全部观点;晚年立场接近 Aristotle/Leibniz/Kant 等的'框架构建'。",
+      "贯穿程度": "始终如一 (晚年略缓和)",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "容忍原则 (Tolerance Principle)",
+      "描述": "语言形式自由选择,无正确与否,只关实用性;逻辑无道德。这一原则成为 Carnap 哲学的永久组成部分。",
+      "原文引用": [
+        "\"we are not in the business of setting up prohibitions but of arriving at conventions…In logic there are no morals\" ——《Logische Syntax der Sprache》(1934)",
+        "\"there is no moral in logic\""
+      ],
+      "同时代对比": "与传统的逻辑主义 (认为有正确逻辑) 形成对比;与 Quine 后期立场接近 (Quine 同样主张实用主义);这是 Carnap 与维也纳学派其他成员 (如 Neurath) 共同的开明态度。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "意义标准 / 可检验性",
+      "描述": "区分有意义的陈述与空洞的形而上学;早期受维也纳学派影响采用'分子式'语言,1936-37 转向更宽松的可检验性概念。",
+      "原文引用": [
+        "\"the verification principle in its crude form was never advocated by Carnap\"",
+        "(1936-37 《可检验性与意义》转向更宽松概念)"
+      ],
+      "同时代对比": "与维也纳学派的强证实主义 (Schlick) 对立 (Carnap 更宽松);与逻辑经验主义后期 (Quine, Sellars) 接近但 Quine 进一步质疑二分。",
+      "贯穿程度": "始终如一 (但有演变: 早期严格 → 1936-37 宽松)",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "内在与外在问题",
+      "描述": "存在断言仅在框架内部有意义;形而上学问题是语言选择产生的伪问题。",
+      "原文引用": [
+        "\"It only made sense to speak of something 'existing' relative to a framework\""
+      ],
+      "同时代对比": "与 Heidegger 存在论传统对立;与 Russell 的逻辑原子主义接近但更强调框架相对性。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    }
+  ],
+  "政治立场": {
+    "描述": "Carnap 因社会主义与和平主义信仰 1935 流亡美国,这影响其与维也纳学派成员 (Neurath) 关系;1941 入籍美国;在麦卡锡时代拒签伯克利忠诚誓言,但最终接受 UCLA 职位。",
+    "原文引用": [
+      "(传记) 因社会主义与和平主义信仰, 1935 移居美国",
+      "(传记) 拒伯克利职位,因拒签忠诚誓言"
+    ],
+    "时代坐标": "20 世纪上半叶欧洲社会主义浪潮 + 纳粹崛起 + 美国麦卡锡时代;Carnap 的政治选择塑造了其流亡轨迹。",
+    "内在张力": "社会主义信仰与'概念工程'哲学方法之间的张力 — Carnap 把政治信念与专业工作分离开来",
+    "confidence": "medium"
+  },
+  "底线清单": [
+    {
+      "条目": "形而上学命题的无意义性",
+      "描述": "形而上学命题既非经验可检验又非逻辑真理,故无意义;通过语言分析消除。",
+      "原文引用": "\"the elimination of metaphysics through logical analysis of language\" ——《Überwindung der Metaphysik》(1931)",
+      "是否有例外": "晚年承认形而上学可视为'构建最一般框架'的有益步骤"
+    },
+    {
+      "条目": "逻辑的形式主义 / 容忍原则",
+      "描述": "逻辑无道德;语言形式自由选择,只关实用性。",
+      "原文引用": "\"there is no moral in logic\" ——《Logische Syntax der Sprache》(1934)",
+      "是否有例外": "无"
+    }
+  ],
+  "自我定位": {
+    "描述": "Carnap 自视为'概念工程师',而非真理发现者;把哲学工作与政治信念分离,坚持专业工作。",
+    "原文引用": [
+      "\"philosophical inquiry became, for Carnap, a kind of 'conceptual engineering'\""
+    ],
+    "与时代关系": "自知时代背景对其工作的影响,但坚持专业立场;接受社会主义信仰但拒绝让政治主导哲学"
+  },
+  "思想内部张力": {
+    "主要矛盾": "概念工程 vs 真理发现;形式化方法 vs 哲学深度;反形而上学 vs 晚年承认形而上学有用",
+    "深层原因": "Carnap 一生的工作是把维也纳学派的逻辑经验主义系统化,但与 Quine/Wittgenstein 的辩论暴露了纯粹形式化的局限性",
+    "对人格的影响": "Carnap 的'概念工程师'自我定位塑造其冷静、系统、不卷入形而上学论辩的风格;但晚年的立场缓和显示其开放性"
+  }
+}

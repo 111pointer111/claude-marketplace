@@ -1,0 +1,13 @@
+{
+  "persona_id": "ka_er_na_pu",
+  "distillation_date": "2026-07-26",
+  "sources_count": 2,
+  "sources": [
+    {"name": "Stanford Encyclopedia of Philosophy - Rudolf Carnap", "type": "encyclopedia", "fetch_status": "success_2026-07-26"},
+    {"name": "Wikipedia - Rudolf Carnap", "type": "encyclopedia", "fetch_status": "success_2026-07-26"}
+  ],
+  "corpus_stats": {"传记_chars": 4500, "引语_chars": 1500, "后世评述_chars": 1200, "total_raw_chars": 7200},
+  "stages_identified": {"count": 4, "default_stage": "切片三: 流亡美国与意义标准 (1935-1952)", "all_confidence": "medium-high"},
+  "overall_confidence": "medium",
+  "distillation_version": "1.0"
+}

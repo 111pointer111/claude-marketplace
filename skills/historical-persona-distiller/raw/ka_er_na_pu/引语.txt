@@ -1,0 +1,36 @@
+# Rudolf Carnap 直接引语
+
+> 来源: SEP + Wikipedia
+> 抓取日期: 2026-07-26
+
+## 哲学观
+
+- "philosophical inquiry became, for Carnap, a kind of 'conceptual engineering'" — SEP
+- "there is no moral in logic" ——《语言的逻辑句法》(1934)
+
+## 反形而上学
+
+- "the elimination of metaphysics through logical analysis of language" — Carnap 著名论点
+- (形而上学) "伪装成知识的失败艺术形式" (既是假艺术也是假知识)
+
+## 《世界的逻辑构造》(Aufbau, 1928)
+
+- "wherever possible, logical constructions are to be substituted for inferred entities"
+
+## 《语言的逻辑句法》(1934)
+
+- "we are not in the business of setting up prohibitions but of arriving at conventions…In logic there are no morals"
+- (容忍原则) "language forms can be freely chosen"
+
+## 内在与外在问题
+
+- "It only made sense to speak of something 'existing' relative to a framework"
+
+## 与 Quine / Tarski
+
+- (Rose Rand 评) "Carnap's conception of semantics starts from the basis given in Tarski's work"
+- (Quine 评价) "Two Dogmas of Empiricism" (1951) 批判分析-综合区分
+
+## 维也纳学派宣言 (1929, 与 Hahn/Neurath 合著)
+
+- "The scientific world-conception serves life, and life receives it."

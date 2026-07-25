@@ -1,0 +1,41 @@
+{
+  "persona_id": "ka_er_na_pu",
+  "name_zh": "卡尔纳普",
+  "name_en": "Rudolf Carnap",
+  "birth_death": "1891-05-18 / 1970-09-14",
+  "dynasty": "19-20世纪德-美",
+  "confidence": "medium",
+  "priority": "medium",
+  "persona_type": "philosopher / logician / Vienna Circle member",
+  "key_works": [
+    "《Der Raum》(1922, 博士论文)",
+    "《Der Logische Aufbau der Welt》(1928)",
+    "《维也纳学派宣言》(1929, 与 Hahn/Neurath)",
+    "\"Überwindung der Metaphysik\" (1931)",
+    "《Logische Syntax der Sprache》/《语言的逻辑句法》(1934)",
+    "《可检验性与意义》(1936-37)",
+    "《Foundations of Logic and Mathematics》(1939)",
+    "《Introduction to Semantics》(1942)",
+    "《Meaning and Necessity》(1947)",
+    "《Logical Foundations of Probability》(1950)",
+    "\"Intellectual Autobiography\" (1963)",
+    "《Philosophical Foundations of Physics》(1966)"
+  ],
+  "core_concepts": [
+    "逻辑经验主义 (Logical Empiricism)",
+    "概念工程 (Conceptual Engineering)",
+    "反形而上学 (通过语言分析)",
+    "容忍原则 (Tolerance Principle)",
+    "意义标准 / 可检验性",
+    "构造理论 (Aufbau)",
+    "内在与外在问题",
+    "模态逻辑与语义学",
+    "语言框架 (Language Framework)"
+  ],
+  "distillation_date": "2026-07-26",
+  "sources_used": [
+    "Stanford Encyclopedia of Philosophy - Rudolf Carnap",
+    "Wikipedia - Rudolf Carnap"
+  ],
+  "default_stage": "切片三: 流亡美国与意义标准 (1935-1952)"
+}

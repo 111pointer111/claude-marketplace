@@ -1,0 +1,79 @@
+# Rudolf Carnap 全部语料 (合并)
+
+> 合并自 传记.txt + 引语.txt + 后世评述.txt
+> 抓取日期: 2026-07-26
+
+---
+
+# 一、传记
+
+## 基本信息
+- **Rudolf Carnap** (1891-05-18 至 1970-09-14)
+- 德国-美国哲学家, 逻辑经验主义奠基人之一
+
+## 教育
+- 耶拿大学 1910-1914, B.A. (1914), Ph.D. (1921)
+- 弗莱堡大学 1911-12 旁听生
+- 柏林大学 1917-18 研究生
+- 维也纳大学 Dr. phil. hab. (1926), 导师 Moritz Schlick
+- 师从 Gottlob Frege、Heinrich Rickert
+
+## 维也纳学派
+- 1926 由 Schlick 招入维也纳, 加入 Vienna Circle
+- 1929 与 Hahn/Neurath 合著学派宣言
+- 与 Reichenbach 创办《Erkenntnis》
+
+## 1935 赴美
+- 因社会主义与和平主义信仰, 1935 移居美国
+- 1941 入籍美国
+- 芝加哥大学 1936-1952
+- 哈佛 1939-41
+- 普林斯顿高等研究院 1952-1954
+- UCLA 1954 起
+
+## 主要著作
+- 1928 *Der Logische Aufbau der Welt* / *Scheinprobleme*
+- 1929 维也纳学派宣言
+- 1931 "Überwindung der Metaphysik"
+- 1934 *Logische Syntax der Sprache*
+- 1936-37 《可检验性与意义》
+- 1947 *Meaning and Necessity*
+- 1950 *Logical Foundations of Probability*
+- 1963 "Intellectual Autobiography"
+
+## 核心思想
+1. 逻辑经验主义 / 概念工程
+2. 反形而上学
+3. 《世界的逻辑构造》构造理论
+4. 《语言的逻辑句法》容忍原则
+5. 意义标准
+6. 内在与外在问题
+7. 模态逻辑与语义学
+
+## 关系
+- Schlick (维也纳大学导师)
+- Quine (布拉格 1933 起; 后强烈反对)
+- Tarski (1930 起)
+- Wittgenstein (访维也纳时会面)
+
+---
+
+# 二、直接引语
+
+- "philosophical inquiry became, for Carnap, a kind of 'conceptual engineering'"
+- "there is no moral in logic"
+- "the elimination of metaphysics through logical analysis of language"
+- "wherever possible, logical constructions are to be substituted for inferred entities"
+- "we are not in the business of setting up prohibitions but of arriving at conventions…In logic there are no morals"
+- "It only made sense to speak of something 'existing' relative to a framework"
+
+---
+
+# 三、后世评述
+
+- 逻辑经验主义 / 逻辑实证主义奠基人之一
+- 把哲学从"知识发现"转向"概念工程"
+- 与 Quine 的辩论塑造了 20 世纪下半叶科学哲学
+- Quine《经验主义的两个教条》(1951) 批判
+- 晚年承认形而上学可视为"构建最一般框架"的有益步骤
+- 2019 牛津大学出版社开始出版《Carnap 全集》14 卷
