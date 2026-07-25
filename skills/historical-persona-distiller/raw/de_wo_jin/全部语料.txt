@@ -1,0 +1,66 @@
+# Ronald Dworkin 全部语料 (合并)
+
+> 合并自 传记.txt + 引语.txt + 后世评述.txt
+> 抓取日期: 2026-07-26
+
+---
+
+# 一、传记
+
+## 基本信息
+- **Ronald Dworkin** (1931-12-11 至 2013-02-14)
+- 美国法律哲学家, 法理学与政治理论的桥梁
+
+## 教育
+- 1953 Harvard A.B., summa cum laude, 哲学
+- Rhodes Scholar at Magdalen College, Oxford
+- 1957 Harvard Law School J.D., magna cum laude
+
+## 学术生涯
+- Hand 法官书记员
+- 1962 入 Yale Law School
+- **1969 继 H.L.A. Hart 任 Oxford 法理学教授**
+- 后任 UCL Quain / Bentham Professor
+- NYU Law School Frank Henry Sommer 教授
+
+## 核心思想
+1. 法律作为规则与原则 — 拒斥法律实证主义
+2. 正确答案论 — Judge Hercules
+3. 宪法的道德解读
+4. 平等理论 — 资源平等
+5. 积极与消极自由
+6. 解释主义 / 法律的整体性 (Law as Integrity)
+
+## 主要著作
+- *Taking Rights Seriously* (1977)
+- *A Matter of Principle* (1985)
+- *Law's Empire* (1986)
+- *Sovereign Virtue* (2000)
+- *Justice for Hedgehogs* (2011)
+- *Religion Without God* (2013)
+
+## Hart-Dworkin 辩论
+- 与 H.L.A. Hart 的核心辩论
+- Dworkin 在"每个可想象的层面"拒斥实证主义
+
+---
+
+# 二、直接引语
+
+- 法律应被视为 "single coherent scheme of principle"
+- (Judge Hercules) "best fits and justifies the law as a whole"
+- (资源平等) "people are responsible for their choices, while natural endowments are 'morally arbitrary' and should not affect resource distribution"
+- (自由) "liberty only constrains interference with rights, never wrongful acts"
+- Cass Sunstein: "one of the most important legal philosophers of the last 100 years. He may well head the list."
+- Learned Hand 称 Dworkin 为 "the law clerk to beat all law clerks"
+
+---
+
+# 三、后世评述
+
+- 20 世纪最重要的法律哲学家之一
+- 把法理学与政治理论 / 道德哲学整合
+- *Law's Empire* 是 20 世纪法理学经典
+- Dworkin-Hart 辩论是 20 世纪法理学最重要辩论之一
+- *Taking Rights Seriously* 影响美国宪法理论
+- Balzan Prize (2012), Holberg (2007) 等

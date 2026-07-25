@@ -1,0 +1,92 @@
+{
+  "核心价值观": [
+    {
+      "条目": "法律与道德哲学的整合 (Law & Moral Philosophy Integration)",
+      "描述": "拒斥法律实证主义,认为法律不能与道德原则分离;法律应被视为'单一连贯的原则体系',而非孤立法规。",
+      "原文引用": [
+        "法律应被视为 \"single coherent scheme of principle\"",
+        "(Judge Hercules) \"best fits and justifies the law as a whole\" ——《Law's Empire》(1986)"
+      ],
+      "同时代对比": "与 H.L.A. Hart / Joseph Raz 的法律实证主义传统对立;与 Rawls 的政治哲学整合但 Dworkin 关注法律实践;与批判法学 (Critical Legal Studies) 形成对立 (后者更左倾)。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "正确答案论 (Right Answer Thesis)",
+      "描述": "每个案件都存在确定的正确答案,法官必须发现而非创造;Judge Hercules (赫拉克勒斯法官) 是构造'最佳拟合并正当化整个法律'理论的理想法官。",
+      "原文引用": [
+        "(Judge Hercules) \"best fits and justifies the law as a whole\" ——《Law's Empire》(1986)",
+        "Judge Hercules 与 Rawls 的'无知之幕'、Habermas 的'理想言语情境'均为规范推理的理想化方法"
+      ],
+      "同时代对比": "与法律现实主义 (Legal Realism) 形成对立;与批判法学对立;与 Rawls 接近但 Dworkin 的 Hercules 是'纯粹理想化构造',无同等实践应用。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "权利论 / 认真对待权利 (Rights Thesis)",
+      "描述": "人们拥有超越立法多数的道德权利;即使面对功利计算,这些权利也应被认真对待。这是 Dworkin 早期代表作的核心。",
+      "原文引用": [
+        "*Taking Rights Seriously* (1977) — 整书主题",
+        "Dworkin 否认法律可脱离道德优劣被识别"
+      ],
+      "同时代对比": "与 Bentham 式功利主义对立 (后者主张权利是法律的产物);与 Rawls 接近 (两者都强调个人权利);Hart 的实证主义传统拒斥 Dworkin 的权利论。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "资源平等 (Equality of Resources)",
+      "描述": "人们应对选择负责,而自然禀赋'在道德上任意'不应影响资源分配。这是 Dworkin 平等理论的核心。",
+      "原文引用": [
+        "(资源平等) \"people are responsible for their choices, while natural endowments are 'morally arbitrary' and should not affect resource distribution\" ——《Sovereign Virtue》(2000)"
+      ],
+      "同时代对比": "与 Rawls 的"差异原则"形成对照 (Dworkin 强调选择责任而非禀赋分配);与福利平等对立;与 Sandel 等社群主义对立 (后者批评 Dworkin 的自由主义)。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "宪法的道德解读 (Moral Reading of Constitution)",
+      "描述": "主张通过道德原则解读美国宪法;捍卫司法审查与民主的兼容性。这是 Dworkin 政治哲学的核心立场。",
+      "原文引用": [
+        "(道德解读) 主张通过道德原则解读美国宪法"
+      ],
+      "同时代对比": "与原旨主义 (Originalism) 形成对立;与共同善宪法理论对立;与 Posner 等实用主义法学形成对立。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    }
+  ],
+  "政治立场": {
+    "描述": "Dworkin 自由主义立场,强调个人权利+资源平等+宪法的道德解读;批评 Rawls 的福利国家但接近其权利立场;支持司法审查。",
+    "原文引用": [
+      "(资源平等) \"natural endowments are 'morally arbitrary' and should not affect resource distribution\" ——《Sovereign Virtue》(2000)"
+    ],
+    "时代坐标": "20 世纪下半叶美国自由主义法律理论;与新左派/批判法学形成对立;晚年 (Religion Without God) 进一步扩展到宗教哲学。",
+    "内在张力": "自由主义立场与社群主义 (Sandel/MacIntyre) 的张力",
+    "confidence": "high"
+  },
+  "底线清单": [
+    {
+      "条目": "权利的不可还原性",
+      "描述": "人们拥有超越立法多数的道德权利;这些权利不能被功利计算所牺牲。",
+      "原文引用": "*Taking Rights Seriously* (1977) — 整书主题",
+      "是否有例外": "无 (Dworkin 终生坚持)"
+    },
+    {
+      "条目": "法律的道德性",
+      "描述": "法律不能与道德原则分离;这是 Dworkin 反对法律实证主义的核心理由。",
+      "原文引用": "(Judge Hercules) \"best fits and justifies the law as a whole\" ——《Law's Empire》(1986)",
+      "是否有例外": "无"
+    }
+  ],
+  "自我定位": {
+    "描述": "Dworkin 自视为整合法理学+政治理论+道德哲学的代表;通过 Judge Hercules 等理想化方法提出'正确答案论';反对 20 世纪中叶法律实证主义的统治地位。",
+    "原文引用": [
+      "Cass Sunstein: \"one of the most important legal philosophers of the last 100 years. He may well head the list.\""
+    ],
+    "与时代关系": "自知时代背景对其工作的影响,但坚持整合法理学立场;接受 Hand 法官对其书记员工作的评价(\"the law clerk to beat all law clerks\")"
+  },
+  "思想内部张力": {
+    "主要矛盾": "正确答案论 vs 司法造法;道德解读 vs 民主正当性;资源平等 vs 选择责任",
+    "深层原因": "Dworkin 试图把法律实证主义的清晰性与道德哲学的深度整合,但这两者之间的张力是其哲学的核心",
+    "对人格的影响": "Dworkin 的写作风格清晰、严密、富有原则性;在辩论中(Hart-Dworkin debate)展现坚定但不失优雅"
+  }
+}

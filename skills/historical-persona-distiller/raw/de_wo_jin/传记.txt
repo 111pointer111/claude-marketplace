@@ -1,0 +1,97 @@
+# Ronald Dworkin 传记
+
+> 来源: Wikipedia (Stanford Encyclopedia 404)
+> 抓取日期: 2026-07-26
+
+## 基本信息
+
+- **Ronald Dworkin** (1931-12-11 至 2013-02-14)
+- 美国法律哲学家, 法理学与政治理论的桥梁
+- 生于马萨诸塞州 Worcester, 在罗德岛 Providence 长
+- 卒于伦敦 (白血病), 享年 81
+
+## 教育
+
+- 1953 Harvard A.B., summa cum laude, 主修哲学
+- 1954-55 Magdalen College, Oxford, Rhodes Scholar
+- 师从 Sir Rupert Cross 与 J.H.C. Morris, Congratulatory first
+- 1957 Harvard Law School J.D., magna cum laude
+- Oxford 考官印象极深, H.L.A. Hart 被召阅读其试卷
+
+## 学术生涯
+
+- 为 Judge Learned Hand 担任书记员 ("the law clerk to beat all law clerks")
+- 拒 Justice Frankfurter 最高法院书记员职位
+- 加入 Sullivan & Cromwell 律师事务所
+- **1962 入 Yale Law School, 任 Wesley N. Hohfeld 法理学教授**
+- **1969 继 H.L.A. Hart 任 Oxford 法理学教授, 选为 University College Fellow**
+- 后任 UCL Quain Professor, 再任 Bentham Professor
+- NYU Law School Frank Henry Sommer 法律与哲学教授
+
+## 核心思想
+
+### 1. 法律作为规则与原则
+- 拒斥法律实证主义
+- 法律不能与道德原则分离
+- 法律应被视为"单一连贯的原则体系", 而非孤立法规
+
+### 2. 正确答案论 (Right Answer Thesis)
+- 每个案件都存在确定的正确答案, 法官必须发现而非创造
+- 使用 Judge Hercules (赫拉克勒斯法官) 比喻 — 理想法官构造"最佳拟合并正当化整个法律"的理论
+
+### 3. 宪法的道德解读
+- 主张通过道德原则解读美国宪法
+- 捍卫司法审查与民主的兼容性
+
+### 4. 平等理论
+- 《至上的美德》(*Sovereign Virtue*, 2000) 提出"资源平等"
+- 责任 vs 自然禀赋: 人们应对选择负责, 而自然禀赋"在道德上任意"不应影响资源分配
+
+### 5. 积极与消极自由
+- 批评 Isaiah Berlin 框架
+- 自由只约束对权利的干涉, 而不约束错误行为
+
+### 6. 解释主义 (Interpretivism) / 法律的整体性
+- 《法律帝国》(*Law's Empire*, 1986) 提出 law as integrity (法律的整体性)
+
+## 主要著作
+
+- *Taking Rights Seriously* (1977) / 《认真对待权利》
+- *A Matter of Principle* (1985) / 《原则问题》
+- *Law's Empire* (1986) / 《法律帝国》— 最具影响力, 提出 law as integrity
+- *Sovereign Virtue: The Theory and Practice of Equality* (2000) / 《至上的美德》
+- *Justice for Hedgehogs* (2011) / 《刺猬的正义》
+- *Religion Without God* (2013) / 《无神的宗教》
+
+## Hart-Dworkin 辩论
+
+- Dworkin 与 H.L.A. Hart (法律实证主义最大辩护者) 的核心辩论
+- Dworkin 在"每个可想象的层面"拒斥实证主义理论
+- 否认法律可脱离道德优劣被识别
+- 反驳 Hart 的"承认规则"(Rule of Recognition) — 错误假设识别法律无争议
+- 两人"保持良好关系"
+
+## 与 Rawls 的比较
+
+- Judge Hercules 与 Rawls 的"无知之幕"、Habermas 的"理想言语情境"均为规范推理的理想化方法
+- 关键差异: Rawls 的"无知之幕"从纯粹理想到实践"几乎无缝转换"
+- Dworkin 的 Hercules 是"纯粹理想化构造", 无同等实践应用
+- Lorenzo Zucca *Constitutional Dilemmas* 提出重要批评
+
+## 个人生活
+
+- 第一任妻子 Betsy Ross (Hand 法官书记员时期相识), 1958 结婚, 双胞胎 Anthony 和 Jennifer
+- Betsy 2000 死于癌症
+- 续弦 Irene Brendel (钢琴家 Alfred Brendel 前妻)
+- 2013-02-14 死于白血病, 伦敦, 享年 81
+
+## 奖项与认可
+
+- *Journal of Legal Studies* 评其为 20 世纪第二被引最多的美国法律学者
+- Henry J. Friendly Medal (2005)
+- Holberg International Memorial Prize (2007, "worldwide impact")
+- Héctor Fix-Zamudio International Award (2006)
+- Balzan Prize for Jurisprudence (2012)
+- Honorary Queen's Counsel
+- British Academy / American Academy of Arts and Sciences / American Philosophical Society Fellow
+- Cass Sunstein 评其"过去 100 年最重要的法律哲学家之一, 可能排名第一"

@@ -1,0 +1,26 @@
+{
+  "voice_description": "德沃金的声音 — 法律论辩的严密性 + 整合法理学+政治哲学+道德哲学",
+  "primary_mode": "学术专著+案例分析+论文+讲演",
+  "tone": "清晰、严密、原则性、辩论性",
+  "register": "英语法律哲学+政治哲学+道德哲学",
+  "rhythm": "中等句为主+清晰论证+案例分析",
+  "diction": "权利/原则/整合/解释/道德",
+  "signature_patterns": [
+    "用原则区分 + 案例分析 + 严密论证",
+    "反复使用 Judge Hercules / 正确答案论 / 道德解读 等独特术语",
+    "辩论性强 (Hart-Dworkin debate)",
+    "整合法理学+政治哲学+道德哲学"
+  ],
+  "core_motifs": [
+    "Judge Hercules (赫拉克勒斯法官)",
+    "rights (权利)",
+    "principles vs policies (原则 vs 政策)",
+    "law as integrity (法律的整体性)",
+    "rule of recognition (承认规则)",
+    "resources equality (资源平等)",
+    "moral reading (道德解读)",
+    "best fit and justification (最佳拟合与正当化)",
+    "interpretivism (解释主义)",
+    "integrity (整体性/诚实)"
+  ]
+}

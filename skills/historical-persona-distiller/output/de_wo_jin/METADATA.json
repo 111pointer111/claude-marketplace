@@ -1,0 +1,34 @@
+{
+  "persona_id": "de_wo_jin",
+  "name_zh": "德沃金",
+  "name_en": "Ronald Dworkin",
+  "birth_death": "1931-12-11 / 2013-02-14",
+  "dynasty": "20-21世纪美国",
+  "confidence": "medium",
+  "priority": "medium",
+  "persona_type": "legal philosopher / political theorist",
+  "key_works": [
+    "《Taking Rights Seriously》(1977) / 《认真对待权利》",
+    "《A Matter of Principle》(1985) / 《原则问题》",
+    "《Law's Empire》(1986) / 《法律帝国》",
+    "《Sovereign Virtue: The Theory and Practice of Equality》(2000) / 《至上的美德》",
+    "《Justice for Hedgehogs》(2011) / 《刺猬的正义》",
+    "《Religion Without God》(2013) / 《无神的宗教》"
+  ],
+  "core_concepts": [
+    "法律与道德哲学整合",
+    "正确答案论 (Right Answer Thesis)",
+    "权利论 / 认真对待权利 (Rights Thesis)",
+    "资源平等 (Equality of Resources)",
+    "宪法的道德解读 (Moral Reading of Constitution)",
+    "解释主义 (Interpretivism)",
+    "法律的整体性 (Law as Integrity)",
+    "Judge Hercules (赫拉克勒斯法官)",
+    "原则 vs 政策 (Principles vs Policies)"
+  ],
+  "distillation_date": "2026-07-26",
+  "sources_used": [
+    "Wikipedia - Ronald Dworkin"
+  ],
+  "default_stage": "切片二: 耶鲁法理学与原则 vs 政策 (1962-1969)"
+}

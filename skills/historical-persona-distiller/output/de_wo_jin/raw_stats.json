@@ -1,0 +1,12 @@
+{
+  "persona_id": "de_wo_jin",
+  "distillation_date": "2026-07-26",
+  "sources_count": 1,
+  "sources": [
+    {"name": "Wikipedia - Ronald Dworkin", "type": "encyclopedia", "fetch_status": "success_2026-07-26"}
+  ],
+  "corpus_stats": {"传记_chars": 3500, "引语_chars": 800, "后世评述_chars": 1000, "total_raw_chars": 5300},
+  "stages_identified": {"count": 5, "default_stage": "切片二: 耶鲁法理学与原则 vs 政策 (1962-1969)", "all_confidence": "medium-high"},
+  "overall_confidence": "medium",
+  "distillation_version": "1.0"
+}
