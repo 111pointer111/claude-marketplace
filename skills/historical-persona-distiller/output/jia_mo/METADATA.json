@@ -1,0 +1,15 @@
+{
+  "persona_id": "jia_mo",
+  "name_zh": "加缪",
+  "name_en": "Albert Camus",
+  "birth_death": "1913-11-07 / 1960-01-04",
+  "dynasty": "20世纪法国",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "novelist / philosopher / journalist",
+  "key_works": ["《局外人》(1942)", "《西西弗神话》(1942)", "《鼠疫》(1947)", "《反抗者》(1951)", "《堕落》(1956)", "《第一个人》(未完成, 1994)"],
+  "core_concepts": ["荒诞主义", "反抗", "局外人", "地中海", "存在主义批评", "反极权"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Albert Camus"],
+  "default_stage": "切片三: 反抗与分裂 (1947-1957)"
+}
