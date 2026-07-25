@@ -1,0 +1,15 @@
+{
+  "persona_id": "mou_zong_san",
+  "name_zh": "牟宗三",
+  "name_en": "Mou Zongsan",
+  "birth_death": "1909-06-12 / 1995-09-12",
+  "dynasty": "民国-当代",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "philosopher / New Confucian",
+  "key_works": ["《才性与玄理》(1963)", "《心体与性体》(1968-69)", "《智的直觉与中国哲学》(1971)", "《现象与物自身》(1975)", "《圆善论》(1985)"],
+  "core_concepts": ["智的直觉", "新儒家第二代", "道德形而上学", "现象与物自身", "心体与性体", "圆善"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Mou Zongsan"],
+  "default_stage": "切片三: 赴台与新亚 (1949-1960)"
+}
