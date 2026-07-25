@@ -1,0 +1,41 @@
+{
+  "persona_id": "mo_er",
+  "name_zh": "摩尔",
+  "name_en": "G.E. Moore (George Edward Moore)",
+  "birth_death": "1873-11-04 / 1958-10-24",
+  "dynasty": "19-20世纪英国",
+  "confidence": "medium",
+  "priority": "medium",
+  "persona_type": "philosopher / ethicist",
+  "key_works": [
+    "《判断的性质》(The Nature of Judgment, 1899)",
+    "《伦理学原理》(Principia Ethica, 1903)",
+    "《理想主义之反驳》(The Refutation of Idealism, 1903)",
+    "《康德的唯心论》(Kant's Idealism, 1904)",
+    "《伦理学》(Ethics, 1912, 牛津手册)",
+    "《哲学研究》(Philosophical Studies, 1922)",
+    "《为常识辩护》(A Defence of Common Sense, 1925)",
+    "《存在是谓词吗?》(Is Existence a Predicate?, 1936)",
+    "《外在世界之证明》(Proof of an External World, 1939)",
+    "《我的批评者们》(My Critics, 1942)",
+    "《哲学之主要问题》(Some Main Problems of Philosophy, 1953, 身后出版)"
+  ],
+  "core_concepts": [
+    "常识实在论 (Common Sense Realism)",
+    "反唯心论 (Refutation of Idealism)",
+    "元伦理学 (Meta-ethics)",
+    "自然主义谬误 (Naturalistic Fallacy)",
+    "开放问题论证 (Open-Question Argument)",
+    "有机整体原则 (Organic Wholes)",
+    "分析方法论 (Method of Analysis)",
+    "Moore 悖论 (Moore's Paradox)",
+    "个人善优于社会善",
+    "内在价值 vs 工具价值"
+  ],
+  "distillation_date": "2026-07-26",
+  "sources_used": [
+    "Stanford Encyclopedia of Philosophy - G.E. Moore",
+    "Wikipedia - G.E. Moore"
+  ],
+  "default_stage": "切片二: 反唯心论与《伦理学原理》(1899-1910)"
+}

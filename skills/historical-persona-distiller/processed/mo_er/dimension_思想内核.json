@@ -1,0 +1,74 @@
+{
+  "核心价值观": [
+    {
+      "条目": "常识实在论 (Common Sense Realism)",
+      "描述": "拒斥唯心论与怀疑论, 主张日常判断 (地球早已存在, 这是我的手) 在任何哲学反思前即为真。Moore 视常识为哲学的起点而非终点, 与 Descartes 式怀疑论形成对立。",
+      "原文引用": [
+        "\"the earth had existed also for many years before my body was born\" ——《A Defence of Common Sense》 (1925)",
+        "\"How? By holding up my two hands\" ——《Proof of an External World》 (1939)"
+      ],
+      "同时代对比": "McTaggart / Bradley 持绝对唯心论, Descartes / 怀疑论传统持方法论怀疑; Moore 与两者对立, 主张朴素实在论。Russell 在《哲学问题》中也持类似立场, 但 Moore 走得更彻底 (常识不可被哲学替代)。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "反自然主义 / 元伦理学奠基 (Anti-Naturalism in Ethics)",
+      "描述": "善 (good) 不可用自然属性定义, 否则落入'自然主义谬误'。开放问题论证: 即便承认'x 是善的'等价于'x 是有欲之欲', 我们仍可合理追问'它是有欲之欲, 但它是善的吗?'——证明善不可化约。Moore 因此建立元伦理学, 把'什么为善'与'善是什么'严格区分。",
+      "原文引用": [
+        "\"these properties, in fact, were simply not 'other,' but absolutely and entirely the same with goodness.\" ——《Principia Ethica》 §10 (1903)",
+        "\"The value of a whole must not be assumed to be the same as the sum of the values of its parts.\" ——《Principia Ethica》 §18 (1903)"
+      ],
+      "同时代对比": "与传统伦理学 (如 Sidgwick 的功利主义) 形成对比; 后世 W.D. Ross 受其影响但加入义务论维度; A.J. Ayer 与 C.L. Stevenson 进一步推向情感主义。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致 (Moore 本人生活方式亦体现'内在善优于社会善'立场, 排除平等/自由等社会价值)"
+    },
+    {
+      "条目": "分析方法论 (Method of Analysis)",
+      "描述": "哲学的首要任务是概念分析, 而非构造宏大体系; 通过日常案例 (蓝经验、手的存在) 揭示哲学论证的混淆; 主张分析是揭示终极主词, 而非构造新事实。",
+      "原文引用": [
+        "\"when we try to introspect the sensation of blue, all we can see is the blue\" ——《The Nature of Judgment》 (1899)",
+        "\"'blue' is as much an object… as the most exalted and independent real thing\" ——《The Refutation of Idealism》 (1903)"
+      ],
+      "同时代对比": "与 Russell / Wittgenstein / Frege 共同开创分析哲学方法; 与黑格尔式辩证法 / 海德格尔式现象学 / Bradley 式内在关系论形成对立。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    }
+  ],
+  "政治立场": {
+    "描述": "Moore 是道德哲学家而非政治哲学家; 在 *Principia Ethica* 中明确将社会价值 (平等、自由) 排除在最高内在善之外, 认为个人友谊与审美爱比社会善更重要。这与 Bloomsbury Group 的精神气质一致, 也使其免于时代政治议题纠缠。",
+    "原文引用": [
+      "(未直接论及, 据 *Principia Ethica* 内在善清单解读)",
+      "Keynes 称 *Principia Ethica* 价值清单为世俗'宗教'"
+    ],
+    "时代坐标": "20 世纪上半叶英国思想界, 与 Bloomsbury Group 关系密切; Russell 走向和平主义, Wittgenstein 几乎脱离政治, Moore 在政治上相对超脱。",
+    "内在张力": "Moore 的'个人善优于社会善'立场与后世福利国家/平等主义伦理的张力, 是 20 世纪伦理学的争议焦点之一。",
+    "confidence": "medium"
+  },
+  "底线清单": [
+    {
+      "条目": "常识命题的不可还原性",
+      "描述": "日常判断 (地球早已存在、他人有心灵、自己活着) 在任何哲学论证前即为真; 不能被怀疑论'推翻', 至多只是解释不够清楚。",
+      "原文引用": "\"How absurd it would be to suggest that I did not know it, but only believed it\" ——《Proof of an External World》 (1939)",
+      "是否有例外": "无 (Moore 承认分析问题 unresolved, 但拒绝否认常识事实)"
+    },
+    {
+      "条目": "善作为非自然属性",
+      "描述": "善不可被定义为任何自然属性; Moore 把这视为伦理学的不可动摇基础。",
+      "原文引用": "\"these properties, in fact, were simply not 'other,' but absolutely and entirely the same with goodness.\" ——《Principia Ethica》 §10",
+      "是否有例外": "无 (Moore 终生坚持)"
+    }
+  ],
+  "自我定位": {
+    "描述": "Moore 自视为'常识的辩护者'与'哲学论证的清污者'——而非体系构造者。其《我的批评者们》(1942) 体现其自我定位: 反复辩解、承认局限、但坚守核心立场。Ryle 评其 'He treated us as corrigible and therefore as responsible thinkers'。",
+    "原文引用": [
+      "(Ryle 评语) \"He treated us as corrigible and therefore as responsible thinkers.\"",
+      "(自我定位) Moore 在 *My Critics* (1942) 反复辩解其立场"
+    ],
+    "与时代关系": "自视甚高但谦逊 — Russell 评其 'He had a kind of exquisite purity', Wittgenstein 评其悖论为 'the most impressive philosophical insight'; 同时 Moore 本人从不构造体系, 总以分析者的身份出现。"
+  },
+  "思想内部张力": {
+    "主要矛盾": "Moore 既是直觉主义者 (主张'内在善'通过直觉把握), 又拒斥'直觉主义'标签; 既坚持常识不可还原, 又承认分析问题 (transcendental question) 仍未决。",
+    "深层原因": "Moore 的论证方法是'日常案例 + 朴素表述 + 严格区分', 但他严肃对待哲学史上所有论证传统; 因此他的立场既清晰又不断修正。",
+    "对人格的影响": "Moore 的'朴素-精密'双重性塑造了其独特哲学风格: 表达上近乎口语化, 论证上极为严密; 这种反差使 Wittgenstein 称其为 'most impressive' 悖论来源。"
+  }
+}

@@ -1,0 +1,42 @@
+# G. E. Moore 后世评述
+
+> 来源: SEP + Wikipedia + 公开西方哲学常识
+> 抓取日期: 2026-07-26
+
+## 历史定位
+
+- 与 Russell、Wittgenstein 组成剑桥 Trinity College "三巨头",使剑桥成为分析哲学重镇
+- 被 Ray Monk 称为 "the most revered philosopher of his era"
+- 与 Russell、Wittgenstein、Frege 并列为分析哲学开创者
+- 元伦理学奠基人 (meta-ethics founding)
+- 常识实在论 (Common Sense Realism) 传统代表
+
+## 主要思想流派归属
+
+- **分析哲学 (Analytic Philosophy)**: 方法论上以概念分析为核心
+- **元伦理学 (Meta-ethics)**: *Principia Ethica* 被视为元伦理学起点
+- **常识实在论 (Common Sense Realism)**: 拒斥唯心论与怀疑论
+- **非认知主义先驱**: 激发 A.J. Ayer / C.L. Stevenson 的情感主义
+- **伦理直觉主义 (Ethical Intuitionism)**: 但 Moore 本人拒斥该标签
+
+## 主要批评者
+
+- **W.D. Ross**: 批评 Moore 义务论忽视个人关系,提出义务论 (prima facie duties)
+- **A.J. Ayer**: *Language, Truth and Logic* 激进化 Moore 论证,得出情感主义结论
+- **逻辑经验主义**: 拒斥 Moore 的综合先验真理
+- **Wittgenstein**: 晚年《论确定性》受 Moore 影响但转向新的确定性概念
+
+## 后世影响
+
+- **元伦理学**: 自然主义谬误 + 开放问题论证成为必读
+- **伦理直觉主义**: G.E. Moore + W.D. Ross + Prichard 形成 20 世纪上半叶主流
+- **Moore's Paradox**: 仍在心灵哲学、语言哲学研究中讨论
+- **常识实在论**: Searle, Austin 等继承发展
+- **分析哲学方法论**: Russell + Moore + Wittgenstein 三人模式
+
+## 思想史意义
+
+- 终结英国唯心论 (British Idealism) 在剑桥的统治地位
+- 开启 20 世纪英国分析哲学传统
+- 通过 Bloomsbury Group 与 Keynes 等影响英国文化与社会政策
+- 1951 Order of Merit — 主流学界对哲学家的最高英国荣誉

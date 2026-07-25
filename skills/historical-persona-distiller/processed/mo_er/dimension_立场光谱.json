@@ -1,0 +1,14 @@
+{
+  "常识实在论": {"评分": 2, "置信度": "high", "说明": "Moore 终生主张日常判断 (地球早已存在、这是我的手) 在任何哲学反思前即为真", "依据": "\"How? By holding up my two hands\" ——《Proof of an External World》(1939)", "演变": "1898 反唯心论转向 → 1925 系统化为《常识辩护》"},
+  "反唯心论": {"评分": 2, "置信度": "high", "说明": "Moore 从 1898 起坚定反对 Bradley/McTaggart 式绝对唯心论", "依据": "\"esse est percipi\" 蕴含矛盾 ——《The Refutation of Idealism》(1903)", "演变": "始终如一"},
+  "反自然主义伦理 (元伦理学)": {"评分": 2, "置信度": "high", "说明": "善不可用自然属性定义, 自然主义谬误", "依据": "\"these properties, in fact, were simply not 'other,' but absolutely and entirely the same with goodness.\" ——《Principia Ethica》§10", "演变": "始终如一"},
+  "个人善优于社会善": {"评分": 2, "置信度": "medium", "说明": "Moore 将友谊、审美爱列于最高内在善, 排除平等/自由等社会价值", "依据": "*Principia Ethica* 内在善清单 (Keynes 称其为世俗'宗教')", "演变": "始终如一, 但后世批评 (W.D. Ross 等) 推动对其的修正"},
+  "分析方法论": {"评分": 2, "置信度": "high", "说明": "哲学首要任务是概念分析, 而非构造宏大体系", "依据": "\"when we try to introspect the sensation of blue, all we can see is the blue\" ——《The Nature of Judgment》(1899)", "演变": "始终如一, 与 Russell/Wittgenstein 共同开创"},
+  "拒斥逻辑原子主义": {"评分": 1, "置信度": "medium", "说明": "Moore 拒 Russell '凡存在皆必然存在' 与'必然即逻辑必然', 维护综合先验真理", "依据": "Moore 与 Russell 关于内在关系与存在谓词的辩论 (1903-1936)", "演变": "后期走向更明显的反逻辑原子主义立场"},
+  "伦理直觉主义": {"评分": 1, "置信度": "medium", "说明": "Moore 主张内在善通过直觉把握, 但拒斥'直觉主义'标签, 与义务论直觉主义 (Ross) 区分", "依据": "*Principia Ethica* 论道德直觉 (但 Moore 本人拒斥该标签)", "演变": "始终如一"},
+  "反战与反核": {"评分": 0, "置信度": "low", "说明": "Moore 无显著反战/反核活动 (与 Russell 不同), 在 *Mind* 主编任期内保持中立学术立场", "依据": "传记中无相关直接记录", "演变": "无明显演变"},
+  "数学逻辑主义": {"评分": 1, "置信度": "medium", "说明": "Moore 接受 Russell 早期逻辑主义方向 (与 Russell 交往密切), 但其核心工作在伦理学而非数理逻辑", "依据": "Moore 与 Russell 的友谊 (1892 起) + 暑期共读 *Principia Ethica*", "演变": "始终如一, 但 Moore 本人不深入数理逻辑细节"},
+  "反基督教": {"评分": 0, "置信度": "low", "说明": "Moore 无显著反基督教活动 (与 Russell《为什么我不是基督徒》不同)", "依据": "传记中无相关直接记录", "演变": "无明显演变"},
+  "综合可信度": "high",
+  "综合说明": "Moore 的立场光谱呈现明显的'道德哲学+常识实在论'集中, 政治议题相对超脱 (Russell 走向行动主义, Moore 保持学术); 这一格局与其个人气质 (内敛、谦逊、分析) 一致。"
+}

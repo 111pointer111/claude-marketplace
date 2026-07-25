@@ -1,0 +1,95 @@
+# G. E. Moore 全部语料 (合并)
+
+> 合并自 传记.txt + 引语.txt + 后世评述.txt
+> 抓取日期: 2026-07-26
+
+---
+
+# 一、传记
+
+## 基本信息
+
+- 生于: 1873-11-04, Upper Norwood, 伦敦南部
+- 卒于: 1958-10-24, 剑桥 (享年 84)
+- 妻子: Dorothy Ely; 二子 (诗人 Nicholas Moore, 作曲家 Timothy Moore)
+- 兄长: Thomas Sturge Moore (诗人/雕刻家)
+- 教育: Dulwich College; 1892 入剑桥 Trinity College (古典学 + 道德科学)
+- 一等双学位毕业 (1896)
+- 剑桥 Fellow (1898); Mental Philosophy and Logic 教授 (1925-1939)
+- 受业师: J.M.E. McTaggart (唯心论) 与 James Ward
+- 剑桥使徒会成员 (1894-1901)
+- *Mind* 主编; Aristotelian Society 主席 (1918-19); Ethical Union 主席 (1935-36)
+- 1951 年由乔治六世授予 Order of Merit
+
+## 年表
+
+1873 生; 1892 入剑桥; 1894-1901 使徒会; 1896 一等毕业; 1897 首竞 Fellowship 持唯心论; 1898 竞 Fellowship 成功转向反 Kant/Bradley; 1899 《判断的性质》; 1901-02 《真理》; 1903 《理想主义之反驳》+ *Principia Ethica*; 1904 离开剑桥; 1905-06 知觉对象; 1908 评 James 实用主义; 1910-11 主要问题讲演; 1911 回剑桥任讲师; 1912 *Ethics*; 1912-44 Moral Sciences Club 主席; 1914 访 Wittgenstein 于挪威; 1918 《某些知觉判断》; 1918-19 Aristotelian Society 主席; 1919-20 《外在与内在关系》; 1921 任 *Mind* 主编; 1922 *Philosophical Studies*; 1923 普遍 vs 特殊; 1925 任教授+《为常识辩护》; 1929 Wittgenstein 返剑桥; 1935-36 Ethical Union 主席; 1936 《存在是谓词吗》; 1939 退休+《外在世界之证明》; 1940-44 访美; 1942 《我的批评者们》; 1951 Order of Merit; 1953 *Some Main Problems of Philosophy*; 1958-10-24 逝世; 1959 *Philosophical Papers*.
+
+## 主要著作
+
+- *The Nature of Judgment* (1899)
+- *Principia Ethica* (1903)
+- *The Refutation of Idealism* (1903)
+- *Kant's Idealism* (1904)
+- *The Nature and Reality of the Objects of Perception* (1905–06)
+- *Professor James' 'Pragmatism'* (1908)
+- *Ethics* (1912)
+- *Some Judgments of Perception* (1918)
+- *Philosophical Studies* (1922)
+- *A Defence of Common Sense* (1925)
+- *Are the Characteristics of Things Universal or Particular?* (1923)
+- *Some Main Problems of Philosophy* (1953, 1910-11 讲演)
+- *Proof of an External World* (in *Philosophical Papers*, 1959)
+
+---
+
+# 二、直接引语
+
+## 反唯心论
+- "when we try to introspect the sensation of blue, all we can see is the blue"
+- "'blue' is as much an object… as the most exalted and independent real thing"
+- "it is indifferent to their nature whether anybody thinks them or not"
+
+## 真理
+- "a truth differs in no respect from the reality to which it was supposed merely to correspond"
+- "That 'to be true' means to be thought in a certain way is, therefore, certainly false."
+
+## 元伦理学
+- "these properties, in fact, were simply not 'other,' but absolutely and entirely the same with goodness." (PE §10)
+- "The value of a whole must not be assumed to be the same as the sum of the values of its parts." (*Principia* §18)
+- "Right actions are those producing the most good."
+
+## 常识哲学
+- "the earth had existed also for many years before my body was born"
+- "There exists at present a living human body, which is my body."
+
+## 外在世界
+- "Here is one hand… and here is another"
+- "How? By holding up my two hands"
+- "How absurd it would be to suggest that I did not know it, but only believed it"
+
+## Moore 悖论
+- "It is raining, but I do not believe it is raining"
+
+## 同时代人评价
+- Russell: "I almost worship him as if he were a god"
+- Russell: "He had a kind of exquisite purity"
+- Wittgenstein: "the most impressive philosophical insight that Moore had ever introduced"
+- Ryle: "He treated us as corrigible and therefore as responsible thinkers"
+- Moore: "Do you know that the King had never heard of Wittgenstein!"
+
+---
+
+# 三、后世评述
+
+- 与 Russell、Wittgenstein 组成 Trinity College 三巨头
+- Ray Monk 称之为 "the most revered philosopher of his era"
+- 与 Russell、Wittgenstein、Frege 并列为分析哲学开创者
+- 主要批评者: W.D. Ross, A.J. Ayer, Wittgenstein (晚年分歧)
+- 终结英国唯心论在剑桥的统治地位
+- 1951 Order of Merit — 主流学界对哲学家的最高英国荣誉
+- 后世影响: 元伦理学、Moore's Paradox、常识实在论、伦理直觉主义
+
+## 思想史意义
+
+终结英国唯心论 + 开启分析哲学 + 通过 Bloomsbury Group 影响 Keynes 等政策实践

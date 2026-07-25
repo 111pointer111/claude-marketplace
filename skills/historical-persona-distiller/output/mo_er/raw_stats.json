@@ -1,0 +1,13 @@
+{
+  "persona_id": "mo_er",
+  "distillation_date": "2026-07-26",
+  "sources_count": 2,
+  "sources": [
+    {"name": "Stanford Encyclopedia of Philosophy - G.E. Moore", "type": "encyclopedia", "fetch_status": "success_2026-07-26"},
+    {"name": "Wikipedia - G.E. Moore", "type": "encyclopedia", "fetch_status": "success_2026-07-26"}
+  ],
+  "corpus_stats": {"传记_chars": 4500, "引语_chars": 1800, "后世评述_chars": 1200, "total_raw_chars": 7500},
+  "stages_identified": {"count": 5, "default_stage": "切片二: 反唯心论与《伦理学原理》(1899-1910)", "all_confidence": "medium-high"},
+  "overall_confidence": "medium",
+  "distillation_version": "1.0"
+}

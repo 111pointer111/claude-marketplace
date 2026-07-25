@@ -1,0 +1,159 @@
+# G. E. Moore 传记
+
+> 来源: Stanford Encyclopedia of Philosophy + Wikipedia
+> 抓取日期: 2026-07-26
+
+## 基本信息
+
+- 生于: 1873-11-04, Upper Norwood, 伦敦南部
+- 卒于: 1958-10-24, 剑桥 (享年 84)
+- 妻子: Dorothy Ely; 二子 (诗人 Nicholas Moore, 作曲家 Timothy Moore)
+- 兄长: Thomas Sturge Moore (诗人/雕刻家)
+- 教育: Dulwich College; 1892 入剑桥 Trinity College (古典学 + 道德科学)
+- 一等双学位毕业 (1896)
+- 剑桥 Fellow (1898); Mental Philosophy and Logic 教授 (1925-1939)
+- 受业师: J.M.E. McTaggart (唯心论) 与 James Ward
+- 剑桥使徒会成员 (1894-1901)
+- *Mind* 主编; Aristotelian Society 主席 (1918-19); Ethical Union 主席 (1935-36)
+- 1951 年由乔治六世授予 Order of Merit
+
+## 年表
+
+| 年份 | 事件 |
+|------|------|
+| 1873-11-04 | 生于 Upper Norwood |
+| 1892 | 入剑桥 Trinity College; 结识 Russell 与 McTaggart |
+| 1894-1901 | 剑桥使徒会成员 |
+| 1896 | 古典学与哲学一等荣誉毕业 |
+| 1897 | 首次竞 Prize Fellowship, 论文持唯心论 (受 Bradley 影响) |
+| 1898 | 竞 Fellowship 成功; 论文《伦理学之形上基础》转向反 Kant、反 Bradley |
+| 1899 | 发表《判断的性质》(*The Nature of Judgment*) |
+| 1901–02 | 撰《真理》条目 |
+| 1903 | 《理想主义之反驳》(*The Refutation of Idealism*) 与《伦理学原理》(*Principia Ethica*) |
+| 1904 | Fellowship 届满, 离开剑桥 |
+| 1905–06 | 《知觉对象的本性与实在》 |
+| 1908 | 评 James《实用主义》 |
+| 1910–11 | 讲演《哲学之主要问题》 |
+| 1911 | 回剑桥任讲师 |
+| 1912 | *Ethics* (牛津手册) |
+| 1912-1944 | Moral Sciences Club 主席 |
+| 1914 | 访 Wittgenstein 于挪威 |
+| 1918 | 《某些知觉判断》 |
+| 1918-19 | Aristotelian Society 主席 |
+| 1919–20 | 《外在与内在关系》 |
+| 1921 | 任 *Mind* 主编 |
+| 1922 | *Philosophical Studies* |
+| 1923 | 《事物的特性是普遍的还是特殊的?》 |
+| 1925 | 任剑桥教授;《为常识辩护》(*A Defence of Common Sense*) |
+| 1929 | Wittgenstein 返剑桥 |
+| 1935-36 | Ethical Union 主席 |
+| 1936 | 《存在是谓词吗?》 |
+| 1939 | 退休 (Wittgenstein 接任); 宣读《外在世界之证明》(*Proof of an External World*) |
+| 1940-44 | 访美; 辞 *Mind* 主编 |
+| 1942 | 回应《我的批评者们》(*My Critics*) |
+| 1951 | Order of Merit |
+| 1953 | 身后出版 *Some Main Problems of Philosophy* |
+| 1958-10-24 | 逝世于剑桥 Evelyn Nursing Home |
+| 1959 | 身后出版 *Philosophical Papers* |
+
+## 主要著作
+
+- *The Nature of Judgment* (1899) [Mind]
+- *Principia Ethica* (1903, Cambridge University Press)
+- *The Refutation of Idealism* (1903) [Mind]
+- *Kant's Idealism* (1904) [Mind]
+- *The Nature and Reality of the Objects of Perception* (1905–06) [Proceedings of the Aristotelian Society]
+- *Professor James' 'Pragmatism'* (1908) [Proceedings of the Aristotelian Society]
+- *Ethics* (1912, Home University Library 牛津手册)
+- *Some Judgments of Perception* (1918) [Proceedings of the Aristotelian Society]
+- *Philosophical Studies* (1922, Kegan Paul)
+- *A Defence of Common Sense* (1925) [British Contemporary Reprints]
+- *Are the Characteristics of Things Universal or Particular?* (1923) [Proceedings of the Aristotelian Society]
+- *Some Main Problems of Philosophy* (1953, lectures delivered 1910–11, 身后出版)
+- *Proof of an External World* (in *Philosophical Papers*, 1959, 身后出版)
+- *The Nature of Judgment* (收录于 *Philosophical Studies*)
+
+## 思想发展轨迹
+
+### 阶段一: 唯心论及其转向 (1892-1898)
+- 1892 入剑桥, 受 McTaggart 影响接受 Bradley 式绝对唯心论
+- 1897 Fellowship 论文仍持唯心论立场
+- 1898 Fellowship 论文《伦理学之形上基础》开始怀疑, 转向反 Kant / 反 Bradley
+- 核心冲击: 康德的 "现象 vs 本体"、Bradley 的 "内在关系"、McTaggart 的 "绝对"
+
+### 阶段二: 反唯心论与《伦理学原理》 (1899-1910)
+- 1899 《判断的性质》: 概念是客观非心理性, 思维 ≠ 客观对象
+- 1903 《理想主义之反驳》: 论证 "esse est percipi" 蕴含矛盾
+- 1903 *Principia Ethica*: 元伦理学奠基; 自然主义谬误 + 开放问题论证; 内在价值 vs 工具价值; 有机整体原则
+- 1904 Fellowship 届满, 离开剑桥; 1905-1911 在外漂泊 (含 1910-11 哲学主要问题讲演)
+
+### 阶段三: 哲学分析 (1911-1925)
+- 1911 回剑桥任讲师
+- 1912 *Ethics* (Home University Library)
+- 与 Wittgenstein 交往 (1914 挪威笔记; Moore 建议 *Tractatus* 之名)
+- 1918-39 任 Moral Sciences Club 主席
+- 1921-47 任 *Mind* 主编
+- 1922 *Philosophical Studies* 收录早期文章
+- 1923-24 转向常识实在论 (Common Sense)
+
+### 阶段四: 常识哲学与剑桥教授 (1925-1939)
+- 1925 任 Mental Philosophy and Logic 教授 (继承自 James Ward)
+- 1925 《为常识辩护》: 列举"地球在我出生前已存在多年"等老生常谈
+- 1929 Wittgenstein 返剑桥, 同侪合作
+- 1936 《存在是谓词吗?》反 Russell
+- 1939 退休 (Wittgenstein 接任教授席位); 《外在世界之证明》: "Here is one hand"
+
+### 阶段五: 晚期访美与身后出版 (1940-1959)
+- 1940-44 访美讲学
+- 1942 《我的批评者们》(*My Critics*)
+- 1951 Order of Merit (乔治六世)
+- 1953 *Some Main Problems of Philosophy* 身后出版
+- 1958-10-24 逝世
+- 1959 *Philosophical Papers* 身后出版 (含 *Proof of an External World*)
+
+## 关键引语 (按主题)
+
+### 反唯心论
+- "when we try to introspect the sensation of blue, all we can see is the blue" (The Nature of Judgment / Refutation of Idealism 41)
+- "'blue' is as much an object… as the most exalted and independent real thing" (同上, 42)
+- "it is indifferent to their nature whether anybody thinks them or not" (The Nature of Judgment, 4)
+
+### 真理 (Truth, 1901-02)
+- "a truth differs in no respect from the reality to which it was supposed merely to correspond" (Truth, 21)
+- "That 'to be true' means to be thought in a certain way is, therefore, certainly false." (PE 183)
+
+### 元伦理学
+- (开放问题): "these properties, in fact, were simply not 'other,' but absolutely and entirely the same with goodness." (PE §10)
+- (有机整体): "The value of a whole must not be assumed to be the same as the sum of the values of its parts." (*Principia*, §18)
+- (后果主义): "Right actions are those producing the most good." (PE 解读)
+
+### 常识实在论
+- "the earth had existed also for many years before my body was born" (Defence of Common Sense)
+- "How? By holding up my two hands" (Proof of an External World 166)
+- "How absurd it would be to suggest that I did not know it, but only believed it" (同上)
+
+## 与同时代人物关系
+
+- **Russell**: 早期引领 Moore 反唯心论; Moore 后批评 Russell 蕴含观与存在观但保持友谊; Russell 评价 Moore "He had a kind of exquisite purity" / "I almost worship him as if he were a god"
+- **Wittgenstein**: 1914 挪威笔记; Moore 建议 *Tractatus Logico-Philosophicus* 之名 (仿 Spinoza); Wittgenstein 接替 Moore 教授席位 (1939); Wittgenstein 在《论确定性》中回应 Moore; Wittgenstein 论 Moore 悖论: "the most impressive philosophical insight that Moore had ever introduced"
+- **McTaggart**: 早期导师, 后反其唯心论
+- **Bloomsbury Group**: 通过 Russell 加入, 与 Lytton Strachey、Leonard Woolf、Keynes 交往
+- **W.D. Ross**: 批评 Moore 义务论忽视个人关系
+- **A.J. Ayer, C.L. Stevenson**: 受 Moore 激发走向非认知主义
+- **Ryle**: "He treated us as corrigible and therefore as responsible thinkers."
+
+## 关键遗产
+
+- **Moore's Paradox**: "It is raining, but I do not believe it is raining" — Wittgenstein 视为涉及自我认同的深层现象 (见《哲学研究》II.x)
+- **元伦理学奠基**: 开放问题论证、自然主义谬误、supervenience 关系
+- **分析哲学方法论典范**: 与 Russell / Wittgenstein / Frege 并列
+- **常识实在论传统**: 拒斥唯心论与怀疑论
+
+## 关键引语 (Russell / Wittgenstein / 后人评价)
+
+- Russell: "I almost worship him as if he were a god. I have never felt such an extravagant admiration for anybody." / "He had a kind of exquisite purity."
+- Wittgenstein: "the most impressive philosophical insight that Moore had ever introduced"
+- Ryle: "He treated us as corrigible and therefore as responsible thinkers."
+- Ray Monk: "the most revered philosopher of his era"
+- Keynes: Moore 之 *Principia Ethica* 价值清单是世俗"宗教"
+- Moore 接受 Order of Merit 后对妻言: "Do you know that the King had never heard of Wittgenstein!"
