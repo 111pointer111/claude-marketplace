@@ -1,0 +1,15 @@
+{
+  "persona_id": "liang_shu_ming",
+  "name_zh": "梁漱溟",
+  "name_en": "Liang Shuming",
+  "birth_death": "1893-10-18 / 1988-06-23",
+  "dynasty": "民国-当代",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "philosopher / rural reconstruction leader",
+  "key_works": ["《东西文化及其哲学》(1921)", "《乡村建设理论》", "《中国文化要义》", "《人心与人生》"],
+  "core_concepts": ["文化三路向", "乡村建设", "反对全盘西化", "终身佛教", "最后的儒家"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Liang Shuming"],
+  "default_stage": "切片四: 新中国与文革 (1949-1988)"
+}
