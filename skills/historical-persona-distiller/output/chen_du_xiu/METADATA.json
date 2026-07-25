@@ -1,0 +1,15 @@
+{
+  "persona_id": "chen_du_xiu",
+  "name_zh": "陈独秀",
+  "name_en": "Chen Duxiu",
+  "birth_death": "1879-10-09 / 1942-05-27",
+  "dynasty": "民国",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "revolutionary / co-founder of CCP",
+  "key_works": ["《新青年》(1915)", "《安徽俗话报》(1904)", "《敬告青年》"],
+  "core_concepts": ["新文化运动", "德先生", "赛先生", "中共建党", "激进反传统", "托洛茨基主义"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Chen Duxiu"],
+  "default_stage": "切片二: 新文化运动与五四 (1915-1920)"
+}
