@@ -1,0 +1,19 @@
+# 博尔赫斯 全部语料 (合并)
+
+> 合并自 传记.txt + 引语.txt + 后世评述.txt
+
+---
+
+# 一、传记
+- **博尔赫斯** (1899-08-24 至 1986-06-14)
+- 阿根廷作家
+- **1941 《小径分岔的花园》**
+- 1955 国家图书馆馆长
+- 1960s 完全失明
+- 1986 死于肝癌
+
+## 关键引语
+- "If I were asked to name the chief event in my life, I should say my father's library."
+
+## 后世评述
+- J.M. Coetzee: "more than anyone, renovated the language of fiction"

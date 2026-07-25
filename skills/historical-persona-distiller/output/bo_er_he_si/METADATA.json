@@ -1,0 +1,15 @@
+{
+  "persona_id": "bo_er_he_si",
+  "name_zh": "博尔赫斯",
+  "name_en": "Jorge Luis Borges",
+  "birth_death": "1899-08-24 / 1986-06-14",
+  "dynasty": "20世纪阿根廷",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "short story writer / poet",
+  "key_works": ["《小径分岔的花园》(1941)", "《虚构集》(1944)", "《阿莱夫》(1949)", "《迷宫》(1962)"],
+  "core_concepts": ["元小说", "无限", "迷宫", "镜像", "阿莱夫", "巴别图书馆"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Jorge Luis Borges"],
+  "default_stage": "切片三: 成熟与《小径分岔的花园》(1938-1955)"
+}
