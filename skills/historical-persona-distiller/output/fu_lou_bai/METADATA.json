@@ -1,0 +1,15 @@
+{
+  "persona_id": "fu_lou_bai",
+  "name_zh": "福楼拜",
+  "name_en": "Gustave Flaubert",
+  "birth_death": "1821-12-12 / 1880-05-08",
+  "dynasty": "19世纪法国",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "novelist / realist",
+  "key_works": ["《包法利夫人》(1857)", "《萨朗波》(1862)", "《情感教育》(1869)", "《三故事》(1877)"],
+  "core_concepts": ["le mot juste", "作者应如上帝", "现实主义", "反对资产阶级平庸"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Gustave Flaubert"],
+  "default_stage": "切片三: 《包法利夫人》审判与主要著作 (1857-1869)"
+}

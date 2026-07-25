@@ -1,0 +1,9 @@
+{
+  "核心价值观": [
+    {"条目": "le mot juste (准确的词)", "description": "完美主义; 风格的殉道者", "贯穿程度": "始终如一"},
+    {"条目": "作者应如上帝", "description": "\"an author in his book must be like God in the universe, present everywhere and visible nowhere.\"", "贯穿程度": "始终如一"},
+    {"条目": "现实主义", "description": "法国文学现实主义最高代表", "贯穿程度": "始终如一"},
+    {"条目": "反对资产阶级平庸", "description": "通过包法利夫人批判资产阶级", "贯穿程度": "始终如一"}
+  ],
+  "政治立场": {"description": "自由派; 批判资产阶级平庸", "confidence": "high"}
+}
