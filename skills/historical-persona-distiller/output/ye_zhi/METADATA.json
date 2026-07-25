@@ -1,0 +1,15 @@
+{
+  "persona_id": "ye_zhi",
+  "name_zh": "叶芝",
+  "name_en": "William Butler Yeats",
+  "birth_death": "1865-06-13 / 1939-01-28",
+  "dynasty": "19-20世纪爱尔兰",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "poet / dramatist / senator",
+  "key_works": ["《Oisin 的漫游》(1889)", "《幻象》(1925)", "《塔楼》(1928)", "《旋梯》(1933)", "《1916 年复活节》"],
+  "core_concepts": ["凯尔特复兴", "神秘学", "政治参与", "Maud Gonne", "阿比剧院"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - W. B. Yeats"],
+  "default_stage": "切片二: 阿比剧院与民族 (1904-1922)"
+}

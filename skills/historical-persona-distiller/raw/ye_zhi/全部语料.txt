@@ -1,0 +1,22 @@
+# 叶芝 全部语料 (合并)
+
+> 合并自 传记.txt + 引语.txt + 后世评述.txt
+
+---
+
+# 一、传记
+- **叶芝** (1865-06-13 至 1939-01-28)
+- 爱尔兰诗人/剧作家/参议员
+- 1889 Maud Gonne
+- 1890 金色黎明
+- 1904 阿比剧院
+- 1923 诺奖
+- 1939 Menton 去世
+
+## 关键引语
+- "All changed, changed utterly: / A terrible beauty is born."
+- "Cast a cold eye / On life, on death."
+
+## 后世评述
+- 爱尔兰文艺复兴主要推动者
+- 1923 诺奖
