@@ -1,0 +1,15 @@
+{
+  "persona_id": "ma_yi_fu",
+  "name_zh": "马一浮",
+  "name_en": "Ma Yifu",
+  "birth_death": "1883-04-02 / 1967",
+  "dynasty": "民国-当代",
+  "confidence": "medium",
+  "priority": "medium",
+  "persona_type": "philosopher / calligrapher / poet",
+  "key_works": ["复性书院 (1939 创立)", "六艺教育"],
+  "core_concepts": ["复性", "六艺教育", "宋明理学", "新儒家三圣之一", "现代朱子"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Ma Yifu"],
+  "default_stage": "切片三: 新中国与文革 (1949-1967)"
+}
