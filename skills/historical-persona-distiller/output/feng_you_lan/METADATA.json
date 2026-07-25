@@ -1,0 +1,15 @@
+{
+  "persona_id": "feng_you_lan",
+  "name_zh": "冯友兰",
+  "name_en": "Feng Youlan",
+  "birth_death": "1895-12-04 / 1990-11-26",
+  "dynasty": "民国-当代",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "philosopher / historian of Chinese philosophy",
+  "key_works": ["《中国哲学史》(1934)", "《新理学》(1939)", "《新知言》(1946)", "《中国哲学之精神》(1947)", "《新原道》(1961)", "《中国哲学史新编》(1986)"],
+  "core_concepts": ["《中国哲学史》", "新理学", "贞元六书", "中西哲学综合", "新儒家"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Feng Youlan"],
+  "default_stage": "切片二: 清华与《中国哲学史》(1923-1938)"
+}
