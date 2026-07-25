@@ -1,0 +1,15 @@
+{
+  "persona_id": "mo_po_sang",
+  "name_zh": "莫泊桑",
+  "name_en": "Guy de Maupassant",
+  "birth_death": "1850-08-05 / 1893-07-06",
+  "dynasty": "19世纪法国",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "short story writer / naturalist",
+  "key_works": ["《羊脂球》(1880)", "《一生》(1883)", "《漂亮朋友》(1885)", "《皮埃尔与让》(1888)", "《项链》《奥尔拉》"],
+  "core_concepts": ["短篇小说之王", "自然主义", "客观讽刺", "福楼拜门徒"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Guy de Maupassant"],
+  "default_stage": "切片三: 文学创作高峰 (1880-1890)"
+}
