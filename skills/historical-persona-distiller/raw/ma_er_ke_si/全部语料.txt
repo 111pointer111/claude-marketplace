@@ -1,0 +1,20 @@
+# 马尔克斯 全部语料 (合并)
+
+> 合并自 传记.txt + 引语.txt + 后世评述.txt
+
+---
+
+# 一、传记
+- **马尔克斯** (1927-03-06 至 2014-04-17)
+- 哥伦比亚作家
+- **1967 《百年孤独》**
+- **1982 诺奖**
+- 2014 死于肺炎
+
+## 关键引语
+- "I feel Latin American from whatever country."
+- "reality isn't limited to the price of tomatoes and eggs."
+
+## 后世评述
+- 哥伦比亚最伟大作家
+- 魔幻现实主义代表

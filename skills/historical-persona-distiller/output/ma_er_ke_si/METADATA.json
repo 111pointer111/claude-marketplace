@@ -1,0 +1,15 @@
+{
+  "persona_id": "ma_er_ke_si",
+  "name_zh": "马尔克斯",
+  "name_en": "Gabriel García Márquez",
+  "birth_death": "1927-03-06 / 2014-04-17",
+  "dynasty": "20-21世纪哥伦比亚",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "novelist / journalist",
+  "key_works": ["《百年孤独》(1967)", "《霍乱时期的爱情》(1985)", "《上校无人来信》(1961)", "《绑架新闻》(1996)", "《活着为了讲述》(2002)"],
+  "core_concepts": ["魔幻现实主义", "Macondo (马孔多)", "拉美文学爆炸", "拉美左翼政治", "La Violencia"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Gabriel García Márquez"],
+  "default_stage": "切片二: 魔幻现实主义成熟 (1961-1985)"
+}

@@ -1,0 +1,8 @@
+{
+  "核心价值观": [
+    {"条目": "魔幻现实主义", "description": "拉美魔幻现实主义代表", "贯穿程度": "始终如一"},
+    {"条目": "Macondo", "description": "虚构村庄马孔多", "贯穿程度": "始终如一"},
+    {"条目": "拉美左翼政治", "description": "Fidel Castro 密友; 左翼立场", "贯穿程度": "始终如一"}
+  ],
+  "政治立场": {"description": "左翼; Fidel Castro 密友; 哥伦比亚保守派批评", "confidence": "high"}
+}
