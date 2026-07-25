@@ -1,0 +1,15 @@
+{
+  "persona_id": "lu_xun",
+  "name_zh": "鲁迅",
+  "name_en": "Lu Xun",
+  "birth_death": "1881-09-25 / 1936-10-19",
+  "dynasty": "民国",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "writer / modern Chinese literature founder",
+  "key_works": ["《狂人日记》(1918)", "《阿Q正传》(1921)", "《呐喊》(1923)", "《彷徨》(1926)", "《故事新编》(1935)"],
+  "core_concepts": ["国民性批判", "吃人", "弃医从文", "白话文运动", "翻译引入", "横眉冷对"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Lu Xun"],
+  "default_stage": "切片二: 新文化与文学 (1918-1926)"
+}
