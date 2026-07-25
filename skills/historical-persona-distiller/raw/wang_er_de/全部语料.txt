@@ -1,0 +1,22 @@
+# 王尔德 全部语料 (合并)
+
+> 合并自 传记.txt + 引语.txt + 后世评述.txt
+
+---
+
+# 一、传记
+- **王尔德** (1854-10-16 至 1900-11-30)
+- 爱尔兰作家/诗人/剧作家
+- 1878 牛津 Magdalen
+- 1890 《道连·格雷画像》
+- 1895 入狱 (gross indecency)
+- 1900 巴黎去世
+
+## 关键引语
+- "Life imitates art far more than art imitates life."
+- "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth."
+- "There is only one thing in the world worse than being talked about..."
+
+## 后世评述
+- 维多利亚时代唯美主义/颓废派关键人物
+- 现代戏剧传统

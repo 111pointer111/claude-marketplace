@@ -1,0 +1,8 @@
+{
+  "核心价值观": [
+    {"条目": "唯美主义/颓废派", "description": "艺术为生活而非生活为艺术", "贯穿程度": "始终如一"},
+    {"条目": "机智与反讽", "description": "机智锋利的对话; 悖论", "贯穿程度": "始终如一"},
+    {"条目": "面具", "description": "\"Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth.\"", "贯穿程度": "始终如一"}
+  ],
+  "政治立场": {"description": "贵族反资产阶级; 个性主义; 维多利亚社会的反叛者", "confidence": "high"}
+}

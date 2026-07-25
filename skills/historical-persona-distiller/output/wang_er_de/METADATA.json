@@ -1,0 +1,15 @@
+{
+  "persona_id": "wang_er_de",
+  "name_zh": "王尔德",
+  "name_en": "Oscar Wilde",
+  "birth_death": "1854-10-16 / 1900-11-30",
+  "dynasty": "维多利亚时代",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "playwright / poet / aestheticism",
+  "key_works": ["《道连·格雷画像》(1890)", "《温德米尔夫人的扇子》(1892)", "《不可儿戏》(1895)", "《De Profundis》(1897)", "《雷丁监狱之歌》(1898)"],
+  "core_concepts": ["唯美主义", "颓废派", "机智反讽", "面具"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Oscar Wilde"],
+  "default_stage": "切片三: 入狱与流亡 (1895-1900)"
+}
