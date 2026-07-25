@@ -1,0 +1,20 @@
+# 拉伯雷 全部语料 (合并)
+
+> 合并自 传记.txt + 引语.txt + 后世评述.txt
+
+---
+
+# 一、传记
+- **拉伯雷** (c. 1483-1494 至 1553)
+- 法国文艺复兴作家/医生
+- **1532 《Pantagruel》**
+- **1534 《Gargantua》**
+- 1553 巴黎去世
+
+## 关键引语
+- "DO WHAT YOU WANT"
+- Le Clézio: "the greatest writer in the French language"
+
+## 后世评述
+- 法国文艺复兴作家
+- 法国散文文学奠基人

@@ -1,0 +1,15 @@
+{
+  "persona_id": "la_bo_lai",
+  "name_zh": "拉伯雷",
+  "name_en": "François Rabelais",
+  "birth_death": "c. 1483-1494 / 1553",
+  "dynasty": "16世纪法国",
+  "confidence": "medium",
+  "priority": "medium",
+  "persona_type": "novelist / physician / humanist",
+  "key_works": ["《Pantagruel》(1532)", "《Gargantua》(1534)", "《第三卷》(1546)", "《第四卷》(1552)"],
+  "core_concepts": ["文艺复兴", "民间诙谐", "《巨人传》", "医生", "Thélème", "百科全书式"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - François Rabelais"],
+  "default_stage": "切片二: 医学与文学创作 (1530-1540)"
+}
