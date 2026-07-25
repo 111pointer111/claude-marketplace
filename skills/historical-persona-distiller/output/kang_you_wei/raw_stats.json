@@ -1,0 +1,12 @@
+{
+  "persona_id": "kang_you_wei",
+  "distillation_date": "2026-07-26",
+  "sources_count": 1,
+  "sources": [
+    {"name": "Wikipedia - Kang Youwei", "type": "encyclopedia", "fetch_status": "success_2026-07-26"}
+  ],
+  "corpus_stats": {"传记_chars": 3500, "引语_chars": 800, "后世评述_chars": 1000, "total_raw_chars": 5300},
+  "stages_identified": {"count": 4, "default_stage": "切片二: 变法与公车上书 (1891-1898)", "all_confidence": "medium"},
+  "overall_confidence": "medium",
+  "distillation_version": "1.0"
+}

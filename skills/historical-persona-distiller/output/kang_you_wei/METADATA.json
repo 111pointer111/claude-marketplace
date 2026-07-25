@@ -1,0 +1,31 @@
+{
+  "persona_id": "kang_you_wei",
+  "name_zh": "康有为",
+  "name_en": "Kang Youwei",
+  "birth_death": "1858-03-19 / 1927-03-31",
+  "dynasty": "清末民初",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "reformist thinker / political philosopher",
+  "key_works": [
+    "《新学伪经考》(1891)",
+    "《孔子改制考》(1898)",
+    "《大同书》(海外完成, 1935 完整出版)",
+    "《戊戌变法奏议》(1898)"
+  ],
+  "core_concepts": [
+    "公羊学派的变革观",
+    "新学伪经 (经学批判)",
+    "孔子改制 (改革者形象)",
+    "大同乌托邦",
+    "三世说 (公羊学核心)",
+    "维新变法 (百日维新)",
+    "君主立宪",
+    "孔教会 (晚年)"
+  ],
+  "distillation_date": "2026-07-26",
+  "sources_used": [
+    "Wikipedia - Kang Youwei"
+  ],
+  "default_stage": "切片二: 变法与公车上书 (1891-1898)"
+}
