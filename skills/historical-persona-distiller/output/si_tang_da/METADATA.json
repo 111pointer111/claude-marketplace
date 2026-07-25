@@ -1,0 +1,15 @@
+{
+  "persona_id": "si_tang_da",
+  "name_zh": "司汤达",
+  "name_en": "Stendhal (Marie-Henri Beyle)",
+  "birth_death": "1783 / 1842",
+  "dynasty": "19世纪法国",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "novelist / psychological realist",
+  "key_works": ["《红与黑》(1830)", "《帕尔马修道院》(1839)", "《论爱情》(1822)"],
+  "core_concepts": ["心理现实主义", "结晶化", "Julien Sorel", "拿破仑战争", "意大利"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Stendhal"],
+  "default_stage": "切片三: 成熟与主要著作 (1830-1842)"
+}
