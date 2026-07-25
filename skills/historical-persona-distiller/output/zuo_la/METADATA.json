@@ -1,0 +1,15 @@
+{
+  "persona_id": "zuo_la",
+  "name_zh": "左拉",
+  "name_en": "Émile Zola",
+  "birth_death": "1840-04-02 / 1902-09-29",
+  "dynasty": "19世纪法国",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "novelist / naturalist",
+  "key_works": ["《卢贡-马卡尔家族》(20卷, 1871-1893)", "《小酒店》(1877)", "《娜娜》(1880)", "《萌芽》(1885)", "《崩溃》(1892)", "《我控诉!》(1898)"],
+  "core_concepts": ["自然主义文学", "卢贡-马卡尔家族", "《我控诉!》", "实验小说", "Nulla dies sine linea"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Émile Zola"],
+  "default_stage": "切片三: 自然主义成熟 (1880-1892)"
+}
