@@ -1,0 +1,29 @@
+# 胡适 全部语料 (合并)
+
+> 合并自 传记.txt + 引语.txt + 后世评述.txt
+
+---
+
+# 一、传记
+- **胡适** (1891-12-17 至 1962-02-24)
+- 1910 Cornell (Phi Beta Kappa)
+- Columbia 师从 Dewey 获 PhD
+- 北大教授; 五四/新文化运动核心
+- 推动白话文: "A dead language can never produce a living literature"
+- 1919 《中国哲学史大纲》
+- 1921 《红楼梦考证》
+- 1928 共创《新月》
+- 1938-42 中国驻美大使
+- 1946-48 北京大学校长
+- 1957-62 中央研究院 (台北) 院长
+
+## 关键引语
+- "A dead language can never produce a living literature"
+- "大胆的假设, 小心的求证"
+- "多研究些问题, 少谈些主义"
+
+## 后世评述
+- 新文化运动核心人物
+- 实用主义中国化
+- 白话文运动推动者
+- 现代学术奠基人之一
