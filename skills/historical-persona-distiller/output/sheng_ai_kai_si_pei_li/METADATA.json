@@ -1,0 +1,15 @@
+{
+  "persona_id": "sheng_ai_kai_si_pei_li",
+  "name_zh": "圣埃克苏佩里",
+  "name_en": "Antoine de Saint-Exupéry",
+  "birth_death": "1900-06-29 / 1944-07-31",
+  "dynasty": "20世纪法国",
+  "confidence": "medium",
+  "priority": "medium",
+  "persona_type": "novelist / aviator",
+  "key_works": ["《小王子》(1943)", "《风沙星辰》(1939)", "《夜航》(1931)", "《南方邮航》(1929)", "《飞行员》(1926)", "《战斗飞行员》(1942)"],
+  "core_concepts": ["《小王子》", "飞行员/作家双重身份", "责任哲学", "B-612", "玫瑰+狐狸", "驯养"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Antoine de Saint-Exupéry"],
+  "default_stage": "切片二: 文学高峰 (1929-1943)"
+}

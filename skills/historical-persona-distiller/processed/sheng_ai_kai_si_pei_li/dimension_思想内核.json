@@ -1,0 +1,8 @@
+{
+  "核心价值观": [
+    {"条目": "《小王子》", "description": "成人童话; 玫瑰+狐狸+驯养", "贯穿程度": "始终如一"},
+    {"条目": "飞行员/作家双重身份", "description": "Aéropostale 邮路飞行员", "贯穿程度": "始终如一"},
+    {"条目": "责任哲学", "description": "\"to be a man is to be responsible\"", "贯穿程度": "始终如一"}
+  ],
+  "政治立场": {"description": "二战服役; 自由法国", "confidence": "high"}
+}
