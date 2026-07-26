@@ -5,8 +5,8 @@
 ## 全局统计
 
 - 总人物：**310**（含跨批次重复去重后实际 **约 290**）
-- 已完成：**182**
-- 待处理：**约 108**
+- 已完成：**183**
+- 待处理：**约 107**
 
 ## 分批索引
 
@@ -18,7 +18,7 @@
 | 第四批：外国哲学人物 | [04_western_philosophy.md](04_western_philosophy.md) | — | 21 | 21 |
 | 第五批：外国文学人物 | [05_western_literature.md](05_western_literature.md) | — | 20 | 19 |
 | 第六批：外国科技/自然科学人物 | [06_western_science.md](06_western_science.md) | — | 27 | 21 |
-| 第七批：心理学/社会学/经济学 | [07_psychology_sociology_economics.md](07_psychology_sociology_economics.md) | — | 8 | 4 |
+| 第七批：心理学/社会学/经济学 | [07_psychology_sociology_economics.md](07_psychology_sociology_economics.md) | — | 8 | 5 |
 | 第八批：《人类群星闪耀时》人物（政治/历史转折点） | [08_historical_decisive_moments.md](08_historical_decisive_moments.md) | — | 10 | 8 |
 | 第九批：中国明清+近代文学（小说/戏曲/散文/思想） | [09_ming_qing_modern_chinese_literature.md](09_ming_qing_modern_chinese_literature.md) | — | 15 | 2 |
 | 第十批：西方近现代哲学家 | [10_western_modern_philosophy.md](10_western_modern_philosophy.md) | — | 15 | 9 |
