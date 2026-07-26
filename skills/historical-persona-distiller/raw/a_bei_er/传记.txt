@@ -1,0 +1,34 @@
+# 阿贝尔 传记
+
+> 来源: Wikipedia
+> 抓取日期: 2026-07-26
+
+## 基本信息
+- **阿贝尔** (Niels Henrik Abel, 1802-08-05 至 1829-04-06)
+- 挪威数学家
+- 26 岁死于结核病
+
+## 关键年表
+- 1802 早产于挪威 Nedstrand/Finnøy
+- 1815 13 岁入 Christiania Cathedral School
+- 1818 教师 Bernt Michael Holmboe 赏识其才华
+- 1821 入 Royal Frederick University (Oslo); 已是挪威最博学数学家
+- 1822 毕业
+- 1823 证明五次方程无根式解; 哥本哈根研究费马大定理; 订婚 Christine Kemp
+- 1824 6 页简短发表关键论文 (省钱)
+- 1825-26 柏林 (与 August Leopold Crelle 交往), Freiberg, 巴黎
+- 1826 重大定理提交法国学院 (Cauchy 审, 后丢失); 在巴黎染结核病
+- 1828 圣诞雪橇之旅去 Froland 看 Christine; 重病
+- **1829-04-06 在 Froland 去世**, 两天后柏林大学教职信到达
+
+## 关键引语
+- (Charles Hermite) "Abel has left mathematicians enough to keep them busy for five hundred years."
+- (Legendre) "What a head the young Norwegian has!"
+- (Legendre 评椭圆函数论文) "a monument more lasting than bronze"
+- (Felix Klein) 将 Abel 生产力与人格比 Mozart, 奥斯陆纪念碑令人失望
+
+## 主要贡献
+- **Abel-Ruffini 定理** — 一般五次方程无根式解
+- 椭圆函数/Abelian 函数
+- (与 Galois 独立) 群论共同创立
+- 阿贝尔奖以其命名

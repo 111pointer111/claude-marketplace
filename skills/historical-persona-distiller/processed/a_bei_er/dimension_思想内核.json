@@ -1,0 +1,8 @@
+{
+  "核心价值观": [
+    {"条目": "Abel-Ruffini 定理", "description": "一般五次方程无根式解", "贯穿程度": "始终如一"},
+    {"条目": "椭圆函数", "description": "Abelian 函数; 双重周期", "贯穿程度": "始终如一"},
+    {"条目": "群论共同创立", "description": "与 Galois 独立", "贯穿程度": "始终如一"}
+  ],
+  "政治立场": {"description": "纯粹数学家; 贫困生活", "confidence": "medium"}
+}

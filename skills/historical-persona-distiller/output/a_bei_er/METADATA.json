@@ -1,0 +1,15 @@
+{
+  "persona_id": "a_bei_er",
+  "name_zh": "阿贝尔",
+  "name_en": "Niels Henrik Abel",
+  "birth_death": "1802-08-05 / 1829-04-06",
+  "dynasty": "19世纪挪威",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "mathematician",
+  "key_works": ["Abel-Ruffini 定理 (1824 6页论文)", "椭圆函数论文", "Abel 群"],
+  "core_concepts": ["Abel-Ruffini 定理", "椭圆函数", "Abelian 函数", "群论共同创立", "阿贝尔奖"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Niels Henrik Abel"],
+  "default_stage": "切片二: 研究与证明 (1823-1826)"
+}

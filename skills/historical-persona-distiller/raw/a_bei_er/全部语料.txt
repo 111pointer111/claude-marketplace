@@ -1,0 +1,17 @@
+# 阿贝尔 全部语料 (合并)
+
+> 合并自 传记.txt + 引语.txt + 后世评述.txt
+
+---
+
+# 一、传记
+- **阿贝尔** (1802-08-05 至 1829-04-06)
+- 挪威数学家
+- **1823 证明五次方程无根式解**
+- **1829 26 岁死于结核病**
+
+## 关键引语
+- Hermite: "Abel has left mathematicians enough to keep them busy for five hundred years."
+
+## 后世评述
+- 阿贝尔奖以其命名

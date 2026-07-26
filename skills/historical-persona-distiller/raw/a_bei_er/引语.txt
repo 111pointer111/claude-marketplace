@@ -1,0 +1,24 @@
+# 阿贝尔 直接引语
+
+---
+
+## Hermite 评
+
+> "Abel has left mathematicians enough to keep them busy for five hundred years."
+
+## Legendre 评
+
+> "What a head the young Norwegian has!"
+
+## Legendre 评椭圆函数论文
+
+> "a monument more lasting than bronze"
+
+## 关键概念
+
+- Abel-Ruffini 定理
+- 椭圆函数 / Abelian 函数
+- 阿贝尔积分
+- 群论共同创立
+- 阿贝尔奖
+- Abel 群
