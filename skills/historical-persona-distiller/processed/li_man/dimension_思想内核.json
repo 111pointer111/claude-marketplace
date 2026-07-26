@@ -1,0 +1,107 @@
+{
+  "核心价值观": [
+    {
+      "条目": "流形与几何先于坐标 (Manifold over coordinates)",
+      "描述": "几何的本质是流形的内蕴性质；坐标只是描述的工具，不应反过来约束几何",
+      "原文引用": [
+        "Über die Hypothesen, welche der Geometrie zu Grunde liegen (1854 就职演讲)",
+        "Riemann's geometry laid the foundations of the mathematics of general relativity"
+      ],
+      "同时代对比": "反对当时盛行的解析几何传统（将几何问题转化为坐标方程）；预示了 20 世纪微分几何的内禀化运动",
+      "贯穿程度": "始终如一（从 1851 博士论文到 1854 就职演讲）",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "宗教虔诚与数学统一 (Religious devotion)",
+      "描述": "数学研究是侍奉上帝的方式；真理的追求与对神的敬畏是一体的",
+      "原文引用": [
+        "Riemann was a dedicated Christian, the son of a Protestant minister, and saw his life as a mathematician as another way to serve God",
+        "At the time of his death, he was reciting the Lord's Prayer with his wife"
+      ],
+      "同时代对比": "与同时代部分世俗化数学家 (Weierstrass、Kronecker) 形成对比",
+      "贯穿程度": "始终如一（从童年开始）",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "内蕴 vs 外延 (Intrinsic vs extrinsic)",
+      "描述": "研究几何对象时应关注内蕴性质（曲率、距离），而非其在外部空间的嵌入",
+      "原文引用": [
+        "Riemann's revolutionary idea: the geometry should be defined intrinsically by the metric on the manifold itself",
+        "the force of attraction is the curvature of space (1854 演讲的物理推论)"
+      ],
+      "同时代对比": "反对 Gauss 的曲面外延研究方法；转向纯内蕴 (intrinsic) 几何",
+      "贯穿程度": "始终如一（1854 演讲奠定）",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "简洁与深度的统一 (Elegant depth)",
+      "描述": "深刻的定理应该有简洁的表述；冗长的证明往往是洞察力不足的标志",
+      "原文引用": [
+        "黎曼 ζ 函数论文仅 8 页，但改变了数论史",
+        "Riemann was renowned for the elegance and brevity of his work"
+      ],
+      "同时代对比": "Weierstrass 风格讲究严密完整；黎曼风格讲究洞察简练",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "解析与几何的统一 (Analysis and geometry united)",
+      "描述": "解析方法与几何方法应互相辅助，不应分离",
+      "原文引用": [
+        "complex analysis ... breaking new ground in a natural, geometric treatment",
+        "Riemann surface 概念 — 把复变函数的解析延拓看成曲面上的几何对象"
+      ],
+      "同时代对比": "反对 Berlin 学派的纯代数/解析传统；保留 Göttingen 学派的综合几何传统",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    }
+  ],
+  "政治立场": {
+    "描述": "政治上不活跃（专注于数学与宗教）；个人生活谦逊；1848 年革命期间未表态",
+    "原文引用": [
+      "Riemann was a shy, introverted, deeply religious man",
+      "Riemann fled Göttingen when the armies of Hanover and Prussia clashed there in 1866"
+    ],
+    "时代坐标": "处于德国 1848 革命与 1866 普奥战争之间的统一进程；黎曼未直接参与",
+    "内在张力": "无明显矛盾",
+    "confidence": "low (政治立场缺乏直接引语)"
+  },
+  "底线清单": [
+    {
+      "条目": "拒绝发表未完成的工作",
+      "描述": "黎曼宁愿失去成果也不发表未达到自己标准的作品",
+      "原文引用": "Riemann refused to publish incomplete work, and some deep insights may have been lost.",
+      "是否有例外": "无"
+    },
+    {
+      "条目": "数学严格性",
+      "描述": "黎曼 ζ 函数论文虽然简洁，但每个断言都经得起严格审视",
+      "原文引用": "the first rigorous formulation of the integral, the Riemann integral",
+      "是否有例外": "无"
+    },
+    {
+      "条目": "对内蕴方法的坚持",
+      "描述": "黎曼坚持几何应该是内蕴的，不依赖外部空间",
+      "原文引用": "Über die Hypothesen, welche der Geometrie zu Grunde liegen",
+      "是否有例外": "无"
+    },
+    {
+      "条目": "宗教虔诚的保持",
+      "描述": "即使在数学巅峰时期，黎曼也坚持宗教生活",
+      "原文引用": "At the time of his death, he was reciting the Lord's Prayer with his wife",
+      "是否有例外": "无"
+    }
+  ],
+  "自我定位": {
+    "描述": "黎曼把自己定位为'数学侍奉者'；既不是纯数学家也不是物理学家，而是探索神所创造的数学真理的人",
+    "原文引用": [
+      "Riemann was a dedicated Christian, the son of a Protestant minister, and saw his life as a mathematician as another way to serve God"
+    ],
+    "与时代关系": "在德国数学日益世俗化、专业化的时代，黎曼坚持宗教与数学的统一"
+  },
+  "思想内部张力": {
+    "主要矛盾": "宗教 vs 数学的'真理'；内蕴 vs 外延；简洁 vs 严格",
+    "深层原因": "黎曼的神学训练塑造了他对'真理' (Wahrheit) 的信仰；数学训练又使他相信概念应简洁",
+    "对人格的影响": "黎曼成为'神秘的数学家' — 论文简短但洞察深远；生活谦逊但成果震撼"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "黎曼",
+  "name_pinyin": "li_man",
+  "name_original": "Bernhard Riemann",
+  "lifespan": {
+    "birth": "1826-09-17",
+    "death": "1866-07-20",
+    "birthplace": "Breselenz, Kingdom of Hanover (modern Germany)",
+    "deathplace": "Selasca, Kingdom of Italy (now Verbania)"
+  },
+  "dynasty": "19世纪德国",
+  "fields": ["mathematics", "geometry", "complex analysis", "number theory"],
+  "title": [
+    "哥廷根大学数学系主任 (1859)",
+    "高斯 (Gauss) 的继承者"
+  ],
+  "key_themes": [
+    "黎曼几何 (Riemannian geometry)",
+    "黎曼猜想 (Riemann hypothesis)",
+    "复变函数的几何化 (Riemann surfaces)",
+    "黎曼-洛赫定理",
+    "黎曼积分",
+    "维数扩展",
+    "宗教虔诚"
+  ],
+  "sources": [
+    {
+      "type": "Wikipedia (English)",
+      "url": "https://en.wikipedia.org/wiki/Bernhard_Riemann",
+      "note": "25,900 字符全文"
+    },
+    {
+      "type": "Wikipedia (Deutsch)",
+      "url": "https://de.wikipedia.org/wiki/Bernhard_Riemann",
+      "note": "38,800 字符全文（提供德文原始文献的引证）"
+    },
+    {
+      "type": "黎曼本人著作 (引语)",
+      "note": "博士论文 (1851), 就职演讲 (1854), ζ 函数论文 (1859)"
+    }
+  ],
+  "default_stage": "切片三 (1854-1862)",
+  "confidence": {
+    "overall": "medium",
+    "stage_one": "medium",
+    "stage_two": "high",
+    "stage_three": "high",
+    "stage_four": "low"
+  },
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-27"
+}

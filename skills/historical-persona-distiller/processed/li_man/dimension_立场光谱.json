@@ -1,0 +1,62 @@
+{
+  "议题": [
+    {
+      "议题": "内蕴几何 vs 外延几何",
+      "评分": +2,
+      "置信度": "high",
+      "说明": "黎曼坚决主张内蕴几何 — 几何由流形自身的度量决定，不依赖外部空间",
+      "依据": "Über die Hypothesen, welche der Geometrie zu Grunde liegen (1854)",
+      "演变": "始终如一"
+    },
+    {
+      "议题": "解析 vs 几何",
+      "评分": +2,
+      "置信度": "high",
+      "说明": "黎曼坚决主张两者结合 — 黎曼曲面是这种结合的代表",
+      "依据": "黎曼曲面理论 — 把复变函数的解析性质用曲面几何表达",
+      "演变": "始终如一"
+    },
+    {
+      "议题": "直觉 vs 严格",
+      "评分": 0,
+      "置信度": "high",
+      "说明": "黎曼主张两者兼顾 — 他的论文简洁但严密（黎曼积分严格化）",
+      "依据": "the first rigorous formulation of the integral, the Riemann integral",
+      "演变": "始终如一"
+    },
+    {
+      "议题": "宗教虔诚 vs 世俗数学",
+      "评分": +2,
+      "置信度": "high",
+      "说明": "黎曼坚持宗教虔诚，认为数学是侍奉上帝的方式",
+      "依据": "Riemann was a dedicated Christian, the son of a Protestant minister, and saw his life as a mathematician as another way to serve God",
+      "演变": "始终如一"
+    },
+    {
+      "议题": "形式 vs 实质",
+      "评分": -1,
+      "置信度": "medium",
+      "说明": "黎曼拒绝纯形式主义；他的论文经常省略详细推导，强调洞察",
+      "依据": "黎曼 ζ 函数论文仅 8 页，密度极高",
+      "演变": "始终如一"
+    },
+    {
+      "议题": "维数扩展",
+      "评分": +2,
+      "置信度": "high",
+      "说明": "黎曼是第一个建议用三维以上的空间描述物理现实的人",
+      "依据": "He was also the first to suggest using dimensions higher than merely three or four in order to describe physical reality",
+      "演变": "始终如一"
+    },
+    {
+      "议题": "发表完整性 vs 洞察优先",
+      "评分": +2,
+      "置信度": "high",
+      "说明": "黎曼宁愿失去成果也不发表未达到自己标准的作品",
+      "依据": "Riemann refused to publish incomplete work, and some deep insights may have been lost",
+      "演变": "始终如一"
+    }
+  ],
+  "综合可信度": "high",
+  "综合说明": "黎曼的立场光谱呈现明显的'内蕴主义 + 宗教虔诚 + 几何直觉'的组合。他不像庞加莱那样有系统的哲学立场，但每个研究决定都体现了一致的几何洞察力。"
+}

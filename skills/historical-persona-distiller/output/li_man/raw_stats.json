@@ -1,0 +1,61 @@
+{
+  "persona_id": "li_man",
+  "persona_name": "黎曼 (Bernhard Riemann)",
+  "distilled_at": "2026-07-27",
+  "sources_count": 3,
+  "raw_corpus_stats": {
+    "biography_chars_en": 25900,
+    "biography_chars_de": 38800,
+    "biography_combined": 41482,
+    "quotes_count": 14,
+    "assessments_chars": 2128,
+    "total_chars": 46052
+  },
+  "primary_source": {
+    "type": "Wikipedia (English + Deutsch)",
+    "urls": [
+      "https://en.wikipedia.org/wiki/Bernhard_Riemann",
+      "https://de.wikipedia.org/wiki/Bernhard_Riemann"
+    ],
+    "size_chars_combined": 41482,
+    "note": "Combined English (25,900 chars) + German (38,800 chars) Wikipedia articles"
+  },
+  "secondary_sources": [
+    {
+      "type": "黎曼本人著作 (引语)",
+      "items": [
+        "Grundlagen für eine allgemeine Theorie der Funktionen (1851 博士论文)",
+        "Über die Hypothesen, welche der Geometrie zu Grunde liegen (1854 就职演讲)",
+        "Über die Anzahl der Primzahlen unter einer gegebenen Grösse (1859 ζ 函数论文)"
+      ]
+    },
+    {
+      "type": "后世评述",
+      "items": [
+        "Weyl 的评价",
+        "Wikipedia 引用的科学史专著",
+        "Dedekind 的回忆"
+      ]
+    }
+  ],
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "dimension_voice_profile.json"
+  ],
+  "stages_count": 4,
+  "default_stage": "切片三 (1854-1862)",
+  "citations_count": 30,
+  "events_count": 14,
+  "image_count": 0,
+  "distillation_notes": "黎曼作为'内蕴几何之父'，蒸馏时重点关注：(1) 流形/曲率/度量等核心概念 (2) 简洁深邃的写作风格 (3) 宗教虔诚与数学研究的统一 (4) 解析与几何的结合",
+  "limitations": [
+    "晚年少直接引语（早逝、手稿丢失）",
+    "同事回忆占比较大",
+    "Voice Profile 基于文本推测"
+  ],
+  "confidence": "medium",
+  "persona_version": "1.0"
+}
