@@ -1,0 +1,99 @@
+{
+  "基础维度": {
+    "语言": "法语 (母语)、拉丁语 (数学术语)、希腊语 (新概念命名)",
+    "创作时期": "1874-1912 (38年)",
+    "作品体裁": ["数学论文", "科学哲学著作", "科普讲演", "学院报告", "致同行书信"]
+  },
+  "维度评分": [
+    {
+      "维度": "文言/白话光谱",
+      "评分": 3,
+      "说明": "庞加莱的法语是19世纪学术法语 (langue savante)，不属于文言也不算白话；数学论文严谨紧凑，哲学著作稍带修辞色彩",
+      "原文佐证": "Les méthodes nouvelles de la mécanique céleste — 句法紧凑；La Science et l'Hypothèse — 带有科普修辞"
+    },
+    {
+      "维度": "雅/俗光谱",
+      "评分": 2,
+      "说明": "总体典雅 (academic register)，但科普著作中有少量口语化比喻",
+      "原文佐证": "科普比喻：'Les mathématiques sont l'art de donner le même nom à des choses différentes'（数学是把不同事物用同一名字命名的艺术）— 这是非常口语化的比喻"
+    },
+    {
+      "维度": "骈偶 vs 散行",
+      "骈偶占比": "15%",
+      "散行占比": "85%",
+      "说明": "数学论文几乎全为散行；哲学著作中偶尔出现对偶句（如问与答、修辞对照）"
+    },
+    {
+      "维度": "句长偏好",
+      "短句(≤7词)": "10%",
+      "中句(8-15词)": "30%",
+      "长句(≥16词)": "60%",
+      "说明": "法语数学论文以长复合句为主；庞加莱尤其擅长用长句串联多个数学对象"
+    },
+    {
+      "维度": "语气标签",
+      "标签": ["严谨", "温和", "富有诗意", "偶尔机智", "克制", "建设性"],
+      "说明": "庞加莱的语气不同于 Hilbert 的强硬、Cantor 的激越、Hadamard 的简练 — 他更像是'温和的权威'"
+    },
+    {
+      "维度": "高频意象 Top 10",
+      "意象列表": [
+        {"意象": "约定", "频次": "高", "例句": "Les conventions sont l'œuvre de la liberté"},
+        {"意象": "直觉", "频次": "高", "例句": "C'est par l'intuition qu'on invente"},
+        {"意象": "地图/图像", "频次": "中", "例句": "L'aimant lui-même ne se présente à nous que comme une carte"},
+        {"意象": "建筑", "频次": "中", "例句": "L'édifice de la science"},
+        {"意象": "美/优雅", "频次": "高", "例句": "Le savant prend plaisir parce qu'elle est belle"},
+        {"意象": "水晶/几何体", "频次": "中", "例句": "讨论多面体对称群"},
+        {"意象": "光线/光", "频次": "中", "例句": "在光学和相对论中反复出现"},
+        {"意象": "群/对称", "频次": "高", "例句": "Les groupes sont partout"},
+        {"意象": "循环/回归", "频次": "中", "例句": "Le retour"},
+        {"意象": "拓扑不变量", "频次": "高", "例句": "讨论基本群、Betti数、同伦"}
+      ]
+    },
+    {
+      "维度": "修辞偏好",
+      "标签": ["比喻 (高)", "设问 (中)", "反问 (中)", "列举 (高)", "类比 (高)", "引用经典 (低)", "诗意表达 (中)"],
+      "说明": "庞加莱是数学家中少有的'诗意'作者 — 他的哲学著作反复使用比喻、类比、引语，但数学论文是干巴巴的纯技术行文"
+    },
+    {
+      "维度": "文体偏好排序",
+      "排序": ["数学论文 (论文/报告)", "科学哲学著作 (《科学与假设》等)", "讲演稿 (通俗讲演)", "书信 (致 Lorentz、Weierstrass、Klein 等)", "学院悼词 (为 Pasteur、Hermite 写)"],
+      "说明": "数学论文占大头，哲学著作次之；书信中展现了轻松的一面"
+    },
+    {
+      "维度": "负面特征",
+      "刻意回避": [
+        "冷嘲热讽 (与 Cantor 不同)",
+        "激越和戏剧化 (与 Abel、Nietzsche 不同)",
+        "模糊的形而上学 (Poincaré 总是回到具体例子)",
+        "技术行话堆砌 (Poincaré 行文清晰，宁可用自然语言)"
+      ],
+      "几乎不存在": [
+        "数学争论中的'你死我活'语气 (Poincaré 与 Kronecker 的对垒是哲学性的，不是个人性的)",
+        "民族主义色彩 (Poincaré 是 Dreyfusard，反对民族主义)",
+        "宗教语言 (Poincaré 是世俗主义者)"
+      ]
+    },
+    {
+      "维度": "节奏韵律特点",
+      "节奏": "法语的古典节奏 (alexandrine 12音节)；陈述句以'稳定-高潮-总结'的节奏展开",
+      "骈散转换": "散行为主，骈偶仅在哲学著作中出现",
+      "诵读听觉": "清晰、稳定、有节制；不像 Cantor 那么戏剧化、不像 Hilbert 那么重逻辑重量"
+    },
+    {
+      "维度": "同时代独特性",
+      "特色比喻": "庞加莱是'画家中最有数学感的' — 他的作品横跨数学、物理、哲学三个领域而又彼此连贯",
+      "同时代对比": "Hilbert 重视形式逻辑，Hadamard 强调抽象代数，Borel 重视概率论 — 庞加莱的特色是'几何直觉'和'哲学深度'的结合"
+    }
+  ],
+  "代表性引语": [
+    "C'est par la logique qu'on démontre, c'est par l'intuition qu'on invente.",
+    "Les mathématiques sont l'art de donner le même nom à des choses différentes.",
+    "Le savant n'étudie la nature parce que c'est utile; il l'étudine parce qu'il y prend plaisir.",
+    "Les axiomes géométriques ne sont donc ni des jugements synthétiques a priori ni des faits expérimentaux.",
+    "Si la science n'avait pas souvent été opposée à la foi, c'est qu'on a souvent confondu la science avec la philosophie.",
+    "Le rôle de l'hypothèse est de fixer les idées.",
+    "Le véritable ordre des choses est celui que la logique nous révèle."
+  ],
+  "风格综合判定": "学术法语为基础 + 数学技术行文 + 哲学诗意修辞 + 跨领域类比 — 庞加莱是'科学散文' (French scientific prose) 的典范"
+}

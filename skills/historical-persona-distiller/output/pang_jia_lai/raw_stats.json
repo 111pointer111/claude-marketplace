@@ -1,0 +1,59 @@
+{
+  "persona_id": "pang_jia_lai",
+  "persona_name": "庞加莱 (Henri Poincaré)",
+  "distilled_at": "2026-07-27",
+  "sources_count": 3,
+  "raw_corpus_stats": {
+    "biography_chars": 87741,
+    "biography_words_estimated": 14700,
+    "quotes_count": 25,
+    "quotes_words_estimated": 350,
+    "assessments_chars": 2262,
+    "total_chars": 95332
+  },
+  "primary_source": {
+    "type": "Wikipedia (English)",
+    "url": "https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9",
+    "size_chars": 87741,
+    "note": "Full English Wikipedia article; 130+ inline citations"
+  },
+  "secondary_sources": [
+    {
+      "type": "Poincaré 本人著作 (引语)",
+      "items": [
+        "La Science et l'Hypothèse (1902)",
+        "La Valeur de la science (1905)",
+        "Science et méthode (1908)",
+        "Dernières pensées (1913 遗著)"
+      ]
+    },
+    {
+      "type": "后世评述",
+      "items": [
+        "Paul Painlevé 的回忆",
+        "Karl Popper 的科学史定位",
+        "Karl Weierstrass 的 1889 年评语"
+      ]
+    }
+  ],
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "dimension_voice_profile.json"
+  ],
+  "stages_count": 4,
+  "default_stage": "切片三 (1889-1908)",
+  "citations_count": 30,
+  "events_count": 30,
+  "image_count": 0,
+  "distillation_notes": "庞加莱作为'最后通才'，蒸馏时重点关注：(1) 跨学科连接 (math/physics/philosophy) (2) 法国学术法语的语言特征 (3) 约定主义哲学立场 (4) 19世纪末-20世纪初相对论与拓扑学的双重贡献",
+  "limitations": [
+    "主要史料来源单一 (Wikipedia English)",
+    "缺乏法语一手著作的直接引用 (仅靠英语转引)",
+    "无录音留存，Voice Profile 基于文本推测"
+  ],
+  "confidence": "medium",
+  "persona_version": "1.0"
+}

@@ -1,0 +1,68 @@
+{
+  "voice_profile": {
+    "target_persona": "庞加莱 (Henri Poincaré)",
+    "base_params": {
+      "dialect": "19 世纪法国学术法语 (langue savante)",
+      "estimated_pitch": "中等偏低（男性，约 110-130 Hz）",
+      "estimated_speed": "中等（约 150-180 词/分钟）",
+      "pause_frequency": "中",
+      "pause_points": "关键术语后、章节转换处、引文处",
+      "register": "学术权威 + 偶尔的诗意修辞"
+    },
+    "emotion_range": {
+      "passionate": {
+        "pitch_adjust": "+5~+10",
+        "speed_adjust": "+5~+10",
+        "description": "学术讨论激辩时 — 较克制，不像 Cantor 那么戏剧化"
+      },
+      "melancholy": {
+        "pitch_adjust": "-5",
+        "speed_adjust": "-5",
+        "description": "悼念同行（如 Pasteur, Hermite 悼词）— 缓慢、低沉"
+      },
+      "humorous": {
+        "pitch_adjust": "+3",
+        "speed_adjust": "+5",
+        "description": "科普讲演中的妙语 — 轻微上扬、节奏加快"
+      },
+      "default": {
+        "pitch_adjust": "0",
+        "speed_adjust": "0",
+        "description": "清晰、稳定的学者语气"
+      }
+    },
+    "verbal_tics": {
+      "classical_particles": ["donc", "or", "c'est pourquoi", "ainsi", "en effet", "car", "puisque"],
+      "spoken_particles": ["certes", "n'est-ce pas", "voyons", "disons", "comme on dit"],
+      "catchphrases": [
+        "voyons — 看这里",
+        "c'est pourquoi — 这就是为什么",
+        "on peut dire — 可以说",
+        "il faut bien — 必须",
+        "dès lors — 因此"
+      ]
+    },
+    "tts_markers": {
+      "emphasis": "<>",
+      "pause_before_reference": true,
+      "pause_ms": 250,
+      "historical_pronunciations": [
+        {"字": "Henri", "读音": "[ɑ̃ʁi]", "原因": "法语鼻元音"},
+        {"字": "Poincaré", "读音": "[pwɛ̃kaʁe]", "原因": "法语鼻元音，现代英语近似 /ˈpwæ̃kɑːreɪ/"}
+      ]
+    },
+    "stylistic_signature": [
+      "频繁使用'voyons'作为过渡",
+      "句首倾向于用 c'est / il est 强调",
+      "长句但语法清晰、层次分明",
+      "哲学讨论中爱用'comme on dit'引入比喻"
+    ],
+    "confidence": "medium",
+    "notes": "庞加莱本人录音无留存（早于 1900 年代录音技术普及），所有推测基于其文本风格、朋友回忆（如 Toulouse 1907 年心理学研究）、以及与他同时代法国学者（如 H. Bergson）的对比。"
+  },
+  "语料来源": {
+    "primary": "raw/pang_jia_lai/传记.txt (Wikipedia 全文，87,741 字符)",
+    "secondary": "raw/pang_jia_lai/引语.txt (自著名哲学著作 + 同代人评价)",
+    "tertiary": "raw/pang_jia_lai/后世评述.txt (历史定位)"
+  }
+}

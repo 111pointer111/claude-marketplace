@@ -1,0 +1,70 @@
+{
+  "议题": [
+    {
+      "议题": "约定主义 (Conventionalism) vs 先验论",
+      "评分": -1,
+      "置信度": "high",
+      "说明": "庞加莱明确反对康德式的先验主义，认为科学公设本质上是约定",
+      "依据": "Les axiomes géométriques ne sont donc ni des jugements synthétiques a priori ni des faits expérimentaux.",
+      "演变": "1887 年起明确提出，1902 年《科学与假设》中系统论证"
+    },
+    {
+      "议题": "纯数学 vs 应用数学",
+      "评分": +2,
+      "置信度": "high",
+      "说明": "庞加莱坚决反对纯数学与应用数学的分裂；他自己在天体力学、光学、相对论等多个应用领域都有原创贡献",
+      "依据": "The mathematician worthy of the name knows how to reason with both hands, both head and both halves of his brain.",
+      "演变": "始终如一（早年在矿业学院时就拒绝纯数学与应用数学的分隔）"
+    },
+    {
+      "议题": "直觉 vs 逻辑",
+      "评分": 0,
+      "置信度": "high",
+      "说明": "庞加莱既不偏向纯直觉主义（Brouwer）也不偏向纯逻辑主义（Hilbert）；他主张两者结合，但直觉优先于逻辑（创造性而言）",
+      "依据": "C'est par la logique qu'on démontre, c'est par l'intuition qu'on invente.",
+      "演变": "始终如一"
+    },
+    {
+      "议题": "科学为美 vs 科学为用",
+      "评分": +2,
+      "置信度": "high",
+      "说明": "庞加莱坚决支持科学为美而非为用 — 'The scientist does not study nature because it is useful to do so.'",
+      "依据": "The scientist does not study nature because it is useful to do so. He studies it because he takes pleasure in it, and he takes pleasure in it because it is beautiful.",
+      "演变": "始终如一"
+    },
+    {
+      "议题": "决定论 vs 自由意志",
+      "评分": 0,
+      "置信度": "high",
+      "说明": "庞加莱主张两者兼容 — 物理学的简化反而为自由意志留出空间",
+      "依据": "If we knew the position and velocity of every atom in the universe, we could predict the future completely — but our predictions would be limited by our own ignorance of these conditions.",
+      "演变": "早期不强调，1902 年后明确提出"
+    },
+    {
+      "议题": "反伪科学 / 世俗主义",
+      "评分": +2,
+      "置信度": "high",
+      "说明": "庞加莱是坚定的反伪科学者，在 Dreyfus 案中公开反对伪笔迹鉴定",
+      "依据": "He believed in political equality for all, while wary of the influence of anti-intellectual positions that the Catholic Church held at the time.",
+      "演变": "始终如一，1904 年明确表达"
+    },
+    {
+      "议题": "通才 vs 专家",
+      "评分": +2,
+      "置信度": "high",
+      "说明": "庞加莱坚决主张通才式科学；他是数学、物理、哲学三栖的典范",
+      "依据": "He is often described as a polymath, and in mathematics as 'The Last Universalist'",
+      "演变": "始终如一（从矿业工程师时代起就拒绝学科分隔）"
+    },
+    {
+      "议题": "国际主义 vs 民族主义",
+      "评分": +2,
+      "置信度": "medium",
+      "说明": "庞加莱在国际交流频繁，但他对德国文化有保留；1904 年 Dreyfus 案反映其反民族主义倾向",
+      "依据": "His cousin Raymond Poincaré was President of France, but Henri himself intervened against anti-Dreyfusards",
+      "演变": "始终如一"
+    }
+  ],
+  "综合可信度": "high",
+  "综合说明": "庞加莱的立场光谱呈现明显的'中庸偏左'特征：支持世俗主义、反伪科学、通才式科学、约定主义；反对先验主义、纯形式主义、狭隘的功利观。这种立场组合使他在 19 世纪末-20世纪初的法国学术界成为独特的声音。"
+}

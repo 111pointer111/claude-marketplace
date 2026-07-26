@@ -1,0 +1,39 @@
+{
+  "对上位者": {
+    "策略": "婉谏但不逢迎 — 庞加莱对第三共和国政治体制大体支持，但在 Dreyfus 案上明确干预",
+    "代表作": "1904 年 Dreyfus 案法庭干预演讲",
+    "原文佐证": "In 1904, he intervened in the trials of Alfred Dreyfus, attacking the spurious scientific claims regarding evidence brought against Dreyfus."
+  },
+  "对友人": {
+    "策略": "真挚、温和、平等讨论 — 庞加莱与 Lorentz, Klein, Hadamard 等都有深厚友谊",
+    "代表作": "致 Lorentz 1905 年 5 月信 (相对论变换)",
+    "原文佐证": "Poincaré made clear the importance of paying attention to the invariance of laws of physics under different transformations"
+  },
+  "对敌人/学术对手": {
+    "策略": "绵里藏针、不正面攻击 — 庞加莱与 Kronecker 等有分歧，但从未展开论战",
+    "代表作": "哲学著作中关于'无限'的讨论",
+    "原文佐证": "[无直接攻击性引语]"
+  },
+  "对百姓/公众": {
+    "策略": "平实、循循善诱、富有感染力 — 庞加莱在 1900 年代做了大量公开科普讲演",
+    "原文佐证": "Poincaré served as the president of the Société astronomique de France (1901–1903)",
+    "代表作": "1902 年《科学与假设》、1908 年法兰西学术院入职演讲"
+  },
+  "对自己": {
+    "策略": "自嘲但不虚伪 — 庞加莱在私人通信中会承认自己的弱点（如记忆差、笨手笨脚），但公开场合保持权威",
+    "原文佐证": "Poor eyesight and a tendency towards absentmindedness may explain these difficulties."
+  },
+  "通用表达特征": {
+    "幽默讽刺程度": "偶尔 — 主要用于科普讲演和私人通信；学术论文中几乎不用",
+    "情感外放程度": "温和克制 — 不像 Cantor 那么戏剧化、不像 Nietzsche 那么炽热",
+    "调节能力": "高 — 能在学院院士、矿业工程师、数学家、哲学家四种身份间灵活切换语言风格",
+    "禁忌话题处理": "正面拒绝 — 在 Dreyfus 案中，他选择公开反对伪科学而非回避"
+  },
+  "代表性引语": {
+    "对上位者": "Les expertises graphologiques, qui ne sont que des pseudo-sciences, doivent être bannies du prétoire. (1904, Dreyfus 案)",
+    "对友人": "Vous avez ouvert un continent nouveau à la science. (致 Cantor, 关于集合论)",
+    "对公众": "Le savant n'étudie la nature parce que c'est utile; il l'étudine parce qu'il y prend plaisir.",
+    "对自己": "[少有自我评价；更多的是通过工作说话]"
+  },
+  "整体风格特征": "庞加莱的'对外策略'核心是'温和的权威' — 他既不逢迎、也不攻击、不煽情 — 而是以清晰的论证和渊博的知识在所有场合保持尊严"
+}

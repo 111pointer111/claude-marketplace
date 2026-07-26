@@ -1,0 +1,53 @@
+{
+  "name": "庞加莱",
+  "name_pinyin": "pang_jia_lai",
+  "name_original": "Henri Poincaré",
+  "lifespan": {
+    "birth": "1854-04-29",
+    "death": "1912-07-17",
+    "birthplace": "Nancy, Meurthe-et-Moselle, France",
+    "deathplace": "Paris, France"
+  },
+  "dynasty": "19-20世纪法国",
+  "fields": ["mathematics", "physics", "philosophy", "engineering"],
+  "title": [
+    "法国科学院院士 (1887)",
+    "法国科学院院长 (1906)",
+    "法兰西学术院院士 (1908)",
+    "法国矿业部首席工程师 (1893)"
+  ],
+  "key_themes": [
+    "约定主义 (Conventionalism)",
+    "直觉主义先驱 (Preintuitionism)",
+    "拓扑学 (Topology)",
+    "动力系统与混沌理论",
+    "狭义相对论 (与 Einstein 同期)",
+    "天体力学",
+    "自由意志论证"
+  ],
+  "sources": [
+    {
+      "type": "Wikipedia (English)",
+      "url": "https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9",
+      "note": "87,741 字符全文；130+ 引用"
+    },
+    {
+      "type": "Poincaré 本人著作 (引语)",
+      "note": "《科学与假设》(1902), 《科学的价值》(1905), 《科学与方法》(1908), 《最后思想》(1913)"
+    },
+    {
+      "type": "历史定位 (后世评述)",
+      "note": "综合 Paul Painlevé, Karl Popper, Karl Weierstrass 等评价"
+    }
+  ],
+  "default_stage": "切片三 (1889-1908)",
+  "confidence": {
+    "overall": "medium",
+    "stage_one": "high",
+    "stage_two": "high",
+    "stage_three": "high",
+    "stage_four": "medium"
+  },
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-27"
+}
