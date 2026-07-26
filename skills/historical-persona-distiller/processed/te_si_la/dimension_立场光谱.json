@@ -1,0 +1,46 @@
+{
+  "议题": [
+    {
+      "议题": "交流电 vs 直流电",
+      "评分": +2,
+      "置信度": "high",
+      "说明": "特斯拉坚决主张交流电的优越性",
+      "依据": "Tesla's work on alternating current was fundamental to the Second Industrial Revolution",
+      "演变": "始终如一"
+    },
+    {
+      "议题": "未来主义 vs 实用主义",
+      "评分": +2,
+      "置信度": "high",
+      "说明": "特斯拉坚决主张发明应该为未来工作",
+      "依据": "The present is theirs; the future, for which I really worked, is mine",
+      "演变": "始终如一"
+    },
+    {
+      "议题": "宇宙能量可用性",
+      "评分": +2,
+      "置信度": "medium",
+      "说明": "特斯拉相信宇宙充满可利用的能量",
+      "依据": "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration",
+      "演变": "晚期强化"
+    },
+    {
+      "议题": "机械化 vs 人类劳动",
+      "评分": +2,
+      "置信度": "high",
+      "说明": "特斯拉相信机械化可以解放人类",
+      "依据": "The desire that guides me in all I do is the desire to harness the forces of nature to the service of mankind",
+      "演变": "始终如一"
+    },
+    {
+      "议题": "无线电 vs 有线电",
+      "评分": +2,
+      "置信度": "high",
+      "说明": "特斯拉相信无线电传输是未来",
+      "依据": "Tesla's pioneering work on radio (1890s)",
+      "演变": "始终如一"
+    }
+  ],
+  "综合可信度": "high",
+  "综合说明": "特斯拉的立场光谱呈现明显的'远见家 + 工程精确'的组合。他与爱迪生的对比鲜明：爱迪生重视'现在能卖的产品'，特斯拉重视'改变世界的远见'。"
+}

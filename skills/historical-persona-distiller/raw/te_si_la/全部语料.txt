@@ -1,0 +1,1087 @@
+# 特斯拉 全部语料 (合并)
+
+> 合并自 传记.txt + 引语.txt + 后世评述.txt
+
+---
+
+# 一、传记
+
+Nikola Tesla[https://www.dictionary.com/browse/tesla \"Tesla\"] {{Webarchive|url=https://web.archive.org/web/20211024010805/https://www.dictionary.com/browse/tesla |date=24 October 2021}}. ''[[Random House Webster's Unabridged Dictionary]]''.</ref> {{Lang-sr-Cyrl|Никола Тесла}}; {{IPA|sh|nǐkola têsla|pron}}"}},"i":0}}]}'>[a] (10 July 1856 – 7 January 1943) was a Serbian-American engineer, futurist, and inventor. He is known for his contributions to the design of the modern alternating current (AC) electricity supply system.[2]
+Born and raised in the Austro-Hungarian Empire, Tesla first studied engineering and physics in the 1870s without receiving a degree. He then gained practical experience in the early 1880s working in telephony and at Continental Edison in the new electric power industry. In 1884, he migrated to the United States, where he became a naturalized citizen. He worked for a short time at the Edison Machine Works in New York City before he struck out on his own. With the help of partners to finance and market his ideas, Tesla set up laboratories and companies in New York to develop a range of electrical and mechanical devices. His AC induction motor and related polyphase AC patents, licensed by Westinghouse Electric in 1888, earned him a considerable amount of money and became the cornerstone of the polyphase system, which Westinghouse marketed.
+Tesla conducted a range of experiments with mechanical oscillators/generators, electrical discharge tubes, and early X-ray imaging among other things, in an attempt to develop inventions he could patent and market. He built a wirelessly controlled boat, one of the first wirelessly controlled vehicles ever produced. Tesla became well known as an inventor and demonstrated his achievements to celebrities and wealthy patrons at his lab. He was noted for his showmanship at public lectures. Throughout the 1890s, Tesla pursued his ideas for wireless lighting and worldwide wireless electric power distribution in his high-voltage, high-frequency power experiments in New York and Colorado Springs. In 1893, he made pronouncements on the possibility of wireless communication with his devices. Tesla tried to put these ideas to practical use in his unfinished Wardenclyffe Tower project, an intercontinental wireless communication and power transmitter, but ran out of funding before he could complete it.
+After Wardenclyffe, Tesla experimented with a series of inventions in the 1910s and 1920s with varying degrees of success. Having spent most of his money, Tesla lived in a series of New York hotels, leaving behind unpaid bills. He died in New York City in January 1943.[3] Tesla's work fell into relative obscurity following his death, until 1960, when the General Conference on Weights and Measures named the International System of Units (SI) measurement of magnetic flux density the tesla in his honor. There has been a resurgence in popular interest in Tesla since the 1990s.[4] In 2013, Time named Tesla one of the 100 most significant figures of all time.[5]
+Early years
+Childhood
+Tesla's rebuilt birth house (parish hall) and the church where his father served in Smiljan. In his honor, the Nikola Tesla Memorial Center museum was established on the site.[6]
+Tesla was born on 10 July 1856 into a family of ethnic Serbs in Smiljan, a village then in the Military Frontier of the Austrian Empire and now in Croatia.[7] His father, Milutin Tesla (1819–1879), was a priest of the Eastern Orthodox Church.[8][9] His father's brother Josif was a lecturer at a military academy who wrote several textbooks on mathematics.[10]
+Tesla's mother, Georgina "Đuka" Mandić (1822–1892), whose father was also an Eastern Orthodox priest, had a talent for making home craft tools and mechanical appliances and the ability to memorize Serbian epic poems. Đuka had never received a formal education. Tesla credited his eidetic memory and creative abilities to his mother's genetics and influence.[11]
+Tesla was the fourth of five children.[12] In 1861, Tesla attended primary school in Smiljan where he studied German, arithmetic, and religion. In 1862, the Tesla family moved to the nearby town of Gospić, where Tesla's father worked as parish priest. Nikola completed primary school, followed by middle school. Later in his patent applications, before he obtained American citizenship, Tesla would identify himself as "of Smiljan, Lika, border country of Austria-Hungary".[13]
+Tesla's father, Milutin, was an Orthodox priest in the village of Smiljan.
+In 1870, Tesla moved to Karlovac to attend high school at the Higher Real Gymnasium where the classes were held in German.[14] Tesla later wrote that he became interested in his physics professor's demonstrations of electricity.[b] The "mysterious phenomena" made him want "to know more of this wonderful force".[16] He was able to perform integral calculus in his head, prompting his teachers to believe that he was cheating.[17] He studied three years at the gymnasium, graduating in 1873 at the age of 17.[18]
+After graduating, Tesla returned to Smiljan but soon contracted cholera, was bedridden for nine months and was near death several times. In a moment of despair, Tesla's father (who had originally wanted him to enter the priesthood),[19] promised to send him to the best engineering school if he recovered from the illness.[20] Tesla later said that he had read Mark Twain's earlier works while recovering from his illness.[21]
+Youth
+The next year, Tesla evaded conscription into the Austro-Hungarian Army in Smiljan by running away southeast of Lika to Tomingaj, near Gračac. There he explored the mountains wearing hunter's garb. Tesla said that this contact with nature made him stronger, both physically and mentally. [22][18] He enrolled at the Imperial-Royal Technical College in Graz in 1875 on a Military Frontier scholarship.[citation needed] Tesla passed nine exams (nearly twice as many as required) and received a letter of commendation from the dean of the technical faculty to his father, which stated, "Your son is a star of first rank."[citation needed] At Graz, Tesla was fascinated by the lectures on electricity presented by professor Jakob Pöschl.[23] But by his third year, he was failing in school and never graduated, leaving Graz in December 1878. One biographer suggests Tesla was not studying and may have been expelled for gambling and womanizing.[citation needed]
+Tesla aged 23, c. 1879
+Tesla's family did not hear from him after he left school.[citation needed] There was a rumor among his classmates that he had drowned in the nearby river Mur, but in January one of them ran into Tesla in the town of Maribor and reported that encounter to Tesla's family.[24] It turned out Tesla had been working there as a draftsman for 60 florins per month.[citation needed] In March 1879, Milutin finally located his son and tried to convince him to return home and take up his education in Prague.[24] Tesla returned to Gospić later that month when he was deported for not having a residence permit.[24] Tesla's father died the next month, on 17 April 1879, at the age of 60 after an unspecified illness.[24]
+In January 1880, two of Tesla's uncles paid for him to leave Gospić for Prague, where he was to study.[citation needed] He arrived too late to enroll at Charles-Ferdinand University; he had never studied Greek, a required subject; and he was illiterate in Czech, another required subject.[citation needed] He attended lectures in philosophy at the university as an auditor, but he did not receive grades for the courses.[25][26]
+Tesla moved to Budapest, Hungary, in 1881 to work under Tivadar Puskás at a telegraph company, the Budapest Telephone Exchange.[citation needed] Upon arrival, Tesla realized that the company, then under construction, was not functional, so he worked as a draftsman in the Central Telegraph Office instead.[citation needed] Within a few months, the Budapest Telephone Exchange became functional, and Tesla was allocated the chief electrician position.[citation needed] Tesla later described how he made many improvements to the Central Station equipment including an improved telephone repeater or amplifier.[27]
+Working at Edison
+In 1882, Tivadar Puskás got Tesla another job in Paris with the Continental Edison Company.[28] Tesla began working in what was then a brand new industry, installing indoor incandescent lighting citywide in large scale electric power utility.[citation needed] The company had several subdivisions and Tesla worked at the Société Electrique Edison, the division in the Ivry-sur-Seine suburb of Paris, in charge of installing the lighting system.[citation needed] There he gained a great deal of practical experience in electrical engineering. Management took notice of his advanced knowledge in engineering and physics, and soon had him designing and building improved versions of generating dynamos and motors.[29]
+Moving to the United States
+Edison Machine Works on Goerck Street, New York. Tesla found the change from cosmopolitan Europe to working at this shop, located among the tenements on Manhattan's lower east side, a "painful surprise".[30]
+In 1884, Edison manager Charles Batchelor, who had been overseeing the Paris installation, was brought back to the United States to manage the Edison Machine Works, a manufacturing division situated in New York City, and asked that Tesla be brought to the United States as well.[31] In June 1884, Tesla emigrated and began working almost immediately at the Machine Works on Manhattan's Lower East Side, an overcrowded shop with a workforce of several hundred machinists, laborers, managing staff, and 20 "field engineers" struggling with the task of building the large electric utility in that city.[32] As in Paris, Tesla was working on troubleshooting installations and improving generators.[33]
+Historian W. Bernard Carlson notes Tesla may have met company founder Thomas Edison only a couple of times.[32] One of those times was noted in Tesla's autobiography where, after staying up all night repairing the damaged dynamos on the ocean liner SS Oregon, he ran into Batchelor and Edison, who made a quip about their "Parisian" being out all night. After Tesla told them he had been up all night fixing the Oregon, Edison commented to Batchelor that "this is a damned good man".[30] One of the projects given to Tesla was to develop an arc lamp–based street lighting system.[34][35] Arc lighting was the most popular type of street lighting but it required high voltages and was incompatible with the Edison low-voltage incandescent system, causing the company to lose contracts in some cities.[citation needed] Tesla's designs were never put into production, possibly because of technical improvements in incandescent street lighting or because of an installation deal that Edison made with an arc lighting company.[36]
+Tesla had been working at the Machine Works for a total of six months when he quit.[32] What event precipitated his leaving is unclear. It may have been over a bonus he did not receive, either for redesigning generators or for the arc lighting system that was shelved.[34] Tesla had previous run-ins with the Edison company over unpaid bonuses he believed he had earned.[37] In his autobiography, Tesla stated the manager of the Edison Machine Works offered a $50,000 bonus to design "twenty-four different types of standard machines", "but it turned out to be a practical joke".[38] Later versions of this story have Thomas Edison himself offering and then reneging on the deal, quipping: "Tesla, you don't understand our American humor".[39] The size of the bonus in either story has been noted as odd, since Machine Works manager Batchelor was stingy with pay,[c] and the company did not have that amount of cash (equal to $1,791,667 today) on hand.[40] Tesla's diary contains just one comment on what happened at the end of his employment, a note he scrawled across the two pages covering 7 December 1884, to 4 January 1885, saying "Good By to the Edison Machine Works".[35][41]
+Tesla Electric Light and Manufacturing
+Soon after leaving the Edison company, Tesla was working on patenting an arc lighting system,[42] possibly the same one he had developed at Edison.[32] In March 1885, he met with patent attorney Lemuel W. Serrell, the same attorney used by Edison, to obtain help with submitting the patents.[42] Serrell introduced Tesla to two businessmen, Robert Lane and Benjamin Vail, who agreed to finance an arc lighting manufacturing and utility company in Tesla's name, the Tesla Electric Light and Manufacturing Company.[citation needed] Tesla worked for the rest of the year obtaining the patents that included an improved DC generator, the first patents issued to Tesla in the US, and building and installing the system in Rahway, New Jersey.[43]
+The investors showed little interest in Tesla's ideas for new types of alternating current motors and electrical transmission equipment.[citation needed] After the utility was up and running in 1886, they decided that the manufacturing side of the business was too competitive and opted to simply run an electric utility.[44] They formed a new utility company, abandoning Tesla's company and leaving the inventor penniless.[44] Tesla even lost control of the patents he had generated, since he had assigned them to the company in exchange for stock.[44] He had to work at various electrical repair jobs and as a ditch digger for $2 per day. Later in life, Tesla recounted that part of 1886 as a time of hardship, writing "My high education in various branches of science, mechanics and literature seemed to me like a mockery".[44]{{cite book | editor-first = John T. | editor-last = Ratzlaff | title = Tesla Said | publisher = Tesla Book Co. | location = Millbrae, California | page = 280 | year = 1984 | isbn = 0-914119-00-1 | url = https://archive.org/details/nikolateslajohnt.ratzlaffteslasaid }}</ref>"}},"i":0}}]}'>[d]
+AC and the induction motor
+Drawing from U.S. patent 381,968, illustrating the principle of Tesla's alternating current induction motor
+In late 1886, Tesla met Alfred S. Brown, a Western Union superintendent, and New York attorney Charles Fletcher Peck.[46] The two men were experienced in setting up companies and promoting inventions and patents for financial gain.[47] Based on Tesla's new ideas for electrical equipment, including a thermo-magnetic motor idea,[48] they agreed to back the inventor financially and handle his patents. Together they formed the Tesla Electric Company in April 1887, with an agreement that profits from generated patents would go 1⁄3 to Tesla, 1⁄3 to Peck and Brown, and 1⁄3 to fund development.[47] They set up a laboratory for Tesla at 89 Liberty Street in Manhattan, where he worked on improving and developing new types of electric motors, generators, and other devices.[49]
+In 1887, Tesla developed an induction motor that ran on alternating current (AC), a power system format that was rapidly expanding in Europe and the United States because of its advantages in long-distance, high-voltage transmission.[citation needed] The motor used polyphase current, which generated a rotating magnetic field to turn the motor (a principle that Tesla claimed to have conceived in 1882).[50][51][52] This innovative electric motor, patented in May 1888, was a simple self-starting design that did not need a commutator, thus avoiding sparking and the high maintenance of constantly servicing and replacing mechanical brushes.[53][54]
+Along with getting the motor patented, Peck and Brown arranged to get the motor publicized, starting with independent testing to verify it was a functional improvement, followed by press releases sent to technical publications for articles to run concurrently with the issue of the patent.[55] Physicist William Arnold Anthony (who tested the motor) and Electrical World magazine editor Thomas Commerford Martin arranged for Tesla to demonstrate his AC motor on 16 May 1888 at the American Institute of Electrical Engineers.[55][56] Engineers working for the Westinghouse Electric & Manufacturing Company reported to George Westinghouse that Tesla had a viable AC motor and related power system—something Westinghouse needed for the alternating current system he was already marketing. Westinghouse looked into getting a patent on a similar commutator-less, rotating magnetic field-based induction motor developed in 1885 and presented in a paper in March 1888 by Italian physicist Galileo Ferraris, but decided that Tesla's patent would probably control the market.[57][58]
+Tesla's AC dynamo-electric machine (AC electric generator) in an 1888 U.S. patent 390,721
+In July 1888, Brown and Peck negotiated a licensing deal with George Westinghouse for Tesla's polyphase induction motor and transformer designs for $60,000 in cash and stock and a royalty of $2.50 per AC horsepower produced by each motor. Westinghouse also hired Tesla for one year for the large fee of $2,000 ($71,700 in today's dollars[59]) per month to be a consultant at the Westinghouse Electric & Manufacturing Company's Pittsburgh labs.[60]
+During that year, Tesla worked in Pittsburgh, helping to create an alternating current system to power the city's streetcars.[citation needed] He found it a frustrating period because of conflicts with the other Westinghouse engineers over how best to implement AC power.[citation needed] Between them, they settled on a 60-cycle AC system that Tesla proposed (to match the working frequency of Tesla's motor), but they soon found that it would not work for streetcars, since Tesla's induction motor could run only at a constant speed.[citation needed] They ended up using a DC traction motor instead.[61][62]
+Market turmoil
+Tesla's demonstration of his induction motor and Westinghouse's subsequent licensing of the patent, both in 1888, came at the time of extreme competition between electric companies.[63][64] The three big firms, Westinghouse, Edison, and Thomson-Houston Electric Company, were trying to grow in a capital-intensive business while financially undercutting each other. There was even a "war of currents" propaganda campaign underway, with Edison Electric claiming their direct current system was better and safer than the Westinghouse alternating current system and Thomson-Houston sometimes siding with Edison.[65] Competing in this market meant Westinghouse would not have the cash or engineering resources to develop Tesla's motor and the related polyphase system right away.[66][page needed]
+Two years after signing the Tesla contract, Westinghouse Electric was in trouble. The near collapse of Barings Bank in London triggered the financial panic of 1890, causing investors to call in their loans to Westinghouse Electric.[67] The sudden cash shortage forced the company to refinance its debts. The new lenders demanded that Westinghouse cut back on what looked like excessive spending on acquisition of other companies, research, and patents, including the per motor royalty in the Tesla contract.[68][69] At that point, the Tesla induction motor had been unsuccessful and was stuck in development.[66][page needed][67] Westinghouse was paying a $15,000-a-year guaranteed royalty[70] even though operating examples of the motor were rare and polyphase power systems needed to run it were even rarer.[53][67]
+In early 1891, George Westinghouse explained his financial difficulties to Tesla in stark terms, saying that, if he did not meet the demands of his lenders, he would no longer be in control of Westinghouse Electric and Tesla would have to "deal with the bankers" to try to collect future royalties.[71] The advantages of having Westinghouse continue to champion the motor probably seemed obvious to Tesla and he agreed to release the company from the royalty payment clause in the contract.[71][72] Six years later Westinghouse purchased Tesla's patent for a lump sum payment of $216,000 as part of a patent-sharing agreement signed with General Electric (a company created from the 1892 merger of Edison and Thomson-Houston).[73][74][75]
+New York laboratories
+Mark Twain in Tesla's South Fifth Avenue laboratory, 1894
+The money Tesla made from licensing his AC patents made him independently wealthy and gave him the time and funds to pursue his own interests.[76] In 1889, Tesla moved out of the Liberty Street shop Peck and Brown had rented and for the next dozen years worked out of a series of workshop/laboratory spaces in Manhattan. These included a lab at 175 Grand Street (1889–1892), the fourth floor of 33–35 South Fifth Avenue (1892–1895), and sixth and seventh floors of 46 & 48 East Houston Street (1895–1902).[77][78]
+Tesla coil
+Main article: Tesla coil
+In the summer of 1889, Tesla traveled to the 1889 Exposition Universelle in Paris and learned of Heinrich Hertz's 1886–1888 experiments that proved the existence of electromagnetic radiation, including radio waves.[79] In repeating and then expanding on these experiments, Tesla tried powering a Ruhmkorff coil with a high speed alternator he had been developing as part of an improved arc lighting system but found that the high-frequency current overheated the iron core and melted the insulation between the primary and secondary windings in the coil. To fix this problem, Tesla came up with his "oscillating transformer", with an air gap instead of insulating material between the primary and secondary windings and an iron core that could be moved to different positions in or out of the coil.[80] Later called the Tesla coil, it would be used to produce high-voltage, low-current, high frequency alternating-current electricity.[81] He would use this resonant transformer circuit in his later wireless power work.[82][83]
+Wireless lighting
+Tesla demonstrating wireless lighting by "electrostatic induction" during an 1891 lecture at Columbia College via two long Geissler tubes (similar to neon tubes) in his hands
+After 1890, Tesla experimented with transmitting power by inductive and capacitive coupling using high AC voltages generated with his Tesla coil.[84] He attempted to develop a wireless lighting system based on near-field inductive and capacitive coupling and conducted a series of public demonstrations where he lit Geissler tubes and even incandescent light bulbs from across a stage.[85] He spent most of the decade working on variations of this new form of lighting with the help of various investors but none of the ventures succeeded in making a commercial product out of his findings.[86]
+In 1893 at St. Louis, Missouri, the Franklin Institute in Philadelphia, Pennsylvania and the National Electric Light Association, Tesla told onlookers that he was sure a system like his could eventually conduct "intelligible signals or perhaps even power to any distance without the use of wires" by conducting it through the Earth.[87][88]
+On 30 July 1891, aged 35, Tesla became a naturalized citizen of the United States.[89][90] In the same year, he patented his Tesla coil.[91]
+He served as a vice-president of the American Institute of Electrical Engineers from 1892 to 1894, the forerunner of the modern-day Institute of Electrical and Electronics Engineers (IEEE) (along with the Institute of Radio Engineers).[92]
+Polyphase system and the Columbian Exposition
+A Westinghouse display of the "Tesla Polyphase System" at Chicago's 1893 Columbian Exposition
+By the beginning of 1893, Westinghouse engineer Charles F. Scott and then Benjamin G. Lamme had made progress on an efficient version of Tesla's induction motor. Lamme found a way to make the polyphase system it would need compatible with older single-phase AC and DC systems by developing a rotary converter.[93] Westinghouse Electric now had a way to provide electricity to all potential customers and started branding their polyphase AC system as the "Tesla Polyphase System". They believed that Tesla's patents gave them patent priority over other polyphase AC systems.[94]
+Westinghouse Electric asked Tesla to participate in the 1893 World's Columbian Exposition in Chicago where the company had a large space in the "Electricity Building" devoted to electrical exhibits. Westinghouse Electric won the bid to light the Exposition with alternating current and it was a key event in the history of AC power, as the company demonstrated to the American public the safety, reliability, and efficiency of an alternating current system that was polyphase and could also supply the other AC and DC exhibits at the fair.[95][96][97]
+A special exhibit space was set up to display various forms and models of Tesla's induction motor. The rotating magnetic field that drove them was explained through a series of demonstrations including an Egg of Columbus that used the two-phase coil found in an induction motor to spin a copper egg making it stand on end.[98]
+Tesla visited the fair for a week during its six-month run to attend the International Electrical Congress and put on a series of demonstrations at the Westinghouse exhibit.[99] A specially darkened room had been set up where Tesla showed his wireless lighting system, using a demonstration he had previously performed throughout America and Europe;[100] these included using high-voltage, high-frequency alternating current to light wireless gas-discharge lamps.[101][102]
+Steam-powered oscillating generator
+Main article: Tesla's oscillator
+During his presentation at the International Electrical Congress in the Columbian Exposition Agriculture Hall, Tesla introduced his steam-powered reciprocating electricity generator that he patented that year, something he thought was a better way to generate alternating current.[103] Steam was forced into the oscillator and rushed out through a series of ports, pushing a piston up and down that was attached to an armature. The magnetic armature vibrated up and down at high speed, producing an alternating magnetic field. This induced alternating electric current in the wire coils located adjacent. It did away with the complicated parts of a steam engine/generator, but never caught on as a feasible engineering solution to generate electricity.[104][105]
+Consulting on Niagara
+In 1893, Edward Dean Adams, who headed the Niagara Falls Cataract Construction Company, sought Tesla's opinion on what system would be best to transmit power generated at the falls.[citation needed] Over several years, there had been a series of proposals and open competitions on how best to do it.[citation needed] Among the systems proposed by several U.S. and European companies were two-phase and three-phase AC, high-voltage DC, and compressed air.[citation needed] Adams asked Tesla for information about the current state of all the competing systems.[citation needed] Tesla advised Adams that a two-phased system would be the most reliable and that there was a Westinghouse system to light incandescent bulbs using two-phase alternating current.[citation needed] The company awarded a contract to Westinghouse Electric for building a two-phase AC generating system at the Niagara Falls, based on Tesla's advice and Westinghouse's demonstration at the Columbian Exposition.[citation needed] At the same time, a further contract was awarded to General Electric to build the AC distribution system.[106]
+The Nikola Tesla Company
+In 1895, Edward Dean Adams, impressed with what he saw when he toured Tesla's lab, agreed to help found the Nikola Tesla Company, set up to fund, develop, and market a variety of previous Tesla patents and inventions as well as new ones. Alfred Brown signed on, bringing along patents developed under Peck and Brown. The board was filled out with William Birch Rankine and Charles F. Coaney.[107]
+On 13 March 1895, the South Fifth Avenue building that housed Tesla's lab caught fire. It started in the basement of the building and was so intense Tesla's fourth-floor lab burned and collapsed into the second floor. The fire set back Tesla's ongoing projects, and destroyed a collection of early notes and research material, models, and demonstration pieces, including many that had been exhibited at the 1893 Worlds Colombian Exposition. Tesla told The New York Times "I am in too much grief to talk. What can I say?"[108]
+X-ray experimentation
+Tesla took this x-ray of his hand.
+Starting in 1894, Tesla began investigating what he referred to as radiant energy of "invisible" kinds after he had noticed damaged film in his laboratory in previous experiments[109] (later identified as "Roentgen rays" or "X-rays"). His early experiments were with Crookes tubes, a cold cathode electrical discharge tube. Tesla may have inadvertently captured an X-ray image—predating, by a few weeks, Wilhelm Röntgen's December 1895 announcement of the discovery of X-rays—when he tried to photograph Mark Twain illuminated by a Geissler tube, an earlier type of gas discharge tube. The only thing captured in the image was the metal locking screw on the camera lens.[110]
+In March 1896, Tesla conducted experiments in X-ray imaging, developing a high-energy single-terminal vacuum tube that had no target electrode and that worked from the output of the Tesla coil (the modern term for the phenomenon produced by this device is bremsstrahlung or braking radiation). In his research, Tesla devised several experimental setups to produce X-rays. Tesla held that, with his circuits, the "instrument will ... enable one to generate Roentgen rays of much greater power than obtainable with ordinary apparatus".[111]
+Tesla noted the hazards of working with his circuit and single-node X-ray-producing devices. In his many notes on the early investigation of this phenomenon, he attributed the skin damage to various causes.[citation needed] He believed early on that damage to the skin was not caused by the Roentgen rays, but by the ozone generated in contact with the skin, and to a lesser extent, by nitrous acid.[citation needed] Tesla incorrectly believed that X-rays were longitudinal waves, such as those produced in waves in plasmas.[citation needed] These plasma waves can occur in force-free magnetic fields.[112][113]
+Radio remote control
+In 1898, Tesla demonstrated a radio-controlled boat, which he hoped to sell as a guided torpedo to navies around the world.[114]
+In 1898, Tesla demonstrated a boat that used a coherer-based radio control—which he dubbed "telautomaton"—to the public during an electrical exhibition at Madison Square Garden.[115] Tesla tried to sell his idea to the U.S. military as a type of radio-controlled torpedo, but they showed little interest.[116] Tesla took the opportunity to further demonstrate "Teleautomatics" in an address to a meeting of the Commercial Club in Chicago, while he was traveling to Colorado Springs, on 13 May 1899.[citation needed]
+Wireless power
+Further information: Wireless power transfer § Nikola Tesla
+Tesla sitting in front of a spiral coil used in his wireless power experiments at his East Houston St. laboratory
+From the 1890s through 1906, Tesla spent a great deal of his time and fortune on a series of projects trying to develop the transmission of electrical power without wires.[citation needed] At the time, there was no feasible way to wirelessly transmit communication signals over long distances, let alone large amounts of power.[citation needed] Tesla had studied radio waves early on, and came to the conclusion that part of the existing study on them, by Hertz, was incorrect.[117][118]{{sfn|Carlson|2013|pp=127–128}}"}},"i":0}}]}'>[e] Tesla noted that, even if theories on radio waves were true, they were worthless for his intended purposes, since this form of "invisible light" would diminish over a distance just like any other radiation and would travel in straight lines out into space, becoming "hopelessly lost".[120] He worked on the idea that he might be able to conduct electricity long distance through the Earth or the atmosphere, and began working on experiments to test this idea including setting up a large resonance transformer magnifying transmitter in his East Houston Street lab.[121][122]
+Colorado Springs
+Further information: Tesla Experimental Station; Magnifying transmitter; and Colorado Springs Notes, 1899–1900
+Tesla's Colorado Springs laboratory
+To further study the conductive nature of low-pressure air, Tesla set up an experimental station at high altitude in Colorado Springs in 1899.[123][124][125][126] There he could safely operate much larger coils than in his New York lab, and the El Paso Electric Light Company supplied alternating current free of charge.[126] To fund his experiments, he convinced John Jacob Astor IV to invest $100,000 ($3,870,000 in today's dollars)[59] to become a majority shareholder in the Nikola Tesla Company.[127] Upon his arrival, he told reporters that he planned to conduct wireless telegraphy experiments, transmitting signals from Pikes Peak to Paris.[128]
+A multiple exposure picture of Tesla sitting next to his "magnifying transmitter" generating millions of volts. The 7-metre (23 ft) long arcs were not part of the normal operation, but only produced for effect by rapidly cycling the power switch.[129]
+There, he experimented with a large coil operating in the megavolts range, producing artificial lightning (and thunder) consisting of millions of volts and discharges of up to 135 feet (41 m) in length,[130] and, at one point, inadvertently burned out the generator in El Paso, causing a power outage.[131] The observations he made of the electronic noise of lightning strikes led him to (incorrectly) conclude that he could use the entire globe of the Earth to conduct electrical energy.[132][133]
+During his time at his laboratory, Tesla observed unusual signals from his receiver which he speculated to be communications from another planet. He mentioned them in a letter to a reporter in December 1899[134] and to the Red Cross Society in December 1900.[135] Reporters treated it as a sensational story and jumped to the conclusion Tesla was hearing signals from Mars.[135] He expanded on the signals he heard in a 9 February 1901 Collier's Weekly article entitled "Talking With Planets", where he said it had not been immediately apparent to him that he was hearing "intelligently controlled signals" and that the signals could have come from Mars, Venus, or other planets.[citation needed]
+Tesla had an agreement with the editor of The Century Magazine to produce an article on his findings. The magazine sent a photographer to Colorado to photograph the work being done there. The article, titled "The Problem of Increasing Human Energy", appeared in the June 1900 edition of the magazine. He explained the superiority of the wireless system he envisioned, but the article was more of a lengthy philosophical treatise than an understandable scientific description of his work.[136]
+Wardenclyffe
+Main article: Wardenclyffe Tower
+Tesla's Wardenclyffe plant on Long Island in 1904. From this facility, Tesla hoped to demonstrate wireless transmission of electrical energy across the Atlantic.
+Tesla made the rounds in New York trying to find investors for what he thought would be a viable system of wireless transmission, wining and dining them at the Waldorf-Astoria's Palm Garden (the hotel where he was living at the time), The Players Club, and Delmonico's.[137] In March 1901, he obtained $150,000 ($5,805,000 in today's dollars[59]) from J. P. Morgan in return for a 51% share of any generated wireless patents, and began planning the Wardenclyffe Tower facility to be built in Shoreham, New York, 100 miles (161 km) east of the city on the North Shore of Long Island.[138]
+By July 1901, Tesla had expanded his plans to build a more powerful transmitter to leap ahead of Marconi's radio-based system, which Tesla thought was a copy of his own.[135] In December 1901, Marconi transmitted the letter S from England to Newfoundland, defeating Tesla in the race to be first to complete such a transmission.[135] In June 1902, Tesla moved his lab operations from Houston Street to Wardenclyffe.[138]
+Investors on Wall Street put money into Marconi's system, and some in the press began turning against Tesla's project, claiming it was a hoax.[139] The project came to a halt in 1905.[citation needed] Tesla mortgaged the Wardenclyffe property to cover his debts at the Waldorf-Astoria, which eventually amounted to $20,000 ($642,900 in today's dollars[59]).[140]
+Later years
+After Wardenclyffe closed, Tesla continued to write to Morgan; after "the great man" died, Tesla wrote to Morgan's son Jack, trying to get further funding for the project.[citation needed] In 1906, Tesla opened offices at 165 Broadway in Manhattan, trying to raise further funds by developing and marketing his patents.[citation needed] He went on to have offices at the Metropolitan Life Tower from 1910 to 1914; rented for a few months at the Woolworth Building, moving out because he could not afford the rent; and then to office space at 8 West 40th Street from 1915 to 1925. After moving to 8 West 40th Street, he was effectively bankrupt. Most of his patents had expired and he was having trouble with the new inventions he was trying to develop.[141]
+Bladeless turbine
+Main article: Tesla turbine
+Tesla's bladeless turbine design
+On his 50th birthday, in 1906, Tesla demonstrated a 200 horsepower (150 kilowatts) 16,000 rpm bladeless turbine. During 1910–1911, at the Waterside Power Station in New York, several of his bladeless turbine engines were tested at 100–5,000 hp.[142] Tesla worked with several companies including from 1919 to 1922 in Milwaukee, for Allis-Chalmers.[143] Tesla licensed the idea to a precision instrument company, and it found use in the form of luxury car speedometers and other instruments.[144]
+Wireless lawsuits
+When World War I broke out, the British cut the transatlantic telegraph cable linking the U.S. to Germany in order to control the flow of information between the two countries. They also tried to shut off German wireless communication to and from the U.S. by having the U.S. Marconi Company sue the German radio company Telefunken for patent infringement.[145] Telefunken brought in the physicists Jonathan Zenneck and Karl Ferdinand Braun for their defense, and hired Tesla as a witness for two years for $1,000 a month. The case stalled and then went moot when the U.S. entered the war against Germany in 1917.[145]
+In 1915, Tesla attempted to sue the Marconi Company for infringement of his wireless tuning patents. Marconi's initial radio patent had been awarded in the U.S. in 1897, but his 1900 patent submission covering improvements to radio transmission had been rejected several times on the grounds that it infringed on other existing patents, including two 1897 Tesla wireless power tuning patents, before it was finally approved in 1904.[118][146][147] Tesla's 1915 case went nowhere,[148] but in a related case, where the Marconi Company tried to sue the U.S. government over WWI patent infringements, a Supreme Court of the United States 1943 decision restored the prior patents of Oliver Lodge, John Stone, and Tesla.[149] The court declared that their decision had no bearing on Marconi's claim as the first to achieve radio transmission, just that since Marconi's claim to certain patented improvements were questionable, the company could not claim infringement on those same patents.[118][150]
+Other ideas
+Second banquet meeting of the Institute of Radio Engineers, 23 April 1915. Tesla is seen standing in the center.
+Tesla attempted to market several devices based on the production of ozone. These included his 1900 Tesla Ozone Company selling an 1896 patented device based on his Tesla coil, used to bubble ozone through different types of oil to make a therapeutic gel.[151] He tried to develop a variation of this a few years later as a room sanitizer for hospitals.[152]
+He theorized that the application of electricity to the brain enhanced intelligence. In 1912, he crafted "a plan to make dull students bright by saturating them unconsciously with electricity", wiring the walls of a schoolroom and, "saturating [the schoolroom] with infinitesimal electric waves vibrating at high frequency. The whole room will thus, Mr. Tesla claims, be converted into a health-giving and stimulating electromagnetic field or 'bath.'" The plan was, at least provisionally, approved by then superintendent of New York City schools, William H. Maxwell.[153]
+In the August 1917 edition of the magazine The Electrical Experimenter, Tesla postulated that electricity could be used to locate submarines by using the reflection of an "electric ray" of "tremendous frequency", with the signal being viewed on a fluorescent screen (a system that has been noted to have a superficial resemblance to modern radar).[154] Tesla was incorrect in his assumption that high-frequency radio waves would penetrate water.[155] Émile Girardeau, who helped develop France's first radar system in the 1930s, noted in 1953 that Tesla's general speculation that a very strong high-frequency signal would be needed was correct. Girardeau said, "[Tesla] was prophesying or dreaming, since he had at his disposal no means of carrying them out, but one must add that if he was dreaming, at least he was dreaming correctly".[156]
+In 1928, Tesla received patent U.S. patent 1,655,114, for a biplane design capable of vertical take-off and landing (VTOL), which "gradually tilted through manipulation of the elevator devices" in flight until it was flying like a conventional plane.[157] This impractical design was something Tesla thought would sell for less than $1,000.[158][159]
+Living circumstances
+Tesla lived at the Waldorf Astoria Hotel in New York City from 1900 and ran up a large bill.[160] He moved to the St. Regis Hotel in 1922 and followed a pattern from then on of moving to a different hotel every few years and leaving behind unpaid bills.[161]
+Tesla walked to the park every day to feed the pigeons. He began feeding them at the window of his hotel room and nursed injured birds back to health.[162][163] He said that he had been visited by a certain injured white pigeon daily. He spent over $2,000 (equivalent to $38,470 in 2025) to care for the bird, including a device he built to support her comfortably while her broken wing and leg healed.[164] Tesla's unpaid bills, as well as complaints about the mess made by pigeons, led to his eviction from St. Regis in 1923. He was forced to leave the Hotel Pennsylvania in 1930 and the Hotel Governor Clinton in 1934.[citation needed] At one point he took rooms at the Hotel Marguery.[165]
+Tesla moved to the Hotel New Yorker in 1934. At this time, Westinghouse Electric & Manufacturing Company began paying him $125 (equivalent to $3,010 in 2025) per month in addition to paying his rent. Accounts of how this came about vary. Several sources claim that Westinghouse was concerned, or possibly warned, about potential bad publicity arising from the impoverished conditions in which their former star inventor was living.[166][167][168] The payment has been described as being couched as a "consulting fee" to get around Tesla's aversion to accepting charity.[citation needed]
+Birthday press conferences
+Photograph of Tesla on the cover of Time magazine, commemorating his 75th birthday in 1931
+In 1931, a young journalist whom Tesla befriended, Kenneth M. Swezey, organized a celebration for the inventor's 75th birthday.[169] Tesla received congratulations from figures in science and engineering such as Albert Einstein,[170] and he was also featured on the cover of Time magazine.[171] The cover caption "All the world's his power house" noted his contribution to electrical power generation. The party went so well that Tesla made it an annual event, an occasion where he would put out a large spread of food and drink—featuring dishes of his own creation. He invited the press in order to see his inventions and hear stories about his past exploits, views on current events, and sometimes baffling claims.[172][173]
+Newspaper representation of the thought camera Tesla described at his 1933 birthday party
+At the 1932 party, Tesla claimed he had invented a motor that would run on cosmic rays.[173]
+In 1933, at age 77, Tesla told reporters at the event that, after 35 years of work, he was on the verge of producing proof of a new form of energy. He claimed it was a theory of energy that was "violently opposed" to Einsteinian physics and could be tapped with an apparatus that would be cheap to run and last 500 years. He also told reporters he was working on a way to transmit individualized private radio wavelengths, working on breakthroughs in metallurgy, and developing a way to photograph the retina to record thought.[174]
+At the 1934 occasion, Tesla told reporters he had designed a superweapon he claimed would end all war.[175] It was referred to as his death beam or death ray and papers cited Tesla's claims that it was a defensive weapon that would protect a country's border and could destroy an invading army 200 miles away and bring down a fleet of 10,000 enemy planes 250 miles away.[176][177] Tesla used the name Teleforce at his 1940 birthday meeting[178] but never revealed to the press of how the weapon worked.[179] The US suspected Tesla planned to sell the weapon to the League of Nations and later, as threats of war increased, Tesla sent diagrams to the U.S. War Department, United Kingdom, Soviet Union, and Yugoslavia.[180][181] Plans that surfaced at the Nikola Tesla Museum archive in Belgrade[182] in 1984 described a device using a method of charging slugs of tungsten or mercury to millions of volts and directing them in streams (through electrostatic repulsion) through an array open-ended gas jet seal vacuum tubes.[173]
+In 1935, at his 79th birthday party, Tesla covered many topics. He claimed to have discovered the cosmic ray in 1896 and invented a way to produce direct current by induction, and made many claims about his mechanical oscillator.[183] Describing the device (which he expected would earn him $100 million within two years) he told reporters that a version of his oscillator had caused an earthquake in his 46 East Houston Street lab and neighboring streets in Lower Manhattan in 1898.[183] He went on to tell reporters his oscillator could destroy the Empire State Building with 5 pounds (2.3 kg) of air pressure.[184] He also proposed using his oscillators to transmit vibrations into the ground. He claimed it would work over any distance and could be used for communication or locating underground mineral deposits, a technique he called "telegeodynamics".[185]
+In 1937, at his event in the Grand Ballroom of the Hotel New Yorker, Tesla received the Order of the White Lion from the Czechoslovak ambassador and a medal from the Yugoslav ambassador. On questions concerning the death ray, Tesla stated: "But it is not an experiment ... I have built, demonstrated and used it. Only a little time will pass before I can give it to the world."[173]
+Awards
+Tesla won numerous medals and awards. They include:
+Elliott Cresson Medal (Franklin Institute, 1894)[186]
+Grand Cross of the Order of Prince Danilo I (Montenegro, 1895)[187]
+Member of the American Philosophical Society (U.S., 1896)[188]
+AIEE Edison Medal (Institute of Electrical and Electronics Engineers, U.S., 1916)[189]
+Grand Cross of the Order of St. Sava (Yugoslavia, 1926)[190]
+John Scott Medal (Franklin Institute & Philadelphia City Council, U.S., 1934)[186]
+Order of the White Eagle (Yugoslavia, 1936)[191]
+Grand Cross of the Order of the White Lion (Czechoslovakia, 1937)[192]
+Death
+Room 3327 of the Hotel New Yorker, where Tesla died
+In the fall of 1937 at the age of 81, after midnight one night, Tesla left the Hotel New Yorker to make his regular commute to St. Patrick's Cathedral and the Public Library to feed the pigeons. While crossing a street a couple of blocks from the hotel, Tesla was struck by a moving taxicab and was thrown to the ground. His back was severely wrenched and three of his ribs were broken. The full extent of his injuries was never known; Tesla refused to consult a doctor, an almost lifelong custom, and never fully recovered.[193]
+On the night of 7 January 1943, at the age of 86, Tesla died alone in his hotel room.[194] His body was found by a maid on the next day when she entered his room, ignoring the "do not disturb" sign that had been placed on his door three days earlier. An assistant medical examiner examined the body, estimated the time of death as 10:30 p.m. and ruled that the cause of death had been coronary thrombosis.[195]
+Since this was during World War II, there were concerns raised in the U.S. government that Tesla's effects, including plans for a purported beam weapon, would go to his nephew Sava Kosanović [sr], an exiled Yugoslav politician who could conceivably hand them over to enemies of the United States.[196] With Kosanović being a non-U.S. citizen, the Federal Bureau of Investigation asked the Office of Alien Property Custodian to seize Tesla's belongings two days after his death.[197] John G. Trump, an electrical engineering professor at MIT serving as a technical aide to the National Defense Research Committee, was called in to analyze the Tesla items. After a three-day investigation, Trump's report concluded that there was nothing which would "constitute a hazard in unfriendly hands."[198] In a box purported to contain a part of Tesla's "death ray", Trump found a 45-year-old multidecade resistance box.[citation needed]
+On 10 January 1943, New York City mayor Fiorello La Guardia read a eulogy for Tesla at his funeral at the Cathedral of St. John the Divine.[199]
+Personal life and character
+Tesla c. 1896
+Tesla was a lifelong bachelor, who had once explained that his chastity was very helpful to his scientific abilities.[200] In an interview with the Galveston Daily News on 10 August 1924 he stated, "Now the soft-voiced gentlewoman of my reverent worship has all but vanished. In her place has come the woman who thinks that her chief success in life lies in making herself as much as possible like man—in dress, voice and actions..."[165] He told a reporter in later years that he sometimes felt that by not marrying, he had made too great a sacrifice to his work.[citation needed]
+Tesla was a good friend of Francis Marion Crawford, Robert Underwood Johnson,[201] Stanford White,[202] Fritz Lowenstein, George Scherff, and Kenneth Swezey.[203][204][205] In middle age, Tesla became a close friend of Mark Twain; they spent a lot of time together in his lab and elsewhere.[201] Twain notably described Tesla's induction motor invention as "the most valuable patent since the telephone".[206] At a party thrown by actress Sarah Bernhardt in 1896, Tesla met Indian Hindu monk Swami Vivekananda. Vivekananda later wrote that Tesla said he could demonstrate mathematically the relationship between matter and energy, something Vivekananda hoped would give a scientific foundation to Vedantic cosmology.[207][208] The meeting with Swami Vivekananda stimulated Tesla's interest in Eastern Science, which led to Tesla studying Hindu and Vedic philosophy for a number of years.[209] Tesla later wrote an article titled "Man's Greatest Achievement" using Sanskrit terms akasha and prana to describe the relationship between matter and energy.[210][211] In the late 1920s, Tesla befriended George Sylvester Viereck, a poet, writer, mystic, and later a Nazi propagandist. Tesla occasionally attended dinner parties held by Viereck and his wife.[212][213]
+Tesla could be harsh at times and openly expressed disgust for overweight people, such as when he fired a secretary because of her weight.[214] He was quick to criticize clothing; on several occasions, Tesla directed a subordinate to go home and change her dress.[200] When Thomas Edison died in 1931, Tesla contributed the only negative opinion to The New York Times.[215][216] He became a vegetarian in his later years, living on only milk, bread, honey, and vegetable juices.[217]
+Views and beliefs
+Tesla c. 1885
+On society
+Tesla is widely considered by his biographers to have been a humanist in philosophical outlook.[218][219] He expressed the belief that human "pity" had come to interfere with the natural "ruthless workings of nature".[citation needed] Though his argumentation did not depend on a concept of a "master race" or the inherent superiority of one person over another, he advocated for eugenics.[220] In 1926, Tesla commented on the ills of the social subservience of women and the struggle of women for gender equality. He indicated that humanity's future would be run by "Queen Bees".[citation needed] He believed that women would become the dominant sex in the future.[221] He made predictions about the relevant issues of a post-World War I environment in an article entitled "Science and Discovery are the great Forces which will lead to the Consummation of the War" (20 December 1914).[222]
+On religion
+Tesla was raised in the faith of the Eastern Orthodox Church. Later in life he did not consider himself to be a "believer in the orthodox sense", said he opposed religious fanaticism, and said "Buddhism and Christianity are the greatest religions both in number of disciples and in importance."[223] He also said "To me, the universe is simply a great machine which never came into being and never will end" and "what we call 'soul' or 'spirit,' is nothing more than the sum of the functionings of the body. When this functioning ceases, the 'soul' or the 'spirit' ceases likewise."[223]
+Literary works
+Tesla wrote a number of books and articles for magazines and journals.[224] Among his books are My Inventions: The Autobiography of Nikola Tesla, compiled and edited by Ben Johnston in 1983 from a series of 1919 magazine articles by Tesla which were republished in 1977; and The Tesla Papers. Many of his writings are freely available online,[225] including the article "The Problem of Increasing Human Energy", published in The Century Magazine in 1900,[226] and the article "Experiments with Alternate Currents of High Potential and High Frequency", published in his book Inventions, Researches and Writings of Nikola Tesla.[227][228]
+Legacy
+Further information: Nikola Tesla in popular culture, List of things named after Nikola Tesla, and List of Nikola Tesla patents
+Gilded urn with Tesla's ashes, in his favorite geometric object, a sphere (Nikola Tesla Museum, Belgrade)
+In 1952, following pressure from Sava Kosanović, Tesla's entire estate was shipped to Belgrade in 80 trunks marked "N.T.".[citation needed] In 1957, Kosanović's secretary Charlotte Muzar transported Tesla's ashes from the United States to Belgrade.[citation needed] They are displayed in a gold-plated sphere on a marble pedestal in the Nikola Tesla Museum.[229] His archive consists of over 160,000 documents and is included in the UNESCO Memory of the World Programme.[230][231]
+Tesla obtained around 300 patents worldwide for his inventions.[232] Some of Tesla's patents are not accounted for, and some that have lain hidden in patent archives have been rediscovered. There are at least 278 known patents[232] issued to Tesla in 26 countries. Many were in the United States, Britain, and Canada, but many others were approved in countries around the globe.[233]
+See also
+Atmospheric electricity – Electricity in planetary atmospheres
+Michael Faraday – English chemist and physicist (1791–1867)
+Charles Proteus Steinmetz – American mathematician and electrical engineer (1865–1923)
+Telluric current – Natural electric current in the Earth's crust
+Notes
+Footnotes
+↑ English: /ˈnɪkələ ˈtɛslə/;[1] Serbian Cyrillic: Никола Тесла; pronounced [nǐkola têsla]
+↑ Tesla does not mention which professor this was by name, but some sources conclude it was Martin Sekulić.[15]
+↑ Tesla's contemporaries remembered that on a previous occasion Machine Works manager Batchelor had been unwilling to give Tesla a $7 a week pay raise.[citation needed]
+↑ Account comes from a letter Tesla sent in 1938 on the occasion of receiving an award from the National Institute of Immigrant Welfare[45]
+↑ Tesla's own experiments led him to erroneously believe Hertz had misidentified a form of conduction instead of a new form of electromagnetic radiation, an incorrect assumption that Tesla held for a couple of decades.[118][119]
+Citations
+↑ "Tesla" Archived 24 October 2021 at the Wayback Machine. Random House Webster's Unabridged Dictionary.
+↑ Laplante, Phillip A. (1999). Comprehensive Dictionary of Electrical Engineering 1999. Springer. p. 635. ISBN 978-3-540-64835-2.
+↑ O'Shei, Tim (2008). Marconi and Tesla: Pioneers of Radio Communication. MyReportLinks.com Books. p. 106. ISBN 978-1-59845-076-7.
+↑ Van Riper 2011, p. 150
+↑ Skiena, Steven; Ward, Charles B. (10 December 2013). "Who's Biggest? The 100 Most Significant Figures in History". Time. ISSN 0040-781X. Retrieved 17 June 2025.
+↑ "Pictures of Tesla's home in Smiljan, Croatia and his father's church after rebuilding". Tesla Memorial Society of NY. Archived from the original on 2 June 2003. Retrieved 22 May 2013.
+↑ Cheney, Uth & Glenn 1999, p. 143.
+↑ Dommermuth-Costa 1994, p. 12, "Milutin, Nikola's father, was a well-educated priest of the Serbian Orthodox Church.".
+↑ Carlson 2013, p. 14, "Following a reprimand at school for not keeping his brass buttons polished, he quit and instead chose to become a priest in the Serbian Orthodox Church".
+↑ Carlson 2013, p. 14.
+↑ Cheney 2001, pp. 25–26.
+↑ Carlson 2013, p. 21.
+↑ Wohinz 2019, pp. 14–15.
+↑ Budiansky, Stephen (2021). Journey to the edge of reason : the life of Kurt Gödel (First ed.). New York: W. W. Norton & Company. ISBN 978-1-324-00545-2. In the natural sciences, Austria produced a remarkable number of talented theorists and experimentalists. The electrical genius Nikola Tesla, from Croatia, studied in Karlovac at one of the rigorous German-language high schools, the Gymnasiums, established throughout the Austrian Empire.
+↑ Petešić 1976, pp. 29–30.
+↑ Carlson 2013, p. 32.
+↑ "Tesla Life and Legacy – Tesla's Early Years". PBS. Archived from the original on 20 July 2018. Retrieved 8 July 2012.
+1 2 Cheney, Uth & Glenn 1999, p. 9.
+↑ Glenn, Jim, ed. (1994). The complete patents of Nikola Tesla. New York: Barnes & Noble Books. ISBN 1-56619-266-8.
+↑ Carlson 2013, p. 29.
+↑ Adelman, Juliana (11 February 2016). "The electricity between Mark Twain and Nikola Tesla". The Irish Times.
+↑ Carlson 2013, p. 30-1.
+↑ Carlson 2013, pp. 35.
+1 2 3 4 Carlson 2013, pp. 47.
+↑ Mrkich, D. (2003). Nikola Tesla: The European Years (1st ed.). Ottawa: Commoner's Publishing. ISBN 0-88970-113-X.
+↑ "Hotel New Yorker in Manhattan pays tribute to Nikola Tesla". Tesla Society of New York. Archived from the original on 31 December 2018. Retrieved 17 August 2012.
+↑ Carlson 2013, p. 63.
+↑ "Nikola Tesla: The Genius Who Lit the World". Top Documentary Films. Archived from the original on 26 April 2019. Retrieved 24 October 2021.
+↑ Carlson 2013, pp. 63–64.
+1 2 Carlson 2013, p. 70.
+↑ Carlson 2013, p. 69.
+1 2 3 4 "Edison & Tesla – The Edison Papers". edison.rutgers.edu. Archived from the original on 11 March 2019. Retrieved 23 January 2017.
+↑ Carey, Charles W. (1989). American inventors, entrepreneurs & business visionaries. Infobase Publishing. p. 337. ISBN 0-8160-4559-3. Archived from the original on 23 March 2024. Retrieved 27 November 2010.
+1 2 Carlson 2013, pp. 71–73.
+1 2 Radmilo Ivanković' Dragan Petrović, review of the reprinted "Nikola Tesla: Notebook from the Edison Machine Works 1884–1885" Archived 26 February 2019 at the Wayback Machine ISBN 86-81243-11-X, teslauniverse.com
+↑ Carlson 2013, pp. 72–73.
+↑ Carlson 2013, pp. 69–73.
+↑ My Inventions: The Autobiography of Nikola Tesla, 1919, p. 19. Accessed 23 January 2017.
+↑ Pickover 1999, p. 14
+↑ Jonnes 2004, pp. 109–110.
+↑ Carlson 2013, p. 73.
+1 2 Jonnes 2004, pp. 110–111.
+↑ Jonnes 2004, p. 111.
+1 2 3 4 Carlson 2013, p. 75.
+↑ Ratzlaff, John T., ed. (1984). Tesla Said. Millbrae, California: Tesla Book Co. p. 280. ISBN 0-914119-00-1.
+↑ Charles Fletcher Peck of Englewood, New Jersey per Archived 8 October 2020 at the Wayback Machine
+1 2 Carlson 2013, p. 80.
+↑ Carlson 2013, pp. 76–78.
+↑ Carlson, W. Bernard (14 June 2013). "Places of Invention: Nikola Tesla's Life in New York". Manhattan: The Gotham Center for New York City History. Retrieved 15 July 2025.
+↑ Networks of Power: Electrification in Western Society, 1880–1930. JHU Press. March 1993. p. 117. ISBN 978-0-8018-4614-4. Archived from the original on 23 March 2024. Retrieved 13 December 2015.
+↑ Thomas Parke Hughes, Networks of Power: Electrification in Western Society, 1880–1930, pp. 115–118
+↑ Ltd, Nmsi Trading; Institution, Smithsonian (1998). Robert Bud, Instruments of Science: An Historical Encyclopedia. Taylor & Francis. p. 204. ISBN 978-0-8153-1561-2. Archived from the original on 23 March 2024. Retrieved 18 March 2013.
+1 2 Jonnes 2004, p. 161.
+↑ Henry G. Prout, A Life of George Westinghouse, p. 129
+1 2 Carlson 2013, p. 105-106.
+↑ Froehlich, Fritz E.; Kent, Allen (December 1998). The Froehlich/Kent Encyclopedia of Telecommunications: Volume 17. CRC Press. p. 36. ISBN 978-0-8247-2915-8. Archived from the original on 23 March 2024. Retrieved 10 September 2012.
+↑ Jonnes 2004, pp. 160–162.
+↑ Carlson 2013, pp. 108–111.
+1 2 3 4 1634–1699: McCusker, J. J. (1997). How Much Is That in Real Money? A Historical Price Index for Use as a Deflator of Money Values in the Economy of the United States: Addenda et Corrigenda (PDF). American Antiquarian Society. 1700–1799: McCusker, J. J. (1992). How Much Is That in Real Money? A Historical Price Index for Use as a Deflator of Money Values in the Economy of the United States (PDF). American Antiquarian Society. 1800–present: Federal Reserve Bank of Minneapolis. "Consumer Price Index (estimate) 1800–". Retrieved 29 February 2024.
+↑ Klooster 2009, p. 305.
+↑ Harris, William (14 July 2008). "William Harris, How did Nikola Tesla change the way we use energy?". Science.howstuffworks.com. p. 3. Archived from the original on 22 May 2019. Retrieved 10 September 2012.
+↑ Munson, Richard (2005). From Edison to Enron: The Business of Power and What It Means for the Future of Electricity. Westport, CT: Praeger. pp. 24–42. ISBN 978-0-275-98740-4.
+↑ Skrabec 2007, p. 119–121.
+↑ Robert L. Bradley, Jr. (2011). Edison to Enron: Energy Markets and Political Strategies, John Wiley & Sons, pp. 55–58
+↑ Skrabec 2007, p. 118–120.
+1 2 Skrabec 2007.
+1 2 3 Carlson 2013, p. 130.
+↑ Carlson 2013, p. 131.
+↑ Jonnes 2004, p. 29.
+↑ Thomas Parke Hughes, Networks of Power: Electrification in Western Society, 1880–1930 (1983), p. 119
+1 2 Jonnes 2004, p. 228.
+↑ Carlson 2013, pp. 130–131.
+↑ Cheney 2001, pp. 48–49.
+↑ Christopher Cooper, The Truth about Tesla: The Myth of the Lone Genius in the History of Innovation, Race Point Publishing. 2015, p. 109
+↑ Electricity, a Popular Electrical Journal, Volume 13, No. 4, 4 August 1897, Electricity Newspaper Company, pp. 50 Google Books Archived 28 May 2023 at the Wayback Machine
+↑ Rybak, James P. (November 1999). "Nikola Tesla: Scientific Savant from the Tesla Universe Article Collection". Popular Electronics: 40–48 & 88. Archived from the original on 26 February 2019. Retrieved 21 January 2017.
+↑ Carlson, W. Bernard (2013). Tesla: Inventor of the Electrical Age, Princeton University Press, p. 218
+↑ "Laboratories in New York (1889–1902)". Open Tesla Research. Archived from the original on 20 August 2018. Retrieved 21 January 2017.
+↑ Carlson 2013, p. 120.
+↑ Carlson 2013, p. 122.
+↑ "Tesla coil". Museum of Electricity and Magnetism, Center for Learning. National High Magnetic Field Laboratory website, Florida State Univ. 2011. Archived from the original on 23 September 2015. Retrieved 12 September 2013.
+↑ Carlson 2013, p. 124.
+↑ Burnett, Richie (2008). "Operation of the Tesla Coil". Richie's Tesla Coil Web Page. Richard Burnett private website. Archived from the original on 20 July 2015. Retrieved 24 July 2015.
+↑ Tesla, Nikola (20 May 1891). Experiments with Alternate Currents of Very High Frequency and Their Application to Methods of Artificial Illumination. Archived from the original on 6 March 2023. Retrieved 21 January 2017., lecture delivered before the American Institute of Electrical Engineers, Columbia College, New York. Reprinted as a book of the same name by. Wildside Press. 2006. ISBN 0-8095-0162-7. Archived from the original on 23 March 2024. Retrieved 21 January 2017.
+↑ Carlson 2013, p. 132.
+↑ Christopher Cooper (2015). The Truth About Tesla: The Myth of the Lone Genius in the History of Innovation, Race Point Publishing, pp. 143–144
+↑ Carlson 2013, pp. 178–179.
+↑ Orton, John (2004). The Story of Semiconductors. Oxford, England: Oxford University Press. p. 53.
+↑ "Naturalization Record of Nikola Tesla, 30 July 1891". Archived from the original on 24 October 2021. Retrieved 24 October 2021., Naturalization Index, NYC Courts, referenced in Carlson (2013), Tesla: Inventor of the Electrical Age, p. H-41
+↑ Carlson 2013, p. 138.
+↑ Uth, Robert (12 December 2000). "Tesla coil". Tesla: Master of Lightning. PBS.org. Archived from the original on 5 September 2019. Retrieved 20 May 2008.
+↑ Corum, Kenneth L. & Corum, James F. "Tesla's Connection to Columbia University" (PDF). Tesla Memorial Society of NY. Archived (PDF) from the original on 18 November 2017. Retrieved 5 July 2012.
+↑ Carlson 2013, p. 166.
+↑ Carlson 2013, p. 167.
+↑ Moran, Richard (2007). Executioner's Current: Thomas Edison, George Westinghouse, and the Invention of the Electric Chair. Knopf Doubleday Publishing Group. p. 222.
+↑ Rosenberg, Chaim M. (20 February 2008). America at the Fair: Chicago's 1893 World's Columbian Exposition. Arcadia Publishing. ISBN 978-0-7385-2521-1. Archived from the original on 23 March 2024. Retrieved 3 November 2021.
+↑ Bertuca, David J.; Hartman, Donald K. & Neumeister, Susan M. (1996). The World's Columbian Exposition: A Centennial Bibliographic Guide. Bloomsbury Academic. pp. xxi. ISBN 978-0-313-26644-7. Archived from the original on 23 March 2024. Retrieved 10 September 2012.
+↑ Hugo Gernsback, "Tesla's Egg of Columbus, How Tesla Performed the Feat of Columbus Without Cracking the Egg" Electrical Experimenter, 19 March 1919, p. 774 Archived 27 March 2020 at the Wayback Machine
+↑ Thomas Commerford Martin, The Inventions, Researches and Writings of Nikola Tesla: With Special Reference to His Work in Polyphase Currents and High Potential Lighting, Electrical Engineer – 1894, Chapter XLII, page 485
+↑ Cheney 2001, p. 76.
+↑ Cheney 2001, p. 79.
+↑ Barrett, John Patrick (1894). Electricity at the Columbian Exposition; Including an Account of the Exhibits in the Electricity Building, the Power Plant in Machinery Hall. R. R. Donnelley. pp. 268–269. Retrieved 29 November 2010.
+↑ Carlson 2013, p. 182.
+↑ Carlson 2013, pp. 181–185.
+↑ Reciprocating Engine, U.S. patent 514,169, 6 February 1894.
+↑ Carlson 2013, pp. 167–173.
+↑ Carlson 2013, pp. 205–206.
+↑ Mr. Tesla's Great Loss, All of the Electrician's Valuable Instruments Burned, Work of Half a Lifetime Gone, New York Times, 14 March 1895 (archived at teslauniverse.com Archived 28 June 2022 at the Wayback Machine)
+↑ Tesla, Nikola (2007). X-ray vision: Nikola Tesla on Roentgen rays (1st ed.). Radford, VA: Wiilder Publications. ISBN 978-1-934451-92-2.
+↑ Cheney 2001, p. 134.
+↑ Tesla, Nikola (17 November 1898). "High Frequency Oscillators for Electro-Therapeutic and Other Purposes". Proceedings of the American Electro-Therapeutic Association. American Electro-Therapeutic Association. p. 25. Archived from the original on 1 January 2016. Retrieved 27 January 2009.
+↑ Griffiths, David J. Introduction to Electrodynamics, ISBN 0-13-805326-X and Jackson, John D. Classical Electrodynamics, ISBN 0-471-30932-X.
+↑ Transactions of the American Electro-therapeutic Association. American Electrotherapeutic Association. 1899. p. 16. Archived from the original on 23 March 2024. Retrieved 25 November 2010.
+↑ W. Bernard Carlson, Tesla: Inventor of the Electrical Age, Princeton University Press – 2013, p. 231.
+↑ Jonnes 2004.
+↑ Singer, P. W. (2009). Wired for War: The Robotics Revolution and Conflict in the Twenty-first Century. Penguin. ISBN 978-1-4406-8597-2. Archived from the original on 23 March 2024. Retrieved 10 September 2012 – via Google Books.
+↑ Carlson 2013, p. 127.
+1 2 3 4 White, Thomas H. (1 November 2012). "Nikola Tesla: The Guy Who Didn't 'Invent Radio'". earlyradiohistory.us. Archived from the original on 15 November 2019. Retrieved 20 February 2018.
+↑ Carlson 2013, pp. 127–128.
+↑ Carlson 2013, p. 209.
+↑ "Tesla on Electricity Without Wires," Electrical Engineer – N.Y., 8 January 1896, p. 52. (Refers to letter by Tesla in the New York Herald, 31 December 1895.)
+↑ Mining & Scientific Press, "Electrical Progress" Nikola Tesla Is Credited With Statement", 11 April 1896
+↑ Cheney, Uth & Glenn 1999, p. 92.
+↑ "PBS: Tesla – Master of Lightning: Colorado Springs". pbs.org. Archived from the original on 7 July 2017. Retrieved 6 September 2017.
+↑ Carlson 2013, p. 264.
+1 2 Nikola Tesla on his Work with Alternating Currents and their Application to Wireless Telegraphy, Telephony, and Transmission of Power, Leland I. Anderson, 21st Century Books, 2002, p. 109, ISBN 1-893817-01-6.
+↑ Carlson 2013, pp. 255–259.
+↑ Cheney 2001, p. 173.
+↑ Carlson 2013, pp. 290–301.
+↑ Gillispie, Charles Coulston, "Dictionary of Scientific Biography;" Tesla, Nikola. Charles Scribner's Sons, New York.
+↑ Secor, H. Winfield (August 1917). "Tesla's views on electricity and the war". The Electrical Experimenter. Archived from the original on 10 February 2011. Retrieved 9 September 2012.
+↑ Carlson 2013, p. 301.
+↑ Cooper 2015, p. 165.
+↑ Daniel Blair Stewart (1999). Tesla: The Modern Sorcerer, Frog Book. p. 372
+1 2 3 4 Carlson 2013, p. 315.
+↑ "Research of Nikola Tesla in Long Island Laboratory". Archived from the original on 6 May 2016. Retrieved 26 January 2017.
+↑ "Tesla Wardenclyffe Project Update – An Introduction to the Issues". www.teslascience.org. 22 June 2023. Archived from the original on 21 January 2017. Retrieved 26 January 2017.
+1 2 Broad, William J (4 May 2009). "A Battle to Preserve a Visionary's Bold Failure". The New York Times. Archived from the original on 25 July 2018. Retrieved 20 May 2013.
+↑ Malanowski, Gregory, The Race for Wireless, AuthorHouse, p. 35
+↑ Tesla, Nikola (8 December 2017). Nikola Tesla on His Work with Alternating Currents and Their Application to Wireless Telegraphy, Telephony, and Transmission of Power: An Extended Interview. 21st Century Books. ISBN 978-1-893817-01-2. Archived from the original on 23 March 2024. Retrieved 18 November 2020.
+↑ Carlson 2013, pp. 373–375.
+↑ Carlson 2013, p. 371.
+↑ Carlson 2013, p. 373.
+↑ Cheney, Uth & Glenn 1999, p. 115.
+1 2 Carlson 2013, p. 377.
+↑ Howard B. Rockman, Intellectual Property Law for Engineers and Scientists, John Wiley & Sons – 2004, p. 198.
+↑ "Marconi Wireless Tel. Co. v. United States, 320 U.S. 1 (1943)". Justia Law. Archived from the original on 25 June 2017. Retrieved 29 January 2017.
+↑ Carlson 2013, p. 377-378.
+↑ Redouté, Jean-Michel; Steyaert, Michiel (10 October 2009). Jean-Michel Redouté, Michiel Steyaert, EMC of Analog Integrated Circuits. Springer. p. 3. ISBN 978-90-481-3230-0. Archived from the original on 23 March 2024. Retrieved 18 March 2013.
+↑ Sobot, Robert (18 February 2012). Robert Sobot, Wireless Communication Electronics:Introduction to RF Circuits and Design Techniques. Springer. p. 4. ISBN 978-1-4614-1116-1. Archived from the original on 23 March 2024. Retrieved 18 March 2013.
+↑ Anand Kumar Sethi (2016). The European Edisons: Volta, Tesla, and Tigerstedt, Springer. pp. 53–54
+↑ Carlson 2013, p. 353.
+↑ Gilliams, E. Leslie (1912). "Tesla's Plan of Electrically Treating Schoolchildren". Popular Electricity Magazine. Archived from the original on 9 January 2015. Retrieved 19 August 2014 – via teslacollection.com.
+↑ Margaret Cheney, Robert Uth, Jim Glenn, Tesla, Master of Lightning, pp. 128–129
+↑ Coe, Lewis (8 February 2006). Lewis Coe (2006). Wireless Radio: A History. McFarland. p. 154. McFarland. ISBN 978-0-7864-2662-1.
+↑ Cheney 2001, p. 266.
+↑ Tesla, Nikola. "Tesla Patent 1,655,114 Apparatus for Aerial Transportation". U.S. Patent Office. Archived from the original on 20 July 2012. Retrieved 20 July 2012.
+↑ Cheney 2001, p. 251.
+↑ "'Nikola Tesla's Curious Contrivance' by A.J.S. RAYL Air & Space magazine, September 2006, reprint at History of Flight". airspacemag.com. Archived from the original on 27 January 2022. Retrieved 10 September 2012.
+↑ Cheney, Uth & Glenn 1999, p. 125.
+↑ Carlson 2013, p. 467-468.
+↑ "About Nikola Tesla". Tesla Memorial Society of NY. Archived from the original on 25 May 2012. Retrieved 5 July 2012.
+↑ "Tesla Life and Legacy – Poet and Visionary". PBS. Archived from the original on 8 July 2012. Retrieved 5 July 2012.
+↑ "About Nikola Tesla". Tesla Society of USA and Canada. Archived from the original on 25 May 2012. Retrieved 5 July 2012.
+1 2 Cheney, Uth & Glenn 1999, p. 135.
+↑ Jonnes 2004, p. 365.
+↑ Cheney, Uth & Glenn 1999, p. 149
+↑ Carlson 2013, p. 379.
+↑ Kent, David J. (10 July 2012). "Happy Birthday, Nikola Tesla – A Scientific Rock Star is Born". Science Traveler. Archived from the original on 26 January 2019. Retrieved 26 January 2019.
+↑ "Time front cover, Vol XVIII, No. 3". 20 July 1931. Archived from the original on 7 July 2018. Retrieved 10 September 2012.
+↑ "Nikola Tesla". Time. Archived from the original on 8 July 2007. Retrieved 2 July 2012.
+↑ Cheney 2001, p. 151.
+1 2 3 4 Carlson 2013, pp. 380–382.
+↑ Tesla Predicts New Source of Power in Year, New York Herald Tribune, 9 July 1933
+↑ "Tesla's Ray". Time. 23 July 1934.
+↑ Cheney, Margaret & Uth, Robert, Tesla: Master of Lightning. Barnes & Noble Books.-1999 p. 144
+↑ Joseph W. Alsop, Jr. Beam to Kill Army at 200 Miles, Tesla's Claim on 78th Birthday – Death Ray Also Available as Power Agent in Peace Times, Inventor Declares, New York Herald Tribune, July 11, 1934, pp. 1, 15
+↑ "Death Ray" for Planes, New York Times, September 22nd, 1940
+↑ Coulon, Jessica (14 June 2023). "Did the U.S. Government Really Steal Nikola Tesla's Research Papers?". Popular Mechanics. Archived from the original on 26 June 2023. Retrieved 26 June 2023.
+↑ Cheney, Margaret & Uth, Robert, Tesla: Master of Lightning. Barnes & Noble Books.-1999 pp. 145–147
+↑ "Aerial Defense 'Death-Beam' Offered to U.S. By Tesla" 12 July 1940
+↑ Carlson 2013, p. 382.
+1 2 Earl Sparling, Nikola Tesla, at 79, Uses Earth to Transmit Signals: Expects to Have $100,000,000 within Two Years, New York World-Telegram, 11 July 1935
+↑ Carlson 2013, p. 380.
+↑ Anderson, Leland (1998). Nikola Tesla's teleforce & telegeodynamics proposals. Breckenridge, Colo.: 21st Century Books. ISBN 0-9636012-8-8.
+1 2 Goldman, Phyllis (1997). Monkeyshines on Great Inventors. Greensboro, NC: EBSCO Publishing, Inc. p. 15. ISBN 978-1-888325-04-1. Archived from the original on 23 March 2024. Retrieved 14 May 2020.
+↑ Acović, Dragomir (2012). Slava i čast: Odlikovanja među Srbima, Srbi među odlikovanjima. Belgrade: Službeni Glasnik. p. 85.
+↑ "APS Member History". American Philosophical Society. Archived from the original on 11 March 2024. Retrieved 11 March 2024.
+↑ "IEEE Edison Medal Recipient List" (PDF). Institute of Electrical and Electronics Engineers (IEEE). Archived from the original (PDF) on 28 January 2021. Retrieved 4 June 2022.
+↑ "Culture". www.eserbia.org. Archived from the original on 13 February 2017. Retrieved 16 January 2017.
+↑ Stanković, Dario (9 July 2011). "Prošlo 155 godina od rođenja Nikole Tesle a njegova djela postaju sve veća". Nezavisne novine (in Serbian). Retrieved 15 July 2025.
+↑ Cheney 2011, p. 312.
+↑ Carlson 2013, p. 389.
+↑ Fraga, Kaleena (October 2023). "How Did Nikola Tesla Die? The Story Of The Famed Inventor's Tragic Demise". All That's Interesting. Retrieved 15 July 2025.
+↑ Cheney 2011, p. 324.
+↑ Carlson 2013, pp. 391–392.
+↑ Carlson 2013, pp. 392.
+↑ "The Missing Papers". PBS. 24 January 2001. Archived from the original on 24 January 2001. Retrieved 5 July 2012.
+↑ "Mayor Fiorello LaGuardia's Eulogy to Nikola Tesla on January 10, 1943". Tesla Memorial Society of New York. Retrieved 15 July 2025.
+1 2 Cheney 2001, p. 33.
+1 2 "Famous Friends". Tesla Memorial Society of NY. Archived from the original on 28 November 2010. Retrieved 4 July 2012.
+↑ "Stanford White". Tesla Memorial Society of NY. Archived from the original on 28 November 2010. Retrieved 4 July 2012.
+↑ Swezey, Kenneth M., Papers 1891–1982, vol. 47, National Museum of American History, archived from the original on 5 May 2012, retrieved 4 July 2012
+↑ "Tribute to Nikola Tesla". Tesla Memorial Society of NY. Archived from the original on 13 June 2011. Retrieved 4 July 2012.
+↑ "Nikola Tesla at Wardenclyffe". Tesla Memorial Society of NY. Archived from the original on 29 November 2010. Retrieved 4 July 2012.
+↑ "Nikola Tesla: The patron saint of geeks?". News Magazine. BBC. 10 September 2012. Archived from the original on 10 September 2012. Retrieved 10 September 2012.
+↑ Kak, S. (2017) Tesla, wireless energy transmission and Vivekananda. Current Science, vol. 113, 2207–2210.
+↑ Paranjape, Makarand R. (12 June 2015). Swami Vivekananda: A Contemporary Reader edited by Makarand R. Paranjape. Routledge. ISBN 978-1-317-44636-1. Archived from the original on 23 March 2024. Retrieved 4 May 2021.
+↑ "Nikola Tesla and Swami Vivekananda". www.teslasociety.com. Archived from the original on 20 December 2022. Retrieved 20 December 2022.
+↑ Walia, Arjun. "The Influence Vedic Philosophy Had on Nikola Tesla's Idea of Free Energy". SAND. Archived from the original on 20 December 2022. Retrieved 20 December 2022.
+↑ "(PDF) Tesla (1930)-Man's Greatest Achievement.pdf". dokumen.tips. Archived from the original on 20 December 2022. Retrieved 20 December 2022.
+↑ Cheney, Margaret & Uth, Robert (2001). Tesla: Master of Lightning. Barnes & Noble Books. p. 137.
+↑ Johnson, Neil M. George Sylvester Viereck: Poet and Propagandist. Neil M. Johnson.
+↑ Cheney 2001, p. 110.
+↑ Biographiq (2008). Thomas Edison: Life of an Electrifying Man. Filiquarian Publishing, LLC. p. 23. ISBN 978-1-59986-216-3.
+↑ "},"title":{"wt":"Tesla says Edison was an empiricist"},"date":{"wt":"19 October 1931"},"work":{"wt":"New York Times"},"page":{"wt":"27"},"url":{"wt":"https://timesmachine.nytimes.com/timesmachine/1931/10/19/issue.html"},"access-date":{"wt":"15 January 2024"},"ref":{"wt":"none"},"archive-date":{"wt":"23 March 2024"},"archive-url":{"wt":"https://web.archive.org/web/20240323124240/https://timesmachine.nytimes.com/timesmachine/1931/10/19/issue.html"},"url-status":{"wt":"live"}},"i":0}}]}'/>"Tesla says Edison was an empiricist". New York Times. 19 October 1931. p. 27. Archived from the original on 23 March 2024. Retrieved 15 January 2024.
+↑ Gitelman, Lisa (1 November 1997). "Reconciling the Visionary with the Inventor Wizard: The Life and Times of Nikola Tesla". technology review (MIT). Archived from the original on 22 September 2020. Retrieved 3 June 2012.
+↑ Jonnes 2004, p. 154.
+↑ Belohlavek, Peter; Wagner, John W (2008). Innovation: The Lessons of Nikola Tesla. Blue Eagle. p. 43. ISBN 978-987-651-009-7. This was Tesla: a scientist, philosopher, humanist, and ethical man of the world in the truest sense.
+↑ "A Machine to End War". Public Broadcasting Service. February 1937. Archived from the original on 20 January 2022. Retrieved 23 November 2010.
+↑ Kennedy, John B., "When woman is boss Archived 6 June 2011 at the Wayback Machine, An interview with Nikola Tesla." Colliers, 30 January 1926.
+↑ Tesla, Nikola. "Science and Discovery are the great Forces which will lead to the Consummation of the War". Rastko. Archived from the original on 2 April 2015. Retrieved 17 July 2012.
+1 2 Tesla, Nikola (February 1937). George Sylvester Viereck (ed.). "A Machine to End War". PBS.org. Archived from the original on 20 January 2022. Retrieved 27 July 2012.
+↑ "Nikola Tesla Bibliography". 21st Century Books. Archived from the original on 27 September 2015. Retrieved 21 April 2011.
+↑ "Selected Tesla writings". Nikola Tesla Information Resource. Archived from the original on 30 January 2009. Retrieved 15 March 2008.
+↑ "The problem of increasing human energy". Twenty-First Century Books. Archived from the original on 20 November 2019. Retrieved 21 April 2011.
+↑ Tesla, Nikola. The Project Gutenberg eBook, Experiments with Alternate Currents of High Potential and High Frequency, by Nikola Tesla. Project Gutenberg. Archived from the original on 16 September 2011. Retrieved 21 April 2011.
+↑ Tesla, Nikola. "Experiments with alternate currents of high potential and high frequency". Twenty-First Century Books. Archived from the original on 19 September 2015. Retrieved 21 April 2011.
+↑ "Urn with Tesla's ashes". Tesla Museum. Archived from the original on 25 August 2012. Retrieved 16 September 2012.
+↑ "Nikola Tesla's Archive". Archived from the original on 3 December 2024. Retrieved 24 December 2024.
+↑ "Archive – Nikola Tesla Museum". Archived from the original on 8 December 2024. Retrieved 24 December 2024.
+1 2 Šarboh, Snežana (18–20 October 2006). "Nikola Tesla's Patents" (PDF). Sixth International Symposium Nikola Tesla. Belgrade, Serbia. p. 6. Archived from the original (PDF) on 30 October 2007. Retrieved 8 October 2010.
+↑ Cheney 2001, p. 62.
+References
+Carlson, W. Bernard (2013). Tesla: Inventor of the Electrical Age. Princeton University Press. ISBN 978-1-4008-4655-9. Archived from the original on 5 August 2023. Retrieved 2 June 2015.
+Cheney, Margaret (2011). Tesla: Man out of Time. Simon & Schuster. ISBN 978-1-4516-7486-6. Archived from the original on 23 March 2024. Retrieved 13 December 2015.
+Cheney, Margaret (2001) [1981]. Tesla: Man out of Time. Simon & Schuster. ISBN 978-0-7432-1536-7. Archived from the original on 23 March 2024. Retrieved 14 May 2020.
+Cheney, Margaret; Uth, Robert; Glenn, Jim (1999). Tesla, Master of Lightning. Barnes & Noble Books. ISBN 978-0-7607-1005-0. Archived from the original on 23 March 2024. Retrieved 21 June 2015.
+Cooper, Christopher (2015). The truth about Tesla : The myth of the lone genius in the history of innovation. New York: Race Point Publishing. ISBN 978-1-63106-030-4.
+Dommermuth-Costa, Carol (1994). Nikola Tesla: A Spark of Genius. Twenty-First Century Books. ISBN 978-0-8225-4920-8. Archived from the original on 23 March 2024. Retrieved 13 December 2015.
+Jonnes, Jill (2004). Empires of Light: Edison, Tesla, Westinghouse, and the Race to Electrify the World. Random House Trade Paperbacks. ISBN 978-0-375-75884-3. Archived from the original on 23 March 2024. Retrieved 13 December 2015.
+Klooster, John W. (2009). Icons of Invention: The Makers of the Modern World from Gutenberg to Gates. ABC-CLIO. ISBN 978-0-313-34743-6. Archived from the original on 23 March 2024. Retrieved 13 December 2015.
+Pickover, Clifford A. (1999). Strange Brains and Genius: The Secret Lives of Eccentric Scientists and Madmen. HarperCollins. ISBN 978-0-688-16894-0. Archived from the original on 23 March 2024. Retrieved 13 December 2015.
+Petešić, Ćiril (1976). Genij s našeg kamenjara: život i djelo Nikole Tesle [The genius from our rocks: life and work of Nikola Tesla] (in Croatian). Zagreb: Školske novine. OCLC 36439558.
+Skrabec, Quentin R. (2007). George Westinghouse: Gentle Genius. New York: Algora Publishing. ISBN 978-0-87586-506-5.
+Van Riper, A. Bowdoin (2011). A Biographical Encyclopedia of Scientists and Inventors in American Film and TV since 1930. Scarecrow Press. ISBN 978-0-8108-8128-0.
+Wohinz, Josef W. (2019). "Nikola Tesla: Milestones in his life". In Schichler, Uwe; Wohinz, Josef W. (eds.). Nikola Tesla and the Graz Tech. Vol. 7 EN. Graz University of Technology/Library and Archive. doi:10.3217/978-3-85125-687-1. ISBN 978-3-85125-688-8.
+Further reading
+Library resources about
+Nikola Tesla
+Resources in your library
+Resources in other libraries
+By Nikola Tesla
+Resources in your library
+Resources in other libraries
+Books
+\n* Glenn, Jim (1994). ''The Complete Patents of Nikola Tesla''. ",{"template":{"target":{"wt":"ISBN","href":"./Template:ISBN"},"params":{"1":{"wt":"978-1-56619-266-8"}},"i":1}},".\n* [[Robert Lomas|Lomas, Robert]] (1999). ''[[The Man Who Invented the Twentieth Century]]: Nikola Tesla, forgotten genius of electricity''. London: Headline. ",{"template":{"target":{"wt":"ISBN","href":"./Template:ISBN"},"params":{"1":{"wt":"978-0-7472-7588-6"}},"i":2}},".\n* [[Thomas Commerford Martin|Martin, Thomas C. (editor)]] (1894, 1996 reprint, copyright expired), ''[[The Inventions, Researches, and Writings of Nikola Tesla]]'', includes some lectures, Montana: Kessinger. ",{"template":{"target":{"wt":"ISBN","href":"./Template:ISBN"},"params":{"1":{"wt":"978-1-56459-711-3"}},"i":3}},".\n* ",{"template":{"target":{"wt":"cite book ","href":"./Template:Cite_book"},"params":{"last1":{"wt":"Peat"},"first1":{"wt":"F. David"},"author-link1":{"wt":"F. David Peat"},"title":{"wt":"[[In Search of Nikola Tesla]]"},"date":{"wt":"2002"},"publisher":{"wt":"Ashgrove"},"location":{"wt":"Bath"},"isbn":{"wt":"978-1-85398-117-3"},"edition":{"wt":"Revised"}},"i":4}},"\n* ",{"template":{"target":{"wt":"Anchor","href":"./Template:Anchor"},"params":{"1":{"wt":"Autobiography"}},"i":5}}," Tesla, Nikola, ''[[My Inventions]],'' Parts I through V published in the ''Electrical Experimenter'' monthly magazine from February through June 1919. Part VI published October 1919. Reprint edition with introductory notes by Ben Johnson, New York: Barnes and Noble, 1982; also online at ''[http://www.lucidcafe.com/library/96jul/teslaauto01.html Lucid Cafe]''; ",{"template":{"target":{"wt":"Webarchive","href":"./Template:Webarchive"},"params":{"url":{"wt":"https://web.archive.org/web/20160202014045/http://www.lucidcafe.com/library/96jul/teslaauto01.html"},"date":{"wt":"2 February 2016"}},"i":6}},", [http://www.tfcbooks.com/special/mi_link.htm et cetera]. ",{"template":{"target":{"wt":"Webarchive","href":"./Template:Webarchive"},"params":{"url":{"wt":"https://web.archive.org/web/20160126224720/http://www.tfcbooks.com/special/mi_link.htm"},"date":{"wt":"26 January 2016"}},"i":7}}," as ''[[My Inventions: The Autobiography of Nikola Tesla]]'', 1919. ",{"template":{"target":{"wt":"ISBN","href":"./Template:ISBN"},"params":{"1":{"wt":"978-0-910077-00-2"}},"i":8}},".\n* Trinkaus, George (2002). ''Tesla: The Lost Inventions'', High Voltage Press. ",{"template":{"target":{"wt":"ISBN","href":"./Template:ISBN"},"params":{"1":{"wt":"978-0-9709618-2-2"}},"i":9}},".\n* Valone, Thomas (2002). ''Harnessing the Wheelwork of Nature: Tesla's Science of Energy''. ",{"template":{"target":{"wt":"ISBN","href":"./Template:ISBN"},"params":{"1":{"wt":"978-1-931882-04-0"}},"i":10}},".\n",{"template":{"target":{"wt":"Refend","href":"./Template:Refend"},"params":{},"i":11}}]}'>
+Glenn, Jim (1994). The Complete Patents of Nikola Tesla. ISBN 978-1-56619-266-8.
+Lomas, Robert (1999). The Man Who Invented the Twentieth Century: Nikola Tesla, forgotten genius of electricity. London: Headline. ISBN 978-0-7472-7588-6.
+Martin, Thomas C. (editor) (1894, 1996 reprint, copyright expired), The Inventions, Researches, and Writings of Nikola Tesla, includes some lectures, Montana: Kessinger. ISBN 978-1-56459-711-3.
+Peat, F. David (2002). In Search of Nikola Tesla (Revised ed.). Bath: Ashgrove. ISBN 978-1-85398-117-3.
+Tesla, Nikola, My Inventions, Parts I through V published in the Electrical Experimenter monthly magazine from February through June 1919. Part VI published October 1919. Reprint edition with introductory notes by Ben Johnson, New York: Barnes and Noble, 1982; also online at Lucid Cafe; Archived 2 February 2016 at the Wayback Machine, et cetera. Archived 26 January 2016 at the Wayback Machine as My Inventions: The Autobiography of Nikola Tesla, 1919. ISBN 978-0-910077-00-2.
+Trinkaus, George (2002). Tesla: The Lost Inventions, High Voltage Press. ISBN 978-0-9709618-2-2.
+Valone, Thomas (2002). Harnessing the Wheelwork of Nature: Tesla's Science of Energy. ISBN 978-1-931882-04-0.
+Publications
+A New System of Alternating Current Motors and Transformers, American Institute of Electrical Engineers, May 1888.
+Selected Tesla Writings, Scientific papers and articles written by Tesla and others, spanning the years 1888–1940.
+"Light Without Heat"; Archived 16 March 2022 at the Wayback Machine, The Manufacturer and Builder, January 1892, Vol. 24
+Biography: "Nikola Tesla"; Archived 9 May 2006 at the Wayback Machine, The Century Magazine, November 1893, Vol. 47
+"Tesla's Oscillator and Other Inventions"; Archived 9 May 2006 at the Wayback Machine, The Century Magazine, November 1894, Vol. 49
+"The New Telegraphy. Recent Experiments in Telegraphy with Sparks"; Archived 16 March 2022 at the Wayback Machine, The Century Magazine, November 1897, Vol. 55
+Journals
+\n* Anderson, L. I., \"Priority in Invention of Radio, Tesla v. Marconi\". Antique Wireless Association monograph, March 1980.\n* Anderson, L. I., \"John Stone Stone on Nikola Tesla's Priority in Radio and Continuous Wave Radiofrequency Apparatus\". [[The AWA Review]], Vol. 1, 1986, pp. 18–41.\n* Carlson, W. Bernard, \"Inventor of dreams\". ''[[Scientific American]]'', March 2005 Vol. 292 Issue 3 p. 78(7).\n* Corum, K. L., J. F. Corum, ''Nikola Tesla, Lightning Observations, and Stationary Waves''. 1994.\n* Corum, K. L., J. F. Corum, and A. H. Aidinejad, ''Atmospheric Fields, Tesla's Receivers and Regenerative Detectors''. 1994.\n* Florey, Glen, \"Tesla and the Military\". ''Engineering'' 24, 5 December 2000.\n* Lawren, B., \"Rediscovering Tesla\". ''[[Omni (magazine)|Omni]]'', March 1988, Vol. 10 Issue 6.\n* Marincic, A., and D. Budimir, \"Tesla's contribution to radiowave propagation\". Dept. of Electron. Eng., Belgrade Univ. (5th International Conference on Telecommunications in Modern Satellite, Cable and Broadcasting Service, 2001. TELSIKS 2001. pp. 327–331 vol.1)\n* [[Thomas Commerford Martin|Martin, Thomas Commerford]], \"The Inventions, Researches, and Writings of Nikola Tesla\", New York: The Electrical Engineer, 1894 (3rd Ed.); reprinted by Barnes & Noble, 1995\n* ",{"template":{"target":{"wt":"cite journal ","href":"./Template:Cite_journal"},"params":{"last":{"wt":"Pavićević"},"first":{"wt":"Aleksandra"},"title":{"wt":"From lighting to dust death, funeral and post mortem destiny of Nikola Tesla"},"journal":{"wt":"Glasnik Etnografskog instituta SANU"},"year":{"wt":"2014"},"volume":{"wt":"62"},"issue":{"wt":"2"},"pages":{"wt":"125–139"},"url":{"wt":"http://www.doiserbia.nb.rs/ft.aspx?id=0350-08611402125P"},"doi":{"wt":"10.2298/GEI1402125P"},"doi-access":{"wt":"free"},"hdl":{"wt":"21.15107/rcub_dais_8218"},"hdl-access":{"wt":"free"},"issn":{"wt":"0350-0861"}},"i":1}},"\n* [[Anil K. Rajvanshi]], [https://web.archive.org/web/20150109004451/http://www.ias.ac.in/resonance/Volumes/12/03/0004-0012.pdf \"Nikola Tesla – The Creator of Electric Age\"], ''Resonance'', March 2007.\n* Roguin, Ariel, \"Historical Note: Nikola Tesla: The man behind the magnetic field unit\". J. Magn. Reson. Imaging 2004;19:369–374. 2004 Wiley-Liss, Inc.\n* Secor, H. Winfield, \"Tesla's views on Electricity and the War\", Electrical Experimenter, Volume 5, Number 4 August 1917.\n* Sellon, J. L., \"The impact of Nikola Tesla on the cement industry\". Behrent Eng. Co., Wheat Ridge, Colorado. Cement Industry Technical Conference. 1997. XXXIX Conference Record., 1997 IEEE/PC. Page(s) 125–133.\n* Thibault, Ghislain, \"The Automatization of Nikola Tesla: Thinking Invention in the Late Nineteenth Century\". ''[https://muse.jhu.edu/article/519919 Configurations] ",{"template":{"target":{"wt":"Webarchive","href":"./Template:Webarchive"},"params":{"url":{"wt":"https://web.archive.org/web/20180328103312/https://muse.jhu.edu/article/519919"},"date":{"wt":"28 March 2018"}},"i":2}},"'', Volume 21, Number 1, Winter 2013, pp. 27–52.\n* Valentinuzzi, M.E., \"Nikola Tesla: why was he so much resisted and forgotten?\" Inst. de Bioingenieria, Univ. Nacional de Tucuman; Engineering in Medicine and Biology Magazine, IEEE. July/August 1998, 17:4, pp. 74–75.\n",{"template":{"target":{"wt":"Refend","href":"./Template:Refend"},"params":{},"i":3}}]}'>
+Anderson, L. I., "Priority in Invention of Radio, Tesla v. Marconi". Antique Wireless Association monograph, March 1980.
+Anderson, L. I., "John Stone Stone on Nikola Tesla's Priority in Radio and Continuous Wave Radiofrequency Apparatus". The AWA Review, Vol. 1, 1986, pp. 18–41.
+Carlson, W. Bernard, "Inventor of dreams". Scientific American, March 2005 Vol. 292 Issue 3 p. 78(7).
+Corum, K. L., J. F. Corum, Nikola Tesla, Lightning Observations, and Stationary Waves. 1994.
+Corum, K. L., J. F. Corum, and A. H. Aidinejad, Atmospheric Fields, Tesla's Receivers and Regenerative Detectors. 1994.
+Florey, Glen, "Tesla and the Military". Engineering 24, 5 December 2000.
+Lawren, B., "Rediscovering Tesla". Omni, March 1988, Vol. 10 Issue 6.
+Marincic, A., and D. Budimir, "Tesla's contribution to radiowave propagation". Dept. of Electron. Eng., Belgrade Univ. (5th International Conference on Telecommunications in Modern Satellite, Cable and Broadcasting Service, 2001. TELSIKS 2001. pp. 327–331 vol.1)
+Martin, Thomas Commerford, "The Inventions, Researches, and Writings of Nikola Tesla", New York: The Electrical Engineer, 1894 (3rd Ed.); reprinted by Barnes & Noble, 1995
+Pavićević, Aleksandra (2014). "From lighting to dust death, funeral and post mortem destiny of Nikola Tesla". Glasnik Etnografskog instituta SANU. 62 (2): 125–139. doi:10.2298/GEI1402125P. hdl:21.15107/rcub_dais_8218. ISSN 0350-0861.
+Anil K. Rajvanshi, "Nikola Tesla – The Creator of Electric Age", Resonance, March 2007.
+Roguin, Ariel, "Historical Note: Nikola Tesla: The man behind the magnetic field unit". J. Magn. Reson. Imaging 2004;19:369–374. 2004 Wiley-Liss, Inc.
+Secor, H. Winfield, "Tesla's views on Electricity and the War", Electrical Experimenter, Volume 5, Number 4 August 1917.
+Sellon, J. L., "The impact of Nikola Tesla on the cement industry". Behrent Eng. Co., Wheat Ridge, Colorado. Cement Industry Technical Conference. 1997. XXXIX Conference Record., 1997 IEEE/PC. Page(s) 125–133.
+Thibault, Ghislain, "The Automatization of Nikola Tesla: Thinking Invention in the Late Nineteenth Century". Configurations Archived 28 March 2018 at the Wayback Machine, Volume 21, Number 1, Winter 2013, pp. 27–52.
+Valentinuzzi, M.E., "Nikola Tesla: why was he so much resisted and forgotten?" Inst. de Bioingenieria, Univ. Nacional de Tucuman; Engineering in Medicine and Biology Magazine, IEEE. July/August 1998, 17:4, pp. 74–75.
+External links
+Nikola Tesla at Wikipedia's sister projects
+Media from Commons
+Quotations from Wikiquote
+Texts from Wikisource
+Textbooks from Wikibooks
+External videos Booknotes interview with Jill Jonnes on Empires of Light, 26 October 2003, C-SPAN
+Listen to this article
+(2 parts, 1 hour and 42 minutes)
+These audio files were created from a revision of this article dated 19 June 2021 (2021-06-19), and do not reflect subsequent edits.(Audio help · More spoken articles)
+Tesla memorial society by his grand-nephew William H. Terbo
+FBI. "Nikola Tesla" (PDF). Main Investigative File. FBI.
+Tesla Science Center at Wardenclyffe
+Works by Nikola Tesla at Project Gutenberg
+Works by or about Nikola Tesla at the Internet Archive
+Works by Nikola Tesla at LibriVox (public domain audiobooks)
+"Tesla's pigeon" – Amanda Gefter
+v
+t
+e
+Nikola TeslaCareer and
+inventions
+Patents
+Plasma lamp
+plasma globe
+Polyphase system
+Alternating-current commutatorless induction motor
+Tesla Experimental Station
+Teleforce
+Telegeodynamics
+Tesla coil
+history
+Wireless power
+Resonant inductive coupling
+Radio control
+Tesla turbine
+Tesla's oscillator
+Tesla valve
+Three-phase electric power
+Wardenclyffe Tower
+Tesla Electric Light and Manufacturing
+Writings
+The Inventions, Researches, and Writings of Nikola Tesla
+Colorado Springs Notes, 1899–1900
+"Fragments of Olympian Gossip"
+My Inventions: The Autobiography of Nikola Tesla
+Other
+War of the currents
+Westinghouse Electric
+World Wireless System
+In popular culture
+Related
+Nikola Tesla Museum
+Nikola Tesla Memorial Center
+Tesla Science Center at Wardenclyffe
+IEEE Nikola Tesla Award
+Tesla Satellite Award
+Belgrade Nikola Tesla Airport
+New Yorker Hotel
+The Secret of Nikola Tesla (1980 film)
+Tesla – Lightning in His Hand (2003 opera)
+The Prestige (2006 film)
+Tower to the People (2015 documentary)
+Tesla (2016 film)
+The Tesla World Light (2017 film)
+The Current War (2019 film)
+"Nikola Tesla's Night of Terror" (2020 TV episode)
+Tesla (2020 film)
+Tesla: Man Out of Time
+Wizard: The Life and Times of Nikola Tesla
+The Man Who Invented the Twentieth Century
+Boat
+SI derived unit
+Lunar crater
+Asteroid
+Tesla, Inc.
+v
+t
+e
+TelecommunicationsHistory
+Beacon
+Broadcasting
+Cable protection system
+Cable TV
+Communications satellite
+Computer network
+Data compression
+audio
+DCT
+image
+video
+Digital media
+Internet video
+online video platform
+social media
+streaming
+Drums
+Edholm's law
+Electrical telegraph
+Fax
+Heliographs
+Hydraulic telegraph
+Information Age
+Information revolution
+Internet
+Mass media
+Mobile phone
+Smartphone
+Optical telecommunication
+Optical telegraphy
+Pager
+Photophone
+Prepaid mobile phone
+Radio
+Radiotelephone
+Satellite communications
+Semaphore
+Phryctoria
+Semiconductor
+device
+MOSFET
+transistor
+Smoke signals
+Telecommunications history
+Telautograph
+Telegraphy
+Teleprinter (teletype)
+Telephone
+history
+The Telephone Cases
+Television
+digital
+streaming
+Undersea telegraph line
+Videotelephony
+Whistled language
+Wireless revolution
+Pioneers
+Nasir Ahmed
+Edwin Howard Armstrong
+Mohamed M. Atalla
+John Logie Baird
+Paul Baran
+John Bardeen
+Alexander Graham Bell
+Emile Berliner
+Tim Berners-Lee
+Francis Blake
+Jagadish Chandra Bose
+Charles Bourseul
+Walter Houser Brattain
+Vint Cerf
+Claude Chappe
+Yogen Dalal
+Donald Davies
+Daniel Davis Jr.
+Amos Dolbear
+Thomas Edison
+Philo Farnsworth
+Reginald Fessenden
+Lee de Forest
+Elisha Gray
+Oliver Heaviside
+Robert Hooke
+Erna Schneider Hoover
+Harold Hopkins
+Gardiner Greene Hubbard
+Bob Kahn
+Dawon Kahng
+Charles K. Kao
+Narinder Singh Kapany
+Hedy Lamarr
+Roberto Landell
+Innocenzo Manzetti
+Guglielmo Marconi
+Robert Metcalfe
+Antonio Meucci
+Samuel Morse
+Jun-ichi Nishizawa
+Charles Grafton Page
+Radia Perlman
+Alexander Stepanovich Popov
+Tivadar Puskás
+Johann Philipp Reis
+Claude Shannon
+Almon Brown Strowger
+Henry Sutton
+Charles Sumner Tainter
+Nikola Tesla
+Camille Tissot
+Alfred Vail
+Thomas A. Watson
+Charles Wheatstone
+Vladimir K. Zworykin
+Internet pioneers
+Transmission
+media
+Coaxial cable
+Fiber-optic communication
+optical fiber
+Free-space optical communication
+Molecular communication
+Radio waves
+wireless
+Transmission line
+telecommunication circuit
+Network topology
+and switching
+Bandwidth
+Links
+Network switching
+circuit
+packet
+Nodes
+terminal
+Telephone exchange
+Multiplexing
+Space-division
+Frequency-division
+Time-division
+Polarization-division
+Orbital angular-momentum
+Code-division
+Concepts
+Communication protocol
+Computer network
+Data transmission
+Store and forward
+Telecommunications equipment
+Types of network
+Cellular network
+Ethernet
+ISDN
+LAN
+Mobile
+NGN
+Public Switched Telephone
+Radio
+Television
+Telex
+UUCP
+WAN
+Wireless network
+Notable networks
+ARPANET
+BITNET
+CYCLADES
+FidoNet
+Internet
+Internet2
+JANET
+NPL network
+TANet
+Toasternet
+Usenet
+Locations
+Africa
+Americas
+North
+South
+Antarctica
+Asia
+Europe
+Oceania
+Global telecommunications regulation bodies
+Telecommunication portal
+Category
+Outline
+Commons
+v
+t
+e
+IEEE Edison Medal1909–1925
+Elihu Thomson (1909)
+Frank J. Sprague (1910)
+George Westinghouse (1911)
+William Stanley, Jr. (1912)
+Charles F. Brush (1913)
+Alexander Graham Bell (1914)
+Nikola Tesla (1916)
+John J. Carty (1917)
+Benjamin G. Lamme (1918)
+William Le Roy Emmet (1919)
+Mihajlo Pupin (1920)
+Cummings C. Chesney (1921)
+Robert A. Millikan (1922)
+John W. Lieb (1923)
+John W. Howell (1924)
+Harris J. Ryan (1925)
+v
+t
+e
+Scientists whose names are used as unitsSI base units
+André-Marie Ampère (ampere)
+Lord Kelvin (kelvin)
+SI derived units
+Henri Becquerel (becquerel)
+Anders Celsius (degree Celsius)
+Charles-Augustin de Coulomb (coulomb)
+Michael Faraday (farad)
+Louis Harold Gray (gray)
+Joseph Henry (henry)
+Heinrich Hertz (hertz)
+James Prescott Joule (joule)
+Isaac Newton (newton)
+Georg Ohm (ohm)
+Blaise Pascal (pascal)
+Werner von Siemens (siemens)
+Rolf Maximilian Sievert (sievert)
+Nikola Tesla (tesla)
+Alessandro Volta (volt)
+James Watt (watt)
+Wilhelm Eduard Weber (weber)
+Non-SI metric (cgs) units
+Anders Jonas Ångström (angstrom)
+Peter Debye (debye)
+Loránd Eötvös (eotvos)
+Galileo Galilei (gal)
+Carl Friedrich Gauss (gauss)
+William Gilbert (gilbert)
+Heinrich Kayser (kayser)
+Johann Heinrich Lambert (lambert)
+Samuel Langley (langley)
+James Clerk Maxwell (maxwell)
+Hans Christian Ørsted (oersted)
+Jean Léonard Marie Poiseuille (poise)
+Sir George Stokes, 1st Baronet (stokes)
+John William Strutt, 3rd Baron Rayleigh (rayl)
+Imperial and US
+customary units
+Daniel Gabriel Fahrenheit (degree Fahrenheit)
+Johann Heinrich Lambert (foot-lambert)
+William John Macquorn Rankine (degree Rankine)
+Non-systematic units
+Alexander Graham Bell (bel/decibel)
+Marie Curie & Pierre Curie (curie)
+John Dalton (dalton)
+Michael Faraday (faraday)
+Heinrich Mache (mache)
+John Napier (neper)
+René Antoine Ferchault de Réaumur (degree Réaumur)
+Wilhelm Röntgen (roentgen)
+J. J. Thomson (thomson)
+Evangelista Torricelli (torr)
+List of scientists whose names are used as units · Scientists whose names are used in physical constants · People whose names are used in chemical element names
+v
+t
+e
+National symbols of SerbiaOfficial symbols
+Flag
+Coat of arms
+Anthem
+State decorations
+Names and codes
+Names of Serbia
+Country codes of Serbia
+Cultural icons
+Heraldry
+Serbian cross
+Serbian eagle
+Mottos
+Only Unity Saves the Serbs
+Three-fingers salute
+Mother Serbia
+National costume
+Šajkača
+Opanak
+Cuisine
+Ajvar
+Burek
+Ćevapčići
+Gibanica
+Karađorđeva šnicla
+Pljeskavica
+Sarma
+Slatko
+Šljivovica
+Musical instrument
+Gusle
+Serbian art
+White Angel
+Kosovo Maiden
+Migration of the Serbs
+Serbian epic poetry
+UNESCOWorld Heritage Sites
+Studenica
+Stari Ras and Sopoćani
+Gamzigrad
+Medieval Monuments in Kosovo
+Visoki Dečani
+Patriarchate of Peć
+Our Lady of Ljeviš
+Gračanica
+Stećci
+Mramorje (Perućac)
+Mramorje (Rastište)
+Grčko groblje (Hrta)
+Intangible Cultural Heritage
+Slava
+Kolo
+Singing to the accompaniment of the gusle
+Zlakusa pottery
+Social practices and knowledge related to the preparation and use of the traditional plum spirit of šljivovica
+Naïve painting practices of Kovačica
+Memory of the World
+Nikola Tesla Archives
+Miroslav Gospel
+Telegram of Austria-Hungary declaring war on Serbia
+1st Summit of the Non-Aligned Movement Archives
+Man and the Biosphere
+Golija-Studenica
+Gornje Podunavlje
+PeoplePatron saints
+Saint Sava
+Fathers of the Nation
+Karađorđe
+Miloš Obrenović
+Depicted on
+Serbian dinar
+Vuk Karadžić (linguist)
+Petar II Njegoš (poet)
+Stevan Mokranjac (composer)
+Nikola Tesla (inventor)
+Nadežda Petrović (painter)
+Jovan Cvijić (geographer)
+Đorđe Vajfert (industrialist)
+Milutin Milanković (geophysicist)
+Slobodan Jovanović (jurist)
+Dositej Obradović (philosopher)
+Ivo Andrić (poet)
+Mihajlo Pupin (physicist)
+Fauna and flora
+Wolf
+Eagle
+Plum
+Serbian spruce
+Natalie's ramonda
+Category
+Portals: Electronics
+Energy
+Engineering
+Physics
+Technology
+United States
+Serbia
+Biography
+Authority control databases InternationalISNI
+VIAF
+GND
+FAST2
+WorldCat
+NationalUnited States
+France
+BnF data
+Japan
+Tesla, Nikola</span>"}]]}'>Italy
+Czech Republic
+Spain
+Portugal
+Netherlands
+Norway
+Latvia
+Chile
+Greece
+Korea
+Sweden
+Poland
+Israel
+Catalonia
+Croatia
+AcademicsCiNii
+Scopus
+zbMATH
+MathSciNet
+ArtistsULAN
+MusicBrainz
+PeopleTrove
+LibraryThing
+Deutsche Biographie
+DDB
+OtherIdRef
+Open Library
+SNAC2
+Yale LUX
+
+---
+
+# 二、引语
+
+# 特斯拉 直接引语与名言
+
+## 一、特斯拉本人语录
+
+> "The present is theirs; the future, for which I really worked, is mine."
+  来源：《纽约时报》1921
+
+> "I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success."
+  来源：特斯拉自传 (1919)
+
+> "My brain is only a receiver. In the Universe there is a kernel from which we obtain knowledge, strength, and inspiration."
+  来源：关于发明
+
+> "The scientific man does not aim at an immediate result. He does not expect that his advanced ideas will be readily taken up."
+  来源：论科学与发明
+
+> "Let the future tell the truth, and evaluate each one according to his work and accomplishments."
+  来源：My Inventions (1919) 引言
+
+> "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."
+  来源：被广泛引用的语录
+
+> "The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence."
+  来源：特斯拉关于非物质现象
+
+> "I have not failed. I've just found 10,000 ways that don't work."
+  来源：经常被引用的（但真实性存疑）
+
+> "Our virtues and our failings are inseparable, like force and matter."
+  来源：关于人性
+
+> "The desire that guides me in all I do is the desire to harness the forces of nature to the service of mankind."
+  来源：《科罗拉多泉笔记》
+
+
+## 二、他人评价特斯拉
+
+> ""Tesla is one of the greatest inventors of all time.""
+  来源：Wikipedia
+
+> ""Tesla's work on alternating current was fundamental to the Second Industrial Revolution.""
+  来源：Wikipedia
+
+> ""Tesla was a man of extraordinary vision and remarkable eccentricity.""
+  来源：Wikipedia
+
+> ""Tesla's later ideas about wireless power transmission were visionary but unfulfilled.""
+  来源：Wikipedia
+
+> ""Tesla is celebrated for his contributions to the design of the modern alternating current electricity supply system.""
+  来源：Wikipedia
+
+> ""At the time of his death, Tesla was largely forgotten, but he became a folk hero after his death.""
+  来源：Wikipedia
+
+
+
+---
+
+# 三、后世评述
+
+# 特斯拉 后世评述
+
+## 一、历史定位
+
+**现代电气工程之父** — 交流电系统的关键贡献者
+
+**发明家与未来主义者** — 拥有 300 多项美国专利
+
+**神秘主义工程师** — 晚期越来越关注无线能量传输与宇宙能量
+
+## 二、主要贡献
+
+### 交流电 (AC) 系统
+- 1888 年发明多相交流电系统
+- 与 Westinghouse 合作，使 AC 成为美国标准
+- 奠定第二次工业革命的电气基础
+
+### 特斯拉线圈 (Tesla Coil)
+- 1891 年发明的高频变压器
+- 至今仍在无线电、无线电力、医学等领域应用
+
+### 感应电动机 (Induction Motor)
+- 1887-1888 年发明
+- 现代工业的基础
+
+### 无线电力传输
+- 1891-1900 年代进行无线电力实验
+- Wardenclyffe Tower 项目（未完成）
+- 预示了现代无线充电技术
+
+### 其他贡献
+- 雷达原理（与 Marconi 同期）
+- X 射线研究（1890 年代）
+- 遥控 (remote control) 概念
+- 特斯拉涡轮机 (Tesla turbine)
+
+## 三、生平
+
+- 1856 年生于克罗地亚 Smiljan（当时奥地利帝国）
+- 1875 年入 Graz 理工大学
+- 1882 年在巴黎爱迪生公司工作
+- 1884 年移居美国，加入爱迪生公司
+- 1886 年建立 Tesla Electric Light & Manufacturing
+- 1888 年发明多相交流电系统
+- 1891 年发明特斯拉线圈
+- 1893 年芝加哥世界博览会演示 AC
+- 1895 年尼亚加拉瀑布发电厂使用 AC 系统
+- 1900 年开始 Wardenclyffe Tower 项目
+- 1917 年获得美国公民身份（已撤回）
+- 1943 年 1 月 7 日在纽约 Hotel New Yorker 逝世
+- 1960 年通用大会以 'tesla' 命名磁通密度单位
+
+## 四、奖项与荣誉
+
+- 1917 Edison Medal (IEEE 最高荣誉)
+- 1934 年代 Nola 奖 (后被撤)
+- 1960 通用大会以 'tesla' 命名磁通密度单位
+
+## 五、后世影响
+
+- 交流电成为全球电力标准
+- 特斯拉线圈仍被广泛使用
+- 无线电力传输概念预示了现代无线充电
+- 流行文化偶像（特斯拉汽车、尼古拉·特斯拉纪念日）
+
+## 六、争议与神秘化
+
+- 1895 年实验室大火（丢失大量资料）
+- 与爱迪生的'电流战争' (War of Currents)
+- 晚年声称发明'死光'、'地震机器' 等争议性发明
+- 对神秘主义、鸽子的痴迷
+- 死后被部分阴谋论推崇

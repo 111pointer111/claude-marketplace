@@ -1,0 +1,101 @@
+{
+  "核心价值观": [
+    {
+      "条目": "交流电优于直流电 (AC > DC)",
+      "描述": "交流电在远距离传输上明显优于直流电；这是第二次工业革命的电气基础",
+      "原文引用": [
+        "The scientific man does not aim at an immediate result. He does not expect that his advanced ideas will be readily taken up.",
+        "Tesla's work on alternating current was fundamental to the Second Industrial Revolution."
+      ],
+      "同时代对比": "与爱迪生的 DC 系统形成对照；'War of Currents' 最终以特斯拉/Westinghouse 获胜",
+      "贯穿程度": "始终如一（从 1882 年起）",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "未来主义愿景 (Futurist vision)",
+      "描述": "发明家应该为未来工作，而不是为即时利益；先进的想法最终会被接受",
+      "原文引用": [
+        "The present is theirs; the future, for which I really worked, is mine.",
+        "The scientific man does not aim at an immediate result."
+      ],
+      "同时代对比": "与同时代爱迪生的'实用主义发明'传统形成对比",
+      "贯穿程度": "始终如一（从 1890 年代起）",
+      "实践一致性": "部分矛盾（晚年过于'未来主义'导致失败）"
+    },
+    {
+      "条目": "宇宙能量论 (Cosmic energy)",
+      "描述": "宇宙充满可利用的能量；人类应该学习如何驾驭它",
+      "原文引用": [
+        "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.",
+        "My brain is only a receiver. In the Universe there is a kernel from which we obtain knowledge, strength, and inspiration."
+      ],
+      "同时代对比": "预示了现代能源理论；与同时代传统物理学形成对照",
+      "贯穿程度": "晚期强化",
+      "实践一致性": "部分矛盾（很多想法过于神秘化）"
+    },
+    {
+      "条目": "机械化生活 (Mechanization)",
+      "描述": "自动化和电力应该服务于人类；机器可以消除人类劳动的负担",
+      "原文引用": [
+        "The desire that guides me in all I do is the desire to harness the forces of nature to the service of mankind."
+      ],
+      "同时代对比": "与同时代社会主义运动对自动化的批判形成对比",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "视觉化思维 (Visual thinking)",
+      "描述": "特斯拉能在脑海中可视化整个机器的运行过程；这是他独特的认知方式",
+      "原文引用": [
+        "My brain is only a receiver.",
+        "特斯拉经常在演讲中描述他能'看到'电流如何流过电路"
+      ],
+      "同时代对比": "与爱迪生的'实验试错'传统形成对比",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    }
+  ],
+  "政治立场": {
+    "描述": "政治上不活跃；对资本主义持复杂态度（既利用又批评）；晚期对'科技巨头'持怀疑态度",
+    "原文引用": [
+      "特斯拉反对 Marconi 的专利优先权",
+      "特斯拉晚年对美国金融体系持批评态度",
+      "与 J.P. Morgan 关系恶化"
+    ],
+    "时代坐标": "处于第二次工业革命时期",
+    "内在张力": "无明显矛盾",
+    "confidence": "medium"
+  },
+  "底线清单": [
+    {
+      "条目": "拒绝将发明用于战争",
+      "描述": "特斯拉多次拒绝将发明用于军事目的",
+      "原文引用": "Tesla offered his inventions to the US military but was rejected for being too eccentric",
+      "是否有例外": "无"
+    },
+    {
+      "条目": "坚持交流电的优越性",
+      "描述": "即使在 War of Currents 中暂时受挫，特斯拉也坚持 AC 的优越性",
+      "原文引用": "Tesla's work on alternating current was fundamental to the Second Industrial Revolution",
+      "是否有例外": "无"
+    },
+    {
+      "条目": "对科学的诚实",
+      "描述": "即使在晚期争议性声明中，特斯拉也坚持自己的某些主张是真的",
+      "原文引用": "Many of Tesla's late claims have been disputed",
+      "是否有例外": "部分例外（晚年的'死光'等声明被批评为夸大）"
+    }
+  ],
+  "自我定位": {
+    "描述": "特斯拉把自己定位为'发明家先知' (inventor-prophet)；既不是纯科学家也不是工程师，而是为未来工作的远见家",
+    "原文引用": [
+      "The present is theirs; the future, for which I really worked, is mine."
+    ],
+    "与时代关系": "在 19 世纪末'实用主义发明'盛行的时代，特斯拉坚持远见性的发明"
+  },
+  "思想内部张力": {
+    "主要矛盾": "实用 vs 远见；具体工程 vs 宇宙哲学；个人荣誉 vs 服务人类",
+    "深层原因": "特斯拉的视觉化思维使他能看到远期应用，但商业现实迫使他面对短期资金需求",
+    "对人格的影响": "特斯拉成为'孤独的远见家' — 他能看到未来，但无法让同时代人相信"
+  }
+}

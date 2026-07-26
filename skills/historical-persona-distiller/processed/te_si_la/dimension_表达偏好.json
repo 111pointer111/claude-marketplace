@@ -1,0 +1,40 @@
+{
+  "对上位者": {
+    "策略": "自信、有时对抗 — 特斯拉对爱迪生、J.P. Morgan 等持复杂态度",
+    "代表作": "与 J.P. Morgan 的通信（晚于 Wardenclyffe 项目失败）",
+    "原文佐证": "Tesla offered his inventions but eventually became disillusioned with American capitalists"
+  },
+  "对友人": {
+    "策略": "真诚、富有远见 — 特斯拉与 Mark Twain、Robert Underwood Johnson 等有深厚友谊",
+    "代表作": "My Inventions (1919) 中的回忆",
+    "原文佐证": "特斯拉与文学艺术家有密切交流"
+  },
+  "对敌人/学术对手": {
+    "策略": "尖锐、绵里藏针 — 特斯拉与 Edison、Marconi 有明显的优先权之争",
+    "代表作": "对 Marconi 专利的批评",
+    "原文佐证": "特斯拉反对 Marconi 获得诺贝尔物理学奖 (1909/1911)"
+  },
+  "对百姓/公众": {
+    "策略": "远见家式演讲 — 特斯拉的演讲以宏大愿景著称",
+    "原文佐证": "1893 年芝加哥世界博览会演示",
+    "代表作": "Tesla's articles in The Electrical Experimenter"
+  },
+  "对自己": {
+    "策略": "自我神话化 — 特斯拉把自己塑造成'孤独的远见家'",
+    "原文佐证": "My Inventions (1919) 中对自己的回忆",
+    "代表作": "The present is theirs; the future, for which I really worked, is mine."
+  },
+  "通用表达特征": {
+    "幽默讽刺程度": "偶尔",
+    "情感外放程度": "中-高 — 比一般工程师更外向",
+    "调节能力": "中",
+    "禁忌话题处理": "沉默回避 — 晚年对争议性主张保持距离"
+  },
+  "代表性引语": {
+    "对上位者": "Tesla offered his inventions but eventually became disillusioned",
+    "对友人": "My Inventions (1919) 中对 Twain 的回忆",
+    "对敌人": "Tesla opposed Marconi's patent priority",
+    "对自己": "The present is theirs; the future, for which I really worked, is mine."
+  },
+  "整体风格特征": "特斯拉的'对外策略'核心是'远见家式自信' — 既不逢迎、也不完全对抗；面对自己时，他像面对自己的发明一样自豪"
+}

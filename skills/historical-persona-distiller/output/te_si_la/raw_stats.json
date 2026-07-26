@@ -1,0 +1,55 @@
+{
+  "persona_id": "te_si_la",
+  "persona_name": "特斯拉 (Nikola Tesla)",
+  "distilled_at": "2026-07-27",
+  "sources_count": 3,
+  "raw_corpus_stats": {
+    "biography_chars": 103840,
+    "quotes_count": 16,
+    "assessments_chars": 2100,
+    "total_chars": 110000
+  },
+  "primary_source": {
+    "type": "Wikipedia (English)",
+    "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+    "size_chars": 103840
+  },
+  "secondary_sources": [
+    {
+      "type": "特斯拉本人著作 (引语)",
+      "items": [
+        "My Inventions (1919 自传)",
+        "AIEE 演讲 (1888)",
+        "《科罗拉多泉笔记》(1899)",
+        "多个技术论文和专利"
+      ]
+    },
+    {
+      "type": "后世评述",
+      "items": [
+        "Wikipedia 引用的科学史专著",
+        "特斯拉博物馆档案"
+      ]
+    }
+  ],
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "dimension_voice_profile.json"
+  ],
+  "stages_count": 4,
+  "default_stage": "切片三 (1895-1905)",
+  "citations_count": 30,
+  "events_count": 19,
+  "image_count": 0,
+  "distillation_notes": "特斯拉作为'工程远见家'代表，蒸馏时重点关注：(1) 交流电的关键贡献 (2) 未来主义愿景 (3) 视觉化思维 (4) 晚年神秘化",
+  "limitations": [
+    "主要史料来源单一 (Wikipedia English)",
+    "晚年少直接引语（部分录音）",
+    "晚年部分声明争议大（'死光'等）"
+  ],
+  "confidence": "medium",
+  "persona_version": "1.0"
+}

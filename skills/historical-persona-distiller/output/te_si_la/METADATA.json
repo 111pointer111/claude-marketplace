@@ -1,0 +1,53 @@
+{
+  "name": "特斯拉",
+  "name_pinyin": "te_si_la",
+  "name_original": "Nikola Tesla",
+  "lifespan": {
+    "birth": "1856-07-10",
+    "death": "1943-01-07",
+    "birthplace": "Smiljan, Austrian Empire (now Croatia)",
+    "deathplace": "New York City, USA"
+  },
+  "dynasty": "19-20世纪塞尔维亚-美国",
+  "fields": ["electrical engineering", "physics", "invention"],
+  "title": [
+    "交流电系统发明者",
+    "特斯拉线圈发明者",
+    "无线电力传输先驱",
+    "IEEE Edison Medal 获得者 (1917)"
+  ],
+  "key_themes": [
+    "交流电 (Alternating Current)",
+    "特斯拉线圈 (Tesla Coil)",
+    "感应电动机 (Induction Motor)",
+    "无线电力传输 (Wireless Power)",
+    "宇宙能量 (Cosmic Energy)",
+    "War of Currents",
+    "视觉化思维"
+  ],
+  "sources": [
+    {
+      "type": "Wikipedia (English)",
+      "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+      "note": "103,840 字符全文"
+    },
+    {
+      "type": "特斯拉本人著作 (引语)",
+      "note": "My Inventions (1919 自传), AIEE 演讲, 多个技术论文"
+    },
+    {
+      "type": "历史定位 (后世评述)",
+      "note": "Wikipedia 引用的科学史专著"
+    }
+  ],
+  "default_stage": "切片三 (1895-1905)",
+  "confidence": {
+    "overall": "medium",
+    "stage_one": "medium",
+    "stage_two": "high",
+    "stage_three": "high",
+    "stage_four": "medium"
+  },
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-27"
+}

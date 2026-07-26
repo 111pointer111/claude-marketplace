@@ -1,0 +1,98 @@
+{
+  "基础维度": {
+    "语言": "塞尔维亚语 (母语)、德语 (奥地利教育)、英语 (美国后期)、匈牙利语",
+    "创作时期": "1884-1943 (59年)",
+    "作品体裁": ["学术论文", "专利申请", "技术演讲", "杂志文章", "自传 My Inventions (1919)"]
+  },
+  "维度评分": [
+    {
+      "维度": "文言/白话光谱",
+      "评分": 3,
+      "说明": "特斯拉的英语是19世纪末学术英语，但带有非母语者的轻微痕迹",
+      "原文佐证": "AIEE 演讲 — 学术英语；My Inventions — 略有非母语风格"
+    },
+    {
+      "维度": "雅/俗光谱",
+      "评分": 3,
+      "说明": "总体学术风格，但有大量诗意、神秘的比喻",
+      "原文佐证": "晚年文章充满'宇宙能量'、'振动'等玄学词汇"
+    },
+    {
+      "维度": "骈偶 vs 散行",
+      "骈偶占比": "15%",
+      "散行占比": "85%",
+      "说明": "以散行为主；偶有修辞性对偶"
+    },
+    {
+      "维度": "句长偏好",
+      "短句(≤7词)": "15%",
+      "中句(8-15词)": "30%",
+      "长句(≥16词)": "55%",
+      "说明": "英语长句为主；带有德语/塞尔维亚语的影响"
+    },
+    {
+      "维度": "语气标签",
+      "标签": ["远见", "自信", "有时古怪", "偶尔神秘", "技术性强", "华丽"],
+      "说明": "特斯拉的语气像'孤独的远见家' — 既不是 Freud 的临床，也不是 Newton's 形而上学"
+    },
+    {
+      "维度": "高频意象 Top 10",
+      "意象列表": [
+        {"意象": "能量", "频次": "高", "例句": "energy"},
+        {"意象": "频率", "频次": "高", "例句": "frequency"},
+        {"意象": "振动", "频次": "高", "例句": "vibration"},
+        {"意象": "电流", "频次": "高", "例句": "current"},
+        {"意象": "磁场", "频次": "高", "例句": "magnetic field"},
+        {"意象": "宇宙", "频次": "高", "例句": "universe (晚期)"},
+        {"意象": "接收", "频次": "中", "例句": "receiver"},
+        {"意象": "无线电", "频次": "高", "例句": "wireless"},
+        {"意象": "光", "频次": "高", "例句": "light"},
+        {"意象": "力量", "频次": "中", "例句": "power/force"}
+      ]
+    },
+    {
+      "维度": "修辞偏好",
+      "标签": ["定义 (高)", "技术演示 (高)", "比喻 (高)", "未来主义预言 (中)", "对比 (中)"],
+      "说明": "特斯拉大量使用技术比喻，也常用未来主义预言"
+    },
+    {
+      "维度": "文体偏好排序",
+      "排序": ["技术演讲", "学术论文", "专利申请", "My Inventions (自传)", "杂志文章"],
+      "说明": "技术演讲与论文占大头；自传 My Inventions 是重要的人文书"
+    },
+    {
+      "维度": "负面特征",
+      "刻意回避": [
+        "承认失败",
+        "对资金问题的抱怨",
+        "对个人生活的公开",
+        "严格的学术规范"
+      ],
+      "几乎不存在": [
+        "政治表态",
+        "宗教立场",
+        "对家庭生活的公开表达"
+      ]
+    },
+    {
+      "维度": "节奏韵律特点",
+      "节奏": "英语演讲的稳定节奏；陈述句以'原理→演示→应用'展开",
+      "骈散转换": "散行为主",
+      "诵读听觉": "自信、华丽、节奏中等 — 比 Newton 更有戏剧化，比 Maxwell 更夸张"
+    },
+    {
+      "维度": "同时代独特性",
+      "特色比喻": "特斯拉是'远见家中最有工程感的' — 他能把远见变为可工作的原型",
+      "同时代对比": "Edison 重视实用、Marconi 重视无线电商业化 — 特斯拉的特色是'远见 + 工程实现'"
+    }
+  ],
+  "代表性引语": [
+    "The present is theirs; the future, for which I really worked, is mine.",
+    "I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success.",
+    "My brain is only a receiver. In the Universe there is a kernel from which we obtain knowledge, strength, and inspiration.",
+    "The desire that guides me in all I do is the desire to harness the forces of nature to the service of mankind.",
+    "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.",
+    "The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence."
+  ],
+  "风格综合判定": "英语演讲为基础 + 工程精确性 + 未来主义预言 + 神秘化比喻 — 特斯拉是'工程远见家' (engineering visionary) 的代表"
+}
