@@ -1,0 +1,53 @@
+{
+  "name": "拉格朗日",
+  "name_pinyin": "la_ge_lang_ri",
+  "name_original": "Joseph-Louis Lagrange",
+  "lifespan": {
+    "birth": "1736-01-25",
+    "death": "1813-04-10",
+    "birthplace": "Turin, Sardinia-Piedmont (Italy)",
+    "deathplace": "Paris, France"
+  },
+  "dynasty": "18-19世纪意大利-法国",
+  "fields": ["mathematics", "mechanics", "celestial mechanics"],
+  "title": [
+    "柏林科学院数学部主任 (1766, 接替欧拉)",
+    "巴黎科学院院士 (1787)",
+    "法国参议员",
+    "综合理工学校 (École Polytechnique) 教授"
+  ],
+  "key_themes": [
+    "分析力学 (Mécanique analytique)",
+    "变分法 (Calculus of variations)",
+    "拉格朗日乘数法",
+    "拉格朗日点 (天体力学)",
+    "群论早期定理 (拉格朗日定理)",
+    "欧拉-拉格朗日方程",
+    "最小作用量原理"
+  ],
+  "sources": [
+    {
+      "type": "Wikipedia (English)",
+      "url": "https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange",
+      "note": "49,476 字符全文"
+    },
+    {
+      "type": "拉格朗日本人著作 (引语)",
+      "note": "《分析力学》(1788), 《函数论讲义》(1797)"
+    },
+    {
+      "type": "历史定位 (后世评述)",
+      "note": "拿破仑、Monge、Laplace 等同事评价"
+    }
+  ],
+  "default_stage": "切片四 (1795-1813)",
+  "confidence": {
+    "overall": "medium",
+    "stage_one": "high",
+    "stage_two": "high",
+    "stage_three": "medium",
+    "stage_four": "high"
+  },
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-27"
+}

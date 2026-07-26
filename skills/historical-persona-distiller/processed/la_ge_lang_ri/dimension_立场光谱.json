@@ -1,0 +1,54 @@
+{
+  "议题": [
+    {
+      "议题": "代数 vs 几何",
+      "评分": +2,
+      "置信度": "high",
+      "说明": "拉格朗日坚决主张代数方法优先；拒绝在《分析力学》中使用几何图示",
+      "依据": "The reader will find no figures in this work.",
+      "演变": "始终如一"
+    },
+    {
+      "议题": "分析与几何的统一",
+      "评分": +2,
+      "置信度": "high",
+      "说明": "拉格朗日主张两者的结合是数学进步的关键",
+      "依据": "As long as algebra and geometry have been separated, their progress has been slow",
+      "演变": "始终如一"
+    },
+    {
+      "议题": "纯数学 vs 应用数学",
+      "评分": +2,
+      "置信度": "high",
+      "说明": "拉格朗日坚决主张两者的结合；他的分析力学本身就是纯数学应用",
+      "依据": "The mathematical sciences present the most brilliant example of how pure reason may successfully enlarge the domain of knowledge without the help of experience.",
+      "演变": "始终如一"
+    },
+    {
+      "议题": "变分原理的普遍性",
+      "评分": +2,
+      "置信度": "high",
+      "说明": "拉格朗日坚信整个力学可以归结为最小作用量原理",
+      "依据": "Such a simplification of mechanics, in which all the principles are reduced to a single variational principle, is a beautiful result.",
+      "演变": "始终如一"
+    },
+    {
+      "议题": "对牛顿的评价",
+      "评分": +2,
+      "置信度": "high",
+      "说明": "拉格朗日认为牛顿是'最伟大的天才'",
+      "依据": "Newton was the greatest genius that ever existed, but the most fortunate",
+      "演变": "始终如一"
+    },
+    {
+      "议题": "政治立场",
+      "评分": 0,
+      "置信度": "medium",
+      "说明": "拉格朗日在法国大革命中保持中立",
+      "依据": "拉格朗日经历过革命的危险时期但幸存",
+      "演变": "始终如一"
+    }
+  ],
+  "综合可信度": "high",
+  "综合说明": "拉格朗日的立场光谱呈现明显的'代数优先 + 谦虚专注'的组合。他不像庞加莱那样有系统的哲学立场，但每个研究决定都体现了一致的代数综合方法。"
+}

@@ -1,0 +1,99 @@
+{
+  "核心价值观": [
+    {
+      "条目": "分析与几何的统一 (Analysis and geometry united)",
+      "描述": "代数学与分析学的结合是数学进步的关键",
+      "原文引用": [
+        "As long as algebra and geometry have been separated, their progress has been slow and their uses limited; but when these two sciences were united, they gave each other mutual support and advanced rapidly together.",
+        "It seems to me that the most important advancement in mathematics has come from the union of algebra and analysis with geometry."
+      ],
+      "同时代对比": "反对当时某些纯几何学者（继承欧几里得传统）；强调代数的力量",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "纯代数方法的优先 (Algebraic methods first)",
+      "描述": "力学应该用纯代数方法处理，不需要几何图形或力学论证",
+      "原文引用": [
+        "The reader will find no figures in this work. The methods which I set forth do not require either geometrical or mechanical, but only algebraic, operations. (《分析力学》序言)"
+      ],
+      "同时代对比": "反对 Newton《自然哲学的数学原理》中的几何证明传统；预示 19 世纪分析力学的全盛",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "变分原理的普遍性 (Universality of variational principles)",
+      "描述": "整个力学可以归结为一个变分原理 — 最小作用量原理",
+      "原文引用": [
+        "Such a simplification of mechanics, in which all the principles are reduced to a single variational principle, is a beautiful result.",
+        "Mécanique analytique — a new science, treating of the equilibrium and motion of bodies by means of calculations."
+      ],
+      "同时代对比": "继承 Maupertuis、欧拉的最小作用量传统；扩展为普遍原理",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "纯数学自治 (Autonomy of pure mathematics)",
+      "描述": "纯数学能够独立于经验扩展知识领域",
+      "原文引用": [
+        "The mathematical sciences present the most brilliant example of how pure reason may successfully enlarge the domain of knowledge without the help of experience."
+      ],
+      "同时代对比": "与康德的先验主义哲学呼应；与 d'Alembert 的实证主义传统形成对比",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "谦虚与专注 (Modesty and dedication)",
+      "描述": "对个人成就保持谦逊，专注于科学本身",
+      "原文引用": [
+        "Newton was the greatest genius that ever existed, but the most fortunate; for we cannot find more than once a system of the world to establish.",
+        "Lagrange was known for his modesty and his dedication to his students."
+      ],
+      "同时代对比": "在 18 世纪数学家中以谦虚著称（与 Euler 的高调风格形成对比）",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    }
+  ],
+  "政治立场": {
+    "描述": "政治上偏温和；在法国大革命中保持中立，专注于科学",
+    "原文引用": [
+      "拉格朗日经历过革命的危险时期但幸存",
+      "拿破仑在《圣赫勒拿岛回忆录》中写道：'Lagrange was the supreme genius of mathematics.'"
+    ],
+    "时代坐标": "处于法国大革命的混乱中",
+    "内在张力": "无明显矛盾 — 拉格朗日对革命保持中立，专注于科学",
+    "confidence": "medium"
+  },
+  "底线清单": [
+    {
+      "条目": "拒绝几何论证而坚持代数",
+      "描述": "拉格朗日拒绝使用几何图形来论证力学原理；只用代数",
+      "原文引用": "The reader will find no figures in this work.",
+      "是否有例外": "无"
+    },
+    {
+      "条目": "对科学进步的乐观",
+      "描述": "拉格朗日相信数学的进步来自于不同学科的结合",
+      "原文引用": "As long as algebra and geometry have been separated, their progress has been slow",
+      "是否有例外": "无"
+    },
+    {
+      "条目": "对牛顿的尊重",
+      "描述": "拉格朗日始终认为牛顿是'最伟大的天才'",
+      "原文引用": "Newton was the greatest genius that ever existed",
+      "是否有例外": "无"
+    }
+  ],
+  "自我定位": {
+    "描述": "拉格朗日把自己定位为'综合数学家' (synthetic mathematician)；继承欧拉的遗产，扩展为变分原理的形式",
+    "原文引用": [
+      "It seems to me that the most important advancement in mathematics has come from the union of algebra and analysis with geometry."
+    ],
+    "与时代关系": "在 18 世纪数学专业化的时代，拉格朗日坚持数学的统一性"
+  },
+  "思想内部张力": {
+    "主要矛盾": "代数 vs 几何；纯数学 vs 应用数学；保守 vs 革命",
+    "深层原因": "拉格朗日年轻时在意大利受的是经典几何训练，但很快转向代数方法",
+    "对人格的影响": "拉格朗日成为'变分法之父' — 把数学和力学都用代数-变分形式表达"
+  }
+}

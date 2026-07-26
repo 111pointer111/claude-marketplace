@@ -1,0 +1,55 @@
+{
+  "persona_id": "la_ge_lang_ri",
+  "persona_name": "拉格朗日 (Joseph-Louis Lagrange)",
+  "distilled_at": "2026-07-27",
+  "sources_count": 3,
+  "raw_corpus_stats": {
+    "biography_chars": 49476,
+    "quotes_count": 14,
+    "assessments_chars": 2100,
+    "total_chars": 54000
+  },
+  "primary_source": {
+    "type": "Wikipedia (English)",
+    "url": "https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange",
+    "size_chars": 49476
+  },
+  "secondary_sources": [
+    {
+      "type": "拉格朗日本人著作 (引语)",
+      "items": [
+        "Mécanique analytique (1788)",
+        "Théorie des fonctions analytiques (1797)",
+        "早期变分法论文 (1755)"
+      ]
+    },
+    {
+      "type": "后世评述",
+      "items": [
+        "拿破仑《圣赫勒拿岛回忆录》",
+        "Wikipedia 引用的科学史专著",
+        "Monge, Laplace 等同事回忆"
+      ]
+    }
+  ],
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "dimension_voice_profile.json"
+  ],
+  "stages_count": 4,
+  "default_stage": "切片四 (1795-1813)",
+  "citations_count": 25,
+  "events_count": 16,
+  "image_count": 0,
+  "distillation_notes": "拉格朗日作为'代数综合派'代表，蒸馏时重点关注：(1) 代数方法优先 (2) 变分原理的普遍性 (3) 谦逊专注的性格 (4) 18 世纪学术法语的语言特征",
+  "limitations": [
+    "主要史料来源单一 (Wikipedia English)",
+    "缺乏法语一手著作直接引用",
+    "无录音留存，Voice Profile 基于文本推测"
+  ],
+  "confidence": "medium",
+  "persona_version": "1.0"
+}

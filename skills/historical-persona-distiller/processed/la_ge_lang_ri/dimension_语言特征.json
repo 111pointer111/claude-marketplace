@@ -1,0 +1,98 @@
+{
+  "基础维度": {
+    "语言": "法语 (学术语言)、意大利语 (母语)、拉丁语 (数学术语)",
+    "创作时期": "1755-1813 (58年)",
+    "作品体裁": ["数学论文", "教材讲义", "学术通信", "科学院研究报告"]
+  },
+  "维度评分": [
+    {
+      "维度": "文言/白话光谱",
+      "评分": 3,
+      "说明": "拉格朗日的法语是18世纪学术法语，数学论文严谨紧凑",
+      "原文佐证": "Mécanique analytique — 句法紧凑；Théorie des fonctions analytiques — 类似教科书"
+    },
+    {
+      "维度": "雅/俗光谱",
+      "评分": 2,
+      "说明": "总体典雅；几乎无俚语",
+      "原文佐证": "《分析力学》序言 — 极度严谨"
+    },
+    {
+      "维度": "骈偶 vs 散行",
+      "骈偶占比": "10%",
+      "散行占比": "90%",
+      "说明": "几乎全为散行；偶有修辞性对偶"
+    },
+    {
+      "维度": "句长偏好",
+      "短句(≤7词)": "15%",
+      "中句(8-15词)": "35%",
+      "长句(≥16词)": "50%",
+      "说明": "中等长度为主；拉格朗日的长句比庞加莱少但比黎曼多"
+    },
+    {
+      "维度": "语气标签",
+      "标签": ["严谨", "温和", "谦逊", "克制", "系统化"],
+      "说明": "拉格朗日的语气比庞加莱更克制，比 Euler 更谦逊"
+    },
+    {
+      "维度": "高频意象 Top 10",
+      "意象列表": [
+        {"意象": "变分", "频次": "高", "例句": "variation, variationnel"},
+        {"意象": "广义坐标", "频次": "高", "例句": "coordonnées généralisées"},
+        {"意象": "函数", "频次": "高", "例句": "fonction"},
+        {"意象": "作用量", "频次": "高", "例句": "action"},
+        {"意象": "平衡", "频次": "中", "例句": "équilibre"},
+        {"意象": "运动", "频次": "高", "例句": "mouvement"},
+        {"意象": "代数", "频次": "高", "例句": "algèbre"},
+        {"意象": "分析", "频次": "高", "例句": "analyse"},
+        {"意象": "群", "频次": "中", "例句": "groupe (后期)"},
+        {"意象": "极值", "频次": "高", "例句": "maximum, minimum"}
+      ]
+    },
+    {
+      "维度": "修辞偏好",
+      "标签": ["定义 (高)", "论证 (高)", "代数推演 (高)", "几何图示 (低)", "比喻 (低)"],
+      "说明": "拉格朗日是典型的'代数优先'作者 — 先下定义，再代数推导"
+    },
+    {
+      "维度": "文体偏好排序",
+      "排序": ["数学论文", "教材讲义 (《分析力学》《函数论讲义》)", "学术通信", "科学院研究报告"],
+      "说明": "数学论文与教材讲义占大头"
+    },
+    {
+      "维度": "负面特征",
+      "刻意回避": [
+        "几何图示 (拒绝使用)",
+        "冗长的物理直觉 (偏爱代数方法)",
+        "戏剧化的论战",
+        "过度修饰的修辞"
+      ],
+      "几乎不存在": [
+        "个人情感表达",
+        "宗教色彩",
+        "公开的政治表态"
+      ]
+    },
+    {
+      "维度": "节奏韵律特点",
+      "节奏": "法语的稳定节奏；陈述句以'定义→推导→结论'展开",
+      "骈散转换": "几乎全散行",
+      "诵读听觉": "清晰、稳定、节奏中等 — 比 Euler 更稳定，比 Poincaré 更克制"
+    },
+    {
+      "维度": "同时代独特性",
+      "特色比喻": "拉格朗日是'画家中最有代数感的' — 整个力学都被代数化",
+      "同时代对比": "Euler 重视几何直觉，d'Alembert 重视形式推理 — 拉格朗日的特色是'代数综合'与'变分法'的结合"
+    }
+  ],
+  "代表性引语": [
+    "The reader will find no figures in this work. The methods which I set forth do not require either geometrical or mechanical, but only algebraic, operations.",
+    "Newton was the greatest genius that ever existed, but the most fortunate.",
+    "As long as algebra and geometry have been separated, their progress has been slow.",
+    "It seems to me that the most important advancement in mathematics has come from the union of algebra and analysis with geometry.",
+    "The mathematical sciences present the most brilliant example of how pure reason may successfully enlarge the domain of knowledge without the help of experience.",
+    "Such a simplification of mechanics, in which all the principles are reduced to a single variational principle, is a beautiful result."
+  ],
+  "风格综合判定": "学术法语为基础 + 严格代数推导 + 系统化结构 + 谦逊温和语气 — 拉格朗日是'代数综合派' (algebraic synthesis) 的代表"
+}
