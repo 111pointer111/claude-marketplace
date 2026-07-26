@@ -1,0 +1,9 @@
+{
+  "核心价值观": [
+    {"条目": "大数定律", "description": "Ars Conjectandi 1713; 概率论基础", "贯穿程度": "始终如一"},
+    {"条目": "常数 e", "description": "复利分析; 2.5<e<3", "贯穿程度": "始终如一"},
+    {"条目": "变分法 (与弟)", "description": "与 Johann 共同创立", "贯穿程度": "始终如一"},
+    {"条目": "对数螺旋", "description": "\"Eadem mutata resurgo\"; 墓碑", "贯穿程度": "始终如一"}
+  ],
+  "政治立场": {"description": "新教家庭; 神学起家; 学术纯粹", "confidence": "medium"}
+}

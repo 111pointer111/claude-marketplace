@@ -1,0 +1,15 @@
+{
+  "persona_id": "bo_nu_li",
+  "name_zh": "伯努利",
+  "name_en": "Jacob Bernoulli",
+  "birth_death": "1654-12-27 / 1705-08-16",
+  "dynasty": "17-18世纪瑞士",
+  "confidence": "medium",
+  "priority": "medium",
+  "persona_type": "mathematician",
+  "key_works": ["Ars Conjectandi (1713 身后出版)", "大数定律", "伯努利数", "伯努利双纽线", "变分法"],
+  "core_concepts": ["大数定律", "常数 e", "变分法", "对数螺旋", "伯努利家族"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Jacob Bernoulli"],
+  "default_stage": "切片二: 数学教授 (1687-1705)"
+}

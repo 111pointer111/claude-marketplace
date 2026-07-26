@@ -1,0 +1,32 @@
+# 伯努利 直接引语
+
+---
+
+## 墓碑螺旋
+
+> "Although changed, I rise again the same" (拉丁: *Eadem mutata resurgo*)
+
+## 复利
+
+> "this sequence approaches a limit" (复利研究)
+
+## 风格
+
+> "one of the most significant promoters of the formal methods of higher analysis."
+
+## 墓志铭
+
+> "the incomparable mathematician. Professor at the University of Basel For more than 18 years."
+
+## 关键概念
+
+- 大数定律 (Law of Large Numbers)
+- 常数 e
+- 伯努利数/多项式
+- 伯努利分布/试验/过程
+- 伯努利双纽线
+- 变分法 (与 Johann)
+- Ars Conjectandi (1713 身后出版)
+- 等时线问题
+- 伯努利微分方程
+- Leibnizian 微积分

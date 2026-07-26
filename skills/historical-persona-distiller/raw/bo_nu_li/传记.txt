@@ -1,0 +1,42 @@
+# 伯努利 传记
+
+> 来源: Wikipedia
+> 抓取日期: 2026-07-26
+
+## 基本信息
+- **伯努利** (Jacob Bernoulli, 1654-12-27 至 1705-08-16)
+- 瑞士数学家
+- 生于 Basel 香料商人/银行家新教家庭
+
+## 关键年表
+- 1654-12-27 旧历 / 1655-01-06 新历 生于 Basel
+- 1676 获 Basel 大学 D.Th. (按父亲意愿学神学)
+- 1676-82 游学欧洲, 师从 Hudde, Robert Boyle, Robert Hooke
+- 1684 与 Judith Stupanus 结婚; 提交博士论文
+- 1685-87 出版逻辑代数、概率、几何
+- **1687 任 Basel 大学数学教授**
+- 1689 出版无穷级数与大数定律
+- 1690 等时线问题归约为一阶非线性微分方程; "integral" 首次现代意义使用
+- 1692 焦散曲线
+- 1694 伯努利双纽线
+- 1696 伯努利微分方程
+- **1697 与弟 Johann 关系完全破裂 (竞争)**
+- **1705-08-16 去世, 享年 50**
+
+## 主要贡献
+- **发现常数 e** (复利分析; 2.5 < e < 3)
+- **大数定律** 第一版 (Ars Conjectandi 1713 身后出版)
+- 与弟 Johann 共同创立**变分法**
+- Leibnizian 微积分早期支持者
+- 伯努利数/多项式/分布/试验/过程/不等式/双纽线
+
+## 关键引语
+- 墓碑螺旋: "Although changed, I rise again the same" (拉丁: *Eadem mutata resurgo*)
+- 复利研究: "this sequence approaches a limit"
+- Euler 1737 解决 Basel 问题
+- 风格: "one of the most significant promoters of the formal methods of higher analysis."
+- 墓志铭: "the incomparable mathematician. Professor at the University of Basel For more than 18 years."
+
+## 家族
+- Johann 之兄; 伯努利家族数学家
+- 包括 Daniel Bernoulli 与 Nicolaus I Bernoulli
