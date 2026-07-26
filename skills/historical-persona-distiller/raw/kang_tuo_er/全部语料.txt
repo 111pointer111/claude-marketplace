@@ -1,0 +1,18 @@
+# 康托尔 全部语料 (合并)
+
+> 合并自 传记.txt + 引语.txt + 后世评述.txt
+
+---
+
+# 一、传记
+- **康托尔** (1845-03-03 至 1918-01-06)
+- 德国数学家
+- **1874 集合论开创性论文**
+- **1918 死于心脏病**
+
+## 关键引语
+- "Je le vois, mais je ne le crois pas!"
+
+## 后世评述
+- 集合论创始人
+- Hilbert: "No one shall expel us from the paradise that Cantor has created."

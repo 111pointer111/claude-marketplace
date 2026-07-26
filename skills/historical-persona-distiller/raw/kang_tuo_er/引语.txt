@@ -1,0 +1,30 @@
+# 康托尔 直接引语
+
+---
+
+## 著名发现
+
+> "Je le vois, mais je ne le crois pas!" ("我看见它, 但我不信它!") — 关于线到方对应
+
+## 数学自由
+
+> "the essence of mathematics is its freedom."
+
+## Kronecker 攻击 (康托尔回应)
+
+> Cantor 被 Kronecker 称为 "scientific charlatan", "renegade", "corrupter of youth."
+
+## Hilbert 辩护
+
+> "No one shall expel us from the paradise that Cantor has created."
+
+## 关键概念
+
+- 集合论
+- 超限数
+- 连续统假设
+- 阿列夫数 (ℵ)
+- 对角论证
+- 可数集/不可数集
+- 良序定理
+- 基数/序数

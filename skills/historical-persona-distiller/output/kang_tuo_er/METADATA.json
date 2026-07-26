@@ -1,0 +1,15 @@
+{
+  "persona_id": "kang_tuo_er",
+  "name_zh": "康托尔",
+  "name_en": "Georg Cantor",
+  "birth_death": "1845-03-03 / 1918-01-06",
+  "dynasty": "19-20世纪德国",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "mathematician",
+  "key_works": ["1874 集合论开创性论文", "对角论证 (1891)", "超限数论文 (1895-97)"],
+  "core_concepts": ["集合论", "超限数", "连续统假设", "对角论证", "阿列夫数 (ℵ)"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Georg Cantor"],
+  "default_stage": "切片二: 集合论开创 (1874-1884)"
+}

@@ -1,0 +1,44 @@
+# 康托尔 传记
+
+> 来源: Wikipedia
+> 抓取日期: 2026-07-26
+
+## 基本信息
+- **康托尔** (Georg Ferdinand Ludwig Philipp Cantor, 1845-03-03 至 1918-01-06)
+- 德国数学家, 生于圣彼得堡
+
+## 关键年表
+- 1845-03-03 生于俄国圣彼得堡
+- 1856 父亲病后家庭移德国 (Wiesbaden, 后 Frankfurt)
+- 1867 获柏林大学博士 (数论论文)
+- 1869 任 Halle 大学 (终身)
+- 1874 与 Vally Guttmann 结婚; 开创性论文证明实数比自然数多
+- 1877 致 Dedekind 信中证明线段与 n 维空间一一对应
+- 1879 升 Halle 全职教授
+- 1882 与 Dedekind 数学通信结束
+- 1884 首次抑郁发作; 致 Mittag-Leffler 52 封信都提 Kronecker
+- 1889 帮助创立德国数学学会
+- 1891 发表对角论证; 当选首任德国数学学会主席
+- 1895-97 最后主要集合论论文
+- 1903 公开被 Julius König 挑战后住院
+- 1904 获 Royal Society Sylvester 奖章; 反复住院开始
+- 1911 应邀参加 St. Andrews 大学 500 周年
+- 1913 退休, 一战期间贫困
+- 1917 最后一所疗养院
+- 1918-01-06 在 Halle 死于心脏病
+
+## 关键贡献
+- 集合论 — 创立
+- 超限数 — 算术延伸至无穷
+- 连续统假设 — 康托尔相信但未能证明
+- 阿列夫数 (ℵ) — 无穷集基数符号
+
+## 关键引语
+- (线到方对应) "Je le vois, mais je ne le crois pas!" ("我看见它, 但我不信它!")
+- (Kronecker 编辑阻挠) "科学骗子", "叛徒", "青年腐败者"
+- (Hilbert 辩护) "No one shall expel us from the paradise that Cantor has created."
+- "the essence of mathematics is its freedom."
+- (无穷小数学) "the cholera bacillus of mathematics"
+
+## 注
+- Kronecker 反对导致康托尔反复抑郁, 部分解释为双相情感障碍
