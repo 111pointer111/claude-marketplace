@@ -1,0 +1,15 @@
+{
+  "persona_id": "bi_da_ge_la_si",
+  "name_zh": "毕达哥拉斯",
+  "name_en": "Pythagoras of Samos",
+  "birth_death": "c. 570 BC / c. 495 BC",
+  "dynasty": "古希腊",
+  "confidence": "medium",
+  "priority": "medium",
+  "persona_type": "mathematician / philosopher",
+  "key_works": ["毕达哥拉斯定理", "四元数 (tetractys)", "天体音乐"],
+  "core_concepts": ["毕达哥拉斯定理", "数字神秘主义", "天体音乐", "毕达哥拉斯派", "音乐和谐"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Pythagoras"],
+  "default_stage": "切片二: Croton 学派 (c. 530-510 BC)"
+}

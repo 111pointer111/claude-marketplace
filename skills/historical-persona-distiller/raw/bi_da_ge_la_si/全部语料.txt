@@ -1,0 +1,19 @@
+# 毕达哥拉斯 全部语料 (合并)
+
+> 合并自 传记.txt + 引语.txt + 后世评述.txt
+
+---
+
+# 一、传记
+- **毕达哥拉斯** (c. 570 至 c. 495 BC)
+- 古希腊数学家
+- c. 530 BC 在 Croton 创立学派
+- **c. 495 BC 去世**
+
+## 关键引语
+- "He spoke the truth no less than did the Pythian."
+- "All things in common among friends."
+
+## 后世评述
+- 西方数学传统奠基
+- 数字神秘主义
