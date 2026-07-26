@@ -1,0 +1,9 @@
+{
+  "核心价值观": [
+    {"条目": "费马大定理", "description": "x^n + y^n = z^n 在 n>2 无正整数解; 1994 Wiles 证明", "贯穿程度": "始终如一"},
+    {"条目": "数论", "description": "\"Prince of Amateurs\"; 数论奠基", "贯穿程度": "始终如一"},
+    {"条目": "解析几何共同发明", "description": "与 Descartes 独立发明", "贯穿程度": "始终如一"},
+    {"条目": "概率论共同创立", "description": "与 Pascal 通信 (1654)", "贯穿程度": "始终如一"}
+  ],
+  "政治立场": {"description": "Toulouse 议会 councilor; 法学家", "confidence": "medium"}
+}

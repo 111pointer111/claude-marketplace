@@ -1,0 +1,34 @@
+# 费马 传记
+
+> 来源: Wikipedia
+> 抓取日期: 2026-07-26
+
+## 基本信息
+- **费马** (Pierre de Fermat, 1601 至 1665-01-12)
+- 法国律师/业余数学家
+
+## 关键年表
+- 1601 生于法国 Beaumont-de-Lomagne (一些来源 1605/1607)
+- 1623-26 就读奥尔良大学; 获民法学士
+- 1629 在 Bordeaux 开始严肃数学研究; 极大极小值工作
+- 1630 购 Toulouse 议会 councilor 职
+- 1631 与 Louise de Long 结婚; 得以加 "de" 冠姓
+- 1636 流通其解析几何手稿
+- **1654 与 Pascal 通信 — 概率论**
+- **1665-01-12 在 Castres 去世**
+
+## 主要贡献
+- **解析几何** — 与 Descartes 独立的独立发明者
+- **微积分** — adequality 方法
+- **数论** — "Prince of Amateurs"; 费马大定理, 小定理, 二平方定理, 多边形数定理
+- **概率论** — 与 Blaise Pascal 共同创始人
+- **光学** — 最短时间原理 (费马原理)
+- **费马大定理** — 1994 由 Andrew Wiles 证明
+
+## 关键评价
+- "mathematician of rare power"
+- "He was an independent inventor of analytic geometry…"
+- "his crowning achievement was in the theory of numbers."
+- "Fermat essentially created the modern theory of numbers."
+- "joint founders of probability theory"
+- "carrying out the first-ever rigorous probability calculation."

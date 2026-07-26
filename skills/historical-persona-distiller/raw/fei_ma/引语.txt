@@ -1,0 +1,19 @@
+# 费马 直接引语
+
+---
+
+## 费马大定理 (边注)
+
+> "I have a marvelous proof of this theorem that this margin is too narrow to contain." (边注)
+
+## 关键概念
+
+- 费马大定理 (FLT) — 1994 Wiles 证明
+- 费马小定理
+- 二平方定理
+- 多边形数定理
+- 最短时间原理 (费马原理)
+- 解析几何
+- adequality
+- 概率论 (与 Pascal)
+- 数论 "Prince of Amateurs"

@@ -1,0 +1,15 @@
+{
+  "persona_id": "fei_ma",
+  "name_zh": "费马",
+  "name_en": "Pierre de Fermat",
+  "birth_death": "1601 / 1665-01-12",
+  "dynasty": "17世纪法国",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "mathematician / lawyer",
+  "key_works": ["费马大定理 (FLT)", "费马小定理", "二平方定理", "多边形数定理", "最短时间原理 (费马原理)"],
+  "core_concepts": ["费马大定理", "数论", "解析几何", "概率论", "Prince of Amateurs"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Pierre de Fermat"],
+  "default_stage": "切片二: 数学黄金时期 (1629-1654)"
+}
