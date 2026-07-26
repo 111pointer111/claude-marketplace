@@ -1,0 +1,35 @@
+# 伽罗瓦 传记
+
+> 来源: Wikipedia
+> 抓取日期: 2026-07-26
+
+## 基本信息
+- **伽罗瓦** (Évariste Galois, 1811-10-25 至 1832-05-31)
+- 法国数学家
+- 20 岁决斗早逝
+
+## 关键年表
+- 1811 生于 Bourg-la-Reine
+- 1823 入 Lycée Louis-le-Grand; 14 岁展现才华
+- 1828 失败 École Polytechnique; 入 École Normale; 首篇连分数论文
+- 1829 父自杀; 再次失败 Polytechnique; 提交论文 (Cauchy 审)
+- 1830 提交 Fourier 论文 (Fourier 死后续失); 发表 3 篇论文, 一为伽罗瓦理论奠基
+- 1831 被 École Normale 开除; 加入国民警卫队炮兵; 因威胁性祝酒被捕; 后因穿制服再捕
+- 1832-04-29 出狱
+- 1832-05-30 决斗腹部中枪
+- **1832-05-31 在 Hôpital Cochin 去世, 享年 20**
+
+## 主要贡献
+- 决定多项式可根式解的充要条件 — 解决 350 年问题
+- **伽罗瓦理论 / 群论奠基**
+- 引入有限域概念
+
+## 关键引语
+> "Don't weep, Alfred! I need all my courage to die at twenty!" — 给兄弟遗言
+> "I am the victim of an infamous coquette and her two dupes."
+> "Ask Jacobi or Gauss publicly to give their opinion..." — 最后一封信的结尾
+
+## 遗产
+- 坚定共和派, 政治行动主义导致多次被捕
+- 1846 Joseph Liouville 发表其手稿
+- 20 岁早逝, 但成为最具影响力的数学家之一

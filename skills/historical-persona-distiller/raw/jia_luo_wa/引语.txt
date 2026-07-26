@@ -1,0 +1,23 @@
+# 伽罗瓦 直接引语
+
+---
+
+## 临终
+
+> "Don't weep, Alfred! I need all my courage to die at twenty!" — 给兄弟遗言
+
+## 决斗
+
+> "I am the victim of an infamous coquette and her two dupes."
+
+## 数学遗产请求
+
+> "Ask Jacobi or Gauss publicly to give their opinion..." — 最后一封信结尾
+
+## 关键概念
+
+- 伽罗瓦理论
+- 群论
+- 有限域
+- 多项式可根式解充要条件
+- 共和派

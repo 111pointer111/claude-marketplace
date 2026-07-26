@@ -1,0 +1,15 @@
+{
+  "persona_id": "jia_luo_wa",
+  "name_zh": "伽罗瓦",
+  "name_en": "Évariste Galois",
+  "birth_death": "1811-10-25 / 1832-05-31",
+  "dynasty": "19世纪法国",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "mathematician",
+  "key_works": ["伽罗瓦理论 (1830)", "群论奠基", "有限域"],
+  "core_concepts": ["伽罗瓦理论", "群论", "有限域", "多项式可根式解", "共和派"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Évariste Galois"],
+  "default_stage": "切片二: 伽罗瓦理论形成与政治 (1830-1832)"
+}
