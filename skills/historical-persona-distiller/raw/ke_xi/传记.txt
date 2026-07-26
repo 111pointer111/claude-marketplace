@@ -1,0 +1,47 @@
+# 柯西 传记
+
+> 来源: Wikipedia
+> 抓取日期: 2026-07-26
+
+## 基本信息
+- **柯西** (Augustin-Louis Cauchy, 1789-08-21 至 1857-05-23)
+- 法国数学家/工程师/物理学家
+
+## 关键年表
+- 1789 法国大革命前一个月生于巴黎
+- 1793-94 恐怖时期家庭逃 Arcueil
+- 1802 入 École Centrale du Panthéon (按 Lagrange 建议)
+- 1805 第二名入 École Polytechnique (293 名申请)
+- 1807 毕业; 入 École des Ponts et Chaussées
+- 1810-12 Cherbourg 初级工程师
+- 1813 因病回巴黎
+- 1815 证明费马多边形数定理
+- 1816 入重组 Académie des Sciences; 任 École Polytechnique 全职教授
+- 1818 与 Aloïse de Bure 结婚
+- 1821 出版《分析教程》, 引入 δ-ε 严格化
+- 1825 出版柯西积分定理完整形式
+- 1827 引入柯西应力张量
+- **1830 七月革命; 拒绝新政权宣誓; 离开法国**
+- 1831-33 都灵; 柯西积分公式与残数定理
+- 1833-38 布拉格 Henri d'Artois 导师; 获男爵
+- 1849 共和国下恢复 Faculté de Sciences
+- **1857 死于支气管病; 以终傅礼安葬**
+
+## 关键评价
+- "More concepts and theorems have been named for Cauchy than for any other mathematician."
+- "the man who taught rigorous analysis to all of Europe." (Grabiner)
+- Abel: "bigoted Catholic" 但作为数学家 "mad"
+
+## 关键贡献
+- 微积分/实分析的严格基础
+- 柯西积分定理/积分公式/残数定理
+- Cauchy-Riemann 方程, Cauchy 列, Cauchy 分布
+- Taylor 定理与费马多边形数定理的首次严格证明
+- 柯西应力张量与弹性力学先驱
+- 抽象代数中置换群早期发展
+
+## 性格
+- 保守天主教保皇派
+- 多次拒绝忠诚宣誓
+- 同事视为争议人物
+- 72 名镌刻于埃菲尔铁塔之一

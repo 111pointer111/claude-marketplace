@@ -1,0 +1,15 @@
+{
+  "persona_id": "ke_xi",
+  "name_zh": "柯西",
+  "name_en": "Augustin-Louis Cauchy",
+  "birth_death": "1789-08-21 / 1857-05-23",
+  "dynasty": "19世纪法国",
+  "confidence": "medium",
+  "priority": "high",
+  "persona_type": "mathematician",
+  "key_works": ["Cours d'analyse (1821)", "Cauchy integral theorem (1825)", "Cauchy stress tensor (1827)"],
+  "core_concepts": ["δ-ε 严格化", "柯西积分定理/公式", "Cauchy-Riemann 方程", "Cauchy 列", "残数定理", "抽象代数先驱"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - Augustin-Louis Cauchy"],
+  "default_stage": "切片二: 数学教授与严格化 (1813-1830)"
+}

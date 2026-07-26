@@ -1,0 +1,31 @@
+# 柯西 直接引语
+
+---
+
+## 名声
+
+> "More concepts and theorems have been named for Cauchy than for any other mathematician."
+
+## 严格性 (Grabiner)
+
+> "the man who taught rigorous analysis to all of Europe."
+
+## Abel 评
+
+> "bigoted Catholic" 但作为数学家 "mad"
+
+## 连续性 (1821)
+
+> "infinitely small increment in the variable" yields "infinitely small increment in the function itself."
+
+## 关键概念
+
+- 柯西积分定理/公式
+- Cauchy-Riemann 方程
+- Cauchy 列
+- Cauchy 分布
+- δ-ε 严格化
+- 柯西应力张量
+- 残数定理
+- Taylor 定理严格证明
+- 置换群 (抽象代数先驱)
