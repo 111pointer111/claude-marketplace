@@ -1,0 +1,8 @@
+{
+  "核心价值观": [
+    {"条目": "《麦田里的守望者》", "description": "Holden Caulfield; 反英雄; 青少年经典", "贯穿程度": "始终如一"},
+    {"条目": "Glass 家族", "description": "短篇+中篇; 精英文笔", "贯穿程度": "始终如一"},
+    {"条目": "隐居", "description": "1965 后不发表; 'there is a marvelous peace in not publishing'", "贯穿程度": "始终如一"}
+  ],
+  "政治立场": {"description": "反战; 反消费主义; 反权威", "confidence": "high"}
+}

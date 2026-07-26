@@ -1,0 +1,18 @@
+# 塞林格 全部语料 (合并)
+
+> 合并自 传记.txt + 引语.txt + 后世评述.txt
+
+---
+
+# 一、传记
+- **塞林格** (1919-01-01 至 2010-01-27)
+- 美国小说家
+- **1951 《麦田里的守望者》**
+- **1965 隐居**
+- 2010 去世
+
+## 关键引语
+- "There is a marvelous peace in not publishing."
+
+## 后世评述
+- Harold Brodkey: "the most influential body of work in English prose by anyone since Hemingway"

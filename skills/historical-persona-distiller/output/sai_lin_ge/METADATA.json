@@ -1,0 +1,15 @@
+{
+  "persona_id": "sai_lin_ge",
+  "name_zh": "塞林格",
+  "name_en": "J. D. Salinger",
+  "birth_death": "1919-01-01 / 2010-01-27",
+  "dynasty": "20世纪美国",
+  "confidence": "medium",
+  "priority": "medium",
+  "persona_type": "novelist",
+  "key_works": ["《麦田里的守望者》(1951)", "《九个短篇》(1953)", "《弗兰尼与祖伊》(1961)", "《高举屋梁, 木匠们》(1963)"],
+  "core_concepts": ["《麦田里的守望者》", "Glass 家族", "隐居", "Holden Caulfield", "反英雄"],
+  "distillation_date": "2026-07-26",
+  "sources_used": ["Wikipedia - J. D. Salinger"],
+  "default_stage": "切片二: 二战与写作起步 (1941-1950)"
+}
