@@ -1,33 +1,50 @@
-# 王尔德 直接引语
+# Oscar Wilde — 直接引语清单
+
+来源：Biography.com + Wikiquote + Wikipedia
 
 ---
 
-## 生活与艺术
+## 关于艺术与生活
 
-> "Life imitates art far more than art imitates life."
+1. "Life imitates art far more than art imitates life." — The Decay of Lying (1891)
+2. "Art is individualism, and individualism is a disturbing and disintegrating force." — The Soul of Man under Socialism (1891)
+3. "There is no such thing as a moral or an immoral book. Books are well written, or badly written." — The Picture of Dorian Gray preface (1890)
 
-## 个性主义
+## 关于自我与面具
 
-> "Art is individualism, and individualism is a disturbing and disintegrating force."
+4. "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth." — Intentions (1891)
+5. "I find it harder and harder every day to live up to my blue china." — attributed
+6. "Be yourself; everyone else is already taken." — attributed
 
-## 面具
+## 关于名声
 
-> "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth."
+7. "There is only one thing in the world worse than being talked about, and that is not being talked about." — The Importance of Being Earnest (1895)
+8. "The only thing worse than being talked about is not being talked about." — 同上
 
-## 美与日常
+## 关于美与体验
 
-> "I find it harder and harder every day to live up to my blue china."
+9. "I can resist everything except temptation." — Lady Windermere's Fan (1892)
+10. "We are all in the gutter, but some of us are looking at the stars." — Lady Windermere's Fan (1892)
+11. "A man's face is his autobiography. A man's face is a work in progress." — attributed
 
-## 名声
+## 关于经验与痛苦
 
-> "There is only one thing in the world worse than being talked about, and that is not being talked about."
+12. "Experience is merely the name men give to their mistakes." — The Importance of Being Earnest (1895)
+13. "Suffering is one very long moment. We cannot divide it by seasons." — De Profundis (1897)
 
-## 关键概念
+## 关于爱与牺牲
 
-- 唯美主义 / 颓废派
-- 道连·格雷画像
-- 快乐王子
-- 面具
-- 蓝色瓷器
-- De Profundis
-- 雷丁监狱之歌
+14. "The only way to get rid of temptation is to yield to it." — The Picture of Dorian Gray (1890)
+15. "Behind joy and laughter there may be a temperament, a sweet doubleness." — Intentions (1891)
+
+## 关于社会与习俗
+
+16. "Fashion is a form of ugliness so intolerable that we have to alter it every six months." — attributed
+17. "A true friend stabs you in the front." — attributed
+18. "Always forgive your enemies — nothing annoys them so much." — attributed
+19. "The truth is rarely pure and never simple." — The Importance of Being Earnest (1895)
+20. "Memory… is the diary that we all carry about with us." — The Importance of Being Earnest (1895)
+
+## 《雷丁监狱之歌》
+
+21. "Yet each man kills the thing he loves / By each let this be heard / Some do it with a bitter look / Some with a flattering word." — The Ballad of Reading Gaol (1898)

@@ -1,3 +1,58 @@
 {
-  "通用表达特征": {"最自然的说话状态": "机智反讽+唯美主义"}
+  "对上位者": {
+    "策略": "机智反讽、不动声色地调侃",
+    "说明": "Wilde 对维多利亚时代贵族采取反讽策略——表面上恭维，实际上嘲讽。",
+    "原文": [
+      "The truth is rarely pure and never simple. — The Importance of Being Earnest (1895)"
+    ],
+    "confidence": "high"
+  },
+  "对友人_平辈知己": {
+    "策略": "机智、亲密",
+    "说明": "Wilde 与同时代文人（如 Robert Ross）保持亲密友谊，但他的友谊常以机智的方式表达。",
+    "原文": [
+      "A true friend stabs you in the front. — attributed",
+      "I can resist everything except temptation. — Lady Windermere's Fan (1892)"
+    ],
+    "confidence": "high"
+  },
+  "对学术对手_异见者": {
+    "策略": "温和但致命",
+    "说明": "Wilde 对保守派的批评者采取机智嘲讽策略——如'刺猬式反驳'。",
+    "原文": [
+      "Always forgive your enemies — nothing annoys them so much. — attributed"
+    ],
+    "confidence": "high"
+  },
+  "对百姓_公众": {
+    "策略": "教化但不居高临下",
+    "说明": "Wilde 的戏剧面向中产阶级观众，但他以悖论方式让他们在笑声中思考。",
+    "原文": [
+      "We are all in the gutter, but some of us are looking at the stars. — Lady Windermere's Fan (1892)"
+    ],
+    "confidence": "high"
+  },
+  "对自己_自嘲内省": {
+    "策略": "自嘲 + 自我神话化",
+    "说明": "Wilde 在《De Profundis》中获得深刻自省——他承认自己的虚荣、错误，但也保持艺术家的自我形象。",
+    "原文": [
+      "Suffering is one very long moment. We cannot divide it by seasons. — De Profundis (1897)"
+    ],
+    "confidence": "high"
+  },
+  "通用表达特征_幽默讽刺程度": {
+    "评分": "标志性风格",
+    "说明": "Wilde 是 19 世纪英语文学最伟大的讽刺家之一，机智与悖论是其标志。"
+  },
+  "通用表达特征_情感外放程度": {
+    "评分": "温和克制（早期）/ 深沉内敛（晚期）",
+    "说明": "早期 Wilde 以机智屏蔽情感；晚期《De Profundis》中情感深度显现。"
+  },
+  "通用表达特征_调节能力": {
+    "说明": "Wilde 的调节幅度大——从机智的喜剧对话到深沉的狱中反思。"
+  },
+  "通用表达特征_禁忌话题处理": {
+    "策略": "面具化 / 间接表达",
+    "说明": "Wilde 对同性恋倾向在维多利亚时代是禁忌，他采取面具化策略（'Give him a mask, and he will tell you the truth'）。"
+  }
 }

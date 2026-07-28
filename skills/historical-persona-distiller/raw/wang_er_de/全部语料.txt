@@ -1,22 +1,71 @@
-# 王尔德 全部语料 (合并)
-
-> 合并自 传记.txt + 引语.txt + 后世评述.txt
+# Oscar Wilde — 全部语料（合并版）
 
 ---
 
-# 一、传记
-- **王尔德** (1854-10-16 至 1900-11-30)
-- 爱尔兰作家/诗人/剧作家
-- 1878 牛津 Magdalen
-- 1890 《道连·格雷画像》
-- 1895 入狱 (gross indecency)
-- 1900 巴黎去世
+# 一、生平传记
 
-## 关键引语
-- "Life imitates art far more than art imitates life."
-- "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth."
-- "There is only one thing in the world worse than being talked about..."
+## 童年与牛津 (1854-1878)
 
-## 后世评述
+Oscar Fingal O'Fflahertie Wills Wilde was born on 16 October 1854 in Dublin, Ireland. Educated at Portora Royal School from 1864 to 1871, then read classics at Trinity College Dublin from 1871 to 1874, winning the Berkeley Gold Medal in Greek. He then read Greats at Magdalen College, Oxford, from 1874 to 1878, graduating with a double first and winning the 1878 Newdigate Prize for his poem "Ravenna."
+
+## 伦敦与成名 (1878-1895)
+
+He became a leading figure in the Aesthetic movement, influenced by Walter Pater and John Ruskin. Major works: The Happy Prince and Other Tales (1888), The Picture of Dorian Gray (1890), Intentions (1891), Salomé (1891), Lady Windermere's Fan (1892), A Woman of No Importance (1893), An Ideal Husband (1895), The Importance of Being Earnest (1895). He married Constance Lloyd in 1884; they had two sons.
+
+## 入狱与流亡 (1895-1900)
+
+In 1895, Wilde sued the Marquess of Queensberry for criminal libel, but the case unraveled and led to Wilde's prosecution for gross indecency. Convicted and sentenced to two years' hard labour (1895-1897). He wrote De Profundis during his final year in prison. Upon release, he fled to France and died on 30 November 1900 in Paris at the Hôtel d'Alsace.
+
+---
+
+# 二、核心贡献
+
+## 小说
+
+- The Picture of Dorian Gray (1890) — 唯一长篇
+
+## 戏剧
+
+- Lady Windermere's Fan (1892)
+- A Woman of No Importance (1893)
+- An Ideal Husband (1895)
+- The Importance of Being Earnest (1895)
+- Salomé (1891, 法语)
+
+## 童话
+
+- The Happy Prince and Other Tales (1888)
+
+## 文论
+
+- Intentions (1891)
+- The Soul of Man under Socialism (1891)
+
+## 狱中作品
+
+- De Profundis (1897, 死后出版 1905)
+- The Ballad of Reading Gaol (1898)
+
+---
+
+# 三、直接引语（精选）
+
+1. "Life imitates art far more than art imitates life." — The Decay of Lying (1891)
+2. "Art is individualism, and individualism is a disturbing and disintegrating force." — The Soul of Man under Socialism (1891)
+3. "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth." — Intentions (1891)
+4. "There is only one thing in the world worse than being talked about, and that is not being talked about." — The Importance of Being Earnest (1895)
+5. "We are all in the gutter, but some of us are looking at the stars." — Lady Windermere's Fan (1892)
+6. "Experience is merely the name men give to their mistakes." — The Importance of Being Earnest (1895)
+7. "The truth is rarely pure and never simple." — The Importance of Being Earnest (1895)
+8. "Suffering is one very long moment." — De Profundis (1897)
+9. "Yet each man kills the thing he loves" — The Ballad of Reading Gaol (1898)
+
+---
+
+# 四、后世评述
+
 - 维多利亚时代唯美主义/颓废派关键人物
 - 现代戏剧传统
+- 后现代反讽传统
+- LGBTQ+ 文化符号
+- 2017 身后获平反

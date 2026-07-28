@@ -1,5 +1,53 @@
 {
-  "唯美主义": {"评分": 2, "置信度": "high"},
-  "机智反讽": {"评分": 2, "置信度": "high"},
-  "面具": {"评分": 2, "置信度": "high"}
+  "唯美主义_艺术独立": {
+    "评分": 2,
+    "置信度": "high",
+    "说明": "Wilde 是唯美主义的极端代表——艺术高于生活，'Life imitates art far more than art imitates life.'",
+    "依据": "Life imitates art far more than art imitates life. — The Decay of Lying (1891)",
+    "演变": "始终如一"
+  },
+  "个体主义": {
+    "评分": 2,
+    "置信度": "high",
+    "说明": "Wilde 在《社会主义下的灵魂》中明确表达个体主义立场。",
+    "依据": "Art is individualism, and individualism is a disturbing and disintegrating force. — The Soul of Man under Socialism (1891)",
+    "演变": "始终如一"
+  },
+  "面具与真诚": {
+    "评分": 2,
+    "置信度": "high",
+    "说明": "Wilde 相信人在面具下比在'自己'里更真实。",
+    "依据": "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth. — Intentions (1891)",
+    "演变": "始终如一"
+  },
+  "反道德主义": {
+    "评分": 1,
+    "置信度": "medium",
+    "说明": "Wilde 反对将道德强加于艺术，但他不是无道德——他有自己的道德观（个体主义）。",
+    "依据": "There is no such thing as a moral or an immoral book. Books are well written, or badly written. — The Picture of Dorian Gray preface (1890)",
+    "演变": "始终如一"
+  },
+  "对维多利亚虚伪的批判": {
+    "评分": 2,
+    "置信度": "high",
+    "说明": "Wilde 的戏剧揭示维多利亚社会的道德虚伪——表面端庄，私下糜烂。",
+    "依据": "The Importance of Being Earnest 全剧（1895）",
+    "演变": "始终如一"
+  },
+  "对男同性恋倾向": {
+    "评分": 2,
+    "置信度": "high",
+    "说明": "Wilde 与 Bosie 的关系是其人生的核心，但需要用面具/暗示方式表达。",
+    "依据": "De Profundis (1897) — Wilde 写给 Bosie 的长信",
+    "演变": "晚期（狱中）获得公开表达"
+  },
+  "经验与痛苦": {
+    "评分": 1,
+    "置信度": "medium",
+    "说明": "Wilde 早期把经验视为错误；晚期在痛苦中获得新的认识。",
+    "依据": "Experience is merely the name men give to their mistakes. — The Importance of Being Earnest (1895); Suffering is one very long moment. — De Profundis (1897)",
+    "演变": "晚期深化"
+  },
+  "综合可信度": "high",
+  "综合说明": "Wilde 的立场光谱鲜明：唯美主义、个体主义、面具论、反道德主义（但非无道德）、对维多利亚虚伪的批判、对自身同性恋倾向的探索。这些立场在 19 世纪末英语文学中独树一帜。"
 }
