@@ -1,10 +1,10 @@
 {
   "persona_id": "mo_nai",
-  "distillation_date": "2026-07-13",
-  "sources_count": 1,
-  "sources": [{"name": "Wikipedia - Claude Monet", "type": "encyclopedia", "size_chars": 932000, "fetch_status": "success_2026-07-13"}],
-  "corpus_stats": {"传记_chars": 3500, "引语_chars": 1500, "total_raw_chars": 5000},
-  "stages_identified": {"count": 5, "default_stage": "Stage 4: 睡莲 (1899-1926)", "all_confidence": "high"},
+  "persona_name": "Claude Monet",
+  "distilled_at": "2026-07-29",
+  "distiller_version": "1.0",
+  "sources": {"count": 2, "types": ["wikipedia_biography", "wikiquote"], "urls": ["https://en.wikipedia.org/wiki/Claude_Monet", "https://en.wikiquote.org/wiki/Claude_Monet"]},
+  "stages": {"count": 4, "default_stage": "切片四 Giverny 与水莲系列 (1890-1926)"},
   "overall_confidence": "high",
-  "distillation_version": "1.0"
+  "citations": {"total": 12, "all_traceable_to_raw": true}
 }

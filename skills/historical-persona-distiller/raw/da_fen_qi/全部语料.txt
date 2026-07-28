@@ -1,0 +1,61 @@
+# Leonardo da Vinci — 全部语料（合并版）
+
+---
+
+# 一、生平传记
+
+详见 传记.txt。
+
+## 关键阶段
+- 1452-1464：童年（Vinci, Florence）
+- 1464-1482：Verrocchio 工坊学徒
+- 1482-1499：米兰 (Ludovico Sforza)
+- 1500-1506：佛罗伦萨与 Cesare Borgia 服务
+- 1508-1513：再次米兰
+- 1513-1516：罗马（教皇利奥十世）
+- 1516-1519：法国（弗朗西斯一世）
+- 1519-05-02：Clos Lucé 去世
+
+---
+
+# 二、核心作品
+
+## 绘画
+
+- The Baptism of Christ (1472-1475, 协作)
+- Madonna of the Carnation (c. 1472-1478)
+- Ginevra de' Benci (c. 1474-1480)
+- Virgin of the Rocks (1483-1493)
+- The Last Supper (1495-1498) — 最著名
+- Mona Lisa (1503-1516/1519) — 世界最著名
+- The Virgin and Child with St. Anne (c. 1508-1519)
+- Salvator Mundi (c. 1500, attributed)
+
+## 工程与发明
+
+- 飞行器设计
+- 装甲战车概念
+- 集中太阳能
+- 比例机 / 加法器
+- 双层船体
+- 自动卷线机
+
+## 手稿
+
+- Codex Atlanticus
+- Codex Leicester
+- Codex Arundun (解剖学)
+- Codex Madrid
+- 等多卷
+
+---
+
+# 三、直接引语
+
+详见 引语.txt。
+
+---
+
+# 四、后世评述
+
+详见 后世评述.txt。

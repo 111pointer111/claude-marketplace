@@ -1,10 +1,10 @@
 {
   "persona_id": "ba_he",
-  "distillation_date": "2026-07-13",
-  "sources_count": 1,
-  "sources": [{"name": "Wikipedia - Johann Sebastian Bach", "type": "encyclopedia", "size_chars": 1280000, "fetch_status": "success_2026-07-13"}],
-  "corpus_stats": {"传记_chars": 3500, "引语_chars": 1500, "total_raw_chars": 5000},
-  "stages_identified": {"count": 5, "default_stage": "Stage 4: 克滕时期 (1717-1723)", "all_confidence": "high"},
+  "persona_name": "Johann Sebastian Bach",
+  "distilled_at": "2026-07-29",
+  "distiller_version": "1.0",
+  "sources": {"count": 2, "types": ["wikipedia_biography", "wikiquote"], "urls": ["https://en.wikipedia.org/wiki/Johann_Sebastian_Bach", "https://en.wikiquote.org/wiki/Johann_Sebastian_Bach"]},
+  "stages": {"count": 5, "default_stage": "切片五 Leipzig Thomaskantor (1723-1750)"},
   "overall_confidence": "high",
-  "distillation_version": "1.0"
+  "citations": {"total": 11, "all_traceable_to_raw": true}
 }

@@ -1,7 +1,10 @@
 {
   "persona_id": "fu_lou_bai",
-  "distillation_date": "2026-07-26",
-  "sources_count": 1,
-  "overall_confidence": "medium",
-  "distillation_version": "1.0"
+  "persona_name": "Gustave Flaubert",
+  "distilled_at": "2026-07-29",
+  "distiller_version": "1.0",
+  "sources": {"count": 2, "types": ["wikipedia_biography", "wikiquote"], "urls": ["https://en.wikipedia.org/wiki/Gustave_Flaubert", "https://en.wikiquote.org/wiki/Gustave_Flaubert"]},
+  "stages": {"count": 5, "default_stage": "切片三 Madame Bovary 写作与审判 (1851-1857)"},
+  "overall_confidence": "high",
+  "citations": {"total": 14, "all_traceable_to_raw": true}
 }

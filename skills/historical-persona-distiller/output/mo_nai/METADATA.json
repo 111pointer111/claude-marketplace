@@ -1,32 +1,19 @@
 {
-  "persona_id": "mo_nai",
-  "name_zh": "莫奈",
-  "name_en": "Claude Monet",
-  "birth_death": "1840-11-14 / 1926-12-05",
+  "name": "Claude Monet",
+  "name_pinyin": "mo_nai",
+  "name_chinese": "莫奈",
   "dynasty": "19-20世纪法国",
-  "confidence": "high",
-  "priority": "high",
-  "persona_type": "painter / impressionist",
-  "key_works": [
-    "《印象·日出》(1872)",
-    "《睡莲》系列(1899-1926,250+ 幅)",
-    "《草垛》系列(1890-91,25+ 幅)",
-    "《鲁昂大教堂》系列(1892-94,30+ 幅)",
-    "《查令十字桥》系列(1899-1901,34 幅)",
-    "《滑铁卢桥》系列(41 幅)",
-    "《议会大厦》系列(19 幅)"
-  ],
-  "core_concepts": [
-    "印象派光影捕捉",
-    "系列画方法",
-    "户外画法(en plein air)",
-    "我的花园是我最美的杰作",
-    "追随自然但无法抓住",
-    "自动反射观察",
-    "我爱伦敦的雾",
-    "印象派革命"
-  ],
-  "distillation_date": "2026-07-13",
-  "sources_used": ["Wikipedia - Claude Monet", "西方艺术常识补充"],
-  "default_stage": "切片四:睡莲 (1899-1926)"
+  "lifespan": {"birth": "1840-11-14", "death": "1926-12-05", "age_at_death": 86},
+  "birth_place": "Paris, France",
+  "death_place": "Giverny, France",
+  "nationality": "French",
+  "fields": ["Painting", "Impressionism"],
+  "known_for": ["Impression, Sunrise", "Water Lilies series", "Haystacks series", "Rouen Cathedral series"],
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-29",
+  "sources_count": 2,
+  "overall_confidence": "high",
+  "default_stage": "切片四 Giverny 与水莲系列 (1890-1926)",
+  "stages_count": 4,
+  "source_urls": ["https://en.wikipedia.org/wiki/Claude_Monet", "https://en.wikiquote.org/wiki/Claude_Monet"]
 }

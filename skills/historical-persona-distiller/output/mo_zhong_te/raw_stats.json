@@ -1,0 +1,10 @@
+{
+  "persona_id": "mo_zhong_te",
+  "persona_name": "Wolfgang Amadeus Mozart",
+  "distilled_at": "2026-07-29",
+  "distiller_version": "1.0",
+  "sources": {"count": 2, "types": ["wikipedia_biography", "wikiquote"], "urls": ["https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart", "https://en.wikiquote.org/wiki/Wolfgang_Amadeus_Mozart"]},
+  "stages": {"count": 4, "default_stage": "切片四 维也纳盛期与 Da Ponte 合作 (1782-1791)"},
+  "overall_confidence": "high",
+  "citations": {"total": 12, "all_traceable_to_raw": true}
+}

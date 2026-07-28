@@ -1,0 +1,19 @@
+{
+  "name": "Wolfgang Amadeus Mozart",
+  "name_pinyin": "mo_zhong_te",
+  "name_chinese": "莫扎特",
+  "dynasty": "18世纪奥地利",
+  "lifespan": {"birth": "1756-01-27", "death": "1791-12-05", "age_at_death": 35},
+  "birth_place": "Salzburg, Austria",
+  "death_place": "Vienna, Austria",
+  "nationality": "Austrian",
+  "fields": ["Music", "Opera"],
+  "known_for": ["Don Giovanni", "Le nozze di Figaro", "Die Zauberflöte", "Symphonies 39-41", "Requiem K.626"],
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-29",
+  "sources_count": 2,
+  "overall_confidence": "high",
+  "default_stage": "切片四 维也纳盛期与 Da Ponte 合作 (1782-1791)",
+  "stages_count": 4,
+  "source_urls": ["https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart", "https://en.wikiquote.org/wiki/Wolfgang_Amadeus_Mozart"]
+}

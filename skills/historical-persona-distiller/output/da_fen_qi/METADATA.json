@@ -1,30 +1,19 @@
 {
-  "persona_id": "da_fen_qi",
-  "name_zh": "达·芬奇",
-  "name_en": "Leonardo da Vinci",
-  "birth_death": "1452-04-15 / 1519-05-02",
+  "name": "Leonardo da Vinci",
+  "name_pinyin": "da_fen_qi",
+  "name_chinese": "达·芬奇",
   "dynasty": "15-16世纪意大利文艺复兴",
-  "confidence": "high",
-  "priority": "high",
-  "persona_type": "artist / scientist / engineer / philosopher",
-  "key_works": [
-    "《最后的晚餐》(1495-98)",
-    "《蒙娜丽莎》(1503-16)",
-    "《维特鲁威人》(1490)",
-    "《岩间圣母》(1483-93)",
-    "笔记本(解剖+飞行器+工程)"
-  ],
-  "core_concepts": [
-    "艺术+科学统一",
-    "学习永不耗尽",
-    "经验+实验",
-    "维特鲁威人",
-    "博学家训练",
-    "自然界统一",
-    "实践哲学",
-    "延迟发表"
-  ],
-  "distillation_date": "2026-07-13",
-  "sources_used": ["Wikipedia - Leonardo da Vinci", "西方文艺复兴常识补充"],
-  "default_stage": "切片四:罗马与第二次米兰 (1508-1516)"
+  "lifespan": {"birth": "1452-04-15", "death": "1519-05-02", "age_at_death": 67},
+  "birth_place": "Vinci, Tuscany, Italy",
+  "death_place": "Clos Lucé, Amboise, France",
+  "nationality": "Italian",
+  "fields": ["Painting", "Engineering", "Science", "Anatomy"],
+  "known_for": ["Mona Lisa", "The Last Supper", "Vitruvian Man", "Codex Atlanticus"],
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-29",
+  "sources_count": 2,
+  "overall_confidence": "high",
+  "default_stage": "切片二 米兰时期 (1482-1499)",
+  "stages_count": 4,
+  "source_urls": ["https://en.wikipedia.org/wiki/Leonardo_da_Vinci", "https://en.wikiquote.org/wiki/Leonardo_da_Vinci"]
 }

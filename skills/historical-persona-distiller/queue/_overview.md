@@ -5,8 +5,8 @@
 ## 全局统计
 
 - 总人物：**310**（含跨批次重复去重后实际 **约 290**）
-- 已完成：**193**
-- 待处理：**约 97**
+- 已完成：**200**
+- 待处理：**约 90**
 
 ## 分批索引
 
@@ -24,11 +24,11 @@
 | 第十批：西方近现代哲学家 | [10_western_modern_philosophy.md](10_western_modern_philosophy.md) | — | 15 | 9 |
 | 第十一批：西方近现代科学家（物理学+信息论+生物学） | [11_western_modern_science.md](11_western_modern_science.md) | — | 15 | 15 |
 | 第十二批：中国近代思想家与启蒙人物 | [12_modern_chinese_thinkers.md](12_modern_chinese_thinkers.md) | — | 15 | 1 |
-| 第十三批：西方近现代文学家与艺术家 | [13_western_modern_literature.md](13_western_modern_literature.md) | — | 15 | 2 |
+| 第十三批：西方近现代文学家与艺术家 | [13_western_modern_literature.md](13_western_modern_literature.md) | — | 15 | 4 |
 | 第十四批：数学家补完 | [14_mathematicians.md](14_mathematicians.md) | — | 10 | 4 |
 | 第十五批：心理学家补完 | [15_psychologists.md](15_psychologists.md) | — | 10 | 0 |
 | 第十六批：中国近现代文学家 | [16_modern_contemporary_chinese_literature.md](16_modern_contemporary_chinese_literature.md) | — | 15 | 0 |
-| 第十七批：艺术大师+中国近现代科学家+西方经济学补完+中国现代女作家 | [17_art_chinese_science_economics_female_writers.md](17_art_chinese_science_economics_female_writers.md) | — | 21 | 3 |
+| 第十七批：艺术大师+中国近现代科学家+西方经济学补完+中国现代女作家 | [17_art_chinese_science_economics_female_writers.md](17_art_chinese_science_economics_female_writers.md) | — | 21 | 9 |
 
 ## 跨批次说明
 

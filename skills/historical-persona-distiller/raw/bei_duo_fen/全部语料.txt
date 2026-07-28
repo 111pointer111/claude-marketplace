@@ -1,0 +1,62 @@
+# Ludwig van Beethoven — 全部语料（合并版）
+
+---
+
+# 一、生平传记
+
+详见 传记.txt。
+
+## 关键阶段
+- 1770-1792：Bonn
+- 1792-1802：维也纳早期
+- 1802-1814：英雄时期 (Heiligenstadt Testament 1802, Eroica 1803-04)
+- 1815-1822：低谷 (侄子 Karl 监护争议)
+- 1823-1827：晚期 (Missa Solemnis, 第九交响曲, 晚期四重奏)
+- 1827-03-26：维也纳去世
+
+---
+
+# 二、核心作品
+
+## 交响曲（9 部）
+
+- No. 1 C 大调 Op. 21 (1800)
+- No. 2 D 大调 Op. 36 (1802)
+- No. 3 降 E 大调 Op. 55 "Eroica" (1803-04)
+- No. 4 降 B 大调 Op. 60 (1806)
+- No. 5 c 小调 Op. 67 (1808)
+- No. 6 F 大调 Op. 68 "Pastoral" (1808)
+- No. 7 A 大调 Op. 92 (1812)
+- No. 8 F 大调 Op. 93 (1812)
+- No. 9 d 小调 Op. 125 "Choral" (1824) — 末乐章 Schiller《欢乐颂》
+
+## 钢琴奏鸣曲（32 部）
+
+- 早期：Pathétique Op.13, Moonlight Op.27/2
+- 中期：Waldstein Op.53, Appassionata Op.57
+- 晚期：Hammerklavier Op.106, 最后五首 Op.109-111
+
+## 弦乐四重奏（16 部）
+
+- 中期：Razumovsky 三首 Op.59
+- 晚期：Op.127, 130, 131, 132, 135 (Heiliger Dankgesang)
+
+## 其他
+
+- Fidelio 歌剧 (1814)
+- Missa Solemnis (1823)
+- Diabelli Variations Op.120
+- Große Fuge Op.133
+- 钢琴协奏曲 5 部
+
+---
+
+# 三、直接引语
+
+详见 引语.txt。
+
+---
+
+# 四、后世评述
+
+详见 后世评述.txt。
