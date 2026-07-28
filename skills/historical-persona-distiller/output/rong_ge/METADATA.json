@@ -1,38 +1,69 @@
 {
-  "persona_id": "rong_ge",
-  "name_zh": "卡尔·荣格",
-  "name_en": "Carl Gustav Jung",
-  "birth_death": "1875-1961",
-  "dynasty": "瑞士/19-20世纪",
-  "confidence": "high",
-  "priority": "medium",
-  "persona_type": "psychologist_psychiatrist",
+  "name": "Carl Gustav Jung",
+  "name_pinyin": "rong_ge",
+  "name_chinese": "荣格 / 卡尔·荣格",
+  "dynasty": "19-20世纪瑞士",
+  "lifespan": {
+    "birth": "1875-07-26",
+    "death": "1961-06-06",
+    "age_at_death": 85
+  },
+  "birth_place": "Kesswil, Switzerland",
+  "death_place": "Küsnacht, Switzerland",
+  "nationality": "Swiss",
+  "fields": ["Psychology", "Psychiatry"],
+  "known_for": [
+    "Analytical Psychology (founder)",
+    "Collective unconscious",
+    "Archetypes theory",
+    "Introversion/Extraversion",
+    "Four psychological functions (thinking, feeling, sensation, intuition)",
+    "Complex (psychology)",
+    "The Red Book (Liber Novus)",
+    "Psychological Types (1921)"
+  ],
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-28",
+  "distiller_skill": "historical-persona-distiller",
+  "sources_count": 4,
+  "overall_confidence": "high",
+  "default_stage": "切片四 独立发展与集体无意识理论 (1914-1930)",
+  "default_stage_confidence": "high",
+  "stages_count": 5,
+  "raw_text_files": [
+    "传记.txt",
+    "引语.txt",
+    "后世评述.txt",
+    "全部语料.txt"
+  ],
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "consistency_check.md"
+  ],
+  "source_urls": [
+    "https://www.britannica.com/biography/Carl-Jung",
+    "https://www.britannica.com/science/collective-unconscious",
+    "https://www.britannica.com/art/archetype",
+    "https://www.britannica.com/science/analytic-psychology"
+  ],
+  "key_relationships": [
+    {"name": "Sigmund Freud", "relationship": "1907-1914 密切合作者，后决裂；师承式关系"},
+    {"name": "Eugen Bleuler", "relationship": "Burghölzli 精神病院主任，导师"},
+    {"name": "Emma Jung", "relationship": "妻子，分析心理学合作者"},
+    {"name": "Sabina Spielrein", "relationship": "患者，后成为分析心理学家"},
+    {"name": "父亲 (语言学家/牧师)", "relationship": "童年宗教困惑的源头"}
+  ],
   "key_works": [
-    "《无意识的心理学》(1916, Psychology of the Unconscious)",
-    "《心理类型》(1921, Psychological Types)",
-    "《红书》(1914-1930, The Red Book / Liber Novus)"
+    {"year": 1907, "title": "Über die Psychologie der Dementia Praecox", "type": "book"},
+    {"year": 1912, "title": "Wandlungen und Symbole der Libido (Psychology of the Unconscious)", "type": "book"},
+    {"year": "1914-1930", "title": "Liber Novus (The Red Book)", "type": "manuscript", "note": "2009 出版"},
+    {"year": 1921, "title": "Psychologische Typen (Psychological Types)", "type": "book"},
+    {"year": 1933, "title": "Moderne Man in Search of a Soul", "type": "essay collection"},
+    {"year": 1944, "title": "Psychology and Alchemy", "type": "book"},
+    {"year": "1964", "title": "Man and His Symbols", "type": "book", "note": "死后出版"}
   ],
-  "philosophical_school": "分析心理学（Analytical Psychology）",
-  "core_concepts": [
-    "集体无意识（Collective Unconscious）",
-    "原型（Archetypes）",
-    "内倾/外倾（Introvert/Extravert）",
-    "情结（Complex）",
-    "四种心理功能（思维、情感、感觉、直觉）"
-  ],
-  "distillation_date": "2026-05-12",
-  "distillation_version": "1.0",
-  "source_corpus_size": "约9000字",
-  "sources_used": [
-    "Britannica - Carl Jung Biography",
-    "Britannica - collective unconscious",
-    "Britannica - archetype",
-    "Britannica - analytic psychology"
-  ],
-  "notes": [
-    "荣格为西方心理学人物，主要作品为英语，语料来自英文百科",
-    "本次蒸馏使用Britannica作为主要来源",
-    "web_search内置DuckDuckGo失败，SerpAPI via web_fetch也失败，改用百度搜索也失败",
-    "最终使用Britannica成功获取主要传记内容"
-  ]
+  "philosophical_school": "Analytical Psychology (分析心理学)"
 }

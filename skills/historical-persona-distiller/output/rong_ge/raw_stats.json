@@ -1,40 +1,66 @@
 {
   "persona_id": "rong_ge",
-  "distillation_date": "2026-05-12",
-  "source_files": [
-    "raw/rong_ge/传记.txt",
-    "raw/rong_ge/引语.txt",
-    "raw/rong_ge/后世评述.txt",
-    "raw/rong_ge/全部语料.txt"
-  ],
-  "raw_stats": {
-    "传记字数": "约1500字",
-    "引语字数": "约2500字",
-    "后世评述字数": "约700字",
-    "全部语料字数": "约9000字（含重复）"
+  "persona_name": "Carl Gustav Jung",
+  "distilled_at": "2026-07-28",
+  "distiller_version": "1.0",
+  "sources": {
+    "count": 4,
+    "types": ["britannica_biography", "britannica_concept", "britannica_concept", "britannica_concept"],
+    "urls": [
+      "https://www.britannica.com/biography/Carl-Jung",
+      "https://www.britannica.com/science/collective-unconscious",
+      "https://www.britannica.com/art/archetype",
+      "https://www.britannica.com/science/analytic-psychology"
+    ]
   },
-  "sources_count": 4,
-  "primary_sources": [
-    "Britannica - Carl Jung Biography",
-    "Britannica - collective unconscious",
-    "Britannica - archetype",
-    "Britannica - analytic psychology"
-  ],
-  "dimension_files": [
-    "processed/rong_ge/stages.md",
-    "processed/rong_ge/dimension_思想内核.json",
-    "processed/rong_ge/dimension_语言特征.json",
-    "processed/rong_ge/dimension_表达偏好.json",
-    "processed/rong_ge/dimension_立场光谱.json",
-    "processed/rong_ge/dimension_voice_profile.json"
-  ],
-  "output_files": [
-    "output/rong_ge/SKILL.md",
-    "output/rong_ge/EVENTS.md",
-    "output/rong_ge/VOICE.md",
-    "output/rong_ge/README.md",
-    "output/rong_ge/METADATA.json",
-    "output/rong_ge/CITATIONS.md",
-    "output/rong_ge/raw_stats.json"
+  "raw_text_files": {
+    "传记.txt": {"approx_words": 1500, "approx_chars": 9000},
+    "引语.txt": {"approx_words": 700, "approx_chars": 4500, "quotes_count": 7},
+    "后世评述.txt": {"approx_words": 250, "approx_chars": 1600},
+    "全部语料.txt": {"approx_words": 1800, "approx_chars": 11500}
+  },
+  "stages": {
+    "count": 5,
+    "default_stage": "切片四 独立发展与集体无意识理论 (1914-1930)",
+    "stages_list": [
+      {"name": "切片一 童年与早熟", "years": "1875-1895", "confidence": "high"},
+      {"name": "切片二 医学训练与情结概念", "years": "1895-1907", "confidence": "high"},
+      {"name": "切片三 与弗洛伊德合作与决裂", "years": "1907-1914", "confidence": "high"},
+      {"name": "切片四 独立发展与集体无意识理论", "years": "1914-1930", "confidence": "high", "is_default": true},
+      {"name": "切片五 晚年影响与逝世", "years": "1930-1961", "confidence": "high"}
+    ]
+  },
+  "dimensions": {
+    "思想内核": {"core_values_count": 6, "底线_count": 0, "overall_confidence": "high"},
+    "语言特征": {"评分维度": 8, "高频意象_top_10": true, "confidence": "high"},
+    "表达偏好": {"对象类型_count": 5, "通用特征_count": 4, "confidence": "high"},
+    "立场光谱": {"议题_count": 8, "confidence": "high"}
+  },
+  "consistency_check": {
+    "cross_stage_consistency": "high",
+    "source_diversity": "medium",
+    "llm_overreach_risk": "low",
+    "confidence_adjustment": "none"
+  },
+  "citations": {
+    "total": 7,
+    "categories": {
+      "集体无意识": 2,
+      "原型": 1,
+      "内倾/外倾": 1,
+      "四种功能": 1,
+      "情结": 1,
+      "分析心理学方法论": 1
+    },
+    "all_traceable_to_raw": true
+  },
+  "overall_confidence": "high",
+  "quality_control_notes": [
+    "全部 7 条 Jung 引语均可回溯到 raw/rong_ge/ 引语.txt",
+    "每条 dimension 结论至少有 1 处原文引用支撑",
+    "立场光谱每个议题有原文依据",
+    "SKILL.md 正文字数（不含引用）约 1900 字，在 1500-5000 区间",
+    "5 个阶段切片均标注 confidence",
+    "默认阶段（切片四）confidence: high"
   ]
 }
