@@ -1,26 +1,81 @@
-# 鲁迅 全部语料 (合并)
+# 鲁迅 — 全部语料（合并版）
 
-> 合并自 传记.txt + 引语.txt + 后世评述.txt
+> 本文件由 传记.txt + 引语.txt + 后世评述.txt 合并而来，供 Stage 2-5 使用。
 
 ---
 
-# 一、传记
-- **鲁迅** (1881-09-25 至 1936-10-19)
-- 浙江绍兴人
-- 1904 入仙台医学校; 弃医从文
-- **1918 《狂人日记》第一篇白话小说**
-- 1921 《阿Q正传》
-- 1923 《呐喊》; 1926 《彷徨》; 1935 《故事新编》
-- 1927 弃小说, 转向政治杂文
-- 1930 共创"左翼作家联盟"
+# 一、生平传记
+
+## 童年与绍兴 (1881-1897)
+
+Lu Xun (魯迅), pen name of Zhou Shuren (周树人), was born Zhou Zhangshou on 25 September 1881 in Shaoxing, Zhejiang, into a declining family of landlords and scholar-officials. His paternal grandfather, Zhou Fuqing, had achieved the prestigious rank of Hanlin Academician. His father, Zhou Boyi, was stripped of his government position in 1893 for attempting to bribe an examination official, leading to the grandfather's imprisonment until 1901. The father subsequently fell into opium addiction and died of an asthma attack in 1896.
+
+## 求学与弃医从文 (1898-1909)
+
+After abandoning the imperial examination path in 1898, he attended the Jiangnan Naval Academy in Nanjing, then the School of Mines and Railways, graduating in 1902. He went to Japan in 1902, and enrolled at Sendai Medical School in 1904, where a pivotal lantern slide depicting the apathy of Chinese onlookers at a public execution during the Russo-Japanese War prompted him to abandon medicine for literature.
+
+## 北京教育部与新文化运动 (1909-1917)
+
+Lu Xun returned to China around 1909, holding teaching positions before securing employment at the Ministry of Education of the Beiyang government following the 1911 Xinhai Revolution. In 1917, he accepted Qian Xuantong's invitation to write for the journal La Jeunesse (New Youth).
+
+## 文学创作高峰 (1918-1926)
+
+In April 1918 published Diary of a Madman (狂人日记), the first modern Chinese novel written in vernacular language. He followed this with The True Story of Ah Q (阿Q正传, 1921), and collected his early stories in the volumes Nahan (Call to Arms, 1923) and Panghuang (Wandering, 1926).
+
+## 上海杂文与左翼 (1927-1936)
+
+He settled in Shanghai by late 1927, where he became co-founder of the League of Left-Wing Writers in 1930. He engaged increasingly with Marxist thought while maintaining an uneasy distance from the Chinese Communist Party. Lu Xun died of bronchial asthma on 19 October 1936 in Shanghai.
+
+---
+
+# 二、核心贡献（按领域）
+
+## 白话小说开创
+
+- 《狂人日记》(1918) — 第一篇白话小说
+- 《阿Q正传》(1921)
+- 《呐喊》(1923)
+- 《彷徨》(1926)
+
+## 散文诗与回忆
+
+- 《野草》(1927) — 散文诗
+- 《朝花夕拾》(1932) — 回忆散文
+- 《故事新编》(1935) — 神话新编
+
+## 翻译
+
+- 翻译果戈里《死魂灵》
+- 推崇尼采、易卜生
+
+## 杂文
+
+- 大量杂文（1927-1936）
 - 1927 拒诺贝尔奖提名
-- 1936 死于肺结核
+- 拒中共写革命小说请求
 
-## 关键引语
-- 铁屋比喻
-- "吃人" 儒家批判
+---
 
-## 后世评述
+# 三、直接引语（精选）
+
+1. "我翻开历史一查……满本都写着两个字是'吃人'！" —— 《狂人日记》(1918)
+2. "假如一间铁屋子，是绝无窗户而万难破毁的，里面有许多熟睡的人们，不久都要闷死了……"
+3. "愚弱的国民，即使体格如何健全，如何茁壮，也只能做毫无意义的示众的材料和看客" —— 《呐喊》自序 (1922)
+4. "中医不过是一种有意的或无意的骗子" —— 《呐喊》自序 (1922)
+5. "如果你说，这屋子太暗了，在这里开一个窗，大家一定不允许。但如果你主张拆掉屋顶，他们就会来调和，愿意开窗了。" —— 《无声的中国》(1927)
+6. "没有吃过人的孩子，或者还有？救救孩子……" —— 《狂人日记》(1918)
+7. "希望是本无所谓有，无所谓无的。这正如地上的路；其实地上本没有路，走的人多了，也便成了路。" —— 《故乡》(1921)
+8. "横眉冷对千夫指，俯首甘为孺子牛" —— 自题小像 (1933)
+9. "我向来是不惮以最坏的恶意来推测中国人的" —— 《纪念刘和珍君》(1926)
+10. "真的猛士，敢于直面惨淡的人生" —— 同上
+
+---
+
+# 四、后世评述
+
+- 毛泽东："the saint of modern China"，私下评价鲁迅会"either remained silent or been imprisoned"
 - 现代中国文学之父
-- 毛泽东评"民族魂"
-- 大陆文学/思想核心
+- 新文化运动+五四运动先驱
+- 国民性批判的奠基者
+- 白话文运动核心
+- 弃医从文代表中国现代知识分子的转向

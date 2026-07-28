@@ -1,22 +1,48 @@
-# 鲁迅 直接引语
+# 鲁迅 — 直接引语清单
+
+来源：Wikiquote (en.wikiquote.org/wiki/Lu_Xun)
 
 ---
 
-## 铁屋比喻
+## 批判中国传统的引语
 
-> "Imagine an iron house without windows… if you cry aloud to wake a few of the lighter sleepers… do you think you are doing them a good turn?"
+1. "我以为要少——或者竟不——看中国书，多看外国书" —— 致许广平信 (1925)
+2. "愚弱的国民，即使体格如何健全，如何茁壮，也只能做毫无意义的示众的材料和看客" —— 《呐喊》自序 (1922)
+3. "中医不过是一种有意的或无意的骗子" —— 《呐喊》自序 (1922)
+4. "我翻开历史一查……满本都写着两个字是'吃人'！" —— 《狂人日记》(1918)
+5. "铁屋子比喻": "假如一间铁屋子，是绝无窗户而万难破毁的，里面有许多熟睡的人们，不久都要闷死了……"
 
-## 国民性批判
+## Silent China / 政治隐喻
 
-> (批判)"吃人" 的儒家传统
+6. "如果你说，这屋子太暗了，在这里开一个窗，大家一定不允许。但如果你主张拆掉屋顶，他们就会来调和，愿意开窗了。" —— 《无声的中国》(1927)
 
-## 关键概念
+## 1930s 政论文
 
-- "吃人" (Cannibalism/Cannibalistic Confucianism)
-- "呐喊" (Call to Arms)
-- "彷徨" (Wandering)
-- "阿Q" (Ah Q, 国民性典型)
-- "狂人日记" (Diary of a Madman, 第一篇白话小说)
-- "故事新编" (Old Tales Retold)
-- "横眉冷对千夫指" (Eyebrows furrowed, coldly facing the scorn of the masses)
-- "俯首甘为孺子牛" (Head bowed, willing to be a willing ox for the children)
+7. "苏联饿杀知识分子的警告，这是魔鬼的眼泪" —— 1932 论文
+
+## 格言 (来自林语堂 1942 编)
+
+8. "希望是本无所谓有，无所谓无的。这正如地上的路；其实地上本没有路，走的人多了，也便成了路。" —— 《故乡》(1921)
+9. "所谓的'和平'，不过是两次战争之间的间歇"
+10. "我从前以为人是有罪的，所以枪毙……现在我才知道人是被人所厌恶的"
+11. "与其崇拜孔教、关羽，不如崇拜达尔文、易卜生"
+
+## 《狂人日记》(1918) 引语
+
+12. "狮子似的凶心，兔子的怯弱，狐狸的狡猾……"
+13. "没有吃过人的孩子，或者还有？救救孩子……"
+
+## 其他格言
+
+14. "谩骂和恐吓决不是战斗"
+15. "革命是为了让人活，而不是让人死"
+
+## 自题小像 (1933)
+
+16. "横眉冷对千夫指，俯首甘为孺子牛" (Fierce-browed, I coolly defy a thousand pointing fingers; bowed-head, I willingly serve the children like an ox)
+
+## 其他
+
+17. "我向来是不惮以最坏的恶意来推测中国人的" —— 《纪念刘和珍君》(1926)
+18. "真的猛士，敢于直面惨淡的人生" —— 同上
+19. "时间就像海绵里的水，只要愿挤，总还是有的"

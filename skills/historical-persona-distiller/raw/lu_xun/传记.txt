@@ -1,42 +1,15 @@
-# 鲁迅 传记
+鲁迅 (Lu Xun, Zhou Shuren, 1881-1936)
 
-> 来源: Wikipedia
-> 抓取日期: 2026-07-26
+来源：Wikipedia (en.wikipedia.org/wiki/Lu_Xun)
 
-## 基本信息
-- **鲁迅** (原名周樟寿, 后改名周树人, 1881-09-25 至 1936-10-19)
-- 浙江绍兴人, 现代文学之父
-- 1936 死于肺结核 (~1924 染病)
+---
 
-## 家庭
-- 兄长 (周作人/周建人)
-- 1906 包办婚姻 (朱安)
-- 1927 伴侣: 学生许广平; 1929 子周海婴
+Lu Xun (魯迅), pen name of Zhou Shuren (周树人), was born Zhou Zhangshou on 25 September 1881 in Shaoxing, Zhejiang, into a declining family of landlords and scholar-officials. His paternal grandfather, Zhou Fuqing, had achieved the prestigious rank of Hanlin Academician, but the family's fortunes had already begun to wane by the time of Lu Xun's birth. His father, Zhou Boyi, was stripped of his government position in 1893 for attempting to bribe an examination official, and the resulting scandal led to the grandfather's imprisonment until 1901. The father subsequently fell into opium addiction and heavy drinking, dying of an asthma attack in 1896, possibly complicated by dropsy. Lu Xun's mother, though unschooled, taught herself to read and write.
 
-## 教育与早期生涯
-- 1898-1902 江南水师学堂 / 矿路学堂
-- 1904 入日本仙台医学校; 看日俄战争幻灯片 (中国观众冷漠看同胞被处决) 后放弃医学
-- 铁屋比喻: "Imagine an iron house without windows… if you cry aloud to wake a few of the lighter sleepers… do you think you are doing them a good turn?"
+His early education centered on the Confucian classics, though he grew drawn to folk stories and the mythological narratives of the Classic of Mountains and Seas. After abandoning the imperial examination path in 1898, he attended the Jiangnan Naval Academy in Nanjing, then the School of Mines and Railways, graduating in 1902. He went to Japan in 1902, and enrolled at Sendai Medical School in 1904, where a pivotal lantern slide depicting the apathy of Chinese onlookers at a public execution during the Russo-Japanese War prompted him to abandon medicine for literature. As he later wrote in his preface to Nahan, he resolved to become a "literary physician" to China's spiritual illness rather than treat its bodies.
 
-## 文学年表
-- 1918 《狂人日记》— 第一篇白话小说 (首次用笔名"鲁迅")
-- 1921 《阿Q正传》(中篇)
-- 1923 《呐喊》
-- 1926 《彷徨》
-- 1927 弃小说, 转向政治杂文
-- 1930 共创"中国左翼作家联盟"
-- 1935 《故事新编》
-- 1927 拒诺贝尔奖提名 (Sven Hedin 经台静农); 拒中共写革命小说请求
+Lu Xun returned to China around 1909, holding teaching positions before securing employment at the Ministry of Education of the Beiyang government following the 1911 Xinhai Revolution. In 1917, he accepted Qian Xuantong's invitation to write for the journal La Jeunesse (New Youth), and in April 1918 published Diary of a Madman (狂人日记), the first modern Chinese novel written in vernacular language. He followed this with The True Story of Ah Q (阿Q正传, 1921), and collected his early stories in the volumes Nahan (Call to Arms, 1923) and Panghuang (Wandering, 1926). He also wrote prose poems collected as Wild Grass (野草, 1927) and autobiographical essays gathered in Dawn Blossoms Plucked at Dusk (朝花夕拾, 1932).
 
-## 思想与风格
-- 新文化运动+五四运动先驱
-- 犀利讽刺的"国民性"批判
-- 批判儒家传统为"吃人"
-- 翻译果戈里《死魂灵》; 推崇尼采
+His marriage to Zhu An, arranged by his mother in 1906, was never romantic, though he supported her financially throughout his life. A falling out with his younger brother Zhou Zuoren, also a noted writer, occurred in 1923. Around 1925, he began a romantic relationship with his student Xu Guangping, with whom he had a son, Zhou Haiying, born in 1929. After teaching at Xiamen University and Sun Yat-sen University, he settled in Shanghai by late 1927, where he became co-founder of the League of Left-Wing Writers in 1930. He engaged increasingly with Marxist thought while maintaining an uneasy distance from the Chinese Communist Party, reportedly telling his student Feng Xuefeng that he would be among the first killed should the revolution succeed.
 
-## 遗产
-- 毛泽东评鲁迅为"现代中国的圣人"、"伟大的思想家和革命家"、"中国文化革命的主将"
-- 毛泽东 1957 对罗稷南说"鲁迅要活着, 要么闭嘴, 要么入狱"
-- 鲁迅著作在台湾直至 1980 年代末被禁
-- 大陆文革后成为正统
-- 葬于上海鲁迅公园, 墓碑有毛泽东书法题字
+In declining health from tuberculosis through the 1930s, Lu Xun died of bronchial asthma on 19 October 1936 in Shanghai. Mao Zedong later pronounced him "the saint of modern China," though Mao privately remarked that had Lu Xun lived, he would have "either remained silent or been imprisoned."
