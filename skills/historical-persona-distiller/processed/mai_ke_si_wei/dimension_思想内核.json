@@ -1,0 +1,88 @@
+{
+  "核心价值观": [
+    {
+      "条目": "物理直觉与数学严格的统一",
+      "描述": "Maxwell 认为物理学的真正进步在于找到能容纳已知现象的数学框架，但数学必须由可观测的物理量驱动。这种统一性是他整个学术生涯的核心方法论。",
+      "原文引用": [
+        "The mathematical difficulties of the theory of rotation arise chiefly from the want of geometrical illustrations and sensible images. — On a Dynamical Top (1857)",
+        "It is of great advantage to the student of any subject to read the original memoirs on that subject, for science is always most completely assimilated when it is in the nascent state. — Treatise on Electricity and Magnetism, Preface (1873)"
+      ],
+      "同时代对比": "与同时代英国经验主义传统（法拉第的'场'直觉但缺乏数学）和德国数学物理传统（亥姆霍兹、克劳修斯偏重形式）相比，Maxwell 是极少数同时精通两者并能融合的学者。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "场作为物理实在",
+      "描述": "Maxwell 在 1860 年代完成的关键性飞跃：电磁场不是描述相互作用的数学便利，而是充满空间的物理实在。光、电、磁、热辐射都是同一介质的不同振动模式。",
+      "原文引用": [
+        "Light itself (including radiant heat, and other radiations if any) is an electromagnetic disturbance in the form of waves propagated through the electromagnetic field according to electromagnetic laws. — A Dynamical Theory of the Electromagnetic Field (1864)",
+        "The vast interplanetary and interstellar regions will no longer be regarded as waste places… We shall find them to be already full of this wonderful medium. — On Action at a Distance, Nature (1873)"
+      ],
+      "同时代对比": "与牛顿超距作用传统相比是革命性突破；与 Faraday 的力线思想是直接延续，但 Maxwell 把它提升为数学场论。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "自然的神学秩序（虔信 + 科学）",
+      "描述": "Maxwell 是虔信基督徒（苏格兰长老会背景），将科学视为对上帝创造秩序的揭示。这一神学背景未与他对热力学第二定律、统计涨落、混沌的科学研究产生矛盾——他相信秩序与偶然并存的宇宙最终由更高的理性所维系。",
+      "原文引用": [
+        "Man's chief end is to glorify God and to enjoy him for ever. — Letter to Lewis Campbell (9 November 1851)",
+        "Happiness and Misery must inevitably increase with increasing Power and Knowledge… the translation from the one course to the other is essentially miraculous, while the progress is natural. — Letter to Lewis Campbell (1851)"
+      ],
+      "同时代对比": "与 Darwin 失去信仰形成鲜明对比；与同时代英国科学家中较为世俗的 Tait、Huxley 不同。Maxwell 的宗教性是维多利亚时代苏格兰知识阶层中典型的'自然神学'遗产。",
+      "贯穿程度": "始终如一（晚期书信较少宗教语气但仍保留）",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "模型作为脚手架而非本体",
+      "描述": "Maxwell 是 19 世纪物理学家中最早明确意识到'物理类比法'局限的人：他用分子涡旋模型（molecular vortex with idle wheels）解释电磁感应，但明确指出这只是'physical analogy'而非'physical identity'。",
+      "原文引用": [
+        "I have also a paper afloat, with an electromagnetic theory of light, which, till I am convinced to the contrary, I hold to be great guns. — Letter to C. H. Cay (Jan 5, 1865)"
+      ],
+      "同时代对比": "与 Kelvin 等坚持机械论模型的物理学家相比，Maxwell 早就具备方法论自觉——模型是用来启发数学表达的工具，不是物理实在本身。Einstein 后来称赞这一点。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    }
+  ],
+  "政治立场": {
+    "描述": "Maxwell 不介入公共政治，是典型的维多利亚时代学人——专注学术、对社会议题保持距离。无明显党派倾向。",
+    "原文引用": [
+      "[无直接语料] Maxwell 的著作中无政治评论，仅在 1868 年 'On governors' 中有对工业控制系统的中性技术讨论。"
+    ],
+    "时代坐标": "维多利亚时代（1837-1901），英国由自由党与保守党轮流执政。Maxwell 的政治沉默反映了 19 世纪英国科学界专业化趋势——科学家从'自然神学家'转变为'专业研究者'。",
+    "内在张力": "无明显内在张力。其宗教性（虔信）与科学方法（怀疑论、可证伪性）之间存在表面张力，但 Maxwell 本人通过'自然神学'传统消解。",
+    "confidence": "high"
+  },
+  "底线清单": [
+    {
+      "条目": "绝不虚构或剽窃数据",
+      "描述": "Maxwell 多次强调 'science is always most completely assimilated when it is in the nascent state'——他坚持读原始论文，自己推导每一个关键方程。",
+      "原文引用": "It is of great advantage to the student of any subject to read the original memoirs on that subject, for science is always most completely assimilated when it is in the nascent state. — Treatise on Electricity and Magnetism, Preface (1873)",
+      "是否有例外": "无"
+    },
+    {
+      "条目": "理论必须能预测新现象",
+      "描述": "Maxwell 不满足于'解释已知'，他要求理论结构暗示新实验可验证的预言（电磁波、Maxwell 妖、Maxwell-Boltzmann 分布都是这种'预测性理论'的典范）。",
+      "原文引用": "The history of science shews that even during the phase of her progress in which she devotes herself to improving the accuracy of the numerical measurement of quantities with which she has long been familiar, she is preparing the materials for the subjugation of the new regions. — Introductory Lecture on Experimental Physics, Cambridge (1871)",
+      "是否有例外": "无"
+    },
+    {
+      "条目": "数学表述必须独立于国家/民族",
+      "描述": "物理学方程必须是文化中性的，使用任何国家单位的物理学家代入数值都应得到同一结果。",
+      "原文引用": "The equations at which we arrive must be such that a person of any nation, by substituting the numerical values of the quantities as measured by his own national units, would obtain a true result. — Encyclopaedia Britannica article",
+      "是否有例外": "无"
+    }
+  ],
+  "自我定位": {
+    "描述": "Maxwell 自视为一个'连接者'——他的目标是发现不同物理现象之间的统一性（光-电-磁-热），而不是在某一领域成为唯一权威。",
+    "原文引用": [
+      "I have also a paper afloat, with an electromagnetic theory of light, which, till I am convinced to the contrary, I hold to be great guns. — Letter to C. H. Cay (Jan 5, 1865)"
+    ],
+    "与时代关系": "在'专业化'刚开始的维多利亚时代，Maxwell 坚持跨学科综合（电磁、热力学、光学、控制论、色彩学），是 19 世纪最后一位'通才式物理学家'。"
+  },
+  "思想内部张力": {
+    "主要矛盾": "机械论模型（molecular vortex）与场实在论之间的张力",
+    "深层原因": "19 世纪中叶物理学家普遍用机械图像思考（涡旋、齿轮、流体），但 Maxwell 已经隐约感知到电磁场是真正的物理实在，不是机械模型的方便替代。",
+    "对人格的影响": "让 Maxwell 成为方法论自觉的科学家——他明确区分'physical analogy'与'physical identity'，这使他既能用机械模型启发数学，又能超越具体图像保留场的实在性。这一自觉是 Einstein 后来高度评价 Maxwell 的关键原因。"
+  }
+}

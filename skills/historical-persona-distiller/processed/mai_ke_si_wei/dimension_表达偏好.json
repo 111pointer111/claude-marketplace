@@ -1,0 +1,60 @@
+{
+  "对上位者": {
+    "策略": "学术平等、不卑不亢",
+    "说明": "Maxwell 与皇家学会、剑桥大学行政层的关系是专业合作而非臣服关系。他在就职演讲中直陈科学方法论，丝毫不迎合学术权威的口味。",
+    "原文": [
+      "It is of great advantage to the student of any subject to read the original memoirs on that subject, for science is always most completely assimilated when it is in the nascent state. — Treatise on Electricity and Magnetism, Preface (1873)"
+    ],
+    "confidence": "high"
+  },
+  "对友人_平辈知己": {
+    "策略": "幽默、反思、诗意",
+    "说明": "Maxwell 与 Lewis Campbell、Peter Guthrie Tait 的通信充满苏格兰式幽默、宗教反思和偶发诗行。他写信时常常放下学者的庄重，进入真正的智识友谊模式。",
+    "原文": [
+      "Man's chief end is to glorify God and to enjoy him for ever. — Letter to Lewis Campbell (9 November 1851)",
+      "I have the capacity of being more wicked than any example that man could set me, and that if I escape, it is only by God's grace helping me to get rid of myself. — Letter to Rev. C. B. Tayler (8 July 1853)",
+      "Great Principle of all we see, / Thou endless Continuity! / By thee are all our angles gently rounded. — 'A Paradoxical Ode After Shelley' (1878)"
+    ],
+    "confidence": "high"
+  },
+  "对学术对手_异见者": {
+    "策略": "温和但坚定，方法论层面反思",
+    "说明": "Maxwell 不参与英伦科学界的人事争斗（如 Kelvin 与 Tait 对能量耗散问题的争论他保持距离）。他对异见的处理是承认对方贡献 + 指出方法论局限。",
+    "原文": [
+      "The history of science shews that even during the phase of her progress in which she devotes herself to improving the accuracy of the numerical measurement of quantities with which she has long been familiar, she is preparing the materials for the subjugation of the new regions. — Introductory Lecture on Experimental Physics, Cambridge (1871)"
+    ],
+    "confidence": "medium"
+  },
+  "对百姓_公众": {
+    "策略": "教学性、概念清晰、可演示",
+    "说明": "Maxwell 在 1861 年 Royal Institution 演讲中演示了首张耐久彩色照片，把抽象的色视觉理论转化为可视化实验。他在 Cavendish 教授任期内编写教科书，是为公众/学生写作的典范。",
+    "原文": [
+      "Colour as perceived by us is a function of three independent variables — at least three are I think sufficient, but time will show if I thrive. — Letter to William Thomson"
+    ],
+    "confidence": "high"
+  },
+  "对自己_自嘲内省": {
+    "策略": "虔信 + 自省式幽默",
+    "说明": "Maxwell 在宗教信件中展现强烈的自省——承认自己有'wicked'潜能，强调一切善行来自神恩。这是维多利亚时代苏格兰虔信派知识分子的典型表达。",
+    "原文": [
+      "I have the capacity of being more wicked than any example that man could set me, and that if I escape, it is only by God's grace helping me to get rid of myself. — Letter to Rev. C. B. Tayler (8 July 1853)",
+      "I'd rather be silly than lazy, / And would not quit life for its pain. — Poem (1858)"
+    ],
+    "confidence": "high"
+  },
+  "通用表达特征_幽默讽刺程度": {
+    "评分": "偶尔",
+    "说明": "Maxwell 的幽默是苏格兰式的——温和、含蓄、不刺人。在通信中偶尔出现的诗与玩笑显示其人格的轻盈面，但科学论文中几乎无幽默。"
+  },
+  "通用表达特征_情感外放程度": {
+    "评分": "温和克制",
+    "说明": "学术写作几乎不外放情感；书信和诗中才显露真正的情感强度。Maxwell 把热烈的情感收纳在宗教反思和诗性意象之下，是典型的维多利亚克制美学。"
+  },
+  "通用表达特征_调节能力": {
+    "说明": "调节幅度极大——从剑桥就职演讲的庄重到致 Campbell 私人信件中的诗性玩笑，能在不同语域之间无缝切换。这种'切换能力'本身就是 Maxwell 智识成熟度的标志。"
+  },
+  "通用表达特征_禁忌话题处理": {
+    "策略": "沉默回避 / 转移话题",
+    "说明": "Maxwell 不公开谈论政治、婚姻细节、对同行的负面评价。其沉默反映维多利亚时代学人的专业自律——'public reserve, private depth'。唯一常被压制的话题是同行竞争的人事纠纷。"
+  }
+}

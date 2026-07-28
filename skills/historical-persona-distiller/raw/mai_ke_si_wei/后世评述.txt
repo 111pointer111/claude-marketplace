@@ -1,0 +1,42 @@
+# James Clerk Maxwell — 后世评述
+
+> 来自 Wikipedia "James Clerk Maxwell" 与 "Maxwell's equations" 词条中的他人评价段。
+
+---
+
+## Albert Einstein
+
+- "他站在麦克斯韦的肩膀上" — Einstein said he stood "on the shoulders of Maxwell."
+  (Wikipedia 传记结尾)
+
+## 现代物理学地位
+
+- "In surveys Maxwell has been voted the third greatest physicist of all time behind only Isaac Newton and Albert Einstein"
+  — Wikipedia 传记结尾
+
+## 麦克斯韦方程式的后人整理
+
+- "Oliver Heaviside later reduced Maxwell's twenty equations to the four now known as Maxwell's equations."
+  — Wikipedia 传记
+
+- "The modern form of the equations in their most common formulation is credited to Oliver Heaviside… mathematically more transparent than Maxwell's original 20 equations in x, y and z components."
+  — Wikipedia "Maxwell's equations"
+
+## 早期影响与验证
+
+- Hertz 在 1887 年通过实验确认了麦克斯韦预言的电磁波 (Wikipedia "Maxwell's equations" 提及)
+- Maxwell's work on the kinetic theory of gases produced the Maxwell–Boltzmann distribution — 与 Boltzmann 合作
+- "Maxwell's demon" 后世在 20 世纪发展为信息论、控制论、混沌理论的源头
+
+## 评价综览
+
+- "in 1861 and 1862, published an early form of the equations that included the Lorentz force law"
+  — Wikipedia "Maxwell's equations"
+- Maxwell 的"机械类比法"（molecular vortex model）虽后来被场论取代，但是 19 世纪理论物理最具创造性的方法论之一
+- 麦克斯韦被誉为"改变世界的第三个物理学家"（前两位：牛顿、爱因斯坦）
+
+## 死后荣誉
+
+- 葬于 Parton Kirk, near Castle Douglas in Galloway
+- 威斯敏斯特大教堂合唱团屏幕附近有纪念铭文
+- 麦克斯韦奖、麦克斯韦方程组以他命名

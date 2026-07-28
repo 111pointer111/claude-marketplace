@@ -1,0 +1,83 @@
+# James Clerk Maxwell — 直接引语清单
+
+来源：Wikiquote (en.wikiquote.org/wiki/James_Clerk_Maxwell)
+
+---
+
+## Electromagnetic Theory & Light
+
+1. "Velocity of transverse undulations… agrees so exactly with the velocity of light… that we can scarcely avoid the conclusion that light consists in the transverse undulations of the same medium which is the cause of electric and magnetic phenomena."
+   — Lecture at Kings College (1862)
+
+2. "Light itself (including radiant heat, and other radiations if any) is an electromagnetic disturbance in the form of waves propagated through the electromagnetic field according to electromagnetic laws."
+   — A Dynamical Theory of the Electromagnetic Field (1864)
+
+3. "I have also a paper afloat, with an electromagnetic theory of light, which, till I am convinced to the contrary, I hold to be great guns."
+   — Letter to C. H. Cay (Jan 5, 1865)
+
+4. "The vast interplanetary and interstellar regions will no longer be regarded as waste places… We shall find them to be already full of this wonderful medium."
+   — "On Action at a Distance," Nature (1873)
+
+## Physics & Scientific Method
+
+5. "The history of science shews that even during the phase of her progress in which she devotes herself to improving the accuracy of the numerical measurement of quantities with which she has long been familiar, she is preparing the materials for the subjugation of the new regions."
+   — Introductory Lecture on Experimental Physics, Cambridge (1871)
+
+6. "It is of great advantage to the student of any subject to read the original memoirs on that subject, for science is always most completely assimilated when it is in the nascent state."
+   — A Treatise on Electricity and Magnetism, Preface (1873)
+
+7. "The equations at which we arrive must be such that a person of any nation, by substituting the numerical values of the quantities as measured by his own national units, would obtain a true result."
+   — Encyclopaedia Britannica article (as quoted)
+
+8. "The mathematical difficulties of the theory of rotation arise chiefly from the want of geometrical illustrations and sensible images."
+   — On a Dynamical Top (1857)
+
+## Mathematics
+
+9. "Mathematicians may flatter themselves that they possess new ideas which mere human language is yet unable to express. Let them make the effort to express these ideas in appropriate words without the aid of symbols."
+   — Review of Elements of Natural Philosophy, Nature (1873)
+
+## Color
+
+10. "Colour as perceived by us is a function of three independent variables — at least three are I think sufficient, but time will show if I thrive."
+    — Letter to William Thomson, Scientific Letters and Papers (1990)
+
+## Thermodynamics
+
+11. "The 2nd law of thermodynamics has the same degree of truth as the statement that if you throw a tumblerful of water into the sea, you cannot get the same tumblerful of water out again."
+    — Letter to Lord Rayleigh, as quoted in John William Strutt (1924)
+
+12. "Energy itself is indestructible, [but] the available part is liable to diminution by the action of certain natural processes."
+    — Theory of Heat, Preface (1871)
+
+## Personal Philosophy & Religion
+
+13. "Man's chief end is to glorify God and to enjoy him for ever."
+    — Letter to Lewis Campbell (9 November 1851)
+
+14. "Happiness and Misery must inevitably increase with increasing Power and Knowledge… the translation from the one course to the other is essentially miraculous, while the progress is natural."
+    — Letter to Lewis Campbell (1851)
+
+15. "I have the capacity of being more wicked than any example that man could set me, and that if I escape, it is only by God's grace helping me to get rid of myself."
+    — Letter to Rev. C. B. Tayler (8 July 1853)
+
+16. "In every branch of knowledge the progress is proportional to the amount of facts on which to build."
+    — Letter to Lewis Campbell (1851)
+
+## Poetry
+
+17. "Great Principle of all we see, / Thou endless Continuity! / By thee are all our angles gently rounded."
+    — "A Paradoxical Ode After Shelley" (1878)
+
+18. "I'd rather be silly than lazy, / And would not quit life for its pain."
+    — The Life of James Clerk Maxwell (1882), poem (1858)
+
+## On Work
+
+19. "Happy is the man who can recognise in the work of to-day a connected portion of the work of life and an embodiment of the work of Eternity."
+    — Life of James Clerk Maxwell (1882), via Frederic Farrar (1854)
+
+## On Molecules / Demons (from Maxwell's demon Wikipedia)
+
+20. "if we conceive of a being whose faculties are so sharpened that he can follow every molecule in its course, such a being, whose attributes are as essentially finite as our own, would be able to do what is impossible to us."
+    — Letter to P. G. Tait (11 December 1867)

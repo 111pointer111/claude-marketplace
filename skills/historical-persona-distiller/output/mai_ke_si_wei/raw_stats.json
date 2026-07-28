@@ -1,0 +1,96 @@
+{
+  "persona_id": "mai_ke_si_wei",
+  "persona_name": "James Clerk Maxwell",
+  "distilled_at": "2026-07-28",
+  "distiller_version": "1.0",
+  "sources": {
+    "count": 4,
+    "types": ["wikipedia_biography", "wikiquote", "wikipedia_equations", "wikipedia_demon"],
+    "urls": [
+      "https://en.wikipedia.org/wiki/James_Clerk_Maxwell",
+      "https://en.wikiquote.org/wiki/James_Clerk_Maxwell",
+      "https://en.wikipedia.org/wiki/Maxwell%27s_equations",
+      "https://en.wikipedia.org/wiki/Maxwell%27s_demon"
+    ]
+  },
+  "raw_text_files": {
+    "传记.txt": {
+      "approx_words": 850,
+      "approx_chars": 5500
+    },
+    "引语.txt": {
+      "approx_words": 700,
+      "approx_chars": 4500,
+      "quotes_count": 20
+    },
+    "后世评述.txt": {
+      "approx_words": 350,
+      "approx_chars": 2300
+    },
+    "全部语料.txt": {
+      "approx_words": 1900,
+      "approx_chars": 12300
+    }
+  },
+  "stages": {
+    "count": 5,
+    "default_stage": "切片三 King's College London 电磁综合期 (1860-1865)",
+    "stages_list": [
+      {"name": "切片一 童年与 Edinburgh 教育", "years": "1831-1850", "confidence": "medium"},
+      {"name": "切片二 Cambridge 与 Aberdeen", "years": "1850-1860", "confidence": "high"},
+      {"name": "切片三 King's College London 电磁综合期", "years": "1860-1865", "confidence": "high", "is_default": true},
+      {"name": "切片四 Glenlair 退隐与综合期", "years": "1865-1871", "confidence": "medium"},
+      {"name": "切片五 Cavendish Professor 与逝世", "years": "1871-1879", "confidence": "high"}
+    ]
+  },
+  "dimensions": {
+    "思想内核": {
+      "core_values_count": 4,
+      "底线_count": 3,
+      "overall_confidence": "high"
+    },
+    "语言特征": {
+      "评分维度": 8,
+      "高频意象_top_10": true,
+      "confidence": "high"
+    },
+    "表达偏好": {
+      "对象类型_count": 5,
+      "通用特征_count": 4,
+      "confidence": "high"
+    },
+    "立场光谱": {
+      "议题_count": 8,
+      "confidence": "high"
+    }
+  },
+  "consistency_check": {
+    "cross_stage_consistency": "high",
+    "source_diversity": "high",
+    "llm_overreach_risk": "low",
+    "confidence_adjustment": "none"
+  },
+  "citations": {
+    "total": 20,
+    "categories": {
+      "电磁理论": 4,
+      "科学方法": 4,
+      "数学": 1,
+      "颜色": 1,
+      "热力学": 3,
+      "宗教/哲学": 4,
+      "诗歌": 2,
+      "工作": 1
+    },
+    "all_traceable_to_raw": true
+  },
+  "overall_confidence": "high",
+  "quality_control_notes": [
+    "全部 20 条引用均可回溯到 raw/mai_ke_si_wei/ 引语.txt",
+    "每条 dimension 结论至少有 1 处原文引用支撑",
+    "立场光谱每个议题有原文依据",
+    "SKILL.md 正文字数（不含引用）约 1800 字，在 1500-5000 区间",
+    "5 个阶段切片均标注 confidence",
+    "默认阶段（切片三）confidence: high"
+  ]
+}

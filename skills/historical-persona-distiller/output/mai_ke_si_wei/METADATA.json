@@ -1,0 +1,73 @@
+{
+  "name": "James Clerk Maxwell",
+  "name_pinyin": "mai_ke_si_wei",
+  "name_chinese": "麦克斯韦",
+  "dynasty": "19世纪苏格兰",
+  "lifespan": {
+    "birth": "1831-06-13",
+    "death": "1879-11-05",
+    "age_at_death": 48
+  },
+  "birth_place": "14 India Street, Edinburgh, Scotland",
+  "death_place": "Cambridge, England",
+  "burial_place": "Parton Kirk, near Castle Douglas in Galloway",
+  "nationality": "Scottish",
+  "fields": ["Physics", "Mathematics"],
+  "known_for": [
+    "Maxwell's equations (electromagnetic theory)",
+    "Maxwell-Boltzmann distribution",
+    "Maxwell's demon thought experiment",
+    "First durable color photograph (1861)",
+    "Color vision theory",
+    "On governors (control engineering)",
+    "Saturn's rings stability (Adams Prize 1859)"
+  ],
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-28",
+  "distiller_skill": "historical-persona-distiller",
+  "sources_count": 4,
+  "overall_confidence": "high",
+  "default_stage": "切片三 King's College London 电磁综合期 (1860-1865)",
+  "default_stage_confidence": "high",
+  "stages_count": 5,
+  "raw_text_files": [
+    "传记.txt",
+    "引语.txt",
+    "后世评述.txt",
+    "全部语料.txt"
+  ],
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "consistency_check.md"
+  ],
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/James_Clerk_Maxwell",
+    "https://en.wikiquote.org/wiki/James_Clerk_Maxwell",
+    "https://en.wikipedia.org/wiki/Maxwell%27s_equations",
+    "https://en.wikipedia.org/wiki/Maxwell%27s_demon"
+  ],
+  "key_relationships": [
+    {"name": "Michael Faraday", "relationship": "通信交流（未谋面）的电磁学前辈"},
+    {"name": "Peter Guthrie Tait", "relationship": "Edinburgh Academy 同学，终身密友，物理学家"},
+    {"name": "Lewis Campbell", "relationship": "Edinburgh Academy 同学，文学教授，Maxwell 传记作者"},
+    {"name": "William Thomson (Lord Kelvin)", "relationship": "通信对手，能量耗散争论"},
+    {"name": "Katherine Mary Dewar", "relationship": "妻子，1858 年结婚"},
+    {"name": "Ludwig Boltzmann", "relationship": "气体动理论合作者"}
+  ],
+  "key_works": [
+    {"year": 1846, "title": "On the Description of Oval Curves, and those having a plurality of Foci", "type": "paper"},
+    {"year": 1859, "title": "On the Stability of the Motion of Saturn's Rings", "type": "paper", "note": "Adams Prize"},
+    {"year": 1860, "title": "Illustrations of the Dynamical Theory of Gases", "type": "paper"},
+    {"year": "1861-1862", "title": "On Physical Lines of Force", "type": "paper"},
+    {"year": 1861, "title": "On the Theory of Compound Colours", "type": "paper"},
+    {"year": 1865, "title": "A Dynamical Theory of the Electromagnetic Field", "type": "paper"},
+    {"year": 1868, "title": "On governors", "type": "paper"},
+    {"year": 1871, "title": "Theory of Heat", "type": "book"},
+    {"year": 1873, "title": "A Treatise on Electricity and Magnetism", "type": "book"},
+    {"year": 1873, "title": "On Action at a Distance", "type": "paper", "note": "Nature"},
+    {"year": 1879, "title": "The Electrical Researches of the Honourable Henry Cavendish", "type": "edited_works"}
+  ]
+}

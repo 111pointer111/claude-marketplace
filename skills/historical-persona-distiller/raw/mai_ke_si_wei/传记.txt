@@ -1,0 +1,41 @@
+James Clerk Maxwell (13 June 1831 – 5 November 1879)
+
+来源：Wikipedia (en.wikipedia.org/wiki/James_Clerk_Maxwell)
+
+---
+
+James Clerk Maxwell (13 June 1831 – 5 November 1879) was a Scottish physicist and mathematician whose work fundamentally shaped modern physics. Born at 14 India Street, Edinburgh, to John Clerk Maxwell of Middlebie, an advocate, and Frances Cay, daughter of Robert Hodshon Cay, Maxwell spent much of his childhood at Glenlair in Kirkcudbrightshire after the family relocated from Edinburgh. His mother, who took responsibility for his early education, died of abdominal cancer in December 1839 when he was eight years old; Maxwell would die of the same disease at the same age decades later.
+
+Maxwell attended the Edinburgh Academy from 1841, where his unusual dress and Galloway accent earned him the nickname "Daftie." There he met lifelong friends Lewis Campbell and Peter Guthrie Tait. At fourteen he wrote his first scientific paper on oval curves, presented to the Royal Society of Edinburgh by James Forbes, as Maxwell was deemed too young. He left the Academy in 1847 for the University of Edinburgh, where his tutors included Sir William Hamilton, Philip Kelland, and Forbes. At eighteen he contributed two papers to the Transactions of the Royal Society of Edinburgh.
+
+In October 1850 Maxwell entered the University of Cambridge, initially at Peterhouse before transferring to Trinity College, where he was elected to the Cambridge Apostles. He graduated in 1854 as Second Wrangler behind Edward Routh, later declared equal with Routh for the Smith's Prize. Maxwell was made a fellow of Trinity on 10 October 1855, sooner than was the norm. In November 1856 he accepted the Chair of Natural Philosophy at Marischal College, Aberdeen, leaving Cambridge after his father died on 2 April 1856 at Glenlair before learning of his son's appointment.
+
+At Aberdeen, Maxwell tackled the problem of Saturn's rings, winning the £130 Adams Prize in 1859 for his essay "On the stability of the motion of Saturn's rings." He married Katherine Mary Dewar, daughter of the college's principal Reverend Daniel Dewar, on 2 June 1858; she was seven years his senior. When Marischal merged with King's College in 1860, Maxwell found himself laid off, and he then accepted the Chair of Natural Philosophy at King's College London. There he developed his theory of electromagnetic fields, publishing "On Physical Lines of Force" in 1861 with later parts in early 1862. He displayed the world's first durable colour photograph in an 1861 Royal Institution lecture. In 1865 he published "A Dynamical Theory of the Electromagnetic Field," demonstrating that electric and magnetic fields travel through space as waves moving at the speed of light, and predicting the existence of radio waves. Oliver Heaviside later reduced Maxwell's twenty equations to the four now known as Maxwell's equations.
+
+After resigning from King's in 1865, Maxwell returned to Glenlair and wrote important papers including "On governors" (1868), which established the theoretical basis of control engineering. In 1871 he became the first Cavendish Professor of Physics, overseeing construction of the Cavendish Laboratory, and published his textbook Theory of Heat. His Treatise on Electricity and Magnetism appeared in 1873. Maxwell's work on the kinetic theory of gases produced the Maxwell–Boltzmann distribution, and his 1867 paper introduced the Maxwell model for viscoelastic materials. He devised Maxwell's demon thought experiment in 1867, proposing the now-famous concept of chaos and being the first to emphasize the butterfly effect in the 1870s.
+
+Maxwell died in Cambridge of abdominal cancer on 5 November 1879 at the age of 48. His mother had died at the same age of the same disease. He was buried at Parton Kirk, near Castle Douglas in Galloway. A memorial inscription appears near the choir screen at Westminster Abbey. In surveys Maxwell has been voted the third greatest physicist of all time behind only Isaac Newton and Albert Einstein; Einstein himself said he stood "on the shoulders of Maxwell."
+
+---
+
+# Maxwell's Equations (Wikipedia summary)
+
+来源：Wikipedia (en.wikipedia.org/wiki/Maxwell%27s_equations)
+
+Maxwell in 1861 and 1862 published an early form of the equations that included the Lorentz force law. The modern form of the equations in their most common formulation is credited to Oliver Heaviside. Heaviside's vector calculus formalism has become standard — "mathematically more transparent than Maxwell's original 20 equations in x, y and z components."
+
+Maxwell's addition states that magnetic fields also relate to changing electric fields, which Maxwell called displacement current. Maxwell's modification of Ampère's law predicts the existence of self-sustaining electromagnetic waves which travel through empty space. The speed calculated for electromagnetic waves, which could be predicted from experiments on charges and currents, matches the speed of light. Maxwell understood the connection between electromagnetic waves and light in 1861, thereby unifying the theories of electromagnetism and optics.
+
+The known values of ε₀ and μ₀ give c ≈ 2.998 × 10⁸ m/s, then already known to be the speed of light in free space. This led him to propose that light and radio waves were propagating electromagnetic waves, since amply confirmed.
+
+---
+
+# Maxwell's Demon & Color (Wikipedia summary)
+
+来源：Wikipedia (en.wikipedia.org/wiki/Maxwell%27s_demon)
+
+In 1861, Maxwell delivered a Royal Institution lecture demonstrating the first durable color photograph, capturing a tartan ribbon. Between 1855 and 1865, Maxwell developed his work on color perception and the color triangle, advancing understanding of how color is perceived.
+
+In thermodynamics, Maxwell introduced the famous Maxwell's demon thought experiment in 1867: "if we conceive of a being whose faculties are so sharpened that he can follow every molecule in its course, such a being, whose attributes are as essentially finite as our own, would be able to do what is impossible to us." The demon would sort fast and slow molecules between two chambers, seemingly decreasing entropy without work, contradicting the second law of thermodynamics. Maxwell presented this idea in letters to Peter Guthrie Tait on 11 December 1867 and to John William Strutt in 1871, before publishing it in his 1872 book Theory of Heat.
+
+Maxwell also contributed significantly to the kinetic theory of gases, developing the Maxwell-Boltzmann distribution, which describes molecular velocity distributions in gases.
