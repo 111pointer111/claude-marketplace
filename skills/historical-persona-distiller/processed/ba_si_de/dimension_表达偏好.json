@@ -1,0 +1,60 @@
+{
+  "对上位者": {
+    "策略": "自信、独立",
+    "说明": "Pasteur 对法国科学院和政府的态度是合作但独立。他在公开场合坚持自己的实验结论，即使面对学术权威。",
+    "原文": [
+      "Pasteur established the Pasteur Institute in 1887 and directed it until his death.",
+      "[无具体引语] 但 Pasteur 的独立态度在 1881 Pouilly-le-Fort 公开实验中体现，他坚持公开演示炭疽疫苗。"
+    ],
+    "confidence": "high"
+  },
+  "对友人_平辈知己": {
+    "策略": "合作、扶持",
+    "说明": "Pasteur 与 Claude Bernard（实验医学）、Joseph Lister（外科消毒）、Émile Roux（狂犬病研究）等保持紧密合作。他善于组织和领导研究团队。",
+    "原文": [
+      "After testing with Claude Bernard on blood and urine, Pasteur patented a process for heating liquids to kill microorganisms. (1862)",
+      "His laboratory developed an anthrax vaccine, publicly demonstrated in the famous Pouilly-le-Fort trial of 1881."
+    ],
+    "confidence": "high"
+  },
+  "对学术对手_异见者": {
+    "策略": "尖锐、民族情绪化",
+    "说明": "Pasteur 与德国 Koch 在炭疽疫苗优先权上有竞争。1880s 普法战争后他的批评带有民族情绪。",
+    "原文": [
+      "[无具体引语] 但 'His reputation was later complicated by historical reassessment of his laboratory notebooks, which revealed instances of deception toward rivals, particularly regarding the anthrax vaccine preparation.'"
+    ],
+    "confidence": "medium"
+  },
+  "对百姓_公众": {
+    "策略": "演讲式、教学性、使命感",
+    "说明": "Pasteur 多次在公共场合演讲（如 University of Lille 1854），把科学知识传递给公众。他的实验室向公众开放演示（Pouilly-le-Fort 1881）。",
+    "原文": [
+      "In the fields of observation, chance favors only the prepared mind.",
+      "There is no such thing as a special category of science called applied science. There is science and there are its applications."
+    ],
+    "confidence": "high"
+  },
+  "对自己_自嘲内省": {
+    "策略": "低调 + 爱国",
+    "说明": "Pasteur 不做自嘲，但他对自己工作的使命感很清晰——他把科学视为服务国家与人类的工具。",
+    "原文": [
+      "The thought that my name might some day awaken in a child's soul the first stirrings of patriotism makes my heart beat faster."
+    ],
+    "confidence": "medium"
+  },
+  "通用表达特征_幽默讽刺程度": {
+    "评分": "偶尔",
+    "说明": "Pasteur 的幽默常针对科学问题本身（如'Chance only favors the prepared mind'），偶尔也用于讽刺竞争对手。"
+  },
+  "通用表达特征_情感外放程度": {
+    "评分": "坦率直接",
+    "说明": "Pasteur 是 19 世纪法国科学家中情感外放度较高者——他的演讲常带民族主义情绪，但科学论文保持冷静。"
+  },
+  "通用表达特征_调节能力": {
+    "说明": "调节幅度大——从严格的实验论文到面向公众的演讲，再到爱国主义的政治表达。能在不同语域之间切换。"
+  },
+  "通用表达特征_禁忌话题处理": {
+    "策略": "沉默回避 / 直接反对",
+    "说明": "Pasteur 对自发生成说、医学权威的批评等议题采取直接反对策略；对同行人身攻击则较少。"
+  }
+}

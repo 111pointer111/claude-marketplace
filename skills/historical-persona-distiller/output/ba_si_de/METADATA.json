@@ -1,78 +1,78 @@
 {
-  "persona_id": "ba_si_de",
-  "name_zh": "巴斯德",
-  "name_en": "Louis Pasteur",
-  "birth_year": 1822,
-  "death_year": 1895,
-  "nationality": "法国",
-  "primary_field": "化学、微生物学",
-  "secondary_fields": ["疫苗学", "立体化学", "细菌学"],
-  "confidence": "medium",
-  "distilled_at": "2026-05-10",
-  "distiller_model": "minimax/MiniMax-M2.7",
-  "sources_used": [
-    {
-      "name": "Britannica - Louis Pasteur",
-      "url": "https://www.britannica.com/biography/Louis-Pasteur",
-      "type": "encyclopedia",
-      "language": "en",
-      "characters": 3784
-    },
-    {
-      "name": "Biography.com - Louis Pasteur",
-      "url": "https://www.biography.com/scientists/louis-pasteur",
-      "type": "biography",
-      "language": "en",
-      "characters": 8106
-    },
-    {
-      "name": "Britannica - Pasteurization",
-      "url": "https://www.britannica.com/technology/pasteurization",
-      "type": "encyclopedia",
-      "language": "en",
-      "characters": 6294
-    },
-    {
-      "name": "Britannica - Anthrax",
-      "url": "https://www.britannica.com/science/anthrax-disease",
-      "type": "encyclopedia",
-      "language": "en",
-      "characters": 12447
-    },
-    {
-      "name": "Britannica - Rabies",
-      "url": "https://www.britannica.com/science/rabies",
-      "type": "encyclopedia",
-      "language": "en",
-      "characters": 7396
-    }
+  "name": "Louis Pasteur",
+  "name_pinyin": "ba_si_de",
+  "name_chinese": "巴斯德",
+  "dynasty": "19世纪法国",
+  "lifespan": {
+    "birth": "1822-12-27",
+    "death": "1895-09-28",
+    "age_at_death": 72
+  },
+  "birth_place": "Dole, Jura, France",
+  "death_place": "Marnes-la-Coquette, France",
+  "nationality": "French",
+  "fields": ["Chemistry", "Microbiology", "Vaccinology"],
+  "known_for": [
+    "Germ theory of disease",
+    "Pasteurization (1862)",
+    "Stereochemistry (molecular asymmetry)",
+    "Chicken cholera vaccine (1879)",
+    "Anthrax vaccine (1881)",
+    "Rabies vaccine (1885)",
+    "Swan-neck flask experiment (disproving spontaneous generation)",
+    "Pasteur Institute (1887)"
   ],
-  "source_count": 5,
-  "total_corpus_characters": 37927,
-  "combined_corpus_characters": 11707,
-  "poems_collected": 0,
-  "poems_required": 0,
-  "is_poet": false,
-  "core_beliefs_count": 6,
-  "key_events_count": 13,
-  "quotes_count": 12,
-  "personality_tags": [
-    "实验主义者",
-    "实用主义者",
-    "救世情怀",
-    "科学理性",
-    "严谨精确",
-    "爱国主义者"
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-28",
+  "distiller_skill": "historical-persona-distiller",
+  "sources_count": 3,
+  "overall_confidence": "high",
+  "default_stage": "切片二 斯特拉斯堡与里尔时期 (1848-1865)",
+  "default_stage_confidence": "high",
+  "stages_count": 5,
+  "raw_text_files": [
+    "传记.txt",
+    "引语.txt",
+    "后世评述.txt",
+    "全部语料.txt"
   ],
-  "known_limitations": [
-    "缺乏原始法语文献",
-    "中文资料受限",
-    "百科来源为主",
-    "无第一手书信日记"
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "consistency_check.md"
   ],
-  "search_tools_used": {
-    "web_search": "failed",
-    "serpapi": "success",
-    "web_fetch": "partial_success"
-  }
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Louis_Pasteur",
+    "https://en.wikiquote.org/wiki/Louis_Pasteur",
+    "https://www.britannica.com/biography/Louis-Pasteur"
+  ],
+  "key_relationships": [
+    {"name": "Jean-Joseph Pasteur", "relationship": "父亲，拿破仑战争老兵，爱国主义源泉"},
+    {"name": "Marie Laurent", "relationship": "妻子，1849 年结婚"},
+    {"name": "Claude Bernard", "relationship": "实验医学合作者，巴氏消毒法（1862）"},
+    {"name": "Joseph Lister", "relationship": "英国外科医生，消毒技术先驱"},
+    {"name": "Émile Roux", "relationship": "狂犬病研究助手"},
+    {"name": "Charles Chamberland", "relationship": "实验室助手"},
+    {"name": "Robert Koch", "relationship": "德国同行，1880s 炭疽疫苗竞争"},
+    {"name": "Joseph Meister", "relationship": "1885 年 9 岁狂犬病疫苗首位接种者"}
+  ],
+  "key_works": [
+    {"year": 1848, "title": "酒石酸晶体不对称性研究", "type": "paper", "note": "立体化学诞生"},
+    {"year": 1857, "title": "乳酸发酵论文", "type": "paper"},
+    {"year": 1861, "title": "Pasteur effect 论文", "type": "paper"},
+    {"year": 1862, "title": "巴氏消毒法专利", "type": "patent", "note": "首测 1862-04-20"},
+    {"year": "1865-1870", "title": "蚕病研究", "type": "papers"},
+    {"year": 1879, "title": "鸡霍乱疫苗", "type": "discovery"},
+    {"year": 1881, "title": "炭疽疫苗 Pouilly-le-Fort 公开演示", "type": "experiment"},
+    {"year": 1885, "title": "狂犬病疫苗（Joseph Meister）", "type": "vaccine"},
+    {"year": 1887, "title": "Pasteur Institute 建立", "type": "institution"}
+  ],
+  "modern_honors": [
+    "30+ 国际 Pasteur 研究所",
+    "众多以 Pasteur 命名的医院、学校、街道",
+    "Pasteurization 在食品工业的全球应用",
+    "Rabies vaccine 仍以 Pasteur 命名"
+  ]
 }

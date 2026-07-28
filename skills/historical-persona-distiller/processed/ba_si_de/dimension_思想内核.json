@@ -1,0 +1,84 @@
+{
+  "核心价值观": [
+    {
+      "条目": "实验至上，机会只青睐准备好的头脑",
+      "描述": "Pasteur 把科学方法论的核心放在严格的实验观察上，而不是纯粹的演绎推理。他相信偶然的发现只有在'准备好的头脑'中才能被识别为新现象。",
+      "原文引用": [
+        "Chance only favors the prepared mind.",
+        "In the fields of observation, chance favors only the prepared mind. — Address to the University of Lille (1854)"
+      ],
+      "同时代对比": "与同时代 Liebig 等化学家依赖演绎推理相比，Pasteur 是法国实证主义传统的典型代表，重视经验观察与实验方法。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "生命的不对称性是宇宙的本质",
+      "描述": "Pasteur 从酒石酸晶体的左旋/右旋出发，把分子不对称性提升到生命与宇宙的本质层面——他认为宇宙本身就是不对称的，生命的出现是宇宙不对称性的函数。",
+      "原文引用": [
+        "The universe is an asymmetrical entity. I am inclined to believe that life as it is manifested to us must be a function of [that] asymmetry.",
+        "The universe is asymmetric and I am persuaded that life, as it is known to us, is a direct result of the asymmetry of the universe or of its indirect consequences."
+      ],
+      "同时代对比": "与 Kekulé 等结构化学家关注原子连接方式不同，Pasteur 强调三维空间结构，是立体化学的奠基人。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "科学与其应用是一棵树的果实与树本身",
+      "描述": "Pasteur 反对把'应用科学'与'纯科学'对立——他强调两者本质上是同一棵树的关系：科学是树，应用是果实。这一立场既支持纯研究，也支持应用研究。",
+      "原文引用": [
+        "There is no such thing as a special category of science called applied science. There is science and there are its applications, which are related to one another as the fruit is related to the tree that has borne it."
+      ],
+      "同时代对比": "与 19 世纪法国科学院系统强调纯研究相比，Pasteur 更注重科学与产业、社会的连接。这是他能在啤酒业、葡萄酒业、蚕业、医学疫苗上同时取得突破的根本原因。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "细菌致病论与反对自发生成说",
+      "描述": "Pasteur 的微生物致病理论是其核心工作。他通过天鹅颈瓶实验证明微生物来自空气中的微生物，而不是自发生成；这一发现是现代医学的基础。",
+      "原文引用": [
+        "His famous swan-neck flask experiments during this period provided decisive evidence against spontaneous generation.",
+        "Life is the germ, and the germ is life.",
+        "A known enemy is already half disarmed."
+      ],
+      "同时代对比": "与 Pouchet 等坚持自发生成说的人相比，Pasteur 是反方的胜利者。他的证据改变了医学、酿造业、农业。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    }
+  ],
+  "政治立场": {
+    "描述": "Pasteur 是强烈的爱国主义者（受父亲拿破仑战争经历影响），但晚年卷入与德国 Robert Koch 的优先权之争，未直接介入公共政治。",
+    "原文引用": [
+      "The thought that my name might some day awaken in a child's soul the first stirrings of patriotism makes my heart beat faster.",
+      "His father, Jean-Joseph Pasteur, was a tanner and a sergeant major decorated with the Legion of Honour during the Napoleonic Wars. This fact probably instilled in the younger Pasteur the strong patriotism that later was a defining element of his character."
+    ],
+    "时代坐标": "1870-1871 普法战争后法国战败，Pasteur 的爱国情绪被激发；1880s 与 Koch 的炭疽疫苗优先权之争有民族主义色彩。",
+    "内在张力": "爱国情怀与对 Koch 的国际同行认可之间有张力——Pasteur 在 1880s 对 Koch 的批评带有民族情绪。",
+    "confidence": "high"
+  },
+  "底线清单": [
+    {
+      "条目": "绝不发表未经验证的实验结果",
+      "描述": "Pasteur 在公开演示前都经过反复的内部实验验证，如 1881 年的 Pouilly-le-Fort 公开实验之前已在实验室反复验证。",
+      "原文引用": "If one boasts of having done 250 experiments, it means that one has done them badly more than 249 times. (引述 Pasteur 经验论)",
+      "是否有例外": "无"
+    },
+    {
+      "条目": "绝不忽视竞争对手的工作",
+      "描述": "虽然 Pasteur 与 Koch 存在优先权之争，但他承认微生物致病理论的奠基性贡献来自多人（Koch 提出 Koch 假设，Lister 在外科应用）。",
+      "原文引用": "French chemist and microbiologist Louis Pasteur, English surgeon Joseph Lister, and German physician Robert Koch are given much of the credit for development and acceptance of the germ theory.",
+      "是否有例外": "部分（Pasteur 在公开场合对 Koch 的批评带有民族情绪）"
+    }
+  ],
+  "自我定位": {
+    "描述": "Pasteur 自视为'应用型科学家'，把实验室工作直接连接到产业和医学应用。他不是基础理论物理学家，而是问题解决者。",
+    "原文引用": [
+      "There is no such thing as a special category of science called applied science. There is science and there are its applications."
+    ],
+    "与时代关系": "在 19 世纪法国科学专业化背景下，Pasteur 的'应用型科学家'身份是少有的、跨基础与应用的成功范例。"
+  },
+  "思想内部张力": {
+    "主要矛盾": "强烈的爱国情怀与国际同行协作之间的张力",
+    "深层原因": "1870-1871 普法战争后法国战败，Pasteur 的德国同行 Koch 等成为对手；他与 Koch 的优先权之争带有民族情绪。",
+    "对人格的影响": "Pasteur 在 1880s 的国际交流变得更民族主义化，但其核心的科学方法论（实验至上、机会主义、合作）未受影响。这一张力不影响其科学贡献。"
+  }
+}

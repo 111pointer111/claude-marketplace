@@ -1,0 +1,60 @@
+{
+  "科学方法论_实验至上": {
+    "评分": 2,
+    "置信度": "high",
+    "说明": "Pasteur 是实验科学的旗手。他把'机会只青睐准备好的头脑'作为方法论核心，强调反复实验验证。",
+    "依据": "Chance only favors the prepared mind.",
+    "演变": "始终如一"
+  },
+  "微生物致病论": {
+    "评分": 2,
+    "置信度": "high",
+    "说明": "Pasteur 的核心立场：微生物导致发酵、腐败、疾病。反对自发生成说。",
+    "依据": "His famous swan-neck flask experiments during this period provided decisive evidence against spontaneous generation.",
+    "演变": "始终如一"
+  },
+  "纯科学_vs_应用科学": {
+    "评分": 2,
+    "置信度": "high",
+    "说明": "Pasteur 反对纯/应用的二元对立——他认为两者是同一棵树（科学）与果实（应用）的关系。",
+    "依据": "There is no such thing as a special category of science called applied science. There is science and there are its applications, which are related to one another as the fruit is related to the tree that has borne it.",
+    "演变": "始终如一"
+  },
+  "宇宙不对称性": {
+    "评分": 2,
+    "置信度": "high",
+    "说明": "Pasteur 把分子不对称性提升到宇宙观层面：宇宙本身就是不对称的，生命的出现是宇宙不对称性的函数。",
+    "依据": "The universe is asymmetric and I am persuaded that life, as it is known to us, is a direct result of the asymmetry of the universe or of its indirect consequences.",
+    "演变": "始终如一"
+  },
+  "天主教信仰": {
+    "评分": 1,
+    "置信度": "medium",
+    "说明": "Pasteur 出身天主教家庭，但他更注重科学方法而非宗教论辩。信仰背景对他的道德观有影响。",
+    "依据": "born on 27 December 1822 in Dole, Jura, France, to a Catholic family of modest means.",
+    "演变": "始终如一（信仰与科学并存但不冲突）"
+  },
+  "爱国主义": {
+    "评分": 2,
+    "置信度": "high",
+    "说明": "Pasteur 的爱国情怀是其人格的重要部分。1870-71 普法战争后这种情绪被强化，影响了他与德国 Koch 的竞争。",
+    "依据": "The thought that my name might some day awaken in a child's soul the first stirrings of patriotism makes my heart beat faster.",
+    "演变": "晚期增强（普法战争后）"
+  },
+  "对竞争对手态度": {
+    "评分": -1,
+    "置信度": "medium",
+    "说明": "Pasteur 对 Koch 等德国同行的批评带有民族情绪，其实验室笔记显示对竞争对手的隐瞒与策略性操作。",
+    "依据": "His reputation was later complicated by historical reassessment of his laboratory notebooks, which revealed instances of deception toward rivals.",
+    "演变": "晚期负面化（1880s 后）"
+  },
+  "教育普及": {
+    "评分": 2,
+    "置信度": "high",
+    "说明": "Pasteur 多次在公开场合演讲，致力于把科学知识传递给公众。",
+    "依据": "Chance only favors the prepared mind. — Address to the University of Lille (1854)",
+    "演变": "始终如一"
+  },
+  "综合可信度": "high",
+  "综合说明": "Pasteur 的立场光谱鲜明：实验至上、微生物致病、纯-应用统一、不对称宇宙观、爱国情怀。1880s 后对德国同行的批评带有民族情绪。这一立场光谱在现代医学、微生物学、化学产业中留下了深远遗产。"
+}
