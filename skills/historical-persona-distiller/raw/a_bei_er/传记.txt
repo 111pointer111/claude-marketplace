@@ -1,34 +1,15 @@
-# 阿贝尔 传记
+Niels Henrik Abel (5 August 1802 – 6 April 1829)
 
-> 来源: Wikipedia
-> 抓取日期: 2026-07-26
+来源：Wikipedia (en.wikipedia.org/wiki/Niels_Henrik_Abel)
 
-## 基本信息
-- **阿贝尔** (Niels Henrik Abel, 1802-08-05 至 1829-04-06)
-- 挪威数学家
-- 26 岁死于结核病
+---
 
-## 关键年表
-- 1802 早产于挪威 Nedstrand/Finnøy
-- 1815 13 岁入 Christiania Cathedral School
-- 1818 教师 Bernt Michael Holmboe 赏识其才华
-- 1821 入 Royal Frederick University (Oslo); 已是挪威最博学数学家
-- 1822 毕业
-- 1823 证明五次方程无根式解; 哥本哈根研究费马大定理; 订婚 Christine Kemp
-- 1824 6 页简短发表关键论文 (省钱)
-- 1825-26 柏林 (与 August Leopold Crelle 交往), Freiberg, 巴黎
-- 1826 重大定理提交法国学院 (Cauchy 审, 后丢失); 在巴黎染结核病
-- 1828 圣诞雪橇之旅去 Froland 看 Christine; 重病
-- **1829-04-06 在 Froland 去世**, 两天后柏林大学教职信到达
+Niels Henrik Abel was born on 5 August 1802 in Nedstrand, Denmark–Norway, as the second child of the pastor Søren Georg Abel and Anne Marie Simonsen. His father held a degree in theology and philosophy, and the Abel family had originated in Schleswig before coming to Norway in the seventeenth century. His mother came from Risør and was said to be the daughter of the richest person in that town. Abel entered the Cathedral School in Christiania in 1815 at the age of thirteen, where a new mathematics teacher named Bernt Michael Holmboe recognized his talent and gave him private lessons. By the time he entered the Royal Frederick University in 1821, Abel was already the most knowledgeable mathematician in Norway, and he graduated in 1822 with exceptional marks in mathematics.
 
-## 关键引语
-- (Charles Hermite) "Abel has left mathematicians enough to keep them busy for five hundred years."
-- (Legendre) "What a head the young Norwegian has!"
-- (Legendre 评椭圆函数论文) "a monument more lasting than bronze"
-- (Felix Klein) 将 Abel 生产力与人格比 Mozart, 奥斯陆纪念碑令人失望
+During his university years, Abel began working on the quintic equation, which had puzzled mathematicians for over 250 years. After initially believing he had solved it, he discovered a mistake in 1823 that led him to prove there is no general algebraic solution for equations of degree five or higher, a result now known as the Abel–Ruffini theorem. He published this proof in 1824 in a concise French memoir and a more detailed version appeared in 1826 in the first volume of Crelle's Journal.
 
-## 主要贡献
-- **Abel-Ruffini 定理** — 一般五次方程无根式解
-- 椭圆函数/Abelian 函数
-- (与 Galois 独立) 群论共同创立
-- 阿贝尔奖以其命名
+In 1825, Abel traveled abroad with university friends, spending four months in Berlin where he became closely associated with August Leopold Crelle and contributed seven articles to the first volume of the newly founded Journal für die reine und angewandte Mathematik. He continued to Freiberg for research on elliptic and Abelian functions, then journeyed to Paris in July 1826. There he submitted what he considered his most important work on the addition of algebraic differentials to the French Academy of Sciences, but Augustin-Louis Cauchy set it aside and it was forgotten until after Abel's death. His modesty prevented him from promoting his research in Paris, and Adrien-Marie Legendre, who later called his work on elliptic functions "a monument more lasting than bronze," praised him only after the fact. Abel returned to Norway in May 1827 with finances exhausted and his scholarship not renewed.
+
+Abel made many lasting contributions to mathematics, including a rigorous proof of the binomial theorem valid for all numbers as a sixteen-year-old, fundamental work on elliptic integrals and elliptic functions revealing their double periodicity, the foundations of Abelian functions, Abel's theorem on the continuity of power series, Abel's summation formula, Abel's test, and the concept of Abelian groups, a term that has become so common it is conventionally written with a lowercase "a." Regarding his work, the French mathematician Charles Hermite remarked, "Abel has left mathematicians enough to keep them busy for five hundred years."
+
+While in Paris Abel had contracted tuberculosis. At Christmas 1828 he traveled by sled to Froland, Norway, to visit his fiancée Christine Kemp, becoming seriously ill on the journey. He died on 6 April 1829 at the age of twenty-six, just two days before a letter arrived from August Leopold Crelle informing him of an appointment as professor at the University of Berlin. His legacy endures in the Abel Prize in mathematics, first awarded in 2003, and in the many mathematical concepts that bear his name.

@@ -1,8 +1,82 @@
 {
   "核心价值观": [
-    {"条目": "Abel-Ruffini 定理", "description": "一般五次方程无根式解", "贯穿程度": "始终如一"},
-    {"条目": "椭圆函数", "description": "Abelian 函数; 双重周期", "贯穿程度": "始终如一"},
-    {"条目": "群论共同创立", "description": "与 Galois 独立", "贯穿程度": "始终如一"}
+    {
+      "条目": "严格性是数学的伦理底线",
+      "描述": "Abel 把严格性视为数学家的道德义务。他批判当时分析中从特殊到一般的归纳推理；批判对发散级数的滥用。他相信数学证明必须建立在无懈可击的逻辑基础上。",
+      "原文引用": [
+        "On the whole, Divergent series are the work of the Devil and it's a Shame that one dares base any Demonstration on them. You can get whatever result you want when you use them. — Letter to Bernt Michael Holmboe (January 1826)",
+        "分析 lacks so completely all plan and system…this miserable way of concluding from the special to the general. — Letter to Christoffer Hansteen (1826)"
+      ],
+      "同时代对比": "与 Cauchy 等同时代法国分析学派相比，Abel 早在 1826 年就明确批判'归纳到一般'的不严格方法；这一立场比 Weierstrass 严格化运动（1870s）早了近半个世纪。Abel 与 Jacobi、Galois 是 19 世纪严格化的早期旗手。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "纯数学的内在价值",
+      "描述": "Abel 相信纯数学本身有最高价值，不应被应用压力或市场偏好扭曲。他选择在 Christiania 继续做纯数学研究，拒绝为了生活去挪威教会学校教书。",
+      "原文引用": [
+        "My work in the future must be devoted entirely to pure mathematics in its abstract meaning. — Letter to Christoffer Hansteen (1826)"
+      ],
+      "同时代对比": "与同时代工程导向的数学家（如 Poisson）相比，Abel 是高斯-黎曼传统的纯数学继承人。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "研究大师，不研究徒弟",
+      "描述": "Abel 推崇研究原始大师（特别是 Laplace）的著作，而非二手综述。这种'追源'式的学习方法反映他对严格性的极致追求。",
+      "原文引用": [
+        "It is readily seen that any theory written by Laplace will be superior to all produced of lower standing. — Marginal notebook note (ca. 1826)",
+        "It appears to me that if one wants to make progress in mathematics, one should study the masters and not the pupils. — Same source"
+      ],
+      "同时代对比": "与同时代依赖教科书学习的数学家形成对比。Abel 的方法与现代数学家读原始论文的偏好一致。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    },
+    {
+      "条目": "谦逊但自信的智者",
+      "描述": "Abel 的谦虚不是自卑，而是对自己工作重要性的客观认知。他在 Paris 时并未积极推广工作，但他对五次方程不可能性和椭圆函数的判断是正确的。",
+      "原文引用": [
+        "His modesty prevented him from promoting his research in Paris. — Wikipedia 传记",
+        "It is impossible to solve the general equation of the fifth degree in terms of radicals. — A Memoir on Algebraic Equations (1824)"
+      ],
+      "同时代对比": "与 Cauchy 的过度自信、Kronecker 的傲慢形成鲜明对比。Abel 是 19 世纪数学家中最被低估的（直至去世后才被认可）。",
+      "贯穿程度": "始终如一",
+      "实践一致性": "一致"
+    }
   ],
-  "政治立场": {"description": "纯粹数学家; 贫困生活", "confidence": "medium"}
+  "政治立场": {
+    "描述": "Abel 不介入公共政治；其生活主要在挪威-法国-德国的学术圈内。无明显政治倾向。",
+    "原文引用": [
+      "[无直接语料] Abel 的信件中无政治评论。"
+    ],
+    "时代坐标": "丹麦-挪威联盟时期（1802-1814），挪威独立运动活跃，1814 年挪威独立后 Abel 在新成立的挪威国家中生活。",
+    "内在张力": "无明显内在张力。",
+    "confidence": "high"
+  },
+  "底线清单": [
+    {
+      "条目": "绝不发表不严格的证明",
+      "描述": "Abel 在发现五次方程求根式解的初次尝试错误后，宁可从头证明不可能性，也不发表不严格的结果。",
+      "原文引用": "After initially believing he had solved it, he discovered a mistake in 1823 that led him to prove there is no general algebraic solution. — Wikipedia 传记",
+      "是否有例外": "无"
+    },
+    {
+      "条目": "坚持纯数学方向",
+      "描述": "即使面临经济压力，Abel 也坚持纯数学研究方向；他没有为了生活去教工程或航海数学。",
+      "原文引用": "My work in the future must be devoted entirely to pure mathematics in its abstract meaning. — Letter to Hansteen (1826)",
+      "是否有例外": "无"
+    }
+  ],
+  "自我定位": {
+    "描述": "Abel 自视为高斯、欧拉传统的纯数学继承人；不追求个人荣誉，只追求数学的真理。",
+    "原文引用": [
+      "It appears to me that if one wants to make progress in mathematics, one should study the masters and not the pupils. — Marginal notebook (ca. 1826)"
+    ],
+    "与时代关系": "Abel 是 19 世纪初纯数学传统的代表，与 18 世纪欧拉-拉格朗日的严格传统一脉相承，但比 19 世纪后期 Weierstrass 严格化运动早 50 年。"
+  },
+  "思想内部张力": {
+    "主要矛盾": "工作价值的客观性与自我推荐的不足",
+    "深层原因": "Abel 的谦虚使他未能在 Paris 推广自己的工作；Cauchy 的搁置直接导致其最重要工作的延迟发表。这一矛盾是数学史上著名的悲剧。",
+    "对人格的影响": "Abel 没有因此变得愤世嫉俗；他继续研究直到生命最后一刻。但这种张力也提示了 19 世纪学术体制的不公——天才需要在体制内有人'看见'。"
+  }
 }

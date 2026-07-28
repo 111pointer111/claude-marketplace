@@ -1,24 +1,50 @@
-# 阿贝尔 直接引语
+# Niels Henrik Abel — 直接引语清单
+
+来源：Wikiquote (en.wikiquote.org/wiki/Niels_Henrik_Abel)
 
 ---
 
-## Hermite 评
+## On the quintic / impossibility theorem
 
-> "Abel has left mathematicians enough to keep them busy for five hundred years."
+1. "The mathematicians have been very much absorbed with finding the general solution of algebraic equations, and several of them have tried to prove the impossibility of it."
+   — A Memoir on Algebraic Equations (1824), translated by W. H. Langdon
 
-## Legendre 评
+2. "It is impossible to solve the general equation of the fifth degree in terms of radicals."
+   — A Memoir on Algebraic Equations (1824)
 
-> "What a head the young Norwegian has!"
+## On rigor in analysis (致 Hansteen 信, 1826)
 
-## Legendre 评椭圆函数论文
+3. "My work in the future must be devoted entirely to pure mathematics in its abstract meaning."
+   — Letter to Christoffer Hansteen (1826)
 
-> "a monument more lasting than bronze"
+4. 分析"lacks so completely all plan and system"，人们采用"this miserable way of concluding from the special to the general."
+   — Letter to Christoffer Hansteen (1826), quoted by Øystein Ore and Morris Kline
 
-## 关键概念
+## On divergent series (致 Holmboe 信, 1826)
 
-- Abel-Ruffini 定理
-- 椭圆函数 / Abelian 函数
-- 阿贝尔积分
-- 群论共同创立
-- 阿贝尔奖
-- Abel 群
+5. "On the whole, Divergent series are the work of the Devil and it's a Shame that one dares base any Demonstration on them. You can get whatever result you want when you use them."
+   — Letter to Bernt Michael Holmboe (January 1826), quoted by Arild Stubhaug
+
+6. He cited the absurdity "0 = 1 − 2^n + 3^n − 4^n + etc."
+   — Same source
+
+## On French vs German mathematicians (致 Holmboe 信, ca. 1826)
+
+7. "On the whole, I do not like the French as well as the Germans; the French are extremely reserved toward strangers… The most absolute egotism reigns everywhere."
+   — Letter to Bernt Michael Holmboe (ca. 1826), quoted by Øystein Ore
+
+## On studying masters (笔记本旁注, ca. 1826)
+
+8. "It is readily seen that any theory written by Laplace will be superior to all produced of lower standing."
+   — Marginal notebook note (ca. 1826), quoted by Øystein Ore
+
+9. "It appears to me that if one wants to make progress in mathematics, one should study the masters and not the pupils."
+   — Same source
+
+---
+
+## Other biographical notes (from Wikipedia)
+
+10. Crelle informed Abel of his appointment as professor at the University of Berlin by letter — which arrived two days after Abel's death (6 April 1829).
+11. Legendre called Abel's work on elliptic functions "a monument more lasting than bronze."
+12. Hermite remarked: "Abel has left mathematicians enough to keep them busy for five hundred years."

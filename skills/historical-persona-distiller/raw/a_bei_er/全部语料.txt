@@ -1,17 +1,85 @@
-# 阿贝尔 全部语料 (合并)
+# Niels Henrik Abel — 全部语料（合并版）
 
-> 合并自 传记.txt + 引语.txt + 后世评述.txt
+> 本文件由 传记.txt + 引语.txt + 后世评述.txt 合并而来，供 Stage 2-5 使用。
 
 ---
 
-# 一、传记
-- **阿贝尔** (1802-08-05 至 1829-04-06)
-- 挪威数学家
-- **1823 证明五次方程无根式解**
-- **1829 26 岁死于结核病**
+# 一、生平传记
 
-## 关键引语
+## 童年与挪威背景 (1802-1815)
+
+Niels Henrik Abel was born on 5 August 1802 in Nedstrand, Denmark–Norway, as the second child of the pastor Søren Georg Abel and Anne Marie Simonsen. His father held a degree in theology and philosophy, and the Abel family had originated in Schleswig before coming to Norway in the seventeenth century. His mother came from Risør and was said to be the daughter of the richest person in that town.
+
+## Christiania 学校与大学 (1815-1824)
+
+Abel entered the Cathedral School in Christiania in 1815 at the age of thirteen, where a new mathematics teacher named Bernt Michael Holmboe recognized his talent and gave him private lessons. By the time he entered the Royal Frederick University in 1821, Abel was already the most knowledgeable mathematician in Norway, and he graduated in 1822 with exceptional marks in mathematics.
+
+During his university years, Abel began working on the quintic equation, which had puzzled mathematicians for over 250 years. After initially believing he had solved it, he discovered a mistake in 1823 that led him to prove there is no general algebraic solution for equations of degree five or higher, a result now known as the Abel–Ruffini theorem. He published this proof in 1824 in a concise French memoir and a more detailed version appeared in 1826 in the first volume of Crelle's Journal.
+
+## 海外游学 (1825-1827)
+
+In 1825, Abel traveled abroad with university friends, spending four months in Berlin where he became closely associated with August Leopold Crelle and contributed seven articles to the first volume of the newly founded Journal für die reine und angewandte Mathematik. He continued to Freiberg for research on elliptic and Abelian functions, then journeyed to Paris in July 1826. There he submitted what he considered his most important work on the addition of algebraic differentials to the French Academy of Sciences, but Augustin-Louis Cauchy set it aside and it was forgotten until after Abel's death. His modesty prevented him from promoting his research in Paris, and Adrien-Marie Legendre, who later called his work on elliptic functions "a monument more lasting than bronze," praised him only after the fact. Abel returned to Norway in May 1827 with finances exhausted and his scholarship not renewed.
+
+## 挪威最后岁月与逝世 (1827-1829)
+
+While in Paris Abel had contracted tuberculosis. At Christmas 1828 he traveled by sled to Froland, Norway, to visit his fiancée Christine Kemp, becoming seriously ill on the journey. He died on 6 April 1829 at the age of twenty-six, just two days before a letter arrived from August Leopold Crelle informing him of an appointment as professor at the University of Berlin.
+
+---
+
+# 二、核心贡献（按领域）
+
+## 代数方程论 (1824-1826)
+
+- Abel-Ruffini theorem: 证明五次及以上一般代数方程无根式解 (1824)
+- 在 Crelle's Journal 第一卷发表更详细版本 (1826)
+
+## 椭圆函数与 Abelian 函数
+
+- 椭圆积分与椭圆函数的基础工作
+- 揭示椭圆函数的双周期性
+- Abelian 函数的奠基
+
+## 幂级数收敛性 (Abel's theorem)
+
+- 幂级数连续性定理 (Abel's theorem)
+- Abel 求和公式 (Abel summation)
+- Abel 判别法 (Abel's test)
+
+## 群论起源
+
+- Abelian 群 (Abelian groups) — "a term that has become so common it is conventionally written with a lowercase 'a.'"
+
+## 二项式定理
+
+- 16 岁给出对所有数都成立的二项式定理严格证明
+
+---
+
+# 三、直接引语（精选）
+
+1. "The mathematicians have been very much absorbed with finding the general solution of algebraic equations, and several of them have tried to prove the impossibility of it." — A Memoir on Algebraic Equations (1824)
+
+2. "It is impossible to solve the general equation of the fifth degree in terms of radicals." — Same source
+
+3. "My work in the future must be devoted entirely to pure mathematics in its abstract meaning." — Letter to Christoffer Hansteen (1826)
+
+4. 分析"lacks so completely all plan and system"，人们采用"this miserable way of concluding from the special to the general." — Letter to Hansteen (1826)
+
+5. "On the whole, Divergent series are the work of the Devil and it's a Shame that one dares base any Demonstration on them. You can get whatever result you want when you use them." — Letter to Holmboe (January 1826)
+
+6. "On the whole, I do not like the French as well as the Germans; the French are extremely reserved toward strangers… The most absolute egotism reigns everywhere." — Letter to Holmboe (ca. 1826)
+
+7. "It is readily seen that any theory written by Laplace will be superior to all produced of lower standing." — Marginal notebook note (ca. 1826)
+
+8. "It appears to me that if one wants to make progress in mathematics, one should study the masters and not the pupils." — Same source
+
+---
+
+# 四、后世评述
+
+- Legendre: elliptic functions 工作是 "a monument more lasting than bronze"
 - Hermite: "Abel has left mathematicians enough to keep them busy for five hundred years."
-
-## 后世评述
-- 阿贝尔奖以其命名
+- Crelle: 提供柏林大学教授职位 — 信在 Abel 死后两天到达
+- Cauchy: 搁置 Abel 关于代数微分加法的工作 — 悲剧性疏忽
+- Felix Klein: 把 Abel 比作 Mozart（早逝天才）
+- 现代荣誉: Abel Prize in mathematics (2003 起)

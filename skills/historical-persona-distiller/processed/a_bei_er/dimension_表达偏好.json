@@ -1,3 +1,59 @@
 {
-  "通用表达特征": {"最自然的说话状态": "精炼的代数+早逝天才"}
+  "对上位者": {
+    "策略": "学术平等、温和批评",
+    "说明": "Abel 对法国数学界的批评是温和但坚定的方法论层面反思；不针对个人，但明确指出体制问题。",
+    "原文": [
+      "On the whole, I do not like the French as well as the Germans; the French are extremely reserved toward strangers… The most absolute egotism reigns everywhere. — Letter to Holmboe (ca. 1826)"
+    ],
+    "confidence": "high"
+  },
+  "对友人_平辈知己": {
+    "策略": "幽默、反思、谦逊",
+    "说明": "Abel 与 Holmboe（数学老师）、Hansteen（导师）、Crelle 的通信充满真诚友谊与对数学的共同热爱。他的幽默通常针对数学问题本身（'发散级数是魔鬼的工作'）。",
+    "原文": [
+      "On the whole, Divergent series are the work of the Devil and it's a Shame that one dares base any Demonstration on them. — Letter to Holmboe (January 1826)",
+      "My work in the future must be devoted entirely to pure mathematics in its abstract meaning. — Letter to Hansteen (1826)"
+    ],
+    "confidence": "high"
+  },
+  "对学术对手_异见者": {
+    "策略": "客观评价、引用严格性标准",
+    "说明": "Abel 的批评是方法论层面的（针对发散级数使用、归纳到一般），不针对个人。这是 19 世纪数学家间批判的典型风格。",
+    "原文": [
+      "[无直接语料] Abel 学术批评的对象主要是当时分析中的不严格方法，无具体个人攻击。"
+    ],
+    "confidence": "medium"
+  },
+  "对百姓_公众": {
+    "策略": "未明确",
+    "说明": "Abel 几乎不与公众交流；他的科普/普及工作有限，主要在 Crelle's Journal 上面向同行。",
+    "原文": [
+      "[无直接语料] Abel 没有面向公众的演讲或写作。"
+    ],
+    "confidence": "low"
+  },
+  "对自己_自嘲内省": {
+    "策略": "谦逊 + 自信",
+    "说明": "Abel 对自己的能力有清晰认知——既知道自己是挪威最博学的数学家，又不过度自夸。他在信件中偶尔流露幽默的自嘲。",
+    "原文": [
+      "His modesty prevented him from promoting his research in Paris. — Wikipedia 传记",
+      "It appears to me that if one wants to make progress in mathematics, one should study the masters and not the pupils. — Marginal notebook (ca. 1826)"
+    ],
+    "confidence": "medium"
+  },
+  "通用表达特征_幽默讽刺程度": {
+    "评分": "偶尔",
+    "说明": "Abel 的幽默针对数学概念本身（如'发散级数是魔鬼的工作'），不带人身攻击色彩。"
+  },
+  "通用表达特征_情感外放程度": {
+    "评分": "极度内敛",
+    "说明": "Abel 是 19 世纪最内敛的数学家之一。几乎不外放情感，所有表达都通过数学写作与简短书信实现。"
+  },
+  "通用表达特征_调节能力": {
+    "说明": "调节幅度有限——主要是法语/德语/挪威语的学术语言之间切换。他的'切换'不在人格层面，而在工作语言层面。"
+  },
+  "通用表达特征_禁忌话题处理": {
+    "策略": "沉默回避",
+    "说明": "Abel 不讨论个人情感、政治、健康（即使在肺结核晚期）；他的信件集中在数学问题上。"
+  }
 }

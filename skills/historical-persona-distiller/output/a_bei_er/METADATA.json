@@ -1,15 +1,71 @@
 {
-  "persona_id": "a_bei_er",
-  "name_zh": "阿贝尔",
-  "name_en": "Niels Henrik Abel",
-  "birth_death": "1802-08-05 / 1829-04-06",
-  "dynasty": "19世纪挪威",
-  "confidence": "medium",
-  "priority": "high",
-  "persona_type": "mathematician",
-  "key_works": ["Abel-Ruffini 定理 (1824 6页论文)", "椭圆函数论文", "Abel 群"],
-  "core_concepts": ["Abel-Ruffini 定理", "椭圆函数", "Abelian 函数", "群论共同创立", "阿贝尔奖"],
-  "distillation_date": "2026-07-26",
-  "sources_used": ["Wikipedia - Niels Henrik Abel"],
-  "default_stage": "切片二: 研究与证明 (1823-1826)"
+  "name": "Niels Henrik Abel",
+  "name_pinyin": "a_bei_er",
+  "name_chinese": "阿贝尔",
+  "dynasty": "19世纪初丹麦-挪威 / 挪威独立后",
+  "lifespan": {
+    "birth": "1802-08-05",
+    "death": "1829-04-06",
+    "age_at_death": 26
+  },
+  "birth_place": "Nedstrand, Denmark–Norway",
+  "death_place": "Froland, Norway",
+  "nationality": "Norwegian",
+  "fields": ["Mathematics"],
+  "known_for": [
+    "Abel-Ruffini theorem (quintic impossibility)",
+    "Elliptic functions and Abelian functions",
+    "Abel's theorem (power series continuity)",
+    "Abelian groups (concept foundation)",
+    "Abel summation and Abel's test",
+    "Rigorous proof of binomial theorem (age 16)"
+  ],
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-28",
+  "distiller_skill": "historical-persona-distiller",
+  "sources_count": 3,
+  "overall_confidence": "high",
+  "default_stage": "切片二 Royal Frederick University 与五次方程 (1821-1824)",
+  "default_stage_confidence": "high",
+  "stages_count": 4,
+  "raw_text_files": [
+    "传记.txt",
+    "引语.txt",
+    "后世评述.txt",
+    "全部语料.txt"
+  ],
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "consistency_check.md"
+  ],
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Niels_Henrik_Abel",
+    "https://en.wikiquote.org/wiki/Niels_Henrik_Abel",
+    "https://en.wikipedia.org/wiki/Abel%E2%80%93Ruffini_theorem"
+  ],
+  "key_relationships": [
+    {"name": "Bernt Michael Holmboe", "relationship": "Cathedral School 数学老师，赏识其才华，终身通信对象"},
+    {"name": "Christoffer Hansteen", "relationship": "Royal Frederick University 教授，导师"},
+    {"name": "August Leopold Crelle", "relationship": "Crelle's Journal 创始人，柏林大学教授职位提供者"},
+    {"name": "Augustin-Louis Cauchy", "relationship": "Paris 时期搁置其工作的悲剧性人物"},
+    {"name": "Adrien-Marie Legendre", "relationship": "椭圆函数工作的后期赞誉者"},
+    {"name": "Christine Kemp", "relationship": "未婚妻，1828 圣诞雪橇之旅目的地"}
+  ],
+  "key_works": [
+    {"year": 1818, "title": "二项式定理严格证明", "type": "manuscript", "note": "16 岁完成"},
+    {"year": 1824, "title": "A Memoir on Algebraic Equations", "type": "memo", "note": "5 页法语备忘录"},
+    {"year": 1826, "title": "Crelle's Journal 第一卷 7 篇论文", "type": "papers"},
+    {"year": "1826-1827", "title": "椭圆函数与 Abelian 函数研究", "type": "papers"},
+    {"year": 1826, "title": "关于代数微分加法的论文", "type": "memo", "note": "被 Cauchy 搁置"}
+  ],
+  "modern_honors": [
+    "Abel Prize in mathematics (2003 起颁发)",
+    "Abelian groups 群论核心概念",
+    "Abel-Ruffini theorem",
+    "Abel's theorem",
+    "Abel summation formula"
+  ]
 }

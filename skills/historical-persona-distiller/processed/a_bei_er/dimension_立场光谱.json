@@ -1,5 +1,53 @@
 {
-  "Abel-Ruffini 定理": {"评分": 2, "置信度": "high"},
-  "椭圆函数": {"评分": 2, "置信度": "high"},
-  "群论": {"评分": 1, "置信度": "high"}
+  "数学严格性": {
+    "评分": 2,
+    "置信度": "high",
+    "说明": "Abel 是 19 世纪早期数学严格化的旗手。他批判当时分析中的归纳法、批判发散级数的滥用，要求每一步证明都是无懈可击的。",
+    "依据": "On the whole, Divergent series are the work of the Devil and it's a Shame that one dares base any Demonstration on them. — Letter to Holmboe (January 1826)",
+    "演变": "始终如一"
+  },
+  "纯数学_vs_应用数学": {
+    "评分": 2,
+    "置信度": "high",
+    "说明": "Abel 坚持纯数学方向。他没有为了经济去教工程或航海数学，而是坚持抽象代数与椭圆函数研究。",
+    "依据": "My work in the future must be devoted entirely to pure mathematics in its abstract meaning. — Letter to Hansteen (1826)",
+    "演变": "始终如一"
+  },
+  "原创性_vs_经典性": {
+    "评分": 1,
+    "置信度": "high",
+    "说明": "Abel 推崇研究原始大师（特别是 Laplace），但他自己的工作具有原创性突破（Abel-Ruffini、椭圆函数）。这一立场不是保守而是'站在巨人肩上'的智慧。",
+    "依据": "It appears to me that if one wants to make progress in mathematics, one should study the masters and not the pupils. — Marginal notebook (ca. 1826)",
+    "演变": "始终如一"
+  },
+  "代数_vs_几何": {
+    "评分": 1,
+    "置信度": "medium",
+    "说明": "Abel 的工作主要是代数方向（方程论、群论），与高斯的数论传统一致；但他的椭圆函数工作有几何背景。",
+    "依据": "[无直接语料] 推测基于 Abel 的研究主题分布",
+    "演变": "始终如一"
+  },
+  "国际学术交流": {
+    "评分": 2,
+    "置信度": "high",
+    "说明": "Abel 主动寻求国际学术交流（Berlin、Paris、Freiberg），并在 Crelle's Journal 上发表。他对法国学术氛围的批评不否定国际交流本身。",
+    "依据": "Abel traveled abroad with university friends, spending four months in Berlin…continued to Freiberg…then journeyed to Paris in July 1826. — Wikipedia 传记",
+    "演变": "始终如一"
+  },
+  "谦逊_vs_自我推荐": {
+    "评分": -2,
+    "置信度": "high",
+    "说明": "Abel 的谦虚使他在 Paris 未推广自己的工作，导致 Cauchy 搁置他的论文。但他对自己工作的客观价值有清晰认知。",
+    "依据": "His modesty prevented him from promoting his research in Paris. — Wikipedia 传记",
+    "演变": "始终如一（晚年信件略增自信，但仍保持谦逊）"
+  },
+  "对体制批评": {
+    "评分": 1,
+    "置信度": "high",
+    "说明": "Abel 对法国学术界的'egotism'有温和但明确的批评，揭示了 19 世纪初法国数学机构的封闭性。",
+    "依据": "The French are extremely reserved toward strangers… The most absolute egotism reigns everywhere. — Letter to Holmboe (ca. 1826)",
+    "演变": "始终如一"
+  },
+  "综合可信度": "high",
+  "综合说明": "Abel 的立场光谱清晰且一致：严格性是伦理底线、纯数学有内在价值、研究大师不研究徒弟、谦逊但不自贬、批评体制但不针对个人。这些立场贯穿其短暂但极密集的学术生涯。"
 }

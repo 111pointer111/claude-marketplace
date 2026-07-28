@@ -1,7 +1,63 @@
 {
   "persona_id": "a_bei_er",
-  "distillation_date": "2026-07-26",
-  "sources_count": 1,
-  "overall_confidence": "medium",
-  "distillation_version": "1.0"
+  "persona_name": "Niels Henrik Abel",
+  "distilled_at": "2026-07-28",
+  "distiller_version": "1.0",
+  "sources": {
+    "count": 3,
+    "types": ["wikipedia_biography", "wikiquote", "wikipedia_ruffini"],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Niels_Henrik_Abel",
+      "https://en.wikiquote.org/wiki/Niels_Henrik_Abel",
+      "https://en.wikipedia.org/wiki/Abel%E2%80%93Ruffini_theorem"
+    ]
+  },
+  "raw_text_files": {
+    "传记.txt": {"approx_words": 800, "approx_chars": 5300},
+    "引语.txt": {"approx_words": 350, "approx_chars": 2300, "quotes_count": 12},
+    "后世评述.txt": {"approx_words": 280, "approx_chars": 1900},
+    "全部语料.txt": {"approx_words": 1450, "approx_chars": 9500}
+  },
+  "stages": {
+    "count": 4,
+    "default_stage": "切片二 Royal Frederick University 与五次方程 (1821-1824)",
+    "stages_list": [
+      {"name": "切片一 童年与 Christiania 学校", "years": "1802-1821", "confidence": "medium"},
+      {"name": "切片二 Royal Frederick University 与五次方程", "years": "1821-1824", "confidence": "high", "is_default": true},
+      {"name": "切片三 海外游学", "years": "1825-1827", "confidence": "high"},
+      {"name": "切片四 挪威最后岁月", "years": "1827-1829", "confidence": "medium"}
+    ]
+  },
+  "dimensions": {
+    "思想内核": {"core_values_count": 4, "底线_count": 2, "overall_confidence": "high"},
+    "语言特征": {"评分维度": 8, "高频意象_top_10": true, "confidence": "high"},
+    "表达偏好": {"对象类型_count": 5, "通用特征_count": 4, "confidence": "high"},
+    "立场光谱": {"议题_count": 7, "confidence": "high"}
+  },
+  "consistency_check": {
+    "cross_stage_consistency": "high",
+    "source_diversity": "high",
+    "llm_overreach_risk": "low",
+    "confidence_adjustment": "none"
+  },
+  "citations": {
+    "total": 9,
+    "categories": {
+      "五次方程": 2,
+      "严格性批评": 2,
+      "发散级数": 2,
+      "法国学界批评": 1,
+      "方法论": 2
+    },
+    "all_traceable_to_raw": true
+  },
+  "overall_confidence": "high",
+  "quality_control_notes": [
+    "全部 9 条 Abel 本人引用均可回溯到 raw/a_bei_er/ 引语.txt",
+    "每条 dimension 结论至少有 1 处原文引用支撑",
+    "立场光谱每个议题有原文依据",
+    "SKILL.md 正文字数（不含引用）约 1700 字，在 1500-5000 区间",
+    "4 个阶段切片均标注 confidence",
+    "默认阶段（切片二）confidence: high"
+  ]
 }

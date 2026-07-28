@@ -1,16 +1,44 @@
-# 阿贝尔 后世评述
+# Niels Henrik Abel — 后世评述
 
-## 历史定位
-- 挪威最伟大数学家
-- 26 岁早逝天才
-- 群论共同创立
+> 来自 Wikipedia "Niels Henrik Abel" 词条中的他人评价段。
 
-## 思想史意义
-- Abel-Ruffini 定理
-- 椭圆函数发展
-- 阿贝尔奖
+---
 
-## 后世影响
-- 现代抽象代数基础
-- 椭圆函数理论
-- 阿贝尔奖 (数学最高荣誉之一)
+## Adrien-Marie Legendre (French mathematician)
+
+- Called Abel's work on elliptic functions **"a monument more lasting than bronze"**
+  — quoted in Wikipedia biography, after Abel's death
+
+## Charles Hermite (French mathematician)
+
+- **"Abel has left mathematicians enough to keep them busy for five hundred years."**
+  — Wikipedia biography
+
+## August Leopold Crelle (German mathematician)
+
+- Founder of Journal für die reine und angewandte Mathematik (1826), where Abel contributed 7 articles in the first volume
+- Personally offered Abel a professorship at the University of Berlin — the letter arrived two days after Abel's death on 6 April 1829
+
+## Augustin-Louis Cauchy (French mathematician)
+
+- Set aside Abel's memoir on the addition of algebraic differentials submitted to the French Academy of Sciences
+- It was forgotten until after Abel's death
+- The episode is often cited as a tragic example of institutional neglect of genius
+
+## Felix Klein (German mathematician, 1849-1925)
+
+- Compared Abel's productivity and personality to Mozart — both early-genius who died young
+- Noted that the Abel monument in Oslo is disappointing compared to the genius
+
+## 现代荣誉
+
+- Abel Prize in mathematics — first awarded in 2003
+- Many mathematical concepts bear his name: Abelian groups (lowercase 'a' by convention), Abel-Ruffini theorem, Abel's theorem, Abel's summation formula, Abel's test, Abelian functions
+- Wikipedia: "His legacy endures in the Abel Prize in mathematics, first awarded in 2003, and in the many mathematical concepts that bear his name."
+
+## 评价综览
+
+- Abel 是 19 世纪最伟大的数学家之一，但因 26 岁早逝未能发挥全部潜力
+- Cauchy's neglect 是数学史最著名的悲剧之一
+- Abel-Ruffini 定理终结了 250 年的五次方程求根式解探索
+- Abelian groups、elliptic functions 是现代代数几何、密码学的基石
