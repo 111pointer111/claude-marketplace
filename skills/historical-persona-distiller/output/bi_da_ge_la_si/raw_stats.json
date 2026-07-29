@@ -1,7 +1,75 @@
 {
   "persona_id": "bi_da_ge_la_si",
-  "distillation_date": "2026-07-26",
-  "sources_count": 1,
+  "persona_name": "Pythagoras of Samos",
+  "persona_chinese": "毕达哥拉斯",
+  "distilled_at": "2026-07-29",
+  "distiller_version": "1.0",
+  "sources": {
+    "count": 3,
+    "types": ["wikipedia_biography", "wikiquote", "stanford_encyclopedia_of_philosophy"],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Pythagoras",
+      "https://en.wikiquote.org/wiki/Pythagoras",
+      "https://plato.stanford.edu/entries/pythagoras/"
+    ]
+  },
+  "raw_text_files": {
+    "raw/bi_da_ge_la_si/传记.txt": {"approx_words": 184, "approx_chars": 1023},
+    "raw/bi_da_ge_la_si/引语.txt": {"approx_words": 95, "approx_chars": 493, "quotes_count": 13},
+    "raw/bi_da_ge_la_si/后世评述.txt": {"approx_words": 27, "approx_chars": 144},
+    "raw/bi_da_ge_la_si/全部语料.txt": {"approx_words": 62, "approx_chars": 283}
+  },
+  "stages": {
+    "count": 4,
+    "default_stage": "切片三 Croton 学派鼎盛 (c. 530-510 BC)",
+    "stages_list": [
+      {"name": "切片一 早年游学与思想形成", "years": "c. 570-530 BC", "confidence": "medium"},
+      {"name": "切片二 Samos 时期与半圆厅", "years": "c. 530 BC 前后", "confidence": "medium"},
+      {"name": "切片三 Croton 学派鼎盛", "years": "c. 530-510 BC", "confidence": "medium", "is_default": true},
+      {"name": "切片四 Metapontum 流亡与逝世", "years": "c. 510-495 BC", "confidence": "medium"}
+    ]
+  },
+  "dimensions": {
+    "思想内核": {"core_values_count": 4, "doctrines_count": 6, "overall_confidence": "medium"},
+    "语言特征": {"评分维度": 8, "高频意象_top_10": true, "confidence": "medium"},
+    "表达偏好": {"对象类型_count": 5, "通用特征_count": 4, "confidence": "medium"},
+    "立场光谱": {"议题_count": 9, "confidence": "medium"}
+  },
+  "consistency_check": {
+    "cross_stage_consistency": "high",
+    "source_diversity": "medium",
+    "llm_overreach_risk": "medium",
+    "confidence_adjustment": "none"
+  },
+  "citations": {
+    "total": 19,
+    "categories": {
+      "数字本原论": 4,
+      "伦理与教派": 3,
+      "灵魂轮回": 2,
+      "戒律_acusmata": 4,
+      "勾股定理": 2,
+      "音乐比率": 1,
+      "后世评述": 3
+    },
+    "reliability_distribution": {
+      "high": 7,
+      "medium": 7,
+      "low": 5
+    },
+    "all_traceable_to_raw": true
+  },
   "overall_confidence": "medium",
-  "distillation_version": "1.0"
+  "quality_control_notes": [
+    "Pythagoras 本人无任何作品存世;所有'引语'均为后世转述(Aristoxenus / Heraclides Ponticus / Diogenes Laërtius / Iamblichus / Boethius),需逐条标注'出处时代'与'可靠性'",
+    "DISPUTED 标注:C2('万物皆数'古希腊原文)无确切古典出处,不可作 Pythagoras 直接原话;C4(Iamblichus '数为神与精灵之原因')经 1818 Thomas Taylor 译转,中文化时建议加'转译'提示",
+    "学界共识更新:勾股定理的'个人证明'归属已被推翻(SEP/Burkert 1972 指出 Babylonian Plimpton 322 早 1500 年,Baudhayana Śulbasūtras 早数百年;首次严格证明可能为 Hippocrates of Chios,非 Pythagoras 本人)",
+    "学界争议标注:五种正多面体(Platonic solids)的早期构造——Proclus 引 Eudemus 归 Pythagoras,但经 Iamblichus 转述,Burkert 1972: 409 ff. 视为伪托;实际构造属 Theaetetus 与早期 Plato 学院",
+    "学界争议标注:akousmatikoi / mathematikoi 划分——SEP/Burkert 指出可能为 Hellenistic 构造(Zhmud 2012 论证其首次出现于 Clement of Alexandria),非 6th c. 事实",
+    "学界争议标注:五元素说(土水气火 + 以太)——以太是 Aristotle 概念(De Caelo I.2-3),非 Pythagoras;四元素是 Empedocles。Pythagoras 学派传统是五种正多面体,不是五种元素",
+    "可靠性分类:7 高(古希腊文本或多源独立)+ 7 中(单一权威来源 + 解释性)+ 5 低(伪托 / 后世转译 / 缺古典出处)",
+    "SKILL.md 正文字数(不含引用)约 2300 字,在 1500-5000 区间;触发条件、立场光谱、语言特征、必读篇目均已覆盖",
+    "默认阶段(切片三)confidence: medium;其他三个阶段均为 medium(古代资料不充分所致)",
+    "三源覆盖:English Wikipedia(基础事实 + 传统叙事)、Wikiquote(acusmata + 黄金诗)、Stanford Encyclopedia of Philosophy(Burkert 1972 / Zhmud 2012 等学界共识);Britannica 不可用,以 SEP 替代"
+  ]
 }

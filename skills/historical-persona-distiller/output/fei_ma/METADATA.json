@@ -1,15 +1,93 @@
 {
-  "persona_id": "fei_ma",
-  "name_zh": "费马",
-  "name_en": "Pierre de Fermat",
-  "birth_death": "1601 / 1665-01-12",
-  "dynasty": "17世纪法国",
-  "confidence": "medium",
-  "priority": "high",
-  "persona_type": "mathematician / lawyer",
-  "key_works": ["费马大定理 (FLT)", "费马小定理", "二平方定理", "多边形数定理", "最短时间原理 (费马原理)"],
-  "core_concepts": ["费马大定理", "数论", "解析几何", "概率论", "Prince of Amateurs"],
-  "distillation_date": "2026-07-26",
-  "sources_used": ["Wikipedia - Pierre de Fermat"],
-  "default_stage": "切片二: 数学黄金时期 (1629-1654)"
+  "name": "Pierre de Fermat",
+  "name_pinyin": "fei_ma",
+  "name_chinese": "费马",
+  "dynasty": "17世纪法国 (波旁王朝 / 路易十三-路易十四)",
+  "lifespan": {
+    "birth": "1601-08-17",
+    "death": "1665-01-12",
+    "age_at_death": 63
+  },
+  "birth_place": "Beaumont-de-Lomagne, Gascony, France",
+  "death_place": "Castres, Languedoc, France",
+  "nationality": "French",
+  "occupation_primary": "lawyer (conseiller au parlement de Toulouse)",
+  "occupation_secondary": "amateur mathematician (Prince of Amateurs)",
+  "fields": ["Number theory", "Analytic geometry", "Probability theory", "Calculus (preludes)", "Optics"],
+  "known_for": [
+    "Fermat's Last Theorem (FLT, 1637 marginal note, proven 1995 by Wiles)",
+    "Fermat's Little Theorem (1640, a^(p-1) ≡ 1 mod p)",
+    "Fermat numbers F_n = 2^(2^n) + 1 (1657)",
+    "Analytic geometry (independent of Descartes, 1637 Ad locos planos et solidos isagoge)",
+    "Probability theory (with Pascal, 1654 correspondence)",
+    "Method of maxima and minima (1638, prelude to calculus)",
+    "Two-square theorem (1629-1630)",
+    "Polygonal number theorem (1629-1638)",
+    "Principle of least time (optics, 1660s)",
+    "Partial derivation of quadratic reciprocity"
+  ],
+  "persona_version": "2.0",
+  "distilled_at": "2026-07-29",
+  "distiller_skill": "historical-persona-distiller",
+  "sources_count": 3,
+  "overall_confidence": "high",
+  "default_stage": "切片四 概率论与数论通信期 (1654-1665)",
+  "default_stage_confidence": "high",
+  "stages_count": 4,
+  "raw_text_files": [
+    "传记.txt",
+    "引语.txt",
+    "后世评述.txt",
+    "全部语料.txt"
+  ],
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "consistency_check.md"
+  ],
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Pierre_de_Fermat",
+    "https://en.wikiquote.org/wiki/Pierre_de_Fermat",
+    "https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem"
+  ],
+  "key_relationships": [
+    {"name": "Blaise Pascal", "relationship": "1654 年概率论通信伙伴，建立数学期望概念"},
+    {"name": "Marin Mersenne", "relationship": "巴黎修士，1636-1648 年学术通信枢纽，串联法国数学界"},
+    {"name": "René Descartes", "relationship": "1637-1638 求切线方法论战对手，最终费马胜出"},
+    {"name": "Girard Desargues", "relationship": "射影几何学家，费马在 Mersenne 学圈的早期朋友"},
+    {"name": "Bernard Frénicle de Bessy", "relationship": "数论通信伙伴，1656 年提出挑战性问题"},
+    {"name": "Christiaan Huygens", "relationship": "概率论早期应用合作者"},
+    {"name": "Samuel de Fermat", "relationship": "次子，整理遗作 1679 年出版《费马杂文集》"},
+    {"name": "Clément-Samuel de Fermat", "relationship": "长子 (有时也作长兄)，数学通信合作者"},
+    {"name": "Claude Bachet", "relationship": "丢番图《算术》1621 年拉丁译本编注者，费马页边注的对象"}
+  ],
+  "key_works": [
+    {"year": 1629, "title": "二平方定理 (Two-Square Theorem) 证明", "type": "manuscript", "language": "Latin"},
+    {"year": 1637, "title": "平面与立体轨迹导论 (Ad locos planos et solidos isagoge)", "type": "manuscript", "language": "Latin", "note": "1679 出版；解析几何共同创立"},
+    {"year": "1637 前后", "title": "丢番图《算术》页边注", "type": "marginal notes", "language": "Latin", "note": "包含费马大定理原始陈述"},
+    {"year": 1638, "title": "求极大极小方法 (Méthode de maximis et minimis)", "type": "treatise", "language": "French"},
+    {"year": 1640, "title": "费马小定理 (Fermat's Little Theorem)", "type": "letter", "language": "French", "note": "致 Mersenne"},
+    {"year": 1654, "title": "得点问题通信 (problème des points)", "type": "letter series", "language": "French", "note": "与 Pascal 7 封信"},
+    {"year": 1657, "title": "费马数 (Fermat Numbers)", "type": "letter", "language": "French/Latin"},
+    {"year": 1660, "title": "最短时间原理 (Principle of Least Time)", "type": "treatise", "language": "French/Latin"},
+    {"year": 1679, "title": "费马杂文集 (Varia Opera Mathematica)", "type": "posthumous collection", "language": "Latin/French", "note": "Samuel de Fermat 编辑出版"}
+  ],
+  "modern_honors": [
+    "Fermat's Last Theorem (1995 由 Andrew Wiles 证明)",
+    "Fermat's Little Theorem (现代数论基础)",
+    "Fermat numbers / Fermat primes",
+    "Fermat point (几何学)",
+    "Fermat's principle of least time (光学)",
+    "Fermat's method of infinite descent (现代数学常用技巧)",
+    "Fermat's theorem on sums of two squares",
+    "Fermat polygonal number theorem",
+    "多项以 Fermat 命名的数学名词与定理"
+  ],
+  "key_quote": {
+    "english": "I have discovered a truly marvelous proof of this theorem which this margin is too narrow to contain.",
+    "latin_original": "Cuius rei demonstrationem mirabilem sane detexi. Hanc marginis exiguitas non caperet.",
+    "context": "1637 前后，丢番图《算术》第 II 卷问题 8 页边注"
+  }
 }

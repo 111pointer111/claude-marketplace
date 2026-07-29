@@ -1,15 +1,86 @@
 {
-  "persona_id": "ke_xi",
-  "name_zh": "柯西",
-  "name_en": "Augustin-Louis Cauchy",
-  "birth_death": "1789-08-21 / 1857-05-23",
-  "dynasty": "19世纪法国",
-  "confidence": "medium",
-  "priority": "high",
-  "persona_type": "mathematician",
-  "key_works": ["Cours d'analyse (1821)", "Cauchy integral theorem (1825)", "Cauchy stress tensor (1827)"],
-  "core_concepts": ["δ-ε 严格化", "柯西积分定理/公式", "Cauchy-Riemann 方程", "Cauchy 列", "残数定理", "抽象代数先驱"],
-  "distillation_date": "2026-07-26",
-  "sources_used": ["Wikipedia - Augustin-Louis Cauchy"],
-  "default_stage": "切片二: 数学教授与严格化 (1813-1830)"
+  "name": "Augustin-Louis Cauchy",
+  "name_pinyin": "ke_xi",
+  "name_chinese": "柯西",
+  "dynasty": "19世纪法国（七月王朝 / 第二共和国 / 第二帝国）",
+  "lifespan": {
+    "birth": "1789-08-21",
+    "death": "1857-05-23",
+    "age_at_death": 67
+  },
+  "birth_place": "Arcueil, Paris, France",
+  "death_place": "Sceaux, Hauts-de-Seine, France",
+  "nationality": "French",
+  "fields": ["分析", "复变函数", "群论", "弹性力学", "数论", "行列式论"],
+  "known_for": [
+    "δ-ε 严格化分析（《分析教程》1821）",
+    "柯西积分定理与柯西积分公式",
+    "柯西-黎曼方程（与 Riemann 共同奠基）",
+    "残数定理",
+    "柯西应力张量（弹性力学）",
+    "Cauchy 列（完备性雏形）",
+    "Cauchy 分布",
+    "Cauchy-Schwarz 不等式（独立于 Schwarz）",
+    "群论 Cauchy 定理（p 阶元素置换群, 1845）",
+    "déterminant（行列式）术语命名 (1812)",
+    "Cauchy-Lipschitz 存在性定理（微分方程）",
+    "Cauchy interlacing theorem（特征值理论）"
+  ],
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-29",
+  "distiller_skill": "historical-persona-distiller",
+  "sources_count": 3,
+  "overall_confidence": "high",
+  "default_stage": "切片二 综合理工学校教授期 1816-1830",
+  "default_stage_confidence": "high",
+  "stages_count": 4,
+  "raw_text_files": [
+    "传记.txt",
+    "引语.txt",
+    "后世评述.txt",
+    "全部语料.txt"
+  ],
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "consistency_check.md"
+  ],
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy",
+    "https://en.wikiquote.org/wiki/Augustin-Louis_Cauchy",
+    "https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula"
+  ],
+  "key_relationships": [
+    {"name": "Joseph-Louis Lagrange", "relationship": "早期导师；Cauchy 幼年时被其父亲带去见 Lagrange"},
+    {"name": "Pierre-Simon Laplace", "relationship": "早期导师之一"},
+    {"name": "Siméon Denis Poisson", "relationship": "综合理工学校前同事；Cauchy 接替 Poisson 的教席"},
+    {"name": "Niels Henrik Abel", "relationship": "搁置其 1826 提交给法国科学院的备忘录——悲剧性事件"},
+    {"name": "Évariste Galois", "relationship": "评审 Galois 论文之一（1832）"},
+    {"name": "Jacques Hadamard", "relationship": "学生；后来成为重要数学家"},
+    {"name": "Vincenzo Briot", "relationship": "学生；与 Bouquet 合著复变函数论教科书"},
+    {"name": "Joseph Bertrand", "relationship": "亲家；Cauchy 的女儿嫁入 Bertrand 家"},
+    {"name": "François Arago", "relationship": "科学院论敌；曾阻止 Cauchy 在法兰西学院取得教席"},
+    {"name": "Charles X / Henri d'Artois", "relationship": "波旁王朝；Cauchy 是 Henri d'Artois 之子导师 (1832-1833)"}
+  ],
+  "key_works": [
+    {"year": 1812, "title": "déterminant（行列式）术语引入", "type": "memo", "note": "科学院备忘录"},
+    {"year": 1815, "title": "费马多边形数定理证明", "type": "paper"},
+    {"year": 1821, "title": "Cours d'analyse de l'École royale polytechnique（《分析教程》）", "type": "book", "note": "δ-ε 严格化"},
+    {"year": 1823, "title": "Résumé des leçons de calcul infinitésimal", "type": "book", "note": "无穷小演算教程概要"},
+    {"year": 1825, "title": "柯西积分定理", "type": "paper"},
+    {"year": 1827, "title": "Leçons sur les applications du calcul infinitésimal à la géométrie", "type": "book", "note": "柯西应力张量"},
+    {"year": "1831-1838", "title": "柯西积分公式与残数定理", "type": "papers", "note": "流亡期间完成"},
+    {"year": 1845, "title": "群论 Cauchy 定理", "type": "paper", "note": "p 阶元素置换群"}
+  ],
+  "modern_honors": [
+    "72 名镌刻于埃菲尔铁塔 (1889)",
+    "Cauchy Prize（法国科学院奖项）",
+    "Cauchy integral theorem / Cauchy-Riemann equations",
+    "Cauchy sequence / Cauchy distribution",
+    "Cauchy stress tensor",
+    "Cauchy interlacing theorem",
+    "Cauchy-Lipschitz theorem"
+  ]
 }

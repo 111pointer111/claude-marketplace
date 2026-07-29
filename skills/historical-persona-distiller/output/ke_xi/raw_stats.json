@@ -1,7 +1,69 @@
 {
   "persona_id": "ke_xi",
-  "distillation_date": "2026-07-26",
-  "sources_count": 1,
-  "overall_confidence": "medium",
-  "distillation_version": "1.0"
+  "persona_name": "Augustin-Louis Cauchy",
+  "distilled_at": "2026-07-29",
+  "distiller_version": "1.0",
+  "sources": {
+    "count": 3,
+    "types": ["wikipedia_biography", "wikiquote", "wikipedia_cauchy_integral_formula"],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy",
+      "https://en.wikiquote.org/wiki/Augustin-Louis_Cauchy",
+      "https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula"
+    ]
+  },
+  "raw_text_files": {
+    "传记.txt": {"approx_words": 360, "approx_chars": 2400},
+    "引语.txt": {"approx_words": 220, "approx_chars": 1500, "quotes_count": 9},
+    "后世评述.txt": {"approx_words": 150, "approx_chars": 1000},
+    "全部语料.txt": {"approx_words": 730, "approx_chars": 4900}
+  },
+  "stages": {
+    "count": 4,
+    "default_stage": "切片二 综合理工学校教授期 1816-1830",
+    "stages_list": [
+      {"name": "切片一 巴黎早年与工程期", "years": "1789-1815", "confidence": "medium"},
+      {"name": "切片二 综合理工学校教授期", "years": "1816-1830", "confidence": "high", "is_default": true},
+      {"name": "切片三 1830-1838 流亡期", "years": "1830-1838", "confidence": "high"},
+      {"name": "切片四 晚年与社会论战", "years": "1838-1857", "confidence": "medium"}
+    ]
+  },
+  "dimensions": {
+    "思想内核": {"core_values_count": 4, "底线_count": 2, "overall_confidence": "high"},
+    "语言特征": {"评分维度": 8, "高频意象_top_10": true, "confidence": "high"},
+    "表达偏好": {"对象类型_count": 5, "通用特征_count": 4, "confidence": "high"},
+    "立场光谱": {"议题_count": 8, "confidence": "high"}
+  },
+  "consistency_check": {
+    "cross_stage_consistency": "high",
+    "source_diversity": "high",
+    "llm_overreach_risk": "low",
+    "confidence_adjustment": "none"
+  },
+  "citations": {
+    "total": 10,
+    "categories": {
+      "声名与后世评价": 3,
+      "连续性与严格化": 2,
+      "信仰与哲学": 2,
+      "政治与道德": 2,
+      "Abel 搁置事件": 1
+    },
+    "all_traceable_to_raw": true,
+    "french_originals_preserved": true,
+    "key_event_documented": "Abel 备忘录搁置事件 (1826-1830)"
+  },
+  "overall_confidence": "high",
+  "quality_control_notes": [
+    "全部 10 条 Cauchy 本人/相关引用均可回溯到 raw/ke_xi/ 引语.txt 与 后世评述.txt",
+    "法语原文保留（柯西正式语言为法语），配中文/英文译注",
+    "Abel 备忘录搁置事件明确标注 (1826-1830，Abel 死后 1841 才出版)",
+    "4 个阶段切片均标注 confidence；切片二、三 confidence: high，切片一、四 confidence: medium",
+    "默认阶段（切片二 综合理工学校教授期 1816-1830）confidence: high —— 这是 δ-ε 严格化与柯西积分定理的诞生期",
+    "立场光谱 8 个议题，每个都有原文依据或事件支撑",
+    "VOICE.md 显式标记柯西的'居高临下'语气与'非同辈易合作'特征（避免事项）",
+    "明确标注柯西的政治立场（极端保皇派 / ultra-royalist）与两次拒绝宣誓事件 (1830, 1852)",
+    "信仰陈述（Je suis chrétien…）保留法语原文并标注",
+    "key_relationships 中明确标记与 Galois 的评审关系 (1832) 与 Arago 的论敌关系"
+  ]
 }

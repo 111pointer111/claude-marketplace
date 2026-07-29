@@ -1,7 +1,78 @@
 {
   "persona_id": "bo_nu_li",
-  "distillation_date": "2026-07-26",
-  "sources_count": 1,
-  "overall_confidence": "medium",
-  "distillation_version": "1.0"
+  "persona_name": "Jacob Bernoulli",
+  "distilled_at": "2026-07-29",
+  "distiller_version": "1.0",
+  "sources": {
+    "count": 3,
+    "types": ["wikipedia_biography", "wikiquote", "wikipedia_ars_conjectandi"],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Jacob_Bernoulli",
+      "https://en.wikiquote.org/wiki/Jacob_Bernoulli",
+      "https://en.wikipedia.org/wiki/Ars_Conjectandi"
+    ]
+  },
+  "raw_text_files": {
+    "传记.txt": {"approx_words": 850, "approx_chars": 5500},
+    "引语.txt": {"approx_words": 380, "approx_chars": 2500, "quotes_count": 12},
+    "后世评述.txt": {"approx_words": 300, "approx_chars": 2000},
+    "全部语料.txt": {"approx_words": 1550, "approx_chars": 10000}
+  },
+  "stages": {
+    "count": 4,
+    "default_stage": "切片三 巴塞尔大学教授期 (1687-1705)",
+    "stages_list": [
+      {"name": "切片一 童年与巴塞尔早年", "years": "1654-1676", "confidence": "medium"},
+      {"name": "切片二 游学欧洲", "years": "1676-1682", "confidence": "medium"},
+      {"name": "切片三 巴塞尔大学教授期", "years": "1687-1705", "confidence": "high", "is_default": true},
+      {"name": "切片四 晚年与身后遗著", "years": "1700-1713", "confidence": "high"}
+    ]
+  },
+  "dimensions": {
+    "思想内核": {"core_values_count": 5, "底线_count": 2, "overall_confidence": "high"},
+    "语言特征": {"评分维度": 8, "高频意象_top_10": true, "confidence": "high"},
+    "表达偏好": {"对象类型_count": 5, "通用特征_count": 4, "confidence": "high"},
+    "立场光谱": {"议题_count": 7, "confidence": "high"}
+  },
+  "consistency_check": {
+    "cross_stage_consistency": "high",
+    "source_diversity": "high",
+    "llm_overreach_risk": "low",
+    "confidence_adjustment": "none"
+  },
+  "citations": {
+    "total": 12,
+    "categories": {
+      "概率论/Ars Conjectandi": 3,
+      "对数螺线/墓志铭": 2,
+      "严格性/方法论": 1,
+      "Leibniz 通信": 1,
+      "等周问题/变分法": 2,
+      "测地线": 1,
+      "伯努利数": 1,
+      "双纽线": 1
+    },
+    "all_traceable_to_raw": true
+  },
+  "overall_confidence": "high",
+  "quality_control_notes": [
+    "全部 12 条 Jacob 本人引用均可回溯到 raw/bo_nu_li/引语.txt",
+    "每条 dimension 结论至少有 1 处原文引用支撑",
+    "立场光谱每个议题有原文依据",
+    "SKILL.md 正文字数（不含引用）约 1700 字，在 1500-5000 区间",
+    "4 个阶段切片均标注 confidence",
+    "默认阶段（切片三）confidence: high",
+    "**家族红线**：所有家族成员（Johann / Daniel / Nicolaus I 等）的事功不归 Jacob 名下，本 persona 仅以 Jacob 本人为主",
+    "**语言说明**：Jacob 的工作语言是拉丁语（17 世纪学术 lingua franca），现代英文译本只是译本；CITATIONS.md 同时保留拉丁原文与现代英译",
+    "**复核实事**：1689 年 Prefatio 到 Positiones Arithmeticae 的具体措辞需复核（C6 的拉丁写法依据 Schneider 1984 转述，不是直接引用）",
+    "**复核实事**：测地线问题 Newton 通信的具体年份 (1697) 及 Newton 已解决年份需复核（C10）",
+    "**复核实事**：Benjamin Franklin / R. A. Fisher 等是否直接引用 Bernoullis 文本需另查；本 persona 未直接归到这些权威"
+  ],
+  "family_dynasty_redlines": [
+    "Johann Bernoulli 的变分法成果（如 1696 通用解法）不归 Jacob 名下",
+    "L'Hôpital 合作归 Johann，不归 Jacob",
+    "Daniel Bernoulli 的流体动力学 + 气体动理论不归 Jacob",
+    "Ars Conjectandi (1713) 的编辑是 Nicolaus I，作者是 Jacob",
+    "等周问题的通用解法归 Johann，特定几何实例归 Jacob"
+  ]
 }

@@ -1,7 +1,93 @@
 {
   "persona_id": "fei_ma",
-  "distillation_date": "2026-07-26",
-  "sources_count": 1,
-  "overall_confidence": "medium",
-  "distillation_version": "1.0"
+  "persona_name": "Pierre de Fermat",
+  "distilled_at": "2026-07-29",
+  "distiller_version": "2.0",
+  "sources": {
+    "count": 3,
+    "types": ["wikipedia_biography", "wikiquote", "wikipedia_flt"],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Pierre_de_Fermat",
+      "https://en.wikiquote.org/wiki/Pierre_de_Fermat",
+      "https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem"
+    ]
+  },
+  "raw_text_files": {
+    "传记.txt": {"approx_words": 1100, "approx_chars": 7200, "language": "Chinese"},
+    "引语.txt": {"approx_words": 480, "approx_chars": 3100, "quotes_count": 11, "language_mix": "Latin/French/English"},
+    "后世评述.txt": {"approx_words": 320, "approx_chars": 2100, "language": "Chinese/French/English"},
+    "全部语料.txt": {"approx_words": 1900, "approx_chars": 12400}
+  },
+  "stages": {
+    "count": 4,
+    "default_stage": "切片四 概率论与数论通信期 (1654-1665)",
+    "stages_list": [
+      {"name": "切片一 早年与法律训练", "years": "1601-1631", "confidence": "medium"},
+      {"name": "切片二 业余数学家崛起", "years": "1629-1636", "confidence": "high"},
+      {"name": "切片三 解析几何与数论", "years": "1636-1654", "confidence": "high"},
+      {"name": "切片四 概率论与数论通信期", "years": "1654-1665", "confidence": "high", "is_default": true}
+    ]
+  },
+  "dimensions": {
+    "思想内核": {"core_values_count": 4, "底线_count": 2, "overall_confidence": "high"},
+    "语言特征": {"评分维度": 8, "高频意象_top_10": true, "confidence": "high"},
+    "表达偏好": {"对象类型_count": 5, "通用特征_count": 4, "confidence": "high"},
+    "立场光谱": {"议题_count": 9, "confidence": "high"}
+  },
+  "consistency_check": {
+    "cross_stage_consistency": "high",
+    "source_diversity": "high",
+    "llm_overreach_risk": "low",
+    "confidence_adjustment": "none"
+  },
+  "citations": {
+    "total": 13,
+    "categories": {
+      "费马大定理": 2,
+      "概率论通信": 2,
+      "现代数学宣言": 2,
+      "数论与无穷下降法": 2,
+      "与_Descartes_论战_解析几何": 2,
+      "最短时间原理": 1,
+      "后人评述": 2
+    },
+    "all_traceable_to_raw": true,
+    "language_distribution": {
+      "Latin": 1,
+      "English_translation": 1,
+      "French_original": 8,
+      "Mixed_English_translation": 3
+    }
+  },
+  "overall_confidence": "high",
+  "quality_control_notes": [
+    "全部 13 条引用均可回溯到 raw/fei_ma/ 引语.txt 或后世评述.txt",
+    "每条 dimension 结论至少有 1 处原文引用支撑",
+    "立场光谱每个议题有原文依据 (9 个议题，对应 9 条引用)",
+    "SKILL.md 正文字数（不含引用）约 2300 字，在 1500-5000 区间",
+    "4 个阶段切片均标注 confidence；默认阶段（切片四）confidence: high",
+    "所有 13 条引用按 7 组分类（费马大定理 / 概率论 / 现代宣言 / 数论 / Descartes 论战 / 最短时间 / 后人评述）",
+    "明确强调费马的双轨身份：律师 + 业余数学家；任何模糊描述应被拒绝",
+    "原文语言标注清晰：拉丁文页边注 + 法语通信 + 偶尔英文翻译",
+    "source_urls 包含 3 条英文维基/维基语录链接",
+    "VOICE.md 中显式列出'避免事项'，包括不得将费马描述为职业数学家",
+    "METADATA.json 包含 9 项 key_relationships、9 项 known_for、9 项 key_works、9 项 modern_honors",
+    "EVENTS.md 时间表覆盖 1601-1995 (Wiles 证明)，含置信度标注"
+  ],
+  "cross_validation": {
+    "primary_persona_signal": "业余数学家 + 律师的双轨身份",
+    "key_distinguishing_features": [
+      "页边注式发表姿态",
+      "几乎不主动署名出版",
+      "结果全部通过通信和页边流传",
+      "拉丁文数学笔记 + 法语通信双文体",
+      "与 Pascal 1654 概率论通信是其代表作"
+    ],
+    "anti_patterns_to_avoid": [
+      "将费马描述为职业数学家",
+      "使用现代英语语气",
+      "忽略页边注作为核心修辞",
+      "忽略与 Mersenne 通信枢纽的关键作用"
+    ]
+  }
 }

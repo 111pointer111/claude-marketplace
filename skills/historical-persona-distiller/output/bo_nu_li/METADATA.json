@@ -1,15 +1,99 @@
 {
-  "persona_id": "bo_nu_li",
-  "name_zh": "伯努利",
-  "name_en": "Jacob Bernoulli",
-  "birth_death": "1654-12-27 / 1705-08-16",
-  "dynasty": "17-18世纪瑞士",
-  "confidence": "medium",
-  "priority": "medium",
-  "persona_type": "mathematician",
-  "key_works": ["Ars Conjectandi (1713 身后出版)", "大数定律", "伯努利数", "伯努利双纽线", "变分法"],
-  "core_concepts": ["大数定律", "常数 e", "变分法", "对数螺旋", "伯努利家族"],
-  "distillation_date": "2026-07-26",
-  "sources_used": ["Wikipedia - Jacob Bernoulli"],
-  "default_stage": "切片二: 数学教授 (1687-1705)"
+  "name": "Jacob Bernoulli",
+  "name_pinyin": "bo_nu_li",
+  "name_chinese": "伯努利",
+  "dynasty": "17 世纪末瑞士巴塞尔 / 伯努利家族学派 (1654-1905)",
+  "lifespan": {
+    "birth": "1654-12-06",
+    "death": "1705-08-16",
+    "age_at_death": 50
+  },
+  "birth_place": "Basel, Swiss Confederation",
+  "death_place": "Basel, Swiss Confederation",
+  "nationality": "Swiss (Basel)",
+  "fields": ["Probability theory", "Calculus", "Number theory", "Geometry", "Natural philosophy"],
+  "fields_chinese": ["概率论", "微积分", "数论", "几何学", "自然哲学"],
+  "known_for": [
+    "Ars Conjectandi (1713, 遗著) — 概率论第一部系统化巨著",
+    "Bernoulli numbers (伯努利数) — 级数论与 ζ 函数核心",
+    "Lemniscate of Bernoulli (伯努利双纽线) — 代数几何经典曲线",
+    "Bernoulli theorem (大数定律的第一严格形式, ca. 1700)",
+    "Logarithmic spiral (对数螺线) 与 'Eadem mutata resurgo' 墓志铭",
+    "Geodetic lines (测地线, 1690s) — 与 Newton 通信",
+    "Isoperimetric problem (等周问题, 1690s) — 与 Johann 兄弟竞争",
+    "Basel mathematical dynasty 奠基人 (8 位著名数学家跨 100 年)"
+  ],
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-29",
+  "distiller_skill": "historical-persona-distiller",
+  "sources_count": 3,
+  "overall_confidence": "high",
+  "default_stage": "切片三 巴塞尔大学教授期 (1687-1705)",
+  "default_stage_confidence": "high",
+  "stages_count": 4,
+  "raw_text_files": [
+    "传记.txt",
+    "引语.txt",
+    "后世评述.txt",
+    "全部语料.txt"
+  ],
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "consistency_check.md"
+  ],
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Jacob_Bernoulli",
+    "https://en.wikiquote.org/wiki/Jacob_Bernoulli",
+    "https://en.wikipedia.org/wiki/Ars_Conjectandi"
+  ],
+  "key_relationships": [
+    {"name": "Gottfried Wilhelm Leibniz", "relationship": "私密通信往来者 (1689-1704); 微积分早期采用"},
+    {"name": "Johann Bernoulli", "relationship": "亲弟弟 (1667-1748); 学术竞争激烈——等周问题、测地线问题"},
+    {"name": "Isaac Newton", "relationship": "间接竞争 (Leibniz-Newton 微积分争议的背景); 1697 通信论测地线"},
+    {"name": "Guillaume François Antoine de L'Hôpital", "relationship": "实际主要跟 Johann 合作 (与 Jacob 关系疏远)"},
+    {"name": "Nicolaus I Bernoulli (1687-1726)", "relationship": "侄子; Jacob 遗著《猜度术》编辑"},
+    {"name": "Marin Mersenne 圈的后继", "relationship": "1670s-1680s 接触法国概率论传统"}
+  ],
+  "key_works": [
+    {"year": 1689, "title": "Prefatio to Positiones Arithmeticae", "type": "preface", "note": "评弟 Johann 的算术命题集 — 'competent measure of rigor' 出于此"},
+    {"year": 1690, "title": "Lemniscus / lemniscate of Bernoulli", "type": "geometry", "note": "双纽线的提出"},
+    {"year": 1690, "title": "De vibratione laminarum elasticarum", "type": "mechanics"},
+    {"year": 1691, "title": "Solutio problematis isoperimetrici", "type": "paper", "note": "等周问题"},
+    {"year": 1690, "title": "Spira mirabilis 草稿", "type": "geometry/paper"},
+    {"year": 1694, "title": "与 Leibniz 关于概率论的通信", "type": "letter", "note": "1689-1704 系列通信"},
+    {"year": 1703, "title": "Positiones Arithmeticae (与 Johann)", "type": "paper"},
+    {"year": 1713, "title": "Ars Conjectandi (遗著出版)", "type": "book", "note": "Part I-IV; Part IV 给出大数定律第一严格形式"},
+    {"year": 1725, "title": "身后关于对数螺线 (posthumous)", "type": "paper", "note": "由 Nicolaus I 编辑"}
+  ],
+  "modern_honors": [
+    "Bernoulli numbers (伯努利数) — 数论/分析核心命名",
+    "Bernoulli trial / Bernoulli experiment — 概率论核心概念",
+    "Bernoulli theorem (weak law of large numbers) — 大数定律第一形式",
+    "Lemniscate of Bernoulli — 代数几何经典曲线",
+    "Bernoulli differential equation — 18-19 世纪常微分方程核心",
+    "Bernoulli's rule / Bernoulli's theorem — 概率论/博弈论定理",
+    "Logarithmic spiral 与 'Eadem mutata resurgo' 墓碑 — 历史/文化符号",
+    "伯努利家族学派 — 8 位著名数学家跨 100 年"
+  ],
+  "family_dynasty_indicators": {
+    "is_family": true,
+    "main_subject": "Jacob Bernoulli (1654-1705)",
+    "family_period": "1654-1905 约 100 年",
+    "family_count": 8,
+    "key_redlines": [
+      "Johann Bernoulli 的变分法与 L'Hôpital 工作不能归到 Jacob",
+      "Daniel Bernoulli 的流体动力学与气体动理论不能归到 Jacob",
+      "Ars Conjectandi (1713) 的编辑是 Nicolaus I，作者是 Jacob",
+      "等周问题的通用解法归 Johann，特定实例归 Jacob"
+    ]
+  },
+  "linguistic_context": {
+    "primary_language": "Latin (17 世纪学术 lingua franca)",
+    "secondary_languages": ["Swiss German (母语)", "French (与法国数学家交流)", "Dutch (少量)"],
+    "english_in_life": false,
+    "note": "Jacob Bernoulli 不用英语写作，其著作以拉丁文为主。本 persona 引用的英文为现代译文，拉丁原文保留在 CITATIONS.md。"
+  }
 }

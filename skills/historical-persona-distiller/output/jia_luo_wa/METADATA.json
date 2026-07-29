@@ -1,15 +1,80 @@
 {
-  "persona_id": "jia_luo_wa",
-  "name_zh": "伽罗瓦",
-  "name_en": "Évariste Galois",
-  "birth_death": "1811-10-25 / 1832-05-31",
-  "dynasty": "19世纪法国",
-  "confidence": "medium",
-  "priority": "high",
-  "persona_type": "mathematician",
-  "key_works": ["伽罗瓦理论 (1830)", "群论奠基", "有限域"],
-  "core_concepts": ["伽罗瓦理论", "群论", "有限域", "多项式可根式解", "共和派"],
-  "distillation_date": "2026-07-26",
-  "sources_used": ["Wikipedia - Évariste Galois"],
-  "default_stage": "切片二: 伽罗瓦理论形成与政治 (1830-1832)"
+  "name": "Évariste Galois",
+  "name_pinyin": "jia_luo_wa",
+  "name_chinese": "伽罗瓦",
+  "dynasty": "19世纪波旁复辟 / 七月王朝时期法国",
+  "lifespan": {
+    "birth": "1811-10-25",
+    "death": "1832-05-31",
+    "age_at_death": 20
+  },
+  "birth_place": "Bourg-la-Reine, France",
+  "death_place": "Paris (Hôpital Cochin), France",
+  "nationality": "French",
+  "fields": ["Group Theory", "Algebra", "Number Theory"],
+  "known_for": [
+    "Galois theory (群论与方程可解性的对应)",
+    "Galois group (方程根的置换群)",
+    "Galois correspondence (子群与中间域的双射)",
+    "Galois extension (代数扩张的群论分类)",
+    "Galois connection (格论与范畴论基础)",
+    "Solvability by radicals 判据 (N阶方程可根式解 iff 伽罗瓦群可解)",
+    "Finite fields (有限域理论奠基)",
+    "首次系统使用置换群思想",
+    "Abel-Ruffini 定理之后的群论判据"
+  ],
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-29",
+  "distiller_skill": "historical-persona-distiller",
+  "sources_count": 3,
+  "overall_confidence": "high",
+  "default_stage": "切片四 决斗之夜与遗稿 (1832-05-30)",
+  "default_stage_confidence": "high",
+  "stages_count": 4,
+  "raw_text_files": [
+    "传记.txt",
+    "引语.txt",
+    "后世评述.txt",
+    "全部语料.txt"
+  ],
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "consistency_check.md"
+  ],
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/%C3%89variste_Galois",
+    "https://en.wikiquote.org/wiki/%C3%89variste_Galois",
+    "https://en.wikipedia.org/wiki/Galois_theory"
+  ],
+  "key_relationships": [
+    {"name": "Auguste Chevalier", "relationship": "挚友,1832 遗稿受托人,遗信收信人"},
+    {"name": "Louis-Paul-Émile Richard", "relationship": "Lycée Louis-le-Grand 数学老师,引导其进入现代代数"},
+    {"name": "Siméon-Denis Poisson", "relationship": "1831 年拒稿者,认为伽罗瓦论文不通"},
+    {"name": "Augustin-Louis Cauchy", "relationship": "1829 年早期错过论文的关键人物"},
+    {"name": "Joseph Fourier", "relationship": "1830 年科学院秘书,数月后去世,遗失伽罗瓦论文"},
+    {"name": "Adolphe (Alfred) Galois", "relationship": "弟,1832 遗稿受托人之一"},
+    {"name": "Nicolas-Gabriel Galois", "relationship": "父,Bourg-la-Reine 市长,共和党人,1829 自杀"},
+    {"name": "Adélaïde-Marie Demante", "relationship": "母,古典学者,影响其早期智识"},
+    {"name": "Louis-Philippe d'Herbinville", "relationship": "1832-05-30 决斗对手,疑似 Royalist 阴谋方"},
+    {"name": "Stephanie-Felixine Poterin du Motel", "relationship": "早恋女主角,\"失恋说\"的传说人物,现代学者多已质疑"}
+  ],
+  "key_works": [
+    {"year": 1828, "title": "首篇连分数论文", "type": "paper", "note": "17 岁"},
+    {"year": 1829, "title": "首次给 Cauchy 的论文", "type": "memo", "note": "Cauchy 无回音"},
+    {"year": 1830, "title": "给 Fourier 的论文(遗失)", "type": "memo", "note": "Fourier 数月后去世,原稿遗失"},
+    {"year": 1830, "title": "3 篇论文(伽罗瓦理论奠基)", "type": "papers", "note": "发表"},
+    {"year": 1831, "title": "给 Poisson 的论文(被拒)", "type": "memo", "note": "Poisson 认为论文不通"},
+    {"year": 1832, "title": "Lettre testament à Auguste Chevalier", "type": "letter", "note": "死前夜口述"},
+    {"year": 1832, "title": "Lettre d'adieu à ses amis républicains", "type": "letter", "note": "永别信"}
+  ],
+  "modern_honors": [
+    "Galois theory 代数本科生必修",
+    "Galois group, Galois correspondence, Galois extension, Galois connection, Galois cohomology 群论/代数/数论核心概念",
+    "1843 Joseph Liouville 在 Journal de Mathématiques Pures et Appliquées 发表遗稿",
+    "法国抵抗运动期间被奉为青年天才共和国象征",
+    "19 世纪以来标志性反叛天才 / 浪漫数学殉道者原型"
+  ]
 }

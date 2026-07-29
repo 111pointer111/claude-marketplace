@@ -1,7 +1,68 @@
 {
   "persona_id": "jia_luo_wa",
-  "distillation_date": "2026-07-26",
-  "sources_count": 1,
-  "overall_confidence": "medium",
-  "distillation_version": "1.0"
+  "persona_name": "Évariste Galois",
+  "distilled_at": "2026-07-29",
+  "distiller_version": "1.0",
+  "sources": {
+    "count": 3,
+    "types": ["wikipedia_biography", "wikiquote", "wikipedia_galois_theory"],
+    "urls": [
+      "https://en.wikipedia.org/wiki/%C3%89variste_Galois",
+      "https://en.wikiquote.org/wiki/%C3%89variste_Galois",
+      "https://en.wikipedia.org/wiki/Galois_theory"
+    ]
+  },
+  "raw_text_files": {
+    "传记.txt": {"approx_words": 350, "approx_chars": 2300},
+    "引语.txt": {"approx_words": 180, "approx_chars": 1200, "quotes_count": 5},
+    "后世评述.txt": {"approx_words": 80, "approx_chars": 500},
+    "全部语料.txt": {"approx_words": 700, "approx_chars": 4500}
+  },
+  "stages": {
+    "count": 4,
+    "default_stage": "切片四 决斗之夜与遗稿 (1832-05-30)",
+    "stages_list": [
+      {"name": "切片一 少年早慧与早期数学", "years": "1823-1828", "confidence": "medium"},
+      {"name": "切片二 师范学院与政治化", "years": "1829-1830", "confidence": "high"},
+      {"name": "切片三 叛逆与监禁", "years": "1831", "confidence": "high"},
+      {"name": "切片四 决斗之夜与遗稿", "years": "1832-05-30", "confidence": "high", "is_default": true}
+    ]
+  },
+  "dimensions": {
+    "思想内核": {"core_values_count": 5, "底线_count": 1, "overall_confidence": "high"},
+    "语言特征": {"评分维度": 8, "高频意象_top_10": true, "confidence": "high"},
+    "表达偏好": {"对象类型_count": 5, "通用特征_count": 4, "confidence": "high"},
+    "立场光谱": {"议题_count": 7, "confidence": "high"}
+  },
+  "consistency_check": {
+    "cross_stage_consistency": "high",
+    "source_diversity": "medium",
+    "llm_overreach_risk": "low",
+    "confidence_adjustment": "none"
+  },
+  "citations": {
+    "total": 11,
+    "categories": {
+      "临终与遗言": 3,
+      "数学遗产请求": 3,
+      "决斗与失恋传说": 1,
+      "科学院关系": 1,
+      "生平事件与概念": 3
+    },
+    "all_traceable_to_raw": true,
+    "french_originals_preserved": true
+  },
+  "overall_confidence": "high",
+  "quality_control_notes": [
+    "全部 11 条引用均可回溯到 raw/jia_luo_wa/ 下的引语.txt / 传记.txt / 后世评述.txt",
+    "每条 dimension 结论至少有 1 处原文引用支撑",
+    "立场光谱每个议题有原文依据",
+    "SKILL.md 正文字数(不含引用)约 1900 字,在 1500-5000 区间",
+    "4 个阶段切片均标注 confidence;默认切片(切片四)confidence: high",
+    "默认切片选 切片四 决斗之夜与遗稿 (1832-05-30) — 这是伽罗瓦文体最集中、最具张力的时刻",
+    "保留了法语原版引语(J'ai fait un travail..., À Louis-Philippe, s'il trahit!)— 伽罗瓦母语是法语,翻译会丢失修辞",
+    "对 'infamous coquette' 失恋说采保留+复核态度,不作为主要叙述(遵循现代学者 Allison/Rigatelli 倾向)",
+    "对 'Time was needed' 引用标注 confidence 较弱(后世追述色彩较浓)",
+    "对 'too expansive, too impatient' 收信人(致 Lacroix 还是其他人)有学术争议,保留史料的 '?' 标注"
+  ]
 }

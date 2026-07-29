@@ -1,15 +1,90 @@
 {
-  "persona_id": "bi_da_ge_la_si",
-  "name_zh": "毕达哥拉斯",
-  "name_en": "Pythagoras of Samos",
-  "birth_death": "c. 570 BC / c. 495 BC",
-  "dynasty": "古希腊",
-  "confidence": "medium",
-  "priority": "medium",
-  "persona_type": "mathematician / philosopher",
-  "key_works": ["毕达哥拉斯定理", "四元数 (tetractys)", "天体音乐"],
-  "core_concepts": ["毕达哥拉斯定理", "数字神秘主义", "天体音乐", "毕达哥拉斯派", "音乐和谐"],
-  "distillation_date": "2026-07-26",
-  "sources_used": ["Wikipedia - Pythagoras"],
-  "default_stage": "切片二: Croton 学派 (c. 530-510 BC)"
+  "name": "Pythagoras of Samos",
+  "name_pinyin": "bi_da_ge_la_si",
+  "name_chinese": "毕达哥拉斯",
+  "dynasty": "古希腊 (Archaic period, 萨摩斯岛 / 大希腊 Magna Graecia)",
+  "lifespan": {
+    "birth": "c. 570 BC",
+    "death": "c. 495 BC",
+    "age_at_death": 75
+  },
+  "birth_place": "Samos, Ionia(今希腊萨摩斯岛)",
+  "death_place": "Metapontum, Magna Graecia(今意大利南部梅塔蓬托)",
+  "nationality": "古希腊 / Ionian Greek",
+  "fields": [
+    "Mathematics",
+    "Philosophy",
+    "Music theory",
+    "Religious / School founder"
+  ],
+  "known_for": [
+    "毕达哥拉斯定理(学派证明,非个人证明)",
+    "数本原论(All is number)",
+    "音乐比率 2:1, 3:2, 4:3",
+    "灵魂轮回(metempsychosis)",
+    "毕达哥拉斯学派(Croton)",
+    "黄金诗(Golden Verses)伦理传统",
+    "对 Plato 学院与新毕达哥拉斯主义的塑造"
+  ],
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-29",
+  "distiller_skill": "historical-persona-distiller",
+  "sources_count": 3,
+  "overall_confidence": "medium",
+  "default_stage": "切片三 Croton 学派鼎盛 (c. 530-510 BC)",
+  "default_stage_confidence": "medium",
+  "stages_count": 4,
+  "raw_text_files": [
+    "raw/bi_da_ge_la_si/传记.txt",
+    "raw/bi_da_ge_la_si/引语.txt",
+    "raw/bi_da_ge_la_si/后世评述.txt",
+    "raw/bi_da_ge_la_si/全部语料.txt"
+  ],
+  "dimension_files": [
+    "raw/bi_da_ge_la_si/dimension_思想内核.json",
+    "raw/bi_da_ge_la_si/dimension_语言特征.json",
+    "raw/bi_da_ge_la_si/dimension_表达偏好.json",
+    "raw/bi_da_ge_la_si/dimension_立场光谱.json",
+    "raw/bi_da_ge_la_si/consistency_check.md"
+  ],
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Pythagoras",
+    "https://en.wikiquote.org/wiki/Pythagoras",
+    "https://plato.stanford.edu/entries/pythagoras/"
+  ],
+  "key_relationships": [
+    {"name": "Thales of Miletus", "relationship": "早年师承(传统,可靠性中等)"},
+    {"name": "Anaximander of Miletus", "relationship": "早年师承(传统,可靠性中等)"},
+    {"name": "Polycrates of Samos", "relationship": "僭主,据传促使 Pythagoras 离开 Samos"},
+    {"name": "Theano of Croton", "relationship": "弟子,后据传为 Pythagoras 妻子"},
+    {"name": "Cylon of Croton", "relationship": "Croton 民主党派领袖,领导反学派攻击"},
+    {"name": "Akousmatikoi / Mathematikoi", "relationship": "学派内两支:听讲者与数学家"},
+    {"name": "Philolaus of Croton", "relationship": "后辈 mathematikoi 成员,存有 fr. 6a 音乐比率残篇"},
+    {"name": "Archytas of Tarentum", "relationship": "后辈 mathematikoi,Plato 友人,数学/政治"},
+    {"name": "Plato", "relationship": "Plato 学院深受 Pythagoras 学派影响"},
+    {"name": "Diogenes Laërtius", "relationship": "公元 3 世纪,主要后世转述来源"}
+  ],
+  "key_works": [
+    {"year": "c. 530-510 BC", "title": "勾股定理(学派证明)", "type": "mathematical_theorem", "note": "Babylonian/Indian 早已知关系,学派贡献为证明"},
+    {"year": "c. 530-510 BC", "title": "音乐比率发现(2:1, 3:2, 4:3)", "type": "discovery", "note": "学派传统;Philolaus fr. 6a 证实 5th c. 学派共识"},
+    {"year": "c. 530-510 BC", "title": "黄金诗(Golden Verses)", "type": "ethical_text", "note": "希腊化时期定型,Iamblichus, *Protrepticus* 1.2-3 收最完整版本"},
+    {"year": "c. 530-510 BC", "title": "戒律集(acusmata / symbola)", "type": "oral_tradition", "note": "口传 200+ 条,Iamblichus, *De vita Pyth.* 82-86 收录"},
+    {"year": "c. 530-510 BC", "title": "四元数(tetractys)教义", "type": "doctrine", "note": "1+2+3+4=10 学派神圣誓词"},
+    {"year": "c. 530-510 BC", "title": "灵魂轮回(metempsychosis)", "type": "doctrine", "note": "来源 DL VIII.4 经 Heraclides Ponticus 转述"}
+  ],
+  "modern_honors": [
+    "Pythagorean theorem(国际通用数学定理名称)",
+    "Pythagorean triples(Pythagorean triple 三元组)",
+    "Pythagorean theorem 命名国家:K-12 数学教学核心命题",
+    "Pythagorean school(西方哲学与数学学派溯源)",
+    "Pythagorean tuning(基于 3:2 比率的音律系统)",
+    "Tetractys(数论与神秘主义象征)",
+    "Pythagorean cup(毕达哥拉斯杯,公平分配器)"
+  ],
+  "confidence_reasons": [
+    "Pythagoras 本人无作品存世,所有材料均经后世(Aristoxenus/Porphyry/Diogenes Laërtius/Iamblichus)转述",
+    "学派核心命题(勾股定理、音乐比率)Babylonian/Indian 早已知,学派贡献与个人归属有别",
+    "标准生卒年(c. 570-495)与现代学者有 5-10 年范围争议(SEP 给 c. 570-490)",
+    "教派戒律的'字面解读'(禁食豆子)与'象征解读'至今仍有争议"
+  ]
 }
