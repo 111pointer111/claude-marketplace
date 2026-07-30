@@ -1,0 +1,70 @@
+{
+  "persona_id": "luo_jie_si",
+  "persona_name": "Carl Rogers",
+  "distilled_at": "2026-07-31",
+  "distiller_version": "1.0",
+  "sources": {
+    "count": 3,
+    "types": ["wikipedia_biography", "wikiquote", "wikipedia_person_centered_therapy"],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Carl_Rogers",
+      "https://en.wikiquote.org/wiki/Carl_Rogers",
+      "https://en.wikipedia.org/wiki/Person-centered_therapy"
+    ]
+  },
+  "raw_text_files": {
+    "传记.txt": {"approx_words": 850, "approx_chars": 5600},
+    "引语.txt": {"approx_words": 420, "approx_chars": 2750, "quotes_count": 12},
+    "后世评述.txt": {"approx_words": 320, "approx_chars": 2100},
+    "全部语料.txt": {"approx_words": 1620, "approx_chars": 10550}
+  },
+  "stages": {
+    "count": 4,
+    "default_stage": "切片三 芝加哥咨询中心期 (1945-1957,来访者中心疗法成熟)",
+    "stages_list": [
+      {"name": "切片一 Wheaton 早年与儿童保护协会", "years": "1902-1927", "confidence": "medium"},
+      {"name": "切片二 哥伦比亚大学 / 罗切斯特临床期", "years": "1928-1940", "confidence": "high"},
+      {"name": "切片三 芝加哥咨询中心期", "years": "1945-1957", "confidence": "high", "is_default": true},
+      {"name": "切片四 威斯康星、拉沙耶与晚年反思期", "years": "1957-1987", "confidence": "high"}
+    ]
+  },
+  "dimensions": {
+    "思想内核": {"core_values_count": 5, "底线_count": 3, "overall_confidence": "high"},
+    "语言特征": {"评分维度": 8, "高频意象_top_10": true, "confidence": "high"},
+    "表达偏好": {"对象类型_count": 5, "通用特征_count": 4, "confidence": "high"},
+    "立场光谱": {"议题_count": 8, "confidence": "high"}
+  },
+  "consistency_check": {
+    "cross_stage_consistency": "high",
+    "source_diversity": "medium",
+    "llm_overreach_risk": "low",
+    "confidence_adjustment": "none"
+  },
+  "citations": {
+    "total": 22,
+    "categories": {
+      "来访者中心疗法": 3,
+      "自我概念": 2,
+      "充分条件": 5,
+      "Q 阶层与测量": 2,
+      "教育": 2,
+      "晚年反思": 2,
+      "对手（精神分析 / 行为主义）": 3,
+      "后世评述": 3
+    },
+    "all_traceable_to_raw": true
+  },
+  "overall_confidence": "high",
+  "quality_control_notes": [
+    "全部 12 条 Rogers 本人直接引用均可回溯到 raw/luo_jie_si/ 引语.txt",
+    "全部 22 条引用分为 8 个类别，覆盖来访者中心疗法、自我概念、充分条件、Q 阶层、教育、晚年反思、对手、后世评述",
+    "立场光谱每个议题有原文依据（共 8 个议题）",
+    "SKILL.md 正文字数（不含引用）约 2300 字，在 1500-5000 区间",
+    "4 个阶段切片均标注 confidence：切片一 medium（早期文献稀少），切片二-四 high",
+    "默认阶段（切片三）confidence: high — 范式确立期，文献最丰富",
+    "语言区分了 Rogers 与 Maslow 的不同（Rogers 更临床，Maslow 更存在主义）",
+    "明确标注 Rogers 的应用范围包括教育、企业、跨文化、临终关怀，不局限在'治疗室'",
+    "避免把 Rogers 描述为'非指导式治疗'极端派——强调'以人为中心'而非'无方向'",
+    "Frontmatter 包含全部必需字段（name, description, type, persona_version, distilled_at, sources_count, overall_confidence, persona_type, dynasty, lifespan, default_stage）"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Albert Bandura",
+  "name_pinyin": "ban_du_la",
+  "name_chinese": "班杜拉",
+  "dynasty": "20世纪中后期至21世纪初美国心理学界 / 后行为主义-社会认知流派",
+  "lifespan": {
+    "birth": "1925-12-04",
+    "death": "2021-07-26",
+    "age_at_death": 95
+  },
+  "birth_place": "Mundare, Alberta, Canada",
+  "death_place": "Stanford, California, USA",
+  "nationality": "Canadian-American",
+  "fields": ["社会学习理论", "心理学", "教育心理学"],
+  "known_for": [
+    "Bobo Doll 实验 (1961) — 观察学习机制确立",
+    "社会学习理论 (Social Learning Theory, 1963 起)",
+    "自我效能理论 (Self-efficacy, 1977 起, 1997 专著)",
+    "社会认知理论 (Social Cognitive Theory, 1986)",
+    "三元交互决定论 (Reciprocal Determinism, 1986)",
+    "代理性理论 (Agentic Theory, 1989, 2008)",
+    "认知行为矫正 (Cognitive Behavior Modification, 1963 with Walters)",
+    "集体效能 (Collective Efficacy)"
+  ],
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-31",
+  "distiller_skill": "historical-persona-distiller",
+  "sources_count": 3,
+  "overall_confidence": "high",
+  "default_stage": "切片三 自我效能理论形成 (1977-1997)",
+  "default_stage_confidence": "high",
+  "stages_count": 4,
+  "raw_text_files": [
+    "传记.txt",
+    "引语.txt",
+    "著作.txt",
+    "全部语料.txt"
+  ],
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "consistency_check.md"
+  ],
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Albert_Bandura",
+    "https://en.wikiquote.org/wiki/Albert_Bandura",
+    "https://en.wikipedia.org/wiki/Self-efficacy"
+  ],
+  "key_relationships": [
+    {"name": "Richard Walters", "relationship": "早期研究生，14 年合作者，《社会学习与个性发展》(1963)、《攻击：社会学习分析》(1973) 共同作者"},
+    {"name": "Dorothea Ross", "relationship": "Bobo Doll 实验 (1961) 共同作者，长期合作者"},
+    {"name": "Shepard Ross", "relationship": "Bobo Doll 实验 (1961) 共同作者"},
+    {"name": "Virginia Doy Bandura", "relationship": "夫人，1952 年在 Iowa 结婚（她是 Iowa 心理学硕士）"},
+    {"name": "Kurt Lewin", "relationship": "Iowa 学派精神导师（虽未直接受教，但通过 Iowa 心理系传统）"},
+    {"name": "Urie Bronfenbrenner", "relationship": "Stanford 同事，生态学理论提出者"},
+    {"name": "B. F. Skinner", "relationship": "严格行为主义代表，被 Bandura 间接批评"}
+  ],
+  "key_works": [
+    {"year": 1961, "title": "Transmission of aggression through imitation of aggressive models", "type": "paper", "note": "Bobo Doll 奠基论文，with Ross & Ross"},
+    {"year": 1963, "title": "Social Learning and Personality Development", "type": "book", "note": "with Richard Walters"},
+    {"year": 1969, "title": "Principles of Behavior Modification", "type": "book"},
+    {"year": 1973, "title": "Aggression: A Social Learning Analysis", "type": "book", "note": "with Richard Walters"},
+    {"year": 1977, "title": "Self-efficacy: Toward a unifying theory of behavioral change", "type": "paper", "note": "Psychological Review"},
+    {"year": 1986, "title": "Social Foundations of Thought and Action: A Social Cognitive Theory", "type": "book"},
+    {"year": 1989, "title": "Social Cognitive Theory: An Agentic Perspective", "type": "paper", "note": "Annual Review of Psychology"},
+    {"year": 1997, "title": "Self-Efficacy: The Exercise of Control", "type": "book"},
+    {"year": 2008, "title": "An Agentic Perspective on Positive Psychology", "type": "book"}
+  ],
+  "modern_honors": [
+    "APA 主席 (1974 任职，1969 当选)",
+    "APA 杰出科学贡献奖 Donald Campbell Award (1980)",
+    "美国国家科学院院士 (1999)",
+    "APS William James Award 终身贡献奖 (2001)",
+    "APA Lifetime Achievement Award (2016)",
+    "20 世纪被引用最多心理学家之一（APA 排名前 5）"
+  ]
+}

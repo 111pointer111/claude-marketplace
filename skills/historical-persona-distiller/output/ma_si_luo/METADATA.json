@@ -1,0 +1,82 @@
+{
+  "name": "Abraham Harold Maslow",
+  "name_pinyin": "ma_si_luo",
+  "name_chinese": "马斯洛",
+  "dynasty": "20 世纪美国 / 现代心理学第三势力",
+  "lifespan": {
+    "birth": "1908-04-01",
+    "death": "1970-06-08",
+    "age_at_death": 62
+  },
+  "birth_place": "Brooklyn, New York, USA",
+  "death_place": "Menlo Park, California, USA",
+  "nationality": "American",
+  "fields": ["人本主义心理学", "动机理论"],
+  "known_for": [
+    "需求层次理论 (hierarchy of needs, 1943/1954)",
+    "自我实现 (self-actualization)",
+    "高峰体验 (peak experience, 1962/1964)",
+    "缺陷心理学 vs 成长心理学 (deficit vs growth)",
+    "认知 vs 存在 (cognition vs being, 1962)",
+    "创办 Journal of Humanistic Psychology (1968)",
+    "B-动机 / D-动机 区分"
+  ],
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-31",
+  "distiller_skill": "historical-persona-distiller",
+  "sources_count": 3,
+  "overall_confidence": "high",
+  "default_stage": "切片四 Brandeis 教授期 1951-1969:人本主义心理学创立与晚年",
+  "default_stage_confidence": "high",
+  "stages_count": 4,
+  "raw_text_files": [
+    "传记.txt",
+    "引语.txt",
+    "后世评述.txt",
+    "全部语料.txt"
+  ],
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "consistency_check.md"
+  ],
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Abraham_Maslow",
+    "https://en.wikiquote.org/wiki/Abraham_Maslow",
+    "https://en.wikipedia.org/wiki/Self-actualization"
+  ],
+  "key_relationships": [
+    {"name": "Kurt Goldstein", "relationship": "\"自我实现\"概念的真正学术祖先,1939 年流亡纽约,《有机体》(The Organism, 1939);Maslow 在 Brandeis 与其同事"},
+    {"name": "Alfred Adler", "relationship": "早期心理学训练,Wistar Institute 时期"},
+    {"name": "Harry Harlow", "relationship": "威斯康星大学博士导师,猴子支配性行为研究"},
+    {"name": "Edward Thorndike", "relationship": "哥伦比亚大学 1934-1937 助教上司"},
+    {"name": "Carl Rogers", "relationship": "人本主义心理学同事(路径不同:Maslow 关注自我实现,Rogers 关注来访者中心疗法)"},
+    {"name": "Viktor Frankl", "relationship": "存在心理学同道"},
+    {"name": "Rollo May", "relationship": "存在心理学同道"},
+    {"name": "R. D. Laing", "relationship": "精神分析同道,反精神病学运动"},
+    {"name": "B. F. Skinner", "relationship": "行为主义论敌(被批评为方法论偏狭的典型)"},
+    {"name": "Ruth Benedict", "relationship": "哥伦比亚同侪,人类学家"},
+    {"name": "Margaret Mead", "relationship": "哥伦比亚同侪,人类学家"},
+    {"name": "Bertha Goodman", "relationship": "第一任妻子"},
+    {"name": "Erika Northrop", "relationship": "第二任妻子"}
+  ],
+  "key_works": [
+    {"year": 1943, "title": "A Theory of Human Motivation", "type": "paper", "note": "Psychological Review 期刊论文,需求层次理论首次系统提出"},
+    {"year": 1954, "title": "Motivation and Personality", "type": "book", "note": "基于 1943 论文扩展的体系化著作"},
+    {"year": 1962, "title": "Toward a Psychology of Being", "type": "book", "note": "存在心理学转向,认知 vs 存在 区分"},
+    {"year": 1964, "title": "Religions, Values, and Peak Experiences", "type": "book", "note": "高峰体验理论"},
+    {"year": 1966, "title": "The Psychology of Science", "type": "book", "note": "锤子和钉子隐喻,方法论偏狭批评"},
+    {"year": 1968, "title": "Toward a Psychology of Being (修订版)", "type": "book", "note": "增加 Z 理论与自我超越"},
+    {"year": 1968, "title": "创办 Journal of Humanistic Psychology", "type": "journal", "note": "任编辑"},
+    {"year": 1971, "title": "The Farther Reaches of Human Nature", "type": "book", "note": "身后出版,论文合集"}
+  ],
+  "modern_honors": [
+    "马斯洛需求层次(Maslow's hierarchy of needs)成为 20 世纪引用最广的心理学概念",
+    "Journal of Humanistic Psychology 持续出版,主流心理学分支",
+    "人本主义心理学被列为现代心理学的'第三势力'(第三种力量)",
+    "积极心理学(Martin Seligman, 1998 起)直接承袭其'研究最好的人'传统",
+    "管理学(McGregor X-Y 理论)、教育学(人本主义教育)、心理治疗(人本主义疗法)均受其影响"
+  ]
+}

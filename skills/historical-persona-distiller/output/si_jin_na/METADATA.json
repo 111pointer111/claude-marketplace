@@ -1,0 +1,85 @@
+{
+  "name": "B.F. Skinner",
+  "name_pinyin": "si_jin_na",
+  "name_chinese": "斯金纳",
+  "full_name": "Burrhus Frederic Skinner",
+  "dynasty": "20 世纪美国 (行为主义时代, Harvard Psychology)",
+  "lifespan": {
+    "birth": "1904-03-20",
+    "death": "1990-08-18",
+    "age_at_death": 86
+  },
+  "birth_place": "Susquehanna Depot, Pennsylvania, USA",
+  "death_place": "Cambridge, Massachusetts, USA",
+  "nationality": "American",
+  "fields": ["行为主义", "心理学", "教育学"],
+  "known_for": [
+    "Operant conditioning (操作性条件反射)",
+    "Skinner box (斯金纳箱)",
+    "Reinforcement schedules (强化时间表 FR/VR/FI/VI)",
+    "Shaping and chaining (行为塑造与连锁)",
+    "Teaching machine and programmed instruction (教学机器与程序化教学)",
+    "Behavior analysis school (行为分析学派)",
+    "Walden Two (1948, 乌托邦小说)",
+    "Beyond Freedom and Dignity (1971, 哲学畅销书)",
+    "Verbal Behavior (1957, 语言的操作分析)"
+  ],
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-31",
+  "distiller_skill": "historical-persona-distiller",
+  "sources_count": 3,
+  "overall_confidence": "high",
+  "default_stage": "切片三 哈佛教授与《瓦尔登湖第二》乌托邦 (1945-1971)",
+  "default_stage_confidence": "high",
+  "stages_count": 4,
+  "raw_text_files": [
+    "传记.txt",
+    "引语.txt",
+    "后世评述.txt",
+    "全部语料.txt"
+  ],
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "consistency_check.md"
+  ],
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/B._F._Skinner",
+    "https://en.wikiquote.org/wiki/B._F._Skinner",
+    "https://en.wikipedia.org/wiki/Operant_conditioning"
+  ],
+  "key_relationships": [
+    {"name": "William James", "relationship": "精神导师；Harvard 心理学传统的源头"},
+    {"name": "John B. Watson", "relationship": "行为主义前辈；方法论启发者"},
+    {"name": "Ivan Pavlov", "relationship": "经典条件反射创立者；与 operant conditioning 形成对照"},
+    {"name": "Fred Keller", "relationship": "PSI（Personalized System of Instruction）教学系统合作者"},
+    {"name": "Charles Ferster", "relationship": "Schedules of Reinforcement 共同作者"},
+    {"name": "Ogden Lindsley", "relationship": "Behavior Analysis 学派合作者；Precision Teaching 创立者"},
+    {"name": "Noam Chomsky", "relationship": "最著名论敌；1959 年批评 Verbal Behavior"},
+    {"name": "Nathalie Skinner", "relationship": "夫人，1948 年结婚"},
+    {"name": "Deborah Skinner", "relationship": "长女；《女儿成长观察日记》主角"}
+  ],
+  "key_works": [
+    {"year": 1938, "title": "The Behavior of Organisms", "type": "monograph", "note": "操作性条件反射奠基之作"},
+    {"year": 1948, "title": "Walden Two", "type": "utopian novel", "note": "用行为工程学设计的乌托邦小说"},
+    {"year": 1953, "title": "Science and Human Behavior", "type": "monograph", "note": "系统化行为分析教科书"},
+    {"year": 1957, "title": "Verbal Behavior", "type": "monograph", "note": "Chomsky 1959 批评的靶子"},
+    {"year": 1957, "title": "Schedules of Reinforcement (with Ferster)", "type": "monograph", "note": "强化时间表的里程碑"},
+    {"year": 1968, "title": "The Technology of Teaching", "type": "monograph", "note": "教学机器集大成"},
+    {"year": 1971, "title": "Beyond Freedom and Dignity", "type": "philosophy bestseller", "note": "哲学反思畅销书"},
+    {"year": 1974, "title": "About Behaviorism", "type": "philosophy monograph", "note": "自我辩护"},
+    {"year": 1976, "title": "Particulars of My Life", "type": "autobiography vol. 1"},
+    {"year": 1979, "title": "The Shaping of a Behaviorist", "type": "autobiography vol. 2"},
+    {"year": 1983, "title": "A Matter of Consequences", "type": "autobiography vol. 3"}
+  ],
+  "modern_honors": [
+    "Division 25 of APA (Behavior Analysis) 以 Skinner 为精神源头",
+    "Journal of the Experimental Analysis of Behavior (1958 创刊)",
+    "Behaviorism (期刊)",
+    "Association for Behavior Analysis International (ABAI)",
+    "B.F. Skinner Foundation",
+    "Mid-American Association for Behavior Analysis 命名"
+  ]
+}

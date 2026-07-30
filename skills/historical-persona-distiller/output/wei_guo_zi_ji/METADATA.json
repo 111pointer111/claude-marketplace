@@ -1,0 +1,78 @@
+{
+  "name": "Lev Semyonovich Vygotsky",
+  "name_pinyin": "wei_guo_zi_ji",
+  "name_chinese": "维果茨基",
+  "dynasty": "苏联早期 (Soviet Union, 1924-1934)",
+  "lifespan": {
+    "birth": "1896-11-17",
+    "death": "1934-06-11",
+    "age_at_death": 37
+  },
+  "birth_place": "Orsha, near Gomel, Belarus (alternatively Gomel itself)",
+  "death_place": "Moscow, USSR",
+  "nationality": "Soviet (born in Russian Empire)",
+  "fields": ["发展心理学", "教育心理学", "社会建构主义"],
+  "known_for": [
+    "文化历史理论 (Cultural-Historical Theory of Psychology)",
+    "最近发展区 (Zone of Proximal Development, ZPD)",
+    "中介理论 (Mediation by Psychological Tools)",
+    "内化理论 (Internalization: interpsychological → intrapsychological)",
+    "思维与言语 (Thought and Language, 1934)",
+    "缺陷学 (Defektologiya / Foundations of Defectology)",
+    "教育先于发展 (Learning precedes development)",
+    "危机理论 (Crisis theory of child development)"
+  ],
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-31",
+  "distiller_skill": "historical-persona-distiller",
+  "sources_count": 3,
+  "overall_confidence": "high",
+  "default_stage": "切片三 文化历史理论成熟 (1929-1934)",
+  "default_stage_confidence": "high",
+  "stages_count": 4,
+  "raw_text_files": [
+    "传记.txt",
+    "引语.txt",
+    "后世评述.txt",
+    "全部语料.txt"
+  ],
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "consistency_check.md"
+  ],
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Lev_Vygotsky",
+    "https://en.wikiquote.org/wiki/Lev_Vygotsky",
+    "https://en.wikipedia.org/wiki/Zone_of_proximal_development"
+  ],
+  "key_relationships": [
+    {"name": "Alexander Luria", "relationship": "挚友、合作者，神经心理学家，'三人组'核心"},
+    {"name": "Alexei Leontiev", "relationship": "活动理论合作者，'三人组'核心"},
+    {"name": "Alexander Zaporozhets", "relationship": "儿童发展合作者"},
+    {"name": "Kornilov (K. N. Kornilov)", "relationship": "莫斯科心理研究所所长，1924 邀请 Vygotsky 加入"},
+    {"name": "Rosa Khomina", "relationship": "夫人"},
+    {"name": "Aleksandra Luria (Luria 夫人)", "relationship": "1934 与 Vygotsky 一同感染肺结核"},
+    {"name": "Jean Piaget", "relationship": "同年出生的理论同代人，未正式辩论但立场分歧深刻"},
+    {"name": "A. R. Luria 夫人", "relationship": "见 Aleksandra Luria 条目"},
+    {"name": "Kolbanovsky", "relationship": "1936 主持出版并组织对 Vygotsky 的苏联批判运动"},
+    {"name": "Alex Kozulin", "relationship": "1962 MIT 英文版《Thought and Language》译者"}
+  ],
+  "key_works": [
+    {"year": 1925, "title": "Психология искусства (Psychology of Art)", "type": "book", "note": "早期文学批评转向心理学的体现"},
+    {"year": 1926, "title": "Pedagogical Psychology (教育心理学)", "type": "manuscript", "note": "身后出版"},
+    {"year": 1934, "title": "Мышление и речь (Thought and Language / 思维与言语)", "type": "book", "note": "1936 Kolbanovsky 编辑出版苏联版；1962 MIT 英文版 Kozulin 译"},
+    {"year": 1934, "title": "Проблемы развития психики (Problems of the Development of the Mind)", "type": "monograph", "note": "苏联 1956 出版；ZPD 在其中首次正式提出"},
+    {"year": "1929-1934", "title": "Foundations of Defectology (缺陷学基础)", "type": "essay collection", "note": "1983 出版"},
+    {"year": "1984+", "title": "Collected Works of L.S. Vygotsky (全集)", "type": "6-volume set", "note": "1984-1986 起编辑出版"}
+  ],
+  "modern_honors": [
+    "Vygotsky 文化历史理论作为发展心理学主流之一",
+    "Zone of Proximal Development (ZPD) — 20 世纪教育心理学最具影响力的概念",
+    "Mind in Society (1978, Harvard) — ZPD 进入英语世界",
+    "Thought and Language (1962 MIT Press, Kozulin 译) — 西方认知心理学的奠基之作",
+    "缺陷学（defektologiya）作为现代特殊教育学的源头"
+  ]
+}

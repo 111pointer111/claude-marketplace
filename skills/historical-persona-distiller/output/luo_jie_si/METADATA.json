@@ -1,0 +1,84 @@
+{
+  "name": "Carl Ransom Rogers",
+  "name_pinyin": "luo_jie_si",
+  "name_chinese": "罗杰斯",
+  "dynasty": "20世纪美国心理学 / 人本主义心理学第三势力",
+  "lifespan": {
+    "birth": "1902-01-08",
+    "death": "1987-02-04",
+    "age_at_death": 85
+  },
+  "birth_place": "Oak Park, Illinois, USA",
+  "death_place": "San Diego, California, USA",
+  "nationality": "American",
+  "fields": ["人本主义心理学", "临床心理学"],
+  "known_for": [
+    "来访者中心疗法 / person-centered therapy (1951)",
+    "治疗的充分必要条件 (empathy, unconditional positive regard, congruence, 1957)",
+    "自我概念理论 (self-concept)",
+    "充分发展的人 (fully functioning person)",
+    "Q-sort 方法测量自我概念与理想自我距离",
+    "以人为中心方法在教育、团体、跨文化、婚姻中的扩展应用"
+  ],
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-31",
+  "distiller_skill": "historical-persona-distiller",
+  "sources_count": 3,
+  "overall_confidence": "high",
+  "default_stage": "切片三 芝加哥咨询中心期 (1945-1957,来访者中心疗法成熟)",
+  "default_stage_confidence": "high",
+  "stages_count": 4,
+  "raw_text_files": [
+    "传记.txt",
+    "引语.txt",
+    "后世评述.txt",
+    "全部语料.txt"
+  ],
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "consistency_check.md"
+  ],
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Carl_Rogers",
+    "https://en.wikiquote.org/wiki/Carl_Rogers",
+    "https://en.wikipedia.org/wiki/Person-centered_therapy"
+  ],
+  "key_relationships": [
+    {"name": "Alfred Adler", "relationship": "早期儿童教育方向影响（个体心理学）"},
+    {"name": "Otto Rank", "relationship": "Rochester 时期导师；短期非指导式治疗启示"},
+    {"name": "Abraham Maslow", "relationship": "人本主义心理学共同发起人；1962 年合著"},
+    {"name": "Viktor Frankl", "relationship": "存在心理学同道"},
+    {"name": "Rollo May", "relationship": "美国存在心理学同道"},
+    {"name": "Virginia Axline", "relationship": "儿童游戏疗法同事"},
+    {"name": "Thomas Gordon", "relationship": "Parent Effectiveness Training 训练推广合作者"},
+    {"name": "Nathaniel Raskin", "relationship": "芝加哥咨询中心重要合作者"},
+    {"name": "Maria Bowen", "relationship": "晚年工作伙伴；陪同跨文化项目"},
+    {"name": "Helen Merrell Rogers", "relationship": "夫人，1944 年结婚"}
+  ],
+  "key_works": [
+    {"year": 1931, "title": "儿童死刑概念的研究", "type": "dissertation", "note": "哥伦比亚大学博士论文；道德判断的发展"},
+    {"year": 1942, "title": "Counseling and Psychotherapy", "type": "book", "note": "《临床心理治疗》；非指导式治疗的奠基"},
+    {"year": 1947, "title": "Some Hypotheses Concerning the Facilitation of Personal Growth", "type": "paper", "note": "APA 主席演讲"},
+    {"year": 1951, "title": "Client-Centered Therapy", "type": "book", "note": "《来访者中心疗法》；范式确立"},
+    {"year": 1957, "title": "The Necessary and Sufficient Conditions of Therapeutic Personality Change", "type": "paper", "note": "六条件中的三态度条件被确立"},
+    {"year": 1961, "title": "On Becoming a Person", "type": "book", "note": "《个人形成论》；论文集，广为流传"},
+    {"year": 1969, "title": "Freedom to Learn", "type": "book", "note": "《学习的自由》；教育应用"},
+    {"year": 1970, "title": "Carl Rogers on Encounter Groups", "type": "book", "note": "《卡尔·罗杰斯论会心团体》"},
+    {"year": 1972, "title": "Becoming Partners: Marriage and Its Alternatives", "type": "book", "note": "《成为伴侣》"},
+    {"year": 1980, "title": "A Way of Being", "type": "book", "note": "《一种存在方式》；晚年总结"},
+    {"year": 1983, "title": "Freedom to Learn for the 80's", "type": "book", "note": "《学习的自由 80 年代版》"}
+  ],
+  "modern_honors": [
+    "APA 杰出专业贡献奖 (1956)",
+    "APA 终身贡献奖 (1972)",
+    "APA 学会主席 (1947)",
+    "美国国家特殊贡献奖 (1964)",
+    "1978 年 APA 学会调查：与斯金纳并列为 20 世纪最有影响力的心理学家",
+    "Carl Rogers 学院（Carl Rogers College, Japan）",
+    "Center for Studies of the Person 至今仍活跃",
+    "人本主义心理学第三势力奠基人"
+  ]
+}

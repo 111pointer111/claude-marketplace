@@ -1,0 +1,83 @@
+{
+  "name": "Ivan Petrovich Pavlov",
+  "name_pinyin": "ba_fu_luo_fu",
+  "name_chinese": "巴甫洛夫",
+  "dynasty": "沙俄晚期 — 苏维埃时期",
+  "lifespan": {
+    "birth": "1849-09-26",
+    "death": "1936-02-27",
+    "age_at_death": 86
+  },
+  "birth_place": "Ryazan, Russian Empire",
+  "death_place": "Leningrad (now Saint Petersburg), Soviet Union",
+  "nationality": "Russian (later Soviet)",
+  "fields": [
+    "生理学 (Physiology)",
+    "条件反射 (Conditioned Reflexes)",
+    "高级神经活动生理学 (Physiology of Higher Nervous Activity)"
+  ],
+  "known_for": [
+    "经典条件反射 (Pavlovian / Classic Conditioning)",
+    "1904 年诺贝尔生理学或医学奖 (消化生理学)",
+    "高级神经活动生理学",
+    "大脑皮质兴奋/抑制相互诱导理论",
+    "实验性神经症 (Experimental Neuroses)",
+    "四种神经类型 (Temperament Types)",
+    "巴甫洛夫小胃 (Pavlov Pouch) 与假饲 (Sham Feeding)"
+  ],
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-31",
+  "distiller_skill": "historical-persona-distiller",
+  "sources_count": 3,
+  "overall_confidence": "high",
+  "default_stage": "切片三 条件反射形成期 (1903-1927)",
+  "default_stage_confidence": "high",
+  "stages_count": 4,
+  "raw_text_files": [
+    "传记.txt",
+    "引语.txt",
+    "后世评述.txt",
+    "全部语料.txt"
+  ],
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "consistency_check.md"
+  ],
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Ivan_Pavlov",
+    "https://en.wikiquote.org/wiki/Ivan_Pavlov",
+    "https://www.nobelprize.org/prizes/medicine/1904/pavlov/biographical/"
+  ],
+  "key_relationships": [
+    {"name": "Pyotr Dmitrievich Pavlov", "relationship": "父亲，Ryazan 牧师"},
+    {"name": "S. P. Botkin", "relationship": "早期导师，临床医院"},
+    {"name": "Ilya Cyon", "relationship": "早期合作者，胰腺神经研究"},
+    {"name": "Carl Ludwig", "relationship": "德国导师，1879-1881"},
+    {"name": "Rudolf Heidenhain", "relationship": "德国导师，1879-1881"},
+    {"name": "Tolochinov", "relationship": "条件反射助手，1903-1907 关键实验"},
+    {"name": "Boris Babkin", "relationship": "弟子，生理学继承者，传记作者"},
+    {"name": "John B. Watson", "relationship": "行为主义心理学家，受 Pavlov 启发"},
+    {"name": "B. F. Skinner", "relationship": "操作条件反射，提出与 Pavlov 经典条件反射的区分"},
+    {"name": "Lev Vygotsky", "relationship": "间接对话者，文化历史理论学派"}
+  ],
+  "key_works": [
+    {"year": 1897, "title": "Lektsii o rabote glavnykh pishchevaritel'nykh zhelez (《主要消化腺的工作讲义》)", "type": "lectures", "note": "诺贝尔奖工作"},
+    {"year": 1903, "title": "The Psychical Secretion of the Saliva", "type": "lecture", "note": "Madrid, 第十四届国际医学大会，条件反射工作起点"},
+    {"year": 1927, "title": "Conditioned Reflexes: Lectures on the Physiology of Higher Nervous Activity (《条件反射：高级神经活动生理学讲义》)", "type": "book"},
+    {"year": 1927, "title": "Lectures on the Work of the Cerebral Hemispheres (《大脑两半球工作讲义》)", "type": "book"},
+    {"year": 1932, "title": "The Reply of a Physiologist to Psychologists", "type": "essay", "note": "对心理学界的回应"},
+    {"year": 1934, "title": "Free Reflexes (Speech of 28 June 1934)", "type": "speech", "note": "自我批判，承认文化与历史因素"}
+  ],
+  "modern_honors": [
+    "1904 年诺贝尔生理学或医学奖",
+    "Pavlovian conditioning (经典条件反射的英语命名)",
+    "Pavlov pouch (巴甫洛夫小胃)",
+    "Pavlovian response (巴甫洛夫反应)",
+    "Soviet Academy of Sciences 院士 (1921)",
+    "Koltushi 实验室以其命名",
+    "苏联医学科学院巴甫洛夫研究所"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "persona_id": "ban_du_la",
+  "persona_name": "Albert Bandura",
+  "distilled_at": "2026-07-31",
+  "distiller_version": "1.0",
+  "sources": {
+    "count": 3,
+    "types": ["wikipedia_biography", "wikiquote", "wikipedia_self_efficacy"],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Albert_Bandura",
+      "https://en.wikiquote.org/wiki/Albert_Bandura",
+      "https://en.wikipedia.org/wiki/Self-efficacy"
+    ]
+  },
+  "raw_text_files": {
+    "传记.txt": {"approx_words": 1100, "approx_chars": 7200},
+    "引语.txt": {"approx_words": 480, "approx_chars": 3100, "quotes_count": 13},
+    "著作.txt": {"approx_words": 350, "approx_chars": 2300},
+    "全部语料.txt": {"approx_words": 1850, "approx_chars": 12100}
+  },
+  "stages": {
+    "count": 4,
+    "default_stage": "切片三 自我效能理论形成 (1977-1997)",
+    "stages_list": [
+      {"name": "切片一 加拿大早年与 University of British Columbia", "years": "1925-1949", "confidence": "medium"},
+      {"name": "切片二 Iowa 博士与 Bobo Doll 实验", "years": "1949-1973", "confidence": "high"},
+      {"name": "切片三 自我效能理论形成", "years": "1977-1997", "confidence": "high", "is_default": true},
+      {"name": "切片四 晚年与代理性理论", "years": "1997-2021", "confidence": "high"}
+    ]
+  },
+  "dimensions": {
+    "思想内核": {"core_values_count": 5, "底线_count": 2, "overall_confidence": "high"},
+    "语言特征": {"评分维度": 8, "高频意象_top_10": true, "confidence": "high"},
+    "表达偏好": {"对象类型_count": 5, "通用特征_count": 4, "confidence": "high"},
+    "立场光谱": {"议题_count": 7, "confidence": "high"}
+  },
+  "consistency_check": {
+    "cross_stage_consistency": "high",
+    "source_diversity": "medium",
+    "llm_overreach_risk": "low",
+    "confidence_adjustment": "none"
+  },
+  "citations": {
+    "total": 16,
+    "categories": {
+      "社会学习/观察学习": 2,
+      "Bobo Doll/攻击研究": 2,
+      "行为主义批判": 2,
+      "自我效能": 3,
+      "社会认知/三元交互": 2,
+      "代理性理论": 1,
+      "应用心理学": 1,
+      "批评/对手": 2,
+      "晚年/后世": 1
+    },
+    "all_traceable_to_raw": true
+  },
+  "overall_confidence": "high",
+  "quality_control_notes": [
+    "全部 13 条 Bandura 本人引用均可回溯到 raw/ban_du_la/ 引语.txt；3 条后人/事实引用回溯到 全部语料.txt",
+    "每条 dimension 结论至少有 1 处原文引用支撑",
+    "立场光谱每个议题有原文依据（来自 Bandura 直接引用或维基百科记载的批评）",
+    "SKILL.md 正文字数（不含引用）约 2300 字，在 1500-5000 区间",
+    "4 个阶段切片均标注 confidence；切片三（默认）为 high，其他切片也达 medium-high",
+    "默认阶段（切片三 1977-1997）confidence: high，对应自我效能理论形成期——这是 Bandura 学术影响力巅峰",
+    "避免了把 Bandura 简单描述为'行为主义者'——他是社会认知理论派（行为-认知整合）",
+    "避免了把 Bobo Doll 实验描述为'鼓吹暴力'——它的研究意义是确认观察学习机制",
+    "区分了'自我效能'与'自尊'——前者是情境性能力判断，后者是整体自我评价",
+    "指出了重要批评：文化盲点、性别偏差、个体主义偏向、过度乐观——这些是阅读 Bandura 时必备的'反方视角'",
+    "明确标注了 Kurt Lewin 与 Bandura 的关系是'通过 Iowa 学派传统'而非直接受教——避免过强归因"
+  ]
+}

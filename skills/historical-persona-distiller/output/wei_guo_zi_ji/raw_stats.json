@@ -1,0 +1,72 @@
+{
+  "persona_id": "wei_guo_zi_ji",
+  "persona_name": "Lev Semyonovich Vygotsky",
+  "distilled_at": "2026-07-31",
+  "distiller_version": "1.0",
+  "sources": {
+    "count": 3,
+    "types": ["wikipedia_biography", "wikiquote", "wikipedia_zpd"],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Lev_Vygotsky",
+      "https://en.wikiquote.org/wiki/Lev_Vygotsky",
+      "https://en.wikipedia.org/wiki/Zone_of_proximal_development"
+    ]
+  },
+  "raw_text_files": {
+    "传记.txt": {"approx_words": 1100, "approx_chars": 7200},
+    "引语.txt": {"approx_words": 450, "approx_chars": 3000, "quotes_count": 15},
+    "后世评述.txt": {"approx_words": 380, "approx_chars": 2500},
+    "全部语料.txt": {"approx_words": 1950, "approx_chars": 12800}
+  },
+  "stages": {
+    "count": 4,
+    "default_stage": "切片三 文化历史理论成熟 (1929-1934)",
+    "stages_list": [
+      {"name": "切片一 戈梅利早年与法律文学", "years": "1896-1924", "confidence": "medium"},
+      {"name": "切片二 莫斯科心理研究所", "years": "1924-1928", "confidence": "high"},
+      {"name": "切片三 文化历史理论成熟", "years": "1929-1934", "confidence": "high", "is_default": true},
+      {"name": "切片四 1934 早逝与身后恢复", "years": "1934-1962+", "confidence": "high"}
+    ]
+  },
+  "dimensions": {
+    "思想内核": {"core_values_count": 6, "底线_count": 2, "overall_confidence": "high"},
+    "语言特征": {"评分维度": 8, "高频意象_top_10": true, "confidence": "high"},
+    "表达偏好": {"对象类型_count": 5, "通用特征_count": 4, "confidence": "high"},
+    "立场光谱": {"议题_count": 8, "confidence": "high"}
+  },
+  "consistency_check": {
+    "cross_stage_consistency": "high",
+    "source_diversity": "high",
+    "llm_overreach_risk": "low",
+    "confidence_adjustment": "none"
+  },
+  "citations": {
+    "total": 15,
+    "categories": {
+      "文化历史理论": 2,
+      "最近发展区 (ZPD)": 2,
+      "中介理论": 2,
+      "思维与言语": 2,
+      "缺陷学": 2,
+      "马克思主义立场": 1,
+      "学术命运": 3,
+      "教育与发展": 1
+    },
+    "all_traceable_to_raw": true
+  },
+  "overall_confidence": "high",
+  "quality_control_notes": [
+    "全部 15 条 Vygotsky 引用均可回溯到 raw/wei_guo_zi_ji/ 引语.txt 与后世评述.txt",
+    "每条 dimension 结论至少有 1 处原文引用支撑（多数 2-3 处）",
+    "立场光谱每个议题有原文依据",
+    "SKILL.md 正文字数（不含引用）约 2300 字，在 1500-5000 区间",
+    "4 个阶段切片均标注 confidence",
+    "默认阶段（切片三 1929-1934）confidence: high",
+    "1936 苏联批判事件已明确标注：Kolbanovsky 编辑《思维与言语》(1936)，被定性为'反马克思主义'",
+    "1962 MIT 英译事件已明确标注：Alex Kozulin 译《Thought and Language》(MIT Press, 1962)",
+    "1984-1986 起 6 卷《全集》编辑事件已明确标注：Plenum Press, Robert Rieber 编",
+    "Vygotsky 与 Piaget 同年出生(1896)，未正式辩论——这是常被误读的事实，已在多处澄清",
+    "区分了'最近发展区'(ZPD) 与'准备性发展'(readiness) — 前者是合作可达，后者是独立可达",
+    "明确 Vygotsky 是马克思主义者，不是后现代意义上的'建构主义者' — 避免事项中已强调"
+  ]
+}

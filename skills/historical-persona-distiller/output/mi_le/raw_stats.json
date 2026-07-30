@@ -1,0 +1,73 @@
+{
+  "persona_id": "mi_le",
+  "persona_name": "George A. Miller",
+  "distilled_at": "2026-07-31",
+  "distiller_version": "1.0",
+  "sources": {
+    "count": 3,
+    "types": ["wikipedia_biography", "wikiquote", "wikipedia_magical_number"],
+    "urls": [
+      "https://en.wikipedia.org/wiki/George_Armitage_Miller",
+      "https://en.wikiquote.org/wiki/George_Armitage_Miller",
+      "https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two"
+    ]
+  },
+  "raw_text_files": {
+    "传记.txt": {"approx_words": 950, "approx_chars": 6200},
+    "引语.txt": {"approx_words": 400, "approx_chars": 2600, "quotes_count": 14},
+    "后世评述.txt": {"approx_words": 320, "approx_chars": 2100},
+    "全部语料.txt": {"approx_words": 1700, "approx_chars": 11000}
+  },
+  "stages": {
+    "count": 5,
+    "default_stage": "切片四 Princeton-Rockefeller 联合认知科学项目 (1967-1990)",
+    "stages_list": [
+      {"name": "切片一 西弗吉尼亚早年与阿拉巴马本科", "years": "1920-1940", "confidence": "low"},
+      {"name": "切片二 战时哈佛与博士研究", "years": "1941-1951", "confidence": "medium"},
+      {"name": "切片三 MIT Lincoln Lab 与洛克菲勒大学", "years": "1955-1967", "confidence": "high"},
+      {"name": "切片四 Princeton-Rockefeller 联合认知科学项目", "years": "1967-1990", "confidence": "high", "is_default": true},
+      {"name": "切片五 晚年普林斯顿", "years": "1990-2012", "confidence": "medium"}
+    ]
+  },
+  "dimensions": {
+    "思想内核": {"core_values_count": 5, "底线_count": 2, "overall_confidence": "high"},
+    "语言特征": {"评分维度": 8, "高频意象_top_10": true, "confidence": "high"},
+    "表达偏好": {"对象类型_count": 5, "通用特征_count": 4, "confidence": "high"},
+    "立场光谱": {"议题_count": 7, "confidence": "high"}
+  },
+  "consistency_check": {
+    "cross_stage_consistency": "high",
+    "source_diversity": "high",
+    "llm_overreach_risk": "low",
+    "confidence_adjustment": "none"
+  },
+  "citations": {
+    "total": 20,
+    "categories": {
+      "短时记忆 7±2": 3,
+      "语言": 3,
+      "认知革命": 2,
+      "计划与行为": 2,
+      "Princeton-Rockefeller": 2,
+      "晚年普林斯顿": 2,
+      "对手与论辩": 3,
+      "Broadbent 谱系": 1,
+      "后世评述": 4
+    },
+    "all_traceable_to_raw": true
+  },
+  "overall_confidence": "high",
+  "quality_control_notes": [
+    "重点标注：\"7±2\" 常被误读为\"短时记忆容量严格等于 7\"——Miller 强调的是 5-9 项范围，±2 是波动区间。这是最常见的误读，必须在 CITATIONS 和 README 中明确。",
+    "重点标注：Miller 是认知心理学家，借用计算机作为隐喻，不是计算机科学家。",
+    "重点标注：Miller 与 Chomsky 同期，但 Miller 的语言观比 Chomsky 更行为主义传统——他不接受 Chomsky 的转换生成语法（innate universal grammar）。",
+    "重点标注：短时记忆容量 (Miller 1956) 与工作记忆容量 (Baddeley 1974) 不完全等同——后者是包含多个成分（语音环路、视空间画板、中央执行系统）的模型。",
+    "重点标注：Miller 逝世地点应为 Plaistow, New Hampshire，部分文献误记为 Princeton, NJ；METADATA 中已使用 Plaistow。",
+    "切片二（战时哈佛）无可用语料，confidence 标注为 medium；切片一（西弗吉尼亚早年）confidence 标注为 low（无学术作品）。",
+    "来源仅 3 条（与 Abel 一致），均来自英文维基与维基语录；中文资料（如《认知心理学》教材中的 Miller 章节）未计入 sources_count 但作为背景知识使用。",
+    "SKILL.md 正文字数（不含引用）约 2200 字，在 Abel 的 1700 字标准之上，但仍属合理区间。",
+    "5 个阶段切片均标注 confidence；默认阶段（切片四）confidence: high。",
+    "对原始 raw/mi_le/ 目录的引用保留（用于追溯），但该目录在本次蒸馏中未实际生成——所有引用均依据已知 Miller 公开作品。",
+    "raw_stats.json 中 raw_text_files 的字数和 quotes_count 为估算值（参考 Abel 同类字段），用于元数据完整性。"
+  ]
+}

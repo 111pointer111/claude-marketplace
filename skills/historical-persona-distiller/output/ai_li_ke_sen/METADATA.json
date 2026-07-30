@@ -1,0 +1,73 @@
+{
+  "name": "Erik Homburger Erikson",
+  "name_pinyin": "ai_li_ke_sen",
+  "name_chinese": "埃里克森",
+  "dynasty": "20世纪德裔美国 / 美国战后",
+  "lifespan": {
+    "birth": "1902-06-15",
+    "death": "1994-05-12",
+    "age_at_death": 91
+  },
+  "birth_place": "Frankfurt, Germany",
+  "death_place": "Harwich, Massachusetts, USA",
+  "nationality": "German-American (德裔美国)",
+  "fields": ["发展心理学", "精神分析", "身份认同"],
+  "known_for": [
+    "心理社会发展阶段理论 (8 stages of psychosocial development)",
+    "身份认同理论 (identity vs role confusion)",
+    "生命周期概念 (life cycle)",
+    "精神分析传记 (psychobiography) 方法",
+    "《甘地的真理》获 1970 年普利策非虚构类奖"
+  ],
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-31",
+  "distiller_skill": "historical-persona-distiller",
+  "sources_count": 3,
+  "overall_confidence": "high",
+  "default_stage": "切片三 中年：8阶段理论形成与甘地研究 (1950-1968)",
+  "default_stage_confidence": "high",
+  "stages_count": 4,
+  "raw_text_files": [
+    "传记.txt",
+    "引语.txt",
+    "后世评述.txt",
+    "全部语料.txt"
+  ],
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "consistency_check.md"
+  ],
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Erik_Erikson",
+    "https://en.wikiquote.org/wiki/Erik_Erikson",
+    "https://en.wikipedia.org/wiki/Psychosocial_development"
+  ],
+  "key_relationships": [
+    {"name": "Anna Freud", "relationship": "维也纳训练导师；后因儿童分析理论分歧渐远"},
+    {"name": "Joan Erikson", "relationship": "夫人，1930 结婚；加拿大裔艺术家；终身合作者"},
+    {"name": "Margaret Mead", "relationship": "耶鲁大学人类学家同事，跨学科方法来源"},
+    {"name": "Kurt Lewin", "relationship": "社会心理学家同期，耶鲁同事"},
+    {"name": "Peter Blos", "relationship": "儿童分析同期，Austen Riggs Center 同事"},
+    {"name": "Sigmund Freud", "relationship": "学术远祖；Erikson 与 Freud 本人无直接师承"},
+    {"name": "Theodor Homburger", "relationship": "继父，德国犹太儿科医生"},
+    {"name": "Karla Abels Homburger", "relationship": "母亲；婚前已孕"}
+  ],
+  "key_works": [
+    {"year": 1950, "title": "Childhood and Society (《儿童期与社会》)", "type": "book", "note": "8 阶段理论首次系统化"},
+    {"year": 1958, "title": "Young Man Luther (《青年路德：精神分析与历史的研究》)", "type": "book", "note": "开创精神分析传记方法"},
+    {"year": 1968, "title": "Identity: Youth and Crisis (《同一性：青少年与危机》)", "type": "book", "note": "身份认同理论系统化"},
+    {"year": 1969, "title": "Gandhi's Truth (《甘地的真理：论非暴力抵抗的起源》)", "type": "book", "note": "1970 普利策非虚构类奖"},
+    {"year": 1982, "title": "The Life Cycle Completed (《晚年与生命周期》)", "type": "book", "note": "扩展至 9 阶段(85+ 阶段)"},
+    {"year": 1987, "title": "The Erik Erikson Reader", "type": "anthology", "note": "晚年回顾文集"}
+  ],
+  "modern_honors": [
+    "1970 年普利策非虚构类奖（General Nonfiction）",
+    "1973 年 National Medal of Science（人文贡献）",
+    "1987 年耶鲁大学荣誉博士（首次获博士学位）",
+    "Erik Erikson Institute for Early Childhood Education (Chicago)",
+    "Erik Erikson Prize"
+  ]
+}

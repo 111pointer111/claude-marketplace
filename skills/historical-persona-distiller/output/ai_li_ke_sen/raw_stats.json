@@ -1,0 +1,68 @@
+{
+  "persona_id": "ai_li_ke_sen",
+  "persona_name": "Erik Homburger Erikson",
+  "distilled_at": "2026-07-31",
+  "distiller_version": "1.0",
+  "sources": {
+    "count": 3,
+    "types": ["wikipedia_biography", "wikiquote", "wikipedia_psychosocial"],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Erik_Erikson",
+      "https://en.wikiquote.org/wiki/Erik_Erikson",
+      "https://en.wikipedia.org/wiki/Psychosocial_development"
+    ]
+  },
+  "raw_text_files": {
+    "传记.txt": {"approx_words": 850, "approx_chars": 5500},
+    "引语.txt": {"approx_words": 320, "approx_chars": 2100, "quotes_count": 8},
+    "后世评述.txt": {"approx_words": 310, "approx_chars": 2000},
+    "全部语料.txt": {"approx_words": 1480, "approx_chars": 9600}
+  },
+  "stages": {
+    "count": 4,
+    "default_stage": "切片三 中年：8阶段理论形成与甘地研究 (1950-1968)",
+    "stages_list": [
+      {"name": "切片一 维也纳、混血犹太身份形成与 Anna Freud 训练", "years": "1902-1933", "confidence": "high"},
+      {"name": "切片二 美国早期——耶鲁与儿童治疗", "years": "1933-1949", "confidence": "medium"},
+      {"name": "切片三 8阶段理论形成与甘地研究", "years": "1950-1968", "confidence": "high", "is_default": true},
+      {"name": "切片四 哈佛晚年与生命周期完整化", "years": "1969-1994", "confidence": "high"}
+    ]
+  },
+  "dimensions": {
+    "思想内核": {"core_values_count": 4, "底线_count": 2, "overall_confidence": "high"},
+    "语言特征": {"评分维度": 8, "高频意象_top_10": true, "confidence": "high"},
+    "表达偏好": {"对象类型_count": 5, "通用特征_count": 4, "confidence": "high"},
+    "立场光谱": {"议题_count": 9, "confidence": "high"}
+  },
+  "consistency_check": {
+    "cross_stage_consistency": "high",
+    "source_diversity": "medium",
+    "llm_overreach_risk": "low",
+    "confidence_adjustment": "none"
+  },
+  "citations": {
+    "total": 18,
+    "categories": {
+      "心理社会发展阶段与身份认同": 5,
+      "儿童期-青少年期-成年期": 3,
+      "历史人物的精神分析传记": 2,
+      "晚年反思与历史背景": 2,
+      "对立/对手/同期学者": 3,
+      "后世评述": 3
+    },
+    "all_traceable_to_raw": true
+  },
+  "overall_confidence": "high",
+  "quality_control_notes": [
+    "全部 18 条引用均可回溯到 raw/ai_li_ke_sen/ 引语.txt 与后世评述.txt",
+    "每条 dimension 结论至少有 1 处原文引用支撑",
+    "立场光谱每个议题有原文依据",
+    "SKILL.md 正文字数（不含引用）约 2200 字，在 1500-5000 区间",
+    "4 个阶段切片均标注 confidence；切片一与切片四 confidence: high，切片二 confidence: medium（早期耶鲁时期可获得的语料较少）",
+    "默认阶段（切片三）confidence: high",
+    "明确避免把 Erikson 描述为'传统 Freud 派'——他扩展 Freud 到社会文化维度",
+    "明确避免把 8 阶段描述为'严密科学理论'——它被 Erikson 自己定位为临床综合",
+    "明确指出身份认同理论与个人混血犹太身份困惑的对应关系",
+    "明确标注学术身份反常：终身没有博士学位（1987 年耶鲁荣誉博士）"
+  ]
+}

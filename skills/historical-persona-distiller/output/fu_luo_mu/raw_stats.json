@@ -1,0 +1,74 @@
+{
+  "persona_id": "fu_luo_mu",
+  "persona_name": "Erich Fromm",
+  "distilled_at": "2026-07-31",
+  "distiller_version": "1.0",
+  "sources": {
+    "count": 3,
+    "types": ["wikipedia_biography", "wikiquote", "wikipedia_escape_from_freedom"],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Erich_Fromm",
+      "https://en.wikiquote.org/wiki/Erich_Fromm",
+      "https://en.wikipedia.org/wiki/Escape_from_Freedom"
+    ]
+  },
+  "raw_text_files": {
+    "传记.txt": {"approx_words": 950, "approx_chars": 6300},
+    "引语.txt": {"approx_words": 420, "approx_chars": 2800, "quotes_count": 14},
+    "后世评述.txt": {"approx_words": 320, "approx_chars": 2100},
+    "全部语料.txt": {"approx_words": 1700, "approx_chars": 11200}
+  },
+  "stages": {
+    "count": 4,
+    "default_stage": "切片三 墨西哥 UNAM 时期与《爱的艺术》(1950-1965)",
+    "stages_list": [
+      {"name": "切片一 法兰克福早年与犹太背景", "years": "1900-1932", "confidence": "medium"},
+      {"name": "切片二 流亡美国 — 哥伦比亚与本宁顿", "years": "1933-1950", "confidence": "high"},
+      {"name": "切片三 墨西哥 UNAM 与《爱的艺术》", "years": "1950-1965", "confidence": "high", "is_default": true},
+      {"name": "切片四 纽约大学晚年与和平运动", "years": "1965-1980", "confidence": "high"}
+    ]
+  },
+  "dimensions": {
+    "思想内核": {"core_values_count": 7, "底线_count": 2, "overall_confidence": "high"},
+    "语言特征": {"评分维度": 8, "高频意象_top_10": true, "confidence": "high"},
+    "表达偏好": {"对象类型_count": 5, "通用特征_count": 4, "confidence": "high"},
+    "立场光谱": {"议题_count": 9, "confidence": "high"}
+  },
+  "consistency_check": {
+    "cross_stage_consistency": "high",
+    "source_diversity": "high",
+    "llm_overreach_risk": "low",
+    "confidence_adjustment": "none"
+  },
+  "citations": {
+    "total": 19,
+    "fromm_self_quotes": 14,
+    "third_party_or_facts": 5,
+    "categories": {
+      "爱的理论": 3,
+      "逃避自由": 3,
+      "占有vs存在": 2,
+      "现代社会病理": 2,
+      "机器人隐喻": 2,
+      "宗教解读": 2,
+      "政治活动": 2,
+      "对手与后世评述": 3
+    },
+    "all_traceable_to_raw": true
+  },
+  "overall_confidence": "high",
+  "quality_control_notes": [
+    "明确标注 Fromm 为'新弗洛伊德主义'(Neo-Freudianism)立场——他修正 Freud 驱力理论、把 libidinal drives 解读为社会性格产物,而非正统弗洛伊德派",
+    "明确标注 Fromm 与 Herbert Marcuse 在 1960s 晚期断交;两人在新左翼中的影响竞争;Marcuse 更哲学化(海德格尔路线),Fromm 更心理分析化(Marx + Freud 路线)",
+    "明确标注 Fromm 是法兰克福学派非正式成员——1930-1932 在法兰克福社会研究所工作,与 Horkheimer、Adorno 共事,但与 Adorno 在精神分析理论上分歧",
+    "明确标注 Fromm 是 1960s 美国反战与和平运动核心人物——1962 与 Clark Kerr 共组 SANE、1967 与 MLK 联合发表《越战宣言》、1970 共组 SANE/华盛顿;不是'中立学者'",
+    "默认阶段选为切片三(1950-1965 UNAM 期)——这是 The Art of Loving、The Sane Society、Marx's Concept of Man 的诞生地,是 Fromm 影响最大的时期",
+    "4 个阶段切片均标注 confidence,默认切片三 confidence: high",
+    "全部 19 条引用均可回溯到 raw/fu_luo_mu/ 引语.txt 与后世评述.txt",
+    "每条 dimension 结论至少有 1 处原文引用支撑",
+    "立场光谱每个议题有原文依据",
+    "SKILL.md 正文字数(不含引用)约 2300 字,在 1500-5000 区间",
+    "明确标注 Fromm 出身犹太家庭(祖父是巴伐利亚州首任犹太首席拉比),但他不是宗教信徒——把宗教解读为'性格结构的投射'",
+    "区分 Fromm 与正统弗洛伊德派的分歧——后者批评 Fromm'去驱力化'(de-drive)"
+  ]
+}

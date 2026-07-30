@@ -1,0 +1,110 @@
+{
+  "name": "Erich Seligmann Fromm",
+  "name_pinyin": "fu_luo_mu",
+  "name_chinese": "弗洛姆",
+  "dynasty": "20世纪德意志-美利坚",
+  "lifespan": {
+    "birth": "1900-03-23",
+    "death": "1980-03-18",
+    "age_at_death": 80
+  },
+  "birth_place": "Frankfurt am Main, Germany",
+  "death_place": "Muralto, Switzerland",
+  "nationality": "German-American",
+  "fields": [
+    "新弗洛伊德主义",
+    "社会心理学",
+    "马克思主义"
+  ],
+  "known_for": [
+    "新弗洛伊德主义 / 人本主义精神分析 (Neo-Freudianism / Humanistic Psychoanalysis)",
+    "弗洛伊德 + 马克思主义融合 (Freud-Marx synthesis)",
+    "社会性格理论 (Social character theory)",
+    "逃避自由 Escape from Freedom (1941)",
+    "爱的艺术 The Art of Loving (1956)",
+    "占有 vs 存在 Having vs Being (To Have or to Be?, 1976)",
+    "非生产性性格取向 (Receptive / Exploitative / Hoarding / Marketing)",
+    "社会病理学 (Social pathology)",
+    "希望的革命 The Revolution of Hope (1968)"
+  ],
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-31",
+  "distiller_skill": "historical-persona-distiller",
+  "sources_count": 3,
+  "overall_confidence": "high",
+  "default_stage": "切片三 墨西哥 UNAM 时期与《爱的艺术》(1950-1965)",
+  "default_stage_confidence": "high",
+  "stages_count": 4,
+  "raw_text_files": [
+    "传记.txt",
+    "引语.txt",
+    "后世评述.txt",
+    "全部语料.txt"
+  ],
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "consistency_check.md"
+  ],
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Erich_Fromm",
+    "https://en.wikiquote.org/wiki/Erich_Fromm",
+    "https://en.wikipedia.org/wiki/Escape_from_Freedom"
+  ],
+  "key_relationships": [
+    {"name": "Sigmund Freud", "relationship": "学术远祖 — 精神分析传统来源,但 Fromm 修正其驱力理论"},
+    {"name": "Karl Marx", "relationship": "思想渊源 — 提供社会经济结构批判,被 Fromm 整合进精神分析"},
+    {"name": "Alfred Weber", "relationship": "海德堡大学博士导师(1922)"},
+    {"name": "Karl Abraham", "relationship": "柏林精神分析学院训练师(1920s)"},
+    {"name": "Max Horkheimer", "relationship": "法兰克福社会研究所同事(1930-1932)"},
+    {"name": "Theodor Adorno", "relationship": "法兰克福学派同事,但精神分析理论上分歧"},
+    {"name": "Karen Horney", "relationship": "同期新弗洛伊德派女分析师"},
+    {"name": "Harry Stack Sullivan", "relationship": "人际精神分析同道"},
+    {"name": "Friedrich Pollock", "relationship": "法兰克福学派同事"},
+    {"name": "Herbert Marcuse", "relationship": "1960s 晚期断交;新左翼影响竞争;Marcuse 更哲学化,Fromm 更心理分析化"},
+    {"name": "Martin Luther King Jr.", "relationship": "反战运动同道,联合发表《越战宣言》"},
+    {"name": "Hannah Arendt", "relationship": "私交好友,政治哲学上有共同点"},
+    {"name": "Clark Kerr", "relationship": "1962 共组 SANE(核政策委员会)"},
+    {"name": "Michael Maccoby", "relationship": "合作者,1968 The Revolution of Hope 合著者"},
+    {"name": "Frieda Reichmann", "relationship": "第一任妻子(1930-1942),精神分析同侪"},
+    {"name": "Naphtali Fromm", "relationship": "父亲,犹太商人"},
+    {"name": "Rosa Kruse", "relationship": "母亲,来自犹太拉比家庭"}
+  ],
+  "key_works": [
+    {"year": 1930, "title": "Das jüdische Gesetz (Jews and the Jewish Law)", "type": "book", "note": "犹太律法研究"},
+    {"year": 1941, "title": "Escape from Freedom", "type": "book", "note": "逃避自由"},
+    {"year": 1947, "title": "Man for Himself", "type": "book", "note": "自私与自爱;性格伦理学"},
+    {"year": 1950, "title": "Psychoanalysis and Religion", "type": "book", "note": "精神分析与宗教"},
+    {"year": 1955, "title": "The Sane Society", "type": "book", "note": "健全的社会;社会病理学"},
+    {"year": 1956, "title": "The Art of Loving", "type": "book", "note": "爱的艺术;全球畅销书,50+ 语言,销量数千万"},
+    {"year": 1961, "title": "Marx's Concept of Man", "type": "edited_volume", "note": "编辑;把青年马克思作为人本主义哲学家介绍给英语世界"},
+    {"year": 1962, "title": "Beyond the Chains of Illusion", "type": "memoir", "note": "自传片段"},
+    {"year": 1964, "title": "The Heart of Man", "type": "book", "note": "人心"},
+    {"year": 1968, "title": "The Revolution of Hope", "type": "book", "note": "希望的革命,与 Michael Maccoby 合著"},
+    {"year": 1973, "title": "The Anatomy of Human Destructiveness", "type": "book", "note": "人类破坏性剖析"},
+    {"year": 1976, "title": "To Have or to Be?", "type": "book", "note": "占有还是存在"}
+  ],
+  "modern_honors": [
+    "Erich Fromm Prize (German psychoanalytic society 颁)",
+    "《爱的艺术》全球销量数千万,翻译 50+ 语言",
+    "Escape from Freedom 持续重印,社会学/心理学必读",
+    "Social character 概念进入主流社会学/心理学词汇",
+    "Neo-Freudianism 流派代表人物",
+    "1968 国际社会主义者大会名誉主席"
+  ],
+  "political_activities": [
+    "1950s-1960s 美国和平运动积极参与者",
+    "1962 与 Clark Kerr 等共组 SANE(Committee for a Sane Nuclear Policy)",
+    "1960s 与 MLK 联合发表《越战宣言》",
+    "1970 共组 SANE/华盛顿反核运动",
+    "1968 国际社会主义者大会名誉主席"
+  ],
+  "marriages": [
+    {"name": "Frieda Reichmann", "years": "1930-1942", "note": "精神分析同侪"},
+    {"name": "Grete Bauer", "years": "1944-1950"},
+    {"name": "Annys Freeman", "years": "1953-1977"}
+  ],
+  "children": ["Brigitte", "Monica"]
+}

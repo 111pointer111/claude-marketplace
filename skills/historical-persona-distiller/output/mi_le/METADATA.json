@@ -1,0 +1,93 @@
+{
+  "name": "George A. Miller",
+  "name_pinyin": "mi_le",
+  "name_chinese": "米勒",
+  "full_name": "George Armitage Miller",
+  "dynasty": "20世纪美国心理学 / 认知革命",
+  "lifespan": {
+    "birth": "1920-02-03",
+    "death": "2012-07-22",
+    "age_at_death": 92
+  },
+  "birth_place": "Charleston, West Virginia, USA",
+  "death_place": "Plaistow, New Hampshire, USA",
+  "nationality": "American",
+  "fields": ["认知心理学", "语言心理学", "短时记忆"],
+  "known_for": [
+    "The Magical Number Seven, Plus or Minus Two (1956)",
+    "Plans and the Structure of Behavior (1960, with Galanter and Pribram)",
+    "Language and Perception (1962)",
+    "The Psychology of Communication (1967)",
+    "Words and Things / Words and Concepts (1991)",
+    "认知科学学科共同创始人 (Cognitive Science Society, 1979)",
+    "Princeton-Rockefeller 联合认知科学项目主持",
+    "TOTE (Test-Operate-Test-Exit) 模型"
+  ],
+  "persona_version": "1.0",
+  "distilled_at": "2026-07-31",
+  "distiller_skill": "historical-persona-distiller",
+  "sources_count": 3,
+  "overall_confidence": "high",
+  "default_stage": "切片四 Princeton-Rockefeller 联合认知科学项目 (1967-1990)",
+  "default_stage_confidence": "high",
+  "stages_count": 5,
+  "raw_text_files": [
+    "传记.txt",
+    "引语.txt",
+    "后世评述.txt",
+    "全部语料.txt"
+  ],
+  "dimension_files": [
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "consistency_check.md"
+  ],
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/George_Armitage_Miller",
+    "https://en.wikiquote.org/wiki/George_Armitage_Miller",
+    "https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two"
+  ],
+  "key_relationships": [
+    {"name": "Jerome S. Bruner", "relationship": "Harvard 同事，Plans and the Structure of Behavior 合作圈，认知科学共同创始人"},
+    {"name": "Noam Chomsky", "relationship": "同期 MIT 学术圈，但语言观比 Chomsky 更行为主义传统"},
+    {"name": "Karl H. Pribram", "relationship": "Plans and the Structure of Behavior 合著者"},
+    {"name": "Eleanor Galanter", "relationship": "Plans and the Structure of Behavior 合著者"},
+    {"name": "Donald Broadbent", "relationship": "MIT Lincoln Lab 同事，信息论与心理学交叉"},
+    {"name": "S. S. Stevens", "relationship": "哈佛心理声学实验室合作者，战时噪声研究"},
+    {"name": "J. C. R. Licklider", "relationship": "哈佛博士前导师"},
+    {"name": "Ulric Neisser", "relationship": "认知心理学同僚，1967 Cognitive Psychology 作者"},
+    {"name": "Alfred Bloom", "relationship": "认知科学共同创始人"},
+    {"name": "Mary Susan Stevens", "relationship": "第一任夫人，1952 结婚"},
+    {"name": "Margaret Butler", "relationship": "第二任夫人，1982 结婚"}
+  ],
+  "key_works": [
+    {"year": 1944, "title": "Noise and Your Ear", "type": "book", "note": "with S. S. Stevens and others；军医局公共卫生服务使用"},
+    {"year": 1951, "title": "Information and memory", "type": "phd_thesis", "note": "Harvard PhD thesis"},
+    {"year": 1956, "title": "The Magical Number Seven, Plus or Minus Two", "type": "paper", "note": "Psychological Review，认知心理学经典"},
+    {"year": 1960, "title": "Plans and the Structure of Behavior", "type": "book", "note": "with Galanter and Pribram；提出 TOTE 模型"},
+    {"year": 1962, "title": "Language and Perception", "type": "book"},
+    {"year": 1964, "title": "Mathematics and Psychology", "type": "book"},
+    {"year": 1967, "title": "The Psychology of Communication", "type": "book"},
+    {"year": 1979, "title": "Cognitive Science (founding)", "type": "founding_statement", "note": "与 Bruner、Bloom 共同创立 Cognitive Science Society"},
+    {"year": 1991, "title": "Words and Things / The Science of Words", "type": "book", "note": "词典学与认知心理学结合；The Psychology of Communication 重印版"}
+  ],
+  "modern_honors": [
+    "APA 杰出科学贡献奖 (1956, 1970)",
+    "美国人文与科学院院士 (1960)",
+    "美国国家科学院院士 (1969)",
+    "National Medal of Science (1985)",
+    "APA 终身成就奖 (1991)",
+    "Cognitive Science Society 共同创始人",
+    "Princeton-Rockefeller 联合认知科学项目主持",
+    "CAPS (Center for Advanced Study in the Behavioral Sciences) 长期 Fellow"
+  ],
+  "common_misconceptions": [
+    "\"7±2\" 常被误读为\"短时记忆容量严格等于 7\"——实际 Miller 强调的是 5-9 项范围，±2 是波动区间",
+    "Miller 是认知心理学家，借用计算机作为隐喻，不是计算机科学家",
+    "Miller 与 Chomsky 同期，但 Miller 的语言观比 Chomsky 更行为主义传统，不接受 Chomsky 的转换生成语法",
+    "短时记忆容量 (Miller) 与工作记忆容量 (Baddeley 1974) 不完全等同——后者是包含多个成分的模型",
+    "Miller 逝世地点应为 Plaistow, New Hampshire，不是 Princeton, NJ（部分文献误记）"
+  ]
+}
