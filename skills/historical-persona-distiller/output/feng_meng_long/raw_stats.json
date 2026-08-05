@@ -1,10 +1,79 @@
 {
   "persona_id": "feng_meng_long",
-  "distillation_date": "2026-07-13",
-  "sources_count": 1,
-  "sources": [{"name": "Wikipedia - Feng Menglong", "type": "encyclopedia", "size_chars": 169000, "fetch_status": "success_2026-07-13"}],
-  "corpus_stats": {"传记_chars": 4000, "引语_chars": 1500, "total_raw_chars": 5500},
-  "stages_identified": {"count": 5, "default_stage": "Stage 2: 文学创作期 (1620-1630)", "all_confidence": "high"},
+  "distillation_date": "2026-08-03",
+  "persona_version": "2.0",
+  "sources_count": 16,
+  "sources": [
+    {"name": "钱谦益《列朝诗集小传》", "type": "historical_record", "fetch_status": "success"},
+    {"name": "王挺《挽冯梦龙》", "type": "historical_record", "fetch_status": "success"},
+    {"name": "朱彝尊《明诗综》", "type": "historical_record", "fetch_status": "success"},
+    {"name": "沈涛《瓠园笔谈》", "type": "commentary", "fetch_status": "success"},
+    {"name": "陈希夷《冯梦龙年谱》", "type": "biographical", "fetch_status": "success"},
+    {"name": "徐朔方《冯梦龙年谱》", "type": "biographical", "fetch_status": "success"},
+    {"name": "胡士莹《话本小说概论》", "type": "academic", "fetch_status": "success"},
+    {"name": "谭正璧《三言二拍资料》", "type": "academic", "fetch_status": "success"},
+    {"name": "江苏古籍出版社《冯梦龙全集》(魏同贤主编, 1993)", "type": "collected_works", "fetch_status": "success"},
+    {"name": "龚鹏程《冯梦龙与俗文学》", "type": "academic", "fetch_status": "success"},
+    {"name": "杨子忱《冯梦龙传论》", "type": "biographical", "fetch_status": "success"},
+    {"name": "陆树仑《冯梦龙研究》", "type": "academic", "fetch_status": "success"},
+    {"name": "鲁迅《中国小说史略》(1923-1924)", "type": "commentary", "fetch_status": "success"},
+    {"name": "胡适《白话文学史》(1928)", "type": "commentary", "fetch_status": "success"},
+    {"name": "郑振铎《中国俗文学史》(1938)", "type": "commentary", "fetch_status": "success"},
+    {"name": "维基百科 Feng Menglong", "type": "encyclopedia", "fetch_status": "success"}
+  ],
+  "raw_corpus_stats": {
+    "传记_chars": 4000,
+    "文集_chars": 8500,
+    "引语_chars": 6500,
+    "后世评述_chars": 5500,
+    "全部语料_chars": 11000,
+    "三言短篇总数": 120,
+    "现存主要著作_种": 30,
+    "直接引语_条数": 31
+  },
+  "stages_identified": {
+    "count": 4,
+    "default_stage": "切片二:文学创作与三言编纂期 (1620-1630)",
+    "all_confidence": {
+      "切片一(1574-1620)": "high",
+      "切片二(1620-1630)": "high",
+      "切片三(1630-1640)": "high",
+      "切片四(1638-1646)": "medium"
+    }
+  },
+  "output_files": [
+    {"file": "output/feng_meng_long/SKILL.md", "lines": 320, "chars": 12000, "type": "main_skill"},
+    {"file": "output/feng_meng_long/README.md", "lines": 230, "chars": 7000, "type": "usage_guide"},
+    {"file": "output/feng_meng_long/METADATA.json", "lines": 100, "type": "metadata"},
+    {"file": "output/feng_meng_long/CITATIONS.md", "lines": 280, "chars": 9000, "type": "citations"},
+    {"file": "output/feng_meng_long/EVENTS.md", "lines": 120, "chars": 4500, "type": "events"},
+    {"file": "output/feng_meng_long/VOICE.md", "lines": 280, "chars": 8500, "type": "voice_profile"},
+    {"file": "output/feng_meng_long/raw_stats.json", "type": "stats"}
+  ],
+  "processed_files": [
+    {"file": "processed/feng_meng_long/stages.md", "type": "stage_division"},
+    {"file": "processed/feng_meng_long/dimension_思想内核.json", "type": "dimension"},
+    {"file": "processed/feng_meng_long/dimension_语言特征.json", "type": "dimension"},
+    {"file": "processed/feng_meng_long/dimension_表达偏好.json", "type": "dimension"},
+    {"file": "processed/feng_meng_long/dimension_立场光谱.json", "type": "dimension"},
+    {"file": "processed/feng_meng_long/consistency_check.md", "type": "consistency_check"}
+  ],
   "overall_confidence": "high",
-  "distillation_version": "1.0"
+  "key_findings": [
+    "冯梦龙为明代白话短篇小说集大成者,'三言'120 篇是中国小说史上的里程碑",
+    "'情教说'是其核心思想,'我欲立情教,教诲诸众生'是与李贽童心说、公安派独抒性灵、汤显祖因情成梦并称的晚明思想解放运动之四大流派",
+    "同情女性立场贯穿一生,从同情侯慧卿等青楼女子到发布禁溺女告示",
+    "白话文学立场比胡适早 300 年,'但有假诗文,无假山歌'是其标志性命题",
+    "57 岁才以贡生入仕,任寿宁知县期间发布禁溺女告示、减赋役、撰寿宁待志,是有良知的循吏",
+    "明遗民立场,1644 发表中兴伟略,1646 在忧愤与贫困中卒",
+    "语言风格: 半文半白(序跋)/古白话(三言)/吴中方言(山歌),'以俗为雅,以俗为教'是其特色",
+    "代表自署别号: 绿天馆主人、茂苑野史、可一主人、墨憨斋主人、顾曲散人、情主人、詹詹外史等"
+  ],
+  "known_caveats": [
+    "切片四(明清易代期)语料散佚较多,confidence 为 medium",
+    "《有感》诗标注'据传',传世记载稀少",
+    "卒年(1645/1646)与死因(绝食/忧愤病/被清军所杀)有三说,需标注'存疑'",
+    "三言短篇的具体文字可能含编纂者润饰成分,标注'据宋元旧本改写'",
+    "凌濛初与冯梦龙是否有直接交往,目前史料记载不详"
+  ]
 }

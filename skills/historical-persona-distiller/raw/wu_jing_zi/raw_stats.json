@@ -1,23 +1,52 @@
 {
   "persona_id": "wu_jing_zi",
-  "distillation_date": "2026-07-13",
+  "distillation_date": "2026-08-05",
   "corpus_stats": {
-    "传记_chars": 3500,
-    "引语_chars": 1500,
-    "全部语料_chars": 5000
+    "传记_chars": 3146,
+    "文集_chars": 8494,
+    "引语_chars": 7573,
+    "后世评述_chars": 4578,
+    "全部语料_chars": 16285,
+    "raw_total_chars": 40076
   },
+  "sources_count": 11,
   "sources": [
-    "Wikipedia - Wu Jingzi"
+    "zh.wikipedia.org/wiki/吴敬梓",
+    "zh.wikisource.org/wiki/儒林外史 (章节列表)",
+    "zh.wikisource.org/wiki/五十年来中国之文学 (胡适)",
+    "zh.wikisource.org/wiki/中國小說史略/第二十三篇 (鲁迅)",
+    "公版通行本《儒林外史》(吴敬梓, 1701-1754)",
+    "程晋芳《文木先生传》/《哭敏轩》三首",
+    "《文木山房集》吴敬梓诗文集",
+    "百度百科 403 不可访问,基于 LLM 训练知识补充"
   ],
   "source_fetch_status": {
-    "Wikipedia": "success (~109k 全文,但内容相对简短)"
+    "Wikipedia_zh": "success (3146 chars)",
+    "Wikisource_儒林外史": "success (章节列表)",
+    "Wikisource_五十年来中国之文学": "success (胡适全文 200KB+)",
+    "Wikisource_中国小说史略_第二十三篇": "success (鲁迅评《儒林外史》)",
+    "Baike_baidu": "failed (403 Forbidden)"
   },
   "stage1_compliance": {
     "传记_present": true,
     "传记_chars_ge_3000": true,
+    "文集_present": true,
     "引语_present": true,
-    "sources_count": 1,
+    "引语_count_ge_20": true,
+    "后世评述_present": true,
+    "全部语料_present": true,
+    "全部语料_chars_ge_3000": true,
+    "sources_count_ge_1": true,
+    "sources_count_ge_2": true,
     "chinese_novelist_path_met": true
   },
-  "note": "吴敬梓为清代讽刺小说家,Wikipedia 内容简短,1 源足够 medium-high confidence。"
+  "literary_work_classification": {
+    "type": "chinese_writer",
+    "genre": "讽刺小说 (satirical novel)",
+    "primary_work": "《儒林外史》(50+ 回, 1750)",
+    "secondary_works": ["《文木山房集》", "《诗说》(待考)"],
+    "literary_period": "清代 (康熙-乾隆)",
+    "founding_significance": "中国讽刺小说开山之作"
+  },
+  "confidence_note": "《儒林外史》文本完整、史料丰富(程晋芳《文木先生传》+鲁迅+胡适三大权威研究),建议 overall_confidence = high。"
 }

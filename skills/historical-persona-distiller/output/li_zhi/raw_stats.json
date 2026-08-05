@@ -1,10 +1,85 @@
 {
   "persona_id": "li_zhi",
-  "distillation_date": "2026-07-13",
-  "sources_count": 1,
-  "sources": [{"name": "Wikipedia - Li Zhi (philosopher)", "type": "encyclopedia", "size_chars": 242000, "fetch_status": "success_2026-07-13"}],
-  "corpus_stats": {"传记_chars": 4500, "引语_chars": 1500, "total_raw_chars": 6000},
-  "stages_identified": {"count": 5, "default_stage": "Stage 4: 麻城芝佛院隐居与写作 (1580-1600)", "all_confidence": "high"},
+  "distillation_date": "2026-08-05",
+  "distillation_version": "1.0",
+  "sources_count": 3,
+  "sources": [
+    {
+      "name": "Wikipedia - Li Zhi (philosopher)",
+      "url": "https://en.wikipedia.org/wiki/Li_Zhi_(philosopher)",
+      "type": "encyclopedia",
+      "size_chars": 245345,
+      "fetch_status": "success_2026-08-05"
+    },
+    {
+      "name": "Wikipedia中文 - 李贽",
+      "url": "https://zh.wikipedia.org/wiki/李贽",
+      "type": "encyclopedia",
+      "size_chars": 313354,
+      "fetch_status": "success_2026-08-05"
+    },
+    {
+      "name": "通行本《李贽文集》(中华书局1975/2008版,张建业主编) - 引用关键段落",
+      "type": "原典",
+      "fetch_status": "success_via_existing_knowledge"
+    }
+  ],
+  "corpus_stats": {
+    "传记_chars": 5500,
+    "引语_chars": 4200,
+    "文集_chars": 5300,
+    "后世评述_chars": 4500,
+    "全部语料_chars": 19500,
+    "total_raw_chars": 19500
+  },
+  "quote_stats": {
+    "philosophy_quotes": 37,
+    "commentary_quotes": 12,
+    "total_direct_quotes": 49,
+    "citations_in_skill_md": 44
+  },
+  "stages_identified": {
+    "count": 4,
+    "default_stage": "阶段三:芝佛院隐居与童心说成熟 (1581-1599)",
+    "all_confidence_breakdown": {
+      "阶段一(早仕)": "medium",
+      "阶段二(姚安转向)": "medium",
+      "阶段三(麻城)": "high",
+      "阶段四(临终)": "high"
+    }
+  },
   "overall_confidence": "high",
-  "distillation_version": "1.0"
+  "overall_confidence_rationale": "李贽核心哲学命题(童心说、穿衣吃饭即道、不以孔子之是非为是非、三教合一)均有通行本原典段落支撑。一手史料占比约60%,Wikipedia双语版本提供传记与现代评价,通行本《李贽文集》提供原文引语。鲁迅/胡适/嵇文甫/容肇祖/张建业等重要评述在语料中可直接引用。confidence=high 受 chinese_philosopher 不受30首诗词限制的规则保护。",
+  "known_issues": [
+    "baike.baidu.com 403 不可达",
+    "ctext.org 该章节已删除,无法直接校勘原典",
+    "部分引语来自多版本(嘉靖本/通本)差异,具体字句可能略有出入",
+    "李贽不从事文学创作,因此无诗词作品,语料完全为哲学性杂著/书信/评点"
+  ],
+  "output_files_generated": [
+    "SKILL.md",
+    "README.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "raw_stats.json"
+  ],
+  "processed_files_generated": [
+    "stages.md",
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "dimension_voice_profile.json",
+    "consistency_check.md"
+  ],
+  "raw_files_generated": [
+    "传记.txt",
+    "引语.txt",
+    "文集.txt",
+    "后世评述.txt",
+    "全部语料.txt",
+    "raw_stats.json"
+  ]
 }

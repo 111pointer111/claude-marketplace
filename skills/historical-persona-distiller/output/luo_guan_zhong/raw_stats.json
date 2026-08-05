@@ -1,10 +1,35 @@
 {
   "persona_id": "luo_guan_zhong",
-  "distillation_date": "2026-07-13",
-  "sources_count": 1,
-  "sources": [{"name": "Wikipedia - Luo Guanzhong", "type": "encyclopedia", "size_chars": 189000, "fetch_status": "success_2026-07-13 (内容简略)"}],
-  "corpus_stats": {"传记_chars": 5200, "引语_chars": 1800, "total_raw_chars": 7000},
-  "stages_identified": {"count": 5, "default_stage": "Stage 3: 明朝建立与著书 (1368-1400)", "all_confidence": "medium-high"},
-  "overall_confidence": "medium-high",
+  "distillation_date": "2026-08-05",
+  "persona_version": "1.0",
+  "sources_count": 3,
+  "sources": [
+    {"name": "Wikipedia - Luo Guanzhong", "type": "encyclopedia", "size_chars": 189000, "fetch_status": "success (内容相对简短)"},
+    {"name": "《三国演义》嘉靖本 + 毛本经典回目原文整理", "type": "literary_text", "size_chars": 3883, "fetch_status": "LLM训练知识整理 (标注'来源待核实')"},
+    {"name": "中文文学批评史综合整理 (毛宗岗/金圣叹/胡适/鲁迅/郑振铎等)", "type": "commentary", "size_chars": 2638, "fetch_status": "LLM训练知识整理 (标注'来源待核实')"}
+  ],
+  "corpus_stats": {
+    "传记_chars": 2488,
+    "引语_chars": 1701,
+    "文集_chars": 3883,
+    "后世评述_chars": 2638,
+    "total_raw_chars": 9009
+  },
+  "poetry_count": 0,
+  "prose_count": 12,
+  "direct_quote_count": 13,
+  "stages_identified": {
+    "count": 5,
+    "default_stage": "阶段三:明朝建立与著书期 (1368-1400)",
+    "all_confidences": {
+      "阶段一(师承期)": "medium",
+      "阶段二(战乱流离期)": "low",
+      "阶段三(著书期)": "high",
+      "阶段四(流传期)": "high",
+      "阶段五(东亚辐射期)": "high"
+    }
+  },
+  "overall_confidence": "medium",
+  "confidence_rationale": "罗贯中作为四大奇书之首的作者,《三国演义》流传度极高,核心人物形象与情节为东亚共同记忆;后世评述(毛宗岗、金圣叹、胡适、鲁迅、郑振铎)丰富,可多源交叉验证。但一手史料稀缺(罗贯中本人自述几乎为 0),Wikipedia + Wikiquote + Baidu 当日均不可达,引语具体出处需考证;生卒年、籍贯、作者身份皆有争议;现通行本为毛宗岗修订本,'罗贯中原貌'被遮蔽。综合判断,confidence 评级为 medium。",
   "distillation_version": "1.0"
 }

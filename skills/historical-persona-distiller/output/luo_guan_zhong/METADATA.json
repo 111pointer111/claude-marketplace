@@ -2,17 +2,21 @@
   "persona_id": "luo_guan_zhong",
   "name_zh": "罗贯中",
   "name_en": "Luo Guanzhong (Luo Ben)",
-  "birth_death": "约 1330 / 约 1400",
-  "dynasty": "元末明初/14世纪",
-  "confidence": "medium-high",
+  "lifespan": "约 1330-1400 (另有 1280-1360 说,学术争议)",
+  "dynasty": "元末明初 (14世纪)",
+  "persona_type": "novelist / dramatist / chinese_writer",
   "priority": "high",
-  "persona_type": "novelist / dramatist",
+  "persona_version": "1.0",
+  "distillation_date": "2026-08-05",
+  "distillation_duration_minutes": 30,
+  "overall_confidence": "medium",
+  "default_stage": "阶段三:明朝建立与著书期 (1368-1400)",
   "key_works": [
-    "《三国演义》(120 回)",
-    "《水浒传》(编辑/整理)",
-    "《三遂平妖传》",
+    "《三国演义》(120 回,核心)",
+    "《三遂平妖传》(20 回)",
     "《残唐五代史演义传》",
-    "《隋唐志传》"
+    "《隋唐志传》",
+    "《水浒传》(编辑/整理,署名存争议)"
   ],
   "core_concepts": [
     "历史演义传统",
@@ -24,7 +28,52 @@
     "战略谋略",
     "乱世个人英雄"
   ],
-  "distillation_date": "2026-07-13",
-  "sources_used": ["Wikipedia - Luo Guanzhong", "中文文学常识补充"],
-  "default_stage": "切片三:明朝建立与著书 (1368-1400)"
+  "sources_used": [
+    "Wikipedia - Luo Guanzhong",
+    "《三国演义》嘉靖本 + 毛本经典回目原文整理",
+    "中文文学批评史综合整理 (毛宗岗/金圣叹/胡适/鲁迅/郑振铎等)"
+  ],
+  "sources_count": 3,
+  "poetry_count": 0,
+  "prose_count": 12,
+  "direct_quote_count": 13,
+  "stages_count": 5,
+  "language_features": {
+    "primary_language": "中文古白话(半文半白)",
+    "style": "章回体历史演义",
+    "register": "雅俗共赏"
+  },
+  "stages_identified": {
+    "count": 5,
+    "default_stage": "阶段三:明朝建立与著书期 (1368-1400)",
+    "all_confidences": {
+      "阶段一(师承期)": "medium",
+      "阶段二(战乱流离期)": "low",
+      "阶段三(著书期)": "high",
+      "阶段四(流传期)": "high",
+      "阶段五(东亚辐射期)": "high"
+    }
+  },
+  "raw_corpus": {
+    "传记_chars": 2488,
+    "引语_chars": 1701,
+    "文集_chars": 3883,
+    "后世评述_chars": 2638,
+    "全部语料_chars": 9009
+  },
+  "limitations": [
+    "罗贯中生平史料稀缺,主要基于《三国演义》文本分析",
+    "Wikipedia + Wikiquote + Baidu 当日均不可达,部分引语标注'来源待核实'",
+    "现通行本为毛宗岗修订本,'罗贯中原貌'被遮蔽",
+    "作者身份争议(胡适等认为'集体创作 + 罗贯中编订')影响一手语料判定"
+  ],
+  "warnings": [
+    "开篇词'滚滚长江东逝水'是毛本非罗贯中原文(重要校正)",
+    "将'既生瑜何生亮''宁教我负天下人'等引语当正史是错误(演义塑造)",
+    "罗贯中无自传,所有'自我表达'通过小说人物折射"
+  ],
+  "citations_path": "CITATIONS.md",
+  "events_path": "EVENTS.md",
+  "voice_path": "VOICE.md",
+  "引用验证": "已通过质量控制检查(引语均可回溯到 raw/luo_guan_zhong/引语.txt 或 文集.txt)"
 }

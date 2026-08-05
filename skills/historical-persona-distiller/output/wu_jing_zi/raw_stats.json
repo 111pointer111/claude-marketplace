@@ -1,10 +1,108 @@
 {
   "persona_id": "wu_jing_zi",
-  "distillation_date": "2026-07-13",
-  "sources_count": 1,
-  "sources": [{"name": "Wikipedia - Wu Jingzi", "type": "encyclopedia", "size_chars": 109000, "fetch_status": "success_2026-07-13 (内容简短)"}],
-  "corpus_stats": {"传记_chars": 3500, "引语_chars": 1500, "total_raw_chars": 5000},
-  "stages_identified": {"count": 5, "default_stage": "Stage 3: 贫困创作期 (1733-1750)", "all_confidence": "medium-high"},
-  "overall_confidence": "medium-high",
-  "distillation_version": "1.0"
+  "distillation_date": "2026-08-05",
+  "research_packet_date": "2026-08-05",
+  "distillation_version": "1.0",
+  "sources_count": 7,
+  "sources": [
+    {
+      "name": "zh.wikipedia.org/wiki/吴敬梓",
+      "type": "encyclopedia",
+      "size_chars": 3146,
+      "fetch_status": "success_2026-08-05"
+    },
+    {
+      "name": "zh.wikisource.org/wiki/儒林外史 (章节列表)",
+      "type": "primary_text_index",
+      "size_chars": null,
+      "fetch_status": "success_2026-08-05"
+    },
+    {
+      "name": "zh.wikisource.org/wiki/五十年来中国之文学 (胡适)",
+      "type": "secondary_research",
+      "size_chars": 213823,
+      "fetch_status": "success_2026-08-05"
+    },
+    {
+      "name": "zh.wikisource.org/wiki/中國小說史略/第二十三篇 (鲁迅)",
+      "type": "secondary_research",
+      "size_chars": 67666,
+      "fetch_status": "success_2026-08-05"
+    },
+    {
+      "name": "公版通行本《儒林外史》(吴敬梓, 1701-1754)",
+      "type": "primary_text",
+      "size_chars": 8494,
+      "fetch_status": "经典段落整理"
+    },
+    {
+      "name": "程晋芳《文木先生传》/《哭敏轩》三首",
+      "type": "primary_text_firsthand_biography",
+      "size_chars": null,
+      "fetch_status": "经典段落整理"
+    },
+    {
+      "name": "《文木山房集》吴敬梓诗文集",
+      "type": "primary_text",
+      "size_chars": null,
+      "fetch_status": "散佚较多,部分留存"
+    }
+  ],
+  "corpus_stats": {
+    "传记_chars": 3146,
+    "文集_chars": 8494,
+    "引语_chars": 7573,
+    "后世评述_chars": 4578,
+    "全部语料_chars": 16285,
+    "raw_total_chars_with_supporting_files": 40076,
+    "poetry_count": 0,
+    "poetry_note": "吴敬梓为讽刺小说家,《儒林外史》50+回为主,《文木山房集》诗作散佚较多,本次以散文+经典小说段落+程晋芳诗文为核心语料,按用户要求使用全部语料.txt替代独立诗词包。",
+    "prose_anchor_count": 15,
+    "direct_quote_count": 36,
+    "biography_present": true,
+    "commentary_present": true
+  },
+  "processed_stats": {
+    "stages_count": 4,
+    "dimension_files_count": 5,
+    "dimensions": [
+      "思想内核",
+      "语言特征",
+      "表达偏好",
+      "立场光谱",
+      "一致性校验"
+    ]
+  },
+  "output_stats": {
+    "skill_body_chars": 4500,
+    "skill_body_cjk_chars": 2700,
+    "required_output_files_count": 7,
+    "citation_traceability": "passed"
+  },
+  "stage_confidence": {
+    "阶段一_全椒世家与家道中落_1701_1733": "high",
+    "阶段二_移家金陵与文坛盟主_1733_1740": "high",
+    "阶段三_卖文为生与暖足之痛_1740_1753": "high",
+    "阶段四_客死扬州与身后影响_1754_": "medium"
+  },
+  "confidence_upper_bound": "high",
+  "overall_confidence": "high",
+  "confidence_rationale": "公版《儒林外史》完整传世(50+回)+ 程晋芳第一手传记(《文木先生传》《哭敏轩》)+ 鲁迅/胡适公版研究(《中国小说史略》第二十三篇 + 《五十年来中国之文学》),核心人物、事件、立场均在多个来源中互证。语料规模超 30000 字,远超最低阈值。仅'颜李学派影响'一项来源待核实,已标注不作为核心结论。",
+  "canonical_lifespan": "1701-1754",
+  "lifespan_disputes_flagged": [
+    "具体卒月:1754 年 1 月客死扬州(程晋芳记)",
+    "具体生月:康熙四十年(1701),月份不详"
+  ],
+  "quality_checks": {
+    "all_required_raw_files_present": true,
+    "all_required_processed_files_present": true,
+    "all_required_output_files_present": true,
+    "raw_corpus_ge_3000_chars": true,
+    "skill_body_1500_to_5000_chars": true,
+    "json_parse_check": "passed",
+    "shared_tracking_files_untouched": true,
+    "no_baidu_baike_dependency": true,
+    "wikipedia_zh_alone_sufficient": false,
+    "primary_text_anchored": true
+  }
 }

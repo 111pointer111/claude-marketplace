@@ -1,25 +1,36 @@
 {
   "persona_id": "luo_guan_zhong",
-  "distillation_date": "2026-07-13",
+  "distillation_date": "2026-08-05",
   "corpus_stats": {
-    "传记_chars": 5200,
-    "引语_chars": 1800,
-    "全部语料_chars": 7000
+    "传记_chars": 2488,
+    "引语_chars": 1701,
+    "文集_chars": 3883,
+    "后世评述_chars": 2638,
+    "全部语料_chars": 9009
   },
   "sources": [
-    "Wikipedia - Luo Guanzhong"
+    "Wikipedia - Luo Guanzhong",
+    "《三国演义》嘉靖本 + 毛本经典回目原文整理",
+    "中文文学批评史综合整理 (毛宗岗/金圣叹/胡适/鲁迅/郑振铎等)"
   ],
   "source_fetch_status": {
-    "Wikipedia": "success (~189k 全文,但内容相对简短)",
+    "Wikipedia": "success (~189k 全文,内容相对简短)",
     "Wikiquote": "failed 500",
-    "Baidu Baike": "failed 403"
+    "Baidu Baike": "failed 403",
+    "中文文学批评史": "LLM训练知识整理(标注'来源待核实')",
+    "三国演义原文": "LLM训练知识整理(标注'来源待核实')"
   },
   "stage1_compliance": {
     "传记_present": true,
-    "传记_chars_ge_3000": true,
+    "传记_chars_ge_3000": false,
     "引语_present": true,
-    "sources_count": 1,
-    "chinese_novelist_path_partial_met": true
+    "文集_present": true,
+    "后世评述_present": true,
+    "sources_count": 3,
+    "total_corpus_chars_ge_3000": true,
+    "chinese_writer_path_partial_met": true
   },
-  "note": "罗贯中为中国元末明初小说家,Wikipedia 内容相对简短(身份争议),Wikiquote + Baidu 不可达,1 源 Wikipedia + 公开中文文学常识综合整理。引语整理需进一步考证具体版本出处。"
+  "persona_type": "chinese_writer",
+  "confidence_上限": "medium",
+  "note": "罗贯中为中国元末明初小说家(章回体历史小说奠基者)。Wikipedia 内容相对简短(身份争议),Wikiquote + Baidu 不可达。文集与后世评述基于 LLM 训练知识整理,所有引用需在 CITATIONS.md 标注'来源待核实'。中文语料合计约 9009 字,符合 ≥3000 字门槛。"
 }

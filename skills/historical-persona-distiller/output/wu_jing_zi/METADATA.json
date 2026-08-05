@@ -2,29 +2,74 @@
   "persona_id": "wu_jing_zi",
   "name_zh": "吴敬梓",
   "name_en": "Wu Jingzi (Wu Ching-tzu)",
-  "birth_death": "1701 / 1754-01-11",
-  "dynasty": "清代/18世纪",
-  "confidence": "medium-high",
+  "courtesy_name": "敏轩",
+  "art_names": ["文木", "粒民", "秦淮寓客"],
+  "birth_death": "1701 / 1754",
+  "lifespan_canonical": "1701-1754",
+  "lifespan_disputes": [
+    {
+      "claim": "1701-1754-01-11 (1754 年 1 月客死扬州)",
+      "scholar": "Wikipedia + 程晋芳《文木先生传》",
+      "source": "zh.wikipedia.org/wiki/吴敬梓 + 程晋芳诗文",
+      "status": "canonical"
+    }
+  ],
+  "dynasty": "清代（康熙-乾隆）",
+  "origin": "安徽全椒；移居金陵（今南京）后自称'秦淮寓客'",
+  "confidence": "high",
   "priority": "high",
-  "persona_type": "novelist / satirist",
+  "persona_type": ["novelist", "satirist", "poet", "literary_critic", "cultural_critic"],
+  "persona_version": "1.0",
+  "distillation_date": "2026-08-05",
+  "research_packet_date": "2026-08-05",
+  "sources_used_count": 7,
   "key_works": [
-    "《儒林外史》(56 回)",
-    "范进中举(第三-四回)",
-    "马二先生(第十三回)",
-    "匡超人堕落(第二十回)",
-    "四大奇人(第五十五回)"
+    "《儒林外史》(50+ 回，约 40 万字，200+ 人物)",
+    "《文木山房集》(诗、文若干卷)",
+    "《诗说》若干卷 (待考 / 上海图书馆藏?)"
+  ],
+  "primary_text_anchors": [
+    "《儒林外史》第三回（范进中举）",
+    "《儒林外史》第五回（严监生临终两根灯草）",
+    "《儒林外史》第四十七-四十八回（王玉辉之女殉夫）",
+    "《儒林外史》第三十一-三十三回（杜少卿豪举）",
+    "《儒林外史》第四十-四十一回（沈琼枝卖文）",
+    "《儒林外史》第五十五回（四大奇人）",
+    "程晋芳《文木先生传》",
+    "程晋芳《哭敏轩》三首",
+    "《奉题雅雨大公祖出塞图》"
   ],
   "core_concepts": [
-    "科举制度摧残人性",
-    "士大夫阶层虚伪",
-    "真儒 vs 假儒",
-    "颜李学派礼制批判",
-    "制度而非个人的讽刺",
-    "串联式结构创新",
-    "人格堕落轨迹",
-    "文人不必为官"
+    "反科举立场",
+    "讽刺需彻底——制度而非个人",
+    "真儒 vs 假儒——理想人格向往",
+    "重真情——反礼教虚伪",
+    "自我投射——杜少卿与作者",
+    "冷峻白描+不动声色议论",
+    "串联式群像结构",
+    "市井技艺的肯定"
   ],
-  "distillation_date": "2026-07-13",
-  "sources_used": ["Wikipedia - Wu Jingzi", "中文文学常识补充"],
-  "default_stage": "切片三:贫困创作期 (1733-1750)"
+  "stages_count": 4,
+  "default_stage": "阶段三 卖文为生与暖足之痛（1740-1753）",
+  "stage_confidence": {
+    "阶段一_全椒世家与家道中落_1701_1733": "high",
+    "阶段二_移家金陵与文坛盟主_1733_1740": "high",
+    "阶段三_卖文为生与暖足之痛_1740_1753": "high",
+    "阶段四_客死扬州与身后影响_1754_": "medium"
+  },
+  "direct_quote_count": 36,
+  "poetry_count": 0,
+  "prose_anchor_count": 15,
+  "biography_present": true,
+  "commentary_present": true,
+  "citation_traceability": "passed",
+  "known_limitations": [
+    "《儒林外史》部分段落原文采用通行版本，标点采用现代标点整理，非底本原貌",
+    "颜李学派影响具体联系来源待核实",
+    "《诗说》是否存世仍待考",
+    "早期诗作（《文木山房集》早年篇目）散佚较多",
+    "程晋芳《哭敏轩》三首在不同选本中有少量异文",
+    "百度百科 403 不可访问，部分内容基于 LLM 训练知识补充"
+  ],
+  "overall_confidence": "high"
 }

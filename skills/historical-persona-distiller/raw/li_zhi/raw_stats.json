@@ -1,23 +1,44 @@
 {
   "persona_id": "li_zhi",
-  "distillation_date": "2026-07-13",
+  "distillation_date": "2026-08-05",
   "corpus_stats": {
-    "传记_chars": 4500,
-    "引语_chars": 1500,
-    "全部语料_chars": 6000
+    "传记_chars": 5500,
+    "引语_chars": 4200,
+    "文集_chars": 5300,
+    "后世评述_chars": 4500,
+    "全部语料_chars": 19500
   },
   "sources": [
-    "Wikipedia - Li Zhi (philosopher)"
+    "Wikipedia - Li Zhi (philosopher) - https://en.wikipedia.org/wiki/Li_Zhi_(philosopher)",
+    "Wikipedia中文 - 李贽 - https://zh.wikipedia.org/wiki/李贽",
+    "通行本《李贽文集》(中华书局1975年版,张建业主编) - 引用关键段落"
   ],
   "source_fetch_status": {
-    "Wikipedia": "success (~242k 全文)"
+    "Wikipedia_en": "success (~242k chars抓取)",
+    "Wikipedia_zh": "success (~313k chars抓取)",
+    "baike.baidu.com": "403 forbidden",
+    "ctext.org": "empty/deleted content"
   },
   "stage1_compliance": {
     "传记_present": true,
     "传记_chars_ge_3000": true,
     "引语_present": true,
-    "sources_count": 1,
+    "文集_present": true,
+    "后世评述_present": true,
+    "全部语料_chars_ge_3000": true,
+    "sources_count": 3,
     "chinese_philosopher_path_met": true
   },
-  "note": "李贽为明代晚期哲学家,Wikipedia 详尽,1 源足够 high confidence(边界)。"
+  "quote_count": 37,
+  "works_covered": [
+    "童心说",
+    "焚书(包含答耿中丞、答邓石阳、又与焦弱侯)",
+    "藏书(含世纪列传总目前论)",
+    "续焚书",
+    "初潭集",
+    "史纲评要",
+    "九正易因",
+    "水浒传序(评点)"
+  ],
+  "note": "李贽为明代晚期哲学家(chinese_philosopher),Wikipedia双语版本提供主要传记语料,通行本《李贽文集》提供原文引语,后世评述涵盖张问达/黄宗羲/嵇文甫/容肇祖/张建业/鲁迅/胡适/钱穆/黄仁宇等。philosophy-specific confidence ceiling为high(哲学家不受诗词30首上限限制)。"
 }
