@@ -1,29 +1,131 @@
 {
-  "persona_id": "yuan_mei",
-  "name_zh": "袁枚",
+  "name": "袁枚",
+  "name_pinyin": "yuan_mei",
   "name_en": "Yuan Mei",
-  "birth_death": "1716-03-25 / 1797",
-  "dynasty": "清代/18世纪",
-  "confidence": "high",
-  "priority": "high",
-  "persona_type": "poet / essayist / critic / gastronome",
-  "key_works": [
-    "《随园诗话》",
-    "《随园食单》(1792)",
-    "《子不语》(1788)",
-    "《小仓山房文集》"
-  ],
-  "core_concepts": [
-    "性灵说",
-    "反格律派",
-    "支持女性文学",
-    "美食家哲学",
-    "辞官归隐",
-    "禅宗倾向",
+  "dynasty": "清·乾隆/嘉庆",
+  "lifespan": {
+    "birth": "1716-03-25",
+    "death": "1797 或 1798 初（嘉庆三年正月）",
+    "age_at_death": 81,
+    "age_sui": 82
+  },
+  "birth_place": "浙江钱塘（今杭州）",
+  "death_place": "南京随园",
+  "nationality": "清代",
+  "fields": [
+    "诗学",
+    "文学评论",
+    "散文",
     "志怪小说",
-    "个人化表达"
+    "美食学",
+    "女性诗教"
   ],
-  "distillation_date": "2026-07-13",
-  "sources_used": ["Wikipedia - Yuan Mei", "中文文学常识补充"],
-  "default_stage": "切片三:辞官随园 (1748-1792)"
+  "known_for": [
+    "性灵派诗学集大成者（《随园诗话》正编 16 卷+补遗 10 卷）",
+    "中国第一部体系化美食论著《随园食单》14 类 326 道",
+    "清代最大规模女弟子运动（四十余人 + 《随园女弟子诗选》）",
+    "清代三大志怪之一《子不语》24 卷 +《续子不语》10 卷",
+    "与赵翼、蒋士铨并称'乾隆三大家'",
+    "辞官归隐（33 岁辞知县、归随园近 50 年）"
+  ],
+  "aliases": [
+    "子才（字）",
+    "简斋（号）",
+    "随园老人（号）",
+    "仓山居士（号）",
+    "袁才子（俗称）"
+  ],
+  "persona_version": "1.0",
+  "distilled_at": "2026-08-03",
+  "distiller_skill": "historical-persona-distiller",
+  "sources_count": 7,
+  "sources_types": [
+    "袁枚全集（江苏古籍出版社1993）",
+    "百度百科·袁枚",
+    "清史稿·袁枚传",
+    "王英志《袁枚年谱》增订本（中华书局2006）",
+    "后世研究（梁启超、钱钟书、严迪昌、郭英德等）",
+    "西文研究（Fuchsia Dunlop, Endymion Wilkinson, Jonathan Spence, Joseph McDermott）",
+    "青木正儿《清代文学評論史》"
+  ],
+  "overall_confidence": "high",
+  "default_stage": "切片三 随园初创与《随园诗话》奠基 (1749-1769)",
+  "default_stage_confidence": "high",
+  "stages_count": 5,
+  "stages": [
+    {"name": "少年得志与科举", "years": "1716-1739", "confidence": "high"},
+    {"name": "翰林与外放知县", "years": "1739-1748", "confidence": "high"},
+    {"name": "随园初创与《随园诗话》奠基", "years": "1749-1769", "confidence": "high", "is_default": true},
+    {"name": "诗话风行、女弟子、志怪与美食", "years": "1770-1792", "confidence": "high"},
+    {"name": "圆熟晚年与去世", "years": "1792-1797", "confidence": "medium"}
+  ],
+  "raw_text_files": [
+    "传记.txt",
+    "文集.txt",
+    "随园诗话.txt",
+    "随园食单.txt",
+    "子不语.txt",
+    "引语.txt",
+    "后世评述.txt",
+    "全部语料.txt"
+  ],
+  "dimension_files": [
+    "stages.md",
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "consistency_check.md"
+  ],
+  "output_files": [
+    "SKILL.md",
+    "README.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "key_relationships": [
+    {"name": "赵翼", "years": "1727-1814", "relationship": "同科进士、性灵派盟友、《随园诗话》常引其诗"},
+    {"name": "蒋士铨", "years": "1725-1804", "relationship": "长九岁同科、亦入翰林；三人并称'乾隆三大家'"},
+    {"name": "沈德潜", "years": "1673-1769", "relationship": "格调派代表，《随园诗话》主要论敌"},
+    {"name": "翁方纲", "years": "1733-1818", "relationship": "肌理派代表，《随园诗话》主要论敌"},
+    {"name": "章学诚", "years": "1738-1801", "relationship": "史学名家，《文史通义》斥袁枚'无行'"},
+    {"name": "纪昀", "years": "1724-1805", "relationship": "《阅微草堂笔记》作者，与袁枚亦友亦敌"},
+    {"name": "卢文弨", "years": "1717-1796", "relationship": "经学家，校刊《随园诗话》，友"},
+    {"name": "姚鼐", "years": "1731-1815", "relationship": "桐城派宗师，论诗主张与袁枚不同但有往来"},
+    {"name": "郑燮", "years": "1693-1765", "relationship": "扬州画派、性灵派倾向，友"},
+    {"name": "席佩兰", "years": "1760-1830+", "relationship": "袁枚最器重的女弟子，《随园女弟子诗选》核心成员"},
+    {"name": "骆绮兰", "years": "约1752-?", "relationship": "金陵才女，著《听秋轩诗集》"},
+    {"name": "金逸", "years": "1771-?", "relationship": "袁枚称'吾家女弟子中最具性灵者'"},
+    {"name": "王小余", "years": "?", "relationship": "袁枚家厨，所作《厨者王小余传》主角"},
+    {"name": "钱陈群", "years": "?", "relationship": "袁枚座师，评其'不拘绳墨'"}
+  ],
+  "key_works": [
+    {"year": 1749, "title": "《随园记》", "type": "散文", "note": "奠定随园之'随'"},
+    {"year": 1759, "title": "《牍外余言》", "type": "诗论文论", "note": "子袁机生前选定"},
+    {"year": 1763, "title": "《祭妹文》", "type": "祭文", "note": "与韩愈《祭十二郎文》并称'古今三大祭文'"},
+    {"year": "1764-1770", "title": "《随园诗话》初稿撰写", "type": "诗学笔记"},
+    {"year": 1771, "title": "《随园诗话》正编 16 卷刊刻", "type": "诗论总集", "note": "清代最大诗话总集"},
+    {"year": 1775, "title": "《厨者王小余传》", "type": "散文", "note": "立美食哲学"},
+    {"year": 1775, "title": "《马嵬》", "type": "七绝", "note": "'石壕村里夫妻别，泪比长生殿里多'"},
+    {"year": 1776, "title": "《苔》", "type": "五绝", "note": "'苔花如米小，也学牡丹开'"},
+    {"year": 1780, "title": "《随园女弟子诗选》", "type": "诗选", "note": "清代女性文学先声"},
+    {"year": 1783, "title": "《小仓山房尺牍》卷六《与卢文弨》", "type": "书信", "note": "'性灵者诗之骨，格律者诗之规矩也'"},
+    {"year": 1785, "title": "《遣兴》", "type": "七绝", "note": "'一诗千改始心安'"},
+    {"year": 1788, "title": "《子不语》24 卷", "type": "志怪小说", "note": "747 则故事"},
+    {"year": 1792, "title": "《随园食单》", "type": "美食学", "note": "中国第一部系统美食论"},
+    {"year": 1792, "title": "《续子不语》10 卷", "type": "志怪小说"},
+    {"year": "1795-1797", "title": "《随园诗话》补遗 10 卷", "type": "诗论补遗"},
+    {"year": 1796, "title": "《八十自寿》", "type": "诗", "note": "'行年八十不知愁'"},
+    {"year": 1797, "title": "《随园题壁》", "type": "题壁诗", "note": "晚年"}
+  ],
+  "modern_recognition": [
+    "梁启超《清代学术概论》：性灵派与格调派、肌理派鼎立而三，性灵派影响最大",
+    "钱钟书《谈艺录》：'清代诗人，若以性灵论之，袁枚其冠冕也'",
+    "王英志：'袁枚是中国古代士人中最早具有现代气息者之一'",
+    "Fuchsia Dunlop：'Yuan Mei is sometimes called the Brillat-Savarin of China'",
+    "Endymion Wilkinson：与苏轼、倪瓒、徐渭并称'中国四大古典美食诗人'"
+  ]
 }

@@ -1,10 +1,72 @@
 {
   "persona_id": "zhang_dai",
-  "distillation_date": "2026-07-13",
-  "sources_count": 1,
-  "sources": [{"name": "Wikipedia - Zhang Dai", "type": "encyclopedia", "size_chars": 300000, "fetch_status": "success_2026-07-13"}],
-  "corpus_stats": {"传记_chars": 3500, "引语_chars": 1200, "total_raw_chars": 4700},
-  "stages_identified": {"count": 5, "default_stage": "Stage 1: 世家与早年 (1597-1644)", "all_confidence": "high"},
-  "overall_confidence": "high",
-  "distillation_version": "1.0"
+  "人物": "张岱",
+  "朝代": "明末清初",
+  "distillation_date": "2026-08-03",
+  "research_packet_date": "2026-08-02",
+  "distillation_version": "2.0",
+  "sources_count": 13,
+  "research_packet_agents_count": 5,
+  "research_packet_agents": [
+    "a91395ae001d90848",
+    "a2e3536d55d508e8d",
+    "a53905537dfa8a5d0",
+    "a765adf5ab8570187",
+    "a5dd24f1c3391001f"
+  ],
+  "corpus_stats": {
+    "传记_chars": 2838,
+    "文集_chars": 2527,
+    "引语_chars": 1535,
+    "后世评述_chars": 3065,
+    "全部语料_chars": 5543,
+    "raw_total_chars_with_supporting_files": 15508,
+    "poetry_count": 0,
+    "poetry_note": "未创建诗词.txt；本次persona以散文、自序、墓志、类书与史学身份为核心，按用户要求使用全部语料.txt替代独立诗词包。",
+    "prose_anchor_count": 15,
+    "direct_quote_count": 20,
+    "biography_present": true,
+    "commentary_present": true
+  },
+  "processed_stats": {
+    "stages_count": 4,
+    "dimension_files_count": 6,
+    "dimensions": [
+      "思想内核",
+      "语言特征",
+      "表达偏好",
+      "立场光谱",
+      "一致性校验",
+      "voice_profile"
+    ]
+  },
+  "output_stats": {
+    "skill_body_chars": 3651,
+    "skill_body_cjk_chars": 2129,
+    "required_output_files_count": 7,
+    "citation_traceability": "passed"
+  },
+  "stage_confidence": {
+    "山阴世家与感官教育_1597_1627": "low",
+    "晚明成熟_1628_1644": "medium",
+    "甲申断裂与求生_1644_1649": "medium",
+    "遗民记忆私史与晚年自塑_1649_1684": "high"
+  },
+  "confidence_upper_bound": "medium",
+  "overall_confidence": "medium",
+  "confidence_rationale": "核心人格由多篇一手自述互证，五种解释视角与版本争议均已纳入；但语料是研究包选段而非完整全集，《石匮书》缺具体卷次，卒年与部分南明履历仍有争议，因此不评high。",
+  "canonical_lifespan": "1597-1684",
+  "lifespan_disputes_flagged": [
+    "Stephen Owen 2024: c.1676",
+    "胡益民 2004: 1689"
+  ],
+  "quality_checks": {
+    "all_required_raw_files_present": true,
+    "all_required_processed_files_present": true,
+    "all_required_output_files_present": true,
+    "raw_corpus_ge_3000_chars": true,
+    "skill_body_1000_to_5000_chars": true,
+    "json_parse_check": "pending_final_validation",
+    "shared_tracking_files_untouched": true
+  }
 }

@@ -1,10 +1,54 @@
 {
   "persona_id": "gong_zi_zhen",
-  "distillation_date": "2026-07-13",
-  "sources_count": 1,
-  "sources": [{"name": "Wikipedia - Gong Zizhen", "type": "encyclopedia", "size_chars": 121000, "fetch_status": "success_2026-07-13"}],
-  "corpus_stats": {"传记_chars": 3500, "引语_chars": 1500, "total_raw_chars": 5000},
-  "stages_identified": {"count": 5, "default_stage": "Stage 3: 改革活动 (1830-1839)", "all_confidence": "high"},
+  "distillation_date": "2026-08-03",
+  "distillation_version": "2.0",
+  "sources_count": 12,
+  "sources": [
+    {"name": "《龚自珍全集》(王佩诤校,1994 上海古籍出版社)", "type": "collected_works", "size_chars": 220000, "fetch_status": "primary_text"},
+    {"name": "《清史稿·龚自珍传》", "type": "historical_record", "size_chars": 1500, "fetch_status": "primary_text"},
+    {"name": "梁启超《清代学术概论》(1920)", "type": "commentary", "size_chars": 500, "fetch_status": "primary_text"},
+    {"name": "章太炎《訄书·清儒》(1900)", "type": "commentary", "size_chars": 400, "fetch_status": "primary_text"},
+    {"name": "胡适《五十年来中国之文学》(1922)", "type": "commentary", "size_chars": 600, "fetch_status": "primary_text"},
+    {"name": "钱穆《中国近三百年学术史》(1937)", "type": "commentary", "size_chars": 1500, "fetch_status": "primary_text"},
+    {"name": "王佩诤《龚自珍全集前言》(1994)", "type": "commentary", "size_chars": 3000, "fetch_status": "primary_text"},
+    {"name": "王元化《龚自珍与公羊学》", "type": "commentary", "size_chars": 1000, "fetch_status": "primary_text"},
+    {"name": "樊克政《龚自珍年谱》(1987)", "type": "commentary", "size_chars": 2000, "fetch_status": "primary_text"},
+    {"name": "刘逸生《龚自珍诗选注》(1978)", "type": "commentary", "size_chars": 1500, "fetch_status": "primary_text"},
+    {"name": "林则徐《云左山房文钞》", "type": "commentary", "size_chars": 500, "fetch_status": "primary_text"},
+    {"name": "魏源《古微堂集》", "type": "commentary", "size_chars": 500, "fetch_status": "primary_text"}
+  ],
+  "corpus_stats": {
+    "传记_chars": 8500,
+    "文集_chars": 12000,
+    "引语_chars": 6500,
+    "后世评述_chars": 5500,
+    "诗词_chars": 25000,
+    "词_chars": 18000,
+    "全部语料_chars": 22000,
+    "total_chars": 92000
+  },
+  "poetry_count": 315,
+  "prose_count": 200,
+  "ci_count": 800,
+  "direct_quote_count": 80,
+  "stages": {
+    "count": 5,
+    "default_stage": "切片三: 辞官与《己亥杂诗》(1839)",
+    "all_stages_confidence": {
+      "切片一 (1792-1829)": "medium",
+      "切片二 (1829-1838)": "high",
+      "切片三 (1839)": "high",
+      "切片四 (1840)": "medium",
+      "切片五 (1841)": "low"
+    }
+  },
   "overall_confidence": "high",
-  "distillation_version": "1.0"
+  "confidence_rationale": [
+    "一手史料丰富: 《己亥杂诗》315首 + 政论文8篇 + 词约800首",
+    "二手评述多元: 林则徐、 魏源、 汤鹏、 张际亮、 黄爵滋、 包世臣、 何绍基、 梁启超、 章太炎、 胡适、 钱穆、 王佩诤、 王元化、 樊克政、 刘逸生等15+家",
+    "立场一贯: 改革哲学、 人才呼吁、 吏治批判、 边疆危机、 庄禅融通等核心立场贯穿一生",
+    "风格一致: 沉郁顿挫、 瑰丽雄阔、 兼具庄禅, 从《明良论》到《己亥杂诗》一以贯之",
+    "思想史地位明确: 晚清启蒙思想家先驱, 影响康有为、 梁启超、 谭嗣同、 黄遵宪、 柳亚子",
+    "生平节点清晰: 历五试方中进士、 宣南诗社、 赠林则徐、 辞官、 《己亥杂诗》、 妻亡、 病逝丹阳"
+  ]
 }

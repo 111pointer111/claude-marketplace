@@ -2,28 +2,85 @@
   "persona_id": "zhang_dai",
   "name_zh": "张岱",
   "name_en": "Zhang Dai",
-  "birth_death": "1597-10-05 / 1684",
-  "dynasty": "明末清初/17世纪",
-  "confidence": "high",
+  "courtesy_name": "宗子",
+  "art_names": ["陶庵", "蝶庵", "古剑老人"],
+  "birth_death": "1597 / 1684",
+  "lifespan_canonical": "1597-1684",
+  "lifespan_disputes": [
+    {
+      "claim": "1597-c.1676",
+      "scholar": "Stephen Owen",
+      "source": "Tao'an Mengyi, Harvard University Asia Center, 2024",
+      "status": "scholarly_dispute"
+    },
+    {
+      "claim": "1597-1689",
+      "scholar": "胡益民",
+      "source": "《张岱卒年及〈明史纪事本末〉作者问题再考辨》，《复旦学报》2004年第5期",
+      "status": "scholarly_dispute"
+    }
+  ],
+  "dynasty": "明末清初",
+  "origin": "山阴（今浙江绍兴）；‘蜀人’按祖籍/谱系自称处理",
+  "confidence": "medium",
   "priority": "high",
-  "persona_type": "essayist / historian / memoirist",
+  "persona_type": ["essayist", "memoirist", "historian", "classifier", "ming_loyalist", "social_observer"],
+  "persona_version": "2.0",
+  "distillation_date": "2026-08-03",
+  "research_packet_date": "2026-08-02",
+  "research_packet_agents": [
+    "a91395ae001d90848",
+    "a2e3536d55d508e8d",
+    "a53905537dfa8a5d0",
+    "a765adf5ab8570187",
+    "a5dd24f1c3391001f"
+  ],
+  "sources_used_count": 13,
   "key_works": [
-    "《陶庵梦忆》(8 卷 123 篇)",
+    "《陶庵梦忆》",
     "《西湖梦寻》",
-    "《石匮书》(220 卷 250 万字)",
-    "《夜航船》"
+    "《自为墓志铭》",
+    "《琅嬛文集》",
+    "《夜航船》",
+    "《石匮书》",
+    "《石匮书后集》"
+  ],
+  "primary_text_anchors": [
+    "《陶庵梦忆》自序",
+    "《西湖梦寻》自序",
+    "《自为墓志铭》",
+    "《夜航船》题辞/序",
+    "《陶庵梦忆·湖心亭看雪》"
+  ],
+  "perspective_balance": [
+    "aesthete",
+    "yimin",
+    "historian_classifier",
+    "xiaopin_stylist",
+    "social_world"
   ],
   "core_concepts": [
-    "繁华过眼皆空",
-    "明遗民立场",
-    "小品文大家",
-    "史学使命",
-    "反讽+自我审视",
-    "生活美学",
-    "明清易代创伤",
-    "佛教寄托"
+    "记忆保存",
+    "具体经验反道德妆点",
+    "著述责任与名根",
+    "反英雄自嘲",
+    "小品白描",
+    "分类与私史",
+    "社会世界",
+    "忠诚与求生张力"
   ],
-  "distillation_date": "2026-07-13",
-  "sources_used": ["Wikipedia - Zhang Dai", "中文文学常识补充"],
-  "default_stage": "切片一:世家与早年 (1597-1644)"
+  "stages_count": 4,
+  "default_stage": "遗民记忆、私史与晚年自塑（1649-1684）",
+  "direct_quote_count": 20,
+  "poetry_count": 0,
+  "prose_anchor_count": 15,
+  "citation_traceability": "passed",
+  "known_limitations": [
+    "raw corpus为研究包选段，不是完整《张岱全集》",
+    "《石匮书》未收入可定位卷次原文",
+    "卒年存在约1676、1684、1689学术争议，本卡采用1684",
+    "《自题小像》二行/三行存在异文",
+    "TTS参数仅由书面文本推测"
+  ],
+  "overall_confidence": "medium"
 }

@@ -1,28 +1,135 @@
 {
-  "persona_id": "ji_yun",
-  "name_zh": "纪昀(纪晓岚)",
-  "name_en": "Ji Yun (Ji Xiaolan)",
-  "birth_death": "1724-07-26 / 1805-03-14",
-  "dynasty": "清代/18世纪",
-  "confidence": "high",
-  "priority": "high",
-  "persona_type": "scholar-official / editor / writer",
+  "name": "纪昀",
+  "name_pinyin": "ji_yun",
+  "alternate_pinyin": "ji_xiaolan",
+  "name_en": "Ji Yun / Ji Xiaolan",
+  "dynasty": "清（雍正-嘉庆）",
+  "lifespan": {
+    "birth": "1724-08-03（雍正二年六月十五）",
+    "death": "1805-03-14（嘉庆十年二月十四）",
+    "age_at_death": 80,
+    "age_sui": 82
+  },
+  "birth_place": "直隶献县崔庄对云楼（今河北沧州献县）",
+  "death_place": "北京",
+  "nationality": "清代",
+  "post_humous_name": "文达",
+  "fields": [
+    "目录学",
+    "考据学",
+    "笔记小说",
+    "边塞诗",
+    "散文",
+    "政治（高官）"
+  ],
+  "known_for": [
+    "《四库全书》总纂官（与陆锡熊并任，1773-1782）",
+    "《四库全书总目提要》200卷 — 中国目录学巨著（著录 3,461 种、存目 6,793 种）",
+    "《阅微草堂笔记》24卷 — 清代三大志怪之一，约 1,900+ 则故事",
+    "《乌鲁木齐杂诗》160首 — 清代边塞诗高峰",
+    "乾嘉学派代表人物之一",
+    "与袁枚并称'南袁北纪'",
+    "清代三大志怪小说家之一（与蒲松龄、袁枚并列）",
+    "1789-1800 笔记创作的代表作家"
+  ],
+  "aliases": [
+    "晓岚（字）",
+    "春帆（字）",
+    "石云（号）",
+    "观奕道人（号）",
+    "孤石老人（号）",
+    "河间旧史（号）",
+    "纪文达（谥号）"
+  ],
+  "persona_version": "1.0",
+  "distilled_at": "2026-08-03",
+  "distiller_skill": "historical-persona-distiller",
+  "sources_count": 8,
+  "sources_types": [
+    "《阅微草堂笔记》24卷原文（1789-1800）",
+    "《乌鲁木齐杂诗》160首原文（1771）",
+    "《四库全书总目提要》200卷原文（1782成、1793刊）",
+    "《纪文达公遗集》诗文",
+    "Wikipedia 'Ji Yun' / 'Siku Quanshu'",
+    "百度百科·纪昀",
+    "陈文新《中国笔记小说史》",
+    "鲁迅《中国小说史略》",
+    "Andrew J. Nathan（普林斯顿）",
+    "R. Kent Guy《The Emperor's Four Treasuries》",
+    "孙犁《小说闲谈》",
+    "昭梿《啸亭杂录》（体型考证）"
+  ],
+  "overall_confidence": "high",
+  "default_stage": "切片三 四库全书总纂 (1773-1782)",
+  "default_stage_confidence": "high",
+  "stages_count": 5,
+  "stages": [
+    {"name": "早年与科举", "years": "1724-1754", "confidence": "medium"},
+    {"name": "翰林与谪戍", "years": "1754-1773", "confidence": "high"},
+    {"name": "四库全书总纂", "years": "1773-1782", "confidence": "high", "is_default": true},
+    {"name": "阅微草堂笔记创作", "years": "1789-1800", "confidence": "high"},
+    {"name": "晚年高位", "years": "1782-1805", "confidence": "high"}
+  ],
+  "raw_text_files": [
+    "传记.txt",
+    "文集.txt",
+    "引语.txt",
+    "后世评述.txt",
+    "全部语料.txt"
+  ],
+  "dimension_files": [
+    "stages.md",
+    "dimension_思想内核.json",
+    "dimension_语言特征.json",
+    "dimension_表达偏好.json",
+    "dimension_立场光谱.json",
+    "dimension_voice_profile.json",
+    "consistency_check.md"
+  ],
+  "output_files": [
+    "SKILL.md",
+    "README.md",
+    "EVENTS.md",
+    "VOICE.md",
+    "METADATA.json",
+    "CITATIONS.md",
+    "raw_stats.json"
+  ],
+  "key_relationships": [
+    {"name": "袁枚", "years": "1716-1797", "relationship": "南袁北纪并称，亦友亦并行非对立"},
+    {"name": "蒲松龄", "years": "1640-1715", "relationship": "清代三大志怪并列，笔法各异：蒲以情胜"},
+    {"name": "卢见曾", "years": "1690-1768", "relationship": "两淮盐运使，因漏言案被祸，纪昀因此获罪遣戍"},
+    {"name": "陆锡熊", "years": "1734-1792", "relationship": "并任《四库全书》总纂官"},
+    {"name": "戴震", "years": "1724-1777", "relationship": "四库馆纂修官，思想盟友（共享反理学倾向）"},
+    {"name": "钱大昕", "years": "1728-1804", "relationship": "四库馆纂修官，乾嘉学派盟友"},
+    {"name": "王昶", "years": "1725-1806", "relationship": "四库馆纂修官"},
+    {"name": "翁方纲", "years": "1733-1818", "relationship": "四库馆纂修官，肌理派代表"},
+    {"name": "章学诚", "years": "1738-1801", "relationship": "史学盟友，《文史通义》作者"},
+    {"name": "敦诚", "years": "1741-1808", "relationship": "《四松堂集》作者，纪昀曾题词"},
+    {"name": "乾隆帝", "years": "1711-1799", "relationship": "君臣，侍读学士"},
+    {"name": "嘉庆帝", "years": "1760-1820", "relationship": "君臣，亲政后授协办大学士"},
+    {"name": "和珅", "years": "1750-1799", "relationship": "同朝共事，无显著对抗（电视剧虚构斗嘴）"}
+  ],
   "key_works": [
-    "《阅微草堂笔记》(24 卷,1800)",
-    "《四库全书》总纂",
-    "《乌鲁木齐杂诗》"
+    {"year": 1771, "title": "《乌鲁木齐杂诗》160首", "type": "边塞诗", "note": "含典制10首、风土、物产、自序"},
+    {"year": 1773, "title": "《四库全书》开馆纂修", "type": "总纂事业", "note": "与陆锡熊并任总纂官"},
+    {"year": 1782, "title": "《四库全书总目提要》成书（1793 刊）", "type": "目录学巨著", "note": "200卷，著录3,461种、存目6,793种"},
+    {"year": 1789, "title": "《阅微草堂笔记·滦阳消夏录》6卷", "type": "笔记小说", "note": "笔记创作之始"},
+    {"year": 1791, "title": "《阅微草堂笔记·如是我闻》4卷", "type": "笔记小说"},
+    {"year": 1793, "title": "《阅微草堂笔记·槐西杂志》4卷", "type": "笔记小说"},
+    {"year": 1795, "title": "《阅微草堂笔记·姑妄听之》4卷", "type": "笔记小说"},
+    {"year": 1797, "title": "《阅微草堂笔记·滦阳续录》6卷", "type": "笔记小说"},
+    {"year": 1800, "title": "《阅微草堂笔记》24卷编定", "type": "笔记小说总集", "note": "约1,900+则故事"},
+    {"year": 1796, "title": "为敦诚《四松堂集》题词", "type": "散文"},
+    {"year": 1805, "title": "授协办大学士、加太子少保", "type": "高官任命"},
+    {"year": 1805, "title": "《纪文达公遗集》身后编纂", "type": "诗文合集"}
   ],
-  "core_concepts": [
-    "反程朱理学",
-    "鬼神存而不论",
-    "怀疑精神",
-    "文化保存",
-    "学者隐逸",
-    "清代三大志怪",
-    "学术与政治张力",
-    "志怪讽刺"
-  ],
-  "distillation_date": "2026-07-13",
-  "sources_used": ["Wikipedia - Ji Yun", "中文文学常识补充"],
-  "default_stage": "切片三:四库全书总纂 (1773-1782)"
+  "modern_recognition": [
+    "鲁迅《中国小说史略》评《阅微》：'雍容淡雅，天趣盎然'",
+    "鲁迅评《阅微》与《聊斋》之别：'蒲松龄以传奇法写志怪，纪昀以考据家写志怪'",
+    "陈文新《中国笔记小说史》：将纪昀列为清代笔记小说的代表作家（'学者冷峻派'）",
+    "Andrew J. Nathan（普林斯顿）：'在夹缝中保全了比所毁多得多的文化遗产'",
+    "R. Kent Guy《The Emperor's Four Treasuries》：研究四库全书编纂的英文权威著作",
+    "Wikipedia 'Ji Yun' / 'Siku Quanshu'：基础传记资料"
+  ]
 }
